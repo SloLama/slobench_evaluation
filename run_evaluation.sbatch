@@ -27,4 +27,4 @@ srun \
   singularity exec \
     -B ${models_dir}:/models \
     $container \
-    python evaluation_engine.py --config=$experiment_config --output_file=$output_file
+    python src/evaluation_engine.py --config=$experiment_config --output_file=$output_file
