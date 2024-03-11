@@ -14,7 +14,8 @@ from data_loaders import *
 
 MODELS_DIR = "/ceph/hpc/data/st2311-ponj-users/models"
 SUPPORTED_DATASETS = [
-    "BoolQ"
+    "BoolQ",
+    "MultiRC"
 ]
 
 
@@ -54,6 +55,8 @@ def load_data(dataset, load_ht, load_mt, seed) -> SloBenchDataLoader:
 
     if dataset == "BoolQ":
         data_loader = BoolQDataLoader(load_ht, load_mt, seed)
+    elif dataset == "MultiRC":
+        data_loader = MultiRCDataLoader(load_ht, load_mt, seed)
 
     logging.info(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -67,6 +70,8 @@ def load_data(dataset, load_ht, load_mt, seed) -> SloBenchDataLoader:
 def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
     if dataset == "BoolQ":
         return BoolQEvaluator(f_out)
+    if dataset == "MultiRC":
+        return MultiRCEvaluator(f_out)
 
 
 def get_sampling_and_length_params(dataset):
@@ -85,6 +90,22 @@ def get_sampling_and_length_params(dataset):
         }
 
         length_params = {"min_length": 0, "max_length": 2}
+
+    if dataset == "MultiRC":
+        sampling_params = {
+            "use_greedy": False,
+            "temperature": 1.0,
+            "top_k": 1,
+            "top_p": 1.0,
+            "repetition_penalty": 1.0,
+            "add_BOS": False,
+            "all_probs": False,
+            "compute_logprob": False,
+            "compute_attention_mask": False,
+            "end_strings": ['</s>']
+        }
+
+        length_params = {"min_length": 0, "max_length": 50}
 
     return sampling_params, length_params
 
@@ -136,6 +157,9 @@ def run_engine(config, output_file):
                         length_params=length_params,
                         sampling_params=sampling_params
                     )["sentences"][0]
+
+                    # Remove prompt from prediction
+                    prediction = prediction[len(prompt):]
                 except:
                     warnings.warn(f"An error occured while generating response for the following prompt: {prompt}")
                     prediction = "An error ocured during generation. Invalid prediction."

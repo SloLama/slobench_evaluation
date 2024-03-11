@@ -1,5 +1,10 @@
+import operator
+import warnings
+
 import numpy as np
 import scipy.stats as stats
+
+from sklearn.metrics import f1_score
 
 SUPPORTED_CI_METHODS = [
     "std",
@@ -15,7 +20,7 @@ def std_ci(values, alpha):
     return mean - interval_range, mean + interval_range
 
 
-def quantile_bootstrap_ci(values, alpha, n_samples, seed):
+def mean_quantile_bootstrap_ci(values, alpha, n_samples, seed):
     np.random.seed(seed)
 
     n = len(values)
@@ -32,8 +37,56 @@ def quantile_bootstrap_ci(values, alpha, n_samples, seed):
     return bootstrap_samples[q_low], bootstrap_samples[q_high]
 
 
+def quantile_bootstrap_ci(metric, y_pred, y_true, alpha, n_samples, seed):
+    np.random.seed(seed)
+
+    n = len(y_pred)
+    values = np.empty((n, 2))
+    values[:, 0] = y_pred
+    values[:, 1] = y_true
+    bootstrap_samples = []
+    for _ in range(n_samples):
+        sample_idcs = np.random.choice(np.arange(n), size=n, replace=True)
+        sample = values[sample_idcs, :]
+        bootstrap_samples.append(metric(sample[:, 0], sample[:, 1]))
+
+    bootstrap_samples = np.array(bootstrap_samples)
+    bootstrap_samples.sort()
+    q_low = int(np.floor(n_samples * ((1 - alpha) / 2)))
+    q_high = int(np.ceil(n_samples * ((1 + alpha) / 2)))
+
+    return bootstrap_samples[q_low], bootstrap_samples[q_high]
+
+
 def accuracy(y_pred, y_true):
     return (y_pred == y_true).astype(int)
+
+
+def weighted_similarity(y, majority_labels):
+    weighted_averages = []
+    for labels, weights in zip(y, majority_labels):
+        if len(weights) < len(labels):
+            new_weights = np.zeros(len(labels))
+            new_weights[:len(weights)] = weights
+            weights = new_weights
+
+        positive_labels = labels == 1
+        positive_similarity = np.sum(weights[positive_labels]) / np.sum(positive_labels)
+
+        negative_labels = labels == 0
+        negative_similarity = np.sum(weights[negative_labels]) / np.sum(negative_labels)
+
+        weighted_averages.append(positive_similarity - negative_similarity)
+
+    return np.array(weighted_averages)
+
+
+def exact_match(y_pred, y_true):
+    return np.array([np.all(pred == true) for pred, true in zip(y_pred, y_true)])
+
+
+def per_instance_f1(y_pred, y_true):
+    return np.array([f1_score(pred, truth) for pred, truth in zip(y_pred, y_true)])
 
 
 class SloBenchEvaluator:
@@ -53,7 +106,7 @@ class SloBenchEvaluator:
         if (last_labels is not None) and (not isinstance(last_labels, np.ndarray)):
             last_labels = np.array(last_labels)
 
-        y_pred = self.transform_predictions(predictions)
+        y_pred = self.transform_predictions(predictions, true_labels)
 
         y_pred, y_true, majority_labels, last_labels = self.filter_invalid_predictions(y_pred, true_labels, majority_labels, last_labels)
 
@@ -62,15 +115,31 @@ class SloBenchEvaluator:
             return
 
         if evaluation_params.get("majority_correlation", False) and majority_labels is not None:
-            self.compute_majority_correlation(y_pred, majority_labels, evaluation_params.get("ci", None))
+            self.compute_majority_correlation(y_pred, y_true, majority_labels, evaluation_params.get("ci", None))
 
         if evaluation_params.get("last_example_correlation", False) and last_labels is not None:
-            self.compute_last_example_correlation(y_pred, last_labels, evaluation_params.get("ci", None))
+            self.compute_last_example_correlation(y_pred, y_true, last_labels, evaluation_params.get("ci", None))
 
         self.compute_model_loss(y_pred, y_true, evaluation_params.get("ci", None))
 
-    def compute_metric(self, metric, y1, y2, ci_params):
-        elementwise_results = metric(y1, y2)
+    def compute_metric(self, metric, y_pred, y_true, ci_params):
+        result = metric(y_pred, y_true)
+
+        assert ci_params["type"] == "quantile_bootstrap", f"{ci_params['type']} CI method is not supported for non-mean metrics. Please use quantile bootstrap instead."
+
+        ci = quantile_bootstrap_ci(
+            metric,
+            y_pred,
+            y_true,
+            ci_params.get("alpha", 0.95),
+            ci_params.get("bootstrap_samples", 1000),
+            ci_params.get("seed", 42)
+        )
+
+        return result, ci
+
+    def compute_mean_metric(self, metric, y_pred, y_true, ci_params):
+        elementwise_results = metric(y_pred, y_true)
 
         if ci_params is None:
             ci = None
@@ -84,7 +153,7 @@ class SloBenchEvaluator:
             if ci_type == "std":
                 ci = std_ci(elementwise_results, alpha)
             elif ci_type == "quantile_bootstrap":
-                ci = quantile_bootstrap_ci(
+                ci = mean_quantile_bootstrap_ci(
                     elementwise_results,
                     alpha,
                     ci_params.get("bootstrap_samples", 1000),
@@ -93,16 +162,16 @@ class SloBenchEvaluator:
 
         return np.mean(elementwise_results), ci
 
-    def transform_predictions(self, predictions):
+    def transform_predictions(self, predictions, true_labels):
         pass
 
     def filter_invalid_predictions(self, y_pred, y_true, majority_labels, last_labels):
         pass
 
-    def compute_majority_correlation(self, y_pred, majority_labels, ci_params):
+    def compute_majority_correlation(self, y_pred, y_true, majority_labels, ci_params):
         pass
 
-    def compute_last_example_correlation(self, y_pred, last_labels, ci_params):
+    def compute_last_example_correlation(self, y_pred, y_true, last_labels, ci_params):
         pass
 
     def compute_model_loss(self, y_pred, y_true, ci_params):
@@ -123,10 +192,10 @@ class BoolQEvaluator(SloBenchEvaluator):
         self.f_out.write(f"Number of positive instances: {n_positive} ({100 * (n_positive / n_instances):.2f} %)\n")
         self.f_out.write(f"Number of negative instances: {n_negative} ({100 * (n_negative / n_instances):.2f} %)\n")
 
-    def transform_predictions(self, predictions):
+    def transform_predictions(self, predictions, true_labels):
         def transform_prediction(pred):
-            if len(pred) > 2:
-                pred = pred[-3:]
+            if len(pred) > 3:
+                pred = pred[:3]
 
             if pred.lower() == "da.":
                 return True
@@ -151,7 +220,7 @@ class BoolQEvaluator(SloBenchEvaluator):
 
         return y_pred[valid_predictions], y_true[valid_predictions], majority_labels, last_labels
 
-    def compute_majority_correlation(self, y_pred, majority_labels, ci_params):
+    def compute_majority_correlation(self, y_pred, y_true, majority_labels, ci_params):
         has_majority = [label is not None for label in majority_labels]
         n_majority = sum(has_majority)
         self.f_out.write(f"Number of examples containing majority label: {n_majority} ({100 * (n_majority / len(y_pred))} %)\n")
@@ -159,29 +228,29 @@ class BoolQEvaluator(SloBenchEvaluator):
         y_pred = y_pred[has_majority]
         majority_labels = majority_labels[has_majority]
 
-        cor, ci, = self.compute_metric(accuracy, y_pred, majority_labels, ci_params)
+        cor, ci, = self.compute_mean_metric(accuracy, y_pred, majority_labels, ci_params)
 
         output = f"Percentage of repsonses equal to majority label: {100 * cor:.2f} %"
         if ci is None:
             output += "\n"
         else:
-            output += f" [{100 * ci[0]:.2f} %, {100 * ci[1]:.2f}]\n"
+            output += f" [{100 * ci[0]:.2f} %, {100 * ci[1]:.2f} %]\n"
 
         self.f_out.write(output)
 
-    def compute_last_example_correlation(self, y_pred, last_labels, ci_params):
-        cor, ci, = self.compute_metric(accuracy, y_pred, last_labels, ci_params)
+    def compute_last_example_correlation(self, y_pred, y_true, last_labels, ci_params):
+        cor, ci, = self.compute_mean_metric(accuracy, y_pred, last_labels, ci_params)
 
         output = f"Percentage of repsonses equal to the label of last example: {100 * cor:.2f} %"
         if ci is None:
             output += "\n"
         else:
-            output += f" [{100 * ci[0]:.2f} %, {100 * ci[1]:.2f}]\n"
+            output += f" [{100 * ci[0]:.2f} %, {100 * ci[1]:.2f} %]\n"
 
         self.f_out.write(output)
 
     def compute_model_loss(self, y_pred, y_true, ci_params):
-        loss, ci = self.compute_metric(accuracy, y_pred, y_true, ci_params)
+        loss, ci = self.compute_mean_metric(accuracy, y_pred, y_true, ci_params)
 
         output = f"Model's accuracy: {loss:.4f}"
         if ci is None:
@@ -189,4 +258,238 @@ class BoolQEvaluator(SloBenchEvaluator):
         else:
             output += f" [{ci[0]:.4f}, {ci[1]:.4f}]\n"
 
+        self.f_out.write(output)
+
+
+class MultiRCEvaluator(SloBenchEvaluator):
+    def __init__(self, f_out):
+        super().__init__(f_out)
+
+    def compute_general_stats(self, y_true):
+        self.f_out.write("MultiRC evaluation set stats:\n")
+
+        n_answers = list(map(len, y_true))
+        max_answers = max(n_answers)
+        self.f_out.write(f"Minimal number of answers for a question: {min(n_answers)}\n")
+        self.f_out.write(f"Maximal number of answers for a question: {max_answers}\n")
+        self.f_out.write(f"Average number of answers per question: {np.mean(n_answers):.2f}\n")
+
+        positive_answers = np.zeros(max_answers, dtype=int)
+        missing_answers = np.zeros(max_answers, dtype=int)
+
+        for answer_labels in y_true:
+            q_answers = len(answer_labels)
+            for i, label in enumerate(answer_labels):
+                if label == 1:
+                    positive_answers[i] += 1
+
+            for j in range(q_answers, max_answers):
+                missing_answers[j] += 1
+
+        n_examples = len(y_true)
+        positive_percentages = positive_answers.astype(float) / n_examples
+        missing_percentages = missing_answers.astype(float) / n_examples
+
+        negative_answers = n_examples - positive_answers - missing_answers
+        negative_percentages = 1.0 - positive_percentages - missing_percentages
+
+        self.f_out.write("Per answer statistics:\n")
+        for i in range(max_answers):
+            self.f_out.write(f"Answer {i}: {positive_answers[i]} ({100*positive_percentages[i]:.2f} %) positive examples, {negative_answers[i]} ({100*negative_percentages[i]:.2f} %) negative examples, {missing_answers[i]} ({100*missing_percentages[i]:.2f} %) missing examples.\n")
+
+    def transform_predictions(self, predictions, true_labels):
+        def transform_prediction(example):
+            pred, label = example
+
+            # Avoid errors due to additional spaces at the beginning
+            pred = pred.lstrip()
+
+            # Avoid errors due to (lack) of spaces after commas
+            pred = pred.replace(", ", ",")
+            # Find valid part of the prediction
+            valid_chars = [str(i) for i in range(10)] + [","]
+            valid_idx = 0
+            for c in pred:
+                if c in valid_chars:
+                    valid_idx += 1
+                else:
+                    break
+
+            if valid_idx == 0:
+                return None
+
+            pred = pred[:valid_idx]
+
+            answers = pred.split(",")
+            answers = [int(answer) for answer in answers if answer != ""]
+            if answers == []:
+                return None
+
+            transformed_pred = np.zeros(max(len(label), max(answers) + 1), dtype=int)
+            for answer in answers:
+                transformed_pred[answer] = 1
+
+            return transformed_pred
+
+        return np.array(list(map(transform_prediction, zip(predictions, true_labels))))
+
+    def filter_invalid_predictions(self, y_pred, y_true, majority_labels, last_labels):
+        valid_predictions = [pred is not None for pred in y_pred]
+
+        n_invalid = len(y_pred) - sum(valid_predictions)
+        self.f_out.write(f"Number of invalid predictions: {n_invalid} ({100 * (n_invalid / len(y_pred)):.2f} %)\n")
+
+        if majority_labels is not None:
+            majority_labels = majority_labels[valid_predictions]
+        if last_labels is not None:
+            last_labels = last_labels[valid_predictions]
+
+        y_pred = y_pred[valid_predictions]
+        y_true = y_true[valid_predictions]
+
+        # Add possible answers to true labels, if model predicted the answer number higher than the number of answers
+        for i, (pred, label) in enumerate(zip(y_pred, y_true)):
+            if len(pred) > len(label):
+                new_label = np.zeros(len(pred), dtype=int)
+                new_label[:len(label)] = label
+                y_true[i] = new_label
+
+        # Add possible answers to majority labels
+        if majority_labels is not None:
+            for i, (pred, label) in enumerate(zip(y_pred, majority_labels)):
+                if len(pred) > len(label):
+                    new_label = np.zeros(len(pred))
+                    new_label[:len(label)] = label
+                    majority_labels[i] = new_label
+
+        # Add possible answers to last labels
+        if last_labels is not None:
+            for i, (pred, label) in enumerate(zip(y_pred, last_labels)):
+                if len(pred) > len(label):
+                    new_label = np.zeros(len(pred))
+                    new_label[:len(label)] = label
+                    last_labels[i] = new_label
+
+        return y_pred, y_true, majority_labels, last_labels
+
+    def compute_majority_correlation(self, y_pred, y_true, majority_labels, ci_params):
+        # Transform predictions to match the majority label size
+        new_preds = []
+        for pred, label in zip(y_pred, majority_labels):
+            new_pred = np.zeros(max(len(pred), len(label)), dtype=int)
+            new_pred[:len(pred)] = pred
+            new_preds.append(new_pred)
+        # Compute similarity of predictions and majority labels
+        pred_cor, pred_ci = self.compute_mean_metric(
+            weighted_similarity,
+            np.array(new_preds),
+            majority_labels,
+            ci_params.get("correlation", None)
+        )
+
+        # Transform true labels to match the majority label size
+        new_labels = []
+        for truth, majority in zip(y_true, majority_labels):
+            new_label = np.zeros(max(len(truth), len(majority)), dtype=int)
+            new_label[:len(truth)] = truth
+            new_labels.append(new_label)
+        # Compute similarity of true and majority labels
+        true_cor, true_ci = self.compute_mean_metric(
+            weighted_similarity,
+            np.array(new_labels),
+            majority_labels,
+            ci_params.get("correlation", None)
+        )
+
+        output = f"Weighted similarity of predicted labels to example labels: {pred_cor:.4f}"
+        if pred_ci is None:
+            output += "\n"
+        else:
+            output += f" [{pred_ci[0]:.4f}, {pred_ci[1]:.4f}]\n"
+        self.f_out.write(output)
+
+        output = f"Weighted similarity of true labels to example labels: {true_cor:.4f}"
+        if true_ci is None:
+            output += "\n"
+        else:
+            output += f" [{true_ci[0]:.4f}, {true_ci[1]:.4f}]\n"
+        self.f_out.write(output)
+
+        self.f_out.write(f"Difference between similarity of predicted and true labels: {pred_cor-true_cor:.4f}\n")
+
+    def compute_last_example_correlation(self, y_pred, y_true, last_labels, ci_params):
+        # Transform predictions to match the last label size
+        new_preds = []
+        for pred, label in zip(y_pred, last_labels):
+            new_pred = np.zeros(max(len(pred), len(label)), dtype=int)
+            new_pred[:len(pred)] = pred
+            new_preds.append(new_pred)
+        # Compute similarity of predictions and majority labels
+        pred_cor, pred_ci = self.compute_mean_metric(
+            weighted_similarity,
+            np.array(new_preds),
+            last_labels,
+            ci_params.get("correlation", None)
+        )
+
+        # Transform true labels to match the last label size
+        new_labels = []
+        for truth, last in zip(y_true, last_labels):
+            new_label = np.zeros(max(len(truth), len(last)), dtype=int)
+            new_label[:len(truth)] = truth
+            new_labels.append(new_label)
+        # Compute similarity of true and majority labels
+        true_cor, true_ci = self.compute_mean_metric(
+            weighted_similarity,
+            np.array(new_labels),
+            last_labels,
+            ci_params.get("correlation", None)
+        )
+
+        output = f"Weighted similarity of predicted labels to last example label: {pred_cor:.4f}"
+        if pred_ci is None:
+            output += "\n"
+        else:
+            output += f" [{pred_ci[0]:.4f}, {pred_ci[1]:.4f}]\n"
+        self.f_out.write(output)
+
+        output = f"Weighted similarity of true labels to last example label: {true_cor:.4f}"
+        if true_ci is None:
+            output += "\n"
+        else:
+            output += f" [{true_ci[0]:.4f}, {true_ci[1]:.4f}]\n"
+        self.f_out.write(output)
+
+        self.f_out.write(f"Difference between similarity of predicted and true labels: {pred_cor - true_cor:.4f}\n")
+
+    def compute_model_loss(self, y_pred, y_true, ci_params):
+        # Exact match
+        em, em_ci = self.compute_mean_metric(exact_match, y_pred, y_true, ci_params.get("exact_match", None))
+        output = f"Exact match: {em:.4f}"
+        if em_ci is None:
+            output += "\n"
+        else:
+            output += f" [{em_ci[0]:.4f}, {em_ci[1]:.4f}]\n"
+        self.f_out.write(output)
+
+        # Per question F1
+        f1_q, f1_q_ci = self.compute_mean_metric(per_instance_f1, y_pred, y_true, ci_params.get("per_question_f1", None))
+        output = f"Per question F1-score: {f1_q:.4f}"
+        if f1_q_ci is None:
+            output += "\n"
+        else:
+            output += f" [{f1_q_ci[0]:.4f}, {f1_q_ci[1]:.4f}]\n"
+        self.f_out.write(output)
+
+        # F1 over all answers
+        reshaped_preds, reshaped_true = np.array([], dtype=int), np.array([], dtype=int)
+        for pred, truth in zip(y_pred, y_true):
+            reshaped_preds = np.concatenate([reshaped_preds, pred])
+            reshaped_true = np.concatenate([reshaped_true, truth])
+        f1_a, f1_a_ci = self.compute_metric(f1_score, reshaped_preds, reshaped_true, ci_params.get("all_answers_f1", None))
+        output = f"F1-score over all answers: {f1_a:.4f}"
+        if f1_a_ci is None:
+            output += "\n"
+        else:
+            output += f" [{f1_a_ci[0]:.4f}, {f1_a_ci[1]:.4f}]\n"
         self.f_out.write(output)

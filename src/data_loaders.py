@@ -45,9 +45,12 @@ class SloBenchDataLoader:
         self.train_data, self.eval_data = self._parse_and_merge(train_data_ht, eval_data_ht, train_data_mt, eval_data_mt)
 
     def train_data_size(self):
-        pass
+        return self._compute_size(self.train_data)
 
     def eval_data_size(self):
+        return self._compute_size(self.eval_data)
+
+    def _compute_size(self, dataset):
         pass
 
     def _parse_and_merge(self, train_data_ht, eval_data_ht, train_data_mt, eval_data_mt):
@@ -101,11 +104,8 @@ class BoolQDataLoader(SloBenchDataLoader):
 
         return train_data, eval_data
 
-    def train_data_size(self):
-        return self.train_data.shape[0]
-
-    def eval_data_size(self):
-        return self.eval_data.shape[0]
+    def _compute_size(self, dataset):
+        return dataset.shape[0]
 
     def _eval_iter(self):
         for idx in self.eval_data.index:
@@ -127,3 +127,161 @@ class BoolQDataLoader(SloBenchDataLoader):
             return True
 
         return False
+
+
+class MultiRCDataLoader(SloBenchDataLoader):
+    def __init__(self, human_translated, machine_translated, seed):
+        super().__init__(human_translated, machine_translated, seed)
+        self.dataset = "MultiRC"
+        self.prompt_creator = MultiRCPromptCreator()
+        np.random.seed(seed)
+
+    def _parse_and_merge(self, train_data_ht, eval_data_ht, train_data_mt, eval_data_mt):
+        train_data, eval_data = None, None
+
+        if train_data_ht is not None:
+            train_data = self._parse_df(train_data_ht, train_data)
+            eval_data = self._parse_df(eval_data_ht, eval_data)
+
+        if train_data_mt is not None:
+            train_data = self._parse_df(train_data_ht, train_data)
+            eval_data = self._parse_df(eval_data_ht, eval_data)
+
+        return train_data, eval_data
+
+    @staticmethod
+    def _insert_text(parsed_data, col, idx):
+        for i, value in zip(idx, col):
+            parsed_data[i]["Text"] = value
+
+    @staticmethod
+    def _insert_question(question_idx):
+        def insert_question_with_idx(parsed_data, col, idx):
+            for i, value in zip(idx, col):
+                if isinstance(value, str) or not np.isnan(value):
+                    parsed_data[i]["Questions"][question_idx] = value
+
+        return insert_question_with_idx
+
+    @staticmethod
+    def _insert_answer(question_idx, answer_idx):
+        def insert_answer_with_idx(parsed_data, col, idx):
+            for i, value in zip(idx, col):
+                if isinstance(value, str) or not np.isnan(value):
+                    if question_idx not in parsed_data[i]["Answers"]:
+                        parsed_data[i]["Answers"][question_idx] = {}
+
+                    parsed_data[i]["Answers"][question_idx][answer_idx] = value
+
+        return insert_answer_with_idx
+
+    @staticmethod
+    def _insert_label(question_idx, answer_idx):
+        def insert_label_with_idx(parsed_data, col, idx):
+            for i, value in zip(idx, col):
+                if isinstance(value, str) or not np.isnan(value):
+                    if question_idx not in parsed_data[i]["Labels"]:
+                        parsed_data[i]["Labels"][question_idx] = {}
+
+                    if isinstance(value, str):
+                        value = float(value.replace(",", "."))
+                    parsed_data[i]["Labels"][question_idx][answer_idx] = int(value)
+
+        return insert_label_with_idx
+
+    def _parse_column_name(self, col):
+        parsed = col.lower().split(".")
+        assert parsed[0] == "passage", f"Invalid column name: {col}"
+
+        if parsed[1] == "text":
+            return self._insert_text
+
+        assert parsed[1] == "questions", f"Invalid column name: {col}"
+
+        question_idx = int(parsed[2])
+
+        if parsed[3] == "idx":
+            return None
+
+        if parsed[3] == "question":
+            return self._insert_question(question_idx)
+
+        assert parsed[3] == "answers", f"Invalid column name: {col}"
+
+        answer_idx = int(parsed[4])
+
+        if parsed[5] == "idx":
+            return None
+
+        if parsed[5] == "text":
+            return self._insert_answer(question_idx, answer_idx)
+
+        if parsed[5] == "label":
+            return self._insert_label(question_idx, answer_idx)
+
+    def _parse_df(self, data, parsed_data):
+        data = data.drop("version", axis=1)
+
+        if parsed_data is None:
+            parsed_data = {idx: {"Questions": {}, "Answers": {}, "Labels": {}} for idx in data.index}
+        else:
+            for idx in data.index:
+                parsed_data[idx] = {"Questions": {}, "Answers": {}, "Labels": {}}
+
+        for col in data:
+            insert_fn = self._parse_column_name(col)
+            if insert_fn is not None:
+                insert_fn(parsed_data, data[col], data.index)
+
+        return parsed_data
+
+    def get_eval_labels(self):
+        return self.prompt_creator.get_labels(self._eval_iter())
+
+    def _compute_size(self, dataset):
+        num_examples = 0
+        for instance in dataset.values():
+            num_examples += len(instance["Questions"])
+
+        return num_examples
+
+    def _eval_iter(self):
+        for idx in self.eval_data.keys():
+            for question_idx in self.eval_data[idx]["Questions"].keys():
+                example = {
+                    "idx": (idx, question_idx),
+                    "Text": self.eval_data[idx]["Text"],
+                    "Question": self.eval_data[idx]["Questions"][question_idx],
+                    "Answers": self.eval_data[idx]["Answers"][question_idx],
+                    "Labels": self.eval_data[idx]["Labels"][question_idx]
+                }
+
+                yield example
+
+    def _get_few_shot_examples(self, instance, k):
+        if k == 0:
+            return []
+
+        text_idx, question_idx = instance["idx"]
+
+        candidate_idcs = [idx for idx in self.eval_data[text_idx]["Questions"].keys() if idx != question_idx]
+        sample = np.random.choice(candidate_idcs, size=k, replace=False)
+        examples = [
+            {
+                "Question": self.eval_data[text_idx]["Questions"][idx],
+                "Answers": self.eval_data[text_idx]["Answers"][idx],
+                "Labels": self.eval_data[text_idx]["Labels"][idx]
+            }
+            for idx in sample]
+
+        return examples
+
+    def _get_majority_label(self, example_labels):
+        max_len = max([len(labels) for labels in example_labels])
+        weights = np.zeros(max_len)
+        for labels in example_labels:
+            for i, label in enumerate(labels):
+                if label == 1:
+                    weights[i] += 1
+
+        return weights / len(example_labels)
