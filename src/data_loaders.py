@@ -73,6 +73,12 @@ class SloBenchDataLoader:
             yield prompt, majority_label, last_label
 
     def _eval_iter(self):
+        return self._data_iter(self.eval_data)
+
+    def _train_iter(self):
+        return self._data_iter(self.train_data)
+
+    def _data_iter(self, dataset):
         pass
 
     def _get_few_shot_examples(self, instance, k):
@@ -107,9 +113,9 @@ class BoolQDataLoader(SloBenchDataLoader):
     def _compute_size(self, dataset):
         return dataset.shape[0]
 
-    def _eval_iter(self):
-        for idx in self.eval_data.index:
-            yield self.eval_data.loc[idx]
+    def _data_iter(self, dataset):
+        for idx in dataset.index:
+            yield dataset.loc[idx]
 
     def _get_few_shot_examples(self, instance, k):
         sample = self.train_data.sample(k, random_state=self.rng)
@@ -245,15 +251,15 @@ class MultiRCDataLoader(SloBenchDataLoader):
 
         return num_examples
 
-    def _eval_iter(self):
-        for idx in self.eval_data.keys():
-            for question_idx in self.eval_data[idx]["Questions"].keys():
+    def _data_iter(self, dataset):
+        for idx in dataset.keys():
+            for question_idx in dataset[idx]["Questions"].keys():
                 example = {
                     "idx": (idx, question_idx),
-                    "Text": self.eval_data[idx]["Text"],
-                    "Question": self.eval_data[idx]["Questions"][question_idx],
-                    "Answers": self.eval_data[idx]["Answers"][question_idx],
-                    "Labels": self.eval_data[idx]["Labels"][question_idx]
+                    "Text": dataset[idx]["Text"],
+                    "Question": dataset[idx]["Questions"][question_idx],
+                    "Answers": dataset[idx]["Answers"][question_idx],
+                    "Labels": dataset[idx]["Labels"][question_idx]
                 }
 
                 yield example
