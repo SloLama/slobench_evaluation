@@ -24,6 +24,9 @@ class SloBenchPromptCreator:
     def example_to_prompt_with_label(self, example):
         return None, None
 
+    def label_to_text(self, label):
+        pass
+
     def get_label(self, example):
         pass
 
@@ -82,11 +85,15 @@ class MultiRCPromptCreator(SloBenchPromptCreator):
         for number, answer in example['Answers'].items():
             prompt += f"{number}) {answer}\n"
         prompt += "Pravilni odgovori: "
-        correct_answers = [str(number) for number, label in example['Labels'].items() if label == 1]
+        correct_answers = [str(number) for number, label in example["Labels"].items() if label == 1]
         prompt += ", ".join(correct_answers)
         prompt += "\n\n"
 
         return prompt, self.get_label(example)
+
+    def label_to_text(self, label):
+        correct_answers = [str(number) for number, l in enumerate(label) if l == 1]
+        return ", ".join(correct_answers)
 
     def get_label(self, example):
         labels = [example["Labels"][i] for i in range(len(example["Labels"]))]

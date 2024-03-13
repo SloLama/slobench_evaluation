@@ -150,8 +150,8 @@ class MultiRCDataLoader(SloBenchDataLoader):
             eval_data = self._parse_df(eval_data_ht, eval_data)
 
         if train_data_mt is not None:
-            train_data = self._parse_df(train_data_ht, train_data)
-            eval_data = self._parse_df(eval_data_ht, eval_data)
+            train_data = self._parse_df(train_data_mt, train_data)
+            eval_data = self._parse_df(eval_data_mt, eval_data)
 
         return train_data, eval_data
 
