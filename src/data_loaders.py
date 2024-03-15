@@ -271,7 +271,7 @@ class MultiRCDataLoader(SloBenchDataLoader):
         text_idx, question_idx = instance["idx"]
 
         candidate_idcs = [idx for idx in self.eval_data[text_idx]["Questions"].keys() if idx != question_idx]
-        sample = np.random.choice(candidate_idcs, size=k, replace=False)
+        sample = np.random.choice(candidate_idcs, size=min(k, len(candidate_idcs)), replace=False)
         examples = [
             {
                 "Question": self.eval_data[text_idx]["Questions"][idx],
