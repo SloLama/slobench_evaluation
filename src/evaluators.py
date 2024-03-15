@@ -71,10 +71,16 @@ def weighted_similarity(y, majority_labels):
             weights = new_weights
 
         positive_labels = labels == 1
-        positive_similarity = np.sum(weights[positive_labels]) / np.sum(positive_labels)
+        if np.sum(positive_labels) == 0:
+            positive_similarity = 0
+        else:
+            positive_similarity = np.sum(weights[positive_labels]) / np.sum(positive_labels)
 
         negative_labels = labels == 0
-        negative_similarity = np.sum(weights[negative_labels]) / np.sum(negative_labels)
+        if np.sum(negative_labels) == 0:
+            negative_similarity = 0
+        else:
+            negative_similarity = np.sum(weights[negative_labels]) / np.sum(negative_labels)
 
         weighted_averages.append(positive_similarity - negative_similarity)
 
