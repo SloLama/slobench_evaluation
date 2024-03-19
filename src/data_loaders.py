@@ -291,3 +291,10 @@ class MultiRCDataLoader(SloBenchDataLoader):
                     weights[i] += 1
 
         return weights / len(example_labels)
+
+
+class WSCDataLoader(BoolQDataLoader):
+    def __init__(self, human_translated, machine_translated, seed):
+        super().__init__(human_translated, machine_translated, seed)
+        self.dataset = "WSC"
+        self.prompt_creator = WSCPromptCreator()

@@ -17,7 +17,7 @@
             }
         },
         {
-            "dataset": "BoolQ",
+            "dataset": "MultiRC",
             "human_translated": true,
             "machine_translated": true,
             "seed": 5,
@@ -26,10 +26,39 @@
                 "majority_correlation": true,
                 "last_example_correlation": true,
                 "ci": {
-                    "type": "quantile_bootstrap",
-                    "alpha": 0.95,
-                    "bootstrap_samples": 1000,
-                    "seed": 42
+                    "correlation": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "exact_match": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "per_question_f1": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "all_answers_f1": {
+                        "type": "quantile_bootstrap",
+                        "alpha": 0.95,
+                        "bootstrap_samples": 1000,
+                        "seed": 42
+                    }
+                }
+            }
+        },
+        {
+            "dataset": "WSC",
+            "human_translated": true,
+            "machine_translated": false,
+            "seed": 5,
+            "k": [0, 1, 2, 3],
+            "evaluation": {
+                "majority_correlation": true,
+                "last_example_correlation": true,
+                "ci": {
+                    "type": "std",
+                    "alpha": 0.95
                 }
             }
         }

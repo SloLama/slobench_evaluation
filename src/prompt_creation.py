@@ -106,3 +106,60 @@ class MultiRCPromptCreator(SloBenchPromptCreator):
             labels.append(self.get_label(example))
 
         return labels
+
+
+class WSCPromptCreator(SloBenchPromptCreator):
+    def get_instruction(self, instance):
+        return "Podano je kratko besedilo in vprašanje o povezavi med zaimkom in samostalnikom, označenima z **. Odgovori na vprašanje zgolj z da ali ne.\n\n"
+
+    def example_to_prompt(self, example):
+        prompt = f"{self.modify_text(example)}\n"
+        prompt += f"{self.write_question(example)}\n"
+
+        return prompt
+
+    def example_to_prompt_with_label(self, example):
+        prompt = f"{self.modify_text(example)}\n"
+        prompt += f"{self.write_question(example)}\n"
+        prompt += f"{self.label_to_text(example['label'])}\n\n"
+
+        return prompt, self.get_label(example)
+
+    def modify_text(self, instance):
+        text = instance["text"].split(" ")
+
+        span1_length = len(instance["span1_text"].split(" "))
+        span1_start = instance["span1_index"]
+        span1_end = span1_start + span1_length
+        text[span1_start:span1_end] = self.mark_span(text[span1_start:span1_end])
+        span2_length = len(instance["span2_text"].split(" "))
+        span2_start = instance["span2_index"]
+        span2_end = span2_start + span2_length
+        text[span2_start:span2_end] = self.mark_span(text[span2_start:span2_end])
+
+        return " ".join(text)
+
+    def mark_span(self, span):
+        if span[-1].endswith(",") or span[-1].endswith("."):
+            span[-1] = span[-1][:-1] + "*" + span[-1][-1]
+        else:
+            span[-1] = span[-1] + "*"
+
+        span[0] = "*" + span[0]
+
+        return span
+
+    def write_question(self, instance):
+        return f"Ali se zaimek *{instance['span2_text']}* v zgoraj podanem besedilu navezuje na samostalnik *{instance['span1_text']}*?"
+
+    def label_to_text(self, label):
+        if label:
+            return "Da."
+
+        return "Ne."
+
+    def get_label(self, example):
+        return example["label"]
+
+    def get_labels(self, eval_data):
+        return np.array(eval_data["label"])

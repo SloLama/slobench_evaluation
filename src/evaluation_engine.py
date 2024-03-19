@@ -15,7 +15,8 @@ from data_loaders import *
 MODELS_DIR = "/ceph/hpc/data/st2311-ponj-users/models"
 SUPPORTED_DATASETS = [
     "BoolQ",
-    "MultiRC"
+    "MultiRC",
+    "WSC"
 ]
 
 
@@ -57,6 +58,9 @@ def load_data(dataset, load_ht, load_mt, seed) -> SloBenchDataLoader:
         data_loader = BoolQDataLoader(load_ht, load_mt, seed)
     elif dataset == "MultiRC":
         data_loader = MultiRCDataLoader(load_ht, load_mt, seed)
+    elif dataset == "WSC":
+        warnings.warn("Ignoring config values for machine translated and human translated data as WSC includes only human translated data.")
+        data_loader = WSCDataLoader(human_translated=True, machine_translated=False, seed=seed)
 
     logging.info(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -72,10 +76,12 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
         return BoolQEvaluator(f_out)
     if dataset == "MultiRC":
         return MultiRCEvaluator(f_out)
+    if dataset == "WSC":
+        return WSCEvaluator(f_out)
 
 
 def get_sampling_and_length_params(dataset):
-    if dataset == "BoolQ":
+    if dataset in ["BoolQ", "WSC"]:
         sampling_params = {
             "use_greedy": False,
             "temperature": 1.0,
