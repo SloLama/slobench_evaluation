@@ -5,6 +5,7 @@ import numpy as np
 import scipy.stats as stats
 
 from sklearn.metrics import f1_score
+from Levenshtein import distance as lev_distance
 
 SUPPORTED_CI_METHODS = [
     "std",
@@ -93,6 +94,30 @@ def exact_match(y_pred, y_true):
 
 def per_instance_f1(y_pred, y_true):
     return np.array([f1_score(pred, truth) for pred, truth in zip(y_pred, y_true)])
+
+
+def per_instance_lev_distance(y_pred, y_true):
+    distances = []
+    for pred, truth in zip(y_pred, y_true):
+        pred_split = pred.split()
+        truth_split = truth.split()
+
+        # If truth is longer than prediction, check whether prediction is substring of truth, which is also ok
+        n_candidates = len(truth_split) - len(pred_split) + 1
+        candidates = [" ".join(truth_split[i:i+len(pred_split)]) for i in range(n_candidates)]
+        instance_distance = [lev_distance(pred, candidate) for candidate in candidates]
+
+        # Take the minimal distance among candidates as actual distance (the best matching susbstring)
+        distances.append(min(instance_distance))
+
+    return np.array(distances)
+
+
+def lev_accuracy(y_pred, y_true):
+    distances = per_instance_lev_distance(y_pred, y_true)
+    n_words = [len(pred.split()) for pred in y_pred]
+
+    return np.array([(distance / pred_len) <= 2.0 for distance, pred_len in zip(distances, n_words)])
 
 
 class SloBenchEvaluator:
@@ -514,3 +539,89 @@ class WSCEvaluator(BoolQEvaluator):
         self.f_out.write(f"Number of instances: {n_instances}\n")
         self.f_out.write(f"Number of positive instances: {n_positive} ({100 * (n_positive / n_instances):.2f} %)\n")
         self.f_out.write(f"Number of negative instances: {n_negative} ({100 * (n_negative / n_instances):.2f} %)\n")
+
+
+class WSCGenerativeEvaluator(SloBenchEvaluator):
+    def __init__(self, f_out):
+        super().__init__(f_out)
+
+    def transform_predictions(self, predictions, true_labels):
+        def transform_prediction(example):
+            pred, truth = example
+
+            pred = pred.strip().lower()
+            if pred == "":
+                return None
+
+            pred = pred.split()
+            truth = truth.split()
+            if len(pred) > len(truth):
+                pred = pred[:len(truth)]
+
+            return " ".join(pred)
+
+        return np.array(list(map(transform_prediction, zip(predictions, true_labels))))
+
+    def filter_invalid_predictions(self, y_pred, y_true, majority_labels, last_labels):
+        valid_predictions = [pred is not None for pred in y_pred]
+
+        n_invalid = len(y_pred) - sum(valid_predictions)
+        self.f_out.write(f"Number of invalid predictions: {n_invalid} ({100 * (n_invalid / len(y_pred)):.2f} %)\n")
+
+        y_true = np.array([truth.lower() for truth in y_true])
+        y_true = y_true[valid_predictions]
+
+        if last_labels is not None:
+            last_labels = np.array([label.lower() for label in last_labels])
+            last_labels = last_labels[valid_predictions]
+
+        return y_pred[valid_predictions], y_true, None, last_labels
+
+    def compute_last_example_correlation(self, y_pred, y_true, last_labels, ci_params):
+        split_preds = [pred.split() for pred in y_pred]
+        split_labels = [label.split() for label in last_labels]
+        y_pred = np.array([" ".join(pred[:min(len(pred), len(label))]) for pred, label in zip(split_preds, split_labels)])
+        pred_cor, pred_ci = self.compute_mean_metric(per_instance_lev_distance, y_pred, last_labels, ci_params)
+
+        output = f"Average Levenshtein distance between model's predictions and labels of last example: {pred_cor:.2f}"
+        if pred_ci is None:
+            output += "\n"
+        else:
+            output += f" [{pred_ci[0]:.2f}, {pred_ci[1]:.2f}]\n"
+
+        self.f_out.write(output)
+
+        split_truths = [truth.split() for truth in y_true]
+        y_true = np.array([" ".join(truth[:min(len(truth), len(label))]) for truth, label in zip(split_truths, split_labels)])
+        true_cor, true_ci = self.compute_mean_metric(per_instance_lev_distance, y_true, last_labels, ci_params)
+
+        output = f"Average Levenshtein distance between true labels and labels of last example: {true_cor:.2f}"
+        if true_ci is None:
+            output += "\n"
+        else:
+            output += f" [{true_ci[0]:.2f}, {true_ci[1]:.2f}]\n"
+
+        self.f_out.write(output)
+
+        self.f_out.write(f"Difference between distance of true and predicted labels: {true_cor - pred_cor:.2f}\n")
+
+    def compute_model_loss(self, y_pred, y_true, ci_params):
+        loss, ci = self.compute_mean_metric(per_instance_lev_distance, y_pred, y_true, ci_params)
+
+        output = f"Average Levenshtein distance between model's predictions and true labels: {loss:.2f}"
+        if ci is None:
+            output += "\n"
+        else:
+            output += f" [{ci[0]:.2f}, {ci[1]:.2f}]\n"
+
+        self.f_out.write(output)
+
+        acc, acc_ci = self.compute_mean_metric(lev_accuracy, y_pred, y_true, ci_params)
+
+        output = f"Model's accuracy (based on Levenshtein distance): {100 * acc:.2f} %"
+        if acc_ci is None:
+            output += "\n"
+        else:
+            output += f" [{100 * acc_ci[0]:.2f} %, {100 * acc_ci[1]:.2f} %]\n"
+
+        self.f_out.write(output)

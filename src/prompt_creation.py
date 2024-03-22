@@ -163,3 +163,53 @@ class WSCPromptCreator(SloBenchPromptCreator):
 
     def get_labels(self, eval_data):
         return np.array(eval_data["label"])
+
+
+class WSCGenerativePromptCreator(SloBenchPromptCreator):
+    def get_instruction(self, instance):
+        return "Podano je kratko besedilo in vprašanje, na kateri samostalnik se navezuje zaimek označen z **. Odgovori na vprašanje zgolj z ustreznim samostalnikom.\n\n"
+
+    def example_to_prompt(self, example):
+        prompt = f"{self.modify_text(example)}\n"
+        prompt += f"{self.write_question(example)}\n"
+
+        return prompt
+
+    def modify_text(self, instance):
+        text = instance["text"].split(" ")
+
+        span2_length = len(instance["span2_text"].split(" "))
+        span2_start = instance["span2_index"]
+        span2_end = span2_start + span2_length
+        text[span2_start:span2_end] = self.mark_span(text[span2_start:span2_end])
+
+        return " ".join(text)
+
+    def mark_span(self, span):
+        if span[-1].endswith(",") or span[-1].endswith("."):
+            span[-1] = span[-1][:-1] + "*" + span[-1][-1]
+        else:
+            span[-1] = span[-1] + "*"
+
+        span[0] = "*" + span[0]
+
+        return span
+
+    def write_question(self, instance):
+        return f"Na kateri samostalnik se v zgoraj podanem besedilu navezuje zaimek *{instance['span2_text']}*?"
+
+    def example_to_prompt_with_label(self, example):
+        prompt = f"{self.modify_text(example)}\n"
+        prompt += f"{self.write_question(example)}\n"
+        prompt += f"{example['span1_text']}\n\n"
+
+        return prompt, self.get_label(example)
+
+    def label_to_text(self, label):
+        return label
+
+    def get_label(self, example):
+        return example["span1_text"]
+
+    def get_labels(self, eval_data):
+        return np.array(eval_data["span1_text"])

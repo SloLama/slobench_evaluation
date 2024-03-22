@@ -16,7 +16,8 @@ MODELS_DIR = "/ceph/hpc/data/st2311-ponj-users/models"
 SUPPORTED_DATASETS = [
     "BoolQ",
     "MultiRC",
-    "WSC"
+    "WSC",
+    "WSC_generative"
 ]
 
 
@@ -54,13 +55,18 @@ def load_data(dataset, load_ht, load_mt, seed) -> SloBenchDataLoader:
         warnings.warn(
             f"Loading machine translated data is set to False for {dataset}. Loading only human translated data.")
 
+    if dataset in ["WSC", "WSC_generative"]:
+        warnings.warn(
+            "Ignoring config values for machine translated and human translated data as WSC includes only human translated data.")
+
     if dataset == "BoolQ":
         data_loader = BoolQDataLoader(load_ht, load_mt, seed)
     elif dataset == "MultiRC":
         data_loader = MultiRCDataLoader(load_ht, load_mt, seed)
     elif dataset == "WSC":
-        warnings.warn("Ignoring config values for machine translated and human translated data as WSC includes only human translated data.")
         data_loader = WSCDataLoader(human_translated=True, machine_translated=False, seed=seed)
+    elif dataset == "WSC_generative":
+        data_loader = WSCGenerativeDataLoader(human_translated=True, machine_translated=False, seed=seed)
 
     logging.info(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -78,40 +84,30 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
         return MultiRCEvaluator(f_out)
     if dataset == "WSC":
         return WSCEvaluator(f_out)
+    if dataset == "WSC_generative":
+        return WSCGenerativeEvaluator(f_out)
 
 
 def get_sampling_and_length_params(dataset):
+    sampling_params = {
+        "use_greedy": False,
+        "temperature": 1.0,
+        "top_k": 1,
+        "top_p": 1.0,
+        "repetition_penalty": 1.0,
+        "add_BOS": False,
+        "all_probs": False,
+        "compute_logprob": False,
+        "compute_attention_mask": False,
+        "end_strings": ['</s>']
+    }
+
     if dataset in ["BoolQ", "WSC"]:
-        sampling_params = {
-            "use_greedy": False,
-            "temperature": 1.0,
-            "top_k": 1,
-            "top_p": 1.0,
-            "repetition_penalty": 1.0,
-            "add_BOS": False,
-            "all_probs": False,
-            "compute_logprob": False,
-            "compute_attention_mask": False,
-            "end_strings": ['</s>']
-        }
-
         length_params = {"min_length": 0, "max_length": 2}
-
-    if dataset == "MultiRC":
-        sampling_params = {
-            "use_greedy": False,
-            "temperature": 1.0,
-            "top_k": 1,
-            "top_p": 1.0,
-            "repetition_penalty": 1.0,
-            "add_BOS": False,
-            "all_probs": False,
-            "compute_logprob": False,
-            "compute_attention_mask": False,
-            "end_strings": ['</s>']
-        }
-
+    elif dataset == "MultiRC":
         length_params = {"min_length": 0, "max_length": 50}
+    elif dataset == "WSC_generative":
+        length_params = {"min_length": 0, "max_length": 20}
 
     return sampling_params, length_params
 
@@ -178,7 +174,7 @@ def run_engine(config, output_file):
                 evaluator.evaluate(evaluation_params, predictions, true_labels)
             else:
                 majority_labels = np.array(majority_labels)
-                if k == 1:
+                if k == 1 and dataset != "WSC_generative":
                     last_labels = None
                 else:
                     last_labels = np.array(last_labels)

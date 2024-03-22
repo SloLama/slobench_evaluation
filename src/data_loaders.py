@@ -298,3 +298,29 @@ class WSCDataLoader(BoolQDataLoader):
         super().__init__(human_translated, machine_translated, seed)
         self.dataset = "WSC"
         self.prompt_creator = WSCPromptCreator()
+
+
+class WSCGenerativeDataLoader(SloBenchDataLoader):
+    def __init__(self, human_translated, machine_translated, seed):
+        super().__init__(human_translated, machine_translated, seed)
+        self.dataset = "WSC"
+        self.prompt_creator = WSCGenerativePromptCreator()
+        self.rng = np.random.default_rng(seed)
+
+    def _compute_size(self, dataset):
+        return dataset.shape[0]
+
+    def _parse_and_merge(self, train_data_ht, eval_data_ht, train_data_mt, eval_data_mt):
+        train_data = train_data_ht[train_data_ht["label"]]
+        eval_data = eval_data_ht[eval_data_ht["label"]]
+
+        return train_data, eval_data
+
+    def _data_iter(self, dataset):
+        for idx in dataset.index:
+            yield dataset.loc[idx]
+
+    def _get_few_shot_examples(self, instance, k):
+        sample = self.train_data.sample(k, random_state=self.rng)
+
+        return [sample.loc[idx] for idx in sample.index]
