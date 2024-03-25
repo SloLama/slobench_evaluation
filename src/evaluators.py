@@ -652,3 +652,15 @@ class COPAEvaluator(BoolQEvaluator):
             return None
 
         return np.array(list(map(transform_prediction, predictions)))
+
+
+class RTEEvaluator(BoolQEvaluator):
+    def compute_general_stats(self, y_true):
+        n_instances = len(y_true)
+        n_positive = np.sum(y_true)
+        n_negative = n_instances - n_positive
+
+        self.f_out.write("RTE evaluation set stats:\n")
+        self.f_out.write(f"Number of instances: {n_instances}\n")
+        self.f_out.write(f"Number of positive instances: {n_positive} ({100 * (n_positive / n_instances):.2f} %)\n")
+        self.f_out.write(f"Number of negative instances: {n_negative} ({100 * (n_negative / n_instances):.2f} %)\n")

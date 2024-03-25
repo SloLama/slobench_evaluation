@@ -18,7 +18,8 @@ SUPPORTED_DATASETS = [
     "MultiRC",
     "WSC",
     "WSC_generative",
-    "COPA"
+    "COPA",
+    "RTE"
 ]
 
 
@@ -70,6 +71,8 @@ def load_data(dataset, load_ht, load_mt, seed) -> SloBenchDataLoader:
         data_loader = WSCGenerativeDataLoader(human_translated=True, machine_translated=False, seed=seed)
     elif dataset == "COPA":
         data_loader = COPADataLoader(load_ht, load_mt, seed)
+    elif dataset == "RTE":
+        data_loader = RTEDataLoader(load_ht, load_mt, seed)
 
     logging.info(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -91,6 +94,8 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
         return WSCGenerativeEvaluator(f_out)
     if dataset == "COPA":
         return COPAEvaluator(f_out)
+    if dataset == "RTE":
+        return RTEEvaluator(f_out)
 
 
 def get_sampling_and_length_params(dataset):
@@ -107,7 +112,7 @@ def get_sampling_and_length_params(dataset):
         "end_strings": ['</s>']
     }
 
-    if dataset in ["BoolQ", "WSC"]:
+    if dataset in ["BoolQ", "WSC", "RTE"]:
         length_params = {"min_length": 0, "max_length": 2}
     elif dataset == "MultiRC":
         length_params = {"min_length": 0, "max_length": 50}

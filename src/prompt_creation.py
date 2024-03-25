@@ -248,3 +248,35 @@ class COPAPromptCreator(SloBenchPromptCreator):
 
     def get_labels(self, eval_data):
         return np.array(eval_data["label"])
+
+
+class RTEPromptCreator(SloBenchPromptCreator):
+    def get_instruction(self, instance):
+        return "Podano je besedilo in hipoteza. Povej ali je hipoteza resnična glede na podano besedilo. Odgovori zgolj z da ali ne.\n\n"
+
+    def example_to_prompt(self, example):
+        prompt = f"{example['premise']}\n"
+        prompt += f"{example['hypothesis']} Da ali ne?\n"
+
+        return prompt
+
+    def example_to_prompt_with_label(self, example):
+        prompt = f"{example['premise']}\n"
+        prompt += f"{example['hypothesis']} Da ali ne?\n"
+        prompt += f"{self.label_to_text(self.get_label(example))}\n\n"
+
+        return prompt, self.get_label(example)
+
+    def label_to_text(self, label):
+        if label:
+            return "Da."
+
+        return "Ne."
+
+    def get_label(self, example):
+        label = example["label"]
+
+        return label == "entailment"
+
+    def get_labels(self, eval_data):
+        return np.array([label == "entailment" for label in eval_data["label"]])

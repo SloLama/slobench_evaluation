@@ -368,6 +368,14 @@ class COPADataLoader(SloBenchDataLoader):
         if n_positive == mean:
             return None
         if n_positive > mean:
-            return True
+            return 1
 
-        return False
+        return 0
+
+
+class RTEDataLoader(BoolQDataLoader):
+    def __init__(self, human_translated, machine_translated, seed):
+        super().__init__(human_translated, machine_translated, seed)
+        self.dataset = "RTE"
+        self.prompt_creator = RTEPromptCreator()
+        self.rng = np.random.default_rng(seed)
