@@ -213,3 +213,38 @@ class WSCGenerativePromptCreator(SloBenchPromptCreator):
 
     def get_labels(self, eval_data):
         return np.array(eval_data["span1_text"])
+
+
+class COPAPromptCreator(SloBenchPromptCreator):
+    def get_instruction(self, instance):
+        return f"Podana je trditev ter dve hipotezi. Poišči hipotezo, ki predstavlja {self._complete_instruction(instance)}. Izpiši zgolj številko ustrezne hipoteze (1 ali 2).\n\n"
+
+    def _complete_instruction(self, instance):
+        if instance["question"] == "effect":
+            return "posledico dane trditve"
+        elif instance["question"] == "cause":
+            return "vzrok za dano trditev"
+
+    def example_to_prompt(self, example):
+        prompt = f"{example['premise']}\n"
+        prompt += f"1: {example['choice1']}\n"
+        prompt += f"2: {example['choice2']}\n"
+
+        return prompt
+
+    def example_to_prompt_with_label(self, example):
+        prompt = f"{example['premise']}\n"
+        prompt += f"1: {example['choice1']}\n"
+        prompt += f"2: {example['choice2']}\n"
+        prompt += f"{self.label_to_text(example['label'])}\n\n"
+
+        return prompt, self.get_label(example)
+
+    def label_to_text(self, label):
+        return str(label + 1)
+
+    def get_label(self, example):
+        return example["label"]
+
+    def get_labels(self, eval_data):
+        return np.array(eval_data["label"])

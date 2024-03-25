@@ -625,3 +625,30 @@ class WSCGenerativeEvaluator(SloBenchEvaluator):
             output += f" [{100 * acc_ci[0]:.2f} %, {100 * acc_ci[1]:.2f} %]\n"
 
         self.f_out.write(output)
+
+
+class COPAEvaluator(BoolQEvaluator):
+    def compute_general_stats(self, y_true):
+        n_instances = len(y_true)
+        n_positive = np.sum(y_true)
+        n_negative = n_instances - n_positive
+
+        self.f_out.write("COPA evaluation set stats:\n")
+        self.f_out.write(f"Number of instances: {n_instances}\n")
+        self.f_out.write(f"Number of instances where choice 1 is correct: {n_negative} ({100 * (n_negative / n_instances):.2f} %)\n")
+        self.f_out.write(f"Number of instances where choice 2 is correct: {n_positive} ({100 * (n_positive / n_instances):.2f} %)\n")
+
+    def transform_predictions(self, predictions, true_labels):
+        def transform_prediction(pred):
+            if len(pred) > 1:
+                pred = pred[:1]
+
+            if pred == "1":
+                return 0
+
+            if pred == "2":
+                return 1
+
+            return None
+
+        return np.array(list(map(transform_prediction, predictions)))

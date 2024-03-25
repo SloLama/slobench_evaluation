@@ -324,3 +324,50 @@ class WSCGenerativeDataLoader(SloBenchDataLoader):
         sample = self.train_data.sample(k, random_state=self.rng)
 
         return [sample.loc[idx] for idx in sample.index]
+
+
+class COPADataLoader(SloBenchDataLoader):
+    def __init__(self, human_translated, machine_translated, seed):
+        super().__init__(human_translated, machine_translated, seed)
+        self.dataset = "COPA"
+        self.prompt_creator = COPAPromptCreator()
+        self.rng = np.random.default_rng(seed)
+
+    def _compute_size(self, dataset):
+        return dataset.shape[0]
+
+    def _parse_and_merge(self, train_data_ht, eval_data_ht, train_data_mt, eval_data_mt):
+        if self.ht:
+            train_data = train_data_ht
+            eval_data = eval_data_ht
+
+            if self.mt:
+                train_data = pd.concat([train_data, train_data_mt], axis=0)
+                eval_data = pd.concat([eval_data, eval_data_mt], axis=0)
+
+        else:
+            train_data = train_data_mt
+            eval_data = eval_data_mt
+
+        return train_data, eval_data
+
+    def _data_iter(self, dataset):
+        for idx in dataset.index:
+            yield dataset.loc[idx]
+
+    def _get_few_shot_examples(self, instance, k):
+        sample = self.train_data[self.train_data["question"] == instance["question"]].sample(k, random_state=self.rng)
+
+        return [sample.loc[idx] for idx in sample.index]
+
+    def _get_majority_label(self, example_labels):
+        k = len(example_labels)
+
+        n_positive = sum(example_labels)
+        mean = k / 2
+        if n_positive == mean:
+            return None
+        if n_positive > mean:
+            return True
+
+        return False
