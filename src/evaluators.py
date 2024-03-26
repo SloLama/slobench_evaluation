@@ -684,7 +684,7 @@ class CBEvaluator(BoolQEvaluator):
         self.f_out.write(
             f"Number of contradiction instances: {n_contradiction} ({100 * (n_contradiction / n_instances):.2f} %)\n")
         self.f_out.write(
-            f"Number of neutral instances: {n_neutral} ({100 * (n_contradiction / n_instances):.2f} %)\n")
+            f"Number of neutral instances: {n_neutral} ({100 * (n_neutral / n_instances):.2f} %)\n")
 
     def transform_predictions(self, predictions, true_labels):
         def transform_prediction(pred):
