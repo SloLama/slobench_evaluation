@@ -677,7 +677,7 @@ class CBEvaluator(BoolQEvaluator):
         n_contradiction = np.sum(y_true == 1)
         n_neutral = n_instances - n_entailment - n_contradiction
 
-        self.f_out.write("RTE evaluation set stats:\n")
+        self.f_out.write("CB evaluation set stats:\n")
         self.f_out.write(f"Number of instances: {n_instances}\n")
         self.f_out.write(
             f"Number of entailment instances: {n_entailment} ({100 * (n_entailment / n_instances):.2f} %)\n")
