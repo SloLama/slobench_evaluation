@@ -280,3 +280,51 @@ class RTEPromptCreator(SloBenchPromptCreator):
 
     def get_labels(self, eval_data):
         return np.array([label == "entailment" for label in eval_data["label"]])
+
+
+class CBPromptCreator(SloBenchPromptCreator):
+    def get_instruction(self, instance):
+        return 'Podano je besedilo, hipoteza ter vprašanje o resničnosti te hipoteze. Odgovori z "Drži", če je hipoteza resnična glede na podano besedilo, z "Ne drži", če hipoteza ni resnična ter z "Ne vemo", če se iz besedila ne da sklepati o resničnosti hipoteze.\n\n'
+
+    def example_to_prompt(self, example):
+        prompt = f"{example['premise']}\n"
+        prompt += f"{example['hypothesis'].rstrip('.')}. Drži ali ne drži?\n"
+
+        return prompt
+
+    def example_to_prompt_with_label(self, example):
+        prompt = f"{example['premise']}\n"
+        prompt += f"{example['hypothesis'].rstrip('.')}. Drži ali ne drži?\n"
+        prompt += f"{self.label_to_text(example['label'])}\n\n"
+
+        return prompt, self.get_label(example)
+
+    def label_to_text(self, label):
+        if label == "entailment":
+            return "Drži."
+        if label == "contradiction":
+            return "Ne drži."
+
+        return "Ne vemo."
+
+    def get_label(self, example):
+        label = example["label"]
+
+        if label == "entailment":
+            return 0
+        if label == "contradiction":
+            return 1
+
+        return 2
+
+    def get_labels(self, eval_data):
+        labels = []
+        for label in eval_data["label"]:
+            if label == "entailment":
+                labels.append(0)
+            elif label == "contradiction":
+                labels.append(1)
+            else:
+                labels.append(2)
+
+        return np.array(labels)

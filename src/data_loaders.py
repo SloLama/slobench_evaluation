@@ -379,3 +379,23 @@ class RTEDataLoader(BoolQDataLoader):
         self.dataset = "RTE"
         self.prompt_creator = RTEPromptCreator()
         self.rng = np.random.default_rng(seed)
+
+
+class CBDataLoader(BoolQDataLoader):
+    def __init__(self, human_translated, machine_translated, seed):
+        super().__init__(human_translated, machine_translated, seed)
+        self.dataset = "CB"
+        self.prompt_creator = CBPromptCreator()
+        self.rng = np.random.default_rng(seed)
+
+    def _get_majority_label(self, example_labels):
+        label_counts = np.zeros(3, dtype=int)
+        for label in example_labels:
+            label_counts[label] += 1
+
+        n_max = sum(label_counts == max(label_counts))
+
+        if n_max == 1:
+            return np.argmax(label_counts)
+
+        return None

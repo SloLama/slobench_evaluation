@@ -96,6 +96,10 @@ def per_instance_f1(y_pred, y_true):
     return np.array([f1_score(pred, truth) for pred, truth in zip(y_pred, y_true)])
 
 
+def multiclass_f1(y_pred, y_true):
+    return f1_score(y_true, y_pred, average="macro")
+
+
 def per_instance_lev_distance(y_pred, y_true):
     distances = []
     for pred, truth in zip(y_pred, y_true):
@@ -664,3 +668,82 @@ class RTEEvaluator(BoolQEvaluator):
         self.f_out.write(f"Number of instances: {n_instances}\n")
         self.f_out.write(f"Number of positive instances: {n_positive} ({100 * (n_positive / n_instances):.2f} %)\n")
         self.f_out.write(f"Number of negative instances: {n_negative} ({100 * (n_negative / n_instances):.2f} %)\n")
+
+
+class CBEvaluator(BoolQEvaluator):
+    def compute_general_stats(self, y_true):
+        n_instances = len(y_true)
+        n_entailment = np.sum(y_true == 0)
+        n_contradiction = np.sum(y_true == 1)
+        n_neutral = n_instances - n_entailment - n_contradiction
+
+        self.f_out.write("RTE evaluation set stats:\n")
+        self.f_out.write(f"Number of instances: {n_instances}\n")
+        self.f_out.write(
+            f"Number of entailment instances: {n_entailment} ({100 * (n_entailment / n_instances):.2f} %)\n")
+        self.f_out.write(
+            f"Number of contradiction instances: {n_contradiction} ({100 * (n_contradiction / n_instances):.2f} %)\n")
+        self.f_out.write(
+            f"Number of neutral instances: {n_neutral} ({100 * (n_contradiction / n_instances):.2f} %)\n")
+
+    def transform_predictions(self, predictions, true_labels):
+        def transform_prediction(pred):
+            if pred[:5].lower() == "drži.":
+                return 0
+            if pred[:8].lower() == "ne drži.":
+                return 1
+            if pred[:8].lower() == "ne vemo.":
+                return 2
+
+            return None
+
+        return np.array(list(map(transform_prediction, predictions)))
+
+    def compute_majority_correlation(self, y_pred, y_true, majority_labels, ci_params):
+        has_majority = [label is not None for label in majority_labels]
+        n_majority = sum(has_majority)
+        self.f_out.write(f"Number of examples containing majority label: {n_majority} ({100 * (n_majority / len(y_pred))} %)\n")
+
+        y_pred = y_pred[has_majority]
+        majority_labels = majority_labels[has_majority]
+
+        cor, ci, = self.compute_mean_metric(accuracy, y_pred, majority_labels, ci_params.get("correlation", None))
+
+        output = f"Percentage of repsonses equal to majority label: {100 * cor:.2f} %"
+        if ci is None:
+            output += "\n"
+        else:
+            output += f" [{100 * ci[0]:.2f} %, {100 * ci[1]:.2f} %]\n"
+
+        self.f_out.write(output)
+
+    def compute_last_example_correlation(self, y_pred, y_true, last_labels, ci_params):
+        cor, ci, = self.compute_mean_metric(accuracy, y_pred, last_labels, ci_params.get("correlation", None))
+
+        output = f"Percentage of repsonses equal to the label of last example: {100 * cor:.2f} %"
+        if ci is None:
+            output += "\n"
+        else:
+            output += f" [{100 * ci[0]:.2f} %, {100 * ci[1]:.2f} %]\n"
+
+        self.f_out.write(output)
+
+    def compute_model_loss(self, y_pred, y_true, ci_params):
+        loss, ci = self.compute_mean_metric(accuracy, y_pred, y_true, ci_params.get("accuracy", None))
+
+        output = f"Model's accuracy: {loss:.4f}"
+        if ci is None:
+            output += "\n"
+        else:
+            output += f" [{ci[0]:.4f}, {ci[1]:.4f}]\n"
+
+        self.f_out.write(output)
+
+        f1_loss, f1_ci = self.compute_metric(multiclass_f1, y_pred, y_true, ci_params.get("f1", None))
+        output = f"Average F1-score over labels: {f1_loss:.4f}"
+        if f1_ci is None:
+            output += "\n"
+        else:
+            output += f" [{f1_ci[0]:.4f}, {f1_ci[1]:.4f}]\n"
+
+        self.f_out.write(output)

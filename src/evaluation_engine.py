@@ -19,7 +19,8 @@ SUPPORTED_DATASETS = [
     "WSC",
     "WSC_generative",
     "COPA",
-    "RTE"
+    "RTE",
+    "CB"
 ]
 
 
@@ -73,6 +74,8 @@ def load_data(dataset, load_ht, load_mt, seed) -> SloBenchDataLoader:
         data_loader = COPADataLoader(load_ht, load_mt, seed)
     elif dataset == "RTE":
         data_loader = RTEDataLoader(load_ht, load_mt, seed)
+    elif dataset == "CB":
+        data_loader = CBDataLoader(load_ht, load_mt, seed)
 
     logging.info(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -96,6 +99,8 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
         return COPAEvaluator(f_out)
     if dataset == "RTE":
         return RTEEvaluator(f_out)
+    if dataset == "CB":
+        return CBEvaluator(f_out)
 
 
 def get_sampling_and_length_params(dataset):
@@ -120,6 +125,8 @@ def get_sampling_and_length_params(dataset):
         length_params = {"min_length": 0, "max_length": 20}
     elif dataset == "COPA":
         length_params = {"min_length": 0, "max_length": 1}
+    elif dataset == "CB":
+        length_params = {"min_length": 0, "max_length": 10}
 
     return sampling_params, length_params
 
