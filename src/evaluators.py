@@ -699,6 +699,19 @@ class CBEvaluator(BoolQEvaluator):
 
         return np.array(list(map(transform_prediction, predictions)))
 
+    def filter_invalid_predictions(self, y_pred, y_true, majority_labels, last_labels):
+        valid_predictions = [pred is not None for pred in y_pred]
+
+        n_invalid = len(y_pred) - sum(valid_predictions)
+        self.f_out.write(f"Number of invalid predictions: {n_invalid} ({100 * (n_invalid / len(y_pred)):.2f} %)\n")
+
+        if majority_labels is not None:
+            majority_labels = majority_labels[valid_predictions]
+        if last_labels is not None:
+            last_labels = last_labels[valid_predictions]
+
+        return y_pred[valid_predictions].astype(int), y_true[valid_predictions], majority_labels, last_labels
+
     def compute_majority_correlation(self, y_pred, y_true, majority_labels, ci_params):
         has_majority = [label is not None for label in majority_labels]
         n_majority = sum(has_majority)
