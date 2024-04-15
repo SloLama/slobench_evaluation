@@ -4,7 +4,7 @@ import warnings
 import numpy as np
 import scipy.stats as stats
 
-from sklearn.metrics import f1_score
+from sklearn.metrics import f1_score, precision_score, recall_score
 from Levenshtein import distance as lev_distance
 
 SUPPORTED_CI_METHODS = [
@@ -49,10 +49,13 @@ def quantile_bootstrap_ci(metric, y_pred, y_true, alpha, n_samples, seed):
     for _ in range(n_samples):
         sample_idcs = np.random.choice(np.arange(n), size=n, replace=True)
         sample = values[sample_idcs, :]
-        bootstrap_samples.append(metric(sample[:, 0], sample[:, 1]))
+        sample_result = metric(sample[:, 0], sample[:, 1])
+        if isinstance(sample_result, np.ndarray):
+            sample_result = sample_result.tolist()
+        bootstrap_samples.append(sample_result)
 
     bootstrap_samples = np.array(bootstrap_samples)
-    bootstrap_samples.sort()
+    bootstrap_samples.sort(axis=0)
     q_low = int(np.floor(n_samples * ((1 - alpha) / 2)))
     q_high = int(np.ceil(n_samples * ((1 + alpha) / 2)))
 
@@ -98,6 +101,27 @@ def per_instance_f1(y_pred, y_true):
 
 def multiclass_f1(y_pred, y_true):
     return f1_score(y_true, y_pred, average="macro")
+
+
+def per_class_f1(labels):
+    def compute_f1(y_pred, y_true):
+        return f1_score(y_true, y_pred, labels=labels, average=None)
+
+    return compute_f1
+
+
+def per_class_precision(labels):
+    def compute_precision(y_pred, y_true):
+        return precision_score(y_true, y_pred, labels=labels, average=None)
+
+    return compute_precision
+
+
+def per_class_recall(labels):
+    def compute_recall(y_pred, y_true):
+        return recall_score(y_true, y_pred, labels=labels, average=None)
+
+    return compute_recall
 
 
 def per_instance_lev_distance(y_pred, y_true):
@@ -758,5 +782,99 @@ class CBEvaluator(BoolQEvaluator):
             output += "\n"
         else:
             output += f" [{f1_ci[0]:.4f}, {f1_ci[1]:.4f}]\n"
+
+        self.f_out.write(output)
+
+
+class NLIEvaluator(CBEvaluator):
+    def compute_general_stats(self, y_true):
+        n_instances = len(y_true)
+        n_entailment = np.sum(y_true == 1)
+        n_contradiction = np.sum(y_true == 0)
+        n_neutral = n_instances - n_entailment - n_contradiction
+
+        self.f_out.write("NLI evaluation set stats:\n")
+        self.f_out.write(f"Number of instances: {n_instances}\n")
+        self.f_out.write(
+            f"Number of entailment instances: {n_entailment} ({100 * (n_entailment / n_instances):.2f} %)\n")
+        self.f_out.write(
+            f"Number of contradiction instances: {n_contradiction} ({100 * (n_contradiction / n_instances):.2f} %)\n")
+        self.f_out.write(
+            f"Number of neutral instances: {n_neutral} ({100 * (n_neutral / n_instances):.2f} %)\n")
+
+    def transform_predictions(self, predictions, true_labels):
+        def transform_prediction(pred):
+            if pred[:9].lower() == "sosledje.":
+                return 1
+            if pred[:14].lower() == "nasprotovanje.":
+                return 0
+            if pred[:12].lower() == "nevtralnost.":
+                return 2
+
+            return None
+
+        return np.array(list(map(transform_prediction, predictions)))
+
+    def filter_invalid_predictions(self, y_pred, y_true, majority_labels, last_labels):
+        valid_predictions = [pred is not None for pred in y_pred]
+
+        n_invalid = len(y_pred) - sum(valid_predictions)
+        self.f_out.write(f"Number of invalid predictions: {n_invalid} ({100 * (n_invalid / len(y_pred)):.2f} %)\n")
+
+        if majority_labels is not None:
+            majority_labels = majority_labels[valid_predictions]
+        if last_labels is not None:
+            last_labels = last_labels[valid_predictions]
+
+        return y_pred[valid_predictions].astype(int), y_true[valid_predictions], majority_labels, last_labels
+
+    def compute_model_loss(self, y_pred, y_true, ci_params):
+        labels = np.array([0, 1, 2])
+
+        warnings.filterwarnings("ignore")
+
+        loss, ci = self.compute_mean_metric(accuracy, y_pred, y_true, ci_params.get("accuracy", None))
+
+        output = f"Model's accuracy: {loss:.4f}"
+        if ci is None:
+            output += "\n"
+        else:
+            output += f" [{ci[0]:.4f}, {ci[1]:.4f}]\n"
+
+        self.f_out.write(output)
+
+        precision_loss, precision_ci = self.compute_metric(
+            per_class_precision(labels), y_pred, y_true, ci_params.get("precision", None)
+        )
+        self.print_metric_results("precision", precision_loss, precision_ci)
+
+        recall_loss, recall_ci = self.compute_metric(
+            per_class_recall(labels), y_pred, y_true, ci_params.get("recall", None)
+        )
+        self.print_metric_results("recall", recall_loss, recall_ci)
+
+        f1_loss, f1_ci = self.compute_metric(
+            per_class_f1(labels), y_pred, y_true, ci_params.get("f1", None)
+        )
+        self.print_metric_results("F1", f1_loss, f1_ci)
+
+        warnings.filterwarnings("default")
+
+    def print_metric_results(self, metric_name, result, ci):
+        output = f"Entailment {metric_name}: {result[1]:.4f}"
+        if ci is None:
+            output += "\n"
+        else:
+            output += f" [{ci[0][1]:.4f}, {ci[1][1]:.4f}]\n"
+        output += f"Contradiction {metric_name}: {result[0]:.4f}"
+        if ci is None:
+            output += "\n"
+        else:
+            output += f" [{ci[0][0]:.4f}, {ci[1][0]:.4f}]\n"
+        output += f"Neutral {metric_name}: {result[2]:.4f}"
+        if ci is None:
+            output += "\n"
+        else:
+            output += f" [{ci[0][2]:.4f}, {ci[1][2]:.4f}]\n"
 
         self.f_out.write(output)

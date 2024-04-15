@@ -328,3 +328,51 @@ class CBPromptCreator(SloBenchPromptCreator):
                 labels.append(2)
 
         return np.array(labels)
+
+
+class NLIPromptCreator(SloBenchPromptCreator):
+    def get_instruction(self, instance):
+        return 'Podani sta predpostavka in hipoteza. Določi ali hipoteza pomensko sledi iz predpostavke (sosledje), ji nasprotuje (nasprotovanje) ali pa o relaciji med njima ni možno sklepati (nevtralnost). Odgovori zgolj s "Sosledje", "Nasprotovanje" oz. "Nevtralnost".\n\n'
+
+    def example_to_prompt(self, example):
+        prompt = f"{example['premise']}\n"
+        prompt += f"{example['hypothesis']}\n"
+
+        return prompt
+
+    def example_to_prompt_with_label(self, example):
+        prompt = f"{example['premise']}\n"
+        prompt += f"{example['hypothesis']}\n"
+        prompt += f"{self.label_to_text(example['label'])}\n\n"
+
+        return prompt, self.get_label(example)
+
+    def label_to_text(self, label):
+        if label == "entailment":
+            return "Sosledje."
+        if label == "contradiction":
+            return "Nasprotovanje."
+
+        return "Nevtralnost."
+
+    def get_label(self, example):
+        label = example["label"]
+
+        if label == "entailment":
+            return 1
+        if label == "contradiction":
+            return 0
+
+        return 2
+
+    def get_labels(self, eval_data):
+        labels = []
+        for label in eval_data["label"]:
+            if label == "entailment":
+                labels.append(1)
+            elif label == "contradiction":
+                labels.append(0)
+            else:
+                labels.append(2)
+
+        return np.array(labels)

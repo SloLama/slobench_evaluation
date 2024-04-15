@@ -20,7 +20,8 @@ SUPPORTED_DATASETS = [
     "WSC_generative",
     "COPA",
     "RTE",
-    "CB"
+    "CB",
+    "NLI"
 ]
 
 
@@ -48,13 +49,13 @@ def load_model(model_path, f_out) -> MegatronGPTModel:
 
 def load_data(dataset, load_ht, load_mt, seed) -> SloBenchDataLoader:
     assert (
-            load_ht or load_mt
+            dataset=="NLI" or load_ht or load_mt
     ), "Loading MT and HT are both set to False. At least one must be set to True."
 
-    if not load_ht:
+    if not (dataset == "NLI" or load_ht):
         warnings.warn(
             f"Loading human translated data is set to False for {dataset}. Loading only machine translated data.")
-    if not load_mt:
+    if not (dataset in ["WSC", "WSC_generative", "NLI"] or load_mt):
         warnings.warn(
             f"Loading machine translated data is set to False for {dataset}. Loading only human translated data.")
 
@@ -76,6 +77,8 @@ def load_data(dataset, load_ht, load_mt, seed) -> SloBenchDataLoader:
         data_loader = RTEDataLoader(load_ht, load_mt, seed)
     elif dataset == "CB":
         data_loader = CBDataLoader(load_ht, load_mt, seed)
+    elif dataset == "NLI":
+        data_loader = NLILoader(None, None, seed)
 
     logging.info(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -101,6 +104,8 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
         return RTEEvaluator(f_out)
     if dataset == "CB":
         return CBEvaluator(f_out)
+    if dataset == "NLI":
+        return NLIEvaluator(f_out)
 
 
 def get_sampling_and_length_params(dataset):
@@ -125,7 +130,7 @@ def get_sampling_and_length_params(dataset):
         length_params = {"min_length": 0, "max_length": 20}
     elif dataset == "COPA":
         length_params = {"min_length": 0, "max_length": 1}
-    elif dataset == "CB":
+    elif dataset in ["CB", "NLI"]:
         length_params = {"min_length": 0, "max_length": 10}
 
     return sampling_params, length_params

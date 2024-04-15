@@ -9,6 +9,7 @@ from prompt_creation import *
 
 HT_DATA_DIR = "/ceph/hpc/data/st2311-ponj-users/slobench/SuperGLUE-HumanT/csv"
 MT_DATA_DIR = "/ceph/hpc/data/st2311-ponj-users/slobench/SuperGLUE-GoogleMT/csv"
+NLI_DATA_DIR = "/ceph/hpc/data/st2311-ponj-users/slobench/SI-NLI"
 
 
 class SloBenchDataLoader:
@@ -387,6 +388,42 @@ class CBDataLoader(BoolQDataLoader):
         self.dataset = "CB"
         self.prompt_creator = CBPromptCreator()
         self.rng = np.random.default_rng(seed)
+
+    def _get_majority_label(self, example_labels):
+        label_counts = np.zeros(3, dtype=int)
+        for label in example_labels:
+            label_counts[label] += 1
+
+        n_max = sum(label_counts == max(label_counts))
+
+        if n_max == 1:
+            return np.argmax(label_counts)
+
+        return None
+
+
+class NLILoader(SloBenchDataLoader):
+    def __init__(self, human_translated, machine_translated, seed):
+        super().__init__(human_translated, machine_translated, seed)
+        self.prompt_creator = NLIPromptCreator()
+        self.dataset = "NLI"
+        self.rng = np.random.default_rng(seed)
+
+    def load_data(self):
+        self.train_data = pd.read_csv(os.path.join(NLI_DATA_DIR, "train.tsv"), sep="\t", index_col="pair_id")
+        self.eval_data = pd.read_csv(os.path.join(NLI_DATA_DIR, "dev.tsv"), sep="\t", index_col="pair_id")
+
+    def _compute_size(self, dataset):
+        return dataset.shape[0]
+
+    def _data_iter(self, dataset):
+        for idx in dataset.index:
+            yield dataset.loc[idx]
+
+    def _get_few_shot_examples(self, instance, k):
+        sample = self.train_data.sample(k, random_state=self.rng)
+
+        return [sample.loc[idx] for idx in sample.index]
 
     def _get_majority_label(self, example_labels):
         label_counts = np.zeros(3, dtype=int)
