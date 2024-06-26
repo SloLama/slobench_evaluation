@@ -47,7 +47,7 @@ class SloBenchPromptCreator:
 
 class BoolQPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return "Podano je besedilo in vprašanje, ki se navezuje na to besedilo. Odgovori na vprašanje z da ali ne."
+        return "Podano je besedilo in vprašanje, ki se navezuje na to besedilo. Odgovori na vprašanje zgolj z da ali ne. Odgovora ne pojasnjuj."
 
     def example_to_prompt(self, example):
         prompt = f"{example['passage']}\n"
@@ -77,7 +77,7 @@ class BoolQPromptCreator(SloBenchPromptCreator):
 
 class MultiRCPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        prompt = "Podano je besedilo, vprašanje, ki se navezuje na to besedilo ter seznam možnih odgovorov na vprašanje. Izpiši številke pravilnih odgovorov.\n\n"
+        prompt = "Podano je besedilo, vprašanje, ki se navezuje na to besedilo ter seznam možnih odgovorov na to vprašanje. Poišči pravilne odgovore. Izpiši zgolj številke pravilnih odgovorov.\n\n"
         prompt += f"{instance['Text']}"
 
         return prompt
@@ -121,7 +121,7 @@ class MultiRCPromptCreator(SloBenchPromptCreator):
 
 class WSCPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return "Podano je kratko besedilo in vprašanje o povezavi med zaimkom in samostalnikom, označenima z **. Odgovori na vprašanje zgolj z da ali ne."
+        return "Podano je kratko besedilo in vprašanje o povezavi med zaimkom in samostalnikom, označenima z **. Odgovori na vprašanje zgolj z da ali ne. Odgovora ne pojasnjuj."
 
     def example_to_prompt(self, example):
         prompt = f"{self.modify_text(example)}\n"
