@@ -366,7 +366,7 @@ class MultiRCEvaluator(SloBenchEvaluator):
             pred = pred.lstrip()
 
             # Remove sentences such as "Pravilni odgovori:", "Pravilni odgovori so:", etc. from the beginning
-            if pred.lower.startswith("pravilni") and ":" in pred:
+            if pred.lower().startswith("pravilni") and ":" in pred:
                 pred = pred.split(":")[1].strip()
 
             # Avoid errors due to (lack) of spaces after commas
