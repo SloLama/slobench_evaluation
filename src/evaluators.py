@@ -253,13 +253,15 @@ class BoolQEvaluator(SloBenchEvaluator):
 
     def transform_predictions(self, predictions, true_labels):
         def transform_prediction(pred):
+            pred = pred.strip()
+
             if len(pred) > 3:
                 pred = pred[:3]
 
-            if pred.lower() == "da.":
+            if pred.lower() == "da." or pred.lower() == "da":
                 return True
 
-            if pred.lower() == "ne.":
+            if pred.lower() == "ne." or pred.lower() == "ne":
                 return False
 
             return None
@@ -362,6 +364,10 @@ class MultiRCEvaluator(SloBenchEvaluator):
 
             # Avoid errors due to additional spaces at the beginning
             pred = pred.lstrip()
+
+            # Remove sentences such as "Pravilni odgovori:", "Pravilni odgovori so:", etc. from the beginning
+            if pred.lower.startswith("pravilni") and ":" in pred:
+                pred = pred.split(":")[1].strip()
 
             # Avoid errors due to (lack) of spaces after commas
             pred = pred.replace(", ", ",")
@@ -712,11 +718,11 @@ class CBEvaluator(BoolQEvaluator):
 
     def transform_predictions(self, predictions, true_labels):
         def transform_prediction(pred):
-            if pred[:5].lower() == "drži.":
+            if pred[:5].lower() == "drži." or pred.lower() == "drži":
                 return 0
-            if pred[:8].lower() == "ne drži.":
+            if pred[:8].lower() == "ne drži." or pred.lower() == "ne drži":
                 return 1
-            if pred[:8].lower() == "ne vemo.":
+            if pred[:8].lower() == "ne vemo." or pred.lower() == "ne vemo":
                 return 2
 
             return None
@@ -804,11 +810,11 @@ class NLIEvaluator(CBEvaluator):
 
     def transform_predictions(self, predictions, true_labels):
         def transform_prediction(pred):
-            if pred[:9].lower() == "sosledje.":
+            if pred[:9].lower() == "sosledje." or pred.lower() == "sosledje":
                 return 1
-            if pred[:14].lower() == "nasprotovanje.":
+            if pred[:14].lower() == "nasprotovanje." or pred.lower() == "nasprotovanje":
                 return 0
-            if pred[:12].lower() == "nevtralnost.":
+            if pred[:12].lower() == "nevtralnost." or pred.lower() == "nevtralnost":
                 return 2
 
             return None
