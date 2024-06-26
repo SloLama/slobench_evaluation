@@ -2,16 +2,27 @@ import numpy as np
 
 
 class SloBenchPromptCreator:
-    def create_few_shot_prompt(self, instance, examples):
-        prompt = self.get_instruction(instance)
+    def __init__(self, prompt_template):
+        assert "{instruction}" in prompt_template, "Prompt template has to contain {instruction} field."
 
+        assert "{input}" in prompt_template, "Prompt template has to contain {input} field."
+
+        self.prompt_template = prompt_template
+
+    def create_few_shot_prompt(self, instance, examples):
+        prompt = self.prompt_template
+        prompt = prompt.replace("{instruction}", self.get_instruction(instance))
+
+        input = ""
         example_labels = []
         for example in examples:
             example_prompt, example_label = self.example_to_prompt_with_label(example)
-            prompt += example_prompt
+            input += example_prompt
             example_labels.append(example_label)
 
-        prompt += self.example_to_prompt(instance)
+        input += self.example_to_prompt(instance)
+
+        prompt = prompt.replace("{input}", input)
 
         return prompt, example_labels
 
@@ -36,11 +47,11 @@ class SloBenchPromptCreator:
 
 class BoolQPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return "Podano je besedilo in vprašanje, ki se navezuje na to besedilo. Odgovori na vprašanje z da ali ne.\n\n"
+        return "Podano je besedilo in vprašanje, ki se navezuje na to besedilo. Odgovori na vprašanje z da ali ne."
 
     def example_to_prompt(self, example):
         prompt = f"{example['passage']}\n"
-        prompt += f"{example['question']}\n"
+        prompt += f"{example['question']}"
 
         return prompt
 
@@ -67,7 +78,7 @@ class BoolQPromptCreator(SloBenchPromptCreator):
 class MultiRCPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
         prompt = "Podano je besedilo, vprašanje, ki se navezuje na to besedilo ter seznam možnih odgovorov na vprašanje. Izpiši številke pravilnih odgovorov.\n\n"
-        prompt += f"{instance['Text']}\n\n"
+        prompt += f"{instance['Text']}"
 
         return prompt
 
@@ -76,7 +87,7 @@ class MultiRCPromptCreator(SloBenchPromptCreator):
         for number, answer in example['Answers'].items():
             prompt += f"{number}) {answer}\n"
 
-        prompt += "Pravilni odgovori: "
+        prompt += "Pravilni odgovori:"
 
         return prompt
 
@@ -110,11 +121,11 @@ class MultiRCPromptCreator(SloBenchPromptCreator):
 
 class WSCPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return "Podano je kratko besedilo in vprašanje o povezavi med zaimkom in samostalnikom, označenima z **. Odgovori na vprašanje zgolj z da ali ne.\n\n"
+        return "Podano je kratko besedilo in vprašanje o povezavi med zaimkom in samostalnikom, označenima z **. Odgovori na vprašanje zgolj z da ali ne."
 
     def example_to_prompt(self, example):
         prompt = f"{self.modify_text(example)}\n"
-        prompt += f"{self.write_question(example)}\n"
+        prompt += f"{self.write_question(example)}"
 
         return prompt
 
@@ -167,11 +178,11 @@ class WSCPromptCreator(SloBenchPromptCreator):
 
 class WSCGenerativePromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return "Podano je kratko besedilo in vprašanje, na kateri samostalnik se navezuje zaimek označen z **. Odgovori na vprašanje zgolj z ustreznim samostalnikom.\n\n"
+        return "Podano je kratko besedilo in vprašanje, na kateri samostalnik se navezuje zaimek označen z **. Odgovori na vprašanje zgolj z ustreznim samostalnikom."
 
     def example_to_prompt(self, example):
         prompt = f"{self.modify_text(example)}\n"
-        prompt += f"{self.write_question(example)}\n"
+        prompt += f"{self.write_question(example)}"
 
         return prompt
 
@@ -217,7 +228,7 @@ class WSCGenerativePromptCreator(SloBenchPromptCreator):
 
 class COPAPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return f"Podana je trditev ter dve hipotezi. Poišči hipotezo, ki predstavlja {self._complete_instruction(instance)}. Izpiši zgolj številko ustrezne hipoteze (1 ali 2).\n\n"
+        return f"Podana je trditev ter dve hipotezi. Poišči hipotezo, ki predstavlja {self._complete_instruction(instance)}. Izpiši zgolj številko ustrezne hipoteze (1 ali 2)."
 
     def _complete_instruction(self, instance):
         if instance["question"] == "effect":
@@ -228,7 +239,7 @@ class COPAPromptCreator(SloBenchPromptCreator):
     def example_to_prompt(self, example):
         prompt = f"{example['premise']}\n"
         prompt += f"1: {example['choice1']}\n"
-        prompt += f"2: {example['choice2']}\n"
+        prompt += f"2: {example['choice2']}"
 
         return prompt
 
@@ -252,11 +263,11 @@ class COPAPromptCreator(SloBenchPromptCreator):
 
 class RTEPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return "Podano je besedilo in hipoteza. Povej ali je hipoteza resnična glede na podano besedilo. Odgovori zgolj z da ali ne.\n\n"
+        return "Podano je besedilo in hipoteza. Povej ali je hipoteza resnična glede na podano besedilo. Odgovori zgolj z da ali ne."
 
     def example_to_prompt(self, example):
         prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis']} Da ali ne?\n"
+        prompt += f"{example['hypothesis']} Da ali ne?"
 
         return prompt
 
@@ -284,11 +295,11 @@ class RTEPromptCreator(SloBenchPromptCreator):
 
 class CBPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return 'Podano je besedilo, hipoteza ter vprašanje o resničnosti te hipoteze. Odgovori z "Drži", če je hipoteza resnična glede na podano besedilo, z "Ne drži", če hipoteza ni resnična ter z "Ne vemo", če se iz besedila ne da sklepati o resničnosti hipoteze.\n\n'
+        return 'Podano je besedilo, hipoteza ter vprašanje o resničnosti te hipoteze. Odgovori z "Drži", če je hipoteza resnična glede na podano besedilo, z "Ne drži", če hipoteza ni resnična ter z "Ne vemo", če se iz besedila ne da sklepati o resničnosti hipoteze.'
 
     def example_to_prompt(self, example):
         prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis'].rstrip('.')}. Drži ali ne drži?\n"
+        prompt += f"{example['hypothesis'].rstrip('.')}. Drži ali ne drži?"
 
         return prompt
 
@@ -332,11 +343,11 @@ class CBPromptCreator(SloBenchPromptCreator):
 
 class NLIPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return 'Podani sta predpostavka in hipoteza. Določi ali hipoteza pomensko sledi iz predpostavke (sosledje), ji nasprotuje (nasprotovanje) ali pa o relaciji med njima ni možno sklepati (nevtralnost). Odgovori zgolj s "Sosledje", "Nasprotovanje" oz. "Nevtralnost".\n\n'
+        return 'Podani sta predpostavka in hipoteza. Določi ali hipoteza pomensko sledi iz predpostavke (sosledje), ji nasprotuje (nasprotovanje) ali pa o relaciji med njima ni možno sklepati (nevtralnost). Odgovori zgolj s "Sosledje", "Nasprotovanje" oz. "Nevtralnost".'
 
     def example_to_prompt(self, example):
         prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis']}\n"
+        prompt += f"{example['hypothesis']}"
 
         return prompt
 

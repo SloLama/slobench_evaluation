@@ -1,5 +1,6 @@
 {
     "model": "/models/trained_models/opt_trained.nemo",
+    "prompt_template": "Uporabnik: {instruction}\n\n{input}\nAsistent:",
     "benchmarks": [
         {
             "dataset": "BoolQ",

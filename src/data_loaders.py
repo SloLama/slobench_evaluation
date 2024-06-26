@@ -13,7 +13,7 @@ NLI_DATA_DIR = "/ceph/hpc/data/st2311-ponj-users/slobench/SI-NLI"
 
 
 class SloBenchDataLoader:
-    def __init__(self, human_translated, machine_translated, seed):
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
         self.ht = human_translated
         self.mt = machine_translated
         self.dataset = None
@@ -90,10 +90,10 @@ class SloBenchDataLoader:
 
 
 class BoolQDataLoader(SloBenchDataLoader):
-    def __init__(self, human_translated, machine_translated, seed):
-        super().__init__(human_translated, machine_translated, seed)
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
+        super().__init__(human_translated, machine_translated, seed, prompt_template)
         self.dataset = "BoolQ"
-        self.prompt_creator = BoolQPromptCreator()
+        self.prompt_creator = BoolQPromptCreator(prompt_template)
         self.rng = np.random.default_rng(seed)
 
     def _parse_and_merge(self, train_data_ht, eval_data_ht, train_data_mt, eval_data_mt):
@@ -137,10 +137,10 @@ class BoolQDataLoader(SloBenchDataLoader):
 
 
 class MultiRCDataLoader(SloBenchDataLoader):
-    def __init__(self, human_translated, machine_translated, seed):
-        super().__init__(human_translated, machine_translated, seed)
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
+        super().__init__(human_translated, machine_translated, seed, prompt_template)
         self.dataset = "MultiRC"
-        self.prompt_creator = MultiRCPromptCreator()
+        self.prompt_creator = MultiRCPromptCreator(prompt_template)
         np.random.seed(seed)
 
     def _parse_and_merge(self, train_data_ht, eval_data_ht, train_data_mt, eval_data_mt):
@@ -295,17 +295,17 @@ class MultiRCDataLoader(SloBenchDataLoader):
 
 
 class WSCDataLoader(BoolQDataLoader):
-    def __init__(self, human_translated, machine_translated, seed):
-        super().__init__(human_translated, machine_translated, seed)
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
+        super().__init__(human_translated, machine_translated, seed, prompt_template)
         self.dataset = "WSC"
-        self.prompt_creator = WSCPromptCreator()
+        self.prompt_creator = WSCPromptCreator(prompt_template)
 
 
 class WSCGenerativeDataLoader(SloBenchDataLoader):
-    def __init__(self, human_translated, machine_translated, seed):
-        super().__init__(human_translated, machine_translated, seed)
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
+        super().__init__(human_translated, machine_translated, seed, prompt_template)
         self.dataset = "WSC"
-        self.prompt_creator = WSCGenerativePromptCreator()
+        self.prompt_creator = WSCGenerativePromptCreator(prompt_template)
         self.rng = np.random.default_rng(seed)
 
     def _compute_size(self, dataset):
@@ -328,8 +328,8 @@ class WSCGenerativeDataLoader(SloBenchDataLoader):
 
 
 class COPADataLoader(SloBenchDataLoader):
-    def __init__(self, human_translated, machine_translated, seed):
-        super().__init__(human_translated, machine_translated, seed)
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
+        super().__init__(human_translated, machine_translated, seed, prompt_template)
         self.dataset = "COPA"
         self.prompt_creator = COPAPromptCreator()
         self.rng = np.random.default_rng(seed)
@@ -375,18 +375,18 @@ class COPADataLoader(SloBenchDataLoader):
 
 
 class RTEDataLoader(BoolQDataLoader):
-    def __init__(self, human_translated, machine_translated, seed):
-        super().__init__(human_translated, machine_translated, seed)
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
+        super().__init__(human_translated, machine_translated, seed, prompt_template)
         self.dataset = "RTE"
-        self.prompt_creator = RTEPromptCreator()
+        self.prompt_creator = RTEPromptCreator(prompt_template)
         self.rng = np.random.default_rng(seed)
 
 
 class CBDataLoader(BoolQDataLoader):
-    def __init__(self, human_translated, machine_translated, seed):
-        super().__init__(human_translated, machine_translated, seed)
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
+        super().__init__(human_translated, machine_translated, seed, prompt_template)
         self.dataset = "CB"
-        self.prompt_creator = CBPromptCreator()
+        self.prompt_creator = CBPromptCreator(prompt_template)
         self.rng = np.random.default_rng(seed)
 
     def _get_majority_label(self, example_labels):
@@ -403,9 +403,9 @@ class CBDataLoader(BoolQDataLoader):
 
 
 class NLILoader(SloBenchDataLoader):
-    def __init__(self, human_translated, machine_translated, seed):
-        super().__init__(human_translated, machine_translated, seed)
-        self.prompt_creator = NLIPromptCreator()
+    def __init__(self, human_translated, machine_translated, seed, prompt_template):
+        super().__init__(human_translated, machine_translated, seed, prompt_template)
+        self.prompt_creator = NLIPromptCreator(prompt_template)
         self.dataset = "NLI"
         self.rng = np.random.default_rng(seed)
 
