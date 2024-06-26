@@ -159,7 +159,10 @@ class SloBenchEvaluator:
         if not isinstance(predictions, np.ndarray):
             predictions = np.array(predictions)
         if not isinstance(true_labels, np.ndarray):
-            true_labels = np.array(true_labels)
+            try:
+                true_labels = np.array(true_labels)
+            except:
+                true_labels = np.array(true_labels, dtype=object)
         if (majority_labels is not None) and (not isinstance(majority_labels, np.ndarray)):
             majority_labels = np.array(majority_labels)
         if (last_labels is not None) and (not isinstance(last_labels, np.ndarray)):
@@ -396,7 +399,7 @@ class MultiRCEvaluator(SloBenchEvaluator):
 
             return transformed_pred
 
-        return np.array(list(map(transform_prediction, zip(predictions, true_labels))))
+        return np.array(list(map(transform_prediction, zip(predictions, true_labels))), dtype=object)
 
     def filter_invalid_predictions(self, y_pred, y_true, majority_labels, last_labels):
         valid_predictions = [pred is not None for pred in y_pred]
