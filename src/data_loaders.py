@@ -331,7 +331,7 @@ class COPADataLoader(SloBenchDataLoader):
     def __init__(self, human_translated, machine_translated, seed, prompt_template):
         super().__init__(human_translated, machine_translated, seed, prompt_template)
         self.dataset = "COPA"
-        self.prompt_creator = COPAPromptCreator()
+        self.prompt_creator = COPAPromptCreator(prompt_template)
         self.rng = np.random.default_rng(seed)
 
     def _compute_size(self, dataset):
