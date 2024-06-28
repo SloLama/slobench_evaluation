@@ -200,11 +200,17 @@ def run_engine(config, output_file):
             if k == 0:
                 evaluator.evaluate(evaluation_params, predictions, true_labels)
             else:
-                majority_labels = np.array(majority_labels)
+                try:
+                    majority_labels = np.array(majority_labels)
+                except:
+                    majority_labels = np.array(majority_labels, dtype=object)
                 if k == 1 and dataset != "WSC_generative":
                     last_labels = None
                 else:
-                    last_labels = np.array(last_labels)
+                    try:
+                        last_labels = np.array(last_labels)
+                    except:
+                        last_labels = np.array(last_labels, dtype=object)
                 evaluator.evaluate(evaluation_params, predictions, true_labels, majority_labels, last_labels)
 
         f_out.write("------------------------------------------------------\n\n")

@@ -450,7 +450,7 @@ class MultiRCEvaluator(SloBenchEvaluator):
         # Compute similarity of predictions and majority labels
         pred_cor, pred_ci = self.compute_mean_metric(
             weighted_similarity,
-            np.array(new_preds),
+            np.array(new_preds, dtype=object),
             majority_labels,
             ci_params.get("correlation", None)
         )
@@ -464,7 +464,7 @@ class MultiRCEvaluator(SloBenchEvaluator):
         # Compute similarity of true and majority labels
         true_cor, true_ci = self.compute_mean_metric(
             weighted_similarity,
-            np.array(new_labels),
+            np.array(new_labels, dtype=object),
             majority_labels,
             ci_params.get("correlation", None)
         )
@@ -495,7 +495,7 @@ class MultiRCEvaluator(SloBenchEvaluator):
         # Compute similarity of predictions and majority labels
         pred_cor, pred_ci = self.compute_mean_metric(
             weighted_similarity,
-            np.array(new_preds),
+            np.array(new_preds, dtype=object),
             last_labels,
             ci_params.get("correlation", None)
         )
@@ -509,7 +509,7 @@ class MultiRCEvaluator(SloBenchEvaluator):
         # Compute similarity of true and majority labels
         true_cor, true_ci = self.compute_mean_metric(
             weighted_similarity,
-            np.array(new_labels),
+            np.array(new_labels, dtype=object),
             last_labels,
             ci_params.get("correlation", None)
         )
