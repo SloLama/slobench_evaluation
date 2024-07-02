@@ -704,6 +704,20 @@ class RTEEvaluator(BoolQEvaluator):
         self.f_out.write(f"Number of positive instances: {n_positive} ({100 * (n_positive / n_instances):.2f} %)\n")
         self.f_out.write(f"Number of negative instances: {n_negative} ({100 * (n_negative / n_instances):.2f} %)\n")
 
+    def transform_predictions(self, predictions, true_labels):
+        def transform_prediction(pred):
+            pred = pred.strip()
+
+            if pred.lower()[:4] == "drži":
+                return True
+
+            if pred.lower()[:7] == "ne drži":
+                return False
+
+            return None
+
+        return np.array(list(map(transform_prediction, predictions)))
+
 
 class CBEvaluator(BoolQEvaluator):
     def compute_general_stats(self, y_true):
