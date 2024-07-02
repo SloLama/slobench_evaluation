@@ -677,6 +677,8 @@ class COPAEvaluator(BoolQEvaluator):
 
     def transform_predictions(self, predictions, true_labels):
         def transform_prediction(pred):
+            pred = pred.strip()
+
             if len(pred) > 1:
                 pred = pred[:1]
 

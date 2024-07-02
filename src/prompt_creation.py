@@ -121,7 +121,7 @@ class MultiRCPromptCreator(SloBenchPromptCreator):
 
 class WSCPromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return "Podano je kratko besedilo in vprašanje o povezavi med zaimkom in samostalnikom, označenima z **. Odgovori na vprašanje zgolj z da ali ne. Odgovora ne pojasnjuj."
+        return "Podano je kratko besedilo, v katerem sta dve besedni zvezi, označeni z **. Navedeno je tudi vprašanje, ali se ena besedna zveza nanaša na drugo. Na vprašanje odgovori zgolj z Da ali Ne."
 
     def example_to_prompt(self, example):
         prompt = f"{self.modify_text(example)}\n"
@@ -161,7 +161,7 @@ class WSCPromptCreator(SloBenchPromptCreator):
         return span
 
     def write_question(self, instance):
-        return f"Ali se zaimek *{instance['span2_text']}* v zgoraj podanem besedilu navezuje na samostalnik *{instance['span1_text']}*?"
+        return f"Ali se besedna zveza *{instance['span2_text']}* v zgornjem besedilu nanaša na besedno zvezo *{instance['span1_text']}*?"
 
     def label_to_text(self, label):
         if label:
@@ -178,7 +178,7 @@ class WSCPromptCreator(SloBenchPromptCreator):
 
 class WSCGenerativePromptCreator(SloBenchPromptCreator):
     def get_instruction(self, instance):
-        return "Podano je kratko besedilo in vprašanje, na kateri samostalnik se navezuje zaimek označen z **. Odgovori na vprašanje zgolj z ustreznim samostalnikom."
+        return "Podano je kratko besedilo in vprašanje, na kateri samostalnik se navezuje besedna zveza, označena z **. Odgovori na vprašanje zgolj z ustreznim samostalnikom."
 
     def example_to_prompt(self, example):
         prompt = f"{self.modify_text(example)}\n"
@@ -207,7 +207,7 @@ class WSCGenerativePromptCreator(SloBenchPromptCreator):
         return span
 
     def write_question(self, instance):
-        return f"Na kateri samostalnik se v zgoraj podanem besedilu navezuje zaimek *{instance['span2_text']}*?"
+        return f"Na kateri samostalnik se v zgoraj podanem besedilu navezuje besedna zveza *{instance['span2_text']}*?"
 
     def example_to_prompt_with_label(self, example):
         prompt = f"{self.modify_text(example)}\n"
