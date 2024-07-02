@@ -261,10 +261,10 @@ class BoolQEvaluator(SloBenchEvaluator):
             if len(pred) > 3:
                 pred = pred[:3]
 
-            if pred.lower() == "da." or pred.lower() == "da":
+            if pred.lower() in ["da.", "da", "da,"]:
                 return True
 
-            if pred.lower() == "ne." or pred.lower() == "ne":
+            if pred.lower() in ["ne.", "ne", "ne,"]:
                 return False
 
             return None
@@ -366,7 +366,7 @@ class MultiRCEvaluator(SloBenchEvaluator):
             pred, label = example
 
             # Avoid errors due to additional spaces at the beginning
-            pred = pred.lstrip()
+            pred = pred.strip()
 
             # Remove sentences such as "Pravilni odgovori:", "Pravilni odgovori so:", etc. from the beginning
             if pred.lower().startswith("pravilni") and ":" in pred:
@@ -679,6 +679,11 @@ class COPAEvaluator(BoolQEvaluator):
         def transform_prediction(pred):
             pred = pred.strip()
 
+            # Remove "hipoteza" from the start of the prediction
+            pred = pred.lower()
+            pred = pred.lstrip("hipoteza")
+            pred = pred.lstrip()
+
             if len(pred) > 1:
                 pred = pred[:1]
 
@@ -737,11 +742,13 @@ class CBEvaluator(BoolQEvaluator):
 
     def transform_predictions(self, predictions, true_labels):
         def transform_prediction(pred):
-            if pred[:5].lower() == "drži." or pred.lower() == "drži":
+            pred = pred.strip()
+
+            if pred[:4].lower() == "drži":
                 return 0
-            if pred[:8].lower() == "ne drži." or pred.lower() == "ne drži":
+            if pred[:7].lower() == "ne drži":
                 return 1
-            if pred[:8].lower() == "ne vemo." or pred.lower() == "ne vemo":
+            if pred[:7].lower() == "ne vemo":
                 return 2
 
             return None
@@ -829,11 +836,13 @@ class NLIEvaluator(CBEvaluator):
 
     def transform_predictions(self, predictions, true_labels):
         def transform_prediction(pred):
-            if pred[:9].lower() == "sosledje." or pred.lower() == "sosledje":
+            pred = pred.strip()
+
+            if pred[:8].lower() == "sosledje":
                 return 1
-            if pred[:14].lower() == "nasprotovanje." or pred.lower() == "nasprotovanje":
+            if pred[:13].lower() == "nasprotovanje":
                 return 0
-            if pred[:12].lower() == "nevtralnost." or pred.lower() == "nevtralnost":
+            if pred[:11].lower() == "nevtralnost":
                 return 2
 
             return None
