@@ -62,7 +62,7 @@ class BoolQPromptCreator(SloBenchPromptCreator):
             assert "output" in self.prefix, "BoolQ prefix dictionary must contain 'output' key"
 
     def get_instruction(self, instance):
-        return "Podano je besedilo in vprašanje, ki se navezuje na to besedilo. Odgovori na vprašanje zgolj z da ali ne. Odgovora ne pojasnjuj."
+        return "Podano je besedilo in vprašanje, ki se navezuje na to besedilo. Odgovori na vprašanje zgolj z Da ali Ne. Odgovora ne pojasnjuj."
 
     def example_to_prompt(self, example):
         prompt = self.prefix["passage"] + f"{example['passage']}\n"
@@ -111,7 +111,7 @@ class MultiRCPromptCreator(SloBenchPromptCreator):
             assert "output" in self.prefix, "MultiRC prefix dictionary must contain 'output' key"
 
     def get_instruction(self, instance):
-        prompt = "Podano je besedilo, vprašanje, ki se navezuje na to besedilo ter seznam možnih odgovorov na to vprašanje. Poišči pravilne odgovore. Izpiši zgolj številke pravilnih odgovorov.\n\n"
+        prompt = "Podano je besedilo, vprašanje, ki se navezuje na to besedilo ter seznam možnih odgovorov na to vprašanje. Izpiši številke pravilnih odgovorov.\n\n"
         prompt += self.prefix["text"] + f"{instance['Text']}"
 
         return prompt
@@ -171,7 +171,7 @@ class WSCPromptCreator(SloBenchPromptCreator):
             assert "output" in self.prefix, "WSC prefix dictionary must contain 'output' key"
 
     def get_instruction(self, instance):
-        return "Podano je kratko besedilo, v katerem sta dve besedni zvezi, označeni z **. Navedeno je tudi vprašanje, ali se ena besedna zveza nanaša na drugo. Na vprašanje odgovori zgolj z Da ali Ne."
+        return "Podano je kratko besedilo, v katerem sta dve besedni zvezi označeni z **. Navedeno je tudi vprašanje, ali se ena besedna zveza nanaša na drugo. Na vprašanje odgovori zgolj z Da ali Ne."
 
     def example_to_prompt(self, example):
         prompt = self.prefix["text"] + f"{self.modify_text(example)}\n"
@@ -277,7 +277,7 @@ class WSCGenerativePromptCreator(SloBenchPromptCreator):
         return span
 
     def write_question(self, instance):
-        return f"Na kateri samostalnik se v zgoraj podanem besedilu navezuje besedna zveza *{instance['span2_text']}*?"
+        return f"Na kateri samostalnik se v zgornjem besedilu navezuje besedna zveza *{instance['span2_text']}*?"
 
     def example_to_prompt_with_label(self, example):
         prompt = self.prefix["text"] + f"{self.modify_text(example)}\n"
@@ -330,7 +330,7 @@ class COPAPromptCreator(SloBenchPromptCreator):
         return output_prefix
 
     def get_instruction(self, instance):
-        return f"Podana je trditev ter dve hipotezi. Poišči hipotezo, ki predstavlja {self._complete_instruction(instance)}. Izpiši zgolj številko ustrezne hipoteze (1 ali 2)."
+        return f"Podana je trditev ter dve hipotezi. Poišči hipotezo, ki predstavlja {self._complete_instruction(instance)}. Izpiši zgolj številko ustrezne hipoteze."
 
     def _complete_instruction(self, instance):
         if instance["question"] == "effect":
@@ -382,11 +382,11 @@ class RTEPromptCreator(SloBenchPromptCreator):
             assert "output" in self.prefix, "RTE prefix dictionary must contain 'output' key"
 
     def get_instruction(self, instance):
-        return "Podano je besedilo in hipoteza. Povej ali je hipoteza resnična glede na podano besedilo. Odgovori zgolj z da ali ne."
+        return "Podano je besedilo in hipoteza. Povej ali je hipoteza resnična glede na podano besedilo. Odgovori z Drži, če je hipoteza resnična glede na besedilo oziroma z Ne drži, če ni."
 
     def example_to_prompt(self, example):
         prompt = self.prefix["premise"] + f"{example['premise']}\n"
-        prompt += self.prefix["hypothesis"] + f"{example['hypothesis']} Da ali ne?"
+        prompt += self.prefix["hypothesis"] + f"{example['hypothesis']} Drži ali Ne drži?"
 
         if self.prefix["output"] != "":
             prompt += "\n" + self.prefix["output"].rstrip()
@@ -395,16 +395,16 @@ class RTEPromptCreator(SloBenchPromptCreator):
 
     def example_to_prompt_with_label(self, example):
         prompt = self.prefix["premise"] + f"{example['premise']}\n"
-        prompt += self.prefix["hypothesis"] + f"{example['hypothesis']} Da ali ne?\n"
+        prompt += self.prefix["hypothesis"] + f"{example['hypothesis']} Drži ali Ne drži?\n"
         prompt += self.prefix["output"] + f"{self.label_to_text(self.get_label(example))}\n\n"
 
         return prompt, self.get_label(example)
 
     def label_to_text(self, label):
         if label:
-            return "Da."
+            return "Drži."
 
-        return "Ne."
+        return "Ne drži."
 
     def get_label(self, example):
         label = example["label"]
@@ -431,7 +431,7 @@ class CBPromptCreator(SloBenchPromptCreator):
             assert "output" in self.prefix, "CB prefix dictionary must contain 'output' key"
 
     def get_instruction(self, instance):
-        return 'Podano je besedilo, hipoteza ter vprašanje o resničnosti te hipoteze. Odgovori z "Drži", če je hipoteza resnična glede na podano besedilo, z "Ne drži", če hipoteza ni resnična ter z "Ne vemo", če se iz besedila ne da sklepati o resničnosti hipoteze.'
+        return 'Podano je besedilo, hipoteza ter vprašanje o resničnosti te hipoteze. Odgovori z Drži, če je hipoteza resnična glede na podano besedilo, z Ne drži, če hipoteza ni resnična ter z Ne vemo, če se iz besedila ne da sklepati o resničnosti hipoteze.'
 
     def example_to_prompt(self, example):
         prompt = self.prefix["premise"] + f"{example['premise']}\n"
@@ -496,7 +496,7 @@ class NLIPromptCreator(SloBenchPromptCreator):
             assert "output" in self.prefix, "NLI prefix dictionary must contain 'output' key"
 
     def get_instruction(self, instance):
-        return 'Podani sta predpostavka in hipoteza. Določi ali hipoteza pomensko sledi iz predpostavke (sosledje), ji nasprotuje (nasprotovanje) ali pa o relaciji med njima ni možno sklepati (nevtralnost). Odgovori zgolj s "Sosledje", "Nasprotovanje" oz. "Nevtralnost".'
+        return 'Podani sta predpostavka in hipoteza. Določi ali hipoteza pomensko sledi iz predpostavke (Sosledje), ji nasprotuje (Nasprotovanje) ali pa o relaciji med njima ni možno sklepati (Nevtralnost). Odgovori zgolj s "Sosledje", "Nasprotovanje" ali "Nevtralnost".'
 
     def example_to_prompt(self, example):
         prompt = self.prefix["premise"] + f"{example['premise']}\n"
