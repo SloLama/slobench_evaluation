@@ -2,12 +2,13 @@ import numpy as np
 
 
 class SloBenchPromptCreator:
-    def __init__(self, prompt_template):
+    def __init__(self, prompt_template, prefix):
         assert "{instruction}" in prompt_template, "Prompt template has to contain {instruction} field."
 
         assert "{input}" in prompt_template, "Prompt template has to contain {input} field."
 
         self.prompt_template = prompt_template
+        self.prefix = prefix
 
     def create_few_shot_prompt(self, instance, examples):
         prompt = self.prompt_template
@@ -46,19 +47,36 @@ class SloBenchPromptCreator:
 
 
 class BoolQPromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, prefix):
+        super().__init__(prompt_template, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "passage": "",
+                "question": "",
+                "output": ""
+            }
+        else:
+            assert "passage" in self.prefix, "BoolQ prefix dictionary must contain 'passage' key"
+            assert "question" in self.prefix, "BoolQ prefix dictionary must contain 'question' key"
+            assert "output" in self.prefix, "BoolQ prefix dictionary must contain 'output' key"
+
     def get_instruction(self, instance):
         return "Podano je besedilo in vprašanje, ki se navezuje na to besedilo. Odgovori na vprašanje zgolj z da ali ne. Odgovora ne pojasnjuj."
 
     def example_to_prompt(self, example):
-        prompt = f"{example['passage']}\n"
-        prompt += f"{example['question']}"
+        prompt = self.prefix["passage"] + f"{example['passage']}\n"
+        prompt += self.prefix["question"] + f"{example['question']}"
+
+        if self.prefix["output"] != "":
+            prompt += "\n" + self.prefix["output"].rstrip()
 
         return prompt
 
     def example_to_prompt_with_label(self, example):
-        prompt = f"{example['passage']}\n"
-        prompt += f"{example['question']}\n"
-        prompt += f"{self.label_to_text(example['label'])}\n\n"
+        prompt = self.prefix["passage"] + f"{example['passage']}\n"
+        prompt += self.prefix["question"] + f"{example['question']}\n"
+        prompt += self.prefix["output"] + f"{self.label_to_text(example['label'])}\n\n"
 
         return prompt, example["label"]
 
@@ -76,26 +94,44 @@ class BoolQPromptCreator(SloBenchPromptCreator):
 
 
 class MultiRCPromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, prefix):
+        super().__init__(prompt_template, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "text": "",
+                "question": "",
+                "answers": "",
+                "output": "Pravilni odgovori: "
+            }
+        else:
+            assert "text" in self.prefix, "MultiRC prefix dictionary must contain 'text' key"
+            assert "question" in self.prefix, "MultiRC prefix dictionary must contain 'question' key"
+            assert "answers" in self.prefix, "MultiRC prefix dictionary must contain 'answers' key"
+            assert "output" in self.prefix, "MultiRC prefix dictionary must contain 'output' key"
+
     def get_instruction(self, instance):
         prompt = "Podano je besedilo, vprašanje, ki se navezuje na to besedilo ter seznam možnih odgovorov na to vprašanje. Poišči pravilne odgovore. Izpiši zgolj številke pravilnih odgovorov.\n\n"
-        prompt += f"{instance['Text']}"
+        prompt += self.prefix["text"] + f"{instance['Text']}"
 
         return prompt
 
     def example_to_prompt(self, example):
-        prompt = f"{example['Question']}\n"
+        prompt = self.prefix["question"] + f"{example['Question']}\n"
+        prompt += self.prefix["answers"]
         for number, answer in example['Answers'].items():
             prompt += f"{number}) {answer}\n"
 
-        prompt += "Pravilni odgovori:"
+        prompt += self.prefix["output"].rstrip()
 
         return prompt
 
     def example_to_prompt_with_label(self, example):
-        prompt = f"{example['Question']}\n"
+        prompt = self.prefix["question"] + f"{example['Question']}\n"
+        prompt += self.prefix["answers"]
         for number, answer in example['Answers'].items():
             prompt += f"{number}) {answer}\n"
-        prompt += "Pravilni odgovori: "
+        prompt += self.prefix["output"]
         correct_answers = [str(number) for number, label in example["Labels"].items() if label == 1]
         prompt += ", ".join(correct_answers)
         prompt += "\n\n"
@@ -120,19 +156,36 @@ class MultiRCPromptCreator(SloBenchPromptCreator):
 
 
 class WSCPromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, prefix):
+        super().__init__(prompt_template, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "text": "",
+                "question": "",
+                "output": ""
+            }
+        else:
+            assert "text" in self.prefix, "WSC prefix dictionary must contain 'text' key"
+            assert "question" in self.prefix, "WSC prefix dictionary must contain 'question' key"
+            assert "output" in self.prefix, "WSC prefix dictionary must contain 'output' key"
+
     def get_instruction(self, instance):
         return "Podano je kratko besedilo, v katerem sta dve besedni zvezi, označeni z **. Navedeno je tudi vprašanje, ali se ena besedna zveza nanaša na drugo. Na vprašanje odgovori zgolj z Da ali Ne."
 
     def example_to_prompt(self, example):
-        prompt = f"{self.modify_text(example)}\n"
-        prompt += f"{self.write_question(example)}"
+        prompt = self.prefix["text"] + f"{self.modify_text(example)}\n"
+        prompt += self.prefix["question"] + f"{self.write_question(example)}"
+
+        if self.prefix["output"] != "":
+            prompt += "\n" + self.prefix["output"].rstrip()
 
         return prompt
 
     def example_to_prompt_with_label(self, example):
-        prompt = f"{self.modify_text(example)}\n"
-        prompt += f"{self.write_question(example)}\n"
-        prompt += f"{self.label_to_text(example['label'])}\n\n"
+        prompt = self.prefix["text"] + f"{self.modify_text(example)}\n"
+        prompt += self.prefix["question"] + f"{self.write_question(example)}\n"
+        prompt += self.prefix["output"] + f"{self.label_to_text(example['label'])}\n\n"
 
         return prompt, self.get_label(example)
 
@@ -177,12 +230,29 @@ class WSCPromptCreator(SloBenchPromptCreator):
 
 
 class WSCGenerativePromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, prefix):
+        super().__init__(prompt_template, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "text": "",
+                "question": "",
+                "output": ""
+            }
+        else:
+            assert "text" in self.prefix, "WSC generative prefix dictionary must contain 'text' key"
+            assert "question" in self.prefix, "WSC generative prefix dictionary must contain 'question' key"
+            assert "output" in self.prefix, "WSC generative prefix dictionary must contain 'output' key"
+
     def get_instruction(self, instance):
         return "Podano je kratko besedilo in vprašanje, na kateri samostalnik se navezuje besedna zveza, označena z **. Odgovori na vprašanje zgolj z ustreznim samostalnikom."
 
     def example_to_prompt(self, example):
-        prompt = f"{self.modify_text(example)}\n"
-        prompt += f"{self.write_question(example)}"
+        prompt = self.prefix["text"] + f"{self.modify_text(example)}\n"
+        prompt += self.prefix["question"] + f"{self.write_question(example)}"
+
+        if self.prefix["output"] != "":
+            prompt += "\n" + self.prefix["output"].rstrip()
 
         return prompt
 
@@ -210,9 +280,9 @@ class WSCGenerativePromptCreator(SloBenchPromptCreator):
         return f"Na kateri samostalnik se v zgoraj podanem besedilu navezuje besedna zveza *{instance['span2_text']}*?"
 
     def example_to_prompt_with_label(self, example):
-        prompt = f"{self.modify_text(example)}\n"
-        prompt += f"{self.write_question(example)}\n"
-        prompt += f"{example['span1_text']}\n\n"
+        prompt = self.prefix["text"] + f"{self.modify_text(example)}\n"
+        prompt += self.prefix["question"] + f"{self.write_question(example)}\n"
+        prompt += self.prefix["output"] + f"{example['span1_text']}\n\n"
 
         return prompt, self.get_label(example)
 
@@ -227,6 +297,38 @@ class WSCGenerativePromptCreator(SloBenchPromptCreator):
 
 
 class COPAPromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, prefix):
+        super().__init__(prompt_template, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "premise": "",
+                "choice1": "1: ",
+                "choice2": "2: ",
+                "output": ""
+            }
+        else:
+            assert "premise" in self.prefix, "COPA prefix dictionary must contain 'premise' key"
+            assert "choice1" in self.prefix, "COPA prefix dictionary must contain 'choice1' key"
+            assert "choice2" in self.prefix, "COPA prefix dictionary must contain 'choice2' key"
+            assert "output" in self.prefix, "COPA prefix dictionary must contain 'output' key"
+            if "{question}" in self.prefix["output"]:
+                assert "question_effect" in self.prefix, \
+                    "COPA prefix dictionary must contain 'question_effect' key if 'output' value contains {question}"
+                assert "question_cause" in self.prefix, \
+                    "COPA prefix dictionary must contain 'question_cause' key if 'output' value contains {question}"
+
+    def process_output_prefix(self, example):
+        output_prefix = self.prefix["output"]
+
+        if "{question}" in output_prefix:
+            if example["question"] == "effect":
+                output_prefix = output_prefix.replace("{question}", self.prefix["question_effect"])
+            elif example["question"] == "cause":
+                output_prefix = output_prefix.replace("{question}", self.prefix["question_cause"])
+
+        return output_prefix
+
     def get_instruction(self, instance):
         return f"Podana je trditev ter dve hipotezi. Poišči hipotezo, ki predstavlja {self._complete_instruction(instance)}. Izpiši zgolj številko ustrezne hipoteze (1 ali 2)."
 
@@ -237,17 +339,20 @@ class COPAPromptCreator(SloBenchPromptCreator):
             return "vzrok za dano trditev"
 
     def example_to_prompt(self, example):
-        prompt = f"{example['premise']}\n"
-        prompt += f"1: {example['choice1']}\n"
-        prompt += f"2: {example['choice2']}"
+        prompt = self.prefix["premise"] + f"{example['premise']}\n"
+        prompt += self.prefix["choice1"] + f"{example['choice1']}\n"
+        prompt += self.prefix["choice2"] + f"{example['choice2']}"
+
+        if self.prefix["output"] != "":
+            prompt += "\n" + self.process_output_prefix(example).rstrip()
 
         return prompt
 
     def example_to_prompt_with_label(self, example):
-        prompt = f"{example['premise']}\n"
-        prompt += f"1: {example['choice1']}\n"
-        prompt += f"2: {example['choice2']}\n"
-        prompt += f"{self.label_to_text(example['label'])}\n\n"
+        prompt = self.prefix["premise"] + f"{example['premise']}\n"
+        prompt += self.prefix["choice1"] + f"{example['choice1']}\n"
+        prompt += self.prefix["choice2"] + f"{example['choice2']}\n"
+        prompt += self.process_output_prefix(example) + f"{self.label_to_text(example['label'])}\n\n"
 
         return prompt, self.get_label(example)
 
@@ -262,19 +367,36 @@ class COPAPromptCreator(SloBenchPromptCreator):
 
 
 class RTEPromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, prefix):
+        super().__init__(prompt_template, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "premise": "",
+                "hypothesis": "",
+                "output": ""
+            }
+        else:
+            assert "premise" in self.prefix, "RTE prefix dictionary must contain 'premise' key"
+            assert "hypothesis" in self.prefix, "RTE prefix dictionary must contain 'hypothesis' key"
+            assert "output" in self.prefix, "RTE prefix dictionary must contain 'output' key"
+
     def get_instruction(self, instance):
         return "Podano je besedilo in hipoteza. Povej ali je hipoteza resnična glede na podano besedilo. Odgovori zgolj z da ali ne."
 
     def example_to_prompt(self, example):
-        prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis']} Da ali ne?"
+        prompt = self.prefix["premise"] + f"{example['premise']}\n"
+        prompt += self.prefix["hypothesis"] + f"{example['hypothesis']} Da ali ne?"
+
+        if self.prefix["output"] != "":
+            prompt += "\n" + self.prefix["output"].rstrip()
 
         return prompt
 
     def example_to_prompt_with_label(self, example):
-        prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis']} Da ali ne?\n"
-        prompt += f"{self.label_to_text(self.get_label(example))}\n\n"
+        prompt = self.prefix["premise"] + f"{example['premise']}\n"
+        prompt += self.prefix["hypothesis"] + f"{example['hypothesis']} Da ali ne?\n"
+        prompt += self.prefix["output"] + f"{self.label_to_text(self.get_label(example))}\n\n"
 
         return prompt, self.get_label(example)
 
@@ -294,19 +416,36 @@ class RTEPromptCreator(SloBenchPromptCreator):
 
 
 class CBPromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, prefix):
+        super().__init__(prompt_template, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "premise": "",
+                "hypothesis": "",
+                "output": ""
+            }
+        else:
+            assert "premise" in self.prefix, "CB prefix dictionary must contain 'premise' key"
+            assert "hypothesis" in self.prefix, "CB prefix dictionary must contain 'hypothesis' key"
+            assert "output" in self.prefix, "CB prefix dictionary must contain 'output' key"
+
     def get_instruction(self, instance):
         return 'Podano je besedilo, hipoteza ter vprašanje o resničnosti te hipoteze. Odgovori z "Drži", če je hipoteza resnična glede na podano besedilo, z "Ne drži", če hipoteza ni resnična ter z "Ne vemo", če se iz besedila ne da sklepati o resničnosti hipoteze.'
 
     def example_to_prompt(self, example):
-        prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis'].rstrip('.')}. Drži ali ne drži?"
+        prompt = self.prefix["premise"] + f"{example['premise']}\n"
+        prompt += self.prefix["hypothesis"] + f"{example['hypothesis'].rstrip('.')}. Drži ali ne drži?"
+
+        if self.prefix["output"] != "":
+            prompt += "\n" + self.prefix["output"].rstrip()
 
         return prompt
 
     def example_to_prompt_with_label(self, example):
-        prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis'].rstrip('.')}. Drži ali ne drži?\n"
-        prompt += f"{self.label_to_text(example['label'])}\n\n"
+        prompt = self.prefix["premise"] + f"{example['premise']}\n"
+        prompt += self.prefix["hypothesis"] + f"{example['hypothesis'].rstrip('.')}. Drži ali ne drži?\n"
+        prompt += self.prefix["output"] + f"{self.label_to_text(example['label'])}\n\n"
 
         return prompt, self.get_label(example)
 
@@ -342,19 +481,36 @@ class CBPromptCreator(SloBenchPromptCreator):
 
 
 class NLIPromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, prefix):
+        super().__init__(prompt_template, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "premise": "",
+                "hypothesis": "",
+                "output": ""
+            }
+        else:
+            assert "premise" in self.prefix, "NLI prefix dictionary must contain 'premise' key"
+            assert "hypothesis" in self.prefix, "NLI prefix dictionary must contain 'hypothesis' key"
+            assert "output" in self.prefix, "NLI prefix dictionary must contain 'output' key"
+
     def get_instruction(self, instance):
         return 'Podani sta predpostavka in hipoteza. Določi ali hipoteza pomensko sledi iz predpostavke (sosledje), ji nasprotuje (nasprotovanje) ali pa o relaciji med njima ni možno sklepati (nevtralnost). Odgovori zgolj s "Sosledje", "Nasprotovanje" oz. "Nevtralnost".'
 
     def example_to_prompt(self, example):
-        prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis']}"
+        prompt = self.prefix["premise"] + f"{example['premise']}\n"
+        prompt += self.prefix["hypothesis"] + f"{example['hypothesis']}"
+
+        if self.prefix["output"] != "":
+            prompt += "\n" + self.prefix["output"].rstrip()
 
         return prompt
 
     def example_to_prompt_with_label(self, example):
-        prompt = f"{example['premise']}\n"
-        prompt += f"{example['hypothesis']}\n"
-        prompt += f"{self.label_to_text(example['label'])}\n\n"
+        prompt = self.prefix["premise"] + f"{example['premise']}\n"
+        prompt += self.prefix["hypothesis"] + f"{example['hypothesis']}\n"
+        prompt += self.prefix["output"] + f"{self.label_to_text(example['label'])}\n\n"
 
         return prompt, self.get_label(example)
 

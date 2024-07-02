@@ -47,7 +47,7 @@ def load_model(model_path, f_out) -> MegatronGPTModel:
     return model
 
 
-def load_data(dataset, load_ht, load_mt, seed, prompt_template) -> SloBenchDataLoader:
+def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBenchDataLoader:
     assert (
             dataset=="NLI" or load_ht or load_mt
     ), "Loading MT and HT are both set to False. At least one must be set to True."
@@ -64,21 +64,21 @@ def load_data(dataset, load_ht, load_mt, seed, prompt_template) -> SloBenchDataL
             "Ignoring config values for machine translated and human translated data as WSC includes only human translated data.")
 
     if dataset == "BoolQ":
-        data_loader = BoolQDataLoader(load_ht, load_mt, seed, prompt_template)
+        data_loader = BoolQDataLoader(load_ht, load_mt, seed, prompt_template, prefix)
     elif dataset == "MultiRC":
-        data_loader = MultiRCDataLoader(load_ht, load_mt, seed, prompt_template)
+        data_loader = MultiRCDataLoader(load_ht, load_mt, seed, prompt_template, prefix)
     elif dataset == "WSC":
-        data_loader = WSCDataLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template)
+        data_loader = WSCDataLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, prefix=prefix)
     elif dataset == "WSC_generative":
-        data_loader = WSCGenerativeDataLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template)
+        data_loader = WSCGenerativeDataLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, prefix=prefix)
     elif dataset == "COPA":
-        data_loader = COPADataLoader(load_ht, load_mt, seed, prompt_template)
+        data_loader = COPADataLoader(load_ht, load_mt, seed, prompt_template, prefix)
     elif dataset == "RTE":
-        data_loader = RTEDataLoader(load_ht, load_mt, seed, prompt_template)
+        data_loader = RTEDataLoader(load_ht, load_mt, seed, prompt_template, prefix)
     elif dataset == "CB":
-        data_loader = CBDataLoader(load_ht, load_mt, seed, prompt_template)
+        data_loader = CBDataLoader(load_ht, load_mt, seed, prompt_template, prefix)
     elif dataset == "NLI":
-        data_loader = NLILoader(None, None, seed, prompt_template)
+        data_loader = NLILoader(None, None, seed, prompt_template, prefix)
 
     logging.info(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -156,7 +156,8 @@ def run_engine(config, output_file):
         load_ht = benchmark.get("human_translated", False)
         load_mt = benchmark.get("machine_translated", False)
         seed = benchmark.get("seed", 42)
-        data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template)
+        prefix = benchmark.get("prefix", None)
+        data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix)
 
         evaluator = get_evaluator(dataset, f_out)
 
