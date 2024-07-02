@@ -122,16 +122,26 @@ def get_sampling_and_length_params(dataset):
         "end_strings": ['</s>']
     }
 
-    if dataset in ["BoolQ", "WSC", "RTE"]:
-        length_params = {"min_length": 0, "max_length": 2}
+    if dataset in ["BoolQ", "WSC", "COPA"]:
+        length_params = {"min_length": 0, "max_length": 5}
     elif dataset == "MultiRC":
         length_params = {"min_length": 0, "max_length": 50}
     elif dataset == "WSC_generative":
         length_params = {"min_length": 0, "max_length": 20}
-    elif dataset == "COPA":
-        length_params = {"min_length": 0, "max_length": 1}
-    elif dataset in ["CB", "NLI"]:
+    elif dataset in ["RTE", "CB", "NLI"]:
         length_params = {"min_length": 0, "max_length": 10}
+
+    # Add some end strings
+    if dataset in ["BoolQ", "WSC"]:
+        sampling_params["end_strings"] += ["Da", "da", "Ne", "ne", "Da.", "da.", "Ne.", "ne.", "Da,", "da,", "Ne,", "ne,"]
+    elif dataset == "COPA":
+        sampling_params["end_strings"] += ["1", "2"]
+    elif dataset == "RTE":
+        sampling_params["end_strings"] += ["Drži", "drži", "Ne drži", "ne drži", "Drži.", "drži.", "Ne drži.", "ne drži."]
+    elif dataset == "CB":
+        sampling_params["end_strings"] += ["Drži", "drži", "Ne drži", "ne drži", "Ne vemo", "ne vemo", "Drži.", "drži.", "Ne drži.", "ne drži.", "Ne vemo.", "ne vemo."]
+    elif dataset == "NLI":
+        sampling_params["end_strings"] += ["Sosledje", "sosledje", "Nasprotovanje", "nasprotovanje", "Nevtralnost", "nevtralnost", "Sosledje.", "sosledje.", "Nasprotovanje.", "nasprotovanje.", "Nevtralnost.", "nevtralnost."]
 
     return sampling_params, length_params
 
