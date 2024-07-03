@@ -450,9 +450,9 @@ class CBPromptCreator(SloBenchPromptCreator):
         return prompt, self.get_label(example)
 
     def label_to_text(self, label):
-        if label == "entailment":
+        if label == "entailment" or label == 0:
             return "Drži."
-        if label == "contradiction":
+        if label == "contradiction" or label == 1:
             return "Ne drži."
 
         return "Ne vemo."
@@ -515,9 +515,9 @@ class NLIPromptCreator(SloBenchPromptCreator):
         return prompt, self.get_label(example)
 
     def label_to_text(self, label):
-        if label == "entailment":
+        if label == "entailment" or label == 1:
             return "Sosledje."
-        if label == "contradiction":
+        if label == "contradiction" or label == 0:
             return "Nasprotovanje."
 
         return "Nevtralnost."
