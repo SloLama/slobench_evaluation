@@ -4,15 +4,10 @@ import warnings
 
 from tqdm import tqdm
 
-from nemo.collections.nlp.models.language_modeling.megatron_gpt_model import MegatronGPTModel
-from pytorch_lightning.trainer.trainer import Trainer
-from nemo.collections.nlp.parts.nlp_overrides import NLPDDPStrategy, NLPSaveRestoreConnector
-from nemo.utils import logging
-
 from evaluators import *
 from data_loaders import *
+from model_wrappers import *
 
-MODELS_DIR = "/ceph/hpc/data/st2311-ponj-users/models"
 SUPPORTED_DATASETS = [
     "BoolQ",
     "MultiRC",
@@ -23,28 +18,6 @@ SUPPORTED_DATASETS = [
     "CB",
     "NLI"
 ]
-
-
-def load_model(model_path, f_out) -> MegatronGPTModel:
-    trainer = Trainer(strategy=NLPDDPStrategy(), accelerator="gpu", devices=1)
-    save_restore_connector = NLPSaveRestoreConnector()
-
-    if not os.path.exists(model_path):
-        model_path = os.path.join(MODELS_DIR, model_path)
-
-    model = MegatronGPTModel.restore_from(
-        restore_path=model_path,
-        trainer=trainer,
-        save_restore_connector=save_restore_connector,
-        map_location=f'cuda:{trainer.local_rank}'
-    )
-
-    model.freeze()
-
-    f_out.write(f"Model: {model_path}\n")
-    f_out.write(f"Model config: {model.cfg}\n\n")
-
-    return model
 
 
 def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBenchDataLoader:
@@ -80,11 +53,11 @@ def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBe
     elif dataset == "NLI":
         data_loader = NLILoader(None, None, seed, prompt_template, prefix)
 
-    logging.info(f"Loading {dataset} data.")
+    print(f"Loading {dataset} data.")
     data_loader.load_data()
 
-    logging.info(f"Number of train examples: {data_loader.train_data_size()}")
-    logging.info(f"Number of evaluation examples: {data_loader.eval_data_size()}")
+    print(f"Number of train examples: {data_loader.train_data_size()}")
+    print(f"Number of evaluation examples: {data_loader.eval_data_size()}")
 
     return data_loader
 
@@ -108,48 +81,17 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
         return NLIEvaluator(f_out)
 
 
-def get_sampling_and_length_params(dataset):
-    sampling_params = {
-        "use_greedy": False,
-        "temperature": 1.0,
-        "top_k": 1,
-        "top_p": 1.0,
-        "repetition_penalty": 1.0,
-        "add_BOS": False,
-        "all_probs": False,
-        "compute_logprob": False,
-        "compute_attention_mask": False,
-        "end_strings": ['</s>']
-    }
-
-    if dataset in ["BoolQ", "WSC", "COPA"]:
-        length_params = {"min_length": 0, "max_length": 5}
-    elif dataset == "MultiRC":
-        length_params = {"min_length": 0, "max_length": 50}
-    elif dataset == "WSC_generative":
-        length_params = {"min_length": 0, "max_length": 20}
-    elif dataset in ["RTE", "CB", "NLI"]:
-        length_params = {"min_length": 0, "max_length": 10}
-
-    # Add some end strings
-    if dataset in ["BoolQ", "WSC"]:
-        sampling_params["end_strings"] += ["Da", "da", "Ne", "ne", "Da.", "da.", "Ne.", "ne.", "Da,", "da,", "Ne,", "ne,"]
-    elif dataset == "COPA":
-        sampling_params["end_strings"] += ["1", "2"]
-    elif dataset == "RTE":
-        sampling_params["end_strings"] += ["Drži", "drži", "Ne drži", "ne drži", "Drži.", "drži.", "Ne drži.", "ne drži."]
-    elif dataset == "CB":
-        sampling_params["end_strings"] += ["Drži", "drži", "Ne drži", "ne drži", "Ne vemo", "ne vemo", "Drži.", "drži.", "Ne drži.", "ne drži.", "Ne vemo.", "ne vemo."]
-    elif dataset == "NLI":
-        sampling_params["end_strings"] += ["Sosledje", "sosledje", "Nasprotovanje", "nasprotovanje", "Nevtralnost", "nevtralnost", "Sosledje.", "sosledje.", "Nasprotovanje.", "nasprotovanje.", "Nevtralnost.", "nevtralnost."]
-
-    return sampling_params, length_params
-
-
 def run_engine(config, output_file):
     f_out = open(output_file, "w")
 
-    model = load_model(config["model"], f_out)
+    model_library = config["model"]["library"]
+    if model_library == "nemo":
+        model = NemoModelWrapper(config["model"]["path"])
+    elif model_library == "huggingface":
+        model = HFModelWrapper(config["model"]["path"], config["model"].get("chat", True))
+    else:
+        raise ValueError('Unsupported model library. Only supported libraries are "nemo" and "huggingface"')
+    model.print_model_info(f_out)
     benchmarks = config["benchmarks"]
 
     default_template = "{instruction}\n\n{input}\n"
@@ -178,7 +120,7 @@ def run_engine(config, output_file):
         k_list = benchmark["k"]
         evaluation_params = benchmark["evaluation"]
 
-        sampling_params, length_params = get_sampling_and_length_params(dataset)
+        model.set_generation_params(dataset)
 
         for k in k_list:
             if k != 0:
@@ -192,21 +134,15 @@ def run_engine(config, output_file):
                     last_labels.append(last_label)
 
                 try:
-                    prediction = model.generate(
-                        [prompt],
-                        length_params=length_params,
-                        sampling_params=sampling_params
-                    )["sentences"][0]
+                    prediction = model.generate(prompt)
 
-                    # Remove prompt from prediction
-                    prediction = prediction[len(prompt):]
                 except:
                     warnings.warn(f"An error occured while generating response for the following prompt: {prompt}")
                     prediction = "An error ocured during generation. Invalid prediction."
 
                 predictions.append(prediction)
 
-            logging.info(f"Running {k}-shot evaluation for {dataset}")
+            print(f"Running {k}-shot evaluation for {dataset}")
             f_out.write(f"\nResults for {k}-shot experiment:\n")
             if k == 0:
                 evaluator.evaluate(evaluation_params, predictions, true_labels)

@@ -3,8 +3,6 @@ import numpy as np
 
 import os
 
-from nemo.utils import logging
-
 from prompt_creation import *
 
 HT_DATA_DIR = "/ceph/hpc/data/st2311-ponj-users/slobench/SuperGLUE-HumanT/csv"
@@ -28,15 +26,15 @@ class SloBenchDataLoader:
             train_data_ht = pd.read_csv(os.path.join(HT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
             eval_data_ht = pd.read_csv(os.path.join(HT_DATA_DIR, self.dataset, "val.csv"), index_col="idx")
 
-            logging.info(f"Number of human translated train examples: {train_data_ht.shape[0]}")
-            logging.info(f"Number of human translated evaluation examples: {eval_data_ht.shape[0]}")
+            print(f"Number of human translated train examples: {train_data_ht.shape[0]}")
+            print(f"Number of human translated evaluation examples: {eval_data_ht.shape[0]}")
 
         if self.mt:
             train_data_mt = pd.read_csv(os.path.join(MT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
             eval_data_mt = pd.read_csv(os.path.join(MT_DATA_DIR, self.dataset, "val.csv"), index_col="idx")
 
-            logging.info(f"Number of machine translated train examples: {train_data_mt.shape[0]}")
-            logging.info(f"Number of machine translated evaluation examples: {eval_data_mt.shape[0]}")
+            print(f"Number of machine translated train examples: {train_data_mt.shape[0]}")
+            print(f"Number of machine translated evaluation examples: {eval_data_mt.shape[0]}")
 
             if train_data_ht is not None:
                 # Replace machine translated rows with human translated ones
