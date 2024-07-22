@@ -1,0 +1,138 @@
+version:1.1
+passage.text:Marsikje po svetu drevesa jeseni izgubijo listje. Listi se obarvajo. Nato pade z dreves na tla. Ko listi padajo, imajo kinetično energijo. Čeprav so še vedno pritrjeni na drevesa, imajo tudi energijo. Ko so pritrjeni, se ne premikajo, kako lahko dobijo energijo? Namesto kinetične energije imajo shranjeno energijo. Ta shranjena energija se imenuje potencialna energija. Predmet ima potencialno energijo zaradi svojega položaja. Na primer, listi na drevesih imajo potencialno energijo, ker bi lahko padli. Padejo zaradi privlačnosti gravitacije. Potencialna energija se lahko prenese v gibanje. Tudi gibanje lahko spremenimo nazaj v potencialno energijo. Predmeti imajo potencialno energijo zaradi svojega položaja. List na drevesni veji ima potencialno energijo. Energijo listov lahko med padcem spremenimo v gibanje. Ko je list na tleh, nima več potenciala, če ga ne dvignemo nazaj.
+passage.questions.5.question:Kaj se jeseni zgodi z drevesi?
+passage.questions.5.idx:480.0
+passage.questions.5.answers.6.text:Izgubijo liste
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:2464.0
+passage.questions.5.answers.5.text:Pridobijo kinetično energijo
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:2463.0
+passage.questions.5.answers.4.text:Drevesa izgubijo liste in njihovi listi spremenijo barvo
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2462.0
+passage.questions.5.answers.3.text:Izgubijo liste
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2461.0
+passage.questions.5.answers.2.text:So v gibanju
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2460.0
+passage.questions.5.answers.1.text:Prezimijo
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2459.0
+passage.questions.5.answers.0.text:V mirujočem stanju
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2458.0
+passage.questions.4.question:Kakšno energijo imajo listi, ko so še na drevesih?
+passage.questions.4.idx:479.0
+passage.questions.4.answers.6.text:Energija gibanja
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:2457.0
+passage.questions.4.answers.5.text:Potencialna energija
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:2456.0
+passage.questions.4.answers.4.text:Shranjena energija
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2455.0
+passage.questions.4.answers.3.text:Futuristična vrsta energije
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2454.0
+passage.questions.4.answers.2.text:Sončna energija
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2453.0
+passage.questions.4.answers.1.text:Padajoča energija
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2452.0
+passage.questions.4.answers.0.text:kinetična energija
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2451.0
+passage.questions.3.question:Kako potencialna energija obstaja in se spreminja?
+passage.questions.3.idx:478.0
+passage.questions.3.answers.6.text:Z jedrsko energijo
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:2450.0
+passage.questions.3.answers.5.text:Skozi prevodnost
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:2449.0
+passage.questions.3.answers.4.text:Potencialna energija lahko obstaja, ker bo nekaj padlo in se bo spremenilo zaradi gibanja
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:2448.0
+passage.questions.3.answers.3.text:Potencialno energijo povzroča položaj predmeta in ta se spremeni v gibanje
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2447.0
+passage.questions.3.answers.2.text:Skozi gravitacijo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2446.0
+passage.questions.3.answers.1.text:Skozi kinetično energijo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2445.0
+passage.questions.3.answers.0.text:Potencialna energija obstaja iz listov in se spreminja zaradi jeseni
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2444.0
+passage.questions.2.question:Kaj je primer potencialne energije?
+passage.questions.2.idx:477
+passage.questions.2.answers.6.text:Listi preden listi padejo na tla
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:2443.0
+passage.questions.2.answers.5.text:Listi pritrjeni na drevo
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:2442.0
+passage.questions.2.answers.4.text:Gravitacija
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2441.0
+passage.questions.2.answers.3.text:Prevajanje
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2440.0
+passage.questions.2.answers.2.text:Gibanje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2439.0
+passage.questions.2.answers.1.text:Listi na drevesih imajo potencialno energijo, ker lahko padejo od gravitacije
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:2438
+passage.questions.2.answers.0.text:Listi padajo
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:2437
+passage.questions.1.question:Kaj se dogaja z listi jeseni v mnogih delih sveta?
+passage.questions.1.idx:476
+passage.questions.1.answers.6.text:Spremenijo barvo in padejo z dreves
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:2436.0
+passage.questions.1.answers.5.text:Umrejo
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2435.0
+passage.questions.1.answers.4.text:Pridobijo kinetično energijo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2434.0
+passage.questions.1.answers.3.text:Več rastejo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2433.0
+passage.questions.1.answers.2.text:Listi postanejo barvni in nato padejo na tla
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2432.0
+passage.questions.1.answers.1.text:Obarvajo se in padejo
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:2431
+passage.questions.1.answers.0.text:Prezimijo
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:2430
+passage.questions.0.question:Kaj se zgodi z listom, ko pade?
+passage.questions.0.idx:475
+passage.questions.0.answers.5.text:Potencialna energija se spremeni v kinetično
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2429.0
+passage.questions.0.answers.4.text:Pridobijo kinetično energijo
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2428.0
+passage.questions.0.answers.3.text:Oddajajo energijo gibanja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2427.0
+passage.questions.0.answers.2.text:Leafova energija se spremeni v gibanje
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2426.0
+passage.questions.0.answers.1.text:Spreminjajo barve
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2425
+passage.questions.0.answers.0.text:Dobijo energijo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2424
+idx:42

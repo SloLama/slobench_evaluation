@@ -1,0 +1,6 @@
+choice1:Pes je skočil.
+choice2:Pes se je popraskal po kožuhu.
+idx:65
+label:0
+premise: Psa je mamila s piškotom.
+question:effect

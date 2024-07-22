@@ -1,0 +1,4 @@
+idx:2715
+label:True
+passage:Izotermični postopek - Izotermični postopek je sprememba sistema, pri kateri temperatura ostane konstantna: ΔT = 0. To se običajno zgodi, ko je sistem v stiku z zunanjim toplotnim rezervoarjem (toplotna kopel) in bo sprememba potekala počasi dovolj, da se sistem lahko še naprej prilagaja temperaturi rezervoarja z izmenjavo toplote. Nasprotno pa je pri adiabatskem postopku, ko sistem ne izmenjuje toplote z okolico (Q = 0). Z drugimi besedami, v izotermičnem procesu je vrednost ΔT = 0 in torej ΔU = 0 (samo za idealen plin), vendar Q ≠ 0, medtem ko je v adiabatskem procesu ΔT ≠ 0, vendar Q = 0.
+question:obstaja prenos toplote v izotermičnem procesu

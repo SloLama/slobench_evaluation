@@ -1,0 +1,103 @@
+version:1.1
+passage.text:Gospod Thorndike je vstal in v slovo podal Andrewsu roko. Obrnil se je in čez sodno sobo so se srečale oči finančnika in stenografa. Ob pogledu na velikega moža je Spear zardel rdečo, nato pa je njegov pogled obupa počasi izginil; in v njegove oči je prišlo nejeverno upanje in hvaležnost. Naglo je obrnil glavo proti steni. Gospod Thorndike je stal neodločen in se nato spet umaknil na svoj stol. Prvi mož v vrsti je bil že pri ograji, vprašanja sodnika pa mu je ponavljal drugi pomočnik okrožnega državnega tožilca in sodni uslužbenec. Njegovi zamrmrani odgovori so bili nato ponovljeni sodniku. &quot;Pravi, da je poročen, naturaliziran državljan, luteranska cerkev, po poklicu sekalec.&quot; Probacionarka, z rokami napolnjenimi s papirji, je strmela naprej in šepetala. &quot;Gospa Austin pravi,&quot; je nadaljevala okrožna državna tožilka, &quot;preučila je ta primer in prosila, naj ga moški preda. Ima ženo in tri otroke; podpira jih že pet let.&quot; &quot;Je žena na sodišču?&quot; je dejal sodnik. Tanka, izprana, lepa ženska je vstala in stisnila roke pred seboj. &quot;Je bil ta moški dober mož za vas, gospa?&quot; je vprašal mladi sodnik. Ženska je vložila v ostra zagotovila. Noben moški ne bi mogel biti boljši mož. Bi ga odpeljala nazaj? Dejansko bi ga odpeljala nazaj. Iztegnila je roke, kot da bi fizično povlekla moža iz stebre. Sodnica se je poklonila probacijskemu uradniku, ona pa ji je priklicala zapornika.
+passage.questions.7.question:Je ženska dobro govorila o svojem možu?
+passage.questions.7.idx:2986.0
+passage.questions.7.answers.2.text:Mogoče
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:15812.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:15811.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:15810.0
+passage.questions.6.question:Kakšen je bil poklic gospoda Thorndikeja?
+passage.questions.6.idx:2985.0
+passage.questions.6.answers.5.text:stenograf
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:15809.0
+passage.questions.6.answers.4.text:pomočnik okrožnega državnega tožilca
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:15808.0
+passage.questions.6.answers.3.text:sodni sobi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:15807.0
+passage.questions.6.answers.2.text:Sodnik
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:15806.0
+passage.questions.6.answers.1.text:G. Thorndike je bil finančnik
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:15805.0
+passage.questions.6.answers.0.text:Rezalnik
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:15804.0
+passage.questions.5.question:Je bil prvi mož v vrsti dober mož?
+passage.questions.5.idx:2984.0
+passage.questions.5.answers.4.text:Moška žena je izjavila, da zanjo ne bi mogel biti boljši mož
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:15803.0
+passage.questions.5.answers.3.text:Da
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:15802.0
+passage.questions.5.answers.2.text:Ne
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:15801.0
+passage.questions.5.answers.1.text:Gospod Thorndike
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:15800.0
+passage.questions.5.answers.0.text:Mogoče
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15799.0
+passage.questions.4.question:Bi ga žena prvega moža odpeljala nazaj?
+passage.questions.4.idx:2983.0
+passage.questions.4.answers.1.text:Ne
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:15798.0
+passage.questions.4.answers.0.text:Moška žena je izjavila, da ga bo odpeljala nazaj
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:15797.0
+passage.questions.3.question:Kdo se je oglasil v imenu žene?
+passage.questions.3.idx:2982.0
+passage.questions.3.answers.3.text:Probacijski uradnik
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:15796.0
+passage.questions.3.answers.2.text:Sodnik
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15795.0
+passage.questions.3.answers.1.text:Sodni uslužbenec
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15794.0
+passage.questions.3.answers.0.text:Okrožni tožilec
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:15793.0
+passage.questions.2.question:Kako je bilo ime stenografu?
+passage.questions.2.idx:2981.0
+passage.questions.2.answers.2.text:Andrew
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:15792.0
+passage.questions.2.answers.1.text:Thorndike
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:15791.0
+passage.questions.2.answers.0.text:Stenograf se je imenoval Spear
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:15790.0
+passage.questions.1.question:Se zdi, da moški govori neposredno s sodnikom?
+passage.questions.1.idx:2980.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15789.0
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:15788.0
+passage.questions.0.question:Kakšen je bil poklic prvega človeka na vrsti?
+passage.questions.0.idx:2979
+passage.questions.0.answers.2.text:Po poklicu je bil rezalnik
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15787.0
+passage.questions.0.answers.1.text:Sodnik
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:15786
+passage.questions.0.answers.0.text:Rezalnik
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:15785
+idx:266

@@ -1,0 +1,111 @@
+version:1.1
+passage.text:First of America Bank Corp. je sporočila, da je zaključila nakup Midwest Financial Group Inc. za približno 250 milijonov dolarjev. First of America, ki ima zdaj 45 bank in 12,5 milijarde ameriških dolarjev premoženja, je januarja objavila dogovor za nakup bančnega holdinga Peoria, Ill. Midwest Financial ima 2,3 milijarde dolarjev premoženja in osem bank. Hčerinske banke Midwest Financial bodo še naprej delovale pod današnjimi imeni do začetka leta 1990, ko bo vsaka sprejela ime First of America. Kalamazoo, ameriški First of America, je dejal, da bo odpravil 13 vodstvenih položajev nekdanje matične družbe Midwest Financial. First of America je dejal, da bodo nekateri menedžerji zaposlili druga dela pri First of America. Vendar pa je dejal, da bodo odpravnine tistim direktorjem, ki ne ostanejo v podjetju, zmanjšale poslovne rezultate First of America za leto 1989 za 3 do 4 milijone dolarjev ali 15 centov na 20 centov na delnico.
+passage.questions.5.question:Zakaj bo The Midwest Financial sprejel novo ime
+passage.questions.5.idx:621.0
+passage.questions.5.answers.6.text:Ker bi Midwest Financial prenehal delovati v začetku leta 1990
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:3233.0
+passage.questions.5.answers.5.text:Kupila jih je First of America Bank Corp
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:3232.0
+passage.questions.5.answers.4.text:Ker zmanjšuje poslovne rezultate za 3 do 4 milijone dolarjev
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3231.0
+passage.questions.5.answers.3.text:Ker je bila skupina razpuščena
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3230.0
+passage.questions.5.answers.2.text:Kot jo je prevzela First of America Bank Corp
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3229.0
+passage.questions.5.answers.1.text:First of America Bank Corp je prevzel Midwest Financial Group
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3228.0
+passage.questions.5.answers.0.text:Izločeni so bili
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3227.0
+passage.questions.4.question:Koliko menedžerjev se lahko zaposli na drugih delovnih mestih znotraj First of America?
+passage.questions.4.idx:620.0
+passage.questions.4.answers.3.text:Nekateri od 45
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3226.0
+passage.questions.4.answers.2.text:Nekateri od 13
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3225.0
+passage.questions.4.answers.1.text:Vse 13
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3224.0
+passage.questions.4.answers.0.text:20.
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3223.0
+passage.questions.3.question:Kje se nahaja Midwest Financial Group?
+passage.questions.3.idx:619.0
+passage.questions.3.answers.5.text:Sedež podjetja je v Michiganu
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:3222.0
+passage.questions.3.answers.4.text:Peoria, IL
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:3221.0
+passage.questions.3.answers.3.text:Charlotte, NC
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3220.0
+passage.questions.3.answers.2.text:Peoria, Michigan
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3219.0
+passage.questions.3.answers.1.text:Srednji zahod
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3218.0
+passage.questions.3.answers.0.text:Washington DC
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3217.0
+passage.questions.2.question:Katera bančna skupina je pridobila dva ločena bančna subjekta?
+passage.questions.2.idx:618.0
+passage.questions.2.answers.4.text:First of America Bank Corp
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:3216.0
+passage.questions.2.answers.3.text:Midwest Financial
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3215.0
+passage.questions.2.answers.2.text:Midwest Financial Group Inc.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3214.0
+passage.questions.2.answers.1.text:Hčerinske banke Midwest Financial
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:3213.0
+passage.questions.2.answers.0.text:Korporacija Bank of America
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:3212.0
+passage.questions.1.question:Koliko hčerinskih bank pod Midwest Financial Group bo po prevzemu prevzelo ime First of America?
+passage.questions.1.idx:617.0
+passage.questions.1.answers.5.text:30.
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:3211.0
+passage.questions.1.answers.4.text:13.
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3210.0
+passage.questions.1.answers.3.text:15.
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3209.0
+passage.questions.1.answers.2.text:8.
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3208.0
+passage.questions.1.answers.1.text:Osem bank
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:3207.0
+passage.questions.1.answers.0.text:45
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:3206.0
+passage.questions.0.question:Koliko bank je pridobila First of America Bank Corp s prevzemom Midwest Financial Group Inc.
+passage.questions.0.idx:616
+passage.questions.0.answers.3.text:4.
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3205.0
+passage.questions.0.answers.2.text:8.
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3204.0
+passage.questions.0.answers.1.text:12.
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3203
+passage.questions.0.answers.0.text:45
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3202
+idx:52

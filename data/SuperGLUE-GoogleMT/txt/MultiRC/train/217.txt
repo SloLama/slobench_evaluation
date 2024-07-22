@@ -1,0 +1,225 @@
+version:1.1
+passage.text:Naše sonce in druge zvezde sproščajo svetlobno energijo. Vsaj to vidimo. Naše sonce in zvezde oddajajo tudi več kot le svetlobo. Znanstveniki imenujejo vrsto energije, ki jo naše sonce in zvezde sproščajo elektromagnetno. Ta oblika energije potuje skozi vesolje. Elektromagnetna energija vključuje svetlobo, ki jo vidimo. Vključuje tudi veliko več. Številne stvari vemo, vendar o njih ne razmišljamo vedno. Elektromagnetna energija vključuje radijske valove, mikrovalovne pečice in rentgenske žarke. Zdaj imamo v domovih in pisarnah naprave, ki sproščajo te iste oblike energije. Elektromagnetno energijo uporabljamo za boljše življenje.
+passage.questions.9.question:Za kaj uporabljamo elektromagnetno energijo?
+passage.questions.9.idx:2414.0
+passage.questions.9.answers.4.text:Za pogon avtomobilov
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:12771.0
+passage.questions.9.answers.3.text:Radijski valovi, mikrovalovi in rentgenski žarki. Uporabljamo ga tudi za boljše življenje
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:12770.0
+passage.questions.9.answers.2.text:Avtomobili
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:12769.0
+passage.questions.9.answers.1.text:Naprave v naših domovih in pisarnah
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:12768.0
+passage.questions.9.answers.0.text:Da bi si polepšali življenje
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:12767.0
+passage.questions.8.question:Naše sonce in zvezde sproščajo svetlobno energijo, sproščajo pa tudi kakšno drugo vrsto energije?
+passage.questions.8.idx:2413.0
+passage.questions.8.answers.3.text:Elektromagnetna energija
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:12766.0
+passage.questions.8.answers.2.text:Elektromagnetna energija
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:12765.0
+passage.questions.8.answers.1.text:Energija, ki jo poganja veter
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:12764.0
+passage.questions.8.answers.0.text:Vetrna energija
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:12763.0
+passage.questions.7.question:Od kod prihajajo rentgenski žarki?
+passage.questions.7.idx:2412.0
+passage.questions.7.answers.3.text:Zemlja
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:12762.0
+passage.questions.7.answers.2.text:Sonce in druge zvezde
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:12761.0
+passage.questions.7.answers.1.text:Iz bolnišnice
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:12760.0
+passage.questions.7.answers.0.text:Elektromagnetna energija
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:12759.0
+passage.questions.6.question:Zakaj uporabljamo radijske valove, mikrovalovne pečice in rentgenske žarke?
+passage.questions.6.idx:2411.0
+passage.questions.6.answers.2.text:Da bi si polepšali življenje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:12758.0
+passage.questions.6.answers.1.text:Da si pokvarimo življenje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:12757.0
+passage.questions.6.answers.0.text:Za boj proti našim sovražnikom
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:12756.0
+passage.questions.5.question:Ali elektromagnetna energija vključuje samo svetlobo?
+passage.questions.5.idx:2410.0
+passage.questions.5.answers.2.text:Ne. (Vključuje veliko več.)
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:12755.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:12754.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:12753.0
+passage.questions.4.question:Kako je označena elektromagnetna energija?
+passage.questions.4.idx:2409.0
+passage.questions.4.answers.4.text:Potuje skozi vesolje
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:12752.0
+passage.questions.4.answers.3.text:Tokovi
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:12751.0
+passage.questions.4.answers.2.text:Svetloba, ki jo vidimo, radijski valovi, mikrovalovi in rentgenski žarki
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:12750.0
+passage.questions.4.answers.1.text:Potuje skozi vodo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:12749.0
+passage.questions.4.answers.0.text:Svetloba
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:12748.0
+passage.questions.3.question:Kakšno vrsto energije lahko vidimo?
+passage.questions.3.idx:2408.0
+passage.questions.3.answers.2.text:Mikrovalovi
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12747.0
+passage.questions.3.answers.1.text:Elektromagnetna energija
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:12746.0
+passage.questions.3.answers.0.text:Svetlobna energija
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:12745.0
+passage.questions.2.question:Kaj oddaja svetlobo?
+passage.questions.2.idx:2407.0
+passage.questions.2.answers.2.text:Zemlja
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12744.0
+passage.questions.2.answers.1.text:Žarnice
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12743.0
+passage.questions.2.answers.0.text:Sonce in zvezde
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:12742.0
+passage.questions.14.question:Katere so štiri oblike energije, ki so elektromagnetne?
+passage.questions.14.idx:2419.0
+passage.questions.14.answers.9.text:Ogenj
+passage.questions.14.answers.9.label:0,0
+passage.questions.14.answers.9.idx:12795.0
+passage.questions.14.answers.8.text:Mikrovalovi
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:12794.0
+passage.questions.14.answers.7.text:Rentgenski žarki
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:12793.0
+passage.questions.14.answers.6.text:Oceanski valovi
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:12792.0
+passage.questions.14.answers.5.text:Zvočna energija,
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:12791.0
+passage.questions.14.answers.4.text:Svetloba, radijski valovi, mikrovalovi in rentgenski žarki
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:12790.0
+passage.questions.14.answers.3.text:Visoki valovi
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:12789.0
+passage.questions.14.answers.2.text:Radijski valovi
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:12788.0
+passage.questions.14.answers.10.text:Svetlobna energija, radijski valovi, mikrovalovi in rentgenski žarki
+passage.questions.14.answers.10.label:1.0
+passage.questions.14.answers.10.idx:12796.0
+passage.questions.14.answers.1.text:Zvočni valovi
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:12787.0
+passage.questions.14.answers.0.text:Veter
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:12786.0
+passage.questions.13.question:Kje uporabljamo elektromagnetno energijo, da si izboljšamo življenje?
+passage.questions.13.idx:2418.0
+passage.questions.13.answers.3.text:Avtomobili
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:12785.0
+passage.questions.13.answers.2.text:Naši domovi in pisarne
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:12784.0
+passage.questions.13.answers.1.text:V parku
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:12783.0
+passage.questions.13.answers.0.text:Naprave v naših domovih in pisarnah
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:12782.0
+passage.questions.12.question:Ali svetlobni in radijski valovi potujejo po vesolju?
+passage.questions.12.idx:2417.0
+passage.questions.12.answers.2.text:Da
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:12781.0
+passage.questions.12.answers.1.text:Samo podnevi
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:12780.0
+passage.questions.12.answers.0.text:Ne
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:12779.0
+passage.questions.11.question:Kaj ustvarja elektromagnetna energija, ki jo vidimo, ko potujemo skozi vesolje?
+passage.questions.11.idx:2416.0
+passage.questions.11.answers.2.text:Kometi
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:12778.0
+passage.questions.11.answers.1.text:Svetloba
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:12777.0
+passage.questions.11.answers.0.text:Hrup
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:12776.0
+passage.questions.10.question:Od kod prihajajo radijski valovi?
+passage.questions.10.idx:2415.0
+passage.questions.10.answers.3.text:Zemlja
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:12775.0
+passage.questions.10.answers.2.text:Sonce in druge zvezde
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:12774.0
+passage.questions.10.answers.1.text:Stereo
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:12773.0
+passage.questions.10.answers.0.text:Elektromagnetna energija
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:12772.0
+passage.questions.1.question:Kaj poleg sonca in zvezd sprošča elektromagnetno energijo?
+passage.questions.1.idx:2406.0
+passage.questions.1.answers.4.text:Domače naprave
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:12741.0
+passage.questions.1.answers.3.text:Naprave v naših domovih in pisarnah
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:12740.0
+passage.questions.1.answers.2.text:Zemlja
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12739.0
+passage.questions.1.answers.1.text:Naprave v naših domovih
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:12738.0
+passage.questions.1.answers.0.text:Ocean
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12737.0
+passage.questions.0.question:Katera oblika energije potuje skozi vesolje?
+passage.questions.0.idx:2405
+passage.questions.0.answers.3.text:Zvočna energija
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:12736.0
+passage.questions.0.answers.2.text:Elektromagnetna energija
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:12735.0
+passage.questions.0.answers.1.text:Elektromagnetna energija
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:12734
+passage.questions.0.answers.0.text:Energija na vodni pogon
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:12733
+idx:217

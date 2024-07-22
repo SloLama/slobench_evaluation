@@ -1,0 +1,174 @@
+version:1.1
+passage.text:Albrecht Durer (/ &#39;dU @ r @ r,&#39; djU @ r @ r /; nemško: [&#39;albRect&#39; dy: Ra]; 21. maja 1471 - 6. aprila 1528) je bil slikar, grafik in teoretik nemške renesanse. Durer, rojen v Nürnbergu, je zaradi svojih visokokakovostnih lesorezov utrdil svoj ugled in vpliv po Evropi, ko je bil še dvajsetletnik. Bil je v komunikaciji z glavnimi italijanskimi umetniki svojega časa, vključno z Raphaelom, Giovannijem Bellinijem in Leonardom da Vincijem, od leta 1512 pa ga je pokrovitelj cesar Maximilian I. Njegovo veliko delo vključuje gravure, njegove najljubše tehnike v njegovih kasnejših grafikah, oltarne slike, portreti in avtoportreti, akvareli in knjige. Lesorezi, kot je serija Apokalipsa (1498), ohranjajo bolj gotski okus kot ostalo njegovo delo. Med njegove dobro znane gravure spadajo vitez, smrt in hudič (1513), sveti Jeronim v svoji študiji (1514) in Melencolia I (1514), ki je bila predmet obsežne analize in interpretacije. Akvareli ga označujejo tudi za enega prvih evropskih krajinskih umetnikov, medtem ko so njegovi ambiciozni lesorezi revolucionirali potencial tega medija. Durerjeva uvedba klasičnih motivov v severno umetnost je s svojim znanjem italijanskih umetnikov in nemških humanistov zagotovila njegov sloves ene najpomembnejših osebnosti severne renesanse. To je podkrepljeno z njegovimi teoretičnimi razpravami, ki vključujejo načela matematike, perspektivo in idealna razmerja.
+passage.questions.8.question:Katere vrste grafik so Durerju prislužile sloves po vsej Evropi, ko je bil še dvajseta leta, in revolucionirale potencial tega medija?
+passage.questions.8.idx:4688.0
+passage.questions.8.answers.4.text:Slike
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:24839.0
+passage.questions.8.answers.3.text:Portreti
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:24838.0
+passage.questions.8.answers.2.text:Odtisi lesa
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:24837.0
+passage.questions.8.answers.1.text:Teoretik
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:24836.0
+passage.questions.8.answers.0.text:Lesorezi
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:24835.0
+passage.questions.7.question:Katere tri posebne vrste dela so Durerju prinesle dober sloves?
+passage.questions.7.idx:4687.0
+passage.questions.7.answers.6.text:Portreti
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:24834.0
+passage.questions.7.answers.5.text:Akvareli
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:24833.0
+passage.questions.7.answers.4.text:Graviranje
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:24832.0
+passage.questions.7.answers.3.text:Akvareli, lesorezi in teoretične razprave
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:24831.0
+passage.questions.7.answers.2.text:Teoretik
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:24830.0
+passage.questions.7.answers.1.text:Lesorezi
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:24829.0
+passage.questions.7.answers.0.text:Knjige
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:24828.0
+passage.questions.6.question:Kateri so trije mediji, po katerih je znan?
+passage.questions.6.idx:4686.0
+passage.questions.6.answers.6.text:Grafičar
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:24827.0
+passage.questions.6.answers.5.text:Severna umetnost
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:24826.0
+passage.questions.6.answers.4.text:Klasični motivi
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:24825.0
+passage.questions.6.answers.3.text:Nemški humanist
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:24824.0
+passage.questions.6.answers.2.text:Teoretik
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:24823.0
+passage.questions.6.answers.1.text:Rezanje lesa, graviranje in akvarel
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:24822.0
+passage.questions.6.answers.0.text:Slikar
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:24821.0
+passage.questions.5.question:Kako mu je kasneje v življenju pomagala komunikacija z največjimi italijanskimi umetniki?
+passage.questions.5.idx:4685.0
+passage.questions.5.answers.3.text:Prednostna tehnika v njegovih kasnejših odtisih
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:24820.0
+passage.questions.5.answers.2.text:Pokrovitelj mu je bil cesar Maksimilijan I.
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:24819.0
+passage.questions.5.answers.1.text:Zagotovil si je svoj ugled
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:24818.0
+passage.questions.5.answers.0.text:V svoje delo je lahko vpeljal klasične motive, s čimer si je zagotovil sloves ene najpomembnejših osebnosti severne renesanse
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:24817.0
+passage.questions.4.question:Durer si je ugled v Severni Evropi zagotovil z vedenjem kakšnih umetnikov?
+passage.questions.4.idx:4684.0
+passage.questions.4.answers.6.text:Evropski
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:24816.0
+passage.questions.4.answers.5.text:Maksimilijan I.
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:24815.0
+passage.questions.4.answers.4.text:Raphael, Giovanni Bellini in Leonardo da Vinci
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:24814.0
+passage.questions.4.answers.3.text:Rafael
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:24813.0
+passage.questions.4.answers.2.text:Leonardo da Vinci
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:24812.0
+passage.questions.4.answers.1.text:Apokolipse
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:24811.0
+passage.questions.4.answers.0.text:Giovanni Bellini
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:24810.0
+passage.questions.3.question:V katerem mestu in v katerem letu se je rodil Durer?
+passage.questions.3.idx:4683.0
+passage.questions.3.answers.2.text:Evropski 1498
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:24809.0
+passage.questions.3.answers.1.text:Italijan, 1514
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:24808.0
+passage.questions.3.answers.0.text:Nürnberg, 1471
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:24807.0
+passage.questions.2.question:Kdo je bil slikar, grafik in teoretik nemške renesanse, rojene v Nürnbergu v Nemčiji?
+passage.questions.2.idx:4682.0
+passage.questions.2.answers.3.text:Giovanni Bellini
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:24806.0
+passage.questions.2.answers.2.text:Albrecht Durer
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:24805.0
+passage.questions.2.answers.1.text:Leonardo da Vinci
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24804.0
+passage.questions.2.answers.0.text:Rafael
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24803.0
+passage.questions.1.question:Kaj je bil eden od njegovih spoštovanih lesorezov, ki jih je naredil v svojih dvajsetih letih?
+passage.questions.1.idx:4681.0
+passage.questions.1.answers.7.text:Melenkolija
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:24802.0
+passage.questions.1.answers.6.text:Maksimilijan I.
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:24801.0
+passage.questions.1.answers.5.text:Gotsko
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:24800.0
+passage.questions.1.answers.4.text:Severna renesansa
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:24799.0
+passage.questions.1.answers.3.text:Sveti Jeronim v svoji študiji
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:24798.0
+passage.questions.1.answers.2.text:Smrt in hudič
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24797.0
+passage.questions.1.answers.1.text:Vitez
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:24796.0
+passage.questions.1.answers.0.text:Serija Apokalipsa
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:24795.0
+passage.questions.0.question:Koliko je bil star Durer, ko ga je pokrovitelj cesar Maksimilijan I.?
+passage.questions.0.idx:4680
+passage.questions.0.answers.5.text:41
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:24794.0
+passage.questions.0.answers.4.text:20.
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:24793.0
+passage.questions.0.answers.3.text:Pod 20 let
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:24792.0
+passage.questions.0.answers.2.text:Najstniška
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:24791.0
+passage.questions.0.answers.1.text:Dvajset let
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:24790
+passage.questions.0.answers.0.text:Trideseta
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24789
+idx:413

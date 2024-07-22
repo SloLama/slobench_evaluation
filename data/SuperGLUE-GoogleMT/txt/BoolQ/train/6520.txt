@@ -1,0 +1,4 @@
+idx:6520
+label:False
+passage:Binarno drevo iskanja - binarno drevo iskanja je zakoreninjeno binarno drevo, katerega notranja vozlišča shranijo ključ (in neobvezno pripadajočo vrednost) in imajo po dva ločena poddrevesa, ki sta običajno označena levo in desno. Drevo dodatno izpolnjuje binarno lastnost iskanja, ki navaja, da mora biti ključ v vsakem vozlišču večji ali enak kateremu koli ključu, shranjenemu v levem pod drevesu, in manjši ali enak kateremu koli ključu, shranjenemu v desnem poddrevesu. Listi (končna vozlišča) drevesa ne vsebujejo ključev in nimajo strukture, ki bi jih ločevala med seboj.
+question:je binarno drevo binarno drevo iskanja

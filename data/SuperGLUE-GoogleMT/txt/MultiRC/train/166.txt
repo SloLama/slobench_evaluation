@@ -1,0 +1,226 @@
+version:1.1
+passage.text:Washington (CNN) - Ameriška uprava za hrano in zdravila je v sredo objavila, da so laboratorijski testi na priljubljenih napravah za kajenje, znanih kot elektronske cigarete, pokazali, da vsebujejo rakotvorne snovi in druge strupene kemikalije, nevarne za ljudi. E-cigarete delujejo na baterije in vsebujejo kartuše, napolnjene z nikotinom in drugimi kemikalijami. Naprave, znane kot &quot;e-cigarete&quot;, delujejo na baterije in vsebujejo kartuše, napolnjene z nikotinom in drugimi kemikalijami, začinjene z okusi, kot so čokolada, kola ali žvečilni gumi. Medtem ko proizvajalci e-cigarete označujejo za &quot;zdrav način kajenja&quot;, zvezni zdravstveni delavci pravijo, da naprave nikotin, ki povzroča veliko zasvojenosti, in druge kemikalije spremenijo v hlape, ki jih uporabnik vdihne. &quot;FDA je zaskrbljena zaradi varnosti teh izdelkov in njihovega trženja v javnosti,&quot; je povedala dr. Margaret A. Hamburg, komisarka FDA. CNN je po objavi FDA stopil v stik s Florido Smoking Everywhere, enim največjih proizvajalcev e-cigaret, in tiskovna predstavnica je dejala, da podjetje nima komentarjev. Ker e-cigarete niso bile predložene FDA v oceno ali odobritev, agencija nikakor ni mogla vedeti ravni nikotina ali količin ali vrst drugih kemikalij, ki jih različne znamke teh izdelkov dostavljajo uporabniku. Zato jih je FDA začela preizkušati. Oddelek za farmacevtsko analizo FDA je analiziral sestavine v majhnem vzorcu vložkov dveh vodilnih znamk e-cigaret. FDA pri objavi svojih informacij ni identificirala obeh družb, je pa v enem vzorcu dejala, da je bil odkrit dietilen glikol - kemikalija, ki se uporablja za antifriz in je strupena za ljudi. Drugi vzorci so odkrili rakotvorne snovi, ki so nevarne za tiste, ki jih kadijo, je dejala FDA. FDA preučuje in zasega pošiljke e-cigaret, ki niso ameriške, na ameriški meji od poletja 2008. Do danes je bilo ustavljenih 50 pošiljk. Do sedaj pregledani izdelki ustrezajo opredelitvi kombiniranega zdravila in pripomočkov po Zveznem zakonu o hrani, zdravilih in kozmetiki. &quot;O teh napravah vemo zelo malo, je dejal dr. Jonathan Samet, direktor Inštituta za globalno zdravje na Univerzi v Južni Kaliforniji,&quot; toda če rečemo, da so zdrave, je to zelo dvomljivo. &quot;
+passage.questions.9.question:Zakaj je FDA zaskrbljena zaradi e-cigaret?
+passage.questions.9.idx:1839.0
+passage.questions.9.answers.6.text:Nikoten in kemikalije spremeni v vdihane hlape
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:9603.0
+passage.questions.9.answers.5.text:Poceni
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:9602.0
+passage.questions.9.answers.4.text:Blagovne znamke
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:9601.0
+passage.questions.9.answers.3.text:Močno zasvojenost
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:9600.0
+passage.questions.9.answers.2.text:Nevarno
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:9599.0
+passage.questions.9.answers.1.text:Zaradi načina trženja in tudi niso prepričani v raven nikotina v izdelku
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:9598.0
+passage.questions.9.answers.0.text:Varno
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:9597.0
+passage.questions.8.question:Kaj je FDA ugotovila v testiranih vzorcih e-cigaret?
+passage.questions.8.idx:1838.0
+passage.questions.8.answers.6.text:Našli so sestavino antifriza, znano kot dietilen glikol, ter druge rakotvorne snovi in kemikalije, strupene za ljudi
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:9596.0
+passage.questions.8.answers.5.text:Dietilen glikol - kemikalija, ki se uporablja v antifrizu
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:9595.0
+passage.questions.8.answers.4.text:Olje za kuhanje
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:9594.0
+passage.questions.8.answers.3.text:Rakotvorne snovi, ki so nevarne za tiste, ki jih kadijo
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:9593.0
+passage.questions.8.answers.2.text:Dietilen glikol in rakotvorne snovi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:9592.0
+passage.questions.8.answers.1.text:Kola, žvečilni gumi
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:9591.0
+passage.questions.8.answers.0.text:Maslo
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:9590.0
+passage.questions.7.question:Kje je FDA našla kemikalijo dietilen glikol?
+passage.questions.7.idx:1837.0
+passage.questions.7.answers.4.text:Ustni kos
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:9589.0
+passage.questions.7.answers.3.text:Kartuše
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:9588.0
+passage.questions.7.answers.2.text:V bateriji
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:9587.0
+passage.questions.7.answers.1.text:Pošiljka
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:9586.0
+passage.questions.7.answers.0.text:Majhen vzorec kartuš
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:9585.0
+passage.questions.6.question:Opišite nekatere značilnosti e-cigaret.
+passage.questions.6.idx:1836.0
+passage.questions.6.answers.9.text:Kozmetika in hrana
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:9584.0
+passage.questions.6.answers.8.text:Od leta 2008 na naše obale prihaja dodatnih 50 tovornih ladij z nezakonitimi e-cigaretami
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:9583.0
+passage.questions.6.answers.7.text:Začimbe z aromatiziranimi baterijami
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:9582.0
+passage.questions.6.answers.6.text:Kartuša, napolnjena z nikotenom
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:9581.0
+passage.questions.6.answers.5.text:Baterija deluje
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:9580.0
+passage.questions.6.answers.4.text:Od leta 2008 je bilo ustavljenih 50 nezakonitih pošiljk
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:9579.0
+passage.questions.6.answers.3.text:FDA je zaznala rakotvorne snovi v e-cigaretah
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:9578.0
+passage.questions.6.answers.2.text:Električna
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:9577.0
+passage.questions.6.answers.1.text:FDA je odstranila vse e-cigarete, ki vsebujejo rakotvorne snovi v hlapih
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:9576.0
+passage.questions.6.answers.0.text:Delujejo na baterije, vsebujejo nikotin in so aromatizirani
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:9575.0
+passage.questions.5.question:Kako je očitno, da je FDA prevzela proaktivno vlogo pri reševanju te situacije?
+passage.questions.5.idx:1835.0
+passage.questions.5.answers.4.text:Zaseg pošiljk e-cigaret, ki niso izdelane v ZDA
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:9574.0
+passage.questions.5.answers.3.text:Pregled in zaseg pošiljk
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:9573.0
+passage.questions.5.answers.2.text:Izdelki se dostavijo uporabniku
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:9572.0
+passage.questions.5.answers.1.text:Zasegli so več kot 50 pošiljk in jih začeli pregledovati že leta 2008
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:9571.0
+passage.questions.5.answers.0.text:Naredil e-cigarete nezakonito
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:9570.0
+passage.questions.4.question:Katere izdelke skrbi FDA?
+passage.questions.4.idx:1834.0
+passage.questions.4.answers.3.text:Avtomobili
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:9569.0
+passage.questions.4.answers.2.text:Različne znamke teh izdelkov
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:9568.0
+passage.questions.4.answers.1.text:E-cigarete
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:9567.0
+passage.questions.4.answers.0.text:Banane
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:9566.0
+passage.questions.3.question:Kdo sta dva človeka, ki dvomita o varnosti e-cigaret?
+passage.questions.3.idx:1833.0
+passage.questions.3.answers.4.text:Dr. Margaret A. Hamburg
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:9565.0
+passage.questions.3.answers.3.text:Charlie Sheen
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:9564.0
+passage.questions.3.answers.2.text:Tiskovna predstavnica, komisarka FDA
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:9563.0
+passage.questions.3.answers.1.text:To sta dr. Jonathan Samet, direktor Inštituta za globalno zdravje na Univerzi v Južni Kaliforniji in dr. Margaret A. Hamburg, komisarka FDA
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:9562.0
+passage.questions.3.answers.0.text:Dr. Jonathan Samet
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:9561.0
+passage.questions.2.question:Kateri oddelek FDA je ugotovil, da vsebujejo rakotvorne snovi in druge strupene kemikalije, nevarne za ljudi?
+passage.questions.2.idx:1832.0
+passage.questions.2.answers.4.text:Inštitut za globalno zdravje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:9560.0
+passage.questions.2.answers.3.text:Farmacevtska analiza
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:9559.0
+passage.questions.2.answers.2.text:Oddelek za farmacevtske analize
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9558.0
+passage.questions.2.answers.1.text:Predsednik FDA
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:9557.0
+passage.questions.2.answers.0.text:Oddelek za farmacevtsko analizo FDA
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:9556.0
+passage.questions.10.question:Zakaj je FDA začela s testiranjem e-cigaret?
+passage.questions.10.idx:1840.0
+passage.questions.10.answers.3.text:Zdrav način kajenja
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:9607.0
+passage.questions.10.answers.2.text:Denar želijo obdržati v cigaretnih podjetjih
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:9606.0
+passage.questions.10.answers.1.text:FDA je bila zaskrbljena zaradi varnosti e-cigaret in njihovega trženja v javnosti. E-cigarete niso bile nikoli predložene na testiranje in FDA je morala poznati ravni nikotina ali količine ali vrste drugih kemikalij, ki jih različne znamke teh izdelkov dostavljajo uporabniku.
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:9605.0
+passage.questions.10.answers.0.text:Ker e-cigarete niso bile predložene FDA v oceno ali odobritev
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:9604.0
+passage.questions.1.question:Kateri sta lahko dve značilnosti, ki bi bili privlačni za kadilce, ki želijo prenehati?
+passage.questions.1.idx:1831.0
+passage.questions.1.answers.7.text:Okusi
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:9555.0
+passage.questions.1.answers.6.text:Hrana, kemikalije
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:9554.0
+passage.questions.1.answers.5.text:So aromatizirani, vsebujejo nikotin, nimajo pa dima
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:9553.0
+passage.questions.1.answers.4.text:Dim
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:9552.0
+passage.questions.1.answers.3.text:Samo en okus
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:9551.0
+passage.questions.1.answers.2.text:Tobak
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:9550.0
+passage.questions.1.answers.1.text:Zdrav način kajenja
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:9549.0
+passage.questions.1.answers.0.text:En mod
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9548.0
+passage.questions.0.question:Kateri dve kemikaliji, ki ju je odkrila FDA, sta zaskrbljujoči?
+passage.questions.0.idx:1830
+passage.questions.0.answers.6.text:javnost
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:9547.0
+passage.questions.0.answers.5.text:Kajenje na Floridi
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:9546.0
+passage.questions.0.answers.4.text:Rakotvorne snovi
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:9545.0
+passage.questions.0.answers.3.text:Alkohol
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:9544.0
+passage.questions.0.answers.2.text:Kola, žvečilni gumi
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:9543.0
+passage.questions.0.answers.1.text:Dietilen glikol in druge rakotvorne snovi
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:9542
+passage.questions.0.answers.0.text:Bleach
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:9541
+idx:166

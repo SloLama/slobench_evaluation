@@ -1,0 +1,54 @@
+version:1.1
+passage.text:JW in Marty sta torej prišla v notranjost življenja drug drugega. Od vsega dogajanja na Inštitutskem tednu je bila Martyjeva odločitev, da se je ponudil za ministrstvo, navdušila JW-jeve misli z nekakšnim začudenim veseljem. Desni obraz Joeja Carbrooka je bil veliko bolj dramatičen, saj je JW ob sprejetju odločitve videl, da Marty ni mogel biti namenjen zgolj pridigarju. Bil je primeren, kot želite. Kar zadeva Joeja, so bila prejšnja mnenja precej enakovredna; ena stran se nagiba k ideji, da bi lahko postal odvetnik, druga pa napoveduje, da je bolj verjetno, da bo stalna in donosna stranka za kakšnega drugega odvetnika. Glede na dogajanje na Inštitutu je bilo pričakovati, da bo vprašanje fakultete takoj postalo praktična zadeva štirih ljudi iz Delafielda. Marty je bil zelo zaskrbljen, saj je vedel, če naj bo pridigar, mora na fakulteto in ni mogel vedeti, kako. JW ni čutil velike želje, čeprav se je že od nekdaj razumelo, da bo šel. Marcia Dayne je imela eno leto običajne šole, morda pa drugo leto, morda; letos pa mora poučevati.
+passage.questions.2.question:Kakšni sta bili Joejevi dve karierni težnji?
+passage.questions.2.idx:487.0
+passage.questions.2.answers.4.text:Učitelj ali minister
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2534.0
+passage.questions.2.answers.3.text:Gasilec ali zdravnik
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2533.0
+passage.questions.2.answers.2.text:Postanite odvetnik ali postanite nekdo, ki plača odvetnika
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2532.0
+passage.questions.2.answers.1.text:Odvetnik ali stranka odvetniku
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:2531.0
+passage.questions.2.answers.0.text:Pridigar ali odvetnik
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:2530.0
+passage.questions.1.question:Kaj je JW v tednu inštituta najbolj razveselilo?
+passage.questions.1.idx:486.0
+passage.questions.1.answers.5.text:Martyjeva odločitev, da odide
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2529.0
+passage.questions.1.answers.4.text:Martyjeva odločitev, da postane odvetnik
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2528.0
+passage.questions.1.answers.3.text:Martyjeva odločitev, da se bo ponudil za ministrstvo
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:2527.0
+passage.questions.1.answers.2.text:Martyjeva odločitev, da vstopi na ministrstvo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2526.0
+passage.questions.1.answers.1.text:Na fakulteto
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:2525.0
+passage.questions.1.answers.0.text:Marty se je odločil postati pridigar
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:2524.0
+passage.questions.0.question:Kaj bi moral storiti Marty, da bi postal pridigar?
+passage.questions.0.idx:485
+passage.questions.0.answers.3.text:Udeležite se fakultete
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2523.0
+passage.questions.0.answers.2.text:Mora v semenišče
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2522.0
+passage.questions.0.answers.1.text:Na šolo mora
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2521
+passage.questions.0.answers.0.text:Študiraj religijo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2520
+idx:40

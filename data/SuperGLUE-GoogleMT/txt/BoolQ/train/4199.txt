@@ -1,0 +1,4 @@
+idx:4199
+label:False
+passage:Težave s pakiranjem - primerkov kroga v drugih dimenzijah nikoli ni mogoče popolnoma učinkovito pakirati v dimenzije, večje od ene (v enodimenzionalnem vesolju je analog kroga le dve točki). To pomeni, da bo vedno neizkoriščen prostor, če pakirate samo kroge. Najučinkovitejši način pakiranja krogov, šesterokotno pakiranje, ima približno 91-odstotno učinkovitost.
+question:ali obstajajo oblike, ki bi dale gostoto pakiranja večjo od 91

@@ -1,0 +1,6 @@
+choice1:Policija jo je izprašala.
+choice2:Njen alibi se je izkazal za resničnega.
+idx:211
+label:1
+premise:Policija jo je izločila iz seznama osumljencev.
+question:cause

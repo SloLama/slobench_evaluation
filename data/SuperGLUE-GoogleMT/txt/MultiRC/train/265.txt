@@ -1,0 +1,212 @@
+version:1.1
+passage.text:Edini dom, ki ga je kdaj imel Hamilton, je bil dvorec v zveznem slogu, ki ga je zasnoval John McComb mlajši, ki ga je zgradil na svojem 32 hektarjev velikem posestvu v Hamilton Heightsu na zgornjem Manhattnu. Hišo, ki je bila dokončana leta 1802, je poimenoval &quot;Grange&quot; po posestvu njegovega dedka Aleksandra v Ayrshireju na Škotskem. Hiša je ostala v družini do leta 1833, ko jo je njegova vdova prodala Thomasu E. Davisu, britanskemu graditelju nepremičnin, za 25.000 dolarjev. Del izkupička je Eliza porabila za nakup nove mestne hiše od Davisa (hiša Hamilton-Holly) v Greenwich Villageu s sinom Aleksandrom. Grange, ki so ga prvič preselili s prvotne lokacije leta 1889, so ga leta 2008 ponovno preselili na kraj v parku St. Nicholas na zemljišče, ki je bilo nekoč del posestva Hamilton, v soseski Hamilton Heights v zgornjem Manhattnu. Zgodovinska zgradba je bila obnovljena v prvotnem videzu iz leta 1802 leta 2011, služba nacionalnega parka pa jo vzdržuje kot narodni spomenik Hamilton Grange. Alexander Hamilton je bil eden prvih skrbnikov akademije Hamilton-Oneida v državi New York. Kasneje je Akademija leta 1812 prejela kolegijsko listino, šola pa se je formalno preimenovala v Hamilton College, univerza Columbia, Hamiltonova alma mater, pa ima v svojem kampusu v New Yorku uradna spominska obeležja Hamiltonu. Glavna zgradba učilnice za humanistične vede je dvorana Hamilton Hall, pred njo pa stoji velik kip Hamiltona. Univerzitetni tisk je objavil njegova celotna dela v večglasni tiskani izdaji. Študentska skupina univerze Columbia za kadete ROTC in kandidate za morske častnike se imenuje Alexander Hamilton Society
+passage.questions.9.question:Kje se zdaj nahaja Grange?
+passage.questions.9.idx:2972.0
+passage.questions.9.answers.4.text:Prestavljen je bil v park sv. Nikolaja, služba nacionalnega parka pa ga vzdržuje kot narodni spomenik Hamilton Grange
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:15764.0
+passage.questions.9.answers.3.text:Miklavžev park
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:15763.0
+passage.questions.9.answers.2.text:Univerza Columbia
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:15762.0
+passage.questions.9.answers.1.text:New York City
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:15761.0
+passage.questions.9.answers.0.text:Zgornji Manhattan na kopnem, ki je bilo nekoč del posestva Hamilton
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:15760.0
+passage.questions.8.question:Kakšen je bil slog hiše, ki jo je imel Hamilton in je bil končan leta 1802?
+passage.questions.8.idx:2971.0
+passage.questions.8.answers.2.text:Mestna hiša
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:15759.0
+passage.questions.8.answers.1.text:Zvezna
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:15758.0
+passage.questions.8.answers.0.text:Zvezni slog
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:15757.0
+passage.questions.7.question:Kje so objavljena celotna Hamiltonova dela?
+passage.questions.7.idx:2970.0
+passage.questions.7.answers.2.text:Univerza Columbia
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:15756.0
+passage.questions.7.answers.1.text:Njegova alma mater na univerzi Columbia je objavila njegova celotna dela
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:15755.0
+passage.questions.7.answers.0.text:Hamilton College
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:15754.0
+passage.questions.6.question:Kaj je bil Grange?
+passage.questions.6.idx:2969.0
+passage.questions.6.answers.3.text:Eden od številnih Hamiltonovih domov
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:15753.0
+passage.questions.6.answers.2.text:Hiša v lasti Hamiltona je dobila ime po posestvu njegovega dedka Aleksandra v Ayrshiru na Škotskem
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:15752.0
+passage.questions.6.answers.1.text:Edini dom, ki ga je imel Hamilton,
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:15751.0
+passage.questions.6.answers.0.text:Hiša v Ayrshireju na Škotskem
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:15750.0
+passage.questions.5.question:Kaj je v Columbiji nosilo Hamiltonovo ime?
+passage.questions.5.idx:2968.0
+passage.questions.5.answers.3.text:Univerzitetni tisk
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:15749.0
+passage.questions.5.answers.2.text:Hamilton Hall
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:15748.0
+passage.questions.5.answers.1.text:Zgradba humanistike in organizacije za kandidate za pomorstvo in ROTC
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:15747.0
+passage.questions.5.answers.0.text:Študentska skupina za kadete ROTC in kandidate za častnika mornarice
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:15746.0
+passage.questions.4.question:Je Hamilton povezan z več kot eno šolo?
+passage.questions.4.idx:2967.0
+passage.questions.4.answers.3.text:Da, Hamilton je bil imenovan za skrbnika Hamilton College in je odšel na kolumbijsko univerzo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:15745.0
+passage.questions.4.answers.2.text:Univerza Columbia, akademija Hamilton-Oneida in Hamilton College
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:15744.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15743.0
+passage.questions.4.answers.0.text:Samo univerza Columbia
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:15742.0
+passage.questions.3.question:Se je Grange kdaj preselil z Manhattna?
+passage.questions.3.idx:2966.0
+passage.questions.3.answers.3.text:Plenilec
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:15741.0
+passage.questions.3.answers.2.text:Ne, Grange je bil prvotno zgrajen v Hamilton Heightsu na zgornjem Manhattnu, kasneje pa preseljen v kraj v parku St. Nicholas, ki je bil nekoč del prvotnega posestva
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:15740.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15739.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:15738.0
+passage.questions.2.question:Katera univerza ima stavbo za humanistične vede, posvečeno Aleksandru Hamiltonu?
+passage.questions.2.idx:2965.0
+passage.questions.2.answers.4.text:Univerza Columbia
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:15737.0
+passage.questions.2.answers.3.text:Akademija Hamilton-Oneida
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15736.0
+passage.questions.2.answers.2.text:Hamiltonova alma mater
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:15735.0
+passage.questions.2.answers.1.text:Hamilton College
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:15734.0
+passage.questions.2.answers.0.text:Hamiltonova alma mater Columbia University ima stavbo Hamilton Hall, posvečeno v spomin Hamiltonu
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:15733.0
+passage.questions.15.question:Kdaj je bil Grange prvotno zgrajen in kdaj je bil prodan?
+passage.questions.15.idx:2978.0
+passage.questions.15.answers.2.text:Grange je bil dokončan leta 1802 in prodan leta 1889
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:15784.0
+passage.questions.15.answers.1.text:Grange je bil dokončan leta 1802 in prodan leta 1833
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:15783.0
+passage.questions.15.answers.0.text:Grange je bil dokončan leta 1802 in prodan leta 2008
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:15782.0
+passage.questions.14.question:Katero mesto je bila prvotna in končna lokacija Grange?
+passage.questions.14.idx:2977.0
+passage.questions.14.answers.3.text:Manhattan
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:15781.0
+passage.questions.14.answers.2.text:New York City
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:15780.0
+passage.questions.14.answers.1.text:Zgornji Manhattan
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:15779.0
+passage.questions.14.answers.0.text:Greenwich Village
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:15778.0
+passage.questions.13.question:Koliko let je hiša Grange ostala v družini?
+passage.questions.13.idx:2976.0
+passage.questions.13.answers.1.text:31 let
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:15777.0
+passage.questions.13.answers.0.text:87 let
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:15776.0
+passage.questions.12.question:Kaj je končno postalo z domom, ki ga je imel Hamilton?
+passage.questions.12.idx:2975.0
+passage.questions.12.answers.3.text:Dom vzdržuje služba nacionalnega parka kot narodni spomenik Hamilton Grange
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:15775.0
+passage.questions.12.answers.2.text:Postal je Hamilton College
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:15774.0
+passage.questions.12.answers.1.text:Hamilton College
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:15773.0
+passage.questions.12.answers.0.text:Hamilton
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:15772.0
+passage.questions.11.question:Kakšno ime je dobil dom, ki ga je imel Hamilton?
+passage.questions.11.idx:2974.0
+passage.questions.11.answers.1.text:Grange
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:15771.0
+passage.questions.11.answers.0.text:Hamilton Heights
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:15770.0
+passage.questions.10.question:Ko je bila hiša prodana za 25.000 dolarjev, kdo je del izkupička porabil za nakup mestne hiše?
+passage.questions.10.idx:2973.0
+passage.questions.10.answers.4.text:Naseljenci
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:15769.0
+passage.questions.10.answers.3.text:Eliza
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:15768.0
+passage.questions.10.answers.2.text:Njegova žena
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:15767.0
+passage.questions.10.answers.1.text:Thomas E. Davis
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:15766.0
+passage.questions.10.answers.0.text:Eliza Hamilton
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:15765.0
+passage.questions.1.question:Koliko let je Grange zasedel prvotno lokacijo?
+passage.questions.1.idx:2964.0
+passage.questions.1.answers.3.text:87 let
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:15732.0
+passage.questions.1.answers.2.text:31 let
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:15731.0
+passage.questions.1.answers.1.text:32 let
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15730.0
+passage.questions.1.answers.0.text:119 let
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:15729.0
+passage.questions.0.question:Kakšno strukturo iz Hamiltonove posesti vzdržuje služba nacionalnega parka kot Nacionalni spomenik Hamilton Grange?
+passage.questions.0.idx:2963
+passage.questions.0.answers.2.text:Grange, edini dom, ki ga je imel Hamilton
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15728.0
+passage.questions.0.answers.1.text:Velik kip Hamiltona
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:15727
+passage.questions.0.answers.0.text:Grange
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:15726
+idx:265

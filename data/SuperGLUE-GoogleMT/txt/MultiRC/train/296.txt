@@ -1,0 +1,164 @@
+version:1.1
+passage.text:Spraševal sem se, ali je to moj primer - če sem jahal zaradi časti in ne zaradi čistega užitka v vožnji. In še bolj sem se čudil, ko sva videla, da sva oba, ljubitelja ene dame in željna tekmeca, pokopavala, da ne bo več naših prepirov, in z istim upanjem služila istemu cilju. Noč smo prespali v Aird&#39;s trgovini in zgodaj naslednje jutro našli Ringana. Res nov Ringan, tako kot v nasprotju s pikanti, ki sem jih poznal, kot za Quaker. Zdaj je bil gospod Breadalbane, oblečen v del z vso skrbnostjo. Jahal je plemenito roan, v španskem pasu so mu bile zataknjene pištole s srebrno orožjem, ob strani pa se je zavihal dolg meč. Ko sem mu predstavil Grayja, je hkrati postal kavalir, v svojem govoru natančen in vljuden v izjavi kot kateri koli dvorjan iz Whitehalla. Govorili so odkrito in razpoložljivo o genskih zadevah in mislili bi si, da je tisti rdečelasi pirat živel svoje življenje med ponosnimi gospodarji in damami z visokimi petami. To je vedno pot gorca. Kot jasen bazen spremeni vsako razpoloženje na nebu, tako da lahko plitvi opazovalec pozabi, kako globoke so vode.
+passage.questions.9.question:Kako se imenuje pripovedovalec zaljubljeni tekmec?
+passage.questions.9.idx:3374.0
+passage.questions.9.answers.2.text:Siva
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:17814.0
+passage.questions.9.answers.1.text:Ringan
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:17813.0
+passage.questions.9.answers.0.text:Aird
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:17812.0
+passage.questions.8.question:Kdo je govoril o visokih in genskih zadevah
+passage.questions.8.idx:3373.0
+passage.questions.8.answers.2.text:Njegova žena
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:17811.0
+passage.questions.8.answers.1.text:Gray in gospod iz kruha
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:17810.0
+passage.questions.8.answers.0.text:Ringan
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:17809.0
+passage.questions.7.question:Koga opisujejo kot dolgega meča?
+passage.questions.7.idx:3372.0
+passage.questions.7.answers.1.text:Avtor
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:17808.0
+passage.questions.7.answers.0.text:Ringan
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:17807.0
+passage.questions.6.question:Komu je bil predstavljen Gray?
+passage.questions.6.idx:3371.0
+passage.questions.6.answers.1.text:Avtor
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:17806.0
+passage.questions.6.answers.0.text:Ringan
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:17805.0
+passage.questions.5.question:Kdo je visoko in naklonjeno govoril o genskih zadevah?
+passage.questions.5.idx:3370.0
+passage.questions.5.answers.2.text:Ringan in Grey
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:17804.0
+passage.questions.5.answers.1.text:Avtor
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:17803.0
+passage.questions.5.answers.0.text:Ringan
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:17802.0
+passage.questions.4.question:Kaj je vozil gospod Breadalbane?
+passage.questions.4.idx:3369.0
+passage.questions.4.answers.2.text:Psi
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:17801.0
+passage.questions.4.answers.1.text:Konji
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17800.0
+passage.questions.4.answers.0.text:Plemenit roan
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:17799.0
+passage.questions.3.question:Kdo je bil za razliko od plemenitega gospoda iz Breadalbana
+passage.questions.3.idx:3368.0
+passage.questions.3.answers.2.text:Bucaneer, Quaker
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:17798.0
+passage.questions.3.answers.1.text:Indijski
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:17797.0
+passage.questions.3.answers.0.text:Bucaneer
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:17796.0
+passage.questions.2.question:Kako je ime gospodu iz Breadalbana?
+passage.questions.2.idx:3367.0
+passage.questions.2.answers.1.text:Ringan
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:17795.0
+passage.questions.2.answers.0.text:Kveker
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:17794.0
+passage.questions.15.question:Kdo je rdečelasi pirat?
+passage.questions.15.idx:3380.0
+passage.questions.15.answers.1.text:Avtor
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:17831.0
+passage.questions.15.answers.0.text:Ringan
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:17830.0
+passage.questions.14.question:Kdo je preživel noč v trgovini Aird s pripovedovalcem?
+passage.questions.14.idx:3379.0
+passage.questions.14.answers.2.text:Siva
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:17829.0
+passage.questions.14.answers.1.text:Ringan
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:17828.0
+passage.questions.14.answers.0.text:Kveker
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:17827.0
+passage.questions.13.question:Kakšne barve so Ringanovi lasje?
+passage.questions.13.idx:3378.0
+passage.questions.13.answers.1.text:rdeča
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:17826.0
+passage.questions.13.answers.0.text:rjav
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:17825.0
+passage.questions.12.question:Komu je bil predstavljen Gray?
+passage.questions.12.idx:3377.0
+passage.questions.12.answers.2.text:Gospod iz kruha
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:17824.0
+passage.questions.12.answers.1.text:Ringan
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:17823.0
+passage.questions.12.answers.0.text:Dama
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:17822.0
+passage.questions.11.question:Koga posebej opisujejo kot gorca?
+passage.questions.11.idx:3376.0
+passage.questions.11.answers.1.text:Ringan
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:17821.0
+passage.questions.11.answers.0.text:Kveker
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:17820.0
+passage.questions.10.question:Kdo sta dva, ki sta &quot;govorila visoko in se ukvarjala z genskimi zadevami&quot;?
+passage.questions.10.idx:3375.0
+passage.questions.10.answers.4.text:Siva
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:17819.0
+passage.questions.10.answers.3.text:Ringan in Grey
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:17818.0
+passage.questions.10.answers.2.text:Kveker
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:17817.0
+passage.questions.10.answers.1.text:rjav
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:17816.0
+passage.questions.10.answers.0.text:Whitehall
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:17815.0
+passage.questions.1.question:Kdo je bil gospod Breadalbane v resnici?
+passage.questions.1.idx:3366.0
+passage.questions.1.answers.2.text:Ringan
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:17793.0
+passage.questions.1.answers.1.text:Gusar
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:17792.0
+passage.questions.1.answers.0.text:Kveker
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:17791.0
+passage.questions.0.question:Koga opisujejo kot pikante in kavalirje?
+passage.questions.0.idx:3365
+passage.questions.0.answers.1.text:Ringan
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:17790
+passage.questions.0.answers.0.text:Kveker
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:17789
+idx:296

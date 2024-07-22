@@ -1,0 +1,6 @@
+choice1:Posvojila je zapuščenega psa.
+choice2:Ugriznil jo je pes.
+idx:375
+label:1
+premise:Imela je strah pred psi.
+question:cause

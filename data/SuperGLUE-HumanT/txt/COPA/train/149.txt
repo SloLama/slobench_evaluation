@@ -1,0 +1,6 @@
+choice1:Bolnikovi simptomi so izginili.
+choice2:Bolnika je obiskala družina.
+idx:149
+label:0
+premise:Bolnišnica je poslala bolnika domov.
+question:cause

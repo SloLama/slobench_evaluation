@@ -1,0 +1,287 @@
+version:1.1
+passage.text:Poplava se zgodi, ko reka preplavi bregove. To se lahko zgodi zaradi močnega deževja. Poplave V zelo ravnih predelih se lahko poplavna voda razširi na površino kopnega. Nato upočasni in spusti usedlino. Če reka pogosto poplavlja, se razvije poplavno območje. Poplavno območje je območje, kjer se debela plast bogate zemlje zapušča, ko se poplavna voda umika. Zato so poplavne ravnice običajno dobra mesta za gojenje rastlin. So zelo ravna območja in imajo zelo bogata tla. Dolina reke Nil je odličen primer poplavne ravnice. Reka Nil se vsako leto dvigne nad bregove. Ta poplavna voda nosi veliko usedlin. Ta usedlina je bila zrušena z območij kopnega od zgornjega toka. Ta usedlina pade, ko se voda po širjenju po kopnem upočasni. Za seboj ostane zelo bogata zemlja. Zato lahko pridelke gojimo sredi peščene puščave. Naravni nasipi Poplavna reka pogosto oblikuje naravne nasipe vzdolž bregov. Nasip je dvignjen pas sedimentov, ki se nalagajo blizu roba voda.
+passage.questions.9.question:Kaj tvori dvignjeni pas ob robu poplavne reke?
+passage.questions.9.idx:2248.0
+passage.questions.9.answers.7.text:Nasipi
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:11779.0
+passage.questions.9.answers.6.text:Močno deževalo
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:11778.0
+passage.questions.9.answers.5.text:Poplavna ravnica
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:11777.0
+passage.questions.9.answers.4.text:Rečna dolina
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:11776.0
+passage.questions.9.answers.3.text:Naravni nasip
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:11775.0
+passage.questions.9.answers.2.text:Peščena puščava
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:11774.0
+passage.questions.9.answers.1.text:Poplavna voda
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:11773.0
+passage.questions.9.answers.0.text:Ravna navadna
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:11772.0
+passage.questions.8.question:Kateri dve geografski tvorbi lahko nastaneta iz poplavljanja rek?
+passage.questions.8.idx:2247.0
+passage.questions.8.answers.9.text:Banke
+passage.questions.8.answers.9.label:0,0
+passage.questions.8.answers.9.idx:11770.0
+passage.questions.8.answers.8.text:Močna zemlja za temelje
+passage.questions.8.answers.8.label:0,0
+passage.questions.8.answers.8.idx:11769.0
+passage.questions.8.answers.7.text:Poplavna ravnica
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:11768.0
+passage.questions.8.answers.6.text:Poplave in naravni nasipi
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:11767.0
+passage.questions.8.answers.5.text:Vode rob
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:11766.0
+passage.questions.8.answers.4.text:Poplavne ravnice
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:11765.0
+passage.questions.8.answers.3.text:Civilizacija
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:11764.0
+passage.questions.8.answers.2.text:Peščena puščava
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:11763.0
+passage.questions.8.answers.10.text:Bogata tla in ravna površina
+passage.questions.8.answers.10.label:0,0
+passage.questions.8.answers.10.idx:11771.0
+passage.questions.8.answers.1.text:Pridelki
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:11762.0
+passage.questions.8.answers.0.text:Poplavna voda
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:11761.0
+passage.questions.7.question:Kaj ostane v poplavni ravnini po umiku vode?
+passage.questions.7.idx:2246.0
+passage.questions.7.answers.7.text:Naravni nasipi
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:11760.0
+passage.questions.7.answers.6.text:Usedlina
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:11759.0
+passage.questions.7.answers.5.text:Poplavna voda
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:11758.0
+passage.questions.7.answers.4.text:Debela plast bogate zemlje
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:11757.0
+passage.questions.7.answers.3.text:Zaklad in fižol ostanejo po umiku vode
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:11756.0
+passage.questions.7.answers.2.text:Zelo bogata tla
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:11755.0
+passage.questions.7.answers.1.text:Pridelki
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:11754.0
+passage.questions.7.answers.0.text:Rastline
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:11753.0
+passage.questions.6.question:Zakaj so poplavne ravnice dobre za gojenje rastlin?
+passage.questions.6.idx:2245.0
+passage.questions.6.answers.7.text:Naravni nasipi
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:11752.0
+passage.questions.6.answers.6.text:Voda v tleh
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:11751.0
+passage.questions.6.answers.5.text:Zaradi travnatih površin, ki so ostala
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:11750.0
+passage.questions.6.answers.4.text:Usedline usedlin
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:11749.0
+passage.questions.6.answers.3.text:Dvignjeni trakovi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:11748.0
+passage.questions.6.answers.2.text:Zelo bogata tla
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:11747.0
+passage.questions.6.answers.1.text:Peščena puščava
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:11746.0
+passage.questions.6.answers.0.text:Ker je usedlina bogata z minerali
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:11745.0
+passage.questions.5.question:V katero vrsto regije se lahko razvije poplavno območje, če reka pogosto poplavlja?
+passage.questions.5.idx:2244.0
+passage.questions.5.answers.7.text:Kmetijska
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:11744.0
+passage.questions.5.answers.6.text:Naravni nasipi
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:11743.0
+passage.questions.5.answers.5.text:Reka
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:11742.0
+passage.questions.5.answers.4.text:Peščena sladica
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:11741.0
+passage.questions.5.answers.3.text:Če reka pogosto poplavlja, se razvije poplavno območje
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:11740.0
+passage.questions.5.answers.2.text:Ravna površina
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:11739.0
+passage.questions.5.answers.1.text:Zelo ravno
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:11738.0
+passage.questions.5.answers.0.text:Poplavna voda
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:11737.0
+passage.questions.4.question:Katera dolina vsebuje reko, ki se vsako leto dvigne nad bregovi?
+passage.questions.4.idx:2243.0
+passage.questions.4.answers.6.text:Usedlina
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:11736.0
+passage.questions.4.answers.5.text:Poplavna ravnica
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:11735.0
+passage.questions.4.answers.4.text:Dolina Levees
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:11734.0
+passage.questions.4.answers.3.text:Naravni nasip
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:11733.0
+passage.questions.4.answers.2.text:Dolina reke Nil
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:11732.0
+passage.questions.4.answers.1.text:Apalatska dolina
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11731.0
+passage.questions.4.answers.0.text:Dolina reke Amazonke
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:11730.0
+passage.questions.3.question:Kaj bi lahko povzročilo, da reka preplavi bregove?
+passage.questions.3.idx:2242.0
+passage.questions.3.answers.8.text:&quot;Obilno deževje&quot;
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:11729.0
+passage.questions.3.answers.7.text:Močno deževje lahko povzroči, da se reka razlije po bregovih
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:11728.0
+passage.questions.3.answers.6.text:Usedlina
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:11727.0
+passage.questions.3.answers.5.text:Naravni nasip
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:11726.0
+passage.questions.3.answers.4.text:Močan veter
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:11725.0
+passage.questions.3.answers.3.text:Rečna dolina
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:11724.0
+passage.questions.3.answers.2.text:Erozija
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:11723.0
+passage.questions.3.answers.1.text:Močne padavine
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:11722.0
+passage.questions.3.answers.0.text:Voda
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:11721.0
+passage.questions.2.question:Za kaj je poplavno območje zemljišča dobro, če pogosto poplavlja?
+passage.questions.2.idx:2241.0
+passage.questions.2.answers.8.text:Močno deževalo
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:11720.0
+passage.questions.2.answers.7.text:Poplavno območje je dobro za gradnjo hiš
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:11719.0
+passage.questions.2.answers.6.text:Puščava
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:11718.0
+passage.questions.2.answers.5.text:Poplavno območje je dobro za gojenje poljščin
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:11717.0
+passage.questions.2.answers.4.text:Reka Nil
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11716.0
+passage.questions.2.answers.3.text:Za shranjevanje vode
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:11715.0
+passage.questions.2.answers.2.text:Erozija
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11714.0
+passage.questions.2.answers.1.text:Pridelki
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:11713.0
+passage.questions.2.answers.0.text:Za gojenje rastlin
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:11712.0
+passage.questions.1.question:Kaj lahko povzroči, da reka poplavi in preliva bregove?
+passage.questions.1.idx:2240.0
+passage.questions.1.answers.7.text:Zaradi močnega deževja lahko reka poplavi in preplavi bregove
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:11711.0
+passage.questions.1.answers.6.text:Naravni nasipi
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:11710.0
+passage.questions.1.answers.5.text:Usedlina
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:11709.0
+passage.questions.1.answers.4.text:Bogata tla v bližini rek
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11708.0
+passage.questions.1.answers.3.text:Močno deževalo
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:11707.0
+passage.questions.1.answers.2.text:Pomanjkanje dobrega zadrževanja bo povzročilo poplavo reke
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11706.0
+passage.questions.1.answers.1.text:Gornja erozija
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11705.0
+passage.questions.1.answers.0.text:Preplavljene so banke
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:11704.0
+passage.questions.0.question:Od kod sediment v poplavni reki in kje sčasoma počiva?
+passage.questions.0.idx:2239
+passage.questions.0.answers.9.text:Sediment prihaja z območij kopnega gorvodno in počiva na poplavnem območju
+passage.questions.0.answers.9.label:1.0
+passage.questions.0.answers.9.idx:11701.0
+passage.questions.0.answers.8.text:Močno deževalo
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:11700.0
+passage.questions.0.answers.7.text:Od gorvodnih predelov in počitek čez poplavno ravnico
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:11699.0
+passage.questions.0.answers.6.text:Peščena sladica
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:11698.0
+passage.questions.0.answers.5.text:Prihaja iz drugih dežel in počiva sredi reke
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:11697.0
+passage.questions.0.answers.4.text:Erodirano z obrežij
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:11696.0
+passage.questions.0.answers.3.text:Erodirano s kopnega gorvodno
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:11695.0
+passage.questions.0.answers.2.text:Pridelki
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11694.0
+passage.questions.0.answers.11.text:Prihaja iz erodirane skale in zemlje in počiva, ko voda odteče
+passage.questions.0.answers.11.label:1.0
+passage.questions.0.answers.11.idx:11703.0
+passage.questions.0.answers.10.text:Naravni nasipi
+passage.questions.0.answers.10.label:1.0
+passage.questions.0.answers.10.idx:11702.0
+passage.questions.0.answers.1.text:Poplavna voda
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11693
+passage.questions.0.answers.0.text:Prihaja iz nasipov in se naseli na strugi
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:11692
+idx:200

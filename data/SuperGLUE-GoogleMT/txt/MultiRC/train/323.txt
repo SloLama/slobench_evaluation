@@ -1,0 +1,191 @@
+version:1.1
+passage.text:Ko se potok ali reka upočasni, začne spuščati usedline. Večji sedimenti se spustijo v strmih predelih. Nekatere manjše usedline lahko še vedno nosi potok ali reka, ki se počasi premika. Manjši sedimenti se spustijo, ko pobočje postane manj strmo. Naplavni oboževalci V sušnih predelih lahko gorski potok priteče na bolj položno zemljo. Potok se hitro ustavi. Nanosi tvorijo aluvialni ventilator. Do odlaganja pride tudi, ko se potok ali reka izlije v veliko telo mirne vode. V tem primeru nastane delta. Delta je oblikovana kot trikotnik. Razširi se v vodno telo.
+passage.questions.9.question:V kakšno obliko reka ali potok, ki se izliva v večje vodno telo, oblikuje delto?
+passage.questions.9.idx:3692.0
+passage.questions.9.answers.5.text:Trikotnik
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:19630.0
+passage.questions.9.answers.4.text:Ovalna
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:19629.0
+passage.questions.9.answers.3.text:Krog
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:19628.0
+passage.questions.9.answers.2.text:Delta je oblikovana kot trikotnik
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:19627.0
+passage.questions.9.answers.1.text:Delta
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:19626.0
+passage.questions.9.answers.0.text:Diamant
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:19625.0
+passage.questions.8.question:Kakšna značilnost se oblikuje, ko gorski potoki v sušnih predelih tečejo na bolj položno zemljo in se tok hitro ustavi?
+passage.questions.8.idx:3691.0
+passage.questions.8.answers.3.text:Peščena palica
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:19624.0
+passage.questions.8.answers.2.text:Odložite
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:19623.0
+passage.questions.8.answers.1.text:Delta
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:19622.0
+passage.questions.8.answers.0.text:Aluvialni ventilator
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:19621.0
+passage.questions.7.question:Kaj lahko najdete, ko gorski potok steče na bolj položno zemljo in se v sušnih predelih hitro ustavi?
+passage.questions.7.idx:3690.0
+passage.questions.7.answers.4.text:Depoziti
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:19620.0
+passage.questions.7.answers.3.text:Naplavni ventilatorji
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:19619.0
+passage.questions.7.answers.2.text:Peščena palica
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:19618.0
+passage.questions.7.answers.1.text:Odložite
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:19617.0
+passage.questions.7.answers.0.text:Delta
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19616.0
+passage.questions.6.question:Kdaj nastanejo delte?
+passage.questions.6.idx:3689.0
+passage.questions.6.answers.5.text:Ko pride do odlaganja
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:19615.0
+passage.questions.6.answers.4.text:Do usedanja pride tudi, ko se potok ali reka izlije v veliko telo mirne vode
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:19614.0
+passage.questions.6.answers.3.text:V sušnih predelih lahko gorski potok priteče na bolj položno zemljo in se hitro ustavi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:19613.0
+passage.questions.6.answers.2.text:Ko v strmih predelih padejo velike usedline
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:19612.0
+passage.questions.6.answers.1.text:Ko se potok ali reka izlije v veliko telo mirne vode
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:19611.0
+passage.questions.6.answers.0.text:Ko pride do erozije
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:19610.0
+passage.questions.5.question:Ali manjši sedimenti padajo pred večjimi sedimenti ali po njih?
+passage.questions.5.idx:3688.0
+passage.questions.5.answers.3.text:Po
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:19609.0
+passage.questions.5.answers.2.text:Nobenega
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:19608.0
+passage.questions.5.answers.1.text:Odpadejo po večjih usedlinah
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:19607.0
+passage.questions.5.answers.0.text:Odpustijo se hkrati
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:19606.0
+passage.questions.4.question:Kam manjši sedimenti padejo, ko se reka ali potok upočasni?
+passage.questions.4.idx:3687.0
+passage.questions.4.answers.5.text:Banke
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:19605.0
+passage.questions.4.answers.4.text:Delte
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:19604.0
+passage.questions.4.answers.3.text:Manjši sedimenti se spustijo, ko pobočje postane manj strmo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:19603.0
+passage.questions.4.answers.2.text:Strma območja
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:19602.0
+passage.questions.4.answers.1.text:Območja, ki niso strma
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19601.0
+passage.questions.4.answers.0.text:Ko postaja pobočje manj strmo
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:19600.0
+passage.questions.3.question:Ali se večji sedimenti spustijo na strmejših ali manj strmih območjih kot manjši sedimenti v istem toku?
+passage.questions.3.idx:3686.0
+passage.questions.3.answers.5.text:Ista območja
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:19599.0
+passage.questions.3.answers.4.text:Manj strmo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:19598.0
+passage.questions.3.answers.3.text:Najmanj strma območja
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:19597.0
+passage.questions.3.answers.2.text:Strmejša območja
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19596.0
+passage.questions.3.answers.1.text:Niti enega
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:19595.0
+passage.questions.3.answers.0.text:Strmejša
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:19594.0
+passage.questions.2.question:Kako se imenuje postopek spuščanja usedlin ob potoku ali reki?
+passage.questions.2.idx:3685.0
+passage.questions.2.answers.4.text:Nasičenost
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:19593.0
+passage.questions.2.answers.3.text:Aluvialni ventilator
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:19592.0
+passage.questions.2.answers.2.text:Erozija
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:19591.0
+passage.questions.2.answers.1.text:Sedimentacija
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19590.0
+passage.questions.2.answers.0.text:Odlaganje
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:19589.0
+passage.questions.1.question:Kdaj nastane delta?
+passage.questions.1.idx:3684.0
+passage.questions.1.answers.6.text:Ko na strmih območjih padejo večji usedline
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:19588.0
+passage.questions.1.answers.5.text:Do usedanja pride tudi, ko se potok ali reka izlije v veliko telo mirne vode
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:19587.0
+passage.questions.1.answers.4.text:Ko v sušnih predelih lahko gorski potok teče na bolj položno zemljo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:19586.0
+passage.questions.1.answers.3.text:Ko pride do odlaganja
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:19585.0
+passage.questions.1.answers.2.text:Ko manjši sedimenti padejo v manj strma pobočja
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:19584.0
+passage.questions.1.answers.1.text:Delta nastane, ko pride do odlaganja, ko se reka ali potok izlije v večje vodno telo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:19583.0
+passage.questions.1.answers.0.text:Ko se potok ali reka izlije v veliko telo mirne vode
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19582.0
+passage.questions.0.question:Kam padejo večji sedimenti, ko se reka ali potok upočasni?
+passage.questions.0.idx:3683
+passage.questions.0.answers.6.text:Banke
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:19581.0
+passage.questions.0.answers.5.text:Reka
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:19580.0
+passage.questions.0.answers.4.text:Večji sedimenti se spustijo v strmih predelih
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:19579.0
+passage.questions.0.answers.3.text:Strma območja
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:19578.0
+passage.questions.0.answers.2.text:Manj strma pobočja
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:19577.0
+passage.questions.0.answers.1.text:Tok
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19576
+passage.questions.0.answers.0.text:Delta
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19575
+idx:323

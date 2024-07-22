@@ -1,0 +1,159 @@
+version:1.1
+passage.text:Albanci se prvič pojavijo v zgodovinskih zapisih v bizantinskih virih konec 11. stoletja. V tem trenutku so bili že popolnoma pokristjanjeni. Islam se je kasneje pojavil kot večinska vera v stoletjih osmanske vladavine, čeprav je ostala pomembna krščanska manjšina. Po osamosvojitvi (1912) od Osmanskega cesarstva so albanski republikanski, monarhični in kasneje komunistični režimi sledili sistematični politiki ločevanja vere od uradnih funkcij in kulturnega življenja. Albanija nikoli ni imela uradne državne religije niti kot republika niti kot kraljestvo. V 20. stoletju je bila duhovščina vseh veroizpovedi pod monarhijo oslabljena in nazadnje izkoreninjena v petdesetih in šestdesetih letih prejšnjega stoletja, v skladu z državno politiko izbrisa vse organizirane religije z albanskih ozemelj. Komunistični režim, ki je po drugi svetovni vojni prevzel nadzor nad Albanijo, je preganjal in zatrl verske obrede in institucije ter v celoti prepovedal religijo do te mere, da je bila Albanija uradno razglašena za prvo ateistično državo na svetu. Verska svoboda se je v Albanijo vrnila po spremembi režima leta 1992. Albanija se je Organizaciji islamske konference pridružila leta 1992 po padcu komunistične vlade, vendar se konference leta 2014 ne bo udeležila zaradi spora glede dejstva, da njen parlament ni nikoli ratificirala članstvo države. Albansko muslimansko prebivalstvo (večinoma posvetne in sunitske veje) najdemo po vsej državi, medtem ko so albanski pravoslavni kristjani in Bektaši skoncentrirani na jugu, rimokatoliki pa na severu države. Prvi zabeleženi albanski protestant je bil Said Toptani, ki je potoval po Evropi in se leta 1853 vrnil v Tirano in pridigal protestantizem. Osmanske oblasti so ga aretirale in zaprle leta 1864. Glavni evangeličanski protestanti izvirajo iz časa kongregacijskih in kasneje metodističnih misijonarjev ter dela britanskega in tujega biblijskega društva v 19. stoletju. Evangeličansko zavezništvo, znano pod imenom VUSh, je bilo ustanovljeno leta 1892. Danes ima VUSh približno 160 skupščin iz različnih protestantskih konfesij. VUSh organizira pohode v Tirani, vključno z enim proti krvni maščevanju leta 2010. Biblije zagotavlja Medkonfesionalno biblijsko društvo v Albaniji. Prva popolna albanska Biblija, ki je bila natisnjena, je bil prevod Filipaj, natisnjen leta 1990.
+passage.questions.8.question:Kdaj so bili Albanci popolnoma pokristjanjeni?
+passage.questions.8.idx:1687.0
+passage.questions.8.answers.2.text:Pozno 10.
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:8736.0
+passage.questions.8.answers.1.text:Konec 11. stoletja
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:8735.0
+passage.questions.8.answers.0.text:Pozno 11.
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:8734.0
+passage.questions.7.question:Kdaj je bil Said Toptani aretiran in zaprt?
+passage.questions.7.idx:1686.0
+passage.questions.7.answers.4.text:1990
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:8733.0
+passage.questions.7.answers.3.text:1864
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:8732.0
+passage.questions.7.answers.2.text:1892
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8731.0
+passage.questions.7.answers.1.text:19. stoletje
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8730.0
+passage.questions.7.answers.0.text:2010
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:8729.0
+passage.questions.6.question:Kateri režim je prevzel nadzor nad Albanijo po drugi svetovni vojni in pred letom 1992?
+passage.questions.6.idx:1685.0
+passage.questions.6.answers.4.text:Prva ateistična država
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:8728.0
+passage.questions.6.answers.3.text:Komunist
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:8727.0
+passage.questions.6.answers.2.text:Protestantski
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8726.0
+passage.questions.6.answers.1.text:Institucije
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:8725.0
+passage.questions.6.answers.0.text:Verski
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8724.0
+passage.questions.5.question:Koliko let ločuje prihod prvega protestantskega misijonarja v Albanijo in tiskanje prve polne albanske Biblije?
+passage.questions.5.idx:1684.0
+passage.questions.5.answers.4.text:157
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:8723.0
+passage.questions.5.answers.3.text:167
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:8722.0
+passage.questions.5.answers.2.text:137
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:8721.0
+passage.questions.5.answers.1.text:177
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8720.0
+passage.questions.5.answers.0.text:147
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:8719.0
+passage.questions.4.question:Koliko let pred komunizmom je Albanija v zgodovini uživala splošno svobodo veroizpovedi?
+passage.questions.4.idx:1683.0
+passage.questions.4.answers.3.text:10.
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:8718.0
+passage.questions.4.answers.2.text:9.
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8717.0
+passage.questions.4.answers.1.text:11.
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8716.0
+passage.questions.4.answers.0.text:12.
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8715.0
+passage.questions.3.question:Ko je duhovščina v 20. stoletju izbrisala vso organizirano religijo, v katerem letu je Albanija ponovno pridobila versko svobodo?
+passage.questions.3.idx:1682.0
+passage.questions.3.answers.5.text:1990
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:8714.0
+passage.questions.3.answers.4.text:1860
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:8713.0
+passage.questions.3.answers.3.text:1864
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:8712.0
+passage.questions.3.answers.2.text:1892
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8711.0
+passage.questions.3.answers.1.text:19. stoletje
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8710.0
+passage.questions.3.answers.0.text:2010
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8709.0
+passage.questions.2.question:V katerem letu je bil Said Toptani aretiran in zaprt?
+passage.questions.2.idx:1681.0
+passage.questions.2.answers.5.text:1990
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:8708.0
+passage.questions.2.answers.4.text:1860
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:8707.0
+passage.questions.2.answers.3.text:1864
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:8706.0
+passage.questions.2.answers.2.text:1892
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8705.0
+passage.questions.2.answers.1.text:19. stoletje
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8704.0
+passage.questions.2.answers.0.text:2010
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8703.0
+passage.questions.1.question:Katere vere je bila večina Albancev, preden se je islam pojavil kot večinska vera?
+passage.questions.1.idx:1680.0
+passage.questions.1.answers.5.text:Judovsko
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:8702.0
+passage.questions.1.answers.4.text:Musliman
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8701.0
+passage.questions.1.answers.3.text:Christian
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:8700.0
+passage.questions.1.answers.2.text:Sunitski
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8699.0
+passage.questions.1.answers.1.text:Posvetna
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8698.0
+passage.questions.1.answers.0.text:Krščanstvo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:8697.0
+passage.questions.0.question:Pred katerim stoletjem so bili Albanci popolnoma pokristjanjeni?
+passage.questions.0.idx:1679
+passage.questions.0.answers.5.text:19. stoletje
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:8696.0
+passage.questions.0.answers.4.text:1912
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:8695.0
+passage.questions.0.answers.3.text:11.
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:8694.0
+passage.questions.0.answers.2.text:10. stoletje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8693.0
+passage.questions.0.answers.1.text:20. stoletje
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:8692
+passage.questions.0.answers.0.text:11. stoletje
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8691
+idx:149

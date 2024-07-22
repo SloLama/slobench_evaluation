@@ -1,0 +1,171 @@
+version:1.1
+passage.text:Legal Services Corp. (LSC), kvazivladna agencija, ki zagotavlja pravno pomoč revnim, bi v proračunskem letu 2004 po predlogu predsednika Busha prejela 329 milijonov dolarjev - enak znesek, zahtevan leta 2003 in odobren za leti 2002 in 2001. Če bo odobren, zahteva po LSC za zadrževanje pomeni, da bi se njen proračun še eno leto zmanjšal z inflacijo, za organizacijo pa bi lahko bilo še slabše: številni konservativci so se leta borili, da bi popolnoma odpravili LSC, češ da odvetniki pravnih služb trošijo preveč čas, ko se bori za liberalne cilje ali vodi politično obtožene primere proti vladi, namesto da bi zastopal potrebe. Nasprotovanje tej organizaciji se ohladi od leta 1996, ko je kongres odobril omejitve (PL 104-134) za vrste primerov, ki jih lahko sprejmejo odvetniki, ki jih financirajo zvezni organi. (Almanah 1996, str. 5-36) Republikanci so leta 1996 močno zmanjšali proračun organizacije, vendar se je financiranje počasi okrevalo. Prejšnji mesec je senat k omnibusu za porabo za proračunsko leto 2003 dodal enkratno povečanje za 19 milijonov dolarjev, kar bi, če bi bilo odobreno v končni različici, pomenilo proračun LSC na 348 milijonov dolarjev. Denar bi šel za pomoč državam, kot sta Michigan in Ohio, ki so izgubile denar, ko je organizacija prerazporedila sredstva na podlagi štetja prebivalstva v letu 2000 revnih gospodinjstev. Če odvečni denar preživi konferenco s Parlamentom in prispe na mizo predsednika, ga bodo podporniki LSC morda poskušali vključiti v proračunsko financiranje organizacije za leto 2004. Zvezna vlada je začela financirati nekatere programe za pravno pomoč revnim konec šestdesetih let; korporacija za pravne storitve je bila ustanovljena leta 1974 (PL 93-355). LSC skoraj ves svoj denar daje državnim in lokalnim agencijam, ki zagotavljajo civilno pravno pomoč tistim, katerih dohodek je manjši od 125 odstotkov zvezne ravni revščine - 11 075 ameriških dolarjev letno za posameznika in 22 625 ameriških dolarjev za štiričlansko družino. Po navedbah LSC financiranje pravnih storitev gre za obrambo potrebnih strank v primerih nasilja v družini, primerov skrbništva in drugih takih zadevah. Od leta 1996 je odvetnikom, ki prejemajo denar od pravnih služb, prepovedano opravljati dejavnosti, kot so lobiranje pri zakonodajnih organih, vlaganje skupinskih tožb, udeležba v političnih demonstracijah ali stavkah, zaslišanje v splavu, zastopanje nezakonitih tujcev ali zapornikov ali obramba najemnikov javnih stanovanj. izseljeni, ker so bili obtoženi prodaje drog
+passage.questions.9.question:Nasprotovanje kateri organizaciji se je ohladilo od leta 1996?
+passage.questions.9.idx:940.0
+passage.questions.9.answers.1.text:NAACP
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4876.0
+passage.questions.9.answers.0.text:Pravna služba Corp
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:4875.0
+passage.questions.8.question:Navedite leto, v katerem je bil ustanovljen LSC, in povzetek njegovih storitev.
+passage.questions.8.idx:939.0
+passage.questions.8.answers.2.text:Ustanovljen je bil leta 1974, da bi državam zagotavljal sredstva za družine, ki potrebujejo civilne pravne storitve, vendar so pod 125% zvezne meje revščine. Pomagajo pri nasilju v družini, skrbništvu in drugih zadevah
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:4874.0
+passage.questions.8.answers.1.text:Navidezna vladna agencija, ki zagotavlja pravno pomoč revnim
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4873.0
+passage.questions.8.answers.0.text:Za pomoč ljudem s financami
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4872.0
+passage.questions.7.question:Kateri ukrepi, sprejeti proti LSC, nam dajo misliti, da je pogled na LSC morda politično motiviran?
+passage.questions.7.idx:938.0
+passage.questions.7.answers.2.text:Pravi, da se je dogajalo nasprotovanje, vendar se je opozicija ohladila po zmanjšanju proračuna in pravna pomoč, ki jo financira LSC, ni več smela voditi
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4871.0
+passage.questions.7.answers.1.text:Preveč časa se je boril za liberalne namene ali vodil politično obtožene primere proti vladi
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4870.0
+passage.questions.7.answers.0.text:Bilo je preveč zabav
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4869.0
+passage.questions.6.question:Republikanci so leta 1996 močno zmanjšali proračun katere organizacije?
+passage.questions.6.idx:937.0
+passage.questions.6.answers.3.text:NAACP
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:4868.0
+passage.questions.6.answers.2.text:Michigan
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4867.0
+passage.questions.6.answers.1.text:Republikanci
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4866.0
+passage.questions.6.answers.0.text:Pravna služba Corp
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4865.0
+passage.questions.5.question:Katero organizacijo je kongres odobril v vrstah primerov, ki jih lahko sprejmejo odvetniki, ki jih financirajo zvezni organi?
+passage.questions.5.idx:936.0
+passage.questions.5.answers.4.text:Michigan
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:4864.0
+passage.questions.5.answers.3.text:LSC
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:4863.0
+passage.questions.5.answers.2.text:Republikanci
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4862.0
+passage.questions.5.answers.1.text:Legal Services Corp. (LSC)
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4861.0
+passage.questions.5.answers.0.text:NAACP
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4860.0
+passage.questions.4.question:Naštejte trenutni proračun LSC in proračun z dodatkom enkratnega povečanja.
+passage.questions.4.idx:935.0
+passage.questions.4.answers.3.text:319 milijonov
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4859.0
+passage.questions.4.answers.2.text:Trenutni proračun znaša 329 milijonov dolarjev, povečanje pa bi znašalo 348 milijonov dolarjev
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4858.0
+passage.questions.4.answers.1.text:300 milijonov
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4857.0
+passage.questions.4.answers.0.text:348 milijonov dolarjev
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4856.0
+passage.questions.3.question:Katera politična stranka je zmanjšala proračun LSC?
+passage.questions.3.idx:934.0
+passage.questions.3.answers.2.text:Republikanec
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4855.0
+passage.questions.3.answers.1.text:Libertarian
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4854.0
+passage.questions.3.answers.0.text:Demokratično
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4853.0
+passage.questions.2.question:Enkrat dodani prispevek senata v višini 19 milijonov ameriških dolarjev v proračun LSC bo pomagal, kaj pomaga?
+passage.questions.2.idx:933.0
+passage.questions.2.answers.5.text:Vključiti ga v proračunsko financiranje organizacije za leto 2004
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:4852.0
+passage.questions.2.answers.4.text:Nasprotovanje organizaciji se od leta 1996 ohladi
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4851.0
+passage.questions.2.answers.3.text:Pomoč Michiganu in Ohiu, ki je izgubila denar, ko je organizacija prerazporedila sredstva na podlagi štetja prebivalstva
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4850.0
+passage.questions.2.answers.2.text:Denar bi šel za pomoč državam, kot sta Michigan in Ohio, ki so izgubile denar, ko je organizacija prerazporedila sredstva na podlagi štetja prebivalstva v letu 2000 revnih gospodinjstev
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4849.0
+passage.questions.2.answers.1.text:Boj za liberalne namene
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:4848.0
+passage.questions.2.answers.0.text:Financiranje nekaterih programov za zagotavljanje pravne pomoči revnim
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:4847.0
+passage.questions.11.question:Kaj se je zgodilo s financiranjem LSC od zmanjšanja proračuna za leto 1996?
+passage.questions.11.idx:942.0
+passage.questions.11.answers.2.text:Upadlo je
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4884.0
+passage.questions.11.answers.1.text:Financiranje si je počasi opomoglo
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:4883.0
+passage.questions.11.answers.0.text:Počasno okrevanje
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:4882.0
+passage.questions.10.question:Katera organizacija je svoje financiranje prerazporedila na podlagi štetja prebivalstva v Ohiu in Michiganu?
+passage.questions.10.idx:941.0
+passage.questions.10.answers.4.text:Nepravina agencija
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:4881.0
+passage.questions.10.answers.3.text:LSN
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:4880.0
+passage.questions.10.answers.2.text:LSC
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:4879.0
+passage.questions.10.answers.1.text:Senat
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4878.0
+passage.questions.10.answers.0.text:Pravna služba Corp
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4877.0
+passage.questions.1.question:Katere vrste primerov je prepovedal PL 104-134?
+passage.questions.1.idx:932.0
+passage.questions.1.answers.3.text:Kazenske zadeve
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4846.0
+passage.questions.1.answers.2.text:Lobiranje, vlaganje skupinskih tožb, sodelovanje v političnih demonstracijah ali stavkah, sodni spori glede splava, nezakonito zastopanje tujcev in zapornikov ter obramba izseljenih iz zveznih stanovanj zaradi prodaje mamil
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4845.0
+passage.questions.1.answers.1.text:Zastopanje ilegalnih tujcev ali zapornikov
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:4844.0
+passage.questions.1.answers.0.text:Branilci najemnikov javnih stanovanj, izseljenih, ker so bili obtoženi prodaje drog
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4843.0
+passage.questions.0.question:Katero leto so republikanci zmanjšali proračun LSC?
+passage.questions.0.idx:931
+passage.questions.0.answers.5.text:1994
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:4842.0
+passage.questions.0.answers.4.text:Šestdeseta leta
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4841.0
+passage.questions.0.answers.3.text:355
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4840.0
+passage.questions.0.answers.2.text:2000
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4839.0
+passage.questions.0.answers.1.text:1996
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4838
+passage.questions.0.answers.0.text:2004
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4837
+idx:80

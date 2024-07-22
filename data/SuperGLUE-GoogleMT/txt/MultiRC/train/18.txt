@@ -1,0 +1,563 @@
+version:1.1
+passage.text:Torek, 11. septembra 2001, se je na vzhodu ZDA zmerno in skoraj ne oblačil. Milijoni moških in žensk so se pripravili na delo. Nekateri so se odpravili do stolpov dvojčkov, podpisnih struktur kompleksa Svetovnega trgovinskega centra v New Yorku. Drugi so odšli v Arlington v Virginiji v Pentagon. Čez reko Potomac je ponovno zasedal kongres Združenih držav. Na drugem koncu avenije Pennsylvania so se ljudje začeli postavljati v vrsto za turnejo po Beli hiši. V Sarasoti na Floridi se je predsednik George W. Bush odpravil na zgodnji jutranji tek. Za tiste, ki se odpravijo na letališče, vremenske razmere ne bi mogle biti boljše za varno in prijetno potovanje. Med popotniki sta bila Mohamed Atta in Abdul Aziz al Omari, ki sta prispela na letališče v Portlandu v državi Maine. Boston: American 11 in United 175. Atta in Omari sta se vkrcala na let iz Portlanda ob 6:00 do mednarodnega letališča Logan v Bostonu. Ko se je prijavil na let v Boston, je bil Atta izbran z računalniškim sistemom za prednastavitev, znanim kot CAPPS (Computer Assisted Passenger Prescreening System), ustvarjenim za prepoznavanje potnikov, za katere bi morali veljati posebni varnostni ukrepi. V skladu s takrat veljavnimi varnostnimi predpisi je bila edina posledica, da je Atta izbral CAPPS, ta, da so njegove prtljage zadrževali iz letala, dokler ni bilo potrjeno, da se je vkrcal na letalo. To Attinih načrtov ni oviralo. Atta in Omari sta prispela v Boston ob 6:45. Sedem minut kasneje je Atta očitno poklical Marwana al Shehhija, dolgoletnega kolega, ki je bil na drugem terminalu na letališču Logan. Tri minute so govorili. To bi bil njihov zadnji pogovor.
+passage.questions.9.question:Je na izbiro CAPPS vplival na načrte Atta?
+passage.questions.9.idx:219.0
+passage.questions.9.answers.7.text:Njegove torbe so bile pridržane
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:1212.0
+passage.questions.9.answers.6.text:Njegovi načrti niso bili prizadeti
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:1211.0
+passage.questions.9.answers.5.text:Sploh brez ovir
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:1210.0
+passage.questions.9.answers.4.text:Da, v Boston je prispel pozneje, kot je bilo pričakovano
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:1209.0
+passage.questions.9.answers.3.text:Sploh ne
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1208.0
+passage.questions.9.answers.2.text:Najprej je bilo treba pregledati njegove torbe
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1207.0
+passage.questions.9.answers.1.text:Da, njegove oddane prtljage so neomejeno zadrževali na letalu
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1206.0
+passage.questions.9.answers.0.text:Ne, zadržane čekirane prtljage niso ovirale njegovih načrtov
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:1205.0
+passage.questions.8.question:Kaj so bile tarče njihovega napada?
+passage.questions.8.idx:218.0
+passage.questions.8.answers.7.text:Reka Potomac
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:1204.0
+passage.questions.8.answers.6.text:Letališče Logan
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:1203.0
+passage.questions.8.answers.5.text:Bostonsko mednarodno letališče Logan
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:1202.0
+passage.questions.8.answers.4.text:Bela hiša
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:1201.0
+passage.questions.8.answers.3.text:Stolpa dvojčka
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1200.0
+passage.questions.8.answers.2.text:Stolpa dvojčka, Pentagon in kongres
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:1199.0
+passage.questions.8.answers.1.text:Svetovni trgovinski center
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:1198.0
+passage.questions.8.answers.0.text:Pentagon
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:1197.0
+passage.questions.7.question:Kdo je imel zadnji pogovor
+passage.questions.7.idx:217.0
+passage.questions.7.answers.8.text:Omari
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:1196.0
+passage.questions.7.answers.7.text:Aziz in Logan
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:1195.0
+passage.questions.7.answers.6.text:Atta
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:1194.0
+passage.questions.7.answers.5.text:Abdul Aziz al Omari
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:1193.0
+passage.questions.7.answers.4.text:Marwan al Shehhi
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:1192.0
+passage.questions.7.answers.3.text:Atta in Marwan al Shehhi
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:1191.0
+passage.questions.7.answers.2.text:Shehhi
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1190.0
+passage.questions.7.answers.1.text:Mohamed Atta
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1189.0
+passage.questions.7.answers.0.text:Atta in Shehhi
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1188.0
+passage.questions.6.question:Kdo se je z Mohamadom Attata vkrcal na let iz Portlanda do mednarodnega letališča Logan v Bostonu ob 6:00 in prispel v Boston ob 18:45?
+passage.questions.6.idx:216.0
+passage.questions.6.answers.3.text:Shehhi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1187.0
+passage.questions.6.answers.2.text:Omari
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:1186.0
+passage.questions.6.answers.1.text:Abdul Aziz al Omari
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1185.0
+passage.questions.6.answers.0.text:Predsednik George W. Bush
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1184.0
+passage.questions.5.question:Kaj je bilo rahlo vprašanje, ki je takrat prizadelo teroriste?
+passage.questions.5.idx:215.0
+passage.questions.5.answers.5.text:Njihovi telefoni ne bi delovali
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:1183.0
+passage.questions.5.answers.4.text:Preverjene torbe so zadržane do potrditve vkrcanja
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:1182.0
+passage.questions.5.answers.3.text:KAPE
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1181.0
+passage.questions.5.answers.2.text:Njihove torbe so bile izgubljene
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1180.0
+passage.questions.5.answers.1.text:Atta je bil izbran z računalniškim sistemom za prednastavitev, znanim kot CAPPS, kar pomeni, da so njegove prijavljene prtljage zadrževali na letalu, dokler ni bilo potrjeno, da se je vkrcal na letalo. Toda to ni vplivalo na njihove načrte
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1179.0
+passage.questions.5.answers.0.text:Biti podvržen posebnim varnostnim ukrepom
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1178.0
+passage.questions.4.question:Kako dolgo je trajal Attain zadnji pogovor z Marwan al Shehhi?
+passage.questions.4.idx:214.0
+passage.questions.4.answers.4.text:3 minute
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:1177.0
+passage.questions.4.answers.3.text:1 minuto
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1176.0
+passage.questions.4.answers.2.text:7 minut
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1175.0
+passage.questions.4.answers.1.text:Tri minute
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1174.0
+passage.questions.4.answers.0.text:2 minuti
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1173.0
+passage.questions.3.question:Kdaj je Atta prejela telefonski klic Marwana al Shehhija
+passage.questions.3.idx:213.0
+passage.questions.3.answers.5.text:6:12
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:1172.0
+passage.questions.3.answers.4.text:6:55
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1171.0
+passage.questions.3.answers.3.text:6:53
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1170.0
+passage.questions.3.answers.2.text:6:52
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1169.0
+passage.questions.3.answers.1.text:6:07
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1168.0
+passage.questions.3.answers.0.text:6:45
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1167.0
+passage.questions.27.question:Na kateri dan sta se Atta in Omari vkrcala na let iz Portlanda do mednarodnega letališča Logan v Bostonu ob 6:00?
+passage.questions.27.idx:237.0
+passage.questions.27.answers.6.text:Drugi septembrski teden
+passage.questions.27.answers.6.label:0,0
+passage.questions.27.answers.6.idx:1318.0
+passage.questions.27.answers.5.text:11. septembra
+passage.questions.27.answers.5.label:1.0
+passage.questions.27.answers.5.idx:1317.0
+passage.questions.27.answers.4.text:11. septembra
+passage.questions.27.answers.4.label:1.0
+passage.questions.27.answers.4.idx:1316.0
+passage.questions.27.answers.3.text:Predvečer 11. septembra
+passage.questions.27.answers.3.label:0,0
+passage.questions.27.answers.3.idx:1315.0
+passage.questions.27.answers.2.text:Dan po 11. septembru
+passage.questions.27.answers.2.label:0,0
+passage.questions.27.answers.2.idx:1314.0
+passage.questions.27.answers.1.text:11. september 2001
+passage.questions.27.answers.1.label:1.0
+passage.questions.27.answers.1.idx:1313.0
+passage.questions.27.answers.0.text:Torek, 11. september 2001
+passage.questions.27.answers.0.label:1.0
+passage.questions.27.answers.0.idx:1312.0
+passage.questions.26.question:Kje so bili ključni ljudje v strukturi moči države zjutraj 11. septembra?
+passage.questions.26.idx:236.0
+passage.questions.26.answers.2.text:Arlington v Virginiji do Pentagona. Čez reko Potomac je ponovno zasedal kongres Združenih držav. V Sarasoti na Floridi predsednik George W. Bush
+passage.questions.26.answers.2.label:1.0
+passage.questions.26.answers.2.idx:1311.0
+passage.questions.26.answers.1.text:New York
+passage.questions.26.answers.1.label:0,0
+passage.questions.26.answers.1.idx:1310.0
+passage.questions.26.answers.0.text:Boston
+passage.questions.26.answers.0.label:0,0
+passage.questions.26.answers.0.idx:1309.0
+passage.questions.25.question:S kom je bil zadnji pogovor Atta?
+passage.questions.25.idx:235.0
+passage.questions.25.answers.2.text:Marwan al Shehhi
+passage.questions.25.answers.2.label:1.0
+passage.questions.25.answers.2.idx:1308.0
+passage.questions.25.answers.1.text:Abdul Aziz al Omari
+passage.questions.25.answers.1.label:0,0
+passage.questions.25.answers.1.idx:1307.0
+passage.questions.25.answers.0.text:Predsednik George W. Bush
+passage.questions.25.answers.0.label:0,0
+passage.questions.25.answers.0.idx:1306.0
+passage.questions.24.question:Kdaj je Atta poklical Marwana al Shehhija?
+passage.questions.24.idx:234.0
+passage.questions.24.answers.7.text:6:52
+passage.questions.24.answers.7.label:1.0
+passage.questions.24.answers.7.idx:1305.0
+passage.questions.24.answers.6.text:6:52, 11. septembra
+passage.questions.24.answers.6.label:1.0
+passage.questions.24.answers.6.idx:1304.0
+passage.questions.24.answers.5.text:Ni znano
+passage.questions.24.answers.5.label:0,0
+passage.questions.24.answers.5.idx:1303.0
+passage.questions.24.answers.4.text:Pred vkrcanjem
+passage.questions.24.answers.4.label:0,0
+passage.questions.24.answers.4.idx:1302.0
+passage.questions.24.answers.3.text:Ob 6:45 zjutraj
+passage.questions.24.answers.3.label:0,0
+passage.questions.24.answers.3.idx:1301.0
+passage.questions.24.answers.2.text:7 minut po prihodu v Boston
+passage.questions.24.answers.2.label:1.0
+passage.questions.24.answers.2.idx:1300.0
+passage.questions.24.answers.1.text:Ko je prispel v Boston
+passage.questions.24.answers.1.label:0,0
+passage.questions.24.answers.1.idx:1299.0
+passage.questions.24.answers.0.text:8 minut pred 7. uro zjutraj
+passage.questions.24.answers.0.label:1.0
+passage.questions.24.answers.0.idx:1298.0
+passage.questions.23.question:Kako dolgo je trajal telefonski klic med Atta in Marwan al Shehhi
+passage.questions.23.idx:233.0
+passage.questions.23.answers.3.text:45 minut
+passage.questions.23.answers.3.label:0,0
+passage.questions.23.answers.3.idx:1297.0
+passage.questions.23.answers.2.text:2 minuti
+passage.questions.23.answers.2.label:0,0
+passage.questions.23.answers.2.idx:1296.0
+passage.questions.23.answers.1.text:1 minuto
+passage.questions.23.answers.1.label:0,0
+passage.questions.23.answers.1.idx:1295.0
+passage.questions.23.answers.0.text:3 minute
+passage.questions.23.answers.0.label:1.0
+passage.questions.23.answers.0.idx:1294.0
+passage.questions.22.question:Kdaj je Atta prekinila telefonski klic z Marwanom al Shehhi?
+passage.questions.22.idx:232.0
+passage.questions.22.answers.4.text:Ob 6:55 zjutraj
+passage.questions.22.answers.4.label:1.0
+passage.questions.22.answers.4.idx:1293.0
+passage.questions.22.answers.3.text:Sedem minut po 6:45
+passage.questions.22.answers.3.label:0,0
+passage.questions.22.answers.3.idx:1292.0
+passage.questions.22.answers.2.text:6:45
+passage.questions.22.answers.2.label:0,0
+passage.questions.22.answers.2.idx:1291.0
+passage.questions.22.answers.1.text:Okoli 7. ure zjutraj
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:1290.0
+passage.questions.22.answers.0.text:6:55
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:1289.0
+passage.questions.21.question:Kdaj je Atta poklical Marwana al Shehhija?
+passage.questions.21.idx:231.0
+passage.questions.21.answers.5.text:6:12
+passage.questions.21.answers.5.label:0,0
+passage.questions.21.answers.5.idx:1288.0
+passage.questions.21.answers.4.text:6:52
+passage.questions.21.answers.4.label:1.0
+passage.questions.21.answers.4.idx:1287.0
+passage.questions.21.answers.3.text:6:55
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:1286.0
+passage.questions.21.answers.2.text:6:53
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:1285.0
+passage.questions.21.answers.1.text:6:07
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:1284.0
+passage.questions.21.answers.0.text:6:45
+passage.questions.21.answers.0.label:0,0
+passage.questions.21.answers.0.idx:1283.0
+passage.questions.20.question:Kako je predsednik Bush začel svoj dan 11. septembra 2001?
+passage.questions.20.idx:230.0
+passage.questions.20.answers.5.text:Ogledal si je belo hišo
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:1282.0
+passage.questions.20.answers.4.text:Tek
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:1281.0
+passage.questions.20.answers.3.text:Šel je v Pentagon
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:1280.0
+passage.questions.20.answers.2.text:Odpravil se je na zgodnji jutranji tek
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:1279.0
+passage.questions.20.answers.1.text:Papirologija
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:1278.0
+passage.questions.20.answers.0.text:Šel je na jutranji tek
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:1277.0
+passage.questions.2.question:Kdaj je Atta končal klic z Marwanom Al Shehhi?
+passage.questions.2.idx:212.0
+passage.questions.2.answers.4.text:6:12
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1166.0
+passage.questions.2.answers.3.text:6:55
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:1165.0
+passage.questions.2.answers.2.text:6:53
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1164.0
+passage.questions.2.answers.1.text:6:52
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:1163.0
+passage.questions.2.answers.0.text:6:07
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1162.0
+passage.questions.19.question:Kakšno je bilo vreme v torek, 11. septembra 2001?
+passage.questions.19.idx:229.0
+passage.questions.19.answers.5.text:Bilo je zmerno in skoraj brez oblaka. Vremenske razmere ne bi mogle biti boljše za varno in prijetno z letalom
+passage.questions.19.answers.5.label:1.0
+passage.questions.19.answers.5.idx:1276.0
+passage.questions.19.answers.4.text:In skoraj brez oblačka
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:1275.0
+passage.questions.19.answers.3.text:Vroče in oblačno
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:1274.0
+passage.questions.19.answers.2.text:Zelo hladno in brez oblakov
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:1273.0
+passage.questions.19.answers.1.text:Vroče in muggy
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:1272.0
+passage.questions.19.answers.0.text:Zora zmerna in skoraj brez oblačka
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:1271.0
+passage.questions.18.question:Kakšna so bila varnostna pravila za prednastavitveni sistem CAPPS 11. septembra 2001?
+passage.questions.18.idx:228.0
+passage.questions.18.answers.4.text:Potniki, ki so se vkrcali na lete
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:1270.0
+passage.questions.18.answers.3.text:Stražar
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:1269.0
+passage.questions.18.answers.2.text:Ustavitev izbranega perona, ki se vkrca na letalo
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:1268.0
+passage.questions.18.answers.1.text:Predane vrečke zadržujejo iz letala, dokler ne pride do potrditve vkrcanja na letalo
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:1267.0
+passage.questions.18.answers.0.text:Da so izbrani osebi zadržali oddano prtljago, dokler ni bilo potrjeno, da se je vkrcal na letalo
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:1266.0
+passage.questions.17.question:S kom in kako dolgo je bil zadnji telefonski klic Mohameda Atta?
+passage.questions.17.idx:227.0
+passage.questions.17.answers.6.text:Marwan al Shehhi, za tri minute
+passage.questions.17.answers.6.label:1.0
+passage.questions.17.answers.6.idx:1265.0
+passage.questions.17.answers.5.text:Dolgoletni kolega, tri minute
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:1264.0
+passage.questions.17.answers.4.text:Logan, 3 minute
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:1263.0
+passage.questions.17.answers.3.text:Abdul Aziz al Omari, dve minuti
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:1262.0
+passage.questions.17.answers.2.text:Marwan al Shehhi, trajanje treh minut
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:1261.0
+passage.questions.17.answers.1.text:Shehhi, 3 minute
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:1260.0
+passage.questions.17.answers.0.text:Predsednik George W. Bush, za minuto
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:1259.0
+passage.questions.16.question:Na katerem letu je bil Mohmad Atta, ko ga je izbral sistem CAPPS?
+passage.questions.16.idx:226.0
+passage.questions.16.answers.4.text:Boston: Američan 11
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:1258.0
+passage.questions.16.answers.3.text:Združeni 175
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:1257.0
+passage.questions.16.answers.2.text:Boston: ameriški 12.
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:1256.0
+passage.questions.16.answers.1.text:Boston: Američan 10
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:1255.0
+passage.questions.16.answers.0.text:Američan 11
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:1254.0
+passage.questions.15.question:Kakšno je bilo vreme, ko se je predsednik George W. Bush odpravil na zgodnji jutranji tek?
+passage.questions.15.idx:225.0
+passage.questions.15.answers.8.text:Zmerno vreme
+passage.questions.15.answers.8.label:1.0
+passage.questions.15.answers.8.idx:1253.0
+passage.questions.15.answers.7.text:Jasno nebo
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:1252.0
+passage.questions.15.answers.6.text:Dobre vremenske razmere na vzhodu ZDA
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:1251.0
+passage.questions.15.answers.5.text:Zmerno in skoraj brez oblaka
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:1250.0
+passage.questions.15.answers.4.text:Blago vreme
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:1249.0
+passage.questions.15.answers.3.text:Oblačno vreme
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:1248.0
+passage.questions.15.answers.2.text:Zunanja temperatura in skoraj brez oblačka
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:1247.0
+passage.questions.15.answers.1.text:Skoraj oblačno
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1246.0
+passage.questions.15.answers.0.text:Nevihtno vreme
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:1245.0
+passage.questions.14.question:Kaj bi lahko oviralo načrte Atta?
+passage.questions.14.idx:224.0
+passage.questions.14.answers.3.text:Izbran s strani CAPPS
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:1244.0
+passage.questions.14.answers.2.text:Izgubil je prtljago
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1243.0
+passage.questions.14.answers.1.text:KAPE
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1242.0
+passage.questions.14.answers.0.text:Biti podvržen posebnim varnostnim ukrepom
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1241.0
+passage.questions.13.question:Kako dolg je bil let od Portlanda do Mainea?
+passage.questions.13.idx:223.0
+passage.questions.13.answers.6.text:45 minut
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:1240.0
+passage.questions.13.answers.5.text:54 minut
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:1239.0
+passage.questions.13.answers.4.text:Le dobro uro
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:1238.0
+passage.questions.13.answers.3.text:Tri četrt ure
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:1237.0
+passage.questions.13.answers.2.text:2 uri 15 minut
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:1236.0
+passage.questions.13.answers.1.text:2 uri
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1235.0
+passage.questions.13.answers.0.text:1 uro
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1234.0
+passage.questions.12.question:Kje je bil George W Bush 11. septembra 2001?
+passage.questions.12.idx:222.0
+passage.questions.12.answers.4.text:Portland, Maine
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:1233.0
+passage.questions.12.answers.3.text:New York
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:1232.0
+passage.questions.12.answers.2.text:Sarasota, Florida
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:1231.0
+passage.questions.12.answers.1.text:Boston
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:1230.0
+passage.questions.12.answers.0.text:Washington DC
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1229.0
+passage.questions.11.question:Od kod sta potovala Atta in Oari in kam?
+passage.questions.11.idx:221.0
+passage.questions.11.answers.9.text:Florida do Bostona
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:1228.0
+passage.questions.11.answers.8.text:Portland, Maine do Bostona
+passage.questions.11.answers.8.label:1.0
+passage.questions.11.answers.8.idx:1227.0
+passage.questions.11.answers.7.text:Virginia v Boston
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:1226.0
+passage.questions.11.answers.6.text:Boston v Virginijo
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:1225.0
+passage.questions.11.answers.5.text:Boston do Portlanda v državi Maine
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:1224.0
+passage.questions.11.answers.4.text:Portland, Maine, kamor so odpotovali v Boston
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:1223.0
+passage.questions.11.answers.3.text:Maine v Boston
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:1222.0
+passage.questions.11.answers.2.text:Portland, Boston
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:1221.0
+passage.questions.11.answers.1.text:Boston, Prtland
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:1220.0
+passage.questions.11.answers.0.text:Boston na Florido
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:1219.0
+passage.questions.10.question:S kom se je Atta pogovarjal v Bostonu in kako dolgo?
+passage.questions.10.idx:220.0
+passage.questions.10.answers.5.text:Marwan al Shehhi, za tri minute
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:1218.0
+passage.questions.10.answers.4.text:Dolgoletni kolega, tri minute
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:1217.0
+passage.questions.10.answers.3.text:Abdul Amari
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1216.0
+passage.questions.10.answers.2.text:Marwan al Shehhi za 3 minute
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:1215.0
+passage.questions.10.answers.1.text:Abdul Aziz al Omari, dve minuti
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1214.0
+passage.questions.10.answers.0.text:Predsednik George W. Bush, za minuto
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:1213.0
+passage.questions.1.question:Kako sta se potovanje Atta in Omarija skozi letališko varnost razlikovala?
+passage.questions.1.idx:211.0
+passage.questions.1.answers.2.text:Ni bilo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1161.0
+passage.questions.1.answers.1.text:Šel je skozi CAPPS
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:1160.0
+passage.questions.1.answers.0.text:Atta je bil označen s sistemom CAPPS in njegove predane prtljage so držali iz letala, dokler ni bilo potrjeno, da se je vkrcal na letalo. Omari sistema ni označil
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:1159.0
+passage.questions.0.question:Od trenutka, ko sta se Atta in Omari vkrcala na let v Portlandu, koliko časa je trajalo, da so prišli do Bostona
+passage.questions.0.idx:210
+passage.questions.0.answers.7.text:45 minut
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:1158.0
+passage.questions.0.answers.6.text:54 minut
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:1157.0
+passage.questions.0.answers.5.text:Le dobro uro
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1156.0
+passage.questions.0.answers.4.text:Tri četrt ure
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:1155.0
+passage.questions.0.answers.3.text:2 uri 15 minut
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:1154.0
+passage.questions.0.answers.2.text:2 uri
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1153.0
+passage.questions.0.answers.1.text:1 uro in 45 minut
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1152
+passage.questions.0.answers.0.text:1 uro
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1151
+idx:18

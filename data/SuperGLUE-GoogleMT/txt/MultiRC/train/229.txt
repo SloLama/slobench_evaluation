@@ -1,0 +1,118 @@
+version:1.1
+passage.text:Film se začne s tem, da člani katoliške cerkve izkopljejo telo cerkvenega uradnika iz 19. stoletja, čigar skrinjica ima privezano žaro v obliki škatle. V škatli odkrijejo predmete Materja Lachrymaruma, zadnjega preživelega člana treh mater; starodavna trojka močnih črnih čarovnic. V škatli je zlasti čarobni plašč, ki jo Mater Lachrymarum, ko jo nosi, bistveno poveča. Žara je odposlana v Muzej antične umetnosti v Rimu, kjer je Američanka Sarah Mandy, ki preučuje umetniška restavratorska dela. Sarah hodi s kustosom Michaelom Pierceom, očetom samohranilcem, ki je tisto noč odsoten iz muzeja. Sarah s pomočjo pomočnice kustosa odpre škatlo in najde plašč, bodalo in tri kipe, ki predstavljajo tri čarovnice. Ko kuharja pošlje v njeno pisarno po orodja, ki ji pomagajo prevesti besedilo na artefaktih, kustosa nemudoma napadejo demonski agenti Mater Lachrymarum. Sarah prispe prepozno, da bi rešila šefa, in začne bežati iz muzeja. Žal jo zasleduje poznavalec Mater Lachrymarum in ji lahko pobegne šele, ko netelesni glas čarobno odpre vrsto zaklenjenih vrat in jo ujame v muzej. Sarah policiji pove, kaj se je zgodilo, ko prenoči z Michaelom in njegovim sinom. Michael obišče kardinala, ki mu je poslal žaro, da bi ugotovil, da je kmalu po tem, ko mu je poslal žaro, močno kap in je zdaj v komi.
+passage.questions.9.question:Kaj še posebej je bilo pritrjeno na krsto in kaj se je z njo zgodilo?
+passage.questions.9.idx:2564.0
+passage.questions.9.answers.3.text:Poslano je pridigarju
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:13516.0
+passage.questions.9.answers.2.text:Žarka v obliki škatle
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:13515.0
+passage.questions.9.answers.1.text:Na skrinjico je bila pritrjena škatlasta žara, ki je bila odposlana v Muzej antične umetnosti v Rimu
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:13514.0
+passage.questions.9.answers.0.text:Ogrinjalo
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:13513.0
+passage.questions.8.question:Kaj je napadlo in preganjalo Saro, kaj ali kdo ji je pomagal pobegniti, kako in kje je prenočila?
+passage.questions.8.idx:2563.0
+passage.questions.8.answers.0.text:Demonski agenti so napadli Sarah in jo preganjali, breztelesni glas pa ji je čarobno odprl zaklenjena muzejska vrata, da bi pobegnila, da bi prenočila z Michaelom in njegovim sinom
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:13512.0
+passage.questions.7.question:Zakaj Sarah prenoči z Michaelom in njegovim sinom?
+passage.questions.7.idx:2562.0
+passage.questions.7.answers.2.text:Zmenka se z Michaelom, zasledoval jo je znanec Mater Lachrymarum in ji je uspelo pobegniti šele, ko je breztelesni glas čarobno odprl vrsto zaklenjenih vrat in jo ujela v muzej
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:13511.0
+passage.questions.7.answers.1.text:Všeč ji je bil Michaelov sin
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:13510.0
+passage.questions.7.answers.0.text:Po ujetosti v muzeju se je bala
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:13509.0
+passage.questions.6.question:Kje je odposlana žara?
+passage.questions.6.idx:2561.0
+passage.questions.6.answers.2.text:Michaelu
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:13508.0
+passage.questions.6.answers.1.text:Odpremljen je Michaelu in Muzeju antične umetnosti v Rimu, kjer dela Sarah Mandy, Američanka, ki študira umetniške restavracije
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:13507.0
+passage.questions.6.answers.0.text:Kardinalu
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:13506.0
+passage.questions.5.question:Kdo so bile tri matere in kaj so jih zastopale?
+passage.questions.5.idx:2560.0
+passage.questions.5.answers.1.text:Tri matere so bile starodavni trio močnih črnih čarovnic in so jih predstavljali trije kipi
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:13505.0
+passage.questions.5.answers.0.text:Vlada
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:13504.0
+passage.questions.4.question:Katero močno skupino predstavljajo kipi?
+passage.questions.4.idx:2559.0
+passage.questions.4.answers.1.text:Plenilec
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:13503.0
+passage.questions.4.answers.0.text:Tri matere
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:13502.0
+passage.questions.3.question:Kaj je katoliška cerkev našla v skrinjici trupla cerkvenega uradnika iz 19. stoletja?
+passage.questions.3.idx:2558.0
+passage.questions.3.answers.2.text:Artefakti, ki pripadajo Mater Lachrymarum, in čarobni plašč, ki ga Mater Lachrymarum, ko ga nosi, znatno poveča. Tudi plašč, bodalo in trije kipi, ki predstavljajo tri čarovnice
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:13501.0
+passage.questions.3.answers.1.text:Veriga
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13500.0
+passage.questions.3.answers.0.text:Škatla v obliki žare
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:13499.0
+passage.questions.2.question:Kaj vsebuje žara?
+passage.questions.2.idx:2557.0
+passage.questions.2.answers.0.text:Ogrinjalo, bodalo in trije kipi
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13498.0
+passage.questions.10.question:Komu katoliška cerkev zaupa žaro?
+passage.questions.10.idx:2565.0
+passage.questions.10.answers.2.text:Barnett
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:13519.0
+passage.questions.10.answers.1.text:Michael Pierce, kustos Muzeja antične umetnosti v Rimu
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:13518.0
+passage.questions.10.answers.0.text:Zaobljuba
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:13517.0
+passage.questions.1.question:Kdo je bila Sarah, od kod je bila, kaj je počela in kakšen je bil njen odnos z Michaelom in kaj je naredil za neko službo?
+passage.questions.1.idx:2556.0
+passage.questions.1.answers.1.text:Sarah je bila iz Amerike, študirala je restavratorska dela in hodila z Michaelom, ki je bil kustos muzeja
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:13497.0
+passage.questions.1.answers.0.text:Sarah je bila iz Južne Amerike, študirala je restavratorska dela in hodila z Michaelom, ki je bil kustos muzeja
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13496.0
+passage.questions.0.question:Kakšna je bila oblika žare, kakšni artefakti so bili v njej najdeni in komu so tudi pripadali?
+passage.questions.0.idx:2555
+passage.questions.0.answers.6.text:Trikotnik
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:13495.0
+passage.questions.0.answers.5.text:Klobuk
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:13494.0
+passage.questions.0.answers.4.text:Čarobni plašč
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:13493.0
+passage.questions.0.answers.3.text:Mater Lachrymarum
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:13492.0
+passage.questions.0.answers.2.text:Škatlasta oblika
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:13491.0
+passage.questions.0.answers.1.text:Sarah
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13490
+passage.questions.0.answers.0.text:Urna je bila v obliki škatle in najden je (čarobni) plašč, bodalo in trije kipi, ki so pripadali Mater Lachrymarum
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:13489
+idx:229

@@ -1,0 +1,6 @@
+choice1:Ravnatelj je suspendiral vpletene učence.
+choice2:Ravnatelj je odpovedal pouk za tisti dan.
+idx:238
+label:0
+premise:Na šolskem hodniku se je vnel pretep.
+question:effect

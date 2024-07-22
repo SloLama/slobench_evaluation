@@ -1,0 +1,192 @@
+version:1.1
+passage.text:(CNN) - Po poročanju ministrstva za zdravje so Gabriel García Márquez, ki velja za enega najpomembnejših sodobnih latinskoameriških avtorjev, v začetku tega tedna sprejeli v bolnišnico v Mehiki. Prejemnik Nobelove nagrade, znan kot &quot;Gabo&quot;, je imel okužbe v pljučih in sečilih. Trpi zaradi dehidracije, so sporočili z ministrstva. 87-letni García Márquez se dobro odziva na antibiotike, a datum njegove izpustitve je še treba določiti. &quot;Želim mu hitro okrevanje.&quot; Mehiški predsednik Enrique Peña je zapisal na Twitterju. García Márquez se je rodil v mestu Aracataca na severu Kolumbije, navdih za izmišljeno mesto Macondo, postavitev romana iz leta 1967 &quot;Sto let samote&quot;. Nobelovo nagrado za literaturo je dobil leta 1982 &quot;za svoje romane in kratke zgodbe, v katerih sta fantastično in realistično združeno v bogato sestavljenem svetu domišljije, ki odraža življenje in konflikte celine&quot;, piše na spletni strani Nobelove nagrade. García Márquez je že vrsto let preživel v Mehiki in tam ima ogromno privržencev. Kolumbijski predsednik Juan Manuel Santos je dejal, da njegova država misli na avtorja. &quot;Vsa Kolumbija želi hitro okrevanje do največjega vseh časov: Gabriela Garcíe Márqueza,&quot; je tvitnil. CNN sl Español Fidel Gutierrez je prispeval k tej zgodbi.
+passage.questions.8.question:Zakaj je bil Gabriel García Márquez hospitaliziran?
+passage.questions.8.idx:170.0
+passage.questions.8.answers.9.text:Trpel je zaradi dehidracije
+passage.questions.8.answers.9.label:1.0
+passage.questions.8.answers.9.idx:892.0
+passage.questions.8.answers.8.text:Zaradi okužbe je bil dehidriran
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:891.0
+passage.questions.8.answers.7.text:Za srčni napad
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:890.0
+passage.questions.8.answers.6.text:Imel je okužbo
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:889.0
+passage.questions.8.answers.5.text:Bil je vinjen
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:888.0
+passage.questions.8.answers.4.text:Imel je okužbe v pljučih in sečnem traktu
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:887.0
+passage.questions.8.answers.3.text:Imel je okužbe v pljučih in sečilih, trpel je zaradi dehidracije
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:886.0
+passage.questions.8.answers.2.text:Za okužbe v pljučih in sečilih
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:885.0
+passage.questions.8.answers.10.text:Na zdravljenje z antibiotiki se ni odzival
+passage.questions.8.answers.10.label:0,0
+passage.questions.8.answers.10.idx:893.0
+passage.questions.8.answers.1.text:Bil je mrtev
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:884.0
+passage.questions.8.answers.0.text:Za dehidracijo
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:883.0
+passage.questions.7.question:Kdo je leta 1982 dobil Nobelovo nagrado za svojo literaturo?
+passage.questions.7.idx:169.0
+passage.questions.7.answers.5.text:Enrique García Márquez
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:882.0
+passage.questions.7.answers.4.text:Gabriel Pena
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:881.0
+passage.questions.7.answers.3.text:Fidel Gutierrez
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:880.0
+passage.questions.7.answers.2.text:Gabriel Mata
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:879.0
+passage.questions.7.answers.1.text:Gabriel Garcia Maquez
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:878.0
+passage.questions.7.answers.0.text:Enrique Pena
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:877.0
+passage.questions.6.question:Zakaj je bil Gabriel García Márquez sprejet v bolnišnico?
+passage.questions.6.idx:168.0
+passage.questions.6.answers.4.text:Trpel je zaradi dehidracije
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:876.0
+passage.questions.6.answers.3.text:Star je 87 let
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:875.0
+passage.questions.6.answers.2.text:Bil je vinjen
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:874.0
+passage.questions.6.answers.1.text:Bil je dehidriran
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:873.0
+passage.questions.6.answers.0.text:Okužbe v pljučih, sečil in dehidracija
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:872.0
+passage.questions.5.question:Kdo je rekel: &quot;Želim vam hitro okrevanje.&quot;?
+passage.questions.5.idx:167.0
+passage.questions.5.answers.4.text:Predsednik Kolumbije
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:871.0
+passage.questions.5.answers.3.text:Predsednik Mehike
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:870.0
+passage.questions.5.answers.2.text:Predsednik ZDA
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:869.0
+passage.questions.5.answers.1.text:Enrique Peña
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:868.0
+passage.questions.5.answers.0.text:Dobitnik Nobelove nagrade
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:867.0
+passage.questions.4.question:Po čem je znan Gabriel García Márquez?
+passage.questions.4.idx:166.0
+passage.questions.4.answers.5.text:Ker je eden najpomembnejših sodobnih latinskoameriških avtorjev
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:866.0
+passage.questions.4.answers.4.text:Kot sodobni latinskoameriški avtor in prejemnik Nobelove nagrade
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:865.0
+passage.questions.4.answers.3.text:Za mehiškega državljana
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:864.0
+passage.questions.4.answers.2.text:Biti pilot
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:863.0
+passage.questions.4.answers.1.text:Biti avtor
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:862.0
+passage.questions.4.answers.0.text:Za osvojitev Nobelove nagrade
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:861.0
+passage.questions.3.question:Koliko let po napisu romana &quot;Sto let samote&quot; je Gabo dobil Nobelovo nagrado?
+passage.questions.3.idx:165.0
+passage.questions.3.answers.3.text:15 let
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:860.0
+passage.questions.3.answers.2.text:25 let
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:859.0
+passage.questions.3.answers.1.text:Leto izida
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:858.0
+passage.questions.3.answers.0.text:Sto let
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:857.0
+passage.questions.2.question:Kaj naj bi zdravili García Márquez z antibiotiki?
+passage.questions.2.idx:164
+passage.questions.2.answers.5.text:Okužba pljučnega trakta
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:856.0
+passage.questions.2.answers.4.text:Demenca
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:855.0
+passage.questions.2.answers.3.text:Okužba v pljučih
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:854.0
+passage.questions.2.answers.2.text:Pljučne okužbe
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:853.0
+passage.questions.2.answers.1.text:Okužba pljuč in sečil
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:852
+passage.questions.2.answers.0.text:Okužbe sečil
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:851
+passage.questions.1.question:Čigavo hitro okrevanje si je na Twitterju zaželel mehiški predsednik Enrique Peña?
+passage.questions.1.idx:163
+passage.questions.1.answers.6.text:Prejemnik Nobelove nagrade
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:850.0
+passage.questions.1.answers.5.text:87
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:849.0
+passage.questions.1.answers.4.text:Fidel Gutierrez
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:848.0
+passage.questions.1.answers.3.text:Gabriel Mata
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:847.0
+passage.questions.1.answers.2.text:Gabo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:846.0
+passage.questions.1.answers.1.text:Gabriel Garcia Marquez
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:845
+passage.questions.1.answers.0.text:Enrique Peña
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:844
+passage.questions.0.question:Kje se je rodil Gabriel García Márquez in kdaj je dobil Nobelovo nagrado?
+passage.questions.0.idx:162
+passage.questions.0.answers.6.text:1967
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:843.0
+passage.questions.0.answers.5.text:Severnokolumbijsko mesto Aracataca
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:842.0
+passage.questions.0.answers.4.text:87
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:841.0
+passage.questions.0.answers.3.text:Mehika
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:840.0
+passage.questions.0.answers.2.text:Kolumbija
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:839.0
+passage.questions.0.answers.1.text:Aracataca, Kolumbija
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:838
+passage.questions.0.answers.0.text:1982
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:837
+idx:16

@@ -1,0 +1,236 @@
+version:1.1
+passage.text:Toplota daje energijo, ki povzroča gibanje. Globlje kot greš proti jedru Zemlje, bolj vroče je. V bistvu je res vroče. Vsa ta toplota se poskuša dvigniti proti površini. V plašču je kamnina delno stopljena in se lahko premika. Med segrevanjem se material v plašču premika proti površini. Ko se plašč dvigne, se ohladi. Ko doseže zemeljsko skorjo, je večinoma ustavljena. Skozi površino se lahko prebije malo materiala, vendar ne vseh. Namesto tega se začne premikati vodoravno. Material plašča se vodoravno odmika od grebena grebena srednjega oceana. Proti površini se material plašča začne hladiti. Ko se ohladi, se potopi nazaj v plašč. Na teh območjih se pojavlja globokomorski jarek. Material se potopi nazaj do jedra. Sistem deluje kot velikanski tekoči trak. Gibanje zaradi ogrevanja in hlajenja se imenuje konvekcija.
+passage.questions.9.question:Ali se kamnina bolj giblje na površju zemlje ali v njenem jedru?
+passage.questions.9.idx:1576.0
+passage.questions.9.answers.3.text:V svojem jedru
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:8207.0
+passage.questions.9.answers.2.text:V bistvu ima več toplote
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:8206.0
+passage.questions.9.answers.1.text:Na površini
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:8205.0
+passage.questions.9.answers.0.text:Na površju, ker je več prostora
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:8204.0
+passage.questions.8.question:Kje se pojavljajo morski jarki?
+passage.questions.8.idx:1575.0
+passage.questions.8.answers.5.text:Površina
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:8203.0
+passage.questions.8.answers.4.text:Skorja
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:8202.0
+passage.questions.8.answers.3.text:Plašč
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:8201.0
+passage.questions.8.answers.2.text:V plašč
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:8200.0
+passage.questions.8.answers.1.text:Na skalah
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:8199.0
+passage.questions.8.answers.0.text:Konvekcija
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:8198.0
+passage.questions.7.question:Kaj se zgodi, ko se material plašča, ki je blizu površine, začne ohlajati?
+passage.questions.7.idx:1574.0
+passage.questions.7.answers.3.text:Ustavi se
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:8197.0
+passage.questions.7.answers.2.text:Začne se premikati vodoravno
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8196.0
+passage.questions.7.answers.1.text:Nadaljuje se proti površju
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8195.0
+passage.questions.7.answers.0.text:Pogrene se navzdol v plašč
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:8194.0
+passage.questions.6.question:V katero smer se premika plašč?
+passage.questions.6.idx:1573.0
+passage.questions.6.answers.3.text:Premika se vodoravno
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:8193.0
+passage.questions.6.answers.2.text:Spusti se
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8192.0
+passage.questions.6.answers.1.text:Vodoravno
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:8191.0
+passage.questions.6.answers.0.text:Navpično
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8190.0
+passage.questions.5.question:Zakaj sistem deluje kot tekoči trak?
+passage.questions.5.idx:1572.0
+passage.questions.5.answers.7.text:Ker plašč gre gor in dol
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:8189.0
+passage.questions.5.answers.6.text:Ker material gre in se v ciklusu spusti navzdol
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:8188.0
+passage.questions.5.answers.5.text:Ker se material premika vodoravno
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:8187.0
+passage.questions.5.answers.4.text:Zaradi gibanja
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:8186.0
+passage.questions.5.answers.3.text:Ker gibanje med ogrevanjem in hlajenjem
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:8185.0
+passage.questions.5.answers.2.text:Toplota daje energijo za gibanje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:8184.0
+passage.questions.5.answers.1.text:Material se potopi nazaj do jedra
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:8183.0
+passage.questions.5.answers.0.text:Ker ima strukturo kot tekoči trak
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:8182.0
+passage.questions.4.question:Kam skuša vročina globoko v Zemlji?
+passage.questions.4.idx:1571.0
+passage.questions.4.answers.8.text:Površina
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:8181.0
+passage.questions.4.answers.7.text:Poskuša se dvigniti proti površju Zemlje
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:8180.0
+passage.questions.4.answers.6.text:Na plašč
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:8179.0
+passage.questions.4.answers.5.text:Vročina se poskuša dvigniti proti površini
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:8178.0
+passage.questions.4.answers.4.text:Morski jarek
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:8177.0
+passage.questions.4.answers.3.text:Toplota se poskuša dvigniti proti plašču
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:8176.0
+passage.questions.4.answers.2.text:Še globlje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:8175.0
+passage.questions.4.answers.1.text:Dvignite se proti površju
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:8174.0
+passage.questions.4.answers.0.text:Vročina poskuša iti proti jedru
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8173.0
+passage.questions.3.question:Kaj se zgodi z ogrevanim materialom v plašču, ko se dviga proti površini?
+passage.questions.3.idx:1570.0
+passage.questions.3.answers.4.text:Ohladi se
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:8172.0
+passage.questions.3.answers.3.text:Material v plašču se ustavi
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:8171.0
+passage.questions.3.answers.2.text:Material v plašču se ohladi
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8170.0
+passage.questions.3.answers.1.text:Segreje se
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8169.0
+passage.questions.3.answers.0.text:Ostaja enako
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8168.0
+passage.questions.2.question:Kaj se zgodi z ohlajenim materialom plašča, ki ne prodre skozi površino?
+passage.questions.2.idx:1569.0
+passage.questions.2.answers.4.text:Začne se premikati vodoravno
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:8167.0
+passage.questions.2.answers.3.text:Premika se proti površju
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:8166.0
+passage.questions.2.answers.2.text:Spet se začnejo spuščati
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8165.0
+passage.questions.2.answers.1.text:Začnejo se premikati vodoravno
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:8164.0
+passage.questions.2.answers.0.text:Ustavi se
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8163.0
+passage.questions.12.question:Zakaj se material premika vodoravno?
+passage.questions.12.idx:1579.0
+passage.questions.12.answers.4.text:Ker doseže jedro
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:8221.0
+passage.questions.12.answers.3.text:Ker je hladnejši
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:8220.0
+passage.questions.12.answers.2.text:Ne more prebiti površine
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:8219.0
+passage.questions.12.answers.1.text:Ker ne more prebiti površine
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:8218.0
+passage.questions.12.answers.0.text:Ker se oddaljuje od grebena oceanskega grebena
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:8217.0
+passage.questions.11.question:Najbolj vroč del zemlje je?
+passage.questions.11.idx:1578.0
+passage.questions.11.answers.4.text:Plašč
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:8216.0
+passage.questions.11.answers.3.text:Jedro TheEarths
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:8215.0
+passage.questions.11.answers.2.text:Themantle
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:8214.0
+passage.questions.11.answers.1.text:Površina
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:8213.0
+passage.questions.11.answers.0.text:Jedro
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:8212.0
+passage.questions.10.question:Kateri je najbolj kul del zemlje?
+passage.questions.10.idx:1577.0
+passage.questions.10.answers.3.text:Površina
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:8211.0
+passage.questions.10.answers.2.text:Jedro
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:8210.0
+passage.questions.10.answers.1.text:Ekvator
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:8209.0
+passage.questions.10.answers.0.text:Plašč
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:8208.0
+passage.questions.1.question:Kakšna značilnost se pojavi, ko se ohlajeni material plašča spušča nazaj v plašč?
+passage.questions.1.idx:1568.0
+passage.questions.1.answers.4.text:Tekoči trak
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8162.0
+passage.questions.1.answers.3.text:Globokomorski jarek
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:8161.0
+passage.questions.1.answers.2.text:Morski jarek
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:8160.0
+passage.questions.1.answers.1.text:Konvekcija
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8159.0
+passage.questions.1.answers.0.text:Vročina
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8158.0
+passage.questions.0.question:S čim se lahko primerja gibanje konvekcije?
+passage.questions.0.idx:1567
+passage.questions.0.answers.4.text:Velik plašč
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:8157.0
+passage.questions.0.answers.3.text:Ogromna skala
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:8156.0
+passage.questions.0.answers.2.text:Transportni trak
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:8155.0
+passage.questions.0.answers.1.text:Ogromen tekoči trak
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8154
+passage.questions.0.answers.0.text:Morski jarek
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8153
+idx:137

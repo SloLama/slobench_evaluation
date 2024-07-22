@@ -1,0 +1,85 @@
+version:1.1
+passage.text:Emery Simms je visoko izobražen in uspešen poslovni tajkun, ki se mu življenje postavi na slabše, ko se zaplete v prešuštvo z divjo svobodo in eksotično Allano. Emery ubije moškega, ki je poskušal iz njega pridobiti informacije. Nato je priča človeku, ki teče in beži po besedah. Emery ne vidi, da je tam moški, ki ga je ubil, in ima v njem vse dnevnike klicev. Nato pokliče prijatelja, ki se ne oglasi. Kasneje v filmu sreča Alannah, ki ji je pokvarjen avto. Odpelje se do nje, ne da bi vedel, da dela pod kotom, da bi dosegla, kar hoče. Nato jo pokliče in vztraja, da imajo večerjo. Saj to počnejo, vendar policija sledi in vidi, kako se delajo, pa tudi moški, ki ji sledi. Nori moški pride do restavracije in napade Emeryja. Emery gre k Alannah, vidi kraj, v katerem je nastanjena, in jo odpelje v eno od njihovih lastnosti, to je stanovanje. Počuti se doma in povabi celo prijatelja, ki pravi, da lahko obdrži stanovanje in življenje, če je v kondomu luknja. Na kar Alannah reče ne. . Kasneje se Emery oglasi pri seksu in prijateljico počaka zunaj, da bo z Emeryjem naredila, kar mora, in vroče je, tako kot takrat, ko sta imela seks v Emeryjevem avtu. Emery obišče svojega prijatelja, ki mu da rezalnik škatel in mu naroči, naj mu pomaga razpakirati embalažo. To počne in komentirajo nekaj zabavnih trenutkov, ki so jih imeli na fakulteti. Po tem je motivov več.
+passage.questions.4.question:Kdo sledi Emeryju in Allani, ko jo pelje v službo?
+passage.questions.4.idx:431.0
+passage.questions.4.answers.3.text:FBI
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2178.0
+passage.questions.4.answers.2.text:Policija
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2177.0
+passage.questions.4.answers.1.text:Policisti in njen prijatelj
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2176.0
+passage.questions.4.answers.0.text:Emerysov prijatelj
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2175.0
+passage.questions.3.question:Kaj se zgodi v restavraciji?
+passage.questions.3.idx:430.0
+passage.questions.3.answers.4.text:Policija
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2174.0
+passage.questions.3.answers.3.text:Norec
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2173.0
+passage.questions.3.answers.2.text:Nori moški napade Emeryja, Allanah in Emery pa večerjata
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2172.0
+passage.questions.3.answers.1.text:Emery in Alannah se ljubita
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2171.0
+passage.questions.3.answers.0.text:Nori moški vstopi in napade Emeryja
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2170.0
+passage.questions.2.question:Kje Emery in Allanah seksata?
+passage.questions.2.idx:429
+passage.questions.2.answers.4.text:Zunaj in v vlaku
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2169.0
+passage.questions.2.answers.3.text:V apartmaju in v njegovem avtu
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2168.0
+passage.questions.2.answers.2.text:V restavraciji
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2167.0
+passage.questions.2.answers.1.text:V Emeryjevem avtu
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:2166
+passage.questions.2.answers.0.text:V avtu in stanovanju
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2165
+passage.questions.1.question:Kaj dva misli, da Emery ne opazi?
+passage.questions.1.idx:428
+passage.questions.1.answers.4.text:Spremljanje in mobilni telefon moškega, ki ga je ubil
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:2164.0
+passage.questions.1.answers.3.text:Mobilni telefon
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:2163.0
+passage.questions.1.answers.2.text:Pes
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2162.0
+passage.questions.1.answers.1.text:Mobitel ubitega moškega in Alannah se je trudila, da bi dosegla, kar hoče
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:2161
+passage.questions.1.answers.0.text:Stanovanje in mobilni telefon
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:2160
+passage.questions.0.question:Kdo so liki v tej zgodbi?
+passage.questions.0.idx:427
+passage.questions.0.answers.4.text:Emery in Alannah
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2159.0
+passage.questions.0.answers.3.text:Emeray in prijatelj
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2158.0
+passage.questions.0.answers.2.text:Emery in alana
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2157.0
+passage.questions.0.answers.1.text:David in Alannah
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2156
+passage.questions.0.answers.0.text:Policija, Emery, Allanah, Emeryjeva prijateljica in Allanahina prijateljica
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2155
+idx:37

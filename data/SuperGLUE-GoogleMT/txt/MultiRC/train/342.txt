@@ -1,0 +1,444 @@
+version:1.1
+passage.text:Dr. Benjamin Stone je mlad kirurg, ki si močno želi zapustiti težave urgente v Washingtonu in končno preskoči priložnost za več denarja in manj smrti kot plastični kirurg na Beverly Hillsu. Njegov zadnji dan naj bi bil Benov odnos s sodelavci vse prej kot topel. Nihče od njegovih kolegov se mu ne bo pridružil na pijači, na torti v njegovo čast pa je narezan ledeni del besedne zveze &quot;Good riddance, seronja&quot;. Benov tek na smučeh v Porscheju 356 Speedster iz leta 1956 je prekinjen, ko je strmoglavil v podeželskem zaselku Grady v Južni Karolini. Nesreča poškoduje ograjo lokalnega sodnika Evansa, ki ga obsodi na skupnostno delo v bližnji bolnišnici. Ben ponudi plačilo za ograjo, a strogi sodnik vsakič, ko se odzove, poveča svojo družbeno korist. Porazen se prijavi v bolnišnico, kjer ga medicinska sestra Packer poniža z ukazom, naj vstopi in izstopi, kot bi tovarniški delavec. Čeprav je Ben razburjen, se hitro spoprijatelji z županom Nickom Nicholsonom, lastnikom mestne kavarne / glavno natakarico, in Melvinom, lokalnim mehanikom, zadolženim za popravilo Benovega avtomobila. Ben kmalu ugotovi, da je njegovo delo na kliniki veliko bolj sproščeno kot urgenca. Ima preproste primere, kot so madeži pred očmi, nabijanje trnkov in celo branje pošte za mlad nepismen par, katerega otroka kasneje rodi. Izkušnje ponižujejo tudi Bena, ko zlorabi primer regurgitacije mitralne zaklopke, ki pri otroku povzroči pozno cianozo.
+passage.questions.9.question:Je Ben kdaj delal na urgenci?
+passage.questions.9.idx:3956.0
+passage.questions.9.answers.3.text:Ne nikoli
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:21048.0
+passage.questions.9.answers.2.text:Da na Beverly Hillsu
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:21047.0
+passage.questions.9.answers.1.text:Da
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:21046.0
+passage.questions.9.answers.0.text:Da v Washingtonu, DC
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:21045.0
+passage.questions.8.question:Kje ima dr. Stone več prijateljev v Washingtonu ali v Gradyju v Južni Karolini?
+passage.questions.8.idx:3955.0
+passage.questions.8.answers.7.text:Grady, Južna Karolina
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:21044.0
+passage.questions.8.answers.6.text:V Washingtonu DC
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:21043.0
+passage.questions.8.answers.5.text:V Washingtonu DC
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:21042.0
+passage.questions.8.answers.4.text:V Gradyju ima tri prijatelje, v Washingtonu pa se njegovi sodelavci ob odhodu niso hoteli pridružiti pijači, kar pomeni, da jim ni všeč
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:21041.0
+passage.questions.8.answers.3.text:V Grady SC
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:21040.0
+passage.questions.8.answers.2.text:V Gradyju v Južni Karolini
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:21039.0
+passage.questions.8.answers.1.text:Beverly hills
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:21038.0
+passage.questions.8.answers.0.text:V Gradyju
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:21037.0
+passage.questions.7.question:Kakšne posledice je imel Ben, ko se je vrnil k sodniku?
+passage.questions.7.idx:3954.0
+passage.questions.7.answers.9.text:Njegova skupnostna služba se zmanjša
+passage.questions.7.answers.9.label:0,0
+passage.questions.7.answers.9.idx:21036.0
+passage.questions.7.answers.8.text:Skupnostna služba v bližnji bolnišnici
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:21035.0
+passage.questions.7.answers.7.text:Sodnik je vsakič, ko je spregovoril, podaljšal obdobje javne službe
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:21034.0
+passage.questions.7.answers.6.text:Ben je dobil več javnih služb
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:21033.0
+passage.questions.7.answers.5.text:Dobil je več javnih služb
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:21032.0
+passage.questions.7.answers.4.text:Poveča se mu družbeno korist
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:21031.0
+passage.questions.7.answers.3.text:Obsojen na zapor
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:21030.0
+passage.questions.7.answers.2.text:Sodnik ga je grajal
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:21029.0
+passage.questions.7.answers.1.text:Vrnjen je v Washington DC
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:21028.0
+passage.questions.7.answers.0.text:Zaplenili so mu avto
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:21027.0
+passage.questions.6.question:Je imel Ben službo?
+passage.questions.6.idx:3953.0
+passage.questions.6.answers.7.text:Da, bil je kirurg
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:21026.0
+passage.questions.6.answers.6.text:Gasilec
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:21025.0
+passage.questions.6.answers.5.text:Da, bil je župan Gradyja
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:21024.0
+passage.questions.6.answers.4.text:Da
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:21023.0
+passage.questions.6.answers.3.text:Ne
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:21022.0
+passage.questions.6.answers.2.text:Da, v bolnišnici
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:21021.0
+passage.questions.6.answers.1.text:Da, bil je mehanik
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:21020.0
+passage.questions.6.answers.0.text:Sourgen
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:21019.0
+passage.questions.5.question:Navedite dva podatka, ki dokazujeta, da je dr. Stone verjetno bogatejši od povprečnega človeka.
+passage.questions.5.idx:3952.0
+passage.questions.5.answers.9.text:Je lastnik Porscheja
+passage.questions.5.answers.9.label:1.0
+passage.questions.5.answers.9.idx:21017.0
+passage.questions.5.answers.8.text:Ben je letel z zasebnim letalom
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:21016.0
+passage.questions.5.answers.7.text:Vozi Porscheja iz leta 1956 in mu ponudi plačilo za poškodovano ograjo
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:21015.0
+passage.questions.5.answers.6.text:Lahko si privošči življenje na Beverly Hillsu
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:21014.0
+passage.questions.5.answers.5.text:Je prijatelj z mehanikom Melvinom
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:21013.0
+passage.questions.5.answers.4.text:Ben je sodniku ponudil svoj Rolex
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:21012.0
+passage.questions.5.answers.3.text:Vozi Porsche 356 Speedster iz leta 1956
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:21011.0
+passage.questions.5.answers.2.text:Dobil je družbeno korist
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:21010.0
+passage.questions.5.answers.10.text:Lastništvo luksuznega avtomobila, ponujanje denarja za popravilo ograje
+passage.questions.5.answers.10.label:1.0
+passage.questions.5.answers.10.idx:21018.0
+passage.questions.5.answers.1.text:V lasti velike hiše in luksuznega avtomobila
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:21009.0
+passage.questions.5.answers.0.text:Pripravljeni takoj plačati za ograjo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:21008.0
+passage.questions.4.question:Kateri avto naj bi Melvin popravil?
+passage.questions.4.idx:3951.0
+passage.questions.4.answers.8.text:Benov avto
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:21007.0
+passage.questions.4.answers.7.text:Benjaminov Porsche
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:21006.0
+passage.questions.4.answers.6.text:Porsche 356 Speedster iz leta 1956
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:21005.0
+passage.questions.4.answers.5.text:Benzov avto
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:21004.0
+passage.questions.4.answers.4.text:Sodniški avto
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:21003.0
+passage.questions.4.answers.3.text:Županov avto
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:21002.0
+passage.questions.4.answers.2.text:Sodnik Evans
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:21001.0
+passage.questions.4.answers.1.text:Njegov lastni
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:21000.0
+passage.questions.4.answers.0.text:Porsche 356 Speedster
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:20999.0
+passage.questions.3.question:Je bil Ben v nesreči?
+passage.questions.3.idx:3950.0
+passage.questions.3.answers.3.text:Ja, prometna nesreča
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:20998.0
+passage.questions.3.answers.2.text:Da
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:20997.0
+passage.questions.3.answers.1.text:Da, bil je v nesreči vlaka
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:20996.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:20995.0
+passage.questions.2.question:Je bil Porsche pri trku skozi ograjo poškodovan?
+passage.questions.2.idx:3949.0
+passage.questions.2.answers.4.text:Da, moral ga je popraviti Melvin
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:20994.0
+passage.questions.2.answers.3.text:Da
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:20993.0
+passage.questions.2.answers.2.text:Ne
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:20992.0
+passage.questions.2.answers.1.text:Trčil je v drevo
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:20991.0
+passage.questions.2.answers.0.text:Bilo je v redu
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:20990.0
+passage.questions.17.question:Zakaj Ben ponuja plačilo za ograjo
+passage.questions.17.idx:3964.0
+passage.questions.17.answers.7.text:Nesreča poškoduje ograjo
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:21107.0
+passage.questions.17.answers.6.text:Izvlekel je ograjo
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:21106.0
+passage.questions.17.answers.5.text:Ben se izogiba cumminuty storitvi
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:21105.0
+passage.questions.17.answers.4.text:Bila je ograja njegovih mam
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:21104.0
+passage.questions.17.answers.3.text:Poškodba ograje lokalnega sodnika Evansa
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:21103.0
+passage.questions.17.answers.2.text:Njegov avto je poškodoval ograjo
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:21102.0
+passage.questions.17.answers.1.text:Žal mu je bilo sodnika
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:21101.0
+passage.questions.17.answers.0.text:Želi se izogniti skupnostnemu delu
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:21100.0
+passage.questions.16.question:Kaj ponižuje Bena med delom na kliniki?
+passage.questions.16.idx:3963.0
+passage.questions.16.answers.7.text:Skuhal naj bi kavo za medicinsko sestro Packer
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:21099.0
+passage.questions.16.answers.6.text:Slabega ravna z bolnim otrokom
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:21098.0
+passage.questions.16.answers.5.text:Ko otroku odvzame noge
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:21097.0
+passage.questions.16.answers.4.text:Narejen je, da vstopa in izstopa kot tovarniški delavec
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:21096.0
+passage.questions.16.answers.3.text:Ko zlorablja primer regurgitacije mitralne zaklopke, ki pri otroku povzroči pozno cianozo
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:21095.0
+passage.questions.16.answers.2.text:Zlorablja primer regurgitacije mitralne zaklopke
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:21094.0
+passage.questions.16.answers.1.text:Slabega ravna s starejšim bolnikom
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:21093.0
+passage.questions.16.answers.0.text:Majhen znesek plače
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:21092.0
+passage.questions.15.question:Kdo ima preproste primere
+passage.questions.15.idx:3962.0
+passage.questions.15.answers.9.text:Ben ima primer
+passage.questions.15.answers.9.label:1.0
+passage.questions.15.answers.9.idx:21091.0
+passage.questions.15.answers.8.text:Župan Nicholson
+passage.questions.15.answers.8.label:0,0
+passage.questions.15.answers.8.idx:21090.0
+passage.questions.15.answers.7.text:Paker
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:21089.0
+passage.questions.15.answers.6.text:Ben
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:21088.0
+passage.questions.15.answers.5.text:Ben Stone
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:21087.0
+passage.questions.15.answers.4.text:Benjamin Stone
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:21086.0
+passage.questions.15.answers.3.text:Nick Nicholson
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:21085.0
+passage.questions.15.answers.2.text:Dr. Benjamin Stone
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:21084.0
+passage.questions.15.answers.1.text:Benovi sodelavci
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:21083.0
+passage.questions.15.answers.0.text:Paker za medicinske sestre
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:21082.0
+passage.questions.14.question:Je bil dr. Stone na koncu odlomka tako poln samozavesti kot na začetku?
+passage.questions.14.idx:3961.0
+passage.questions.14.answers.1.text:Dobival je ponižujoče izkušnje
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:21081.0
+passage.questions.14.answers.0.text:Da
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:21080.0
+passage.questions.13.question:Kje je živel sodnik Evans?
+passage.questions.13.idx:3960.0
+passage.questions.13.answers.8.text:Grady, Južna Karolina
+passage.questions.13.answers.8.label:1.0
+passage.questions.13.answers.8.idx:21079.0
+passage.questions.13.answers.7.text:Mississippi
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:21078.0
+passage.questions.13.answers.6.text:Majhen zaselek Grady
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:21077.0
+passage.questions.13.answers.5.text:Južna Dakota
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:21076.0
+passage.questions.13.answers.4.text:V Gradyju v Južni Karolini
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:21075.0
+passage.questions.13.answers.3.text:Washington
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:21074.0
+passage.questions.13.answers.2.text:Južna Kalifornija
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:21073.0
+passage.questions.13.answers.1.text:Beverly hills
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:21072.0
+passage.questions.13.answers.0.text:V podeželskem zaselku Grady v Južni Karolini
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:21071.0
+passage.questions.12.question:Komu je bil na torti stavek &quot;Dobra osvoboditev, kreten&quot;?
+passage.questions.12.idx:3959.0
+passage.questions.12.answers.8.text:Ben
+passage.questions.12.answers.8.label:1.0
+passage.questions.12.answers.8.idx:21070.0
+passage.questions.12.answers.7.text:Ben Stone
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:21069.0
+passage.questions.12.answers.6.text:Bens kolegi
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:21068.0
+passage.questions.12.answers.5.text:Dr. Benjamin Stone
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:21067.0
+passage.questions.12.answers.4.text:Sodnik Evans
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:21066.0
+passage.questions.12.answers.3.text:Benov Porsche iz leta 1956
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:21065.0
+passage.questions.12.answers.2.text:Župan Nick Nicholson
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:21064.0
+passage.questions.12.answers.1.text:Benjamin
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:21063.0
+passage.questions.12.answers.0.text:Paker za medicinske sestre
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:21062.0
+passage.questions.11.question:Se je Ben razumel s sodelavci?
+passage.questions.11.idx:3958.0
+passage.questions.11.answers.2.text:Ne preveč dobro
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:21061.0
+passage.questions.11.answers.1.text:Ben ni imel sodelavcev
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:21060.0
+passage.questions.11.answers.0.text:Da
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:21059.0
+passage.questions.10.question:Kakšna izkušnja poniža Bena?
+passage.questions.10.idx:3957.0
+passage.questions.10.answers.9.text:Slabo ravnanje z otrokom z regurgitacijo mitralne zaklopke
+passage.questions.10.answers.9.label:1.0
+passage.questions.10.answers.9.idx:21058.0
+passage.questions.10.answers.8.text:Prosili so me za vhod in izstop v bolnišnici
+passage.questions.10.answers.8.label:1.0
+passage.questions.10.answers.8.idx:21057.0
+passage.questions.10.answers.7.text:Pritrditev ograje
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:21056.0
+passage.questions.10.answers.6.text:Skupnostna služba v bližnji bolnišnici
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:21055.0
+passage.questions.10.answers.5.text:Nesreča avtomobila
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:21054.0
+passage.questions.10.answers.4.text:Zrušil mu je porsche
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:21053.0
+passage.questions.10.answers.3.text:Delo v bolnišnični kliniki
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:21052.0
+passage.questions.10.answers.2.text:Delo na urgenci
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:21051.0
+passage.questions.10.answers.1.text:Ko je dobil torto, ko je zapustil staro službo
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:21050.0
+passage.questions.10.answers.0.text:Branje pošte za mlad nepismen par
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:21049.0
+passage.questions.1.question:Na kaj je sodnik obsodil Bena?
+passage.questions.1.idx:3948.0
+passage.questions.1.answers.7.text:Zapor
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:20989.0
+passage.questions.1.answers.6.text:Skupnostna služba
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:20988.0
+passage.questions.1.answers.5.text:Skupnostna služba v lokalni bolnišnici
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:20987.0
+passage.questions.1.answers.4.text:Skupnost v lokalni kavarni
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:20986.0
+passage.questions.1.answers.3.text:Skupnostna služba v bližnji bolnišnici
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:20985.0
+passage.questions.1.answers.2.text:Pritrditev njegove ograje
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:20984.0
+passage.questions.1.answers.1.text:3 leta zapora
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:20983.0
+passage.questions.1.answers.0.text:Skupnost v lokalnih parkih
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:20982.0
+passage.questions.0.question:Zakaj mu sodelavci dr. Benjamina Stonea dajo hladno ramo?
+passage.questions.0.idx:3947
+passage.questions.0.answers.8.text:Ne marajo ga
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:20981.0
+passage.questions.0.answers.7.text:Ben jim je bil dolžan denar
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:20980.0
+passage.questions.0.answers.6.text:Ker nočejo, da odide
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:20979.0
+passage.questions.0.answers.5.text:Z njimi se je sprl
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:20978.0
+passage.questions.0.answers.4.text:Mislijo, da je seronja
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:20977.0
+passage.questions.0.answers.3.text:Ker z njimi ne bi šel na pijačo
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:20976.0
+passage.questions.0.answers.2.text:Izkoristil je priložnost za več denarja
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:20975.0
+passage.questions.0.answers.1.text:Ben vsak dan poje njihovo kosilo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:20974
+passage.questions.0.answers.0.text:Odhajal je po več denarja
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:20973
+idx:342

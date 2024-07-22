@@ -1,0 +1,273 @@
+version:1.1
+passage.text:Podpredsednik je izjavil, da je poklical predsednika, da bi razpravljal o pravilih za sodelovanje v SKP. Spomnil se je občutka, da vzpostavitev SKP ni bilo dobro, če piloti niso imeli navodil, ali imajo dovoljenje za streljanje, če se letalo ne bo preusmerilo. Povedal je, da se je predsednik odpovedal temu konceptu. Predsednik je dejal, da se je takšnega pogovora spominjal in da ga je spominjal, kdaj je bil pilot prestreznik. Predsednik nam je poudaril, da je dovolil sestavljanje ugrabljenih letal. Vojaški pomočnik podpredsednika nam je povedal, da verjame, da je podpredsednik govoril s predsednikom takoj po vstopu v konferenčno sobo, vendar ni slišal, kaj so rekli. Rice, ki je kmalu za podpredsednikom vstopil v sobo in sedel zraven, se je spomnil, kako ga je obvestil predsednika: &quot;Gospod, SKP so pripravljene. Gospod, želeli bodo vedeti, kaj storiti.&quot; Potem se je spomnila, kako ga je slišala reči: &quot;Da, gospod.&quot; Verjela je, da se je ta pogovor zgodil nekaj minut, morda pet, potem ko so vstopili v konferenčno sobo. Verjamemo, da bi ta klic potekal nekje pred 10.10 do 10.15. Med viri, ki odražajo druge pomembne dogodke tistega jutra, ni dokumentarnih dokazov za ta razpis, vendar so ustrezni viri nepopolni. Drugi v bližini, ki so si zapisovali, na primer šef kabineta podpredsednika Scooter Libby, ki je sedel poleg njega, in gospa Cheney, niso opazili klica med predsednikom in podpredsednikom takoj po vstopu podpredsednika v konferenčno sobo. . Ob 10:02 so komunikatorji v zavetišču začeli prejemati poročila tajne službe o prihajajočem letalu - domnevno ugrabljenem - proti Washingtonu. To letalo je bilo United 93. Tajna služba je te informacije dobivala neposredno od FAA. FAA je morda spremljala napredek United 93 na zaslonu, ki je pokazal njegovo predvideno pot do Washingtona, ne pa njegove dejanske radarske vrnitve. Tako se je tajna služba zanašala na projekcije in ni vedela, da je letalo že spustilo v Pensilvanijo.
+passage.questions.9.question:Kam naj bi se napotil United 93?
+passage.questions.9.idx:3590.0
+passage.questions.9.answers.3.text:Washington DC
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:19057.0
+passage.questions.9.answers.2.text:Washington
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:19056.0
+passage.questions.9.answers.1.text:Pensilvanija
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:19055.0
+passage.questions.9.answers.0.text:Oregon
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:19054.0
+passage.questions.8.question:Kdo se je odjavil in pilotom dal navodila, ali naj letala sestrelijo, če se ne preusmerijo?
+passage.questions.8.idx:3589.0
+passage.questions.8.answers.2.text:Zvočnik v hiši
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:19053.0
+passage.questions.8.answers.1.text:Podpredsednik
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:19052.0
+passage.questions.8.answers.0.text:Predsednik
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:19051.0
+passage.questions.7.question:Koga se je Rice spomnila, da je predsedniku rekel &quot;Da, gospod&quot;?
+passage.questions.7.idx:3588.0
+passage.questions.7.answers.2.text:Podpredsednik
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:19050.0
+passage.questions.7.answers.1.text:Pomočnik
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:19049.0
+passage.questions.7.answers.0.text:Skuter Libby
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19048.0
+passage.questions.6.question:Tajna služba se je zanašala na napovedi katere agencije, ko niso vedeli, da je United 93 že padel v Pensilvaniji?
+passage.questions.6.idx:3587.0
+passage.questions.6.answers.6.text:FBI
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:19047.0
+passage.questions.6.answers.5.text:Podpredsednik
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:19046.0
+passage.questions.6.answers.4.text:FAA
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:19045.0
+passage.questions.6.answers.3.text:Predsednik
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:19044.0
+passage.questions.6.answers.2.text:Tajna služba
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:19043.0
+passage.questions.6.answers.1.text:CIA
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:19042.0
+passage.questions.6.answers.0.text:Domovinska varnost
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:19041.0
+passage.questions.5.question:Je tajna služba informacije o dejanski ali predvideni lokaciji letala United 93 dobivala ob 10:02?
+passage.questions.5.idx:3586.0
+passage.questions.5.answers.3.text:Dejansko
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:19040.0
+passage.questions.5.answers.2.text:Predvidena lokacija
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19039.0
+passage.questions.5.answers.1.text:Predvideno
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:19038.0
+passage.questions.5.answers.0.text:Dejanska lokacija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:19037.0
+passage.questions.4.question:Katere podatke je tajna služba dobila neposredno od FAA?
+passage.questions.4.idx:3585.0
+passage.questions.4.answers.4.text:Lokacija letala
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:19036.0
+passage.questions.4.answers.3.text:Da je prihajalo letalo - domnevno ugrabljeno - proti Washingtonu
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:19035.0
+passage.questions.4.answers.2.text:Dovoljenje za sestrelitev
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:19034.0
+passage.questions.4.answers.1.text:Predvidena pot ugrabljenega letala
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19033.0
+passage.questions.4.answers.0.text:Ob 10:02 so komunikatorji v zavetišču začeli prejemati poročila tajne službe o prihajajočem letalu - domnevno ugrabljenem - proti Washingtonu
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:19032.0
+passage.questions.3.question:Je Rice slišal, da se je podpredsednik strinjal ali ne strinjal s predsednikom?
+passage.questions.3.idx:3584.0
+passage.questions.3.answers.1.text:Ne strinjam se
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:19031.0
+passage.questions.3.answers.0.text:Strinjam se
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:19030.0
+passage.questions.2.question:Kako je bilo ime osebi, ki je v konferenčni sobi slišala &quot;Da, gospod&quot;?
+passage.questions.2.idx:3583.0
+passage.questions.2.answers.2.text:Predsednik
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:19029.0
+passage.questions.2.answers.1.text:Riž
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:19028.0
+passage.questions.2.answers.0.text:Podpredsednik
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:19027.0
+passage.questions.14.question:Kdo je rekel, da je predsednik podpisal pravila sodelovanja za SKP?
+passage.questions.14.idx:3595.0
+passage.questions.14.answers.2.text:Predsednik
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:19088.0
+passage.questions.14.answers.1.text:Podpredsednik
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:19087.0
+passage.questions.14.answers.0.text:Riž
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:19086.0
+passage.questions.13.question:Česa se je Rice spomnila, da je slišala pogovor predsednika in podpredsednika?
+passage.questions.13.idx:3594.0
+passage.questions.13.answers.9.text:Podpredsednik ga obvesti: &quot;Gospod, skupne kmetijske politike so pripravljene
+passage.questions.13.answers.9.label:1.0
+passage.questions.13.answers.9.idx:19085.0
+passage.questions.13.answers.8.text:Spomnil se je občutka, da ni bilo dobro vzpostaviti SKP, če piloti nimajo navodil, ali imajo dovoljenje za streljanje, če letalo ne bo preusmerilo
+passage.questions.13.answers.8.label:0,0
+passage.questions.13.answers.8.idx:19084.0
+passage.questions.13.answers.7.text:Pogovorite se o pravilih sodelovanja za SKP
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:19083.0
+passage.questions.13.answers.6.text:Kape so gor
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:19082.0
+passage.questions.13.answers.5.text:Prisluhnil je podpredsedniku, da je predsednika obvestil: &quot;Gospod, skupne kmetijske politike so pripravljene. Gospod, želeli bodo vedeti, kaj storiti.&quot; Potem se je spomnila, kako ga je slišala reči: &quot;Da, gospod.&quot;
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:19081.0
+passage.questions.13.answers.4.text:Gospod, želeli bodo vedeti, kaj storiti. &quot;
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:19080.0
+passage.questions.13.answers.3.text:Povedal je, da se je predsednik odpovedal temu konceptu
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:19079.0
+passage.questions.13.answers.2.text:Potem se je spomnila, kako ga je slišala reči: &quot;Da, gospod.&quot;
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:19078.0
+passage.questions.13.answers.1.text:Dohodno letalo proti Washingtonu
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:19077.0
+passage.questions.13.answers.0.text:Predvidena pot Združenega 93
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:19076.0
+passage.questions.12.question:Zakaj so bile informacije tajne službe o United 93 pomanjkljive?
+passage.questions.12.idx:3593.0
+passage.questions.12.answers.8.text:Tajna služba je informacije prejela od Cie
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:19075.0
+passage.questions.12.answers.7.text:Ne temelji na povratku z radarja
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:19074.0
+passage.questions.12.answers.6.text:Na podlagi predvidene poti
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:19073.0
+passage.questions.12.answers.5.text:Te informacije so dobivali neposredno od FAA. FAA je morda spremljala napredek United 93 na zaslonu, ki je pokazal njegovo predvideno pot do Washingtona, ne pa njegove dejanske radarske vrnitve. Podatke so temeljili na projekcijah
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:19072.0
+passage.questions.12.answers.4.text:Tajna služba je informacije dobila neposredno od ugrabiteljev
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:19071.0
+passage.questions.12.answers.3.text:Tajna služba se je zanašala na napovedi FAA in ni vedela, da je letalo že spustilo v Pensilvanijo
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:19070.0
+passage.questions.12.answers.2.text:Tajna služba ni imela dostopa do informacij FAA
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:19069.0
+passage.questions.12.answers.1.text:Viri so nepopolni
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:19068.0
+passage.questions.12.answers.0.text:Ni dokazov
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:19067.0
+passage.questions.11.question:Kdo je odstopil, potem ko je podpredsednik menil, da vzpostavitev skupne kmetijske politike ni dobra, če piloti nimajo jasnih navodil, če letalo ne preusmeri?
+passage.questions.11.idx:3592.0
+passage.questions.11.answers.6.text:CIA
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:19066.0
+passage.questions.11.answers.5.text:Skuter Libby
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:19065.0
+passage.questions.11.answers.4.text:FAA
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:19064.0
+passage.questions.11.answers.3.text:Riž
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:19063.0
+passage.questions.11.answers.2.text:Predsednik
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:19062.0
+passage.questions.11.answers.1.text:Podpredsednik
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:19061.0
+passage.questions.11.answers.0.text:Tajna služba
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:19060.0
+passage.questions.10.question:Kdo je predstavil koncept, da skupna kmetijska politika ne bo delovala, če piloti ne bodo dobili navodil, ali lahko streljajo na letalo, če ne preusmeri?
+passage.questions.10.idx:3591.0
+passage.questions.10.answers.1.text:Podpredsednik
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:19059.0
+passage.questions.10.answers.0.text:Predsednik
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:19058.0
+passage.questions.1.question:Katero ugrabljeno letalo so piloti pooblastili za sestrelitev v okviru SKP?
+passage.questions.1.idx:3582.0
+passage.questions.1.answers.6.text:Združeni 93
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:19026.0
+passage.questions.1.answers.5.text:Letala
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:19025.0
+passage.questions.1.answers.4.text:Združeni 211
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:19024.0
+passage.questions.1.answers.3.text:Združeni 111
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:19023.0
+passage.questions.1.answers.2.text:Verjetno ugrabljeno letalo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:19022.0
+passage.questions.1.answers.1.text:Združeni 14.
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:19021.0
+passage.questions.1.answers.0.text:Prihodno letalo - domnevno ugrabljeno
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19020.0
+passage.questions.0.question:Po spominu podpredsednika, kaj je vseboval pogovor predsednika in podpredsednika?
+passage.questions.0.idx:3581
+passage.questions.0.answers.9.text:Pravilo zaroke
+passage.questions.0.answers.9.label:1.0
+passage.questions.0.answers.9.idx:19018.0
+passage.questions.0.answers.8.text:Pogovorite se o pravilih sodelovanja za SKP. Spomnil se je občutka, da vzpostavitev SKP ni bilo dobro, če piloti niso imeli navodil, ali imajo dovoljenje za streljanje, če se letalo ne bo preusmerilo. Povedal je, da se je predsednik odpovedal temu konceptu
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:19017.0
+passage.questions.0.answers.7.text:Spomnil se je občutka, da ni bilo dobro vzpostaviti SKP, če piloti nimajo navodil, ali imajo dovoljenje za streljanje, če letalo ne bo preusmerilo
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:19016.0
+passage.questions.0.answers.6.text:Pogovorite se o pravilih sodelovanja za SKP
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:19015.0
+passage.questions.0.answers.5.text:Poročila tajne službe o prihajajočem letalu, ki naj bi bilo ugrabljeno, proti Washingtonu
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:19014.0
+passage.questions.0.answers.4.text:Povedal je, da se je predsednik odpovedal temu konceptu
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:19013.0
+passage.questions.0.answers.3.text:Predsednik je dejal, da je dovolil sestavljanje ugrabljenih letal
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:19012.0
+passage.questions.0.answers.2.text:Podpredsednik je rekel: &quot;Gospod, CAPS je pripravljen.&quot;
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:19011.0
+passage.questions.0.answers.10.text:SKP
+passage.questions.0.answers.10.label:1.0
+passage.questions.0.answers.10.idx:19019.0
+passage.questions.0.answers.1.text:Ugrabljeno letalo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19010
+passage.questions.0.answers.0.text:Dohodno letalo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19009
+idx:316

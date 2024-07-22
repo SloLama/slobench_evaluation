@@ -1,0 +1,255 @@
+version:1.1
+passage.text:Let 11 American Airlines: Ozaveščenost FAA. Čeprav je kontrolor zračnega prometa v Boston Center že v zgodnji fazi ugotovil, da je z ameriškim 11 nekaj narobe, odziv letala ni takoj razlagal kot znak, da je bilo ugrabljeno. Ob 8:14, ko let ni upošteval njegovih navodil, da se povzpne na 35.000 čevljev, je kontrolor večkrat poskušal dvigniti let. Pilota je dosegel na frekvenci v sili. Čeprav ni bilo nobenega odziva, je še naprej poskušal vzpostaviti stik z letalom. Ob 8:21 je American 11 izklopil transponder, kar je takoj poslabšalo razpoložljive informacije o letalu. Upravljavec je nadzorniku povedal, da misli, da je z letalom nekaj hudo narobe, čeprav nobeden od njih ni sumil na ugrabitev. Nadzornik je upravljavcu naročil, naj upošteva standardne postopke za ravnanje z letalom, ki nima radia. Kontrolor je preveril, ali lahko American Airlines vzpostavi komunikacijo z American 11. Še bolj ga je zaskrbelo, ko se je njegova pot spremenila, in se preselil v zračni prostor drugega sektorja. Kontrolorji so takoj začeli premikati letala s poti in prosili druga letala v bližini, naj poiščejo ameriško 11. Ob 8:24:38 je iz ameriške 11 prišel naslednji prenos: ameriški 11: Imamo nekaj letal. Samo tiho in vse bo v redu. Vračamo se na letališče. Upravljavec je slišal le nekaj nerazumljivega; ni slišal konkretnih besed &quot;imamo nekaj letal.&quot; Naslednji prenos je prišel čez nekaj sekund: Američan 11: Nihče se ne premakne. Vse bo vredu. Če se poskušate premakniti, boste ogrozili sebe in letalo.
+passage.questions.9.question:Zakaj je FAA poskušala vzpostaviti stik z letalom?
+passage.questions.9.idx:425.0
+passage.questions.9.answers.4.text:Da bi ugotovili, ali so talci v redu
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:2283.0
+passage.questions.9.answers.3.text:Zlomljen transponder
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:2282.0
+passage.questions.9.answers.2.text:Let ni upošteval njegovih navodil, da se povzpne na 35.000 čevljev
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2281.0
+passage.questions.9.answers.1.text:Če želite preveriti, ali je mogoče vzpostaviti normalno komunikacijo
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:2280.0
+passage.questions.9.answers.0.text:Da bi ugotovili zahteve
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2279.0
+passage.questions.8.question:Kakšne korake je sprejel kontrolor zračnega prometa, preden je nadzornika obvestil, da misli, da je z Ameriko 11 narobe?
+passage.questions.8.idx:424.0
+passage.questions.8.answers.4.text:Prosil je druga letala v bližini, naj poiščejo ameriško 11
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:2278.0
+passage.questions.8.answers.3.text:Kontrolor je večkrat poskušal dvigniti let. Pilota je dosegel na frekvenci v sili. Čeprav ni bilo nobenega odziva, je še naprej poskušal vzpostaviti stik z letalom
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:2277.0
+passage.questions.8.answers.2.text:Izključil je njegov transponder
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2276.0
+passage.questions.8.answers.1.text:Poskušal je govoriti z njimi
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2275.0
+passage.questions.8.answers.0.text:Kontrolor je večkrat poskušal dvigniti let
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:2274.0
+passage.questions.7.question:Ko jih je nadzornik krmilniku naročil, naj upošteva standardne postopke za ravnanje z letalom, ki nima radia, kakšni nadaljnji koraki ameriške zveze 11 so jih vznemirili?
+passage.questions.7.idx:423.0
+passage.questions.7.answers.4.text:Z leta 11 niso nič slišali
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:2273.0
+passage.questions.7.answers.3.text:Pot leta 11 se je spremenila
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:2272.0
+passage.questions.7.answers.2.text:Kontrolor je večkrat poskušal dvigniti let
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:2271.0
+passage.questions.7.answers.1.text:Ameriška pot 11 se je spremenila
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:2270.0
+passage.questions.7.answers.0.text:Odziva ni bilo
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2269.0
+passage.questions.6.question:Kako dolgo je bilo med letom, ki ni upošteval navodil, in izklopljenim transponderjem?
+passage.questions.6.idx:422.0
+passage.questions.6.answers.5.text:1 minuto
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:2268.0
+passage.questions.6.answers.4.text:9 minut
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:2267.0
+passage.questions.6.answers.3.text:11 minut
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2266.0
+passage.questions.6.answers.2.text:7 minut
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:2265.0
+passage.questions.6.answers.1.text:7 minut
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:2264.0
+passage.questions.6.answers.0.text:9 minut
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2263.0
+passage.questions.5.question:Katere prve stvari je naredila Amerika 11, zaradi česar je kontrolor zračnega prometa svojega nadzornika obvestil, da je z letom nekaj narobe?
+passage.questions.5.idx:421.0
+passage.questions.5.answers.3.text:Američan 11 se je vrnil na letališče
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2262.0
+passage.questions.5.answers.2.text:American 11 je letel več kot 35.000 čevljev
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2261.0
+passage.questions.5.answers.1.text:Let ni upošteval njegovih navodil, da se povzpne na 35.000 čevljev, letalo se ni odzvalo na sporočila, American 11 je izklopil transponder in takoj poslabšal razpoložljive informacije o letalu
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2260.0
+passage.questions.5.answers.0.text:Odziva ni bilo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2259.0
+passage.questions.4.question:Kdaj je bila vzpostavljena komunikacija z American 11 in je bila omenjena?
+passage.questions.4.idx:420.0
+passage.questions.4.answers.4.text:Nihče se ne premakni
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:2258.0
+passage.questions.4.answers.3.text:Popoldne so dejali, da je bilo letalo ugrabljeno
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2257.0
+passage.questions.4.answers.2.text:Ob 8:24:38 je iz ameriškega 11 prišel naslednji prenos: ameriški 11: Imamo nekaj letal
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2256.0
+passage.questions.4.answers.1.text:Ob 8:24:38 je iz ameriškega 11 prišel naslednji prenos: ameriški 11: Imamo nekaj letal. Samo molči in vse bo v redu. Vrneva se na letališče
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2255.0
+passage.questions.4.answers.0.text:Ob 20:24 so rekli &quot;imamo nekaj letal&quot;
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2254.0
+passage.questions.3.question:Kakšen prenos je prišel po &quot;Nihče se ne premakne&quot;
+passage.questions.3.idx:419.0
+passage.questions.3.answers.2.text:&quot;Želimo 5 milijonov dolarjev
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2253.0
+passage.questions.3.answers.1.text:&quot;Vrnemo se na letališče&quot;
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2252.0
+passage.questions.3.answers.0.text:Če se poskušate premakniti, boste ogrozili sebe in letalo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2251.0
+passage.questions.2.question:Kaj so naredili krmilniki, ko je let 11 spremenil pot?
+passage.questions.2.idx:418.0
+passage.questions.2.answers.5.text:Vsa letala poslala nazaj tja, od koder so odšla
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2250.0
+passage.questions.2.answers.4.text:Naročeno, da pristanejo vsi drugi načrti
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2249.0
+passage.questions.2.answers.3.text:Premaknite letala s poti in prosite druga letala v bližini, naj poiščejo American 11
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2248.0
+passage.questions.2.answers.2.text:Letalo je začelo premikati s poti
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2247.0
+passage.questions.2.answers.1.text:Premaknite druga letala s poti leta 11s
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:2246.0
+passage.questions.2.answers.0.text:Vrnjen na letališče
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:2245.0
+passage.questions.14.question:Katere okoliščine so spodbudile nadzor stolpa, da se je obrnil na let 11 American Airlines? Kako so vzpostavili stik s pilotom?
+passage.questions.14.idx:430.0
+passage.questions.14.answers.5.text:Letalo AA leta 11 ni uspelo upoštevati navodil za dvig na 35.000 čevljev, z njim so poklicali po radiu
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:2308.0
+passage.questions.14.answers.4.text:Ob 8:14, ko let ni upošteval njegovih navodil, da se povzpne na 35.000 čevljev, je kontrolor večkrat poskušal dvigniti let. Stikal je s pilotom na zasilni frekvenci. letalo
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:2307.0
+passage.questions.14.answers.3.text:Ko let 11 ni dosegel 35.000 čevljev. Pilota je kontaktirala frekvenca v sili
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:2306.0
+passage.questions.14.answers.2.text:Pilota je kontaktirala frekvenca v sili, nadzor stolpa pa je poskušal vzpostaviti stik z letom 11, ker jih ni mogel doseči
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:2305.0
+passage.questions.14.answers.1.text:Letalo je poslalo signal v sili, nanj se je oglasil nujni radio
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:2304.0
+passage.questions.14.answers.0.text:Letalo ni upoštevalo navodil za povečanje nadmorske višine, pilota so poklicali v sili
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:2303.0
+passage.questions.13.question:Kako dolgo je čas, ko je FAA poskusil vzpostaviti stik z zrakoplovom in zrakoplovom ugasnil transponder (v nekaj minutah)?
+passage.questions.13.idx:429.0
+passage.questions.13.answers.4.text:10 minut
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:2302.0
+passage.questions.13.answers.3.text:1 minuto
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:2301.0
+passage.questions.13.answers.2.text:11 minut
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:2300.0
+passage.questions.13.answers.1.text:7 minut
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:2299.0
+passage.questions.13.answers.0.text:9 minut
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:2298.0
+passage.questions.12.question:Kaj je bilo rečeno v prenosih iz ameriške 11?
+passage.questions.12.idx:428.0
+passage.questions.12.answers.4.text:Če se poskušate premakniti, boste ogrozili sebe in letalo
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:2297.0
+passage.questions.12.answers.3.text:Ugrabljeni smo
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:2296.0
+passage.questions.12.answers.2.text:&quot;Nihče se ne premakni.&quot;, &quot;Vse bo v redu.&quot; In &quot;Če poskusite narediti kakršne koli poteze, boste ogrozili sebe in letalo.&quot;
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:2295.0
+passage.questions.12.answers.1.text:&quot;Želimo 5 milijonov dolarjev
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:2294.0
+passage.questions.12.answers.0.text:&quot;Vrnemo se na letališče&quot;
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2293.0
+passage.questions.11.question:Kaj je nadzornik povedal nadzorniku, ko ni mogel komunicirati z letalom? Kaj so mu naročili?
+passage.questions.11.idx:427.0
+passage.questions.11.answers.4.text:Kontrolor je svojemu nadzorniku povedal, da misli, da je z letalom nekaj hudo narobe, čeprav noben od njih ni sumil na ugrabitev. Nadzornik je kontrolorju naročil, naj upošteva standardne postopke za ravnanje z letalom &quot;brez radia&quot;. Kontrolor je preveril, ali lahko American Airlines ugotovi, komunikacija z ameriškim 11
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:2292.0
+passage.questions.11.answers.3.text:Nadzorniku je povedal, da je z letalom nekaj hudo narobe. Nadzornik mu je naročil, naj upošteva postopke za nobeno radijsko letalo
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:2291.0
+passage.questions.11.answers.2.text:Rekel je nadzorniku, da nikogar ne more doseči, in nadzornik je rekel, naj poskusi znova
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2290.0
+passage.questions.11.answers.1.text:Sumil je, da je nekaj hudo narobe, naročil mu je, naj upošteva postopek oddaje letala &quot;brez radia&quot;
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:2289.0
+passage.questions.11.answers.0.text:Sumil je, da je bilo letalo ugrabljeno, naročil mu je, naj uporabi nujni radio
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2288.0
+passage.questions.10.question:Kaj je nadzornik naročil upravljavcu, da je naredil, ko je nadzornik nadzorniku povedal, da nekaj resno ni v redu?
+passage.questions.10.idx:426.0
+passage.questions.10.answers.3.text:Rekel mu je, da ni nič narobe
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2287.0
+passage.questions.10.answers.2.text:Dvignite višino ravnine
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2286.0
+passage.questions.10.answers.1.text:Rekel mu je, da bo prizemlil vsa letala
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2285.0
+passage.questions.10.answers.0.text:Upoštevajte standardne postopke za ravnanje z letalom brez radia
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:2284.0
+passage.questions.1.question:Kakšen je bil zadnji prispevek, ki ga je poslala Amerika 11 v članku?
+passage.questions.1.idx:417.0
+passage.questions.1.answers.2.text:Letalo je bilo ugrabljeno
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2244.0
+passage.questions.1.answers.1.text:Imamo nekaj letal
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:2243.0
+passage.questions.1.answers.0.text:Nihče se ne premakni Vse bo vredu. Če se poskušate premakniti, boste ogrozili sebe in letalo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:2242.0
+passage.questions.0.question:Kaj so naredili krmilniki, ko je ameriški 11 zapustil zračni prostor prvega kontrolorja in se preselil v drug sektor?
+passage.questions.0.idx:416
+passage.questions.0.answers.6.text:Druge lete so umaknili z njene poti in zaprosili druga letala, da iščejo ameriški 11
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:2241.0
+passage.questions.0.answers.5.text:Rekel nadzorniku, da je z letalom nekaj narobe
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:2240.0
+passage.questions.0.answers.4.text:Dosegli so frekvenco v sili
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2239.0
+passage.questions.0.answers.3.text:Letala so začeli premikati s poti
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2238.0
+passage.questions.0.answers.2.text:Prosili so druga letala, naj poiščejo ameriško 11
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2237.0
+passage.questions.0.answers.1.text:Takoj začel premikati letala s poti in vprašal druga letala
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2236
+passage.questions.0.answers.0.text:Sum ugrabitve
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2235
+idx:35

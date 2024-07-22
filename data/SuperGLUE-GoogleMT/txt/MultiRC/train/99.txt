@@ -1,0 +1,81 @@
+version:1.1
+passage.text:Meridian National Corp. je dejal, da je družinam McAlpine prodal 750.000 delnic navadnih delnic za milijon dolarjev ali 1,35 dolarja na delnico. Prodaja predstavlja 10,2% delnic Meridian-a. Družina McAlpine, ki upravlja s številnimi večnacionalnimi podjetji, vključno z inženirskim in gradbenim podjetjem s sedežem v Londonu, je Meridian National posodila tudi 500.000 ameriških dolarjev. Ta znesek je mogoče pretvoriti v delnice navadnih delnic Meridian po 2 USD na delnico v enem letu. Skupina McAlpine lahko posojilo podaljša za dodatno leto z zvišanjem cene konverzije na 2,50 USD na delnico. Prodaja delnic družini McAlpine skupaj z nedavno prodajo 750.000 delnic delnic Meridian družbi Haden MacLellan Holding PLC iz Surreyja v Angliji in nedavna javna ponudba so neto vrednost Meridiana povečali na 8,5 milijona dolarjev, je povedal William Feniger, izvršni direktor Toledo, Meridian s sedežem v Ohiu.
+passage.questions.2.question:Koliko skupnih delnic delnic je Meridian v zadnjem času prodal dvema družbama?
+passage.questions.2.idx:1180.0
+passage.questions.2.answers.6.text:750.000
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:5984.0
+passage.questions.2.answers.5.text:1.500.000
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:5983.0
+passage.questions.2.answers.4.text:5 milijonov
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:5982.0
+passage.questions.2.answers.3.text:750.000 delnic
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:5981.0
+passage.questions.2.answers.2.text:1,5 milijona
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:5980.0
+passage.questions.2.answers.1.text:1.500.000 delnic
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:5979.0
+passage.questions.2.answers.0.text:8.
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5978.0
+passage.questions.1.question:Komu je Meridian prodal 10,2% svojih delnic?
+passage.questions.1.idx:1179.0
+passage.questions.1.answers.7.text:Haden MacLellan Holding PLC iz Surreyja v Angliji
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:5977.0
+passage.questions.1.answers.6.text:Surrey, Anglija
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:5976.0
+passage.questions.1.answers.5.text:Javna ponudba
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:5975.0
+passage.questions.1.answers.4.text:William Feniger
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:5974.0
+passage.questions.1.answers.3.text:Družinski interesi McAlpine
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:5973.0
+passage.questions.1.answers.2.text:Haden MacLellan Holding
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5972.0
+passage.questions.1.answers.1.text:Družina McAlpine
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:5971.0
+passage.questions.1.answers.0.text:McAlpine
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5970.0
+passage.questions.0.question:Kakšen bo dvig cene konverzije na delnico, če se posojilo podaljša?
+passage.questions.0.idx:1178
+passage.questions.0.answers.8.text:0,50 USD na delnico
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:5969.0
+passage.questions.0.answers.7.text:Nekaj več kot 1,00 USD
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:5968.0
+passage.questions.0.answers.6.text:1,35 USD
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:5967.0
+passage.questions.0.answers.5.text:2,00 USD
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:5966.0
+passage.questions.0.answers.4.text:1,15 USD
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:5965.0
+passage.questions.0.answers.3.text:1,35 USD na delnico
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:5964.0
+passage.questions.0.answers.2.text:2,50 USD
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:5963.0
+passage.questions.0.answers.1.text:2,50 USD na delnico
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5962
+passage.questions.0.answers.0.text:2 USD na delnico
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5961
+idx:99

@@ -1,0 +1,187 @@
+version:1.1
+passage.text:Vojaško obveščanje in odziv. Bostonski center ni sledil protokolu pri iskanju vojaške pomoči prek predpisane verige poveljevanja. Poleg obvestil znotraj FAA je Bostonski center ob 8.34 prevzel pobudo za vzpostavitev stika z vojsko prek obrata FAA Cape Cod. Center je poskušal vzpostaviti tudi stik z nekdanjim mestom za opozarjanje v Atlantic Cityju, saj ni vedel, da je bil postopno ukinjen. Ob 8:37:52 je Bostonski center prišel do NEADS. To je bilo prvo obvestilo, ki ga je vojska prejela na kateri koli ravni, da je bil ugrabljen ameriški 11: FAA: Zdravo. Boston Center TMU [enota za upravljanje prometa], tu imamo težavo. Ugrabljeno letalo se je odpravilo proti New Yorku in vas potrebujemo, nekdo, ki bi nam pomagal nekaj F-16 ali kaj podobnega. NEADS: Je to resnični svet ali vaja? FAA: Ne, to ni vaja in ne preizkus. NEADS je ukazal bojni postaji dve letali za opozarjanje F-15 v letalski bazi Otis v Falmouthu v Massachusettsu, 153 milj stran od New Yorka. Ameriška zračna obramba se je začela s tem pozivom. Na NEADS so poročilo o ugrabitvi nemudoma poslali bojnemu poveljniku polkovniku Robertu Marru. Potem ko je polkovnik Marr ukazal lovcem Otis, da pokliče generalmajorja Larryja Arnolda, poveljujočega generala prvega letalstva in kontinentalne regije NORAD. Marr je zaprosil za dovoljenje, da bi premešal Otisove borce. General Arnold se je kasneje spomnil, da je Marru naročil, naj &quot;nadaljuje z njimi, nato pa bomo dobili organe.&quot; General Arnold je nato poklical sedež NORAD, da bi poročal. Lovci F-15 so bili zmešani ob 8:46 iz letalske baze Otis.
+passage.questions.7.question:Kako se imenuje zračna baza lovskih letal, v katerih so premešani?
+passage.questions.7.idx:2038.0
+passage.questions.7.answers.6.text:Baza nacionalne garde Stewart Air
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:10652.0
+passage.questions.7.answers.5.text:New York City
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:10651.0
+passage.questions.7.answers.4.text:Letalska baza Boston
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:10650.0
+passage.questions.7.answers.3.text:Letališka baza FAA Cape Cod
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:10649.0
+passage.questions.7.answers.2.text:Bostonski center
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:10648.0
+passage.questions.7.answers.1.text:Letalska baza Griffiss
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:10647.0
+passage.questions.7.answers.0.text:Letalska baza Otis
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:10646.0
+passage.questions.6.question:Kako se imenuje mesto odhoda letal?
+passage.questions.6.idx:2037.0
+passage.questions.6.answers.6.text:New York
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:10645.0
+passage.questions.6.answers.5.text:New York City
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:10644.0
+passage.questions.6.answers.4.text:Cambridge
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:10643.0
+passage.questions.6.answers.3.text:Boston
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:10642.0
+passage.questions.6.answers.2.text:Falmouth, MA
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:10641.0
+passage.questions.6.answers.1.text:Falmouth, Massachusetts
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:10640.0
+passage.questions.6.answers.0.text:Falmouth
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:10639.0
+passage.questions.5.question:Kako je ime generala, ki je vključen v poročilo?
+passage.questions.5.idx:2036.0
+passage.questions.5.answers.7.text:Polkovnik Marr
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:10638.0
+passage.questions.5.answers.6.text:General Marr
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:10637.0
+passage.questions.5.answers.5.text:Larry Sanders
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:10636.0
+passage.questions.5.answers.4.text:Robert Mulligan
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:10635.0
+passage.questions.5.answers.3.text:Robert Marr
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:10634.0
+passage.questions.5.answers.2.text:Larry Marr
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:10633.0
+passage.questions.5.answers.1.text:Larry Arnold
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:10632.0
+passage.questions.5.answers.0.text:General Arnold
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:10631.0
+passage.questions.4.question:S katerim curkom se je vojaški premešal?
+passage.questions.4.idx:2035.0
+passage.questions.4.answers.3.text:F-18
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:10630.0
+passage.questions.4.answers.2.text:Lovci F-35
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:10629.0
+passage.questions.4.answers.1.text:F-16
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:10628.0
+passage.questions.4.answers.0.text:F-15
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:10627.0
+passage.questions.3.question:Kako dolgo je vojska premetavala z lovskimi letali?
+passage.questions.3.idx:2034.0
+passage.questions.3.answers.8.text:13 minut
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:10626.0
+passage.questions.3.answers.7.text:5 minut
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:10625.0
+passage.questions.3.answers.6.text:18 minut
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:10624.0
+passage.questions.3.answers.5.text:11 minut
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:10623.0
+passage.questions.3.answers.4.text:12 minut
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:10622.0
+passage.questions.3.answers.3.text:10 minut
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:10621.0
+passage.questions.3.answers.2.text:1 uro
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:10620.0
+passage.questions.3.answers.1.text:6 minut
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:10619.0
+passage.questions.3.answers.0.text:Približno 8 minut
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:10618.0
+passage.questions.2.question:Kakšno je bilo uspešno zaporedje komunikacije?
+passage.questions.2.idx:2033.0
+passage.questions.2.answers.6.text:FAA je imenovala letalsko bazo Fairfield
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:10617.0
+passage.questions.2.answers.5.text:Bostonski center do prvega letalstva
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:10616.0
+passage.questions.2.answers.4.text:FAA je imenovala letalsko bazo Otis
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:10615.0
+passage.questions.2.answers.3.text:Bostonski center je neposredno poklical NORAD
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:10614.0
+passage.questions.2.answers.2.text:FAA je sprožila klic v Boston Center TMU
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:10613.0
+passage.questions.2.answers.1.text:Bostonski center NEADS, NEADS bojnemu poveljniku polkovniku Robertu Marru, polkovnik Marr generalmajorju Larryju Arnoldu
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:10612.0
+passage.questions.2.answers.0.text:Bostonski center do NEADS do prvega letalstva in NORAD
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:10611.0
+passage.questions.1.question:Koliko vojaških objektov je hotel kontaktirati Boston Center?
+passage.questions.1.idx:2032.0
+passage.questions.1.answers.5.text:3.
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:10610.0
+passage.questions.1.answers.4.text:1.
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:10609.0
+passage.questions.1.answers.3.text:5.
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10608.0
+passage.questions.1.answers.2.text:4.
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:10607.0
+passage.questions.1.answers.1.text:8.
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:10606.0
+passage.questions.1.answers.0.text:Vsaj 2
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10605.0
+passage.questions.0.question:Koliko časa je minilo med prvim poskusom stika z Bostonom in ko so bili borci premešani?
+passage.questions.0.idx:2031
+passage.questions.0.answers.7.text:13 minut
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:10604.0
+passage.questions.0.answers.6.text:11 minut
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:10603.0
+passage.questions.0.answers.5.text:20 minut
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:10602.0
+passage.questions.0.answers.4.text:2 minuti in 52 sekund
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:10601.0
+passage.questions.0.answers.3.text:4 minute
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:10600.0
+passage.questions.0.answers.2.text:4 minute in 52 sekund
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10599.0
+passage.questions.0.answers.1.text:3 minute in 52 sekund
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:10598
+passage.questions.0.answers.0.text:12 minut
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:10597
+idx:184

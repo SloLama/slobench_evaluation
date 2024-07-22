@@ -1,0 +1,162 @@
+version:1.1
+passage.text:Na dan, ko je praznovala 50 let brezplačnega pravnega svetovanja, je Južna Arizona Legal Aid objavila, da je prejela dve donaciji v skupni vrednosti več kot 7 milijonov dolarjev. Ena od donacij vključuje oblikovanje spletnega mesta s pravnimi nasveti za revne. Triletna nepovratna sredstva v vrednosti 6,6 milijona dolarjev in ločena tehnološka nepovratna sredstva so bili objavljeni na tiskovni konferenci in večerji v četrtek v Evo. A. DeConcini Zvezno sodišče, 405 W. Kongres St. Deconcini je bil eden od prvih članov upravnega odbora. Četrtkovo praznovanje je bilo prvo javno celo na sodišču. Udeležilo se ga je približno 100 članov pravne skupnosti, med njimi državna državna tožilka Janet Napolitano in sodnik vrhovnega sodišča v Arizoni Thomas Zlaket. Obe donaciji izhajata iz pravne službe., Zasebne neprofitne korporacije, ki jo je Kongres ustanovil leta 1974, da bi revnim omogočil enak dostop do pravosodnega sistema. Financira se s sredstvi kongresa. Nepovratna sredstva v višini 6,6 milijona dolarjev bodo plačana za kadrovske operacije. Spletno mesto, ki bo ustvarjeno z nepovratnimi sredstvi v višini 50.000 ameriških dolarjev, naj bi revnim ljudem po Arizoni nudilo pravni nasvet, je povedal Paul Julian, izvršni direktor pravne pomoči v južni Arizoni. Rekel je, da želi, da ima vsaka revna oseba v Arizoni pravno pomoč. &quot;To je še en korak v poskusu, da bi se tega zavedali. Zdi se nam, da si zelo dobro pomagamo ljudem, ki nas najdejo,&quot; je dejal Julian. Julian je dejal, da čeprav večina ljudi nima računalnikov, lahko še vedno dostopajo do njih v knjižnicah, šolah in sodiščih. Rekel je, da bo spletno mesto pomagalo premostiti &quot;digitalni razkorak&quot;, ki revnim preprečuje uporabo interneta kot vira. Južna Arizona Legal Aid je bila ustanovljena leta 1951 kot Društvo za pravno pomoč odvetniške zbornice okrožja Pima. Ponujal je brezplačen pravni nasvet o civilnih zadevah, vključno s spori na sodiščih za spor majhne vrednosti, postopki razveze zakonske zveze in prejemki socialne varnosti. Charles Ares, član upravnega odbora v petdesetih letih, je dejal, da je pisarna nekakšna dobrodelna akcija.
+passage.questions.5.question:Na kateri dan v tednu so praznovali 50-letnico in koliko članov se je je udeležilo?
+passage.questions.5.idx:436.0
+passage.questions.5.answers.4.text:Četrtek in 100 članov
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2357.0
+passage.questions.5.answers.3.text:Sobota in 150 članov
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2356.0
+passage.questions.5.answers.2.text:Potekalo je v ponedeljek, udeležila pa se ga je celotna mestna svetovalnica
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2355.0
+passage.questions.5.answers.1.text:Praznovanje je bilo v četrtek in se ga je udeležilo 100 članov
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2354.0
+passage.questions.5.answers.0.text:Potekalo je v četrtek, udeležilo pa se ga je približno 100 članov pravne skupnosti,
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2353.0
+passage.questions.4.question:Kdo je izvršni direktor pravne pomoči v južni Arizoni in kako namerava revnim pomagati premagati digitalni razkorak?
+passage.questions.4.idx:435.0
+passage.questions.4.answers.6.text:Paul Julian namerava revnim ljudem ponuditi spletni dostop do pravnih nasvetov
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:2352.0
+passage.questions.4.answers.5.text:Reuben James je izvršni direktor in temu, ki si ga ne more privoščiti, bo zagotovil brezplačne računalnike
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:2351.0
+passage.questions.4.answers.4.text:Paul Julian je izvršni direktor pravne pomoči Južne Arizone. Julian je dejal, da čeprav večina ljudi nima računalnikov, lahko še vedno dostopajo do njih v knjižnicah, šolah in sodiščih
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2350.0
+passage.questions.4.answers.3.text:Steve Marian se namerava udeležiti zavetišč, kjer bo svetoval pravnim osebam
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2349.0
+passage.questions.4.answers.2.text:Paul Julian, in čeprav ljudje morda nimajo računalnikov, imajo dostop do knjižnic, šol in sodišča
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2348.0
+passage.questions.4.answers.1.text:Charles Ares dobi sredstva na svojih računih v dobrodelne namene
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2347.0
+passage.questions.4.answers.0.text:Davkoplačevalci nepovratna sredstva podpirajo s sredstvi Kongresa
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2346.0
+passage.questions.3.question:Kako se upravlja nepovratna sredstva?
+passage.questions.3.idx:434.0
+passage.questions.3.answers.8.text:Pravne službe denar zagotavljajo z dodelitvami v Kongresu
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:2345.0
+passage.questions.3.answers.7.text:Objektivna tretja oseba
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:2344.0
+passage.questions.3.answers.6.text:Večina denarja je namenjena kadrovskim operacijam
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:2343.0
+passage.questions.3.answers.5.text:Spletni strani je dodeljen majhen sorazmeren znesek
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:2342.0
+passage.questions.3.answers.4.text:Legal Services denar namenja neposredno SALA
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2341.0
+passage.questions.3.answers.3.text:Preko državne vlade
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2340.0
+passage.questions.3.answers.2.text:Preko odvetniške pisarne Cohen in Cohen
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2339.0
+passage.questions.3.answers.1.text:Charles Ares dobi sredstva na svojih računih v dobrodelne namene
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2338.0
+passage.questions.3.answers.0.text:Davkoplačevalci nepovratna sredstva podpirajo s sredstvi Kongresa
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2337.0
+passage.questions.2.question:Katere subvencije je prejela pravna pomoč v južni Arizoni na dan, ko je praznovala 50 let brezplačnega pravnega svetovanja?
+passage.questions.2.idx:433.0
+passage.questions.2.answers.9.text:2 dotaciji za prehrano brezdomcev
+passage.questions.2.answers.9.label:0,0
+passage.questions.2.answers.9.idx:2336.0
+passage.questions.2.answers.8.text:Dotacija za kadrovske operacije in nepovratna sredstva za izdelavo spletnega mesta
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:2335.0
+passage.questions.2.answers.7.text:Dve donaciji v celoti presegata 6,5 milijona dolarjev
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:2334.0
+passage.questions.2.answers.6.text:6,6 milijona dolarjev za oblikovanje spletnih strani
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:2333.0
+passage.questions.2.answers.5.text:Dotacija za pravno pomoč in nepovratna sredstva za tehnologijo
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2332.0
+passage.questions.2.answers.4.text:50.000 dolarjev za kadrovanje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2331.0
+passage.questions.2.answers.3.text:Nepovratna sredstva za pomoč revnim ljudem, ki tožijo svoje delovno mesto
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2330.0
+passage.questions.2.answers.2.text:50.000 USD za oblikovanje spletnih strani
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2329.0
+passage.questions.2.answers.1.text:6,6 milijona dolarjev za kadrovske operacije
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:2328.0
+passage.questions.2.answers.0.text:Prejeli so dve donaciji v skupni vrednosti 7 milijonov dolarjev. Triletna nepovratna sredstva v vrednosti 6,6 milijona dolarjev in ločena tehnološka nepovratna sredstva
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:2327.0
+passage.questions.1.question:Kolikšen je skupni znesek za nepovratna sredstva in kako jih bomo uporabili?
+passage.questions.1.idx:432.0
+passage.questions.1.answers.4.text:Nepovratna sredstva v višini 8,3 milijona dolarjev bodo namenjena sodiščem za spor majhne vrednosti, postopkom razveze zakonske zveze in prejemkom socialne varnosti
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2326.0
+passage.questions.1.answers.3.text:2 milijona dolarjev za storitve
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2325.0
+passage.questions.1.answers.2.text:6,6 milijona dolarjev se porabi za kadrovske operacije
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2324.0
+passage.questions.1.answers.1.text:Nepovratna sredstva so znašala 7 milijonov dolarjev, namenila naj bi se 6,6 milijona za osebje, preostanek pa za tehnologijo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:2323.0
+passage.questions.1.answers.0.text:Nepovratna sredstva v višini 6,6 milijona dolarjev bodo plačana za kadrovske operacije in 50.000 dolarjev za spletno stran za pravno pomoč
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:2322.0
+passage.questions.0.question:Komu bo spletna stran koristila?
+passage.questions.0.idx:431
+passage.questions.0.answers.9.text:2 milijona dolarjev za storitve
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:2318.0
+passage.questions.0.answers.8.text:6,6 milijona dolarjev se porabi za kadrovske operacije
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:2317.0
+passage.questions.0.answers.7.text:Odvetniki, ki se morajo naučiti uporabljati internet
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:2316.0
+passage.questions.0.answers.6.text:Študenti na fakulteti
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:2315.0
+passage.questions.0.answers.5.text:Ubogi ljudje v Arizoni, ki potrebujejo pravno pomoč v civilnih zadevah
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2314.0
+passage.questions.0.answers.4.text:Samohranilci
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2313.0
+passage.questions.0.answers.3.text:Pomagajte premostiti &quot;digitalni razkorak&quot;, ki revnim preprečuje uporabo interneta kot vira
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2312.0
+passage.questions.0.answers.2.text:Nepovratna sredstva v višini 6,6 milijona dolarjev bodo plačana za kadrovske operacije in 50.000 dolarjev za spletno stran za pravno pomoč
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2311.0
+passage.questions.0.answers.12.text:Prebivalci z visokim dohodkom, ki želijo plačati za zelo elitne odvetnike
+passage.questions.0.answers.12.label:0,0
+passage.questions.0.answers.12.idx:2321.0
+passage.questions.0.answers.11.text:Nepovratna sredstva v višini 8,3 milijona dolarjev bodo namenjena sodiščem za spor majhne vrednosti, postopkom razveze zakonske zveze in prejemkom socialne varnosti
+passage.questions.0.answers.11.label:0,0
+passage.questions.0.answers.11.idx:2320.0
+passage.questions.0.answers.10.text:Prebivalci Oklahome, ki potrebujejo brezplačen pravni nasvet
+passage.questions.0.answers.10.label:0,0
+passage.questions.0.answers.10.idx:2319.0
+passage.questions.0.answers.1.text:Ubogi ljudje, ki se morajo naučiti internetnih in računalniških veščin
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2310
+passage.questions.0.answers.0.text:Ubogi ljudje, ki potrebujejo pravni nasvet
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2309
+idx:36

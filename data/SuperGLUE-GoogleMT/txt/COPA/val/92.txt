@@ -1,0 +1,6 @@
+choice1:Vzporedno je parkiral na ulici.
+choice2:Parkomat je potekel.
+idx:92
+label:1
+premise:Moški je dobil parkirno karto.
+question:cause

@@ -1,0 +1,6 @@
+choice1:Prepoznala je odsotne študente.
+choice2:Svojim učencem je priredila pop kviz.
+idx:100
+label:0
+premise:Učitelj se je zvil.
+question:effect

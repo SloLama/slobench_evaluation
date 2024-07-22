@@ -1,0 +1,6 @@
+choice1:Moški je kroglo skotalil po stezi za kegljanje.
+choice2:Moškemu je krogla padla na stopalo.
+idx:10
+label:0
+premise:Krogla je prevrnila keglje.
+question:cause

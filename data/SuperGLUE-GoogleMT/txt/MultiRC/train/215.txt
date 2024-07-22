@@ -1,0 +1,264 @@
+version:1.1
+passage.text:Elettra je mali listič, na katerem je bil napisan recept, zataknila v svojo umazano žepno knjigo, ne da bi ga pogledala. Dokaj dobro je znala brati in pisati in je bila navajena pomagati možu podrejeniku pri njegovih računih pri Muro, a tudi če bi pogledala recept, ne bi razumela ničesar od zdravnikove hieroglifije in okrajšanih latinskih besed. Na recept je bil pripravljen arzen, ki ga je Matilde že nekaj časa jemala. Kemik ne bi imel težav pri pripravi dvajsetih odmerkov za grofico Macomer, čeprav bi celotna količina arzena, ki ga vsebuje toliko, verjetno zadostovala za ubijanje tistega, ki ni navajen zdravila, če bi ga jemali naenkrat. A čeprav je bila Matilde tako nestrpna, da bi imela stvari pred kosilom, je dala nekaj odmerkov pospraviti v predal, ki ga je po odhodu Elettre odnesla in preštela. Odprla je enega od malo zloženih papirjev in pogledala droben bel prah, ki ga je vseboval, vzela malo na konec prsta in ga pokusila. Nato je iz istega predala vzela paket, narejen v grobem papirju, in ga prav tako odprla, si ga ogledala, zavohala in se ga zelo previdno dotaknila s konico jezika. Tudi bela je bila, vendar bolj groba kot zdravilo. Pri pokušanju je bila zelo previdna in je takoj sperila usta z vodo, preden je spet zavezala paket, zaprla predal in dala ključ v žep.
+passage.questions.9.question:Kaj je bilo &quot;belo, a bolj grobo kot zdravilo&quot;?
+passage.questions.9.idx:2387.0
+passage.questions.9.answers.2.text:Arzen
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:12653.0
+passage.questions.9.answers.1.text:Kokain
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:12652.0
+passage.questions.9.answers.0.text:Beli prah
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:12651.0
+passage.questions.8.question:Katero besedo avtor uporablja kot sopomenko za recept?
+passage.questions.8.idx:2386.0
+passage.questions.8.answers.3.text:Na recept
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:12650.0
+passage.questions.8.answers.2.text:Opombe o pripravi
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:12649.0
+passage.questions.8.answers.1.text:Potrdilo
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:12648.0
+passage.questions.8.answers.0.text:Naloge
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:12647.0
+passage.questions.7.question:Kako je izgledalo pisanje recepta?
+passage.questions.7.idx:2385.0
+passage.questions.7.answers.2.text:Plenilec
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:12646.0
+passage.questions.7.answers.1.text:Hieroglifi in okrajšane latinske besede
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:12645.0
+passage.questions.7.answers.0.text:angleščina
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:12644.0
+passage.questions.6.question:Za kaj je recept?
+passage.questions.6.idx:2384.0
+passage.questions.6.answers.4.text:Arzen
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:12643.0
+passage.questions.6.answers.3.text:Sendviči za kosilo
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:12642.0
+passage.questions.6.answers.2.text:Muro
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:12641.0
+passage.questions.6.answers.1.text:Penicilin
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:12640.0
+passage.questions.6.answers.0.text:Priprava arzena
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:12639.0
+passage.questions.5.question:Kdo dela kot nadrejeni?
+passage.questions.5.idx:2383.0
+passage.questions.5.answers.2.text:Elettra
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:12638.0
+passage.questions.5.answers.1.text:Mož Elettra
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:12637.0
+passage.questions.5.answers.0.text:Matilde
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:12636.0
+passage.questions.4.question:Je Elettra v preteklosti vzela arzen?
+passage.questions.4.idx:2382.0
+passage.questions.4.answers.2.text:Da
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:12635.0
+passage.questions.4.answers.1.text:Ni jasno
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:12634.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:12633.0
+passage.questions.3.question:Kdaj je Matilde upala, da bo od kemika prejela več arzena?
+passage.questions.3.idx:2381.0
+passage.questions.3.answers.2.text:Medtem ko kosilo
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12632.0
+passage.questions.3.answers.1.text:Pred kosilom
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:12631.0
+passage.questions.3.answers.0.text:Po kosilu
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:12630.0
+passage.questions.20.question:Kje so bili majhni zloženi papirji in paket, narejen v grob papir?
+passage.questions.20.idx:2398.0
+passage.questions.20.answers.3.text:Kabinet
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:12693.0
+passage.questions.20.answers.2.text:V predalu
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:12692.0
+passage.questions.20.answers.1.text:V laboratoriju
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:12691.0
+passage.questions.20.answers.0.text:V kuhinji
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:12690.0
+passage.questions.2.question:Kdo je napisal na papirčku, ki ga je Elettra dala v svoj umazan žep plašča?
+passage.questions.2.idx:2380.0
+passage.questions.2.answers.2.text:Elettra
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12629.0
+passage.questions.2.answers.1.text:Muro
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12628.0
+passage.questions.2.answers.0.text:Zdravnik
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:12627.0
+passage.questions.19.question:Kdo ji je spral usta?
+passage.questions.19.idx:2397.0
+passage.questions.19.answers.2.text:Zdravilo
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:12689.0
+passage.questions.19.answers.1.text:Elettra
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:12688.0
+passage.questions.19.answers.0.text:Matilde
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:12687.0
+passage.questions.18.question:Kakšna je prva snov, ki jo okusi Matilde?
+passage.questions.18.idx:2396.0
+passage.questions.18.answers.4.text:Arzen
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:12686.0
+passage.questions.18.answers.3.text:Muro
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:12685.0
+passage.questions.18.answers.2.text:Penicilin
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:12684.0
+passage.questions.18.answers.1.text:Grobi prah
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:12683.0
+passage.questions.18.answers.0.text:Bel droben prah
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:12682.0
+passage.questions.17.question:V katero vrsto papirja je bilo zavito drugo zdravilo?
+passage.questions.17.idx:2395.0
+passage.questions.17.answers.2.text:Majhen listek
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:12681.0
+passage.questions.17.answers.1.text:Malo zložen papir
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:12680.0
+passage.questions.17.answers.0.text:Grob papir
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:12679.0
+passage.questions.16.question:Kako je izgledal arzen?
+passage.questions.16.idx:2394.0
+passage.questions.16.answers.2.text:Jasno
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:12678.0
+passage.questions.16.answers.1.text:Droben bel prah
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:12677.0
+passage.questions.16.answers.0.text:Bel in grob kot zdravilo
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:12676.0
+passage.questions.15.question:Kdo je lahko dokaj dobro bral in pisal?
+passage.questions.15.idx:2393.0
+passage.questions.15.answers.2.text:Elettra
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:12675.0
+passage.questions.15.answers.1.text:Muro
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:12674.0
+passage.questions.15.answers.0.text:Matilde
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:12673.0
+passage.questions.14.question:Kaj je grofica potrebovala?
+passage.questions.14.idx:2392.0
+passage.questions.14.answers.4.text:Arzen
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:12672.0
+passage.questions.14.answers.3.text:Zdravilo
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:12671.0
+passage.questions.14.answers.2.text:20 odmerkov arzena
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:12670.0
+passage.questions.14.answers.1.text:Kemik
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:12669.0
+passage.questions.14.answers.0.text:Drugo zdravilo
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:12668.0
+passage.questions.13.question:Kdo je okusil bel prah iz zloženih papirjev in embalaže?
+passage.questions.13.idx:2391.0
+passage.questions.13.answers.2.text:Elettra
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:12667.0
+passage.questions.13.answers.1.text:Muro
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:12666.0
+passage.questions.13.answers.0.text:Matilde
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:12665.0
+passage.questions.12.question:Kdo je odprl enega od malo zloženih papirjev?
+passage.questions.12.idx:2390.0
+passage.questions.12.answers.2.text:Elettra
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:12664.0
+passage.questions.12.answers.1.text:Grofica Macomer
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:12663.0
+passage.questions.12.answers.0.text:Matilde
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:12662.0
+passage.questions.11.question:Kaj je Matilde storila, ko se je konica jezika dotaknila arzena?
+passage.questions.11.idx:2389.0
+passage.questions.11.answers.2.text:Splaknila usta z vodo
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:12661.0
+passage.questions.11.answers.1.text:Takoj je sprala usta z vodo, spet zavezala paket, zaprla predal in dala ključ v žep
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:12660.0
+passage.questions.11.answers.0.text:Nič
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:12659.0
+passage.questions.10.question:Čigav mož je bil nadrejeni?
+passage.questions.10.idx:2388.0
+passage.questions.10.answers.4.text:Matilde
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:12658.0
+passage.questions.10.answers.3.text:Muro
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:12657.0
+passage.questions.10.answers.2.text:Matilde
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:12656.0
+passage.questions.10.answers.1.text:Elettra
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:12655.0
+passage.questions.10.answers.0.text:Elettra
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:12654.0
+passage.questions.1.question:Katere stvari je bila Matilde tako nestrpna pred kosilom?
+passage.questions.1.idx:2379.0
+passage.questions.1.answers.3.text:Sladkor v prahu
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:12626.0
+passage.questions.1.answers.2.text:Arzen
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:12625.0
+passage.questions.1.answers.1.text:Juha
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:12624.0
+passage.questions.1.answers.0.text:Penicilin
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12623.0
+passage.questions.0.question:Kakšne barve je bil arzen?
+passage.questions.0.idx:2378
+passage.questions.0.answers.1.text:Jasno
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12622
+passage.questions.0.answers.0.text:Bela
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:12621
+idx:215

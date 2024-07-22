@@ -1,0 +1,292 @@
+version:1.1
+passage.text:Nekatere predmete ni dovolj opisati po lokaciji. Morda bomo morali vedeti tudi njegovo smer. Na primer veter piha nevihto nad vašo šolo. Od kod prihaja ta nevihta? Kam gre? Kako lahko opišemo smer? Najpogostejši način je uporaba kompasa. Kompas je naprava s plavajočo iglo (slika 2.1). Igla je majhen magnet. Igla se poravna z magnetnim poljem Zemlje. Igla kompasa vedno kaže na magnetni sever. Če imate kompas in najdete sever. Nato lahko poznate katero koli drugo smer. Oglejte si navodila, kot so vzhod, jug, zahod itd., Na vrtniku kompasa. Zemlja ima dva pola. Ima magnetni severni pol. Ima tudi geografski severni pol. Ta dva pola sta si blizu, vendar ne povsem na istem mestu.
+passage.questions.9.question:Kaj je kompas?
+passage.questions.9.idx:4178.0
+passage.questions.9.answers.6.text:to je spletno mesto
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:22223.0
+passage.questions.9.answers.5.text:gre za telefonsko aplikacijo
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:22222.0
+passage.questions.9.answers.4.text:to je radio
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:22221.0
+passage.questions.9.answers.3.text:palica, ki kaže vsako smer
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:22220.0
+passage.questions.9.answers.2.text:naprava s plavajočo iglo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:22219.0
+passage.questions.9.answers.1.text:magnet, ki kaže sever
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:22218.0
+passage.questions.9.answers.0.text:Kompas je naprava s plavajočo iglo, ki je magnetna.
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:22217.0
+passage.questions.8.question:Kateri je najpogostejši način določanja smeri?
+passage.questions.8.idx:4177.0
+passage.questions.8.answers.5.text:Uporaba Google Zemljevida
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:22216.0
+passage.questions.8.answers.4.text:Uporaba izvijača
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:22215.0
+passage.questions.8.answers.3.text:ugibanja
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:22214.0
+passage.questions.8.answers.2.text:z uporabo radia
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:22213.0
+passage.questions.8.answers.1.text:magnet
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:22212.0
+passage.questions.8.answers.0.text:s pomočjo kompasa.
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:22211.0
+passage.questions.7.question:Katere polove ima Zemlja?
+passage.questions.7.idx:4176.0
+passage.questions.7.answers.2.text:vzhodni in zahodni pol.
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:22210.0
+passage.questions.7.answers.1.text:Južni pol in Severni pol
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:22209.0
+passage.questions.7.answers.0.text:Zemlja ima magnetni vzhodni pol in geografski zahodni pol.
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:22208.0
+passage.questions.6.question:Kako deluje kompas?
+passage.questions.6.idx:4175.0
+passage.questions.6.answers.5.text:Igla kompasa vedno kaže na magnetni vzhod
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:22207.0
+passage.questions.6.answers.4.text:magija
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:22206.0
+passage.questions.6.answers.3.text:Igla kompasa vedno kaže na geografski sever.
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:22205.0
+passage.questions.6.answers.2.text:Igla kompasa vedno kaže na magnetni sever.
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:22204.0
+passage.questions.6.answers.1.text:magnet pokaže sever tako, da je poravnan z magnetnim poljem zemlje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:22203.0
+passage.questions.6.answers.0.text:Kompas ima plavajočo iglo, ki je majhen magnet, ki se poravna z magnetnim poljem Zemlje in vedno kaže na magnetni sever.
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:22202.0
+passage.questions.5.question:Katere bi lahko bile nekatere značilnosti nevihte, za katere bi želeli, da nas poznajo?
+passage.questions.5.idx:4174.0
+passage.questions.5.answers.4.text:Gravitacija znotraj nevihte
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:22201.0
+passage.questions.5.answers.3.text:obraz nevihte.
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:22200.0
+passage.questions.5.answers.2.text:od kod prihaja in odhaja
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:22199.0
+passage.questions.5.answers.1.text:smer nevihte.
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:22198.0
+passage.questions.5.answers.0.text:Smer nevihte; od kod prihaja ta nevihta in kam gre.
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:22197.0
+passage.questions.4.question:S čim se poravna kompas?
+passage.questions.4.idx:4173.0
+passage.questions.4.answers.2.text:Igla kompasa vedno kaže na magnetni jug.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:22196.0
+passage.questions.4.answers.1.text:Zemeljsko magnetno polje.
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:22195.0
+passage.questions.4.answers.0.text:Igla kompasa vedno kaže na magnetni sever.
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:22194.0
+passage.questions.3.question:Katera naprava ima iglo, ki je majhen magnet?
+passage.questions.3.idx:4172.0
+passage.questions.3.answers.2.text:zemljevid
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:22193.0
+passage.questions.3.answers.1.text:radio
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22192.0
+passage.questions.3.answers.0.text:Kompas.
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:22191.0
+passage.questions.2.question:Katera dva pola sta si blizu?
+passage.questions.2.idx:4171.0
+passage.questions.2.answers.4.text:sever in vzhod
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22190.0
+passage.questions.2.answers.3.text:vzhodni in zahodni pol
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:22189.0
+passage.questions.2.answers.2.text:Južni pol in severni pol
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22188.0
+passage.questions.2.answers.1.text:Geografski severni pol in magnetni južni pol
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:22187.0
+passage.questions.2.answers.0.text:Magnetni severni pol in geografski severni pol.
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:22186.0
+passage.questions.16.question:Kaj lahko najdete, če lahko najdete sever?
+passage.questions.16.idx:4185.0
+passage.questions.16.answers.2.text:poiskati restavracijo.
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:22256.0
+passage.questions.16.answers.1.text:Poiščite McDonaldsa
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:22255.0
+passage.questions.16.answers.0.text:poiskati druge smeri.
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:22254.0
+passage.questions.15.question:Na kaj kaže magnet v kompasu?
+passage.questions.15.idx:4184.0
+passage.questions.15.answers.3.text:oba severna pola
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:22253.0
+passage.questions.15.answers.2.text:magnetni jug.
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:22252.0
+passage.questions.15.answers.1.text:Geografski sever
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:22251.0
+passage.questions.15.answers.0.text:Magnetni sever.
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:22250.0
+passage.questions.14.question:Kaj je instrument, ki se uporablja za opis smeri?
+passage.questions.14.idx:4183.0
+passage.questions.14.answers.3.text:Pametni telefon
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:22249.0
+passage.questions.14.answers.2.text:Telefon
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:22248.0
+passage.questions.14.answers.1.text:radio
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:22247.0
+passage.questions.14.answers.0.text:Kompas.
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:22246.0
+passage.questions.13.question:Zakaj bi bilo koristno, če poleg njegove lokacije veste tudi smer premikajočega se predmeta, na primer nevihte?
+passage.questions.13.idx:4182.0
+passage.questions.13.answers.4.text:Da bi našli severni pol
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:22245.0
+passage.questions.13.answers.3.text:za oceno globine škode.
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:22244.0
+passage.questions.13.answers.2.text:raziskovalne namene
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:22243.0
+passage.questions.13.answers.1.text:tako da ga lahko lovimo s svojim avtom.
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:22242.0
+passage.questions.13.answers.0.text:Poznavanje smeri predmeta vam lahko pove, od kod prihaja in kam gre.
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:22241.0
+passage.questions.12.question:Kaj sta dva severna pola in ali sta na istem mestu?
+passage.questions.12.idx:4181.0
+passage.questions.12.answers.3.text:sever in jug in ja isto mesto
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:22240.0
+passage.questions.12.answers.2.text:vzhodni in zahodni pol in sta na istem mestu.
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:22239.0
+passage.questions.12.answers.1.text:magnetni in geografski sever in ne isto mesto
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:22238.0
+passage.questions.12.answers.0.text:Obstajata magnetni in geografski severni pol, ki sta si zelo blizu, vendar ne na istem mestu.
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:22237.0
+passage.questions.11.question:Kako lahko s kompasom ugotovimo, kje so vzhod, zahod in jug?
+passage.questions.11.idx:4180.0
+passage.questions.11.answers.6.text:vzhod je levo
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:22236.0
+passage.questions.11.answers.5.text:kompas vedno kaže na vzhod, mi pa lahko v druge smeri.
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:22235.0
+passage.questions.11.answers.4.text:zahod je levo
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:22234.0
+passage.questions.11.answers.3.text:palica prikazuje vsako smer
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:22233.0
+passage.questions.11.answers.2.text:Ko magnet kaže proti severu, lahko nato preberemo obraz kompasa, kjer so označeni vzhod, zahod in jug.
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:22232.0
+passage.questions.11.answers.1.text:glede na to, kje je sever, na kar kaže magnet
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:22231.0
+passage.questions.11.answers.0.text:so glede na položaj severa
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:22230.0
+passage.questions.10.question:Kako deluje kompas?
+passage.questions.10.idx:4179.0
+passage.questions.10.answers.5.text:palica prikazuje vsako smer
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:22229.0
+passage.questions.10.answers.4.text:tako da vedno kaže na magnetni vzhod.
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:22228.0
+passage.questions.10.answers.3.text:Igla se poravna s položajem severa
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:22227.0
+passage.questions.10.answers.2.text:igla kaže na sever
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:22226.0
+passage.questions.10.answers.1.text:tako da vedno kaže na magnetni sever.
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:22225.0
+passage.questions.10.answers.0.text:Magnetni severni pol bo potegnil iglo magneta, zaradi česar bo usmerjen proti severu.
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:22224.0
+passage.questions.1.question:Iz česa je narejena plavajoča igla v kompasu in na katero smer kaže?
+passage.questions.1.idx:4170.0
+passage.questions.1.answers.5.text:je majhen radio in kaže na eath na jug.
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:22185.0
+passage.questions.1.answers.4.text:To je bakrena palica in kaže na geografski severni pol
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:22184.0
+passage.questions.1.answers.3.text:kovinska palica, ki se premika z vami
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:22183.0
+passage.questions.1.answers.2.text:To je magnet in vedno kaže na južni pol
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22182.0
+passage.questions.1.answers.1.text:to je magnet, ki vedno kaže na jug
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22181.0
+passage.questions.1.answers.0.text:Igla je majhen magnet. Igla se poravna z magnetnim poljem Zemlje.
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22180.0
+passage.questions.0.question:Kaj sta dva zemeljska pola?
+passage.questions.0.idx:4169
+passage.questions.0.answers.7.text:Severni pol
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:22179.0
+passage.questions.0.answers.6.text:vzhodni pol, zahodni pol
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:22178.0
+passage.questions.0.answers.5.text:Južni pol
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:22177.0
+passage.questions.0.answers.4.text:sever in jug
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:22176.0
+passage.questions.0.answers.3.text:geografski severni pol
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:22175.0
+passage.questions.0.answers.2.text:magnetni in geografski
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:22174.0
+passage.questions.0.answers.1.text:magnetni severni pol, geografski severni pol.
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:22173
+passage.questions.0.answers.0.text:Magnetni severni pol
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22172
+idx:363

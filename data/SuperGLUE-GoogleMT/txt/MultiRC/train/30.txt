@@ -1,0 +1,155 @@
+version:1.1
+passage.text:(CNN) - Ženske, ki želijo splav v Teksasu, si bodo morale ogledati sliko zarodka ali ploda in slišati opis njegovega razvoja, preden začnejo postopek po zakonu, ki začne veljati 1. septembra. Predlog zakona je v Teksasu sprožil nekaj polemik , vendar je zlahka prešel skozi državno hišo in senat, ki sta oba pod nadzorom republikancev. V četrtek ga je podpisal republikanski guverner Rick Perry. Zakon pravi, da morajo ženske vsaj 24 ur pred splavom opraviti sonogram, postopek, ki z ultrazvokom ustvari sliko. Potem mora zdravnik &quot;na laični razumljiv način razumeti ustno razlago rezultatov slik ultrazvoka, vključno z medicinskim opisom dimenzij zarodka ali ploda, prisotnosti srčne aktivnosti in prisotnost zunanjih članov in notranjih organov, &quot;piše v zakonu. Obstaja nekaj izjem, vključno z nosečnostjo, ki je bila posledica spolnega nasilja, incesta ali drugih kršitev zakona. Ženske, ki iščejo splav, so tudi oproščene, če je bilo ugotovljeno, da ima plod nepovratno zdravstveno stanje, ki bo povzročilo invalidnost. &quot;Guverner Perry je z veseljem podpisal to pomembno zakonodajo, ki krepi naša prizadevanja za zaščito življenja z zagotavljanjem, da so Teksašani v celoti obveščeni, ko razmišljajo o tako pomembni odločitvi,&quot; je dejala njegova namestnica tiskovna sekretarka Lucy Nashed. Kritiki menijo, da je novi zakon nepotreben. &quot;Tisto, na kar se nihče ne osredotoča, je, da je to pooblastilo za ponižanje žensk, ki si želijo splava,&quot; je dejala Yvonne Gutierrez, podpredsednica za javne zadeve pri načrtovanem skrbništvu za starše iz južnega Teksasa. Teksas že zahteva 24-urno obdobje privolitve, novi zakon pa bo tistim, ki iščejo splav, preprosto dodal čustvene in finančne stroške, je dejala.
+passage.questions.9.question:Kaj je v četrtek podpisal zakon republikanski guverner Rick Perry?
+passage.questions.9.idx:352.0
+passage.questions.9.answers.3.text:Predlog zakona, ki zahteva, da si ženske, ki iščejo splav, ogledajo sliko zarodka in slišijo opis njegovega razvoja
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1896.0
+passage.questions.9.answers.2.text:Zakon o urgenci
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1895.0
+passage.questions.9.answers.1.text:Zakon o splavu
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:1894.0
+passage.questions.9.answers.0.text:Izpis pravic
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1893.0
+passage.questions.8.question:Kateri pogoji omogočajo, da ženske, ki iščejo splav, ne opravijo tega postopka?
+passage.questions.8.idx:351.0
+passage.questions.8.answers.4.text:Ženske, ki postopka ne morejo plačati, bodo oproščene
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:1892.0
+passage.questions.8.answers.3.text:Če je bilo ugotovljeno, da ima plod nepovratno zdravstveno stanje, ki bo povzročilo invalidnost ali posledica spolnega nasilja, incesta ali drugih kršitev zakona
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1891.0
+passage.questions.8.answers.2.text:Nosečnosti, ki so posledica spolnega nasilja, incesta ali drugih kršitev zakona
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:1890.0
+passage.questions.8.answers.1.text:Če bi to ogrozilo življenje matere in otroka
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1889.0
+passage.questions.8.answers.0.text:Nosečnosti, ki so posledica spolnega nasilja, incesta ali drugih kršitev zakona, so izvzete
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:1888.0
+passage.questions.7.question:Katere države je guverner Rick Perry?
+passage.questions.7.idx:350.0
+passage.questions.7.answers.2.text:Oklahoma
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1887.0
+passage.questions.7.answers.1.text:Nebraska
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1886.0
+passage.questions.7.answers.0.text:Teksas
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1885.0
+passage.questions.6.question:Katera druga izjema je poleg spolnega nasilja, incesta ali drugih kršitev zakona?
+passage.questions.6.idx:349.0
+passage.questions.6.answers.4.text:Morebitne druge kršitve zakona
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:1884.0
+passage.questions.6.answers.3.text:Če je bilo ugotovljeno, da ima plod nepovratno zdravstveno stanje, ki bo povzročilo invalidnost
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:1883.0
+passage.questions.6.answers.2.text:Ugotovljeno je bilo, da ima plod nepopravljivo zdravstveno stanje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:1882.0
+passage.questions.6.answers.1.text:Zdravje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1881.0
+passage.questions.6.answers.0.text:Ženske, ki se odločijo za splav
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1880.0
+passage.questions.5.question:Zakaj kritiki menijo, da je zakon nepotreben?
+passage.questions.5.idx:348.0
+passage.questions.5.answers.4.text:Pravijo, da Teksas že zahteva obdobje 24-urnega soglasja
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:1879.0
+passage.questions.5.answers.3.text:Ženske, ki se bodo splavile, bodo odšle v drugo državo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1878.0
+passage.questions.5.answers.2.text:Teksas že zahteva 24-urno obdobje privolitve, novi zakon pa bo tistim, ki iščejo splav, preprosto dodal čustvene in finančne stroške
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1877.0
+passage.questions.5.answers.1.text:To ni ločitev cerkve od države
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1876.0
+passage.questions.5.answers.0.text:Trdili bi, da že obstaja zakon o 24-urnem soglasju
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:1875.0
+passage.questions.4.question:Kateri test morajo opraviti ženske 34 ur pred izvedbo splava, kjer mora zdravnik ustno obrazložiti rezultate &quot;na način, ki je laiku razumljiv&quot;?
+passage.questions.4.idx:347.0
+passage.questions.4.answers.2.text:Krvni test
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1874.0
+passage.questions.4.answers.1.text:Sonogram
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1873.0
+passage.questions.4.answers.0.text:Monogram
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1872.0
+passage.questions.3.question:Katera pravila že veljajo, zaradi katerih je ta zakon v očeh kritikov nepotreben?
+passage.questions.3.idx:346.0
+passage.questions.3.answers.4.text:24-urno obdobje privolitve
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:1871.0
+passage.questions.3.answers.3.text:Ločitev cerkve od države
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1870.0
+passage.questions.3.answers.2.text:Nosečnosti, ki so posledica spolnega nasilja, incesta ali drugih kršitev zakona
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1869.0
+passage.questions.3.answers.1.text:Teksas že zahteva obdobje 24-urnega soglasja. Kritiki pravijo, da bo novi zakon tistim, ki iščejo splav, preprosto dodal čustvene in finančne stroške
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1868.0
+passage.questions.3.answers.0.text:3-dnevna čakalna doba
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1867.0
+passage.questions.2.question:Kdo je ta zakon, ki je v Teksasu sprožil nekaj polemik, v četrtek podpisal pod zakon?
+passage.questions.2.idx:345.0
+passage.questions.2.answers.4.text:Republikanski guverner Rick Perry
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:1866.0
+passage.questions.2.answers.3.text:Guverner Rick Perry
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:1865.0
+passage.questions.2.answers.2.text:Guverner Ryan Perry
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1864.0
+passage.questions.2.answers.1.text:V četrtek ga je podpisal republikanski guverner Rick Perry
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:1863.0
+passage.questions.2.answers.0.text:Senat ga je podpisal v zakon
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1862.0
+passage.questions.1.question:Poimenujte kritika novega zakona
+passage.questions.1.idx:344.0
+passage.questions.1.answers.3.text:Yvonne Gutierrez, podpredsednica za javne zadeve pri Trustu načrtovanega starševstva v Južnem Teksasu
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1861.0
+passage.questions.1.answers.2.text:Predsednik
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1860.0
+passage.questions.1.answers.1.text:Lucy Nashed
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:1859.0
+passage.questions.1.answers.0.text:Yvonne Gutierrez
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:1858.0
+passage.questions.0.question:Kateri zakon, ki vpliva na 1. september, je zlahka prešel skozi teksaško hišo in senat?
+passage.questions.0.idx:343
+passage.questions.0.answers.4.text:Ženske, ki iščejo splav v zvezni državi Teksas, morajo opraviti sonogram, pogledati sliko in zdravnik mora ženskam razložiti, kaj prikazuje sonogram
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:1857.0
+passage.questions.0.answers.3.text:Omen, ki išče splav v Teksasu, si bo moral pred postopkom ogledati sliko zarodka ali ploda in slišati opis njegovega razvoja.
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1856.0
+passage.questions.0.answers.2.text:Ženske, ki iščejo splav v Teksasu, si bodo morale pred postopkom ogledati sliko zarodka ali ploda in slišati opis njegovega razvoja v skladu z zakonom, ki začne veljati 1. septembra.
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1855.0
+passage.questions.0.answers.1.text:Ženske, ki iščejo splav v zvezni državi Teksas, se morajo pogovoriti z zdravnikom in sodnim uradnikom
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1854
+passage.questions.0.answers.0.text:Zakon, ki zahteva, da se ženske udeležijo pouka pred splavom
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1853
+idx:30

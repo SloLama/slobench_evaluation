@@ -1,0 +1,401 @@
+idx,choice1,choice2,premise,question,label
+0,Sonce je vzhajalo.,Trava je bila pokošena.,Moje telo je metalo senco na travo.,cause,0
+1,"Ženska je vedela, da ima njena prijateljica težko obdobje.","Ženski se je zdelo, da njena prijateljica izkorišča njeno prijaznost.",Ženska je tolerirala prijateljičino naporno vedenje.,cause,0
+2,Kavarna se je znova odprla na novi lokaciji.,Hoteli sta pokramljati.,Dobili sta se na kavi.,cause,1
+3,Napovedane so bile visoke temperature.,Nameravala je teči ob plaži.,Tekačica je nosila kratke hlače.,cause,0
+4,Imeli so zabavo presenečenja.,Imeli so rojstnodnevno zabavo.,Povabljenci so se skrili za kavč.,cause,0
+5,Uporabil je negativne oglase.,Nihče ni glasoval zanj.,Politik je izgubil volitve.,cause,1
+6,Pokrpal sem srajco.,Pobelil sem srajco.,Odstranil sem madež s srajce.,cause,1
+7,Pozdravil je blagajničarja.,Uporabil je kupon.,Dobil je popust na svoj nakup.,cause,1
+8,Pacient je tožil zdravnika zaradi malomarnosti.,Pacient je zdravniku razkril zaupne podatke.,Zdravnik je napačno diagnosticiral pacienta.,effect,0
+9,Prodajalec je premalo zaračunal stranki.,Prodajalec je bil nesramen do stranke.,Stranka se je pritožila vodji trgovine.,cause,1
+10,Pipa je puščala.,Pipa je bila zaprta.,Popravila je svojo pipo.,cause,0
+11,Njena hčerka je prišla počistit hišo.,"Njena hčerja se je preselila k njej, da bi skrbela zanjo.",Starko je zadela kap.,effect,1
+12,Ljudje so se drsali na ribniku.,Ljudje so pripeljali čolne do ribnika.,Ribnik je zmrznil čez zimo.,effect,0
+13,Poslali so jo nazaj v zapor.,Ukradla je denar iz cerkve.,Prestopnica je kršila pogojni izpust.,effect,0
+14,Prijatelj se je zbudil.,Prijatelj je smrčal.,Spečega prijatelja sem polil z vodo.,effect,0
+15,Prijatelj ji je za majico vrgel ledeno kocko.,Prijatelj jo je potrepljal po hrbtu.,Dekle je zajelo sapo.,cause,0
+16,Nanjo sem polil belilo.,Dal sem jo v sušilni stroj.,Srajca se je skrčila.,cause,1
+17,Z neba so začele padati snežinke.,Na nebu se je prikazala luna.,Zunaj se je stemnilo.,effect,1
+18,Klicatelj se je poslovil od mene.,Klicatelj se mi je predstavil.,Odložil sem telefon.,cause,0
+19,Loščila je prstan.,Prstan je padel v odtok.,Prstan ji je zdrsnil s prsta med tuširanjem.,effect,1
+20,Zmagala je na tekmovanju iz črkovanja.,Spoznala je novega prijatelja.,Deklica je dobila nagrado.,cause,0
+21,Odprl ji je vrata.,"Vprašal jo je, če ima rada suši.",Njen zmenek je hotel izpasti kot kavalir.,effect,0
+22,Zgradili so kanal.,Prišla je poplava.,Kmetijske površine je bilo treba zalivati.,effect,0
+23,"Prepričana je bila, da ima gripo.","Skrbelo jo je, da bo dobila gripo.",Gostiteljica je odpovedala zabavo.,cause,0
+24,Privlačil jo je.,Odbijal jo je.,Dala mu je svojo telefonsko številko.,cause,0
+25,Odprla je padalo.,Skočila je iz letala.,Padalka je varno pristala na tleh.,cause,0
+26,Mama jo je dala spat.,Mama ji je spletla lase v kitke.,Malčica je postala sitna.,effect,0
+27,Ni se izpostavljal bolezni.,Bil je cepljen proti bolezni.,Otrok je postal imun na bolezen.,cause,1
+28,Sok se je spremenil v vino.,Sok je izpuhtel.,Grozdni sok je fermentiral.,effect,0
+29,Prijatelji so se strinjali.,Prijatelji so dlakocepili.,Debata med prijatelji se je vlekla v nedogled.,cause,1
+30,Bila je nervozna.,Bila je dobre volje.,Brundala je.,cause,1
+31,Nosil je čepico.,Pustil si je brado.,Sovražil je svojo novo frizuro.,effect,0
+32,Ubežnik je padel na tla.,Ubežnik je spustil pištolo.,Policisti so uperili orožje v ubežnika.,effect,1
+33,Sestra je preverila njegove reflekse.,Sestra mu je dala intravenozno kanilo.,Pacient je bil dehidriran.,effect,1
+34,Sestavila je sestavljanko.,Razdrla je sestavljanko.,Dekle je našlo manjkajoči košček sestavljanke.,effect,0
+35,Hotel je izklopiti budilko.,Hotel je zlikati hlače pred službo.,V naglici je skočil iz postelje.,cause,0
+36,Naredil sem kopije papirjev.,Uredil sem jih po abecedi.,Papirji so bili neurejeni.,effect,1
+37,Kupila je jahto.,Pridružila se je cerkvi.,Zadela je na loteriji.,effect,0
+38,Nit se je ovila okrog šivanke.,Nit je šla skozi blago.,Šivilja je s šivanko predrla blago.,effect,1
+39,"Odločila se je, da bo tožila svojega delodajalca.","Odločila se je, da bo kandidirala na volitvah.",Najela je odvetnika.,cause,0
+40,Stanodajalec je odklenil vrata.,Stanodajalec je popravil vrata.,Najemnik je izgubil ključe od stanovanja.,effect,0
+41,Pokril sem si ušesa.,Začel sem prepevati.,Na radiu se je zavrtela moja najljubša pesem.,effect,1
+42,Kandidat ni uspešno opravil preverjanja ozadja.,Kandidat je imel delovne izkušnje za delovno mesto.,"Vodja se je odločil, da kandidata ne bo zaposlil.",cause,0
+43,Oslepel je.,Nadel si je očala.,Imel je vnetje oči.,effect,0
+44,Selila se je čez zimo.,Poškodovala si je krilo.,Ptica ni mogla leteti.,cause,1
+45,Videla je črno mačko.,Videla je zvezdni utrinek.,Dekle si je nekaj zaželelo.,cause,1
+46,Zavila se je v brisačo.,Nalila si je limonado.,"Tresla se je, ko je prišla ven iz bazena.",effect,0
+47,Pacient je krvavel.,Pacient je postal napet.,Sestra je pripravila injekcijo.,effect,1
+48,Bil je svež.,Bil je suh.,Vrgel je stran kruh.,cause,1
+49,Obmetavali so se z blazinami.,Skakali so po postelji.,Otroci so prevrnili luč.,cause,0
+50,Bil sem žejen.,Bilo mi je slabo.,Pil sem iz pitnika.,cause,0
+51,Okrog posestva so si zgradili ograjo.,Na vrtu so pripravili piknik.,Niso imeli radi svojih glasnih sosedov.,effect,0
+52,Fitnes se je zaprl.,Njene mišice so bile utrujene.,Bodibilderka je dvigala uteži.,effect,1
+53,Sestavine so se stopile.,Sestavine so se zmešale.,Kuhar je premešal sestavine v posodi.,effect,1
+54,Posel so razglasili za neveljaven.,Posel je postal uraden.,Podpisal je dokument.,effect,1
+55,Pištola je odskočila.,Pištola se je sprožila.,Policist je spustil pištolo.,effect,1
+56,Darovala je kri.,Napisala je pesem.,"Čutila se je dolžno pomagati ljudem, ki potrebujejo pomoč.",effect,0
+57,Prenovila je kuhinjo.,Posvojila je mačko.,Počutila se je osamljeno.,effect,1
+58,Les je postal gladek.,Les je postal lepljiv.,Les sem podrgnil z brusilnim papirjem.,effect,0
+59,Skupina je podpisovala avtograme.,Skupina se je vrnila na oder.,Množica je skupini namenila stoječe ovacije.,effect,1
+60,Napadli so ga izza hrbta.,Dobil je kazen za smetenje.,Prazno pločevinko je odvrgel na tla.,effect,1
+61,Pozabil sem jesti zajtrk.,Bil sem sit od zajtrka.,V želodcu mi je krulilo.,cause,0
+62,Čoln je naplavilo na obalo.,Čoln so rešili.,Iz čolna so izstrelili svetilno raketo.,effect,1
+63,Vstopil je v hišo.,Zrahljal si je kravato.,Slekel si je plašč.,cause,0
+64,Pes je grizel kost.,Pes si je poškodoval šapo.,Družina je peljala psa k veterinarju.,cause,1
+65,Pes je skočil.,Pes se je popraskal po kožuhu.,Psa je mamila s piškotom.,effect,0
+66,Prijatelj mi je pojasnil pravila.,Prijatelj se je zmotil pri pravilih.,Naučil sem se igrati družabno igro.,cause,0
+67,Hotel se je sprostiti.,Bil je zadovoljen.,Odpotoval je čez vikend.,cause,0
+68,Lastnik je pomagal strankam.,Trgovino so prenavljali.,Trgovina je bila zaprta.,cause,1
+69,Postaja je predvajala rock glasbo.,Radio je šumel.,Deček je lovil postajo.,cause,1
+70,Bomba je eksplodirala.,Bomba je bila onesposobljena.,Terorist je sprožil bombo.,effect,0
+71,Policisti so poklicali okrepitve.,Osumljenec se je upiral aretaciji.,Policisti so mu nataknili lisice.,cause,1
+72,Žrtev se ni mogla spomniti podrobnosti kaznivega dejanja.,Imena žrtve niso javni razkrili.,"Oblasti so se zavezale, da bodo zaščitile identiteto žrtve kaznivega dejanja.",effect,1
+73,Kupil jih je na razprodaji.,Shujšal je.,Oblačila so visela z njega.,cause,1
+74,"Vzel sem si več časa, da se oblečem.",Ura ni kazala prav.,Ura je nehala teči.,effect,1
+75,Stopil je iz avta.,Stopil je proti stavbi.,Zaprl je dežnik.,cause,1
+76,"Družina ga je spodbujala, naj neha kaditi.",Bil je odvisen od nikotina.,Močno si je želel cigarete.,cause,1
+77,Pes je skočil nanj.,Pes je pritekel k hrani.,Na tla mu je padla hrana.,effect,1
+78,Razširila je govorice o prijateljici.,Deklica je prijateljici zaupala skrivnost.,Deklica je bila jezna na prijateljico.,effect,0
+79,Policija je opustila primer.,Ubežnik je bil na begu.,Ubežnik se je skrival pred policijo.,effect,1
+80,Tekočina v steklenici je zmrznila.,Tekočina v steklenici se je razlila.,Prevrnil sem steklenico.,effect,1
+81,Bila je iz bogate družine.,Priselila se je iz druge države.,Govorila je s tujim naglasom.,cause,1
+82,Pojedel je feferon.,Upihnil je svečo.,Pekla so ga usta.,cause,0
+83,Iztrgal sem naslednjo stran.,Obrnil sem na naslednjo stran.,Prebral sem stran knjige.,effect,1
+84,Veliko miz je bilo praznih.,Restavracija je bila polna.,Strežba v restavraciji je bila počasna.,cause,1
+85,Poklical sem številko za nujne primere.,Ustavil sem taksi.,"Videl sem, kako so oropali žensko na ulici.",effect,0
+86,Tekel sem na tekalni stezi.,Jedel sem rojstnodnevno torto.,Bolel me je trebuh.,cause,1
+87,Nehal sem jesti.,Preskočil sem večerjo.,Krožnik sem odložil v pomivalno korito.,cause,0
+88,Prebral jo je do konca.,Dala mu je misliti.,Zaprl je knjigo.,cause,0
+89,Dedek je bil gluh.,Dedek je bil slep.,Deček je dedku na glas bral roman.,cause,1
+90,Obul sem si čevlje.,Stresel sem nogo.,Noga mi je zaspala.,effect,1
+91,Fotograf je otroka hitro slikal.,Fotograf je hitro spremenil otrokovo pozo.,Fotograf je nasmejal otroka.,effect,0
+92,Steklo je bilo motno.,Senčila so bila odprta.,Okno je bilo neprozorno.,cause,0
+93,Ploščice so bile mokre.,Ploščice so bile razpokane.,Spodrsnilo mi je na tleh.,cause,0
+94,Iz strnišča mu je zrasla brada.,Njegovo strnišče je izginilo.,Z britvico je šel čez brado.,effect,1
+95,Moža so odpustili.,Dobila je dodatek pri plači.,Družino je peljala na počitnice.,cause,1
+96,Vzela je uspavalne tablete.,Njen mož je smrčal.,Zbudila se je.,cause,1
+97,"Spomnila se je, da mora vzeti zdravilo.",Spomnila se je na otroštvo.,Zavohala je prijeten vonj.,effect,1
+98,Bila je gneča.,Ura je bila 3 zjutraj.,Bar se je zaprl.,cause,1
+99,Parkiral je.,Prehitro je vozil.,Voznika je ustavila policija.,cause,1
+100,"Ugotovila je, kateri učenci manjkajo.",Učence je izprašala.,Učiteljica je preverila prisotnost.,effect,0
+101,Ustavilo se je.,Nihalo je sem in tja.,Zanihal sem nihalo.,effect,1
+102,Kup je segal dečku čez glavo.,Kocke so se razletele po preprogi.,Otrok je brcnil kup kock.,effect,1
+103,Zanesel se je na starše.,Starši so ga zlorabljali.,Najstnik je pobegnil od doma.,cause,1
+104,Izpraševalec je zastavljal težka vprašanja.,Dobro sem predvidel izpraševalčeva vprašanja.,Zamočil sem intervju.,cause,0
+105,Uporabniki so poročali o nevarnih stranskih učinkih.,Uporabnikom so obnovili recepte.,Farmacevtsko podjetje je odpoklicalo zdravilo.,cause,0
+106,"Ugotovil je, da je nekaj pozabil.","Ugotovil je, da je zgoden.",Pogledal je na uro.,effect,1
+107,Po tleh sem polil sok.,Tla so bila trajno zamazana.,Tla sem narahlo pobrisal s papirnato brisačo.,cause,0
+108,Gost je bil sam.,Gost je bil pijan.,Natakar ni hotel postreči gostu.,cause,1
+109,Sledil sem profesorju.,Profesorju sem zastavljal vprašanja.,Profesorjevo predavanje me je zmedlo.,effect,1
+110,Šole so jo izločile iz knjižničnega gradiva.,"Učitelji so zahtevali, da jo učenci preberejo.",Knjiga je bila razglašena kot neprimerna za otroke.,effect,0
+111,Usmilila se ga je.,Šalila se je z njim.,Prosil je za odpuščanje.,effect,0
+112,Paket je vzbudil mojo radovednost.,Paket sem odnesel na pošto.,Po pošti sem prejel paket.,effect,0
+113,Val jo je ponesel do obale.,Z desko je zaplavala v morje.,Deskarka je ujela val.,effect,0
+114,Govorka je čestitala nasprotniku.,Govorka je zmagala v debati.,Govorka je razorožila svojega nasprotnika v debati.,effect,1
+115,Našel sem službo z višjo plačo.,Moj sin se je rodil.,Preselil sem se v drugo mesto.,cause,0
+116,Ob vprašanju sem se počutil nelagodno.,Hotel sem biti iskren.,Nisem hotel naravnost odgovoriti.,cause,0
+117,Odgovarjal je učitelju.,Učitelj je ocenil njegovo domačo nalogo.,Učenec je moral ostati v šoli po pouku.,cause,0
+118,Nameraval jo je povabiti na zmenek.,Imel je mrzle in potne dlani.,Fantu so se tresle roke.,cause,0
+119,Igra se je končala z izenačenjem.,Igralec je zadel.,Navijači na stadionu so vzklikali.,cause,1
+120,Njeno kolo je sunkovito zavilo.,Njeno kolo je pospešilo.,Dekle se je s kolesom spustilo po hribu.,effect,1
+121,Postavil sem se mu po robu.,Nasmehnil sem se mu.,Moški se je vrinil pred mano v dolgi vrsti.,effect,0
+122,Vlak je vozil skozi tunel.,Vlak je iztiril.,V vlaku je postalo temno.,cause,0
+123,Bil je fasciniran.,Zgrudil se je.,Motril je sliko.,effect,0
+124,Pojedla je ribo.,Zaznala je plenilca.,Želva se je skrila v oklep.,cause,1
+125,Oblačila so bila razcapana.,Prerasla je oblačila.,Dekle je prepustilo svoja oblačila mlajši sestri.,cause,1
+126,Osumljenec je bil oproščen.,Osumljenec je bil obsojen.,Več prič kaznivemu dejanju je pričalo zoper osumljenca.,effect,1
+127,Najmlajši otrok je začel hoditi v malo šolo.,Naredila sta načrte za praznovanje obletnice.,Starša sta otroke pustila z varuško.,cause,1
+128,Voznik je celo pot govoril.,Voznik je narobe zavil.,Pot je trajala dolgo.,cause,1
+129,Potrošniki so prepoznali izdelek.,Izdelek je postal zastarel.,Izdelek so intenzivno oglaševali.,effect,0
+130,Milo se je penilo.,Moje roke so odrevenele.,Roke sem si drgnil z milom.,effect,0
+131,Laso se je oprijel konja.,Konj je odpeketal v skedenj.,Kavbojka je vrgla laso proti konju.,effect,0
+132,Oddahnila si je.,Opravičila se je.,Skupina je spregledala njeno napako.,effect,0
+133,Poiskala je razlago izraza v slovarju.,Učbenik je zalučala čez sobo.,Dekle je naletelo na neznano besedo v učbeniku.,effect,0
+134,Družina mu je ponudila finančno podporo.,Družina je prekinila stike z njim.,Moški je postal invalid.,effect,0
+135,Razstavil sem jo.,Zamenjal sem baterije.,Svetilka je nehala delati.,effect,1
+136,Pes je smrdel.,Po gozdovih se je potikal dihur.,Dihur je poškropil psa.,effect,0
+137,Nehalo me je srbeti.,Moja brazgotina je zbledela.,Popraskal sem si kožo.,effect,0
+138,Postala je pozabljiva.,Poslala mi je darilo.,"Babici sem napisal sporočilo, da se ji zahvalim.",cause,1
+139,Lastniki hiše so spali.,Sprožil se je varnostni alarm.,Vlomilec je vlomil v hišo.,effect,1
+140,Vrata so se s treskom zaprla.,Ženska se mi je zahvalila.,"Pridržal sem vrata ženski, ki je vstopala za mano.",effect,1
+141,Dekle je vklopilo ventilator.,Dekle se je naličilo.,Ogledalo v kopalnici se je zameglilo.,effect,0
+142,Moški je segel v žep.,Moški je na dan potegnil orožje.,Varnostnik je skočil na moškega.,cause,1
+143,Avto je obstal.,Avto je zavil.,Voznik je zasukal volan.,effect,1
+144,Bili so v manjšini.,Napadli so mesto.,Vojska je predala bitko.,cause,0
+145,Ladja se je zaletela v pomol.,Ladijske razbitine so potonile v morje.,Mornarica je bombardirala ladjo.,effect,1
+146,Bila je čista.,Bila je pomečkana.,Zlikal sem si srajco.,cause,1
+147,Izgubila je ravnotežje.,Naredila je nekaj razteznih vaj.,Dekletu se je zvrtelo.,effect,0
+148,Zapeljal je skozi križišče.,Opazil je nasedlo vozilo.,Voznik je ustavil ob robu ceste.,cause,1
+149,Bolnikovi simptomi so izginili.,Bolnika je obiskala družina.,Bolnišnica je poslala bolnika domov.,cause,0
+150,Ni bila cepljena.,Bila je posvojena.,Otrok je dobil smrtno nevarno bolezen.,cause,0
+151,Film se je začel.,Sedla sva.,Poiskala sva prazna sedeža v kinodvorani.,effect,1
+152,Naučili so jo voziti kolo.,"Spodbujali so jo, naj postane umetnica.",Starši so prepoznali hčerino ustvarjalnost.,effect,1
+153,Kozarec je postal topel.,Pokrov se je snel.,Fant je odvil pokrov na kozarcu.,effect,1
+154,Vpisala se je na fakulteto.,Diplomirala je.,Dobila je diplomo.,cause,1
+155,Šel sem gor po stopnicah.,Pretekel sem sedem kilometrov.,Na dušek sem spil vrč vode.,cause,1
+156,Preskočil sem lužo.,Igral sem se v luži.,Naletel sem na lužo na pločniku.,effect,0
+157,Zališal se je požarni alarm.,Zavohala je dim.,Pokrila si je ušesa.,cause,0
+158,Izkopavala je starodavne artefakte.,Brala je o zgodovini najdišča.,Arheologinja je raziskovala najdišče.,effect,0
+159,Povedal je rasistično šalo.,Zabaval je občinstvo.,Občinstvo je izžvižgalo komika.,cause,0
+160,Igralec je dobil kazen.,Igralec je zadel.,Trener je potrepljal igralca.,cause,1
+161,Žoga se je zakotalila po tleh.,Žoga je zadela strop.,Žogo sem vrgel v zrak.,effect,1
+162,Obrisal sem si usta.,Umil sem si zobe.,Iz ust mi je smrdelo po česnu.,effect,1
+163,Vprašal je za pot.,Narisal je zemljevid.,Izgubil se je.,effect,0
+164,Dojenček je podrl kupček.,Mama se je spačila.,Dojenček je povlekel mamo za lase.,effect,1
+165,Zamajal sem se.,Pokleknil sem.,Stal sem na eni nogi.,effect,0
+166,Avto je pospešil.,Vrata avtomobila so se odprla.,Dal sem gas.,effect,0
+167,Nepravilno sem parkiral.,Avto sem vžgal s premostitvenimi kabli.,Odvlekli so mi avto.,cause,0
+168,Njenega pajdaša so prijeli.,Uničila je dokaze.,Storilke kaznivega dejanja niso dobili.,cause,1
+169,Mizo sem obrisal s krpo.,Z mize sem odstranil knjige.,Z mize se je dvignil prah.,cause,0
+170,Motor se je ustavil.,Motor je oddrvel.,Motorist je pritisnil na plin.,effect,1
+171,Čigumi se je prilepil učencu na čevelj.,Učenec je izpljunil žvečilni gumi.,Učitelj je zalotil učenca z žvečilnim gumijem.,effect,1
+172,Gostje so bili ljubeznivi.,Gostje so bili lačni.,Gostitelj je postregel večerjo svojim gostom.,effect,0
+173,Mačka je obtičala na drevesu.,Ptica si je naredila gnezdo na drevesu.,Deček je splezal na drevo.,cause,0
+174,Moški je odnesel stol v svojo pisarno.,Moški je potisnil stol bliže k mizi.,Stol je zaškripal.,cause,1
+175,"Čas je bil, da gredo otroci spat.",Otroci so gledali risanke.,Oče je ugasnil televizijo otrokom.,cause,0
+176,Potopil se je.,Plaval je na mestu.,Zadržal je sapo.,cause,0
+177,Pobegnil sem.,Opravičil sem se mu.,Po nerodnosti sem se zaletel v neznanca.,effect,1
+178,Kapitan je dvignil jadro.,Bil je ujet v orkanu.,Čoln se je prevrnil.,cause,1
+179,Ni hotel govoriti z njo.,Ni je hotel pogledati v oči.,"Mama je sumila, da sin laže.",cause,1
+180,Prijatelji so jo pustili na cedilu.,Pozabila je svojo osebno izkaznico.,Dekletu niso pustili v bar.,cause,1
+181,Komet je letel mimo lune.,Komet je trčil v luno.,Na luni se je ustvaril krater.,cause,1
+182,Zalil sem zemljo.,Semena so pognala.,Semena sem posadil v zemljo.,effect,1
+183,Hotel je ohraniti svojo zasebnost.,"Podpiral je namen, za katerega je daroval.",Dobrotnik je hotel ostati anonimen.,cause,0
+184,Brazgotino je pojasnjevala neznancem.,Brazgotino je skrila z ličili.,Sramovala se je brazgotine na svojem obrazu.,effect,1
+185,"Ugotovil je, da je pacientova roka zlomljena.",Pacientovo roko je dal v mavec.,Zdravnik je slikal pacientovo roko.,effect,0
+186,Iskal je školjke v pesku.,Gradil je gradove iz peska.,Deček je napolnil kanglico s peskom.,cause,1
+187,Z računalnika je izbrisala stare datoteke.,Na računalnik je naložila novo programsko opremo.,Nadgradila je strojno opremo na svojem računalniku.,effect,1
+188,Starši so jo naučili plesati.,Staršli so prišli gledat recital.,Dekle je nastopilo na plesnem recitalu.,effect,1
+189,Mama je dvignila dojenčka.,Dojenček se je priplazil do mame.,Otrok je jokal v posteljici.,effect,0
+190,Začela je hoditi v cerkev.,Začela je potovati po tujini.,Ženska je doživela versko prebujenje.,effect,0
+191,Nepotrebne stvari sem vrgel v smeti.,Zaklenil sem predale.,Predali so bili natrpani.,effect,0
+192,Dobil je vse točke na testu.,"Delal se je, da ga predmet zanima.",Učenec se je bahal pred sošolci s svojo oceno.,cause,0
+193,Šel je na počitniški tabor.,Prepiral se je s sestro.,Deček je bil domotožen.,cause,0
+194,Dekle jo je izstrelilo.,Dekle jo je oblikovalo.,Raketa je poletela v nebo.,cause,0
+195,"Mama mu je rekla, naj šepeta.","Mama mu je rekla, naj govori glasneje.",Deček je zamomljal mami v odgovor.,effect,1
+196,Na območju so zabeležili tornade.,Zadržali so me pri varnostnem pregledu.,Moj let so prestavili.,cause,0
+197,Prižgal sem svečo.,Prismodil sem večerjo.,Sprožil se je požarni alarm.,cause,1
+198,Nanjo sem odtisnil vzorec.,Zlepil sem jo.,Vaza se je razbila.,effect,1
+199,Prijela je za kljuko.,Potolkla je po vratih.,Začutila je električni šok.,cause,0
+200,Poljubila ga je.,Zardel je pred njo.,Na licu je imel šminko.,cause,0
+201,"Čutil sem, da se mi nekdo približuje od zadaj.",Slišal sem hahljanje ljudi v sosednji sobi.,Iz strahu sem nagonsko sem odskočil.,cause,0
+202,Posadil je več različnih semen.,V zemljo je dal gnojilo.,"Vrtnar je hotel, da njegove rastline dobro uspevajo.",effect,1
+203,Voda je bila oporečna.,Cev je zmrznila.,Vodna cev v hiši je počila.,cause,1
+204,Vzel sem pas.,Nadel sem si klobuk.,Pas na hlačah se mi je zrahljal.,effect,0
+205,Njihovi izdelki so dobili pozitivne ocene potrošnikov.,Nekateri njihovi izdelki so bili narejeni z napako.,Podjetje je izgubilo denar.,cause,1
+206,Niso plačali najemnine.,Z najemodajalcem so se dobro razumeli.,Najemniki so bili deložirani.,cause,0
+207,Zamudil je zobodravniški pregled.,Naročil se je na zobodravniški pregled.,Zbudil se je z zobobolom.,effect,1
+208,Njihov najboljši igralec se je poškodoval.,Trener jih je motiviral.,Ekipa je izgubila tekmo.,cause,0
+209,Film je bil neprimeren za otroke.,Film je bil animiran.,Starši so svojim otrokom prepovedali ogled filma.,cause,0
+210,Pošiljatelj je hotel od nje izprositi denar.,Pošiljatelj jo je prosil za odgovor.,Izbrisala je elektronsko sporočilo.,cause,0
+211,Policija jo je izprašala.,Njen alibi se je izkazal za resničnega.,Policija jo je izločila iz seznama osumljencev.,cause,1
+212,Naleteli so na snežni plaz.,Čestitali so drug drugemu.,Plezalci so dosegli vrh gore.,effect,1
+213,Okno je počilo.,Okno se je zameglilo.,Vandali so vrgli kamen v okno.,effect,0
+214,Imela je več rednih strank.,Veliko strank je hotelo svoj denar nazaj.,Vedeževalkina razkritja so bila prepričljiva.,effect,0
+215,Počesala si je lase.,Obrisala si je oči.,Ličila so se ji razmazala.,cause,1
+216,Več napora je vložilo v trženje svojih novih izdelkov.,Svoj sedež je preselilo v predmestje.,Prihodki podjetja so se izravnali.,effect,0
+217,Učitelj je učencu dal dodatne točke pri oceni.,Učitelj je učencu odbil točke od ocene.,Učenčev odgovor na testu je bil nepravilen.,effect,1
+218,Po jedi je odvrgla prtiček.,Prtiček si je pogrnila čez kolena pred jedjo.,Dekle se je hotelo obnašati po bontonu.,effect,1
+219,Policist je zaplenil detektivovo značko.,"Policist je detektivu pustil, da vstopi na kraj zločina.",Detektiv je policistu pokazal svojo značko.,effect,1
+220,"Deklica je pojedla piškote, ki jih je spekla njena mama.",Deklica je utrgala rožo za svojo mamo.,Deklica je hotela osrečiti svojo mamo.,effect,1
+221,Starši so ji vzeli igračo.,Starši so ji dali igračo.,Malčica je začela jokati.,effect,1
+222,Brezizrazno sem ga gledal.,"Ustavil sem se, da bi pokramljal z njim.",Neznanec mi je zavpil nekaj v tujem jeziku.,effect,0
+223,Izogibal se je svojega sovražnika.,Izsiljeval je svojega sovražnika.,Odkril je obremenjujoče dokaze zoper svojega sovražnika.,effect,1
+224,Spustila se je po toboganu.,Plazila se je po toboganu navzgor.,Deklica se je odrinila z vrha tobogana.,effect,0
+225,Bil sem nesrečen.,Bil sem šokiran.,Povesila se mi je čeljust.,cause,1
+226,Starši so jo objeli.,Starši so jo kaznovali.,Deklica ni ubogala svojih staršev.,effect,1
+227,Lastnik ga je peljal v avtopralnico.,Lastnik ga je dal prebarvati.,Avto je bil videti umazan.,effect,0
+228,Prosil sem za vračilo denarja.,Vrnil sem ji denar.,Prijateljica mi je plačala karto.,effect,1
+229,Porota je bila poštena.,To so ji podtaknili.,Ženska je bila po krivem obsojena za kaznivo dejanje.,cause,1
+230,Papir je šel narazen.,Papir se je zmečkal.,Dekle je zarezalo s škarjami v papir.,effect,0
+231,Ni jim zaupala.,Pogrešala jih je.,Obiskala je svojo družino.,cause,1
+232,Začel sem šklepetati z zobmi.,V oči so mi privrele solze.,Bruhnil sem v smeh.,effect,1
+233,Učenci so protestirali proti odločitvi.,Učenci so bili izključeni iz šole.,Ravnatelj šole je uvedel pravila oblačenja.,effect,0
+234,Pihal sem vanj.,Prebodel sem ga.,Balon se je napihnil.,cause,0
+235,Ostal sem tiho.,Povedal sem šalo.,Hotel sem ustvariti bolj sproščeno vzdušje pogovora.,effect,1
+236,Naredila se mu je luknja v nogavici.,Na nogo mu je padlo kladivo.,Zlomil si je prst na nogi.,cause,1
+237,Manipuliral je s prijateljem.,"Priznal je, da je bil netakten.",Zapekla ga je vest.,effect,1
+238,Ravnatelj je suspendiral vpletene učence.,Ravnatelj je odpovedal pouk za tisti dan.,Na šolskem hodniku se je vnel pretep.,effect,0
+239,Leta so ležali tam nedotaknjeni.,Družina je obujala spomine ob fotografijah.,Fotoalbumi so nabirali prah na podstrešju.,cause,0
+240,Vsi v sobi so se pogovarjali.,Ženska je pripovedovala smešno zgodbo.,To je zmotilo najin pogovor.,cause,0
+241,Stroj je delal naprej.,Zmanjkalo mi je detergenta za pranje.,V pralni stroj pralnice sem vtaknil nekaj kovancev.,effect,0
+242,Napovedane so bile nevihte.,Bil je praznični konec tedna.,Družina je prestavila piknik.,cause,0
+243,Bila je napihnjena.,V njej je bila luknja.,Iz napihljive žoge je uhajal zrak.,cause,1
+244,Bilo mi je nelagodno.,Razjezil sem se.,Pogovor v skupini je počasi potonil v tišino.,effect,0
+245,Papirček je zašumel.,Papirček se je raztrgal.,V pesti sem stisnil papirček od bombona.,effect,0
+246,Zaslišal se je zvok.,Tipka se je zataknila.,Pritisnila je na klavirsko tipko.,effect,0
+247,Šla je gledat njegov novi film.,Prosila ga je za avtogram.,Dekle je spoznalo svojega najljubšega igralca.,effect,1
+248,Bilo je oblačno.,Bilo je megleno.,Vozila so se premikala počasi.,cause,1
+249,Lestenec je padel s stropa.,Luči na lestencu so se prižigale in ugašale.,Lestenec je treščil na tla.,cause,0
+250,Opraskala me je.,Pobožal sem jo.,Mačka je predla.,cause,1
+251,Sestra ga je zašpecala.,Igrala sta se slepe miši.,Deček je porinil svojo sestro.,effect,0
+252,Dal si je popraviti obleko.,Dal si je zloščiti čevlje.,Zredil se je.,effect,0
+253,V službo sem prinesel prenosni računalnik.,V službo sem prinesel dežnik.,Na nebu so bili temni oblaki.,effect,1
+254,Letalo je strmoglavilo.,Pilot je naredil napako.,Motor letala je bil pokvarjen.,effect,0
+255,Na semaforju se je prižgala zelena luč.,Bližal se je tuleči rešilec.,Avtomobili so se premaknili na odstavni pas.,cause,1
+256,Milo je bilo spolzko.,Milo je dišalo.,Dečku je zdrsnil iz rok kos mila.,cause,0
+257,Gumb sem prišila nazaj.,Gumb sem prilepila nazaj.,S srajce mi je odpadel gumb.,effect,0
+258,Hotela se je zahvaliti svojim oboževalcem.,"Ni hotela, da bi jo kdo prepoznal.",Zvezdnica je nosila sončna očala.,cause,1
+259,Moja družina je organizirala pogreb.,Moja družina je organizirala obletnico.,Moja babica je umrla.,effect,0
+260,Zvezdnik je policistu ponudil podkupnino.,Zvezdnik je tožil policista.,Policist je ustavil zvezdnika.,effect,0
+261,Zaupal je terapevtu.,Ni se strinjal s terapevtom.,Moški je terapevtu zaupal osebne informacije.,cause,0
+262,Napadalec ga je udaril po glavi.,Napadalec mu je vzel denarnico.,Moški se je onesvestil.,cause,0
+263,Zdel se je zaposlen.,Bil mi je znan.,Stopil sem k njemu.,cause,1
+264,Boril se je za odpravo revščine.,Dvignil je davke.,Voditelj je požel pohvale.,cause,0
+265,Srkal je kavo.,Zahahljal se je.,Prebral je karikaturo v časopisu.,effect,1
+266,Pokrov na nabiralniku se je pokvaril.,Šel sem na počitnice za dva tedna.,Moj nabiralnik je bil nabito poln.,cause,1
+267,Zmečkali smo jih.,Pojedli smo jih.,Banane so dozorele.,effect,1
+268,Testo se je drobilo.,Testo se je sploščilo.,Pek je pritisnil na testo.,effect,1
+269,Lončar je zvil glino v kroglo.,Lončar je dal glino v pečico.,Glina se je strdila.,cause,1
+270,Šel sem v hribe.,Šel sem plavat.,Dobil sem žulje na nogah.,cause,0
+271,Prijateljica ji je poslala voščilnico.,Prijateljica je prekinila stike z njo.,Izdala je svojo prijateljico.,effect,1
+272,Zavohal je njen parfum.,Bil je obrnjen s hrbtom proti njej.,Opazil jo je.,cause,0
+273,Nehala sta se videvati.,Načrtovala sta skupne počitnice.,Sprla se je s fantom.,effect,0
+274,Nasilnež je pobral sošolca.,Nasilnežev sošolec se je spotaknil.,Nasilnež je nastavil nogo sošolcu.,effect,1
+275,Podtaknil je zločin svojemu sovražniku.,Razglasil je premirje s sovražnikom.,Hotel se je maščevati svojemu sovražniku.,effect,0
+276,Nehalo se mi je zehati.,Zadremal sem.,Spil sem skodelico kave.,effect,0
+277,Bila si je blizu s svojo sestro.,Bila je podobna sestri.,Zamenjali so jo za sestro.,cause,1
+278,Preveril je svoje delo.,Pri delu se mu je mudilo.,Zmotil se je pri izračunih.,cause,1
+279,Ležala je ob bazenu.,Vstopila je v savno.,Zameglila so se ji očala.,cause,1
+280,Pogledal je listek s ceno.,"Odločil se je, da ga kupi.",Kupca je zanimala cena izdelka.,effect,0
+281,Tekmovalec je vodil.,Tekmovalec je pritisnil na gumb.,Voditelj oddaje je prosil tekmovalca za odgovor.,cause,1
+282,Prižgal je nočno lučko.,Gledal je grozljivko.,Dečka je bilo strah iti spat.,cause,1
+283,Obiskala je bolnišnico.,Študirala je medicino.,Hotela je biti zdravnica.,effect,1
+284,Posnel jo je.,Ugasnil jo je.,Dečku se je zdela televizijska oddaja dolgočasna.,effect,1
+285,"Svetoval sem ji, naj globoko diha.",Peljal sem jo na urgenco.,Hči je imela alergično reakcijo.,effect,1
+286,Ni hotel nositi srajce.,Prosil je mati za pomoč.,Deček je imel težave z zapenjanjem srajce.,effect,1
+287,Iz žvečilnega gumija sem naredil mehurček.,Žvečilni gumi je izgubil okus.,Izpljunil sem žvečilni gumi.,cause,1
+288,Njegova mama je sliko obesila na steno.,Njegova mama je sliko prodala galeriji.,Deček je naslikal sliko za svojo mamo.,effect,0
+289,Ekipi sta bili vznemirjeni.,Člani ekipe so si segli v roke.,Tekmovanje se je končalo.,effect,1
+290,Bila je vegetarijanka.,Rada je imela hitro hrano.,Dekle je vljudno odklonilo hamburger.,cause,0
+291,Znebil sem se madeža.,Zamazal sem tla.,Zdrgnil sem madež s tal.,effect,0
+292,Spel sem jih s sponkami.,Spravil sem jih na varno.,Dokumenti so vsebovali pomembne informacije.,effect,1
+293,Padlo mi je.,Skuhal sem ga.,Jajce se je razbilo.,cause,0
+294,Prijatelj se je začel dušiti.,Prijatelj je padel.,Dekle je porinilo prijatelja.,effect,1
+295,Gostitelj jih je vrgel ven.,"Gostitelj jih je povabil, naj vstopijo.",Skupina najstnikov je nepovabljena prišla na zabavo.,effect,0
+296,Bil je poten od telovadbe.,Odprl je nov kos mila.,Stuširal se je.,cause,0
+297,Garancija na prenosnem računalniku je potekla.,Baterija na prenosnem računalniku se je izpraznila.,Zaslon na prenosnem računalniku se je stemnil.,cause,1
+298,Po njej je bil posnet film.,Avtor je poniknil v pozabo.,Knjiga je postala velika uspešnica.,effect,0
+299,Prebolel je raka.,Njegovi ženi so diagnosticirali raka.,"Bil je hvaležen, da je živ.",cause,0
+300,Najraje je plačevala z gotovino.,Prejela je mesečni račun.,Napisala je ček energetskemu podjetju.,cause,1
+301,V svojem trenutnem poklicu je veliko zaslužila.,V svojem trenutnem poklicu je bila pod velikim stresom.,Ni hotela zamenjati kariere.,cause,0
+302,Klical jo je.,Zasledoval jo je.,Proti njemu je vložila zahtevo za prepoved približevanja.,cause,1
+303,Plavalci so se dodatno namazali s sončno kremo.,Plavalci so zaplavali nazaj proti obali.,Morski tok je bil nevaren.,effect,1
+304,"Tisti večer ni pila, ker je vozila.",Poznala je točaja.,Odklonila je drugo pivo.,cause,0
+305,Dolgo sem hodil po stopnicah navzgor.,Prebral sem več poglavij knjige.,Bil sem zadihan.,cause,0
+306,Poslali so jo v psihiatrično ustanovo.,Hotela je postati psihiatrinja.,Razglasili so jo za duševno bolno.,effect,0
+307,Pogledala je na uro.,Slekla si je pulover.,Izza oblakov se je pokazalo sonce.,effect,1
+308,"Zavpil je vsakič, ko je igralec izgubil žogo.","Zažvižgal je vsakič, ko je igralec dal gol.",Nogometni trener je po tekmi izgubil glas.,cause,0
+309,Kihnil je.,Zardel je.,Dala mu je kompliment.,effect,1
+310,Zacelila se je.,Nehala je krvaveti.,Pritisnil sem na ureznino na roki.,effect,1
+311,Jemala je antibiotike.,Umivala si je roke.,Imela je vnetje.,effect,0
+312,Stopila je v stik s svojim odvetnikom.,Odpovedala je svoje sestanke.,Dobila je poziv za sodelovanje v poroti.,effect,1
+313,Namestila je klimo v sobi.,Klima v sobi se je pokvarila.,Pahljala se je z roko.,cause,1
+314,Bila je hudo obtolčena.,Bila je hudo okužena.,Zdravniki so amputirali pacientovo nogo.,cause,1
+315,Bilo ji je nerodno.,Ogledalo je bilo zamazano.,Dekle je strmelo vase v ogledalu.,cause,0
+316,Šel je kampirat v gozd.,Zaspal je na kavču.,Popikali so ga komarji.,cause,0
+317,Njen brat ni hotel sprejeti darila.,Njen brat je odvil darilo.,Dala je darilo svojemu bratu.,effect,1
+318,Sestanek so prestavili.,Sestanek se je začel.,Upravnik se je odkašljal.,effect,1
+319,Jedli so lučke.,Bilo jim je vroče.,"Otroci so tekli skozi vodo, ki jo je pršil pršilnik.",cause,1
+320,Iskal je drobiž pod sedeži avtomobila.,Ljudi na cesti je prosil za drobiž.,Rabil je kovance za parkomat.,effect,0
+321,Prodajalec mu ga je prodal.,Pogajal se je s prodajalcem.,"Stranka je menila, da je spominek predrag.",effect,1
+322,Odkrila je novo vrsto.,Postala je stalna profesorica na univerzi.,Znanstvenica je dobila priznanje.,cause,0
+323,Pešec je prečkal cesto.,Pešeč je čakal na pločniku.,Avto se je ustavil na prehodu za pešce.,effect,0
+324,Brat ga je žgečkal.,Brat ga je brcnil.,Deček se je nekontrolirano hihital.,cause,0
+325,Prijel sem se za ograjo.,Ograja se je odtrgala od stene.,Na stopnicah so se mi zašibila kolena.,effect,0
+326,Noč je bila jasna.,Bilo je pozno.,Šel sem spat.,cause,1
+327,Odložil sem jo pred bolnišnico.,Prinesel sem ji voščilnico in rože.,Prijateljica je okrevala po operaciji.,effect,1
+328,Ljudje so zapuščali zabavo.,Ljudje so začeli plesati.,DJ je začel vrteti glasbo.,effect,1
+329,Varnostna kamera ni bila izostrena.,Opazil je sumljivo dogajanje.,Varnostnik je zavrtel posnetek.,cause,1
+330,Bil sem lačen.,Bila je sobota.,"Poležaval sem v postelji, ko sem se zbudil.",cause,1
+331,Pretegnil si je hrbet.,Opraskal si je hrbet.,Dvignil je težko škatlo.,effect,0
+332,V njej je bilo veliko krame.,Pustila jo je brez nadzora.,Njena torbica je izginila.,cause,1
+333,Imela je alergično reakcijo.,Imela je prometno nesrečo.,Izgubila je spomin.,cause,1
+334,Šel sem na banko.,Kupil sem denarnico.,Rabim gotovino.,effect,0
+335,Bik je vrgel jezdeca.,Bik je tekel za jezdecem.,Jezdec je padel na tla.,cause,0
+336,Dvigal je uteži.,Igral je računalniške igrice.,Fant je hotel dobiti mišice.,effect,0
+337,Potrdila je svojo teorijo.,Ponaredila je podatke.,Znanstvenica je izvedla poskus.,effect,0
+338,Bilo je pasterizirano.,Hranil sem ga v hladilniku.,Mleko je ostalo hladno.,cause,1
+339,Starša sta rožljala z ropotuljo pred dojenčkom.,Starša sta izbrala ime za dojenčka.,Sitni dojenček se je umiril.,cause,0
+340,Juha se je ohladila.,Juha se je zgostila.,V vročo juho sem dal kocke ledu.,effect,0
+341,Prijatelj je pozabil prinesti svoje kosilo.,Prijatelj je sedel poleg nje pri kosilu.,Dekle je delilo svoje kosilo s prijateljem.,cause,0
+342,Prijeli so osumljenca.,Žrtev si je opomogla.,Policija je zaključila preiskavo.,cause,0
+343,Šel sem na sprehod.,Brskal sem po spletu.,Dež je ponehal.,effect,0
+344,Popihal sem ga.,Zlil sem ga stran.,Čaj je bil zelo vroč.,effect,0
+345,Bila je ponarejena.,Bila je stara.,Fotografija je zbledela.,cause,1
+346,Nasilnež se je posmehoval dečku.,Nasilnež je udaril dečka.,Deček je dobil podpluto oko.,cause,1
+347,Našel sem svoj telefon.,Šel sem po isti poti nazaj.,Izgubil sem denarnico.,effect,1
+348,Nabil je pištolo.,Pomeril je v jelena.,Lovcu je zmanjkalo streliva.,effect,0
+349,Ladje so plule po oceanu.,V ocean se je razlila nafta.,Število morskih organizmov se je zmanjšalo.,cause,1
+350,Ledena kocka se mi je prilepila na prste.,Ledena kocka je izginila.,Ledeno kocko sem podržal pod toplo vodo.,effect,1
+351,Denarnico je pustila doma.,Izložba je pritegnila njen pogled.,Stranka je vstopila v butik.,cause,1
+352,Jed se mu je shladila.,Jed je bila pekoča.,Ob jedi je pil vodo.,cause,1
+353,Bila je kužna.,Bila je pijana.,Izogibala se je javnim prostorom.,cause,0
+354,Z roko sem si pokril nos.,Nataknil sem si gumijaste rokavice.,V sobi je bil odvraten smrad.,effect,0
+355,Družina je stopila v stik z njo.,Umrl je član njene družine.,Delavke ni bilo v službo.,cause,1
+356,Sponka je padla z magneta.,Sponka se je držala magneta.,Magnet je privlačil sponko.,effect,1
+357,Iz tal je pogledal plevel.,Plevel je tvoril semena.,Vrtnar je pulil plevel.,effect,0
+358,Dostava pice je prispela.,Pica se je shladila.,Naročili smo pico.,effect,0
+359,Zelo je zrasel.,Pridružil se je košarkarski ekipi.,Najstnik je bil višji od očeta.,cause,0
+360,Poseg je bil drag.,Specialisti so priporočali poseg.,Pacient je šel na tvegan poseg.,cause,1
+361,Preskočil je ograjo.,Rokav se je raztrgal.,Njegov rokav se je ujel na ograji.,effect,1
+362,Pustil je sporočilo.,Imel je otroke.,Preiskovalci so njegovo smrt razglasili za samomor.,cause,0
+363,Naredil sem varnostno kopijo datotek.,Naložil sem si virus.,Računalnik se je zrušil.,cause,1
+364,Izpadel ji je zob.,Pogoltnila je žvečilni gumi.,Usta so jo bolela.,cause,0
+365,Dvignil sem senčila.,Opral sem okna.,V sobi je bilo temno.,effect,0
+366,Naučila se je hoditi.,Naveličal se jo je nositi.,Oče je dal hčerko v voziček.,cause,1
+367,Vohun je na sovražnikov telefon namestil prisluškovalno napravo.,Vohuna je najela vlada.,Vohun je odkril sovražnikovo lokacijo.,cause,0
+368,Otrok je risal po mizi.,Otrok je potegnil prt.,Kozarci na mizi so se polili.,cause,1
+369,Čajnik se je ohladil.,Čajnik je zapiskal.,Voda v čajniku je zavrela.,effect,1
+370,Mestni proračun se je zmanjšal.,Župan je izpolnil svoje obljube.,Župan mesta je bil ponovno izvoljen.,cause,1
+371,Želela si je pozornosti.,Bila je sramežljiva.,Pretiravala je glede podrobnosti zgodbe.,cause,0
+372,Upokojila se je.,Šla je skakat s padalom.,Doživljala je krizo srednjih let.,effect,1
+373,Hitro jo je prebolel.,Ni hotel govoriti o njej.,Bil je v zanikanju glede tragedije.,effect,1
+374,Žena ga je kritizirala.,Umrla mu je mama.,Žaloval je.,cause,1
+375,Posvojila je zapuščenega psa.,Ugriznil jo je pes.,Imela je strah pred psi.,cause,1
+376,Udeležil sem se tečaja joge.,Kupil sem sadje in zelenjavo.,"Obljubil sem si, da bom začel jesti zdravo.",effect,1
+377,Doživel je čustveno travmo.,Utrpel je možganske poškodbe.,Pacient je padel v komo.,cause,1
+378,Pogovor je potihnil.,Izbruhnila je debata.,Pogovor ob prijateljski večerji je nanesel na politiko.,effect,1
+379,Pomahala je.,Pobegnila je.,Zagledala je prijateljico na drugi strani sobe.,cause,0
+380,Otroke je poslala v dnevno varstvo.,Odrekla se je skrbništvu nad otroci.,Mama je potrebovala pomoč pri varstvu otrok.,effect,0
+381,Drug avtomobil je zapeljal na njen pas.,Na semaforju je zavila desno.,Voznica je zahupala.,cause,0
+382,Z varčevalnega računa je dvignil denar.,Odpovedal se je nepotrebnim nakupom.,Hotel je prihraniti nekaj denarja.,effect,1
+383,Po tleh so bili kosi stekla.,Barva na stenah je bila mokra.,Obul sem čevlje.,cause,0
+384,Knjižničarja sem prosil za pomoč.,Knjiga je bila izposojena.,Knjižničar je našel knjigo v enem izmed kupov.,cause,0
+385,Počepnila je.,Prijela ga je za roko.,Mati si je bila iz oči v oči s sinom.,cause,0
+386,Iskal sem novo stanovanje.,Selil sem se iz stanovanja.,Spakiral sem svoje stvari.,cause,1
+387,Deček se je zgledoval po svojem starejšem bratu.,Deček se je ravsal s svojim starejšim bratom.,Deček je oponašal svojega starejšega brata.,cause,0
+388,Pobegnila je od doma.,Spoštovala je pravila svojih staršev.,Dekle si je želelo odobravanja svojih staršev.,effect,1
+389,Motorist je umrl.,Most se je zrušil.,Tovornjak se je zaletel v motorista na mostu.,effect,0
+390,Njihova prodaja je padala.,Podaljšali so najemno pogodbo.,Trgovina se je zaprla.,cause,0
+391,Osvojila je zlato medaljo.,Njena ekipa je izgubila srečanje.,Plavalka je zmagala na tekmovanju.,effect,0
+392,Tovarne so povečale proizvodnjo.,Tovarne so se zaprle.,Onesnaženost zraka v mestu se je poslabšala.,cause,0
+393,Njena hči je rignila za mizo.,Njena hči je pogrnila mizo.,Mama je okarala hčer.,cause,0
+394,Ugasnil sem telefon.,Zazvonil mi je telefon.,Opravičil sem se skupini in šel stran.,cause,1
+395,Izgubila je smučarske palice.,Naletela je na zaplato ledu.,Smučarki je spodrsnilo na smučišču.,cause,1
+396,Nadel si je očala.,Iz žepa je vzel nalivnik.,Črke v brošuri so bile majhne.,effect,0
+397,Svetloba je oslabela.,Luč je utripala.,Preklapljal sem stikalo.,effect,1
+398,Čakal je na avtobusni postaji.,Neznanca je vprašal za uro.,Njegova ura je bila pokvarjena.,effect,1
+399,Bili so opremljeni s puškami.,Nosili so kamuflažne uniforme.,Vojaki so se skrivali v grmovju.,cause,1

@@ -1,0 +1,259 @@
+version:1.1
+passage.text:Zamisel, da je Zemlja magnet, še zdaleč ni nova. Prvič ga je leta 1600 predlagal britanski zdravnik z imenom William Gilbert. Vedeti, da deluje kot magnet, je ena stvar. Težje je vedeti, zakaj deluje kot magnet. Pravzaprav ugotovitev, zakaj je to dokaj nedavno odkritje. Da bi ugotovili, zakaj je potrebna nova tehnologija. Seizmograf je omogočil, da ugotovimo, zakaj je Zemlja delovala kot magnet. Seizmograf se uporablja za preučevanje potresov. S preučevanjem potresnih valov so lahko spoznali notranjost Zemlje. Ugotovili so, da ima Zemlja notranje in zunanje jedro. Zunanje jedro sestavljajo tekoče kovine, predvsem železo in nikelj. Znanstveniki menijo, da tukaj nastaja magnetno polje Zemlje. Povzroča ga gibanje te tekoče kovine. Tekoča kovina se premika, ko se Zemlja vrti na svoji osi.
+passage.questions.9.question:Ko se Zemlja zavrti, katere so glavne tekoče kovine, ki jih povzroča premikanje?
+passage.questions.9.idx:2725.0
+passage.questions.9.answers.3.text:Jeklo in bron
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:14433.0
+passage.questions.9.answers.2.text:Železo in nikelj
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:14432.0
+passage.questions.9.answers.1.text:Železo in nikelj
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:14431.0
+passage.questions.9.answers.0.text:Magnet
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:14430.0
+passage.questions.8.question:Kako nastane magnetno polje?
+passage.questions.8.idx:2724.0
+passage.questions.8.answers.3.text:Zemlja se vrti na svoji osi
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:14429.0
+passage.questions.8.answers.2.text:Povzroča ga gibanje te tekoče kovine
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:14428.0
+passage.questions.8.answers.1.text:Zemeljsko magnetno polje nastane v zunanjem jedru z gibanjem te tekoče kovine
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:14427.0
+passage.questions.8.answers.0.text:Z jedrskimi reakcijami v notranjem jedru Zemlje
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:14426.0
+passage.questions.7.question:Kaj vemo in ne o Zemlji in magnetih?
+passage.questions.7.idx:2723.0
+passage.questions.7.answers.4.text:Vse
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:14425.0
+passage.questions.7.answers.3.text:Vemo, da deluje kot magnet, ne pa tudi, zakaj deluje kot magnet
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:14424.0
+passage.questions.7.answers.2.text:Zemlja je magnet in težje je, zakaj deluje kot magnet
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:14423.0
+passage.questions.7.answers.1.text:S preučevanjem potresnih valov so lahko spoznali notranjost Zemlje
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14422.0
+passage.questions.7.answers.0.text:Vprašanja so vedno neodgovorjena
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:14421.0
+passage.questions.6.question:Katera tehnologija je znanstvenikom omogočila, da so ugotovili, zakaj zemlja deluje kot magnet?
+passage.questions.6.idx:2722.0
+passage.questions.6.answers.2.text:Tomograf
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:14420.0
+passage.questions.6.answers.1.text:Seizmograf
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:14419.0
+passage.questions.6.answers.0.text:Tekoče kovine
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:14418.0
+passage.questions.5.question:Kako so se naučili, zakaj Zemlja deluje kot magnet?
+passage.questions.5.idx:2721.0
+passage.questions.5.answers.4.text:Z analizo temeljnih posnetkov Zemlje
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:14417.0
+passage.questions.5.answers.3.text:Z analizo potresnih valov
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:14416.0
+passage.questions.5.answers.2.text:S preučevanjem potresnih valov so lahko spoznali notranjost Zemlje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:14415.0
+passage.questions.5.answers.1.text:Zamisel, da je Zemlja magnet
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:14414.0
+passage.questions.5.answers.0.text:Seizmograf je omogočil izvedeti, zakaj je Zemlja delovala kot magnet, ker so s preučevanjem potresnih valov lahko spoznali Zemljino notranjost
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14413.0
+passage.questions.4.question:Kako tekoča kovina znotraj jedra Zemlje ustvarja magnetno polje?
+passage.questions.4.idx:2720.0
+passage.questions.4.answers.4.text:Premika se
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:14412.0
+passage.questions.4.answers.3.text:Tekoča kovina v zunanjem jedru se premika, ko se Zemlja vrti in ustvarja magnetno polje
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:14411.0
+passage.questions.4.answers.2.text:Ugotovili so, da ima Zemlja notranje in zunanje jedro
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:14410.0
+passage.questions.4.answers.1.text:Z jedrskimi reakcijami
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:14409.0
+passage.questions.4.answers.0.text:Povzroča ga gibanje te tekoče kovine
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14408.0
+passage.questions.3.question:Zakaj William Gilbert leta 1600 ni mogel razložiti dokazne teorije, da Zemlja deluje kot magnet?
+passage.questions.3.idx:2719.0
+passage.questions.3.answers.4.text:Seizmograf se uporablja za preučevanje potresov
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:14407.0
+passage.questions.3.answers.3.text:Človeštvo ni bilo pripravljeno sprejeti njegove razlage
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:14406.0
+passage.questions.3.answers.2.text:Gilbert svoje teorije ni mogel dokazati, ker je bila potrebna tehnologija seizmografa, saj notranjost Zemlje še ni bila razvita
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:14405.0
+passage.questions.3.answers.1.text:Ustrezne tehnologije ni bilo
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:14404.0
+passage.questions.3.answers.0.text:Vedeti, da deluje kot magnet, je ena stvar. Poslano 4: Težje je vedeti, zakaj deluje kot magnet. Da bi ugotovili, zakaj je potrebna nova tehnologija
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:14403.0
+passage.questions.2.question:Katera tehnologija je omogočila preizkus magnetnih lastnosti Zemlje? Kako je znanstvenik lahko uporabil ta stroj za preučevanje tega pojava?
+passage.questions.2.idx:2718.0
+passage.questions.2.answers.4.text:Seizmograf je omogočil, da ugotovimo, zakaj je Zemlja delovala kot magnet. Seizmograf se uporablja za preučevanje potresov. S preučevanjem potresnih valov so lahko spoznali notranjost Zemlje
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:14402.0
+passage.questions.2.answers.3.text:Seizmograf in seizmograf se uporabljajo za preučevanje potresov. Poslano 9: S preučevanjem potresnih valov so lahko spoznali notranjost Zemlje
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:14401.0
+passage.questions.2.answers.2.text:Seizmograf, preučeval potresne valove
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:14400.0
+passage.questions.2.answers.1.text:Tomograf, analizirane infrardeče slike
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14399.0
+passage.questions.2.answers.0.text:Zemlja ima notranje in zunanje jedro. Zunanje jedro sestavljajo tekoče kovine, predvsem železo in nikelj. Znanstveniki menijo, da tukaj nastaja magnetno polje Zemlje
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:14398.0
+passage.questions.16.question:O čem je William Gilbert prvič špekuliral leta 1600?
+passage.questions.16.idx:2732.0
+passage.questions.16.answers.3.text:Seizmograf se uporablja za preučevanje potresov
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:14464.0
+passage.questions.16.answers.2.text:Zamisel, da je Zemlja magnet, je nova
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:14463.0
+passage.questions.16.answers.1.text:Ta Zemlja ima magnetno polje
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:14462.0
+passage.questions.16.answers.0.text:Ta Zemlja je stara milijardo let
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:14461.0
+passage.questions.15.question:Kako Zemlja ustvarja svoj magnetizem?
+passage.questions.15.idx:2731.0
+passage.questions.15.answers.4.text:Seizmograf se uporablja za preučevanje potresov
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:14460.0
+passage.questions.15.answers.3.text:Povzročajo jo gravitacijski valovi
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:14459.0
+passage.questions.15.answers.2.text:Ugotovili so, da ima Zemlja notranje in zunanje jedro. Zunanje jedro sestavljajo tekoče kovine, predvsem železo in nikelj. Znanstveniki menijo, da tukaj nastaja magnetno polje Zemlje
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:14458.0
+passage.questions.15.answers.1.text:Zemlja ima notranje in zunanje jedro. je sestavljen iz tekočih kovin, večinoma železa in niklja. Tu nastaja magnetno polje zemlje
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:14457.0
+passage.questions.15.answers.0.text:Povzroča ga gibanje tekoče kovine
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:14456.0
+passage.questions.14.question:Kje znanstveniki menijo, da nastaja zemeljsko magnetno polje?
+passage.questions.14.idx:2730.0
+passage.questions.14.answers.3.text:Zunanje jedro
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:14455.0
+passage.questions.14.answers.2.text:Notranjost Zemlje
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:14454.0
+passage.questions.14.answers.1.text:Notranje jedro
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:14453.0
+passage.questions.14.answers.0.text:Zunanje jedro, ki je sestavljeno iz tekočih kovin, predvsem železa in niklja
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:14452.0
+passage.questions.13.question:Ali ima zemlja magnetne lastnosti? Če da, kdaj je bila predlagana ta ideja?
+passage.questions.13.idx:2729.0
+passage.questions.13.answers.4.text:Zamisel, da je Zemlja magnet, še zdaleč ni nova. Prvič ga je leta 1600 predlagal britanski zdravnik z imenom William Gilbert
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:14451.0
+passage.questions.13.answers.3.text:Težje je vedeti, zakaj deluje kot magnet
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:14450.0
+passage.questions.13.answers.2.text:Zamisel, da je Zemlja magnet, še zdaleč ni nova. Poslano 2: Prvič je bilo predlagano leta 1600
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:14449.0
+passage.questions.13.answers.1.text:Da, 1890
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:14448.0
+passage.questions.13.answers.0.text:Da, leta 1600
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:14447.0
+passage.questions.12.question:Kaj znanstveniki menijo, da je neposredni vzrok za nastanek magnetnega polja Zemlje? Izberite ustrezne možnosti
+passage.questions.12.idx:2728.0
+passage.questions.12.answers.4.text:Gravitacijski valovi
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:14446.0
+passage.questions.12.answers.3.text:Pri preučevanju potresnih valov so lahko spoznali notranjost Zemlje
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:14445.0
+passage.questions.12.answers.2.text:Menijo, da magnetno polje ustvarja gibanje tekoče kovine v zunanjem jedru Zemlje
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:14444.0
+passage.questions.12.answers.1.text:Ugotovili so, da ima Zemlja notranje in zunanje jedro
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:14443.0
+passage.questions.12.answers.0.text:Gibanje tekočih kovin
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:14442.0
+passage.questions.11.question:So bili seizmografi na voljo leta 1600?
+passage.questions.11.idx:2727.0
+passage.questions.11.answers.2.text:Ne, ugotoviti, zakaj je dokaj nedavno odkritje
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:14441.0
+passage.questions.11.answers.1.text:Da
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:14440.0
+passage.questions.11.answers.0.text:Ne
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:14439.0
+passage.questions.10.question:Kateri so glavni deli Zemljinega jedra in kako se razlikujejo?
+passage.questions.10.idx:2726.0
+passage.questions.10.answers.4.text:Tekoča kovina se premika, ko se Zemlja vrti na svoji osi
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:14438.0
+passage.questions.10.answers.3.text:Notranje in zunanje jedro
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:14437.0
+passage.questions.10.answers.2.text:Glavni deli Zemljinega jedra so notranje ali trdno kovinsko jedro in zunanje jedro tekoče kovine
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:14436.0
+passage.questions.10.answers.1.text:Zemlja ima notranje in zunanje jedro. Zunanje jedro je sestavljeno iz tekočih kovin, predvsem železa in niklja
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:14435.0
+passage.questions.10.answers.0.text:Jedro in membrana
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:14434.0
+passage.questions.1.question:Kdaj se je prvič domnevalo, da je Zemlja magnet?
+passage.questions.1.idx:2717.0
+passage.questions.1.answers.2.text:Leta 1600
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:14397.0
+passage.questions.1.answers.1.text:Nedavno odkritje
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:14396.0
+passage.questions.1.answers.0.text:1890
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:14395.0
+passage.questions.0.question:Kje po mnenju znanstvenikov nastaja magnetno polje Zemlje?
+passage.questions.0.idx:2716
+passage.questions.0.answers.3.text:Notranje jedro
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14394.0
+passage.questions.0.answers.2.text:V svojem zunanjem jedru
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:14393.0
+passage.questions.0.answers.1.text:Zamisel, da je Zemlja magnet, še zdaleč ni nova
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:14392
+passage.questions.0.answers.0.text:Zunanje jedro. Zunanje jedro sestavljajo tekoče kovine, predvsem železo in nikelj. Poslano 12: Znanstveniki menijo, da tukaj nastaja magnetno polje Zemlje
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:14391
+idx:246

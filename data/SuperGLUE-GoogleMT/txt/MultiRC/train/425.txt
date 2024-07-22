@@ -1,0 +1,204 @@
+version:1.1
+passage.text:Vrhovno sodišče v Washingtonu od zakonodajalca zahteva, da odobri doplačilo v višini 90 ameriških dolarjev za sodno takso, da bi zagotovili pravno pomoč revnim v civilnih zadevah, je v sredo dejal vrhovni sodnik Gerry Alexander. &quot;Nekateri bi lahko rekli, zakaj bi morali to podpirati, ko se soočamo s težkimi finančnimi časi?&quot; Aleksander je v svojem nagovoru o stanju v pravosodju zaprosil za skupno sejo zakonodajnega telesa. &quot;Zdi se mi, da v Ameriki, kjer se veselimo dejstva, da smo narod, ki je predan pravni državi, ne bi smeli omejevati dostopa do pravice.&quot; Priporočilo prihaja s strani delovne skupine za financiranje civilnega enakega pravosodja, ki je bila ustanovljena leta 2001 za iskanje načinov za obvladovanje redkega zneska denarja, ki je na voljo za takšne primere. Medtem ko je delovna skupina preučevala to težavo, je bilo 900.000 ameriških dolarjev odrezanih iz državne podpore za civilnopravne storitve. Aleksander je povedal, da sta dva glavna ponudnika pravnih storitev v državi - Columbia Legal Services in Northwest Justice Project - zmanjšala število zaposlenih. Sprememba bi povečala stroške vložitve tožbe na višjem sodišču na 200 dolarjev. Celotna pristojbina bi bila razdeljena, 54 odstotkov bi šlo v okrožja, 46 odstotkov pa bi šlo državi za novoustanovljeni račun enake pravičnosti. Aleksander je zahteval denar tudi za pet dodatnih sodniških položajev na višjih sodiščih in eno dodatno sodniško sodišče na Okrožnem sodišču z utemeljitvijo, da povečana količina zadev zahteva več sodnikov. Dva sodnika vrhovnega sodišča in sodnik okrožnega sodišča bi bila v okrožju Clark, po en sodnik vrhovnega sodišča pa bi bil dodan v skupnem okrožju, ki služi okrožjem Benton in Franklin, in po en v okrožjih Kittitas in Kitsap.
+passage.questions.8.question:Kaj je Gerry Alexander v svojem nagovoru o pravosodju zaprosil za skupno sejo zakonodajnega telesa?
+passage.questions.8.idx:4796.0
+passage.questions.8.answers.6.text:Brez dodatnih sodnikov
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:25590.0
+passage.questions.8.answers.5.text:Vprašal je, zakaj bi morali podpirati doplačilo v višini 90 USD, ko imajo ljudje težke trenutke?
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:25589.0
+passage.questions.8.answers.4.text:&quot;Zakaj bi morali to podpirati, ko se soočamo s težkimi finančnimi časi?
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:25588.0
+passage.questions.8.answers.3.text:Število zaposlenih zmanjša
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:25587.0
+passage.questions.8.answers.2.text:Brez svobodne pravičnosti
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:25586.0
+passage.questions.8.answers.1.text:Brez dostopa do pravosodja
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:25585.0
+passage.questions.8.answers.0.text:Brez povečanja stroškov vložitve
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:25584.0
+passage.questions.7.question:Kaj je po mnenju Alexandra Columbia Legal Services in Northwest Justice Project spodbudilo, da so zmanjšali število zaposlenih?
+passage.questions.7.idx:4795.0
+passage.questions.7.answers.6.text:Stroški vložitve so se povečali
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:25583.0
+passage.questions.7.answers.5.text:900.000 dolarjev - odrezano iz državne podpore
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:25582.0
+passage.questions.7.answers.4.text:900.000 ameriških dolarjev je bilo znižanih z državne podpore za civilnopravne storitve
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:25581.0
+passage.questions.7.answers.3.text:Težki časi
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:25580.0
+passage.questions.7.answers.2.text:Razdelitev pristojbin
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:25579.0
+passage.questions.7.answers.1.text:Zmanjšajte državno podporo
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:25578.0
+passage.questions.7.answers.0.text:900.000 dolarjev je bilo odrezanih od države
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:25577.0
+passage.questions.6.question:Kakšna sprememba bi povečala stroške vložitve tožbe na višjem sodišču?
+passage.questions.6.idx:4794.0
+passage.questions.6.answers.5.text:Zmanjšanje državne podpore
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:25576.0
+passage.questions.6.answers.4.text:Povišanje plače za 200 USD
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:25575.0
+passage.questions.6.answers.3.text:Število zaposlenih
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:25574.0
+passage.questions.6.answers.2.text:Zmanjšanje števila zaposlenih znotraj dveh glavnih ponudnikov pravnih storitev
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:25573.0
+passage.questions.6.answers.1.text:Za financiranje civilnega enakega pravosodja zmanjšanje njihovega osebja
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:25572.0
+passage.questions.6.answers.0.text:Za pravno službo Columbia in projekt Northwest Justice skrajšujejo svoje osebje
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:25571.0
+passage.questions.5.question:Kakšna pristojbina bi bila razdeljena, 54 odstotkov bi šlo okrožjem, 46 odstotkov pa državi za novoustanovljeni račun enake pravičnosti?
+passage.questions.5.idx:4793.0
+passage.questions.5.answers.5.text:Doplačilo
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:25570.0
+passage.questions.5.answers.4.text:Skupna pristojbina
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:25569.0
+passage.questions.5.answers.3.text:Pristojbine za vložitev tožb višjega sodišča
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:25568.0
+passage.questions.5.answers.2.text:Stroški prijavnine
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:25567.0
+passage.questions.5.answers.1.text:Pristojbina za revne ljudi
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:25566.0
+passage.questions.5.answers.0.text:Spremeni se
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:25565.0
+passage.questions.4.question:Kaj je motiv vrhovnega sodišča v Washingtonu, ko od zakonodajalca zahteva odobritev dodatka v višini 90 dolarjev na sodno takso?
+passage.questions.4.idx:4792.0
+passage.questions.4.answers.6.text:Povečajte dobiček
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:25564.0
+passage.questions.4.answers.5.text:Pomagajte revnim ljudem v civilnih zadevah
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:25563.0
+passage.questions.4.answers.4.text:Zmanjšanje stroškov
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25562.0
+passage.questions.4.answers.3.text:Povečal bi dostop do sodišč
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25561.0
+passage.questions.4.answers.2.text:Znižanje 900.000 dolarjev
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:25560.0
+passage.questions.4.answers.1.text:Podpirajte revne ljudi
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:25559.0
+passage.questions.4.answers.0.text:Iščejo načine, kako se spoprijeti z redkim denarjem, ki je na voljo za zagotavljanje pravne pomoči revnim v civilnih zadevah
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:25558.0
+passage.questions.3.question:Naštejte tri zahteve, ki jih je predlagal vrhovni sodnik Gerry Alexander?
+passage.questions.3.idx:4791.0
+passage.questions.3.answers.7.text:Pristojbine se ne sme deliti za 54%, osebja ne sme zmanjšati in pristojbina v višini 90 USD se ne sme zgoditi
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:25557.0
+passage.questions.3.answers.6.text:Zahteval je denar za pet dodatnih sodniških položajev na višjih sodiščih in eno dodatno sodniško sodišče na Okrožnem sodišču, in zagovarjal stališče, da se pristojbina v višini 90 dolarjev ne bi smela zgoditi in da osebje ne bi smelo biti zmanjšano
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:25556.0
+passage.questions.3.answers.5.text:Doplačilo v višini 90 USD za sodno takso za pomoč revnim, pet dodatnih sodniških položajev na višjem sodišču in eno dodatno sodniško sodišče na okrožnem
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:25555.0
+passage.questions.3.answers.4.text:Doplačilo 200 $
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:25554.0
+passage.questions.3.answers.3.text:Brez svobodne pravičnosti
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:25553.0
+passage.questions.3.answers.2.text:Zahteva sodnikov
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25552.0
+passage.questions.3.answers.1.text:Povišanje pristojbine za vložitev stroškov
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25551.0
+passage.questions.3.answers.0.text:Skupno zasedanje zakonodajne oblasti
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:25550.0
+passage.questions.2.question:Katero novo predlagano politiko imajo nekateri ljudje v težavnih finančnih časih težave s podporo?
+passage.questions.2.idx:4790.0
+passage.questions.2.answers.5.text:Doplačilo 90 USD
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:25549.0
+passage.questions.2.answers.4.text:Pomagajte revnim v civilnih zadevah
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:25548.0
+passage.questions.2.answers.3.text:Povečajte stroške vložitve
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25547.0
+passage.questions.2.answers.2.text:Podpora slaba
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:25546.0
+passage.questions.2.answers.1.text:Doplačilo v višini 90 USD za sodno takso
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:25545.0
+passage.questions.2.answers.0.text:Zmanjšanje števila zaposlenih
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:25544.0
+passage.questions.1.question:Kaj je spodbudilo glavna dva državna ponudnika pravnih storitev, da sta zmanjšala število zaposlenih?
+passage.questions.1.idx:4789.0
+passage.questions.1.answers.6.text:Stroški vložitve so se povečali
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:25543.0
+passage.questions.1.answers.5.text:900.000 dolarjev - odrezano iz državne podpore
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:25542.0
+passage.questions.1.answers.4.text:Znižanje 900.000 dolarjev
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:25541.0
+passage.questions.1.answers.3.text:Razdelitev pristojbin
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25540.0
+passage.questions.1.answers.2.text:900.000 ameriških dolarjev, zmanjšanih za državno podporo civilnopravnim službam
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25539.0
+passage.questions.1.answers.1.text:Zmanjšajte državno podporo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:25538.0
+passage.questions.1.answers.0.text:Znižanje 800.000 dolarjev
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:25537.0
+passage.questions.0.question:Ko je bila 900.000 ameriških dolarjev odrezana iz državne podpore civilnopravnim službam za enakost, je projektna skupina preučevala katero vprašanje?
+passage.questions.0.idx:4788
+passage.questions.0.answers.6.text:Vrhovno sodišče prosi zakonodajalca, naj odobri doplačilo, ki bi koristilo revnim v civilnih zadevah
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:25536.0
+passage.questions.0.answers.5.text:Financiranje civilnega enakega pravosodja
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:25535.0
+passage.questions.0.answers.4.text:Številka okrožnega sodišča
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:25534.0
+passage.questions.0.answers.3.text:Washington in preučevali so načine, kako se spoprijeti z redkim denarjem, ki je na voljo za primere revnih
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:25533.0
+passage.questions.0.answers.2.text:Številka pravosodne službe
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:25532.0
+passage.questions.0.answers.1.text:Izdaja sodne takse
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:25531
+passage.questions.0.answers.0.text:Washington, in iskali so načine, kako zmanjšati število zaposlenih
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:25530
+idx:425

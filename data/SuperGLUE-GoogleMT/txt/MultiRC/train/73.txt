@@ -1,0 +1,84 @@
+version:1.1
+passage.text:Žrtve nasilja v družini z nizkimi dohodki bodo morda težko našle dolgoročno pravno pomoč - zastopanje v razvodih ali sporih o skrbništvu otroka - če dve organizaciji, ki zdaj nudita takšno pomoč, ne moreta nadomestiti izgubljenega financiranja. Društvo za pravno pomoč Salt Lake in Utah Legal Services se že sooča z zmanjšanjem, potem ko jim je bila septembra zavrnjena zvezna nepovratna sredstva v višini več kot 450.000 USD. Odbor, ki nadzoruje državni urad za odškodnine za žrtve kriminala (CVR), je glasoval, da zavrne zahtevo obeh organizacij za ustavitev. Člani upravnega odbora so to prošnjo sicer označili kot vreden razlog, vendar so se v torek strinjali, da financiranje razvez ali sporov o skrbništvu ni v njihovem središču - zagotavljanje neposrednih storitev za žrtve kaznivih dejanj. Zahtevanih 175.000 ameriških dolarjev bi skupinam za pravno pomoč omogočilo vzdrževanje okostja osebja, ki bi še naprej zagotavljalo pomoč žrtvam, ki niso nujne zaščitne odredbe, dokončanje obstoječih primerov in ponujanje storitev v omejenih primerih. Skupine načrtujejo tudi zaposlitev več pro bono odvetnikov v sodelovanju z odvetniško zbornico države Utah. &quot;Nimamo veliko več možnosti,&quot; je po izvedeni zavrnitvi CVR v sredo dejala Anne Milne, izvršna direktorica pravne službe Utah Legal Services. Organizacija je zaradi izgube dela že izgubila nekaj osebja in je nekatere primere zavrnila, je dejala. Milne je dejala, da lahko odbor, ki nadzoruje njeno organizacijo, prosi, naj ji da rok do novembra, da poišče sredstva iz dodatnih virov. Brez dodatnega financiranja možnosti za dolgoročno pravno pomoč niso jasne. Dve leti so skupine od ameriškega ministrstva za pravosodje prejemale 18-mesečne dotacije za civilno pravno pomoč in jih uporabljale za zagotavljanje takšne pomoči. Toda prejšnji mesec je bila tretja zahteva zavrnjena. Financiranje, ki se uporablja za pomoč žrtvam pri pridobivanju nujnih zaščitnih odredb, ostaja na mestu, sta povedala Milne in Stewart Ralphs, izvršni direktor Društva za pravno pomoč iz Salt Lakea. Čeprav lahko zahteve odredbe, da se nasilnik drži žrtve stran od žrtve, ostanejo v veljavi leta, zaščitne odredbe urejajo vprašanja, kot so skrbništvo nad otroki, preživnina, skrbništvo in premoženjska ureditev 150 dni. Številni sodniki teh vprašanj neradi obravnavajo v nujnih zaščitnih odredbah, saj odloki veljajo tako kratek čas, sta dejala Milne in Ralphs. &quot;Verjetnost, da se bo žrtev vrnila k svojemu zlostavljalcu, se poveča, če ne more trajno prekiniti razmerja in vzpostaviti izvedljive podpore, skrbništva in premoženja,&quot; so sporočili iz CVR. Ministrstvo za pravosodje je sporočilo, da je vlogo za nepovratna sredstva deloma zavrnilo, ker ocenjevalci niso videli dovolj sodelovanja med organizacijami in zagovorniki žrtev, sta Ralphs in Milne povedala članom odbora CVR. Čeprav sta dejala, da verjameta, da se njihove organizacije dobro usklajujejo, se organizacije ne morejo pritožiti na zavrnitev donacije. Čeprav so člani odbora CVR razmišljali, da bi denar dali kot posojilo in ne kot nepovratna sredstva, je bilo njihovo glasovanje o zahtevi za financiranje - sprejeto po tem, ko sta Milne in Ralphs zapustila sejo - soglasno.
+passage.questions.5.question:Ali je Urad za odškodnine za žrtve kriminala glasoval, da ugodi zahtevi za financiranje in če ne, zakaj je bil ukrep zaustavitve zavrnjen?
+passage.questions.5.idx:860.0
+passage.questions.5.answers.3.text:Niso
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:4458.0
+passage.questions.5.answers.2.text:Organizacija je že izgubila nekaj osebja
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4457.0
+passage.questions.5.answers.1.text:Zahtevo so zavrnili, ker ni zagotavljala neposrednih storitev za žrtve kaznivih dejanj
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4456.0
+passage.questions.5.answers.0.text:Zavrnjen zahtevek za financiranje ni bil sprejet. Ukrep za zaustavitev je bil zavrnjen, ker financiranje razvez ali sporov o skrbništvu ni bilo v središču njihovega zagotavljanja neposrednih storitev za žrtve kaznivih dejanj
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4455.0
+passage.questions.4.question:Odbor, ki je nadzoroval državni urad za odškodnine za žrtve kriminala, je glasoval za zavrnitev zahteve po financiranju za ustavitev za katere dve organizaciji?
+passage.questions.4.idx:859.0
+passage.questions.4.answers.3.text:Odbor CVR
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4454.0
+passage.questions.4.answers.2.text:Društvo za pravno pomoč iz Salt Lakea in pravne službe v Utahu
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4453.0
+passage.questions.4.answers.1.text:Društvo za pravno pomoč in pravne službe v Utahu
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4452.0
+passage.questions.4.answers.0.text:Pravna pomoč
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4451.0
+passage.questions.3.question:Člani upravnega odbora, ki so nadzorovali državni urad za odškodnine za žrtve kriminala, so katero zahtevo označili kot vreden namen?
+passage.questions.3.idx:858.0
+passage.questions.3.answers.3.text:Zahteva po dodatnem financiranju
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4450.0
+passage.questions.3.answers.2.text:Storitev, ki sta jo zagotavljali obe organizaciji
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:4449.0
+passage.questions.3.answers.1.text:Zahteva dveh organizacij za zaustavitev financiranja
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4448.0
+passage.questions.3.answers.0.text:Ločitev
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4447.0
+passage.questions.2.question:Organizaciji, ki sta vložili zahtevek za ustavitev financiranja, sta vprašali, koliko denarja?
+passage.questions.2.idx:857.0
+passage.questions.2.answers.2.text:175.000 USD
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4446.0
+passage.questions.2.answers.1.text:175.000
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:4445.0
+passage.questions.2.answers.0.text:450.000 dolarjev
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:4444.0
+passage.questions.1.question:Ali so pravne službe Utah in Društvo za pravno pomoč Salt Lake dobro zaposlene?
+passage.questions.1.idx:856.0
+passage.questions.1.answers.3.text:Ne, imajo pomanjkanje
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4443.0
+passage.questions.1.answers.2.text:Imajo dobro osebje, vendar se soočajo s pomanjkanjem sredstev
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4442.0
+passage.questions.1.answers.1.text:Ne, zaradi zmanjšanja kadrov izgubljajo osebje
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:4441.0
+passage.questions.1.answers.0.text:Ne. Tečejo na okostju posadke, ki se trudi in se sooča z zmanjšanjem
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4440.0
+passage.questions.0.question:Ko sodnik izda nujni zaščitni nalog, je to dolgoročno ali kratkoročno in koliko dni zajema?
+passage.questions.0.idx:855
+passage.questions.0.answers.3.text:Kratkoročno
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4439.0
+passage.questions.0.answers.2.text:Ukazi za zaščito v sili so dolgoročni
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4438.0
+passage.questions.0.answers.1.text:To so krajša naročila in ostanejo 150 dni
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4437
+passage.questions.0.answers.0.text:Ukazi za nujno zaščito so kratkoročni in trajajo 150 dni
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4436
+idx:73

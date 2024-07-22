@@ -1,0 +1,263 @@
+version:1.1
+passage.text:Mesto Edinburg je odraščalo okoli strmega, razdrapanega pečina Grajske skale in njenega zlahka obrambnega vrha. Arheološka izkopavanja so razkrila dokaze o bivanju tukaj že pred 900 pr. N. Št. Vendar je o skali in njenih prebivalcih v stoletjih med prvo okupacijo in časi kraljev MacAlpin znano zelo malo. Nekaj senčnih podrobnosti so nam zapustili Rimljani in epska pesem iz sedmega stoletja. Rimljani in Britanci Rimljani so napadli Škotsko v letih 78–84, kjer so srečali ostro skupino, imenovano Picts, ki so jo odpeljali proti severu. Pridobili so si gradnjo Antoninovega zidu čez pas Škotske med Firth of Forth in reko Clyde približno v času, ko so rimske legije naletele na trdnjavi Grajske skale in Arthurjevega sedeža, ki ga je imelo pleme starih Britancev, znanih kot Votadini. O tej skupini je zabeleženih malo, vendar so bili verjetno predniki Gododdina, o katerih podvigih govori v starovalskem rokopisu iz sedmega stoletja. Glavno mesto Gododina je bil Din Eidyn (&quot;trdnjava Eidyn&quot;, skoraj zagotovo Grajska skala), čigar ime živi v Edinburškem. Din Eidyn je leta 638 padel pod Angle in postal del angleškega kraljestva Northumbria. To je bilo prvič, ko je utrdba Eidyn zamenjala lastnika med severnim in južnim kraljestvom. Kralji MacAlpin Štiri različna ljudstva so nekoč naselila deželo, ki je danes znana kot Škotska: Pikti na severu, Britanci na jugozahodu, napadalni Angli na jugovzhodu in Škoti na zahodu. Škoti so bili galsko govoreči priseljenci s severa Irske. Kenneth MacAlpin, ki je v Dunaddu vladal kot škotski kralj, je leta 843 pridobil piktski prestol in združil Škotsko severno od reke Forth v eno samo kraljestvo. Svojo prestolnico je skupaj s Kamnom usode (na katerem so bili okronani škotski kralji) preselil na sveto mesto Pict v Sconeu, blizu Pertha. Njegov pra-pra-vnuk Malcolm II (1005–1034) je v bitki pri Carhamu leta 1018 premagal Angle in razširil škotsko ozemlje do juga do reke Tvid.
+passage.questions.9.question:Kdo so bili verjetno predniki Gododina?
+passage.questions.9.idx:335.0
+passage.questions.9.answers.4.text:Votadini
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:1733.0
+passage.questions.9.answers.3.text:Britanci
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1732.0
+passage.questions.9.answers.2.text:Pleme starih Britancev, znano kot Votadini
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1731.0
+passage.questions.9.answers.1.text:Pikti
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1730.0
+passage.questions.9.answers.0.text:Škoti
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1729.0
+passage.questions.8.question:V tistem času, kar je danes znano kot Škotska, so živela štiri različna ljudstva, od kod prihajajo ljudje, ki so živeli v zahodnem delu?
+passage.questions.8.idx:334.0
+passage.questions.8.answers.4.text:Britanci
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:1728.0
+passage.questions.8.answers.3.text:Škoti
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1727.0
+passage.questions.8.answers.2.text:Grki
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1726.0
+passage.questions.8.answers.1.text:Prišli so s severa Irske
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:1725.0
+passage.questions.8.answers.0.text:Američani
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1724.0
+passage.questions.7.question:Kako dolgo nazaj je bilo znano, da so območje Edinburgha in Castle Rock naselili ljudje?
+passage.questions.7.idx:333.0
+passage.questions.7.answers.6.text:900 let
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:1723.0
+passage.questions.7.answers.5.text:Skoraj 3000 let
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:1722.0
+passage.questions.7.answers.4.text:Od 900 ce
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:1721.0
+passage.questions.7.answers.3.text:Približno 1100 let
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1720.0
+passage.questions.7.answers.2.text:78 oglas
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1719.0
+passage.questions.7.answers.1.text:Že 900 pr
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1718.0
+passage.questions.7.answers.0.text:84
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:1717.0
+passage.questions.6.question:Koga so Rimljani prvič srečali, ko so napadli Škotsko?
+passage.questions.6.idx:332.0
+passage.questions.6.answers.3.text:Škoti
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1716.0
+passage.questions.6.answers.2.text:Britanci
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1715.0
+passage.questions.6.answers.1.text:Votadini
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1714.0
+passage.questions.6.answers.0.text:Pikti
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:1713.0
+passage.questions.5.question:Kdo so bili predniki Gododina?
+passage.questions.5.idx:331.0
+passage.questions.5.answers.3.text:Škoti
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1712.0
+passage.questions.5.answers.2.text:Britanci
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1711.0
+passage.questions.5.answers.1.text:Votadini
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1710.0
+passage.questions.5.answers.0.text:Pikti
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1709.0
+passage.questions.4.question:Kdaj in kdo je napadel Škotsko?
+passage.questions.4.idx:330.0
+passage.questions.4.answers.5.text:78-84 ce Rimljani
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:1708.0
+passage.questions.4.answers.4.text:Britanci 900 bce
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1707.0
+passage.questions.4.answers.3.text:Rimljani so napadli Škotsko v letih 78–84, kjer so srečali ostro skupino, imenovano Picts, ki so jo odpeljali proti severu.
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:1706.0
+passage.questions.4.answers.2.text:900 pr. N. Št. Rimljani
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1705.0
+passage.questions.4.answers.1.text:angleščina
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1704.0
+passage.questions.4.answers.0.text:Britanci 78-84 ce
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1703.0
+passage.questions.3.question:Kdo je bil pra-pra-vnuk Kennetha MacAlpina?
+passage.questions.3.idx:329.0
+passage.questions.3.answers.4.text:Dunadd
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1702.0
+passage.questions.3.answers.3.text:Carham
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1701.0
+passage.questions.3.answers.2.text:Din Eidyn
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1700.0
+passage.questions.3.answers.1.text:Malcolm II
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1699.0
+passage.questions.3.answers.0.text:Scone
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1698.0
+passage.questions.2.question:Katero skupino so pregnali, ko so Rimljani napadli Škotsko v letih 78–84.
+passage.questions.2.idx:328
+passage.questions.2.answers.5.text:Votadini
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:1697.0
+passage.questions.2.answers.4.text:Britanci
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1696.0
+passage.questions.2.answers.3.text:Pikti
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:1695.0
+passage.questions.2.answers.2.text:Škoti
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1694.0
+passage.questions.2.answers.1.text:Škoti
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:1693
+passage.questions.2.answers.0.text:Scone
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1692
+passage.questions.12.question:Kaj vemo o Votadiniju?
+passage.questions.12.idx:338.0
+passage.questions.12.answers.7.text:Imeli so Castle Rock in Arthurjev sedež
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:1756.0
+passage.questions.12.answers.6.text:Bili so veliki izumitelji
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:1755.0
+passage.questions.12.answers.5.text:Govorili so galsko
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:1754.0
+passage.questions.12.answers.4.text:Malo se zabeleži
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:1753.0
+passage.questions.12.answers.3.text:So pleme starodavnih Britancev, imeli so Castle Rock in verjetno so bili predniki Gododdina, o katerih podvigih govori v staroveškem rokopisu iz sedmega stoletja
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:1752.0
+passage.questions.12.answers.2.text:Bili so škotski
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1751.0
+passage.questions.12.answers.1.text:Bili so predniki Gododdina
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1750.0
+passage.questions.12.answers.0.text:Rimljane so odpeljali nazaj
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1749.0
+passage.questions.11.question:Kje se nahaja mesto Edinburg? Kako dolgo obstaja civilizacija?
+passage.questions.11.idx:337.0
+passage.questions.11.answers.5.text:Mesto Edinburg je zraslo okoli strme, raztrgane pečine Grajske skale in njenega zlahka obrambnega vrha. Arheološka izkopavanja so razkrila dokaze o bivanju tukaj že pred 900 pr.
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:1748.0
+passage.questions.11.answers.4.text:Kamen usode od 900 pr
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:1747.0
+passage.questions.11.answers.3.text:Grajska skala že skoraj 3000 let
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:1746.0
+passage.questions.11.answers.2.text:Picts, 1780
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:1745.0
+passage.questions.11.answers.1.text:Okoli strme, raztrgane pečine Grajske skale, 900 pr
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:1744.0
+passage.questions.11.answers.0.text:Grajska skala od 900 let
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:1743.0
+passage.questions.10.question:Kateri jeziki so se govorili v starih časih na Škotskem in so navedeni v članku?
+passage.questions.10.idx:336.0
+passage.questions.10.answers.8.text:Škotski
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:1742.0
+passage.questions.10.answers.7.text:Romunski
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:1741.0
+passage.questions.10.answers.6.text:Slikovito
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:1740.0
+passage.questions.10.answers.5.text:angleščina
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:1739.0
+passage.questions.10.answers.4.text:Angeli
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:1738.0
+passage.questions.10.answers.3.text:Latinsko
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1737.0
+passage.questions.10.answers.2.text:Galska
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:1736.0
+passage.questions.10.answers.1.text:Grški
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1735.0
+passage.questions.10.answers.0.text:Valižanščina
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:1734.0
+passage.questions.1.question:Kdo je vladal galsko govorečim priseljencem s severne Irske?
+passage.questions.1.idx:327
+passage.questions.1.answers.6.text:Gododin
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:1691.0
+passage.questions.1.answers.5.text:Kralj Kenneth MacAlpin
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:1690.0
+passage.questions.1.answers.4.text:Kenneth MacAlpin
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:1689.0
+passage.questions.1.answers.3.text:Rimljani
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:1688.0
+passage.questions.1.answers.2.text:Din Eidyn
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1687.0
+passage.questions.1.answers.1.text:Pikti
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1686
+passage.questions.1.answers.0.text:Britanci
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1685
+passage.questions.0.question:Kdo so bili Škoti? Kdo je bil njihov kralj?
+passage.questions.0.idx:326
+passage.questions.0.answers.5.text:Britanec, Malcolm II
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1684.0
+passage.questions.0.answers.4.text:Pleme starih Britancev, Kenneth MacAlpin
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1683.0
+passage.questions.0.answers.3.text:Škoti so bili galsko govoreči priseljenci s severa Irske. Kenneth MacAlpin, ki je v Dunaddu vladal kot škotski kralj, je leta 843 pridobil slikovni prestol in združil Škotsko severno od reke Forth v eno samo kraljestvo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1682.0
+passage.questions.0.answers.2.text:Pleme starih Britancev, Gododdin
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1681.0
+passage.questions.0.answers.1.text:Galsko govoreči priseljenci s Severne Irske, Gododdin
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1680
+passage.questions.0.answers.0.text:Galsko govoreči priseljenci s severa Irske, Kenneth MacAlpin
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1679
+idx:28

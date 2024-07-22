@@ -1,0 +1,313 @@
+version:1.1
+passage.text:Lucy je osemletna deklica, ki živi s starši in hišnimi pticami. Nekega sobotnega popoldneva sedi za kuhinjsko mizo. Nariše sliko svoje družine. Obvezno nariše svojo mamo z imenom Martha, ki nosi vijolično obleko, ker je to njena najljubša. Za svojo hišno ptico po imenu Andy nariše veliko rumenih peres. Ko konča, sliko podari mami. Njena mama ga obesi na srebrni hladilnik. Naslednji dan pride Lucyina mama domov z rjavim psom po imenu Oliver. Lucy pove, da sedi domače živali, kar je kot varstvo otrok, vendar s prijateljem. Lucyina mama ji reče, da se lahko igra s psom, če le dobro skrbi zanj. Lucy je navdušena. Oliverja lepo poboža na njegovem mehkem hrbtu. Viha z repom. Zalaja: &quot;Vau!&quot; in pokaže, da se želi igrati z njo. Lucy se hihita in mu vrže žogo, da jo ujame. Želi si, da bi se njena ptica lahko tako igrala z njo vsak dan!
+passage.questions.9.question:Je Lucy uživala v igranju z Oliverjem?
+passage.questions.9.idx:511.0
+passage.questions.9.answers.2.text:Bila je navdušena nad igranjem in uživala v igranju z Oliverjem
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2613.0
+passage.questions.9.answers.1.text:Da
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:2612.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2611.0
+passage.questions.8.question:Na kateri dan je Martha prišla domov z Oliverjem?
+passage.questions.8.idx:510.0
+passage.questions.8.answers.3.text:Sobota
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:2610.0
+passage.questions.8.answers.2.text:Ponedeljek
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2609.0
+passage.questions.8.answers.1.text:Nedelja
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:2608.0
+passage.questions.8.answers.0.text:Naslednji dan
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:2607.0
+passage.questions.7.question:Kaj Martha da na srebrni hladilnik?
+passage.questions.7.idx:509.0
+passage.questions.7.answers.4.text:Slika
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:2606.0
+passage.questions.7.answers.3.text:Slike Lucy riše
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:2605.0
+passage.questions.7.answers.2.text:Lucyina slika
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2604.0
+passage.questions.7.answers.1.text:Slike Lucy
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2603.0
+passage.questions.7.answers.0.text:Fotografija
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2602.0
+passage.questions.6.question:Ali ima Lucy brata ali sestre?
+passage.questions.6.idx:508.0
+passage.questions.6.answers.3.text:Da
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2601.0
+passage.questions.6.answers.2.text:Ne, ima samo starše in hišno ptico
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:2600.0
+passage.questions.6.answers.1.text:Ne
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:2599.0
+passage.questions.6.answers.0.text:Dva brata in sestre
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2598.0
+passage.questions.5.question:Kdo se hihita in si želi, da bi se ptica lahko igrala po njem?
+passage.questions.5.idx:507.0
+passage.questions.5.answers.3.text:Lucy
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2597.0
+passage.questions.5.answers.2.text:Martha
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2596.0
+passage.questions.5.answers.1.text:Andy
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2595.0
+passage.questions.5.answers.0.text:Oliver
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2594.0
+passage.questions.4.question:Kdo pravi &quot;woof&quot; in se želi igrati?
+passage.questions.4.idx:506.0
+passage.questions.4.answers.4.text:Lucy
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:2593.0
+passage.questions.4.answers.3.text:Oliver
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:2592.0
+passage.questions.4.answers.2.text:Andy
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2591.0
+passage.questions.4.answers.1.text:Martha
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2590.0
+passage.questions.4.answers.0.text:Ptica
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2589.0
+passage.questions.3.question:Kaj Lucy nariše, ko sedi za kuhinjsko mizo?
+passage.questions.3.idx:505.0
+passage.questions.3.answers.4.text:Slike tega, kar vidi skozi okno
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2588.0
+passage.questions.3.answers.3.text:Slike njene mame in njune ptice Andy
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2587.0
+passage.questions.3.answers.2.text:Njena družina in ptica
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2586.0
+passage.questions.3.answers.1.text:Vlak
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2585.0
+passage.questions.3.answers.0.text:Slika njene družine
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2584.0
+passage.questions.2.question:Katere barve so vsekakor uporabljene na sliki, ki jo je risala Lucy?
+passage.questions.2.idx:504
+passage.questions.2.answers.6.text:Srebro
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:2583.0
+passage.questions.2.answers.5.text:Rumena in vijolična
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:2582.0
+passage.questions.2.answers.4.text:Vijolična
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:2581.0
+passage.questions.2.answers.3.text:Vijolična za materino obleko in rumena za hišno ptico
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2580.0
+passage.questions.2.answers.2.text:Modra in zelena
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2579.0
+passage.questions.2.answers.1.text:siva
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:2578
+passage.questions.2.answers.0.text:Rumena
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2577
+passage.questions.19.question:S katerim psom Martha pove Lucy, s katero se lahko igra?
+passage.questions.19.idx:521.0
+passage.questions.19.answers.3.text:Andy
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:2654.0
+passage.questions.19.answers.2.text:Pes
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:2653.0
+passage.questions.19.answers.1.text:Oliver
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:2652.0
+passage.questions.19.answers.0.text:Ptica
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:2651.0
+passage.questions.18.question:Zakaj Oliver maha z repom?
+passage.questions.18.idx:520.0
+passage.questions.18.answers.3.text:Jesti večerjo
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:2650.0
+passage.questions.18.answers.2.text:Lucy ga je lepo božala po hrbtu
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:2649.0
+passage.questions.18.answers.1.text:Lucy ga božala
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:2648.0
+passage.questions.18.answers.0.text:Lucky mu je dal priboljšek
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:2647.0
+passage.questions.17.question:Zakaj je Lucy smela igrati z Oliverjem?
+passage.questions.17.idx:519.0
+passage.questions.17.answers.4.text:Njena mama jim je dobila novega psa
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:2646.0
+passage.questions.17.answers.3.text:Njena mama je sedela s hišnimi ljubljenčki
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:2645.0
+passage.questions.17.answers.2.text:Dokler je bila nežna
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:2644.0
+passage.questions.17.answers.1.text:Ker je z njim lepo ravnala
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:2643.0
+passage.questions.17.answers.0.text:Ker je bil Oliver star
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:2642.0
+passage.questions.16.question:Je pes Oliverja Lucy?
+passage.questions.16.idx:518.0
+passage.questions.16.answers.1.text:Da
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:2641.0
+passage.questions.16.answers.0.text:Ne
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:2640.0
+passage.questions.15.question:Kaj Lucy počne s psom, v katerem sedijo hišni ljubljenčki?
+passage.questions.15.idx:517.0
+passage.questions.15.answers.4.text:Ljubi ga, mu vrže žogo (igra prinaša)
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:2639.0
+passage.questions.15.answers.3.text:Hišni ljubljenčki
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:2638.0
+passage.questions.15.answers.2.text:Kopa ga
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2637.0
+passage.questions.15.answers.1.text:Igraj mrtev
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:2636.0
+passage.questions.15.answers.0.text:Predvaja prenos
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:2635.0
+passage.questions.14.question:Kaj naredi Oliver, ko ga Lucy poboža?
+passage.questions.14.idx:516.0
+passage.questions.14.answers.5.text:Maha z repom
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:2634.0
+passage.questions.14.answers.4.text:Laja
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:2633.0
+passage.questions.14.answers.3.text:Reži
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:2632.0
+passage.questions.14.answers.2.text:Laje &quot;woof&quot;
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:2631.0
+passage.questions.14.answers.1.text:Snarls
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:2630.0
+passage.questions.14.answers.0.text:Viha z repom in laja
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:2629.0
+passage.questions.13.question:Kam Martha postavi Lucyino risbo svoje družine?
+passage.questions.13.idx:515.0
+passage.questions.13.answers.3.text:V okvirju
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:2628.0
+passage.questions.13.answers.2.text:Na hladilniku
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:2627.0
+passage.questions.13.answers.1.text:Na steni
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:2626.0
+passage.questions.13.answers.0.text:Na hladilniku
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:2625.0
+passage.questions.12.question:Kdo je star 8 let in navdušen?
+passage.questions.12.idx:514.0
+passage.questions.12.answers.3.text:Lucy
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:2624.0
+passage.questions.12.answers.2.text:Martha
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2623.0
+passage.questions.12.answers.1.text:Andy
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:2622.0
+passage.questions.12.answers.0.text:Oliver
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2621.0
+passage.questions.11.question:Kako se imenuje oseba, ki je domov pripeljala psa?
+passage.questions.11.idx:513.0
+passage.questions.11.answers.4.text:Lucy
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:2620.0
+passage.questions.11.answers.3.text:Oliver
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:2619.0
+passage.questions.11.answers.2.text:Andy
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2618.0
+passage.questions.11.answers.1.text:Martha
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:2617.0
+passage.questions.11.answers.0.text:Lucyna mama
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:2616.0
+passage.questions.10.question:Kako se imenuje oseba, ki nariše sliko svoje družine?
+passage.questions.10.idx:512.0
+passage.questions.10.answers.1.text:Lucy
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:2615.0
+passage.questions.10.answers.0.text:Martha
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2614.0
+passage.questions.1.question:Kdo je vključen v sliko, ki jo je risala Lucy?
+passage.questions.1.idx:503
+passage.questions.1.answers.6.text:Pes
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:2576.0
+passage.questions.1.answers.5.text:Oliver
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2575.0
+passage.questions.1.answers.4.text:Andy
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:2574.0
+passage.questions.1.answers.3.text:Ptica
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:2573.0
+passage.questions.1.answers.2.text:Njena mama
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2572.0
+passage.questions.1.answers.1.text:Njen brat
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2571
+passage.questions.1.answers.0.text:Njena družina, vključno z mamo in ptico
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2570
+passage.questions.0.question:Kaj Martha visi na srebrnem hladilniku?
+passage.questions.0.idx:502
+passage.questions.0.answers.4.text:Slika
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2569.0
+passage.questions.0.answers.3.text:Slike Lucy riše
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2568.0
+passage.questions.0.answers.2.text:Slike Lucy
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2567.0
+passage.questions.0.answers.1.text:Fotografija
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2566
+passage.questions.0.answers.0.text:Slika, ki jo je Lucy narisala
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2565
+idx:44

@@ -1,0 +1,77 @@
+version:1.1
+passage.text:Cavour je bil mlajši sin plemiške piemontske družine in je v vojsko vstopil leta 1826, služboval pri inženirjih. Zaradi njegovih liberalnih čustev mu vlada Charlesa Felixa ni zaupala kot nevarnega človeka in na nepomembnem položaju je bil obsojen na neaktivno življenje. Kmalu je zapustil vojsko in začel poslovati kot upravnik enega od posesti svoje družine. Dvanajst let se je omejeval na kmetijske napore, se seznanil z vsemi podrobnostmi poslovanja in s kmetijsko znanostjo, uvedel izboljšave, kot je uporaba gvana, in spodbujal kmetijska združenja; ni pa bil hkrati ravnodušen do javnih zadev, saj je bil eden najbolj vnetih zagovornikov ustavne svobode. Rezidenca v Angliji mu je dala veliko dragocenega znanja o delovanju predstavniških institucij. Leta 1847 je ustanovil politični časopis in šel v parlament kot član poslanske zbornice. Leta 1848 je z vsem svojim vplivom spodbudil vlado k vojni z Avstrijo; in ko je Charles Albert odstopil od prestola in Victor Emmanuel postal kralj, so bili Cavourjevi veliki talenti nagrajeni. Leta 1850 je postal minister za trgovino; leta 1852, premier. Po tem je njegova zgodovina zgodovina same Italije.
+passage.questions.3.question:Zakaj je Cavour zapustil vojsko?
+passage.questions.3.idx:701.0
+passage.questions.3.answers.5.text:Cavour je bil obsojen na nepomembno delovno mesto v vojski in tako je nehal
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:3494.0
+passage.questions.3.answers.4.text:Zanimalo ga je kmetijstvo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3493.0
+passage.questions.3.answers.3.text:Ker &quot;je bil v vojski obsojen na neaktivno življenje na nepomembnem delovnem mestu&quot;
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:3492.0
+passage.questions.3.answers.2.text:Ker mu vlada ni zaupala
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3491.0
+passage.questions.3.answers.1.text:1830
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3490.0
+passage.questions.3.answers.0.text:Hotel je biti politik in tako zapustiti vojsko
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3489.0
+passage.questions.2.question:Cavour je postal minister za trgovino, pod čigavo vladavino?
+passage.questions.2.idx:700
+passage.questions.2.answers.4.text:Kralj Charles Albert
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3488.0
+passage.questions.2.answers.3.text:Kralj Victor Emmanuel
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3487.0
+passage.questions.2.answers.2.text:Charles Piedmont
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3486.0
+passage.questions.2.answers.1.text:Charles Felix
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3485
+passage.questions.2.answers.0.text:Itay
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:3484
+passage.questions.1.question:Koliko let po vstopu v vojsko je Cavour postal premier?
+passage.questions.1.idx:699
+passage.questions.1.answers.4.text:30.
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3483.0
+passage.questions.1.answers.3.text:Šestindvajset
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3482.0
+passage.questions.1.answers.2.text:26.
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3481.0
+passage.questions.1.answers.1.text:Sedem in dvajset
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3480
+passage.questions.1.answers.0.text:26 let
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:3479
+passage.questions.0.question:Cavour je delal v kmetijstvu, potem ko je kaj naredil za svojo družino?
+passage.questions.0.idx:698
+passage.questions.0.answers.5.text:Po služenju inženirjev
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:3478.0
+passage.questions.0.answers.4.text:Postal je glava svoje družine
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3477.0
+passage.questions.0.answers.3.text:Dela &quot;v poslovnem poslovanju kot upravitelj enega od posesti svoje družine&quot;
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3476.0
+passage.questions.0.answers.2.text:Pridelovanje pridelkov
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3475.0
+passage.questions.0.answers.1.text:Postal je upravitelj enega od družinskih posesti
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3474
+passage.questions.0.answers.0.text:Po začetku poslovanja
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3473
+idx:58

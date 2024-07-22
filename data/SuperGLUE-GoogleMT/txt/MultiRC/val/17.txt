@@ -1,0 +1,193 @@
+version:1.1
+passage.text:Pred prehodom v Azijo je Aleksander hotel zaščititi svoje severne meje. Spomladi 335 pred našim štetjem je napredoval, da bi zatrl več uporov. Od Amfipolisa je odpotoval na vzhod v državo &quot;neodvisnih Tračanov&quot;; in na gori Haemus je makedonska vojska napadla in premagala traške sile s posadko na višinah. Makedonci so vkorakali v državo Triballi in svojo vojsko premagali v bližini reke Lyginus (pritok Donave). Aleksander je nato tri dni odkorakal do Donave in na nasprotni obali naletel na pleme Gete. Čez noč je prečkal reko, jih je presenetil in prisilil njihovo vojsko, da se je po prvem konjeniškem spopadu umaknila. Nato so do Aleksandera prišle novice, da sta se Kleit, kralj Ilirije, in kralj Glaukije iz Tavlantija odkrito uprla njegovi oblasti. Ko se je Aleksander odpravil proti zahodu v Ilirijo, je premagal vsakega po vrsti in prisilil vladarja, da sta s svojimi četami pobegnila. S temi zmagami si je zagotovil severno mejo. Medtem ko je Aleksander vodil kampanjo proti severu, so se Tebanci in Atenjani znova uprli. Aleksander se je takoj odpravil proti jugu. Medtem ko so druga mesta spet oklevala, so se Tebe odločile za boj. Tebanski odpor je bil neučinkovit in Aleksander je mesto zrušil in njegovo ozemlje razdelil med ostala beotska mesta. Konec Teb je pokril Atene in vso Grčijo začasno pustil v miru. Aleksander se je nato podal v svojo azijsko kampanjo, Antipatra pa je pustil za regenta.
+passage.questions.9.question:Ali sta bila Cleitus in Glaukias umorjena v bitki proti Aleksandrovim silam?
+passage.questions.9.idx:180.0
+passage.questions.9.answers.4.text:Usmrčeni so bili
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:945.0
+passage.questions.9.answers.3.text:Upravljanje
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:944.0
+passage.questions.9.answers.2.text:Da
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:943.0
+passage.questions.9.answers.1.text:Ne
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:942.0
+passage.questions.9.answers.0.text:Pobegnili so
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:941.0
+passage.questions.8.question:Kje v Grčiji se nahajajo Tebe in Atene?
+passage.questions.8.idx:179.0
+passage.questions.8.answers.5.text:Zahod
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:940.0
+passage.questions.8.answers.4.text:Med drugo
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:939.0
+passage.questions.8.answers.3.text:Grčija
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:938.0
+passage.questions.8.answers.2.text:Južno od Grčije
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:937.0
+passage.questions.8.answers.1.text:Jug
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:936.0
+passage.questions.8.answers.0.text:Severna Grčija
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:935.0
+passage.questions.7.question:Kakšen je bil Aleksanderov takojšen odziv, ko so se Tebe in Atene uprle?
+passage.questions.7.idx:178.0
+passage.questions.7.answers.5.text:Odpravili smo se proti jugu
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:934.0
+passage.questions.7.answers.4.text:Barnett
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:933.0
+passage.questions.7.answers.3.text:Usmerjena proti zahodu
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:932.0
+passage.questions.7.answers.2.text:Aleksander se je odpravil proti jugu
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:931.0
+passage.questions.7.answers.1.text:Predani
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:930.0
+passage.questions.7.answers.0.text:Očarano mesto
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:929.0
+passage.questions.6.question:Katere južne skupine so se uprle med Aleksandrovo severno kampanjo?
+passage.questions.6.idx:177.0
+passage.questions.6.answers.1.text:Kleit, kralj Ilirije
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:928.0
+passage.questions.6.answers.0.text:Tebanci in Atenjani
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:927.0
+passage.questions.5.question:Kdo se imenuje Aleksandrova vojska?
+passage.questions.5.idx:176.0
+passage.questions.5.answers.3.text:Aleksanderji
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:926.0
+passage.questions.5.answers.2.text:Makedonci
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:925.0
+passage.questions.5.answers.1.text:Makedonska vojska
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:924.0
+passage.questions.5.answers.0.text:Taulanti
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:923.0
+passage.questions.4.question:Ali se je Aleksander odločil zavarovati svoje severne fronte in ali mu je uspelo doseči ta cilj?
+passage.questions.4.idx:175.0
+passage.questions.4.answers.4.text:Ja in ja
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:922.0
+passage.questions.4.answers.3.text:Ni mu uspelo
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:921.0
+passage.questions.4.answers.2.text:Ne
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:920.0
+passage.questions.4.answers.1.text:Cilj dosežen
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:919.0
+passage.questions.4.answers.0.text:Peklenski ogenj
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:918.0
+passage.questions.3.question:Je Aleksander začel svojo azijsko kampanjo pred porazom v Tebah?
+passage.questions.3.idx:174.0
+passage.questions.3.answers.1.text:Po
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:917.0
+passage.questions.3.answers.0.text:Prej
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:916.0
+passage.questions.2.question:Kateri dve skupini je Aleksander premagal, da bi si zagotovil severno mejo?
+passage.questions.2.idx:173
+passage.questions.2.answers.9.text:Ilirija
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:915.0
+passage.questions.2.answers.8.text:Makedonci
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:914.0
+passage.questions.2.answers.7.text:Iliri in Taulanti
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:913.0
+passage.questions.2.answers.6.text:Triballi
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:912.0
+passage.questions.2.answers.5.text:Taulanti
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:911.0
+passage.questions.2.answers.4.text:Atta-jeve osebnosti
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:910.0
+passage.questions.2.answers.3.text:Neodvisni Tračani
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:909.0
+passage.questions.2.answers.2.text:Trakijski
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:908.0
+passage.questions.2.answers.1.text:Grki
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:907
+passage.questions.2.answers.0.text:Gete
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:906
+passage.questions.10.question:Kako so se Tebanci uprli Aleksandru?
+passage.questions.10.idx:181.0
+passage.questions.10.answers.3.text:Priloženo
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:949.0
+passage.questions.10.answers.2.text:Tebanci so se uprli in se odločili za boj
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:948.0
+passage.questions.10.answers.1.text:Kravje Atene
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:947.0
+passage.questions.10.answers.0.text:Odločil se je za boj
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:946.0
+passage.questions.1.question:Katere kraje je osvojil Aleksander?
+passage.questions.1.idx:172
+passage.questions.1.answers.4.text:Ilirija
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:905.0
+passage.questions.1.answers.3.text:Taulanti
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:904.0
+passage.questions.1.answers.2.text:Gora Haemus, Triballi, Tebe
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:903.0
+passage.questions.1.answers.1.text:Grčija
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:902
+passage.questions.1.answers.0.text:Atene
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:901
+passage.questions.0.question:Kaj je storil Aleksander, ko je izvedel, da so se Kleit, kralj Ilirije in kralj Glaukije iz Tavlantij, javno uprli njegovi oblasti?
+passage.questions.0.idx:171
+passage.questions.0.answers.6.text:Zaradi njih so pobegnili
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:900.0
+passage.questions.0.answers.5.text:Sprejeli njihov upor
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:899.0
+passage.questions.0.answers.4.text:Premagal oba
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:898.0
+passage.questions.0.answers.3.text:Pohodil se je proti zahodu v Ilirijo in jih vsakega premagal, prisilil oba pravila, da sta skupaj s svojimi četami pobegnila. Ta zmaga mu je omogočila, da je zavaroval svojo severno mejo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:897.0
+passage.questions.0.answers.2.text:Odnehal
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:896.0
+passage.questions.0.answers.1.text:Pohod proti zahodu
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:895
+passage.questions.0.answers.0.text:Usmerjen proti severu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:894
+idx:17

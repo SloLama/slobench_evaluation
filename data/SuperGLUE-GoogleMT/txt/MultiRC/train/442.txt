@@ -1,0 +1,118 @@
+version:1.1
+passage.text:Tomovo sprostitev na plaži prekine Jerry, ki se nehote sprehodi po sončenju Tomu na ribolovu. Jerry pade Tomu v usta in med pobegom skoraj povzroči, da Tom pogoltne svojo brisačo za plažo. Jerry gre na pomol in ulije svojo najljubšo vabo: sir. Tom potegne črto in Jerryja navije. Jerry spusti linijo in Tom se trudi, da bi ostal na površju in izgubil struno. Tom komaj ulovi pomol, toda Jerry mu zamahne s palico. Po nekaj zgrešenih Jerry zažvižga in nato nanese neposreden zadetek. Steče do konca pomola in potegne končno desko. Tom ne more zavirati in hodi po deski, dokler je Jerry ne izvleče, zaradi česar Tom pade v vodo in ne izstopi. Utapljajoči se Tom se zbudi na morskem dnu, kjer se znajde še živ. Začne posnemati veličastna morska bitja, dokler ne zagleda Jerryja. Mačka ga zgrabi, a Jerry se umakne in razkrije, da je postal veselo-miš. Jerry plava v krogih, dokler Tomova glava ne naredi 360, nato pa ga spet zgrabijo. Jerry z repom udari Toma po obrazu, nato pa zavrti ušesa v obliki ključa. Mačka se preganja skozi okna brodolomov, dokler se Tom ne odloži, da bi pogoltnil miško. Jerry prodre skozi Tomov levi bobnič. Jerry se skrije in se preobleče v morskega konjička, da se pridruži očetu morskemu konju, ki vodi njegove dojenčke, in mačko samo nekaj časa zavaja. Jerryja nato ujamejo in ga ujamejo, toda Tomu nakažejo, da drži ribiško vrvico in ga ujamejo.
+passage.questions.4.question:Kdaj se Tom odloči, da se vrne k Jerryju?
+passage.questions.4.idx:4993.0
+passage.questions.4.answers.6.text:Tom se zbudi na morskem dnu
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:26541.0
+passage.questions.4.answers.5.text:V vodi
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:26540.0
+passage.questions.4.answers.4.text:Tom potegne črto
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:26539.0
+passage.questions.4.answers.3.text:Tom prisili Jerryja, da ga privije
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:26538.0
+passage.questions.4.answers.2.text:Ko Jerry pade Tomu v usta in skoraj povzroči, da se Tom zaduši na svoji brisači za plažo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:26537.0
+passage.questions.4.answers.1.text:V svoji sobi
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:26536.0
+passage.questions.4.answers.0.text:Ko se Tom znajde še živ
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:26535.0
+passage.questions.3.question:Kje Tom na kratko pozabi na svojo preganjanje z Jerryjem?
+passage.questions.3.idx:4992.0
+passage.questions.3.answers.6.text:Morsko dno, kjer se je zbudil po skorajda utopitvi
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:26534.0
+passage.questions.3.answers.5.text:Ko se je Jerry pridružil očetu morskim konjičkom
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:26533.0
+passage.questions.3.answers.4.text:Ko se sprošča
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:26532.0
+passage.questions.3.answers.3.text:Začel je posnemati veličastna morska bitja, nato pa opazil Jerryja
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:26531.0
+passage.questions.3.answers.2.text:Na morskem dnu
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:26530.0
+passage.questions.3.answers.1.text:Ko spi
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:26529.0
+passage.questions.3.answers.0.text:Ko se Jerry preobleče v morskega konjička
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:26528.0
+passage.questions.2.question:Kako Jerryju uide, da ga zasledujejo skozi brodolom?
+passage.questions.2.idx:4991.0
+passage.questions.2.answers.6.text:Skril se je in se preoblekel v morskega konjička
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:26527.0
+passage.questions.2.answers.5.text:Pobegne
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:26526.0
+passage.questions.2.answers.4.text:Jerry prodre skozi Tomov levi bobnič
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:26525.0
+passage.questions.2.answers.3.text:Ušesa zavrti v obliki ključa
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:26524.0
+passage.questions.2.answers.2.text:Skozi Tomov levi bobnič
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:26523.0
+passage.questions.2.answers.1.text:Z repom udari Toma po obrazu
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26522.0
+passage.questions.2.answers.0.text:Tom se pusti pogoltniti in pobegne skozi Tomov bobnič
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26521.0
+passage.questions.1.question:Ali Jerry ujame Toma kot ribo na ribiški vrvi?
+passage.questions.1.idx:4990.0
+passage.questions.1.answers.6.text:Toma zavedejo, da drži ribiško vrvico in ga ujamejo
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:26520.0
+passage.questions.1.answers.5.text:Jerryja so posneli in ujeli
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:26519.0
+passage.questions.1.answers.4.text:Da
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:26518.0
+passage.questions.1.answers.3.text:Ne, Tom ujame črto, toda Jerry ga ne zavije
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:26517.0
+passage.questions.1.answers.2.text:Ne
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:26516.0
+passage.questions.1.answers.1.text:Da, Jerry je ujel Toma
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:26515.0
+passage.questions.1.answers.0.text:Toma so ujeli in ujeli
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26514.0
+passage.questions.0.question:Kdaj se Tom skorajda utopi?
+passage.questions.0.idx:4989
+passage.questions.0.answers.6.text:Tom izgubi vrvico
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:26513.0
+passage.questions.0.answers.5.text:Ko razkrije, je postal miška
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:26512.0
+passage.questions.0.answers.4.text:Jerry je pustil vrvico
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:26511.0
+passage.questions.0.answers.3.text:Ko Jerry izvleče desko, je Tom hodil naprej
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:26510.0
+passage.questions.0.answers.2.text:Ko ga kita pogoltne
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:26509.0
+passage.questions.0.answers.1.text:Ko Jerry udari Toma z repom po obrazu
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:26508
+passage.questions.0.answers.0.text:Ko pade na morsko dno
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:26507
+idx:442

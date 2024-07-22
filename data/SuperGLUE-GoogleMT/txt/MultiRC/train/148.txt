@@ -1,0 +1,181 @@
+version:1.1
+passage.text:Tovarna je zelo avtomatizirana in zasnovana za prilagodljiv premik za proizvodnjo številnih različnih vrst čipov, ki ustrezajo povpraševanju. &quot;Raznolikost je velika razlika pri tej rastlini,&quot; je dejal Richard Doherty, predsednik raziskovalnega podjetja Envisioneering. &quot;IBM daje zmožnost izdelave toliko različnih vrst čipov po meri, svet pa ustvarja čipe po meri.&quot; Obrat s površino 140.000 kvadratnih metrov priča o napredni proizvodni tehnologiji. 300-milimetrske silicijeve napolitanke - približno velikosti običajne pice - so po objektu razporejene v zaprtih plastičnih strokih, ki se vozijo po regalih. Iz žic se samodejno spustijo v stroje, obložene iz nerjavečega jekla in stekla, za vsako fazo obdelave in izdelave. V 500 korakih obdelave, ki običajno trajajo 20 dni, se napolitank ne dotakne človeška roka. Vezja, vtisnjena v čipe, so manjša od tisočinke človeške dlake. Človeški operaterji so na voljo za spremljanje sistemov, odkrivanje napak in natančno prilagajanje proizvodnega procesa za največjo učinkovitost. Ker je vsaka od sto obdelovalnih strojev samozaprta in v bistvu nepredušno zaprta, so uniforme, ki jih imajo operaterji, manj omejene kot v prejšnji generaciji tovarn čipov, ki so bile videti kot vesoljske obleke. Operaterji v tovarni East Fishkill nosijo lahke najlonske uniforme, svetlo modre obloge za čevlje in prosojne mreže za lase iz papirja. Bolj so videti kot delavci v pekarni. Da, je dejal Richard Brilla, direktor novega obrata, &quot;toda krofi so tukaj veliko dražji.&quot; Vsak rezin, ki vsebuje na stotine žetonov, je vreden od 6000 do 10.000 dolarjev na kos, odvisno od tega, katera izolacija, vezja in materiali se uporabljajo.
+passage.questions.7.question:Kakšna je približno velikost vezij, vtisnjenih v čipe, kot je opisano zgoraj?
+passage.questions.7.idx:1678.0
+passage.questions.7.answers.5.text:Lepa melodija
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:8690.0
+passage.questions.7.answers.4.text:300 milimetrov silicija
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:8689.0
+passage.questions.7.answers.3.text:500 milimetrov
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:8688.0
+passage.questions.7.answers.2.text:Majhna
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8687.0
+passage.questions.7.answers.1.text:140.000 kvadratnih metrov
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8686.0
+passage.questions.7.answers.0.text:Manj kot tisočinka širine človeškega lasja
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:8685.0
+passage.questions.6.question:Kako je ime tovarne, kjer je direktor Richard Brilla?
+passage.questions.6.idx:1677.0
+passage.questions.6.answers.4.text:Tovarna East Fishkill
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:8684.0
+passage.questions.6.answers.3.text:IBM
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:8683.0
+passage.questions.6.answers.2.text:East Fishkill
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:8682.0
+passage.questions.6.answers.1.text:Doherty
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:8681.0
+passage.questions.6.answers.0.text:Predvidevanje
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8680.0
+passage.questions.5.question:Kako velike so napolitanke, ki se jih človeška roka ne dotakne?
+passage.questions.5.idx:1676.0
+passage.questions.5.answers.6.text:Širina človeških las
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:8679.0
+passage.questions.5.answers.5.text:500 mm
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:8678.0
+passage.questions.5.answers.4.text:Tisočina širine človeškega lasja
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:8677.0
+passage.questions.5.answers.3.text:Velikost standardne pice
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:8676.0
+passage.questions.5.answers.2.text:300 milimetrov
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:8675.0
+passage.questions.5.answers.1.text:Velikost krofa
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8674.0
+passage.questions.5.answers.0.text:300 mm
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:8673.0
+passage.questions.4.question:Kakšen je kratek povzetek videza uniform operaterjev, kot je opisano zgoraj?
+passage.questions.4.idx:1675.0
+passage.questions.4.answers.7.text:Nosijo težke kovinske čevlje in bel laboratorijski plašč
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:8672.0
+passage.questions.4.answers.6.text:Nosijo vinilne kape in plašče
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:8671.0
+passage.questions.4.answers.5.text:Nosijo mreže za lase in modre uniforme
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:8670.0
+passage.questions.4.answers.4.text:Kot delavci v pekarni
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:8669.0
+passage.questions.4.answers.3.text:Napredna tehnologija
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:8668.0
+passage.questions.4.answers.2.text:Zelo avtomatiziran
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:8667.0
+passage.questions.4.answers.1.text:Nosite lahke najlonske uniforme, svetlo modre obloge za čevlje in prosojne mreže za lase iz papirja
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:8666.0
+passage.questions.4.answers.0.text:Dražje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8665.0
+passage.questions.3.question:Zakaj so operaterji v tovarni East Fishkill videti kot delavci v pekarni?
+passage.questions.3.idx:1674.0
+passage.questions.3.answers.5.text:Naredijo krofe
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:8664.0
+passage.questions.3.answers.4.text:To je zato, ker nosijo lahke najlonske uniforme, svetlo modre obloge za čevlje in prosojne mreže za lase iz papirja
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:8663.0
+passage.questions.3.answers.3.text:Ker nosijo lahke uniforme, pokrivala za čevlje in mreže za lase
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:8662.0
+passage.questions.3.answers.2.text:Ker se zdi, da nosijo vesoljske obleke
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8661.0
+passage.questions.3.answers.1.text:Ker so predelovalni stroji samozaprti
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8660.0
+passage.questions.3.answers.0.text:Ker so napolitanke velikosti običajne pice
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8659.0
+passage.questions.2.question:Kateri koraki so potrebni za vsako fazo izdelave?
+passage.questions.2.idx:1673.0
+passage.questions.2.answers.8.text:Transport transportnih trakov
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:8658.0
+passage.questions.2.answers.7.text:300-milimetrske silicijeve rezine se po objektu razprostirajo v zaprtih plastičnih posodah, ki se vozijo po zračnem tiru, preden se iz žic samodejno spustijo v stroje. Na koncu so obloženi z nerjavnim jeklom in steklom
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:8657.0
+passage.questions.2.answers.6.text:Manj kot 1000
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:8656.0
+passage.questions.2.answers.5.text:20.
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:8655.0
+passage.questions.2.answers.4.text:300
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:8654.0
+passage.questions.2.answers.3.text:500
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:8653.0
+passage.questions.2.answers.2.text:Silicijeve rezine se iz žic samodejno spustijo v stroje, obložene iz nerjavečega jekla in stekla
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:8652.0
+passage.questions.2.answers.1.text:Avtomatizacija
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8651.0
+passage.questions.2.answers.0.text:Ukrepi, sprejeti za vsako komponento
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8650.0
+passage.questions.1.question:V kaj so oblečene silicijeve napolitanke?
+passage.questions.1.idx:1672.0
+passage.questions.1.answers.4.text:Plastični stroki
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8649.0
+passage.questions.1.answers.3.text:Lahke najlonske uniforme
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:8648.0
+passage.questions.1.answers.2.text:Najlon
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8647.0
+passage.questions.1.answers.1.text:Nerjaveče jeklo in steklo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8646.0
+passage.questions.1.answers.0.text:Prosojne papirnate mreže
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8645.0
+passage.questions.0.question:Kaj IBM-u omogoča izdelavo različnih vrst čipov po meri?
+passage.questions.0.idx:1671
+passage.questions.0.answers.7.text:Na stotine predelovalnih strojev
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:8644.0
+passage.questions.0.answers.6.text:Človeški operaterji, ki lovijo napake
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:8643.0
+passage.questions.0.answers.5.text:Zasnovan za prilagodljivo premikanje
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:8642.0
+passage.questions.0.answers.4.text:Raziskave
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:8641.0
+passage.questions.0.answers.3.text:Obrat, velik 140.000 kvadratnih metrov
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:8640.0
+passage.questions.0.answers.2.text:krofi
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8639.0
+passage.questions.0.answers.1.text:Raznolikost
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8638
+passage.questions.0.answers.0.text:Avtomatizirana proizvodna tehnologija
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8637
+idx:148

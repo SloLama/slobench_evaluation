@@ -1,0 +1,229 @@
+version:1.1
+passage.text:Ste že kaj zažgali na štedilniku ali v pečici? Veste, zakaj stvari gorijo? Vse je povezano s temperaturo. Na spremembe snovi vpliva temperatura. Kaj na primer, če torto postavite v pečico in jo pustite predolgo? Kaj misliš, da se bo zgodilo? Tako je, verjetno bo zagorelo. Enako se bo zgodilo, če je nastavitev pečice previsoka in če uporabite preveč toplote. V obeh primerih je toplota vplivala na hitrost sprememb snovi. Verjetno je očitno, da se bo pri zvišanju temperature kemijska sprememba, kot je kuhanje, zgodila hitreje. Kaj pa fizična sprememba? Ali na fizične spremembe vpliva temperatura? Večina od nas je videla, kako se po poletni nevihti z mokre ceste dviga para. To se zgodi, ker je cestna površina zelo topla. Zaradi tople ceste in temperature toplega zraka voda hitro izhlapi. Tekoča voda se spreminja v vodno paro, vendar je še vedno voda. Izhlapevanje vode je fizična sprememba. Torej da, temperatura vpliva na hitrost fizičnih sprememb.
+passage.questions.9.question:Kaj lahko povzroči fizično spremembo vode?
+passage.questions.9.idx:3461.0
+passage.questions.9.answers.5.text:Pritisk
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:18238.0
+passage.questions.9.answers.4.text:Mokro
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:18237.0
+passage.questions.9.answers.3.text:Temperatura
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:18236.0
+passage.questions.9.answers.2.text:Kemične spremembe
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:18235.0
+passage.questions.9.answers.1.text:Vročina
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:18234.0
+passage.questions.9.answers.0.text:Hitrost spremembe snovi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:18233.0
+passage.questions.8.question:Kakšne fizične spremembe povzroča temperatura?
+passage.questions.8.idx:3460.0
+passage.questions.8.answers.6.text:Voda se spremeni v hlape, pekoča pogača
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:18232.0
+passage.questions.8.answers.5.text:Voda postaja hladen led
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:18231.0
+passage.questions.8.answers.4.text:Tekočina se spremeni v hlape, izhlapevanje, cesta postane topla
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:18230.0
+passage.questions.8.answers.3.text:Para se dviga z mokre ceste po poletni nevihti
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:18229.0
+passage.questions.8.answers.2.text:Povišanje temperature, kondenzacija
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:18228.0
+passage.questions.8.answers.1.text:Izhlapevanje vode
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:18227.0
+passage.questions.8.answers.0.text:Kemične spremembe
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:18226.0
+passage.questions.7.question:Kakšno fizično spremembo temperature opazimo poleti in kako se pojavi?
+passage.questions.7.idx:3459.0
+passage.questions.7.answers.9.text:Po poletni nevihti je površina ceste zelo topla, zaradi toplega zraka pa voda izhlapi, zato
+passage.questions.7.answers.9.label:1.0
+passage.questions.7.answers.9.idx:18225.0
+passage.questions.7.answers.8.text:Topla cesta in topel zrak povzroči, da podložka hitro izhlapi in se spremeni v hlape
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:18224.0
+passage.questions.7.answers.7.text:Para se dviga z mokre ceste po deževju.
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:18223.0
+passage.questions.7.answers.6.text:To se zgodi, ker je cestna površina zelo topla
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:18222.0
+passage.questions.7.answers.5.text:Para se dviga z mokre ceste
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:18221.0
+passage.questions.7.answers.4.text:To se zgodi, ker je cestna površina zelo topla
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:18220.0
+passage.questions.7.answers.3.text:Para se dviga z mokre ceste po poletni nevihti.
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:18219.0
+passage.questions.7.answers.2.text:Izhlapevanje
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:18218.0
+passage.questions.7.answers.1.text:Kemične spremembe na cesti
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:18217.0
+passage.questions.7.answers.0.text:Cesta bo zaradi deževnice erodirala
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:18216.0
+passage.questions.6.question:Zakaj stvari gorijo?
+passage.questions.6.idx:3458.0
+passage.questions.6.answers.6.text:Kuhanje hitrejše
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:18215.0
+passage.questions.6.answers.5.text:Ker dobijo temperaturo
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:18214.0
+passage.questions.6.answers.4.text:Zaradi padca temperature
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:18213.0
+passage.questions.6.answers.3.text:Zaradi povišanja temperature
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:18212.0
+passage.questions.6.answers.2.text:Pregrevanje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:18211.0
+passage.questions.6.answers.1.text:Zaradi dviga temperature
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:18210.0
+passage.questions.6.answers.0.text:Stvari, ki gorijo, so povezane s temperaturo, saj na spremembe snovi vpliva temperatura
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:18209.0
+passage.questions.5.question:Kaj lahko povzroči vročina?
+passage.questions.5.idx:3457.0
+passage.questions.5.answers.4.text:Sprememba temperature
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:18208.0
+passage.questions.5.answers.3.text:Toplota ohladi fizično spremembo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:18207.0
+passage.questions.5.answers.2.text:Vročina lahko vpliva na hitrost spremembe snovi in ko se temperatura poviša, se kemične spremembe, kot je kuhanje, pojavijo hitreje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:18206.0
+passage.questions.5.answers.1.text:Toplota vpliva na hitrost spremembe snovi
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:18205.0
+passage.questions.5.answers.0.text:Hitrost spremembe snovi
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:18204.0
+passage.questions.4.question:Kakšne spremembe lahko povzroči temperatura?
+passage.questions.4.idx:3456.0
+passage.questions.4.answers.4.text:Voda, ki se dviga s površine ceste
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:18203.0
+passage.questions.4.answers.3.text:Fizične spremembe
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:18202.0
+passage.questions.4.answers.2.text:Kemične spremembe
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:18201.0
+passage.questions.4.answers.1.text:Zvok se spremeni
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:18200.0
+passage.questions.4.answers.0.text:Izhlapevanje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:18199.0
+passage.questions.3.question:Kaj povzroča, da stvari gorijo?
+passage.questions.3.idx:3455.0
+passage.questions.3.answers.5.text:Dvig temperature
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:18198.0
+passage.questions.3.answers.4.text:Padec temperature
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:18197.0
+passage.questions.3.answers.3.text:Nastavitev pečice je previsoka
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:18196.0
+passage.questions.3.answers.2.text:Temperatura
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:18195.0
+passage.questions.3.answers.1.text:Izhlapevanje
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:18194.0
+passage.questions.3.answers.0.text:Mokra cesta
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18193.0
+passage.questions.2.question:Kaj se lahko zgodi, če torto postavite v pečico in uporabite preveč toplote ali pečico nastavite previsoko?
+passage.questions.2.idx:3454.0
+passage.questions.2.answers.4.text:Mokro
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:18192.0
+passage.questions.2.answers.3.text:Povzročila bo hitrost spremembe snovi
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:18191.0
+passage.questions.2.answers.2.text:Tako okusno bo postalo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:18190.0
+passage.questions.2.answers.1.text:Zagorelo bo
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:18189.0
+passage.questions.2.answers.0.text:Povzroča prenos temperature
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:18188.0
+passage.questions.10.question:Navedite dva primera, kako toplota vpliva na snov.
+passage.questions.10.idx:3462.0
+passage.questions.10.answers.5.text:Opekline, pregrevanje
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:18244.0
+passage.questions.10.answers.4.text:Torta zgoraj levo bo predolgo zgorela, enako, če bo vročina previsoka
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:18243.0
+passage.questions.10.answers.3.text:Tekoča voda se spreminja v vodno paro, vendar je še vedno voda. Izhlapevanje vode je fizična sprememba. Če torto postavite v pečico in jo pustite predolgo, bo zgorela.
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:18242.0
+passage.questions.10.answers.2.text:Izhlapevanje, kemične spremembe
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:18241.0
+passage.questions.10.answers.1.text:Izhlapevanje, tekoče
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:18240.0
+passage.questions.10.answers.0.text:Pomaga tvoriti led in tvoriti trdno snov
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:18239.0
+passage.questions.1.question:Zakaj bi se po poletni nevihti z mokre ceste dvigala para?
+passage.questions.1.idx:3453.0
+passage.questions.1.answers.4.text:Ker je površina ceste zelo topla, temperatura tople ceste in toplega zraka povzroči, da voda hitro izhlapi
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:18187.0
+passage.questions.1.answers.3.text:Ker je cestna površina zelo hladna
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:18186.0
+passage.questions.1.answers.2.text:Kemične spremembe
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:18185.0
+passage.questions.1.answers.1.text:Ker je cestna površina zelo topla
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:18184.0
+passage.questions.1.answers.0.text:Povečanje temperature
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18183.0
+passage.questions.0.question:Kaj povzroča, da pogače v pečici gorijo in voda s ceste izhlapi v vročem dnevu?
+passage.questions.0.idx:3452
+passage.questions.0.answers.5.text:Dvig temperature
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:18182.0
+passage.questions.0.answers.4.text:Padec temperature
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:18181.0
+passage.questions.0.answers.3.text:Mokro
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:18180.0
+passage.questions.0.answers.2.text:Pod vročino
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:18179.0
+passage.questions.0.answers.1.text:Vročina
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:18178
+passage.questions.0.answers.0.text:Dvig temperature
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:18177
+idx:304

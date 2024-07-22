@@ -1,0 +1,6 @@
+choice1:Hotel je izklopiti budilko.
+choice2:Hotel je zlikati hlače pred službo.
+idx:35
+label:0
+premise:V naglici je skočil iz postelje.
+question:cause

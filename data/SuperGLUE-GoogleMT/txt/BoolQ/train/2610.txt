@@ -1,0 +1,4 @@
+idx:2610
+label:True
+passage:Pravočasna kompilacija - JIT kompilacija je kombinacija dveh tradicionalnih pristopov k prevajanju v strojno kodo - predčasna kompilacija (AOT) in interpretacija - in združuje nekatere prednosti in pomanjkljivosti obeh. Približno združitev JIT združuje hitrost prevedene kode s prilagodljivostjo razlage, z dodatnimi stroški tolmača in dodatnimi stroški prevajanja (ne samo z razlaganjem). JIT prevajanje je oblika dinamičnega prevajanja in omogoča prilagodljivo optimizacijo, kot je dinamična ponovna prevajanje - tako teoretično lahko prevajanje JIT prinese hitrejše izvajanje kot statično prevajanje. Tolmačenje in kompilacija JIT sta še posebej primerna za dinamične programske jezike, saj lahko izvajalni sistem obdeluje pozno vezane vrste podatkov in uveljavlja varnostna jamstva.
+question:java ustvari kodo tik preden je popolnoma prevedena v strojno kodo

@@ -1,0 +1,6 @@
+choice1:Policija je opustila primer.
+choice2:Ubežnik je bil na begu.
+idx:79
+label:1
+premise:Ubežnik se je skrival pred policijo.
+question:effect

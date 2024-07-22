@@ -1,0 +1,260 @@
+version:1.1
+passage.text:Zlata doba Heian: Geomanti so se leta 794 odločili, da bo Heian-kyo (sodobni Kjoto) ugodno mesto za cesarsko družino. Res je bilo - do leta 1869. Budističnim templjem in pripadnikom dvorne aristokracije so v preteklih letih podeljevali neobdavčeno zemljišče. Najmočnejše družine so si tako oblikovale cele regije, ki naj bi postale fevd japonskega fevdalizma. Do konca osmega stoletja so klani ustvarili hierarhijo šiki ali pravic od najvišjih do najnižjih družbenih slojev. Aristokrat ali dvorni pokrovitelj je svoj ugled posodil močnemu deželnemu lastniku, ki je za nadzor malih posestnikov zaposloval pristojnega upravnika posestva, ki pa je svoje kmetije delal z odvisnimi delavci. Ta dodelana struktura soodvisnih pravic in obveznosti naj bi služila japonski družbi vse do 20. stoletja. Medtem je sodniško življenje Heian zacvetelo v izlivu estetskega izraza. Princi in princese so ocenjevali prednosti ptic, žuželk, rož, korenin ali školjk. Literarne zabavne igre na okrašenih palačnih vrtovih so od vsakega gosta morale sestaviti majhno pesem, ko je njegova vinska skodelica plavala proti njemu vzdolž miniaturnega vijugastega vodnega kanala. Organizirane so bile odprave na najboljša razgledna mesta za prve spomladanske cvetove češenj, zgrajeni pa so bili tudi posebni paviljoni za opazovanje vzpona polne lune. Vsaka gesta, od najbolj banalnega odpiranja dežnika do vzvišenega vodenja ljubezni, je imela svoj ustrezen obred. Pogovor je pogosto potekal v obliki elegantne izmenjave improviziranih verzov. Spreminjajoča se vloga kitajske kulture v japonskem življenju se je odražala v samem jeziku. V odsotnosti avtohtone abecede so japonski učenjaki z največjimi težavami skušali prilagoditi kompleksne ideograme enočlanske kitajščine v bistvu večsločni japonščini. Tako razvit sistem katakana, ki se uporablja kot sredstvo za pisanje budističnih imen in konceptov. Potem ko so si tekmečne frakcije Fujiwara leta prizadevale za nadzor nad cesarskim prestolom, so se leta 1156 obrnile na vojski Taira in Minamoto, da bi vodile štiriletno vojno, ki je napovedovala konec zlate dobe heianskega dvora. Taira, ki je nadzorovala regijo ob celinskem morju, je premagala vojske Minamoto s sedežem v provinci Kanto vzhodno od prestolnice.
+passage.questions.9.question:Kakšna je bila japonska beseda za dodelano strukturo soodvisnih pravic in obveznosti, ki je služila japonski družbi v 20. stoletju?
+passage.questions.9.idx:4589.0
+passage.questions.9.answers.1.text:Sushimi
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:24237.0
+passage.questions.9.answers.0.text:Shiki
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:24236.0
+passage.questions.8.question:Kako je japonski fevdalizem vplival na Kjoto?
+passage.questions.8.idx:4588.0
+passage.questions.8.answers.5.text:Najmočnejše družine so trdile, da cele regije služijo kot fevd njihove družine, hkrati pa vzpostavljajo hierarhijo znotraj družbe
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:24235.0
+passage.questions.8.answers.4.text:Leta 794 so se geomanti odločili, da bo Heian-kyo (sodobni Kjoto) ugodno mesto za cesarsko družino. Poslano 2: Bilo je res… do leta 1869
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:24234.0
+passage.questions.8.answers.3.text:Japonci so se spopadali s Kitajci
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:24233.0
+passage.questions.8.answers.2.text:Ukineno je bilo
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:24232.0
+passage.questions.8.answers.1.text:Kralj je zahteval veliko dežel
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:24231.0
+passage.questions.8.answers.0.text:Močne družine so zahtevale cele regije
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:24230.0
+passage.questions.7.question:V katerem časovnem obdobju je bil Heian-kyo uporabljen kot kraj za cesarsko družino?
+passage.questions.7.idx:4587.0
+passage.questions.7.answers.3.text:Od 794 do 1869
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:24229.0
+passage.questions.7.answers.2.text:1899
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:24228.0
+passage.questions.7.answers.1.text:Japonsko življenje
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:24227.0
+passage.questions.7.answers.0.text:20. stoletje
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:24226.0
+passage.questions.6.question:Kaj je privedlo do tega, da je vojska Tiara premagala vojske Minamoto?
+passage.questions.6.idx:4586.0
+passage.questions.6.answers.3.text:Tekmujoče frakcije Fujiwara
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:24225.0
+passage.questions.6.answers.2.text:Sistem Katakana
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:24224.0
+passage.questions.6.answers.1.text:Vojna
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:24223.0
+passage.questions.6.answers.0.text:Ljubezen
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:24222.0
+passage.questions.5.question:Kaj je pripeljalo do razvoja sistema katakana?
+passage.questions.5.idx:4585.0
+passage.questions.5.answers.4.text:Shiki
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:24221.0
+passage.questions.5.answers.3.text:Mehičani
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:24220.0
+passage.questions.5.answers.2.text:Heian-kyo
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:24219.0
+passage.questions.5.answers.1.text:Odsotnost avtohtone abecede
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:24218.0
+passage.questions.5.answers.0.text:Potreba po prilagoditvi zapletenih kitajskih ideogramov
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:24217.0
+passage.questions.4.question:Kakšno časovno obdobje za uporabo hierarhije Shiki se uporablja?
+passage.questions.4.idx:4584.0
+passage.questions.4.answers.3.text:666
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:24216.0
+passage.questions.4.answers.2.text:Osmo stoletje v 20. stoletje
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:24215.0
+passage.questions.4.answers.1.text:18. stoletje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:24214.0
+passage.questions.4.answers.0.text:21. stoletje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:24213.0
+passage.questions.3.question:Kdaj se je končala doba zlate heian?
+passage.questions.3.idx:4583.0
+passage.questions.3.answers.3.text:1869
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:24212.0
+passage.questions.3.answers.2.text:1969
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:24211.0
+passage.questions.3.answers.1.text:1156
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:24210.0
+passage.questions.3.answers.0.text:794
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:24209.0
+passage.questions.2.question:Kaj je močnim družinam omogočilo, da so si prizadevale za velike regije pred vrhuncem japonskega fevdalizma?
+passage.questions.2.idx:4582.0
+passage.questions.2.answers.3.text:Cesar
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:24208.0
+passage.questions.2.answers.2.text:Nepovratna zemljišča
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:24207.0
+passage.questions.2.answers.1.text:Z ustvarjanjem hierarhije šiki
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24206.0
+passage.questions.2.answers.0.text:Podelitev neobdavčene zemlje pripadnikom dvorne aristokracije in budističnih templjev
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:24205.0
+passage.questions.15.question:Kakšen pisani jezik se je sčasoma razvil zaradi spreminjanja kitajske kulture v japonskem življenju?
+passage.questions.15.idx:4595.0
+passage.questions.15.answers.4.text:Japonski
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:24271.0
+passage.questions.15.answers.3.text:Heian-kyo
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:24270.0
+passage.questions.15.answers.2.text:Avtohtona abeceda
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:24269.0
+passage.questions.15.answers.1.text:angleščina
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:24268.0
+passage.questions.15.answers.0.text:Sistem Katakana
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:24267.0
+passage.questions.14.question:Kaj je privedlo do razvoja sistema katakana?
+passage.questions.14.idx:4594.0
+passage.questions.14.answers.5.text:Odsotnosti avtohtone abecede
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:24266.0
+passage.questions.14.answers.4.text:Kitajci
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:24265.0
+passage.questions.14.answers.3.text:Spreminjajoča se vloga kitajske kulture
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:24264.0
+passage.questions.14.answers.2.text:Potreba po jeziku
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:24263.0
+passage.questions.14.answers.1.text:Budisti
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:24262.0
+passage.questions.14.answers.0.text:V odsotnosti avtohtone abecede so japonski učenjaki z največjimi težavami skušali prilagoditi kompleksne ideograme enočlanske kitajščine v bistvu večsločni japonski
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:24261.0
+passage.questions.13.question:V sodnem življenju Heian princi in princese presojajo o lastnostih bitij in predmetov na podlagi katere kategorije?
+passage.questions.13.idx:4593.0
+passage.questions.13.answers.7.text:Njihova teža
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:24260.0
+passage.questions.13.answers.6.text:Kompleksnost
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:24259.0
+passage.questions.13.answers.5.text:Estetika
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:24258.0
+passage.questions.13.answers.4.text:Njihova velikost
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:24257.0
+passage.questions.13.answers.3.text:Prispevek k njihovi državi
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:24256.0
+passage.questions.13.answers.2.text:Njihova cena
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:24255.0
+passage.questions.13.answers.1.text:Njihova denarna vrednost
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:24254.0
+passage.questions.13.answers.0.text:Estetski izraz
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:24253.0
+passage.questions.12.question:Kdo je napadel Kjoto in kakšen je bil rezultat?
+passage.questions.12.idx:4592.0
+passage.questions.12.answers.5.text:Tekmujoče frakcije Fujiwara, vojski Taira in Minamoto. Sodišče Heian je padlo in vojske Minamoto so bile poražene
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:24252.0
+passage.questions.12.answers.4.text:Kitajci
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:24251.0
+passage.questions.12.answers.3.text:Heians
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:24250.0
+passage.questions.12.answers.2.text:Zavedite se
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:24249.0
+passage.questions.12.answers.1.text:Japonski učenjaki
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:24248.0
+passage.questions.12.answers.0.text:Budisti
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:24247.0
+passage.questions.11.question:Kateri ljudje so lahko na primer doživeli literarne zabavne igre na okrašenih dvornih vrtovih in odprave po najboljših krajih, kjer so videli prve spomladanske cvetove češenj?
+passage.questions.11.idx:4591.0
+passage.questions.11.answers.4.text:Vlada
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:24246.0
+passage.questions.11.answers.3.text:Kitajci
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:24245.0
+passage.questions.11.answers.2.text:Sužnji
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:24244.0
+passage.questions.11.answers.1.text:Prebivalci dvora Heian
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:24243.0
+passage.questions.11.answers.0.text:Budisti
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:24242.0
+passage.questions.10.question:Zakaj so najmočnejše družine lahko dobile cele regije zase?
+passage.questions.10.idx:4590.0
+passage.questions.10.answers.3.text:Z ustvarjanjem hierarhije šiki
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:24241.0
+passage.questions.10.answers.2.text:Področja neobdavčene zemlje so bila v teh letih podeljena tem pripadnikom dvorne aristokracije
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:24240.0
+passage.questions.10.answers.1.text:Atta-jeve osebnosti
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:24239.0
+passage.questions.10.answers.0.text:Z nepovratnimi zemljišči v preteklih letih
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:24238.0
+passage.questions.1.question:Kdaj je bil konec Heian-kyo kot kraj za cesarsko družino?
+passage.questions.1.idx:4581.0
+passage.questions.1.answers.2.text:1855
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:24204.0
+passage.questions.1.answers.1.text:20. stoletje
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:24203.0
+passage.questions.1.answers.0.text:1869
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:24202.0
+passage.questions.0.question:Kdo je razvil sistem katakana?
+passage.questions.0.idx:4580
+passage.questions.0.answers.4.text:Kitajci
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:24201.0
+passage.questions.0.answers.3.text:Droga
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:24200.0
+passage.questions.0.answers.2.text:Japonski učenjaki
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:24199.0
+passage.questions.0.answers.1.text:Znanstveniki z zahoda
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:24198
+passage.questions.0.answers.0.text:Budisti
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24197
+idx:404

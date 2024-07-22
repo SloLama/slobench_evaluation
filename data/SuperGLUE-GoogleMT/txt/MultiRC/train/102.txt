@@ -1,0 +1,172 @@
+version:1.1
+passage.text:Dam Good Luck: Las Vegas je bil od začetka zgrajen za popotnike. Železnica je potrebovala postajo za pot, Las Vegas pa je bil tu. Rast se je nadaljevala deset let in do leta 1915 je imelo mesto telefon, neprekinjeno električno energijo in naraščajoče prebivalstvo - veliko jih je delalo v železniški servisni delavnici. Toda tak močan napredek bi se kmalu ustavil. Vse večja konkurenca v železniškem prometu je povzročila, da je Union Pacific kupil progo Los Angeles – Salt Lake. Union Pacific je nato konsolidiral svoje delovanje in odpravil popravilo v Las Vegasu. Poleg tega je Las Vegas postal del okrožja Clark v Nevadi leta 1909, leta, ko je zakonodajalec prepovedal igre na srečo. Te nesrečne okoliščine so grozile, da bodo Las Vegas spustili v status majhne puščavske skupnosti, ki svojih 3000 prebivalcev ni mogla več podpirati. Toda naraščajoča potreba jugozahoda po vodi, skupaj z naključno bližino Las Vegasa do reke Kolorado, bi Las Vegasu dala drugo priložnost, da doseže blaginjo. Gradnja jezu Hoover (prvotno jez Boulder, pozneje preimenovan v predsednika, ki je odobril projekt) se je začela leta 1931 v kanjonu 72 km jugovzhodno od Las Vegasa. Zagotavljal je priliv 165 milijonov dolarjev v jugozahodno gospodarstvo, je Hoover Dam igral pomembno vlogo pri preprečevanju izsušitve Las Vegasa, tako finančno kot dobesedno. Ne samo, da je ustvaril delovna mesta, ampak je ustvaril tudi jezero Mead, ogromen rezervoar, ki danes oskrbuje z vodo v celotni južni Nevadi. Več vladne pomoči: Vendar gradnja jezu Hoover ni samostojno rešila Las Vegasa. Pomagal je tudi državni zakonodajalec, ki je leta 1931 legaliziral igre na srečo in s tem utrdil prihodnost mesta, čeprav zakonodajalci in prebivalci tega še nikoli niso mogli vedeti. Množice ljudi, ki so se udeležile posvete Hoover Dam-a iz leta 1935, so sprožile zdaj že mogočen stroj za odnose z javnostmi. Odpravili so se na tisto, kar je postala ena najdaljših mestnih turističnih kampanj, ki so jih kdaj poskusili. Ni trajalo dolgo, da se je mesto uveljavilo kot divje zahodno mesto s stališčem &quot;vse gre&quot;. Razlogi, ki so bili prepovedani ali močno nadzorovani drugje, so bili tu zakoniti in so bili na voljo kadar koli v katerem koli dnevu (ali noči).
+passage.questions.7.question:Katere okoliščine so grozile, da bodo Las Vegas postavili v status majhne puščavske skupnosti, ki svojih 3000 prebivalcev ni mogla več podpirati?
+passage.questions.7.idx:1207.0
+passage.questions.7.answers.9.text:Naraščajoča konkurenca in zmanjševanje prebivalstva
+passage.questions.7.answers.9.label:0,0
+passage.questions.7.answers.9.idx:6140.0
+passage.questions.7.answers.8.text:Union Pacific je konsolidiral svoje poslovanje in odpravil popravilo v Las Vegasu. Las Vegas je bil tudi del okrožja Clark v Nevadi leta 1909, leta, ko je zakonodajalec prepovedal igre na srečo
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:6139.0
+passage.questions.7.answers.7.text:Odprava železniških delovnih mest in prepoved igranja iger na srečo
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:6138.0
+passage.questions.7.answers.6.text:Suša in vročina
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:6137.0
+passage.questions.7.answers.5.text:Priliv horde ljudi
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:6136.0
+passage.questions.7.answers.4.text:Odprava popravila v Las Vegasu in prepoved igranja iger na srečo
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:6135.0
+passage.questions.7.answers.3.text:Ustvarjanje jezera Mead in dezertifikacija
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:6134.0
+passage.questions.7.answers.2.text:Bližina Las Vegasa do reke Kolorado
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:6133.0
+passage.questions.7.answers.11.text:Gradnja jezu Hoover
+passage.questions.7.answers.11.label:0,0
+passage.questions.7.answers.11.idx:6142.0
+passage.questions.7.answers.10.text:Okrožje Clark prepovedalo igre na srečo
+passage.questions.7.answers.10.label:1.0
+passage.questions.7.answers.10.idx:6141.0
+passage.questions.7.answers.1.text:Gradnja jezu Hoover in legalizacija iger na srečo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:6132.0
+passage.questions.7.answers.0.text:Union Pacific konsolidira svoje poslovanje
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:6131.0
+passage.questions.6.question:Kaj se je zgodilo z operacijami, potem ko je Union Pacific kupil progo Los Angeles-Salt Lake?
+passage.questions.6.idx:1206.0
+passage.questions.6.answers.4.text:Prišla sta skupaj
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:6130.0
+passage.questions.6.answers.3.text:Bili so konsilirani
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:6129.0
+passage.questions.6.answers.2.text:Konsolidirali so poslovanje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:6128.0
+passage.questions.6.answers.1.text:Projekt so nadaljevali in območje razširili
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:6127.0
+passage.questions.6.answers.0.text:Utrdila jih je in tako odpravila popravilo v Las Vegasu
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:6126.0
+passage.questions.5.question:V katerem mestu so bile kdaj izvedene najdaljše turistične kampanje po mestu?
+passage.questions.5.idx:1205.0
+passage.questions.5.answers.2.text:Las Vegas
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:6125.0
+passage.questions.5.answers.1.text:Boulder
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:6124.0
+passage.questions.5.answers.0.text:Mesto greha
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:6123.0
+passage.questions.4.question:Katera umetna gradnja je na koncu ustvarila delovna mesta in ustvarila tudi Lake Mead?
+passage.questions.4.idx:1204.0
+passage.questions.4.answers.7.text:Union Pacific železnica
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:6122.0
+passage.questions.4.answers.6.text:Postaja za železnico
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:6121.0
+passage.questions.4.answers.5.text:Union Pacific
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:6120.0
+passage.questions.4.answers.4.text:Boulder Dam
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:6119.0
+passage.questions.4.answers.3.text:Preusmeritev reke Colorado
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:6118.0
+passage.questions.4.answers.2.text:Hooverjev jez
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:6117.0
+passage.questions.4.answers.1.text:Gradnja proge Los Angeles - Salt Lake
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:6116.0
+passage.questions.4.answers.0.text:Linija Los Angeles-Salt Lake
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:6115.0
+passage.questions.3.question:Katero mesto je imelo telefone, neprekinjeno električno energijo in vse večje število prebivalstva do leta 1915?
+passage.questions.3.idx:1203.0
+passage.questions.3.answers.7.text:Jez srečno
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:6114.0
+passage.questions.3.answers.6.text:Lake Mead
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:6113.0
+passage.questions.3.answers.5.text:Mesto v Nevadi
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:6112.0
+passage.questions.3.answers.4.text:Hooverjev jez
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:6111.0
+passage.questions.3.answers.3.text:Okrožje Clark
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:6110.0
+passage.questions.3.answers.2.text:Las Vegas
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:6109.0
+passage.questions.3.answers.1.text:Clark
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6108.0
+passage.questions.3.answers.0.text:Slano jezero
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:6107.0
+passage.questions.2.question:Kaj je ustavilo napredek Las Vegasa?
+passage.questions.2.idx:1202.0
+passage.questions.2.answers.4.text:Temperature puščave so bile preveč velike
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:6106.0
+passage.questions.2.answers.3.text:Izklop napajanja
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6105.0
+passage.questions.2.answers.2.text:Odprava popravila
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:6104.0
+passage.questions.2.answers.1.text:Las Vegas je bil del okrožja Clark, ki je igralništvo prepovedal
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:6103.0
+passage.questions.2.answers.0.text:Odprava popravljalnice in prepovedane igre na srečo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:6102.0
+passage.questions.1.question:Kdo je delal pri izdelavi najdaljših mestnih turističnih akcij, ki so jih kdaj izvedli?
+passage.questions.1.idx:1201.0
+passage.questions.1.answers.4.text:Prebivalci
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:6101.0
+passage.questions.1.answers.3.text:Stranke
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6100.0
+passage.questions.1.answers.2.text:Mestni odnosi z javnostmi
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:6099.0
+passage.questions.1.answers.1.text:Državni zakonodajalec
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:6098.0
+passage.questions.1.answers.0.text:Ljudje, ki so se udeležili posvečenja Hoover Dam
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:6097.0
+passage.questions.0.question:Kakšen je bil odgovor na potrebo jugozahoda po vodi?
+passage.questions.0.idx:1200
+passage.questions.0.answers.4.text:Gradnja jezu Hoover
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:6096.0
+passage.questions.0.answers.3.text:Gradnja jezu Hoover
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:6095.0
+passage.questions.0.answers.2.text:Ponovni razvoj LV puščave
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:6094.0
+passage.questions.0.answers.1.text:Gradnja jezu Hoover
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:6093
+passage.questions.0.answers.0.text:Gradnja vodnega zidu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:6092
+idx:102

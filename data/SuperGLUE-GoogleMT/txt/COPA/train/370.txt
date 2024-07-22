@@ -1,0 +1,6 @@
+choice1:Mesto je zmanjšalo svoj proračun.
+choice2:Župan je svoje obljube izpolnil.
+idx:370
+label:1
+premise:Mesto je ponovno izvolilo župana.
+question:cause

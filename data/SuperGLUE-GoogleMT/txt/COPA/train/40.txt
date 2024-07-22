@@ -1,0 +1,6 @@
+choice1:Njegov gospodar je odklenil vrata.
+choice2:Njegov lastnik je popravil vrata.
+idx:40
+label:0
+premise:Najemnik mu je zapravil ključe stanovanja.
+question:effect

@@ -1,0 +1,6 @@
+choice1:Moški je segel v žep.
+choice2:Moški je na dan potegnil orožje.
+idx:142
+label:1
+premise:Varnostnik je skočil na moškega.
+question:cause

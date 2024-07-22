@@ -1,0 +1,4 @@
+idx:3350
+label:True
+passage:Kreditna kartica - Kreditne kartice imajo natisnjeno ali vtisnjeno številko bančne kartice, ki ustreza standardu oštevilčenja ISO / IEC 7812. Predpona številke kartice, imenovana identifikacijska številka banke, je zaporedje števk na začetku številke, ki določajo banko, ki ji pripada številka kreditne kartice. To je prvih šest mest za kartice MasterCard in Visa. Naslednjih devet številk je številka posameznega računa, zadnja številka pa je koda za preverjanje veljavnosti.
+question:je mastercard enako kot kreditna kartica

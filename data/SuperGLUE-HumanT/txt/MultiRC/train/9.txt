@@ -1,0 +1,82 @@
+version:1.1
+passage.text:Finska vlada in največji upniki bankrotirane ladjedelnice Waertsilae Marine Industries Oy so se na načelni ravni dogovorili, da bodo ustanovili novo podjetje, ki bo zaključilo izdelavo 15 ladij, ki jih je še dolžna ladjedelnica v težavah. Novo podjetje bo skušalo omejiti izgube, ki jih je imela ladjedelnica, so rekli udeleženci. »Dogovor je, da se bo stečajno sodišče umaknilo iz ladjedelniškega posla. Vse bo prevzelo novo podjetje,« je rekel Christian Andersson, izvršni podpredsednik Oy Waertsilae, bivšega matičnega podjetja Waertsilae Marine. Ko bo dorečeno njegovo lastništvo, se bo novo podjetje s stečajnimi upravitelji, ki jih imenuje država, pogodilo o nakupu ali najemu ladjedelniških objektov, ki so pripadali Waertsilae Marine. Podizvajalcem bodo ponudili poravnavo, hiter prehod k novemu vodstvu pa naj bi preprečil beg usposobljenih delavcev iz dveh velikih ladjedelnic, ki so bile nekoč v lasti Waertsilae Marine, so izjavili vladni uradniki. V skladu z dogovorom, ki je bil podpisan včeraj, bosta vlada in Zvezna banka Finske postali večinski lastnici novega podjetja, vsaka pa bo investirala 100 milijonov finskih mark (23,5 milijona dolarjev). Podjetje Oy Waertsilae bo prispevalo 200 milijonov mark, večina denarja bo prišla iz podrejenega dolga; v podjetju bo imelo manjšinski delež. Stranke, ki jim Waertsilae Marine ni dostavila ladij, bodo najverjetneje vpisale večino preostalih 170 milijonov mark v osnovni kapital, so rekli vladni uradniki. Največji upnik Waertsilae Marine je podjetje Carnival Cruise Lines Inc. Carnival, s sedežem v Miamiju; Waertsilae Marine mu dolguje tri ladje, na stečajnem sodišču pa je vložilo zahtevek za odškodnino v višini 1,5 milijarde dolarjev. Stečajni postopek za Waertsilae Marine se je začel v torek na sodišču v Helsinkih. 
+passage.questions.4.question:Kateri dan je danes, če se je stečajni postopek za Waertsilae Marine začel v torek?
+passage.questions.4.idx:108.0
+passage.questions.4.answers.2.text:Sreda
+passage.questions.4.answers.2.label:0.0
+passage.questions.4.answers.2.idx:617.0
+passage.questions.4.answers.1.text:Nedelja
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:616.0
+passage.questions.4.answers.0.text:Četrtek
+passage.questions.4.answers.0.label:0.0
+passage.questions.4.answers.0.idx:615.0
+passage.questions.3.question:Kaj bodo ponudili podizvajalcem, ko bodo dorekli lastništvo?
+passage.questions.3.idx:107.0
+passage.questions.3.answers.4.text:1,5 milijarde dolarjev
+passage.questions.3.answers.4.label:0.0
+passage.questions.3.answers.4.idx:614.0
+Passage.questions.3.answers.3.text:200 milijonov dolarjev
+passage.questions.3.answers.3.label:0.0
+passage.questions.3.answers.3.idx:613.0
+passage.questions.3.answers.2.text:Odpravnino in hiter prehod
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:612.0
+passage.questions.3.answers.1.text:Nič
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:611.0
+passage.questions.3.answers.0.text:Beg usposobljenih delavcev
+passage.questions.3.answers.0.label:0.0
+passage.questions.3.answers.0.idx:610.0
+passage.questions.2.question:Katera vlada in upniki so se odločili oblikovati novo podjetje?
+passage.questions.2.idx:106.0
+passage.questions.2.answers.4.text:Finska vlada in podjetje Waertsilae Marine Industries Oy
+passage.questions.2.answers.4.label:0.0
+passage.questions.2.answers.4.idx:609.0
+passage.questions.2.answers.3.text:Bankrotirana ladjedelnica
+passage.questions.2.answers.3.label:0.0
+passage.questions.2.answers.3.idx:608.0
+passage.questions.2.answers.2.text:Večinski lastniki: Finska vlada in Zvezna banka Finske
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:607.0
+passage.questions.2.answers.1.text:Švedska vlada
+passage.questions.2.answers.1.label:0.0
+passage.questions.2.answers.1.idx:606.0
+passage.questions.2.answers.0.text:Začel se je v torek na sodišču v Helsinkih
+passage.questions.2.answers.0.label:0.0
+passage.questions.2.answers.0.idx:605.0
+passage.questions.1.question:Koliko denarja bodo novi delničarji vložili v novo podjetje?
+passage.questions.1.idx:105.0
+passage.questions.1.answers.4.text:So štirje delničarji. Njihova skupna investicija znaša 417 milijonov dolarjev
+passage.questions.1.answers.4.label:0.0
+passage.questions.1.answers.4.idx:604.0
+passage.questions.1.answers.3.text:100 milijonov mark
+passage.questions.1.answers.3.label:0.0
+passage.questions.1.answers.3.idx:603.0
+passage.questions.1.answers.2.text:570 milijonov mark
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:602.0
+passage.questions.1.answers.1.text:170 milijonov mark
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:601.0
+passage.questions.1.answers.0.text:47 milijonov dolarjev
+passage.questions.1.answers.0.label:0.0
+passage.questions.1.answers.0.idx:600.0
+passage.questions.0.question:Ali bo finska vlada lastnica novega podjetja?
+passage.questions.0.idx:104
+passage.questions.0.answers.4.text:Da, večinska lastnica bo
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:599.0
+passage.questions.0.answers.3.text:Ne, finska vlada bo imela v lasti samo del podjetja, saj so še drugi delničarji
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:598.0
+passage.questions.0.answers.2.text:Ne, v podjetju ne bo imela deleža
+passage.questions.0.answers.2.label:0.0
+passage.questions.0.answers.2.idx:597.0
+passage.questions.0.answers.1.text:Ni jasno
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:596
+passage.questions.0.answers.0.text:Da, bo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:595
+idx:9

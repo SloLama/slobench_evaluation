@@ -1,0 +1,6 @@
+choice1:Njeni izdelki so prejeli pozitivne ocene potrošnikov.
+choice2:Nekateri izdelki so bili izdelani z napako.
+idx:205
+label:1
+premise:Podjetje je izgubilo denar.
+question:cause

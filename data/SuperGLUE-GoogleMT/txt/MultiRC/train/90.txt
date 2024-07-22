@@ -1,0 +1,205 @@
+version:1.1
+passage.text:Čast in zapuščina Leta 1929 je sovjetski pisatelj Leonid Grossman objavil roman d&#39;Archiac Papers, ki pripoveduje zgodbo o Puškinovi smrti z vidika francoskega diplomata, ki je bil udeleženec in priča usodnega dvoboja. Knjiga ga opisuje kot liberalca in žrtev carskega režima. Na Poljskem je knjiga izšla pod naslovom Smrt pesnika. Leta 1937 je bilo mesto Tsarskoye Selo v njegovo čast preimenovano v Puškina. V Rusiji je nekaj muzejev, posvečenih Puškinu, med njimi dva v Moskvi, eden v Sankt Peterburgu in velik kompleks v Mihailovskem. Puškinova smrt je bila prikazana v biografskem filmu Puškin: zadnji dvoboj iz leta 2006. Film je režirala Natalya Bondarchuk. Puškina je na zaslonu upodobil Sergej Bezrukov. Trust Puškin je leta 1987 ustanovila vojvodinja Abercorn v spomin na ustvarjalno zapuščino in duha svoje prednice ter sprostila ustvarjalnost in domišljijo irskih otrok, tako da jim je omogočila sporočanje svojih misli, občutkov in izkušenj. Po njem je poimenovan manjši planet, 2208 Puškin, ki ga je leta 1977 odkril sovjetski astronom Nikolaj Stepanovič Černih. V njegovo čast je poimenovan tudi krater na Merkurju. MS Aleksander Puškin, druga ladja ruskega razreda Ivana Franka (imenovana tudi &quot;razred pesnika&quot; ali &quot;pisatelja&quot;). Postaja podzemne železnice Taškent je bila poimenovana v njegovo čast. Hribi Puškin in Puškinsko jezero so bili poimenovani v njegovo čast v občini Ben Nevis, okrožje Cochrane, v kanadskem Ontariu. Dan ruskega jezika OZN, ki so ga Združeni narodi ustanovili leta 2010 in ga vsako leto praznovali 6. junija, naj bi sovpadal z Puškinovim rojstnim dnem.
+passage.questions.9.question:Kaj imata skupnega metro postaje Taškent in krater na Merkurju?
+passage.questions.9.idx:1071.0
+passage.questions.9.answers.2.text:Oba častita Puškina
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:5520.0
+passage.questions.9.answers.1.text:Oba sta poimenovana v čast Puškina
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:5519.0
+passage.questions.9.answers.0.text:So na istem mestu
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5518.0
+passage.questions.8.question:Kdo je režiral biografski film o Puškinu &quot;Zadnji dvoboj&quot;?
+passage.questions.8.idx:1070.0
+passage.questions.8.answers.1.text:Natalya Bondarchuk
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:5517.0
+passage.questions.8.answers.0.text:Leonid Grossman
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:5516.0
+passage.questions.7.question:Je Nikolaj Stepanovič Chernykh odkril planet, preden so nastali d&#39;Archaic Papers?
+passage.questions.7.idx:1069.0
+passage.questions.7.answers.2.text:Ne. Planet je bil odkrit leta 1977
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:5515.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:5514.0
+passage.questions.7.answers.0.text:Ne, časopisi so bili napisani leta 1929, planet pa odkrit leta 1977
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:5513.0
+passage.questions.6.question:Kateri dve astronomski značilnosti sta bili poimenovani po Puškinu?
+passage.questions.6.idx:1068.0
+passage.questions.6.answers.4.text:Meteor
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:5512.0
+passage.questions.6.answers.3.text:zvezda
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:5511.0
+passage.questions.6.answers.2.text:Manjši planet in krater na Merkurju
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:5510.0
+passage.questions.6.answers.1.text:Manjši planet 2208 Puškin
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:5509.0
+passage.questions.6.answers.0.text:Krater na Merkurju
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:5508.0
+passage.questions.5.question:Kaj sta še dve državi, razen Rusije, v kateri je bil Puškin na nek način počaščen?
+passage.questions.5.idx:1067.0
+passage.questions.5.answers.4.text:Anglija
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:5507.0
+passage.questions.5.answers.3.text:Irska
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:5506.0
+passage.questions.5.answers.2.text:Rusija
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5505.0
+passage.questions.5.answers.1.text:Poljska
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:5504.0
+passage.questions.5.answers.0.text:Irska in Kanada
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5503.0
+passage.questions.4.question:Koga knjiga opisuje kot liberalnega in žrtev carističnega režima?
+passage.questions.4.idx:1066.0
+passage.questions.4.answers.1.text:Puškin
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:5502.0
+passage.questions.4.answers.0.text:Leonid Grossman
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:5501.0
+passage.questions.3.question:Razen kraterja na Merkurju - kateri drugi astronomski objekt je poimenovan po Puškinu?
+passage.questions.3.idx:1065.0
+passage.questions.3.answers.1.text:Meteor
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:5500.0
+passage.questions.3.answers.0.text:Manjši planet, 2208 Puškin
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:5499.0
+passage.questions.2.question:Kaj imata skupnega Natalya Bondarchuk in Sergej Bezrukon?
+passage.questions.2.idx:1064.0
+passage.questions.2.answers.2.text:Oba sta delala pri filmu Puškin: Zadnji dvoboj
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:5498.0
+passage.questions.2.answers.1.text:Oba sta igralca
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:5497.0
+passage.questions.2.answers.0.text:Oba sta sodelovala pri filmu &quot;Zadnji dvoboj&quot;.
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:5496.0
+passage.questions.19.question:Koga knjiga opisuje kot žrtev carističnega režima?
+passage.questions.19.idx:1081.0
+passage.questions.19.answers.1.text:Puškin
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:5545.0
+passage.questions.19.answers.0.text:Leonid Grossman
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:5544.0
+passage.questions.18.question:Kako se je imenovala knjiga Leonida Grossmana, ki je izšla na Poljskem?
+passage.questions.18.idx:1080.0
+passage.questions.18.answers.1.text:Življenje pesnika
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:5543.0
+passage.questions.18.answers.0.text:Smrt pesnika
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:5542.0
+passage.questions.17.question:Kakšen film je režirala Natalya Bondarchuk?
+passage.questions.17.idx:1079.0
+passage.questions.17.answers.2.text:Akcijski film
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:5541.0
+passage.questions.17.answers.1.text:Biografski film
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:5540.0
+passage.questions.17.answers.0.text:Biografsko
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:5539.0
+passage.questions.16.question:V katerem filmu je Sergej Bezrukov upodobil Puškina na zaslonu?
+passage.questions.16.idx:1078.0
+passage.questions.16.answers.1.text:Puškin: Zadnji dvoboj
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:5538.0
+passage.questions.16.answers.0.text:Zadnji pesnik
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:5537.0
+passage.questions.15.question:Kateri film je režirala Natalya Bondarchuk?
+passage.questions.15.idx:1077.0
+passage.questions.15.answers.1.text:Drving gospodična marjetica
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:5536.0
+passage.questions.15.answers.0.text:Puškin: Zadnji dvoboj
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:5535.0
+passage.questions.14.question:Na kakšen datum je Puškinov rojstni dan?
+passage.questions.14.idx:1076.0
+passage.questions.14.answers.2.text:6. junija 1799
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:5534.0
+passage.questions.14.answers.1.text:6. junija,
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:5533.0
+passage.questions.14.answers.0.text:5. julija 1899
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:5532.0
+passage.questions.13.question:Je bil Puškin mednarodno znan?
+passage.questions.13.idx:1075.0
+passage.questions.13.answers.2.text:Da
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:5531.0
+passage.questions.13.answers.1.text:Ne
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:5530.0
+passage.questions.13.answers.0.text:Da, v Rusiji, na Irskem in v Kanadi ga častijo
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:5529.0
+passage.questions.12.question:Kdo je režiral biografski film o Puškinovem življenju?
+passage.questions.12.idx:1074.0
+passage.questions.12.answers.1.text:Jack Black
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:5528.0
+passage.questions.12.answers.0.text:Natalya Bondarchuk
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:5527.0
+passage.questions.11.question:Na katere datume je izšla knjiga?
+passage.questions.11.idx:1073.0
+passage.questions.11.answers.2.text:1933
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:5526.0
+passage.questions.11.answers.1.text:1929
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:5525.0
+passage.questions.11.answers.0.text:1929, 1937
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:5524.0
+passage.questions.10.question:Kako se je imenoval film o Puškinovi smrti iz leta 2006 in kdo je prikazal Puškina?
+passage.questions.10.idx:1072.0
+passage.questions.10.answers.2.text:Sergej Bezrukov je v filmu upodobil Puškina, Puškin: Zadnji dvoboj
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:5523.0
+passage.questions.10.answers.1.text:Puškin: Zadnji dvoboj
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:5522.0
+passage.questions.10.answers.0.text:Zadnji pesnik
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:5521.0
+passage.questions.1.question:Kako je ime filma, ki ga je režirala Natalya Bondarchuk?
+passage.questions.1.idx:1063.0
+passage.questions.1.answers.1.text:Puškin: Zadnji dvoboj
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:5495.0
+passage.questions.1.answers.0.text:Zadnji pesnik
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:5494.0
+passage.questions.0.question:Kako se imenuje roman, ki je bil kasneje na Poljskem objavljen pod naslovom &quot;Smrt pesnika&quot;?
+passage.questions.0.idx:1062
+passage.questions.0.answers.1.text:&quot;Arhivaški dokumenti.&quot;
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5493
+passage.questions.0.answers.0.text:Pesnik dela
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5492
+idx:90

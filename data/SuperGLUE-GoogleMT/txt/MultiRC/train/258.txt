@@ -1,0 +1,71 @@
+version:1.1
+passage.text:Nekega dne se je Phoebe zbudila in ugotovila, da je bila v njeno hišo vlomljena. Njena vhodna vrata so bila na stežaj odprta. Šla je v dnevno sobo in videla, da manjkata njen televizor in stereo. Preverila je kuhinjo, a tam ni našla ničesar manjkajočega, razen ure. Potem je videla, da je bila ukradena tudi njena torbica. Poklicala je policijo, naj poroča, kaj se je zgodilo. Policist ji je povedal, da je bilo v njeni soseski v zadnjem času veliko takšnih primerov in iskali zločince. Phoebe je šla v svojo spalnico in začela jokati. Ni imela denarja za nakup novega televizijskega sprejemnika ali stereo naprave. Bilo jo je strah, da bi lahko roparji spet poskusili vdreti v njeno hišo. Poklicala je prijateljico Mary in jo vprašala, kaj naj naredi. Mary je rekla Phoebe, naj takoj spremeni ključavnico vhodnih vrat. Povedala je, da pozna detektiva, ki bi lahko poskusil najti roparja, ki ji je vdrl v hišo. Phoebe se je zahvalila Mary in dejala, da se počuti varno, saj ve, da je nekdo, ki ji lahko pomaga ujeti roparja, da tega ne bo ponovil.
+passage.questions.3.question:Kaj je Phoebe jokalo?
+passage.questions.3.idx:2883.0
+passage.questions.3.answers.4.text:Nihče ji ne bi pomagal
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:15291.0
+passage.questions.3.answers.3.text:Zbudila se je in ugotovila, da je bila v njej vlomljena hiša, manjkali so njen televizor, radio, ura in torbica
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:15290.0
+passage.questions.3.answers.2.text:Ni imela denarja za nakup stvari, ki jih je izgubila, in bala se je, da bodo roparji spet vlomili
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:15289.0
+passage.questions.3.answers.1.text:Jokala je, da ni imela denarja za nakup novega televizorja in radia, prav tako pa se je bala, da bi roparji spet vdrli v njeno hišo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15288.0
+passage.questions.3.answers.0.text:Televizija
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15287.0
+passage.questions.2.question:Zakaj Phoebe ni imela denarja za nakup nove televizije in radia?
+passage.questions.2.idx:2882.0
+passage.questions.2.answers.4.text:Ne vemo, zakaj phoebe ni imela denarja za nakup nove televizije in radia, toda ker je tukaj veliko kaznivih dejanj, lahko domnevamo, da ni v dobrem stanju
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:15286.0
+passage.questions.2.answers.3.text:Ne morem iti
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15285.0
+passage.questions.2.answers.2.text:Bila je revna
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:15284.0
+passage.questions.2.answers.1.text:Ukradli so ji torbico
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15283.0
+passage.questions.2.answers.0.text:Izgubil jo je
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:15282.0
+passage.questions.1.question:Kako so tatovi vlomili?
+passage.questions.1.idx:2881.0
+passage.questions.1.answers.4.text:Zlomil ključavnico
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:15281.0
+passage.questions.1.answers.3.text:Tatovi so vdrli skozi vhodna vrata
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:15280.0
+passage.questions.1.answers.2.text:Skozi teraso
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:15279.0
+passage.questions.1.answers.1.text:Skozi vhodna vrata
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15278.0
+passage.questions.1.answers.0.text:Policija je te zločince preiskovala in ni vedela, kako so vlomili
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:15277.0
+passage.questions.0.question:Zakaj je Phoebe jokala?
+passage.questions.0.idx:2880
+passage.questions.0.answers.4.text:Jokala je, ker ni imela denarja za nakup novega televizorja in radia, prav tako pa se je bala, da bi roparji spet vdrli v njeno hišo
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:15276.0
+passage.questions.0.answers.3.text:Nihče
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:15275.0
+passage.questions.0.answers.2.text:Zbudila se je in ugotovila, da je bila njena hiša vlomljena
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:15274.0
+passage.questions.0.answers.1.text:Izgubila je vse
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:15273
+passage.questions.0.answers.0.text:Bila je prestrašena, da bi se roparji lahko vrnili
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:15272
+idx:258

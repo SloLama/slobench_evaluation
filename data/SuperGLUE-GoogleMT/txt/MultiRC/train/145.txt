@@ -1,0 +1,294 @@
+version:1.1
+passage.text:(CNN) - Kuba bo pomilovala več kot 2900 zapornikov, je v petek sporočila vlada, čeprav ameriški podizvajalec Alan Gross ni med tistimi, ki bodo osvobojeni. Odločitev o izpustitvi zapornikov sledi &quot;številnim prošnjam&quot; njihovih družinskih članov in verskih ustanov in je humanitarna gesta, je dejal kubanski predsednik Raul Castro. Med tistimi, ki bi lahko bili osvobojeni, so zaporniki, starejši od 60 let, skupaj s tistimi, ki so bolni, ženski ali mladi brez predhodne kazenske evidence. Z nekaterimi izjemami zaporniki, obsojeni zaradi vohunjenja, terorizma, umorov in trgovine z mamili, ne bodo izpuščeni. V uradni izjavi, objavljeni na državni spletni strani Cubadebate, so tisti, ki bodo osvobojeni, že odslužili &quot;pomemben&quot; del kazni in izkazali lepo vedenje. Zaprti Američan Gross ne bo med pomiloščenimi, so sporočili iz oddelka za kubanske interese v Washingtonu. Gross je bil zaprt decembra 2009, ko je kot podizvajalec delal pri projektu ameriške Agencije za mednarodni razvoj, katerega cilj je širjenje demokracije. Castro ga je obtožil, da uvaža satelitsko opremo za povezovanje disidentov z internetom, najvišje sodišče Kube pa je letos potrdilo petnajstletno kazen, izrečeno Grossu zaradi storitve kaznivih dejanj zoper varnost države. Obdržal je svojo nedolžnost in dejal, da poskuša pomagati povezati judovsko skupnost z internetom. Castro je v pogovoru z Državnim zborom dejal, da bo v prihodnjih dneh med izpuščenimi 86 zapornikov iz 25 držav. Kot eno od motivacij za potezo je navedel prihajajoči obisk papeža Benedikta XVI., Ki je po njegovih besedah pokazal &quot;radodarnost in moč revolucije&quot;. Papež je dejal, da namerava pred veliko nočjo obiskati Mehiko in Kubo.
+passage.questions.9.question:Kaj je bil Gross obtožen, zaradi česar je bil decembra 2009 aretiran?
+passage.questions.9.idx:1649.0
+passage.questions.9.answers.5.text:Terorizem
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:8543.0
+passage.questions.9.answers.4.text:Kazniva dejanja zoper varnost države
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:8542.0
+passage.questions.9.answers.3.text:Umor
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:8541.0
+passage.questions.9.answers.2.text:Vohunjenje
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:8540.0
+passage.questions.9.answers.1.text:Uvoz satelitske opreme za povezovanje disidentov z internetom
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:8539.0
+passage.questions.9.answers.0.text:Storitev kaznivih dejanj zoper varnost države
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:8538.0
+passage.questions.8.question:Kakšen je polni naslov verske osebe, ki jo namerava obiskati pred veliko nočjo?
+passage.questions.8.idx:1648.0
+passage.questions.8.answers.5.text:Papež Benedikt XVI
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:8537.0
+passage.questions.8.answers.4.text:Papež
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:8536.0
+passage.questions.8.answers.3.text:načrtov
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:8535.0
+passage.questions.8.answers.2.text:revolucija
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:8534.0
+passage.questions.8.answers.1.text:premik
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:8533.0
+passage.questions.8.answers.0.text:motivacije
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:8532.0
+passage.questions.7.question:Kaj bo Castro počel pred prihodom papeža Benedikta XV?
+passage.questions.7.idx:1647.0
+passage.questions.7.answers.2.text:Izpustitev Alana Grossa
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8531.0
+passage.questions.7.answers.1.text:govorila državnemu zboru
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8530.0
+passage.questions.7.answers.0.text:V prihodnjih dneh bi bilo med izpuščenimi 86 zapornikov iz 25 držav
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:8529.0
+passage.questions.6.question:Kakšni so bili resnični nameni Grossa?
+passage.questions.6.idx:1646.0
+passage.questions.6.answers.3.text:Najvišje sodišče Kube potrdilo
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:8528.0
+passage.questions.6.answers.2.text:ohranil svojo nedolžnost
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8527.0
+passage.questions.6.answers.1.text:Za povezovanje disidentov z internetom
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:8526.0
+passage.questions.6.answers.0.text:Za pomoč pri povezovanju judovske skupnosti z internetom
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:8525.0
+passage.questions.5.question:Kje je delal Alan decembra 2009?
+passage.questions.5.idx:1645.0
+passage.questions.5.answers.2.text:Kuba
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:8524.0
+passage.questions.5.answers.1.text:Judovska skupnost na Kubi
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:8523.0
+passage.questions.5.answers.0.text:O projektu ameriške agencije za mednarodni razvoj
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:8522.0
+passage.questions.4.question:Kdo od 2900 zapornikov ne bo izpuščen?
+passage.questions.4.idx:1644.0
+passage.questions.4.answers.6.text:Umorilci
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:8521.0
+passage.questions.4.answers.5.text:Zaporniki, obsojeni zaradi vohunjenja, terorizma, umorov in trgovine z mamili, ne bodo izpuščeni
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:8520.0
+passage.questions.4.answers.4.text:Tisti s predhodno kazensko evidenco
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:8519.0
+passage.questions.4.answers.3.text:Teroristi
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:8518.0
+passage.questions.4.answers.2.text:Trgovci z mamili
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8517.0
+passage.questions.4.answers.1.text:Alan Gross
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:8516.0
+passage.questions.4.answers.0.text:Obsojeni vohuni
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:8515.0
+passage.questions.3.question:Kdo je bil zaprt po obtožbi uvoza satelitske opreme na Kubo?
+passage.questions.3.idx:1643.0
+passage.questions.3.answers.1.text:Alan Gross
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:8514.0
+passage.questions.3.answers.0.text:Raul Castro
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8513.0
+passage.questions.20.question:Kdaj bo Gross izpuščen iz zapora?
+passage.questions.20.idx:1660.0
+passage.questions.20.answers.4.text:2009
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:8587.0
+passage.questions.20.answers.3.text:2024
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:8586.0
+passage.questions.20.answers.2.text:Ne bo izpuščen
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:8585.0
+passage.questions.20.answers.1.text:V prihodnjih dneh
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:8584.0
+passage.questions.20.answers.0.text:Po papeževem obisku
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:8583.0
+passage.questions.2.question:Papežev obisk katere države je morda pomagal spodbuditi izpustitev zapornikov iz te države?
+passage.questions.2.idx:1642.0
+passage.questions.2.answers.1.text:Kuba
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:8512.0
+passage.questions.2.answers.0.text:Mehika
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8511.0
+passage.questions.19.question:Kako dolgo Alan Gross ohranja svojo nedolžnost?
+passage.questions.19.idx:1659.0
+passage.questions.19.answers.2.text:15 let
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:8582.0
+passage.questions.19.answers.1.text:8 let
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:8581.0
+passage.questions.19.answers.0.text:Od leta 2009
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:8580.0
+passage.questions.18.question:Kakšni ljudje se osvobajajo?
+passage.questions.18.idx:1658.0
+passage.questions.18.answers.5.text:Umorilci
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:8579.0
+passage.questions.18.answers.4.text:Tisti, ki so prestali pomemben del kazni
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:8578.0
+passage.questions.18.answers.3.text:Trgovci z mamili
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:8577.0
+passage.questions.18.answers.2.text:Tisti, ki so pokazali dobro vedenje
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:8576.0
+passage.questions.18.answers.1.text:Obsojeni zaradi vohunjenja
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:8575.0
+passage.questions.18.answers.0.text:Zaporniki, starejši od 60 let, bolniki, ženske in mladi brez kazenske evidence
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:8574.0
+passage.questions.17.question:Koliko ljudi je osvobojenih?
+passage.questions.17.idx:1657.0
+passage.questions.17.answers.2.text:Več kot 2900
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:8573.0
+passage.questions.17.answers.1.text:2.900 bo pomilovanih, 86 od 25 različnih držav pa bo osvobojenih
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:8572.0
+passage.questions.17.answers.0.text:86
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:8571.0
+passage.questions.16.question:Kdo je trdil, da samo poskuša pomagati judovski skupnosti na Kubi, da se poveže z internetom?
+passage.questions.16.idx:1656.0
+passage.questions.16.answers.1.text:Alan Gross
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:8570.0
+passage.questions.16.answers.0.text:Raul Castro
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:8569.0
+passage.questions.15.question:Zakaj je bil Alan Gross obsojen na zapor?
+passage.questions.15.idx:1655.0
+passage.questions.15.answers.2.text:Očitali so mu kazniva dejanja zoper varnost države
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:8568.0
+passage.questions.15.answers.1.text:Castro mu je očital, da uvaža satelitsko opremo za povezovanje disidentov z internetom
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:8567.0
+passage.questions.15.answers.0.text:Obtožili so ga trgovine z mamili
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:8566.0
+passage.questions.14.question:Bo vseh 2900 zapornikov izpuščenih?
+passage.questions.14.idx:1654.0
+passage.questions.14.answers.3.text:Da
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:8565.0
+passage.questions.14.answers.2.text:Nekaj izjem bo
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:8564.0
+passage.questions.14.answers.1.text:Ne, samo 86
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:8563.0
+passage.questions.14.answers.0.text:Ne
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:8562.0
+passage.questions.13.question:Zakaj Castro osvobaja te ljudi?
+passage.questions.13.idx:1653.0
+passage.questions.13.answers.2.text:Njegov prihodnji obisk pri papežu Benediktu XVI. Ga je spodbudil k temu, da je pokazal &quot;radodarnost in moč revolucije&quot;. Številni družinski člani in verske ustanove so tudi prosili, da bi jih osvobodili
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:8561.0
+passage.questions.13.answers.1.text:Kot humanitarna gesta
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:8560.0
+passage.questions.13.answers.0.text:Ker papež kmalu obišče Kubo
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:8559.0
+passage.questions.12.question:Kateri zgodovinski dogodek so primerjali z izpuščanjem zapornikov s Kube?
+passage.questions.12.idx:1652.0
+passage.questions.12.answers.2.text:Osvoboditev nacističnih taborišč
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:8558.0
+passage.questions.12.answers.1.text:Kubanska revolucija
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:8557.0
+passage.questions.12.answers.0.text:Revolucija papeža Benedikta XVI., Ki je po njegovih besedah pokazala &quot;velikodušnost in moč revolucije&quot;.
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:8556.0
+passage.questions.11.question:Kdo bo od 2900 zapornikov izpuščen?
+passage.questions.11.idx:1651.0
+passage.questions.11.answers.8.text:Umorilci
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:8555.0
+passage.questions.11.answers.7.text:Mladi brez predhodne kazenske evidence
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:8554.0
+passage.questions.11.answers.6.text:Zaporniki, starejši od 60 let, skupaj z bolniki, ženskami ali mladimi brez predhodne kazenske evidence
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:8553.0
+passage.questions.11.answers.5.text:Bolni zaporniki
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:8552.0
+passage.questions.11.answers.4.text:Trgovci z mamili
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:8551.0
+passage.questions.11.answers.3.text:Ženske
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:8550.0
+passage.questions.11.answers.2.text:Tisti, starejši od 60 let
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:8549.0
+passage.questions.11.answers.1.text:Vohuni
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:8548.0
+passage.questions.11.answers.0.text:Američan Alan Gross
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:8547.0
+passage.questions.10.question:Zakaj je odločitev o izpustitvi 2900 kubanskih zapornikov po mnenju kubanskega predsednika Raula Castra &quot;humanitarna gesta&quot;?
+passage.questions.10.idx:1650.0
+passage.questions.10.answers.2.text:Ker so družinski člani zapornikov in verske ustanove podali številne prošnje
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:8546.0
+passage.questions.10.answers.1.text:Ker bo papež v bližnji prihodnosti obiskal Kubo
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:8545.0
+passage.questions.10.answers.0.text:Večina zapornikov, starejših od 60 let, skupaj z bolniki, ženskami ali mladimi brez predhodne kazenske evidence
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:8544.0
+passage.questions.1.question:Koliko let kazni je še ostalo Alanu?
+passage.questions.1.idx:1641.0
+passage.questions.1.answers.2.text:8 let
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:8510.0
+passage.questions.1.answers.1.text:Petnajst
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8509.0
+passage.questions.1.answers.0.text:Osem
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:8508.0
+passage.questions.0.question:Kako je Gross lahko judovsko skupnost povezal z internetom?
+passage.questions.0.idx:1640
+passage.questions.0.answers.2.text:Uvažal je satelitsko opremo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:8507.0
+passage.questions.0.answers.1.text:Uvoz satelitske opreme za povezovanje disidentov z internetom
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8506
+passage.questions.0.answers.0.text:Zaradi svoje zgodovine vohunjenja
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8505
+idx:145

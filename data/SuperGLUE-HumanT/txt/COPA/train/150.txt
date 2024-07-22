@@ -1,0 +1,6 @@
+﻿choice1:Ni bila cepljena.
+choice2:Bila je posvojena.
+idx:150
+label:0
+premise:Otrok je dobil smrtno nevarno bolezen.
+question:cause

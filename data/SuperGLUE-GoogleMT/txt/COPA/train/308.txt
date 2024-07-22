@@ -1,0 +1,6 @@
+choice1:Vpil je, kadar koli je igralec pipal žogo.
+choice2:Žvižgal je vsakič, ko je igralec dosegel zadetek.
+idx:308
+label:0
+premise:Nogometni trener je po tekmi izgubil glas.
+question:cause

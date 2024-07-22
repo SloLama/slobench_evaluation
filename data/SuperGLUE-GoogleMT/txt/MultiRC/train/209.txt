@@ -1,0 +1,82 @@
+version:1.1
+passage.text:Kar zadeva Italijane, vemo, da je bil Paesiello, ki je bil slavni spletkar proti svojim glasbenim tekmecem, predan mož, katerega žena je bila invalid in je umrl kmalu po njeni smrti. Cherubini se je poročil z Mademoiselle Cecile Turette, ko je bil star petintrideset let, in zakon ni uspel. Zapustil je sina in dve hčerki. Spontini, katerega ena najboljših oper je temeljila na življenju tistega poročenega navdušenca nad ločitvijo, Johna Miltona, je vzel za ženo člana družine Erard. V zunanjem svetu je bil Spontini znan po svojem despotizmu, ljubosumju, slabi naravi in pretirani nečimrnosti. Nobena od teh lastnosti praviloma ne pripomore k večjemu domačemu udobju, a vendar je rečeno, da je srečno živel s svojo ženo. Morda smo prepričani, da je nekaj slabe luči, ki jo je vrgel na njegov lik, posledica izključno ljubosumja tekmecev, če upoštevamo njegovo domačo vsebino, njegovo goreče zanimanje za dobro počutje Mozartove vdove in otrok ter velika prizadevanja, da bi si zagotovil naročnine za vdovsko biografijo Mozarta.
+passage.questions.4.question:Čigave negativne lastnosti so bile posledica ljubosumja njegovih tekmecev?
+passage.questions.4.idx:2310.0
+passage.questions.4.answers.3.text:Spontini
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:12164.0
+passage.questions.4.answers.2.text:Paesiello
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:12163.0
+passage.questions.4.answers.1.text:Cherubini
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:12162.0
+passage.questions.4.answers.0.text:Mozart
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:12161.0
+passage.questions.3.question:Kdo se je goreče zanimal za dobrobit Mozartove vdove in otrok?
+passage.questions.3.idx:2309.0
+passage.questions.3.answers.2.text:Spontini
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:12160.0
+passage.questions.3.answers.1.text:Paesiello
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:12159.0
+passage.questions.3.answers.0.text:Cherubini
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:12158.0
+passage.questions.2.question:Kdo je kljub nekaterim negativnim lastnostim živel srečno s svojo ženo?
+passage.questions.2.idx:2308.0
+passage.questions.2.answers.3.text:Spontini
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:12157.0
+passage.questions.2.answers.2.text:Paesiello
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12156.0
+passage.questions.2.answers.1.text:Cherubini
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12155.0
+passage.questions.2.answers.0.text:Mademoiselle
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:12154.0
+passage.questions.1.question:Kdo je pustil sina in dve hčerki?
+passage.questions.1.idx:2307.0
+passage.questions.1.answers.4.text:Mozart
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:12153.0
+passage.questions.1.answers.3.text:Cherubini
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:12152.0
+passage.questions.1.answers.2.text:Paesiello
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12151.0
+passage.questions.1.answers.1.text:Cecile Turette
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:12150.0
+passage.questions.1.answers.0.text:Mademoiselle
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12149.0
+passage.questions.0.question:Kdo so bili trije Italijani, ki jih opisuje ta odlomek?
+passage.questions.0.idx:2306
+passage.questions.0.answers.6.text:Spontini
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:12148.0
+passage.questions.0.answers.5.text:Mozart
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:12147.0
+passage.questions.0.answers.4.text:Paesiello, Cherubini in Spontini
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:12146.0
+passage.questions.0.answers.3.text:Cherubini
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:12145.0
+passage.questions.0.answers.2.text:Paesiello, Cherubini in Spontini
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:12144.0
+passage.questions.0.answers.1.text:Paesiello
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:12143
+passage.questions.0.answers.0.text:Cecile Turette
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:12142
+idx:209

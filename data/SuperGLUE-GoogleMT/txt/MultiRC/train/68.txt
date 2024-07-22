@@ -1,0 +1,48 @@
+version:1.1
+passage.text:Nova uprava je že začela raziskovati morebitne diplomatske možnosti, s čimer je preusmerila številne poti, ki so jih prehodili njeni predhodniki. Odposlanci ZDA so znova pritisnili na talibane, naj Bin Ladena predajo &quot;državi, v kateri bi se lahko soočil s pravico&quot;, in še enkrat ponovili opozorilo da bodo talibani odgovorni za morebitne napade Al Kaide na ameriške interese. Talibanski predstavniki so ponovili svoje stare argumente. Namestnik državnega sekretarja Richard Armitage nam je povedal, da medtem ko so bili ameriški diplomati vse bolj aktivni v Afganistanu spomladi in poleti 2001, &quot;bi bilo narobe, če bi kdo to označil za dramatičen premik od prejšnje uprave.&quot; Na poslanskih sestankih konec junija je bil Tenet zadolžen, da oceni možnosti za sodelovanje Talibanov z Združenimi državami Amerike pri Al Kaidi. Osebje NSC je bilo zadolženo, da opredeli možnosti za spopadanje s talibani. Ponovno pregledovanje teh vprašanj je potrpilo potrpljenje nekaterih uradnikov, ki so menili, da so že šli po teh cestah in se jim je zdelo, da so postopki NSC počasni. &quot;Nismo šli dovolj hitro,&quot; nam je dejal Armitage. Clarke je nenehno trdil, da proti talibanom in Al Kaidi ne bi bilo treba mesecev čakati na obsežnejši pregled ameriške politike v južni Aziji. &quot;Za vlado,&quot; nam je dejal Hadley, &quot;smo jo premaknili čim hitreje. vse skupaj. &quot; Ko je upanje v premikanju talibanov zbledelo, se je ponovno razvila razprava o dajanju prikrite pomoči nasprotnikom režima. Clarke in Cofer Black iz Cie sta obnovila prizadevanja za pomoč Severnemu zavezništvu. Clarke je predlagal, naj začne s skromno pomočjo, ravno toliko, da bo Severno zavezništvo ostalo v boju in povezalo teroriste Al Kaide, ne da bi si prizadeval za strmoglavljenje talibanov. Rice, Hadley in uslužbenec NSC za Afganistan Zalmay Khalilzad so nam povedali, da nasprotujejo pomoči severnemu zavezništvu. Trdili so, da mora program imeti veliko vlogo za paštunske nasprotnike talibanov. Prav tako so menili, da bi bilo treba program izvajati v večjem obsegu, kot je bilo predlagano. Clarke se je strinjal z zamislijo o širšem programu, vendar je opozoril, da zamuda tvega končni poraz severnega zavezništva od talibanov. Spomladi je CIA na zahtevo NSC pripravila osnutek pravnih oblasti - predsedniška ugotovitev - za izvajanje obsežnega programa tajne pomoči talibanskim sovražnikom.
+passage.questions.2.question:Severno zavezništvo je bilo nasprotnik?
+passage.questions.2.idx:807.0
+passage.questions.2.answers.1.text:Talibani
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:4218.0
+passage.questions.2.answers.0.text:Al kaida
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:4217.0
+passage.questions.1.question:Kdo si je prizadeval za podporo Severnega zavezništva?
+passage.questions.1.idx:806.0
+passage.questions.1.answers.4.text:Clarke
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:4216.0
+passage.questions.1.answers.3.text:Cofer Black
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4215.0
+passage.questions.1.answers.2.text:Hadley
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4214.0
+passage.questions.1.answers.1.text:Richard Armitage
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:4213.0
+passage.questions.1.answers.0.text:Cofer Black iz Cie
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4212.0
+passage.questions.0.question:Kdo je mislil, da bi moral biti program večji?
+passage.questions.0.idx:805
+passage.questions.0.answers.5.text:Clarke
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:4211.0
+passage.questions.0.answers.4.text:Rice, Hadley in Zalmay Khalilzad
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:4210.0
+passage.questions.0.answers.3.text:Hadley
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4209.0
+passage.questions.0.answers.2.text:Riž
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:4208.0
+passage.questions.0.answers.1.text:Zalmay Khalilzad
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4207
+passage.questions.0.answers.0.text:Richard
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4206
+idx:68

@@ -1,0 +1,240 @@
+version:1.1
+passage.text:Medtem ko je bil Nashiri v Afganistanu, sta Nibras in Khamri videla svojo priložnost. Pilotirali so s čolnom, natovorjenim z eksplozivi, skupaj z USS Cole, članom posadke prijazno kretali in eksplodirali bombo. Quso ni pravočasno prispel v stanovanje, da bi posnel napad. Nazaj v Afganistanu je Bin Laden pričakoval vojaško maščevanje ZDA. Naročil je evakuacijo letališkega kompleksa Al Kaide na letališču Kandahar in pobegnil - najprej v puščavsko območje blizu Kabula, nato v Khowst in Jalalabad ter na koncu nazaj v Kandahar. V Kandaharju se je vrtel med petimi do šestimi rezidencami, pri čemer je v vsaki rezidenci preživel eno noč. Poleg tega je svojega starejšega svetovalca Mohammeda Atefa poslal v drug del Kandaharja in njegovega namestnika Aymana al Zawahirija v Kabul, da vseh treh ne bi bilo mogoče ubiti v enem napadu. Ameriške stavke ni bilo. Februarja 2001 je vir poročal, da se posameznik, ki ga je označil za velikega inštruktorja (verjetno sklic na Bin Ladena), pogosto pritožuje, da ZDA še niso napadle. Po navedbah vira je Bin Laden želel, da bi ZDA napadle, in če ne, bi sprožil nekaj večjega. Napad na USS Cole je spodbudil novačenje Al Kaide. Po napadu je Bin Laden naročil medijskemu odboru, ki ga je nato vodil Khalid Sheikh Mohammed, da pripravi propagandni video, ki vključuje ponovitev napada skupaj s slikami taborišč za usposabljanje Al Kaide in metodami usposabljanja; izpostavil je tudi trpljenje muslimanov v Palestini, Kašmirju, Indoneziji in Čečeniji. Podoba Al Kaide je bila za Bin Ladena zelo pomembna, video pa je bil široko razširjen. Deli so bili predvajani na Al Jazeeri, CNN in drugih televizijskih postajah. Razširjen je bil tudi med številnimi mladeniči v Savdski Arabiji in Jemnu, zaradi česar so številni skrajneži odpotovali v Afganistan na usposabljanje in džihad. Člani Al Kaide so videoposnetek ocenili kot učinkovito orodje v svojem boju za prevlado med drugimi islamističnimi in džihadističnimi gibanji.
+passage.questions.9.question:Po katerem napadu je Bin Laden naročil odboru za medije, naj pripravi propagandni video?
+passage.questions.9.idx:2335.0
+passage.questions.9.answers.4.text:Napad na USS Cole
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:12340.0
+passage.questions.9.answers.3.text:Napad USS Cole
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:12339.0
+passage.questions.9.answers.2.text:Pocinkano
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:12338.0
+passage.questions.9.answers.1.text:9.
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:12337.0
+passage.questions.9.answers.0.text:11.
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:12336.0
+passage.questions.8.question:Kdo je pilotiral z eksplozivi naloženi čoln skupaj z USS Cole?
+passage.questions.8.idx:2334.0
+passage.questions.8.answers.2.text:Kandahar
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:12335.0
+passage.questions.8.answers.1.text:Khalid Sheikh Mohammed
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:12334.0
+passage.questions.8.answers.0.text:Nibras in Khamri
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:12333.0
+passage.questions.7.question:Kakšen napad so ustvarili za propagandni video Al-Kaide?
+passage.questions.7.idx:2333.0
+passage.questions.7.answers.4.text:Napad na USS Cole
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:12332.0
+passage.questions.7.answers.3.text:Jazeera
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:12331.0
+passage.questions.7.answers.2.text:Napad USS Cole
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:12330.0
+passage.questions.7.answers.1.text:9.
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:12329.0
+passage.questions.7.answers.0.text:11.
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:12328.0
+passage.questions.6.question:So se Bin Ladnovi strahovi / upi uresničili?
+passage.questions.6.idx:2332.0
+passage.questions.6.answers.3.text:Metode
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:12327.0
+passage.questions.6.answers.2.text:Ne
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:12326.0
+passage.questions.6.answers.1.text:Ne. Ameriške stavke ni bilo
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:12325.0
+passage.questions.6.answers.0.text:Usposabljanje
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:12324.0
+passage.questions.5.question:Kaj je storil Bin Laden, ker mu je bila podoba Al Kaide pomembna?
+passage.questions.5.idx:2331.0
+passage.questions.5.answers.3.text:Distribuirali propagandni video
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:12323.0
+passage.questions.5.answers.2.text:Savdski
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:12322.0
+passage.questions.5.answers.1.text:Po bombardiranju USS Cole je posnel in razširil video posnetek. Po napadu je Bin Laden naročil medijskemu odboru, ki ga je takrat vodil Khalid Sheikh Mohammed, naj pripravi propagandni video, ki vključuje ponovitev upada skupaj s posnetki Al Kaide. kampi za usposabljanje in metode usposabljanja; izpostavil je tudi trpljenje muslimanov v Palestini, Kašmirju, Indoneziji in Čečeniji
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:12321.0
+passage.questions.5.answers.0.text:Napadana Amerika
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:12320.0
+passage.questions.4.question:Katera sta bila dva od objav novic, zajeta v propagandnem videu, ki ga je Bin Laden posnel po tem, ko ZDA niso maščevale?
+passage.questions.4.idx:2330.0
+passage.questions.4.answers.7.text:Ne Al Jazeera, CNN in druge televizijske hiše
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:12319.0
+passage.questions.4.answers.6.text:BBC
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:12318.0
+passage.questions.4.answers.5.text:CNN
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:12317.0
+passage.questions.4.answers.4.text:Al Jazeera
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:12316.0
+passage.questions.4.answers.3.text:lisica
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:12315.0
+passage.questions.4.answers.2.text:Al Jazeera, CNN in druge televizijske hiše
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:12314.0
+passage.questions.4.answers.1.text:Al Jazeera in CNN
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:12313.0
+passage.questions.4.answers.0.text:Ne Al Jazeere in CNN
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:12312.0
+passage.questions.3.question:Kdo se je v Kandaharju nenehno vrtel med petimi in šestimi bivališči?
+passage.questions.3.idx:2329.0
+passage.questions.3.answers.3.text:Khalid Sheikh Mohammed
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:12311.0
+passage.questions.3.answers.2.text:Bin Laden
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:12310.0
+passage.questions.3.answers.1.text:Osama bin Laden
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:12309.0
+passage.questions.3.answers.0.text:Preostanek
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:12308.0
+passage.questions.2.question:Česa se je Bin Laden bal, zaradi česar je moral evakuirati letališki kompleks Al Kaide v Kandaharju?
+passage.questions.2.idx:2328.0
+passage.questions.2.answers.4.text:Bin Laden je pričakoval ameriške vojaške povračilne ukrepe
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:12307.0
+passage.questions.2.answers.3.text:Ameriškega vojaškega maščevanja ni
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:12306.0
+passage.questions.2.answers.2.text:USS Cole
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12305.0
+passage.questions.2.answers.1.text:Bin Laden ni pričakoval ničesar
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12304.0
+passage.questions.2.answers.0.text:Ameriški vojaški maščevalni ukrep
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:12303.0
+passage.questions.14.question:Kdo je odredil evakuacijo letališkega kompleksa v Kandaharju Al Kaide?
+passage.questions.14.idx:2340.0
+passage.questions.14.answers.5.text:Bin Laden
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:12361.0
+passage.questions.14.answers.4.text:Vojaški
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:12360.0
+passage.questions.14.answers.3.text:Nibras in Khamri
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:12359.0
+passage.questions.14.answers.2.text:Osama bin Laden
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:12358.0
+passage.questions.14.answers.1.text:Televizija
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:12357.0
+passage.questions.14.answers.0.text:Al-Jazeera
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:12356.0
+passage.questions.13.question:Kateri videoposnetek je bil predvajan v delih Al-Jazeere, CNN in drugih novih prodajnih mest?
+passage.questions.13.idx:2339.0
+passage.questions.13.answers.3.text:11 napad
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:12355.0
+passage.questions.13.answers.2.text:Propagandni video Al-Kaide
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:12354.0
+passage.questions.13.answers.1.text:Škotska
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:12353.0
+passage.questions.13.answers.0.text:9.
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:12352.0
+passage.questions.12.question:Katere ukrepe je Bin Laden izvedel v strahu pred povračilnimi ukrepi?
+passage.questions.12.idx:2338.0
+passage.questions.12.answers.3.text:Naročil je evakuacijo letališkega kompleksa Al Kaide na letališču Kandahar in pobegnil - najprej v puščavsko območje blizu Kabula, nato v Khowst in Jalalabad ter na koncu nazaj v Kandahar. V Kandaharju se je vrtel med petimi do šestimi rezidencami, pri čemer je v vsaki rezidenci preživel eno noč. Poleg tega je svojega starejšega svetovalca Mohammeda Atefa poslal v drug del Kandaharja in njegovega namestnika Aymana al Zawahirija v Kabul, da vseh treh ne bi bilo mogoče ubiti v enem napadu
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:12351.0
+passage.questions.12.answers.2.text:Evakuacija
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:12350.0
+passage.questions.12.answers.1.text:Skrit v Afganistanu
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:12349.0
+passage.questions.12.answers.0.text:Odpeljan v puščavo blizu Kabula
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:12348.0
+passage.questions.11.question:Kdo je napadel cola USS?
+passage.questions.11.idx:2337.0
+passage.questions.11.answers.3.text:Živeti
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:12347.0
+passage.questions.11.answers.2.text:Al-Kaida
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:12346.0
+passage.questions.11.answers.1.text:Nibras in Khamri
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:12345.0
+passage.questions.11.answers.0.text:ISIS
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:12344.0
+passage.questions.10.question:Kje sta Nibras in Khamri napadla USS Cole?
+passage.questions.10.idx:2336.0
+passage.questions.10.answers.2.text:Iraku
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:12343.0
+passage.questions.10.answers.1.text:Predvideno
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:12342.0
+passage.questions.10.answers.0.text:Afganistanu
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:12341.0
+passage.questions.1.question:Kdo so bili ljudje, ki so čoln pripeljali do USS Cole in detonirali bombo?
+passage.questions.1.idx:2327.0
+passage.questions.1.answers.6.text:Quso
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:12302.0
+passage.questions.1.answers.5.text:Khamri
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:12301.0
+passage.questions.1.answers.4.text:Nibras in Khamri
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:12300.0
+passage.questions.1.answers.3.text:Ne Nibre
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:12299.0
+passage.questions.1.answers.2.text:Ne Khamri
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12298.0
+passage.questions.1.answers.1.text:Nashiri
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:12297.0
+passage.questions.1.answers.0.text:Nibre
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:12296.0
+passage.questions.0.question:Kdo je vodil čoln, ki je napadel USS Cole?
+passage.questions.0.idx:2326
+passage.questions.0.answers.2.text:Nashiri
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:12295.0
+passage.questions.0.answers.1.text:Dvorišče
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12294
+passage.questions.0.answers.0.text:Nibras in Khamri
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:12293
+idx:211

@@ -1,0 +1,223 @@
+version:1.1
+passage.text:Živa bitja potrebujejo neživo snov, pa tudi energijo. Za kaj misliš, da se snov uporablja? Ena stvar je graditi telesa. Potrebujejo ga tudi za izvajanje življenjskih procesov. Vsaka neživa snov, ki jo živa bitja potrebujejo, se imenuje hranilo. Ogljik in dušik sta primera hranil. Za razliko od energije se snov v ekosistemih reciklira. Kako je prikazano na sliki 3.11. Razgrajevalci sproščajo hranila, ko razgrajujejo odmrle organizme. Hranila rastline prevzamejo skozi svoje korenine. Hranila preidejo na primarne potrošnike, ko jedo rastline. Hranila prehajajo na potrošnike višje stopnje, ko jedo potrošnike nižje ravni. Ko živa bitja umrejo, se cikel ponovi.
+passage.questions.9.question:Lahko poimenujete nekaj, za kar se uporablja snov?
+passage.questions.9.idx:4404.0
+passage.questions.9.answers.3.text:Razgradnja
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:23305.0
+passage.questions.9.answers.2.text:Med drugim za izvajanje življenjskih procesov
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:23304.0
+passage.questions.9.answers.1.text:Gradbena telesa
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:23303.0
+passage.questions.9.answers.0.text:Izvedite proces življenja
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:23302.0
+passage.questions.8.question:Na primeru opišite ta scenarij recikliranja hranil.
+passage.questions.8.idx:4403.0
+passage.questions.8.answers.3.text:Hranila prehajajo skozi potrošnike
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:23301.0
+passage.questions.8.answers.2.text:Hranila prehajajo na primarne porabnike
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:23300.0
+passage.questions.8.answers.1.text:Živa bitja umrejo in izumrejo zaradi interakcije z drugimi živalmi
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:23299.0
+passage.questions.8.answers.0.text:Rastlinsko hrano lahko položim v tla, kjer rastejo moje rastline paradižnika. Pride zajec in poje paradižnik. Lovec zajca ubije za hrano in jo poje
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:23298.0
+passage.questions.7.question:Kako se hranila hranijo?
+passage.questions.7.idx:4402.0
+passage.questions.7.answers.2.text:Z jedjo
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:23297.0
+passage.questions.7.answers.1.text:Korenine prevzamejo hranila, ki jih prenašajo tistim, ki jedo rastline, nato pa jih posredujejo potrošnikom višje stopnje, ki jedo nižje
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23296.0
+passage.questions.7.answers.0.text:Skozi korenine
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:23295.0
+passage.questions.6.question:Kako se hranila reciklirajo?
+passage.questions.6.idx:4401.0
+passage.questions.6.answers.2.text:Skozi smrt
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:23294.0
+passage.questions.6.answers.1.text:Ko se skozi korenine vnese v rastline in kasneje poje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:23293.0
+passage.questions.6.answers.0.text:V tovarnah
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:23292.0
+passage.questions.5.question:Ali se ogljik in dušik štejeta za živa ali neživega?
+passage.questions.5.idx:4400.0
+passage.questions.5.answers.1.text:Neživo
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:23291.0
+passage.questions.5.answers.0.text:Živeti
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:23290.0
+passage.questions.4.question:Za kaj se dve stvari uporablja?
+passage.questions.4.idx:4399.0
+passage.questions.4.answers.4.text:Zgradite manj teles
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:23289.0
+passage.questions.4.answers.3.text:Jedilne rastline
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:23288.0
+passage.questions.4.answers.2.text:Razgradnja
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:23287.0
+passage.questions.4.answers.1.text:Ena stvar je graditi telesa.
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:23286.0
+passage.questions.4.answers.0.text:Tela jo potrebujejo za izvajanje življenjskih procesov
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:23285.0
+passage.questions.3.question:Kateri organizmi omogočajo rastlinam, da absorbirajo hranila iz svojih korenin?
+passage.questions.3.idx:4398.0
+passage.questions.3.answers.1.text:Razgrajevalci
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:23284.0
+passage.questions.3.answers.0.text:Skladatelji
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:23283.0
+passage.questions.2.question:Navedite primer hranila in kaj lahko naredi.
+passage.questions.2.idx:4397.0
+passage.questions.2.answers.4.text:Dušik
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:23282.0
+passage.questions.2.answers.3.text:Korenine
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:23281.0
+passage.questions.2.answers.2.text:Razgrajevalci
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:23280.0
+passage.questions.2.answers.1.text:Rastline dušik absorbirajo preko korenin
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:23279.0
+passage.questions.2.answers.0.text:Ogljik
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:23278.0
+passage.questions.16.question:Kaj se zgodi, da lahko rastline vnašajo hranila skozi svoje korenine?
+passage.questions.16.idx:4411.0
+passage.questions.16.answers.2.text:Razgrajevalci sproščajo hranila
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:23332.0
+passage.questions.16.answers.1.text:Hranila prehajajo na primarne porabnike
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:23331.0
+passage.questions.16.answers.0.text:Odmrli organizmi razgrajujejo in sproščajo hranila
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:23330.0
+passage.questions.15.question:Za kaj živa bitja uporabljajo neživo snov?
+passage.questions.15.idx:4410.0
+passage.questions.15.answers.4.text:Zgradite telesa
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:23329.0
+passage.questions.15.answers.3.text:Jedilne rastline
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:23328.0
+passage.questions.15.answers.2.text:Uporabljajo ga za gradnjo teles in izvajanje življenjskih procesov
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:23327.0
+passage.questions.15.answers.1.text:Razgradnja
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:23326.0
+passage.questions.15.answers.0.text:Izvedite proces življenja
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:23325.0
+passage.questions.14.question:Kaj potrebujejo živa bitja?
+passage.questions.14.idx:4409.0
+passage.questions.14.answers.4.text:Potrebujejo neživa bitja, energijo in hranila, ki jih zagotavlja neživi material
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:23324.0
+passage.questions.14.answers.3.text:Neživa snov
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:23323.0
+passage.questions.14.answers.2.text:Živali
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:23322.0
+passage.questions.14.answers.1.text:Energija
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:23321.0
+passage.questions.14.answers.0.text:Rastline
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:23320.0
+passage.questions.13.question:Iz česa se lahko gradi snov?
+passage.questions.13.idx:4408.0
+passage.questions.13.answers.1.text:Korenine
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:23319.0
+passage.questions.13.answers.0.text:Telesa
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:23318.0
+passage.questions.12.question:Poimenujte žive ali nežive stvari, ki uporabljajo energijo
+passage.questions.12.idx:4407.0
+passage.questions.12.answers.4.text:Kamnine
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:23317.0
+passage.questions.12.answers.3.text:Živali
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:23316.0
+passage.questions.12.answers.2.text:Zadeva
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:23315.0
+passage.questions.12.answers.1.text:Vesolje
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:23314.0
+passage.questions.12.answers.0.text:Rastline
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:23313.0
+passage.questions.11.question:Za kaj se uporablja neživa snov?
+passage.questions.11.idx:4406.0
+passage.questions.11.answers.3.text:Lov
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:23312.0
+passage.questions.11.answers.2.text:Ribolov
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:23311.0
+passage.questions.11.answers.1.text:Izvedite življenjski proces
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:23310.0
+passage.questions.11.answers.0.text:Zgradite telesa
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:23309.0
+passage.questions.10.question:Kaj se zgodi s hranili, ko jih razgrajevalci uporabljajo za razgradnjo odmrlih organizmov?
+passage.questions.10.idx:4405.0
+passage.questions.10.answers.2.text:Hranila rastline prevzamejo skozi svoje korenine, preidejo do primarnih potrošnikov, ko jedo rastline, in do potrošnikov na višji ravni, ko jedo potrošnike nižje ravni
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:23308.0
+passage.questions.10.answers.1.text:Zavzamejo ga rastline
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:23307.0
+passage.questions.10.answers.0.text:Izgini
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:23306.0
+passage.questions.1.question:Neživa snov v živih bitjih se imenuje hranila in nekaj teh hranil je kaj?
+passage.questions.1.idx:4396.0
+passage.questions.1.answers.3.text:Ogljik in dušik
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:23277.0
+passage.questions.1.answers.2.text:Dušik
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:23276.0
+passage.questions.1.answers.1.text:Ogljik
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:23275.0
+passage.questions.1.answers.0.text:Razgrajevalci
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:23274.0
+passage.questions.0.question:Kaj je začetek življenjskega cikla?
+passage.questions.0.idx:4395
+passage.questions.0.answers.2.text:Razgradnja
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23273.0
+passage.questions.0.answers.1.text:Razgrajevalci sproščajo hranila, ko razgrajujejo odmrle organizme
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:23272
+passage.questions.0.answers.0.text:Ogljik
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23271
+idx:385

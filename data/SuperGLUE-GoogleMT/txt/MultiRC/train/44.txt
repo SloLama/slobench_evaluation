@@ -1,0 +1,81 @@
+version:1.1
+passage.text:Marca 2001 je Rice zaprosil Cio, naj pripravi novo vrsto oblasti za tajne ukrepe v Afganistanu. Riceova se je spomnila, da je ideja prišla od Clarka in višje direktorice obveščevalne službe NSC Mary McCarthy in je bila povezana s predlogom za pomoč Severnemu zavezništvu in Uzbekom. Rice je osnutek dokumenta opisal kot &quot;konsolidacijo plus&quot;, ki nadomešča različne Clintonove administrativne dokumente. Dejansko je CIA pripravila dva dokumenta. Ena je bila ugotovitev, ki se je nanašala na pomoč nasprotnikom talibanskega režima; drugi je bil osnutek obvestilnega memoranduma, ki je vključeval več odprtega jezika, ki je dovoljeval morebitne smrtonosne ukrepe v različnih situacijah. Tenet je oba posredoval Hadleyju 28. marca. V zapiskih Cie za Teneta so mu svetovali, da je bil &quot;kot odgovor na zahtevo NSC za osnutke, ki bodo oblikovalcem politik pomagali pri pregledu njihovih možnosti, izdelan vsak dokument, ki bo Agenciji ponudil najširši možni diskrecijska pravica, dovoljena po zakonu. &quot; Na sestanku je Tenet zagovarjal odločitev o politiki, preden se je odločil za pravne organe, ki jo bodo izvajali. Hadley je ta argument sprejel in osnutek MON je bil zadržan. Ko se je pregled politike nadaljeval, je bil načrtovani program prikritih ukrepov za Afganistan vključen v osnutek predsedniške direktive kot del &quot;Priloge A&quot; o obveščevalnih dejavnostih za &quot;odpravo grožnje z Al Kaido&quot;. Glavna razprava poleti 2001 se je osredotočila na nov mehanizem za smrtonosni napad na Bin Ladna - oboroženo različico brezpilotnega letala Predator. V prvih mesecih nove uprave so vprašanja v zvezi s Predatorjem postajala vedno bolj osrednji spor. Clarke se je zavzel za nadaljevanje letov Predatorja nad Afganistanom takoj, ko je vreme to dovolilo, v upanju, da bodo še vedno zagotovili izmuzljivo &quot;delujočo inteligenco&quot; za ciljanje Bin Ladena s križarkami. Ko je izvedel, da letalske sile razmišljajo, da bi Predatorje opremile z bojnimi glavami, se je Clarke še bolj navdušil nad prerazporeditvijo. Šef CTC Cofer Black se je zavzel za napotitev Predatorja v izvidniške namene. Spomnil je, da je Taliban jeseni 2000 opazil Predatorja in premešal njihove borce MiG. Black je hotel počakati, dokler ni pripravljena oborožena različica. &quot;Ne verjamem, da morebitna vrednost izterjave odtehta tveganje morebitne prekinitve programa, ko vloge dvignejo talibani, ki pred CNN paradirajo z ogorčenim Predatorjem,&quot; je zapisal.
+passage.questions.2.question:Zakaj se je Cofer Black zavzel proti napotitvi Predatorja v izvidniške namene?
+passage.questions.2.idx:517.0
+passage.questions.2.answers.7.text:Menil je, da bi ga sovražnik prelahko opazil
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:2686.0
+passage.questions.2.answers.6.text:Menil je, da Predator ni dovolj dobro izdelan, da bi lahko opravljal misije za izvid
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:2685.0
+passage.questions.2.answers.5.text:Hotel je počakati, dokler ni pripravljena oborožena različica
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:2684.0
+passage.questions.2.answers.4.text:Verjel je, da bodo povzročili vojno
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2683.0
+passage.questions.2.answers.3.text:Black je hotel počakati, dokler ni pripravljena oborožena različica
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2682.0
+passage.questions.2.answers.2.text:Verjel je, da se bodo strmoglavili
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2681.0
+passage.questions.2.answers.1.text:Verjel je, da so preveč vidni
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:2680.0
+passage.questions.2.answers.0.text:Spomnil je, da so talibani jeseni 2000 opazili Predatorja in premešali njihove borce MiG. Cofer Black je menil, da &quot;vrednost ponovne presoje&quot; ne odtehta tveganja morebitne prekinitve programa, ko vloge dvignejo talibani, ki pred CNN paradirajo z ogorčenim Predatorjem.
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:2679.0
+passage.questions.1.question:Kakšen položaj je imel Clarke v razpravi o uporabi oboroženih brezpilotnih letal Predator?
+passage.questions.1.idx:516.0
+passage.questions.1.answers.7.text:Želel je čas, da oceni situacijo in se pozneje odloči
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:2678.0
+passage.questions.1.answers.6.text:Nadaljevanje letov Predatorja nad Afganistanom takoj, ko bo vreme to dovolilo, v upanju, da bodo še vedno zagotovili izmuzljivo &quot;delujočo inteligenco&quot; za ciljanje Bin Ladena s križarkami
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:2677.0
+passage.questions.1.answers.5.text:Menil je, da je tveganje morebitne prekinitve programa preveliko
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2676.0
+passage.questions.1.answers.4.text:Želel je končati vso uporabo brezpilotnih letal Predator
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2675.0
+passage.questions.1.answers.3.text:Zavzel se je za prekinitev programa
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2674.0
+passage.questions.1.answers.2.text:Zavzel se je za nadaljevanje letov Predatorja nad Afganistanom, takoj ko je vreme to dovolilo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2673.0
+passage.questions.1.answers.1.text:Clarke se je še bolj navdušil nad prerazporeditvijo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:2672.0
+passage.questions.1.answers.0.text:Naklonil se je varčevanju plenilcev za druge namene
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:2671.0
+passage.questions.0.question:Koga se je Rice spomnil, da je zamislil CIA, naj pripravi novo vrsto oblasti za prikrite akcije v Afganistanu?
+passage.questions.0.idx:515
+passage.questions.0.answers.7.text:Clarke
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:2670.0
+passage.questions.0.answers.6.text:Cofer Black
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:2669.0
+passage.questions.0.answers.5.text:Clarke in Mary McCarthy
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2668.0
+passage.questions.0.answers.4.text:Clarke in višja direktorica obveščevalne službe NSC, Mary McCarthy,
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2667.0
+passage.questions.0.answers.3.text:Tenet in Hadley
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2666.0
+passage.questions.0.answers.2.text:Clintonova administracija
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2665.0
+passage.questions.0.answers.1.text:Šef CTC, Cofer Black
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2664
+passage.questions.0.answers.0.text:To je bila njegova lastna ideja
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2663
+idx:44

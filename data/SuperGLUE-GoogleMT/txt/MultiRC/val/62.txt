@@ -1,0 +1,105 @@
+version:1.1
+passage.text:Medtem ko pisci Base Ball v mestih, ki sestavljajo Južno združenje, nimajo organiziranega članstva, podobnega Združenju pisateljev Base Ball v glavnih ligah in organizacijah, ki so najbolj znane kot razred AA lig, so pametni, pridni skupina mladeničev, ki so se trudili v sezoni in izven sezone, ne samo da bi zgradili Base Ball, ampak da bi ga zgradili na pravih črtah. Izkušnje več kot četrt stoletja so najpogosteje dokazale, da je standard Base Ball vztrajno povišan. Za potrditev tega dejstva ni potrebna zbirka dejstev niti kakršna koli dogmatska trditev urednika VODNIKA. To je trenutno stanje, ki govori samo zase. Splošni ton igralcev je precej višji, kot je bil, in očitno je prišlo do izrazitega izboljšanja duha moških, ki so lastniki klubov Base Ball. V prejšnji zgodovini tega športa je bila težnja k zmagi na kakršen koli način, ki dejansko ni prestopil meje nepoštenosti. Kasneje je prišla sezona, ko je komercialni konec igre ponavadi posegal v meje zabave. To je bilo v zadnjih dveh sezonah potlačeno in danes je morala Base Ball višjega tipa, kot je bila kdaj v zgodovini zabave.
+passage.questions.5.question:Zakaj je sprejemljivo, da Južno združenje nima organiziranega članstva?
+passage.questions.5.idx:737.0
+passage.questions.5.answers.5.text:Brez članarin
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:3669.0
+passage.questions.5.answers.4.text:Ista skupina mladeničev
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3668.0
+passage.questions.5.answers.3.text:Ker izkušnje kažejo, da se zabava dviguje brez organiziranega članstva
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3667.0
+passage.questions.5.answers.2.text:Združenje
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3666.0
+passage.questions.5.answers.1.text:Baseball
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3665.0
+passage.questions.5.answers.0.text:Pisatelji
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3664.0
+passage.questions.4.question:Kateri šport je bil nagnjen k kakršni koli zmagi, kar je bilo kasneje potlačeno?
+passage.questions.4.idx:736.0
+passage.questions.4.answers.5.text:Košarka
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:3663.0
+passage.questions.4.answers.4.text:Samo ne varaj
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:3662.0
+passage.questions.4.answers.3.text:Razvedrilo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3661.0
+passage.questions.4.answers.2.text:Južno združenje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3660.0
+passage.questions.4.answers.1.text:Baseball
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3659.0
+passage.questions.4.answers.0.text:Komercialni konec igre
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3658.0
+passage.questions.3.question:Je zatiranje nagnjenosti k zmagi na kakršen koli način dvignilo ali znižalo moralo osnovne žoge?
+passage.questions.3.idx:735.0
+passage.questions.3.answers.1.text:Dvignjeno
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3657.0
+passage.questions.3.answers.0.text:Spuščen
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3656.0
+passage.questions.2.question:Katere značilnosti zabave v baseballu so bile potlačene?
+passage.questions.2.idx:734
+passage.questions.2.answers.6.text:Ko je bil baseball zabaven
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:3655.0
+passage.questions.2.answers.5.text:Težnja po komercialnem koncu igre in k večji nepoštenosti poseganju v zabavo na splošno
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:3654.0
+passage.questions.2.answers.4.text:Avtorji osnovnih pesmi v mestih nimajo organiziranega članstva
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3653.0
+passage.questions.2.answers.3.text:Baseball občutki
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3652.0
+passage.questions.2.answers.2.text:Delal v sezoni in izven sezone
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3651.0
+passage.questions.2.answers.1.text:So pametni in pridni
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3650
+passage.questions.2.answers.0.text:Ko je komercialni konec igre posegel v meje zabave
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3649
+passage.questions.1.question:Ali je potreben kakšen argument, ki dokazuje, da je standard osnovne žoge vztrajno povišan?
+passage.questions.1.idx:733
+passage.questions.1.answers.3.text:Ne, zaradi igralcev
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3648.0
+passage.questions.1.answers.2.text:Da, s strani igralcev
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3647.0
+passage.questions.1.answers.1.text:Da, zaradi navdušenja pisateljev
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3646
+passage.questions.1.answers.0.text:Mogoče
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3645
+passage.questions.0.question:Pisatelji katerega združenja naj bi v zadnjih 25 letih povišali standard osnovne žoge?
+passage.questions.0.idx:732
+passage.questions.0.answers.4.text:Južni
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:3644.0
+passage.questions.0.answers.3.text:Društvo pisateljev
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3643.0
+passage.questions.0.answers.2.text:Baseball zveza
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3642.0
+passage.questions.0.answers.1.text:Baseball
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3641
+passage.questions.0.answers.0.text:Severni
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3640
+idx:62

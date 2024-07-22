@@ -1,0 +1,6 @@
+choice1:Hamburger sta prerezala na pol.
+choice2:Ob hamburgerju sta naročila krompirček.
+idx:40
+label:0
+premise:Prijatelja sta se odločila razdeliti hamburger.
+question:effect

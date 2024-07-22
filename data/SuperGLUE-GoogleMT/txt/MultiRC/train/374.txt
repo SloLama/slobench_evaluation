@@ -1,0 +1,182 @@
+version:1.1
+passage.text:Thelma James je bila glavni kandidat za nepremičninsko ripoff: stara je 68 let, ima dragoceno malo denarja in ne zna brati ali pisati. &quot;Ne bom vam lagala. Bila sem tako navdušena,&quot; je vdova in nekdanja prebivalka dupleksa dejala o nakupu svojega prvega doma, povešene okvirne konstrukcije na Snowdnu. &quot;Vesel sem bil, da sem si priskrbel hišo.&quot; Ko je James spoznal, da so jo prevarali, se je obrnila na pravno službo v območju Memphis, ki jo je zastopala v tožbi. Zdaj so Jamesove mesečne hišne zapiske z 796 dolarjev - več kot dvakrat več od njenega mesečnega dohodka - padle na dostopnih 247 dolarjev. Nekatere ljudi, ki so jo izkoristili z vprašljivim posojilnim programom, so poslali v zapor. &quot;Ne vem, kaj bi storil brez pravne službe,&quot; je dejal James. &quot;Rešili so veliko mojih težav.&quot; James je ena od več kot 3000 strank, ki jih je lani postregel MALS, ki nudi pomoč v civilnih zadevah, kot so nasilje v družini in težave, povezane z družino, dohodki iz socialne varnosti in dodatnega zavarovanja, primeri veteranov, stanovanj in potrošnikov. Tako kot James je tudi večina strank starejših ali žensk. Nekateri so hendikepirani. Nekateri potrebujejo zdravstveno oskrbo ali veteranske ugodnosti. Nekateri se poskušajo izogniti deložaciji ali zlorabi zakona. In 87 odstotkov jih živi na ravni revščine ali pod njo. Župan okrožja Shelby AC Wharton je nedavno dejal, da so pravne storitve pomembne za tiste, ki zaradi revščine ali drugih življenjskih težav mislijo, da je pravičnost prazna beseda. &quot;Treba jim je dati razlog, da verjamejo, da zakon velja tudi zanje,&quot; je dejal Wharton, nekdanji izvršni direktor MALS. Toda MALS se prihodnje leto sooča s krčenjem financiranja, ki ga je zaradi treh virov prihodkov prinesel 200.000 USD primanjkljaja.
+passage.questions.9.question:Kdo so nekatere stranke, ki jih MALS oskrbuje?
+passage.questions.9.idx:4287.0
+passage.questions.9.answers.9.text:Življenje na ravni revščine ali pod njo
+passage.questions.9.answers.9.label:1.0
+passage.questions.9.answers.9.idx:22807.0
+passage.questions.9.answers.8.text:Potrebujete veteranske ugodnosti
+passage.questions.9.answers.8.label:1.0
+passage.questions.9.answers.8.idx:22806.0
+passage.questions.9.answers.7.text:Potrebujete zdravstveno oskrbo
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:22805.0
+passage.questions.9.answers.6.text:Ženska
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:22804.0
+passage.questions.9.answers.5.text:Starejši
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:22803.0
+passage.questions.9.answers.4.text:Mlad
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:22802.0
+passage.questions.9.answers.3.text:Prizadet
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:22801.0
+passage.questions.9.answers.2.text:Poskušati ubežati nasilnemu zakonu
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:22800.0
+passage.questions.9.answers.11.text:Odvetniki
+passage.questions.9.answers.11.label:0,0
+passage.questions.9.answers.11.idx:22809.0
+passage.questions.9.answers.10.text:Moški
+passage.questions.9.answers.10.label:0,0
+passage.questions.9.answers.10.idx:22808.0
+passage.questions.9.answers.1.text:Bogata
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:22799.0
+passage.questions.9.answers.0.text:Poskušam se izogniti deložaciji
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:22798.0
+passage.questions.8.question:Kateri deli kažejo, da je imel James omejen dohodek?
+passage.questions.8.idx:4286.0
+passage.questions.8.answers.4.text:Ne morem brati ali pisati
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:22797.0
+passage.questions.8.answers.3.text:Imela je dragoceno malo denarja in njen račun je bil dvakrat večji od njenega mesečnega dohodka
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:22796.0
+passage.questions.8.answers.2.text:Ima dragoceno malo denarja
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:22795.0
+passage.questions.8.answers.1.text:Več kot dvakratnik njenega mesečnega dohodka
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:22794.0
+passage.questions.8.answers.0.text:Ko je James spoznal, da so jo prevarali
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:22793.0
+passage.questions.7.question:Kdo je rešil veliko težav z Thelmo James?
+passage.questions.7.idx:4285.0
+passage.questions.7.answers.4.text:Župan AC Wharton
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:22792.0
+passage.questions.7.answers.3.text:MALS
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:22791.0
+passage.questions.7.answers.2.text:Posojilni program
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:22790.0
+passage.questions.7.answers.1.text:Pravne storitve na območju Memphisa
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:22789.0
+passage.questions.7.answers.0.text:Pravne storitve
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:22788.0
+passage.questions.6.question:Ali MALS služi strankam, ki potrebujejo zdravstveno oskrbo ali veteranske ugodnosti?
+passage.questions.6.idx:4284.0
+passage.questions.6.answers.1.text:Nekateri
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:22787.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:22786.0
+passage.questions.5.question:Kako veste, da je James cenil pravne storitve, ki jih je prejemala?
+passage.questions.5.idx:4283.0
+passage.questions.5.answers.3.text:Rekla je: &quot;Ne vem, kaj bi naredila brez pravne službe&quot;
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:22785.0
+passage.questions.5.answers.2.text:Zahvalila se je županu AC Whartonu
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:22784.0
+passage.questions.5.answers.1.text:Rešili so veliko mojih težav
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:22783.0
+passage.questions.5.answers.0.text:Ne vem, kaj bi naredil brez pravne službe in rešile so veliko mojih težav
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:22782.0
+passage.questions.4.question:Za koliko so pravne službe iz območja Memphisa lahko spustile Jamesove mesečne hišne zapiske?
+passage.questions.4.idx:4282.0
+passage.questions.4.answers.4.text:549 dolarjev
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:22781.0
+passage.questions.4.answers.3.text:796 dolarjev
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:22780.0
+passage.questions.4.answers.2.text:Dvakrat njen mesečni dohodek
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:22779.0
+passage.questions.4.answers.1.text:Od 247 do 796 dolarjev
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:22778.0
+passage.questions.4.answers.0.text:247 dolarjev
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:22777.0
+passage.questions.3.question:Ali MALS pomaga ljudem, ki se poskušajo izogniti nasilnemu zakonu?
+passage.questions.3.idx:4281.0
+passage.questions.3.answers.1.text:Nekateri
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:22776.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:22775.0
+passage.questions.2.question:Kako se James prilega običajni stranki MALS-a?
+passage.questions.2.idx:4280.0
+passage.questions.2.answers.8.text:Je hendikepirana
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:22774.0
+passage.questions.2.answers.7.text:Ženska
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:22773.0
+passage.questions.2.answers.6.text:Uboga je
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:22772.0
+passage.questions.2.answers.5.text:Starejši
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:22771.0
+passage.questions.2.answers.4.text:Srečna je
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22770.0
+passage.questions.2.answers.3.text:Je starejša in ženska
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:22769.0
+passage.questions.2.answers.2.text:Bogata
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22768.0
+passage.questions.2.answers.1.text:Nepismena je
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:22767.0
+passage.questions.2.answers.0.text:Je veteranka
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:22766.0
+passage.questions.1.question:Katere izjave kažejo na Jamesova čustva glede pridobivanja hiše, preden je vedela, da jo bodo prevarali?
+passage.questions.1.idx:4279.0
+passage.questions.1.answers.6.text:Jezen
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:22765.0
+passage.questions.1.answers.5.text:Razburjen
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:22764.0
+passage.questions.1.answers.4.text:Tako-oo navdušeni
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:22763.0
+passage.questions.1.answers.3.text:Vesel
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:22762.0
+passage.questions.1.answers.2.text:Zadovoljna
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22761.0
+passage.questions.1.answers.1.text:&quot;Bil sem tako navdušen!&quot; in &quot;Vesel sem bil, da sem si priskrbel hišo.&quot;
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:22760.0
+passage.questions.1.answers.0.text:Navdušen
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22759.0
+passage.questions.0.question:Ali MALS služi strankam, ki so hendikepirane?
+passage.questions.0.idx:4278
+passage.questions.0.answers.1.text:Nekateri
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:22758
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:22757
+idx:374

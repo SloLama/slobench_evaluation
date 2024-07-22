@@ -1,0 +1,317 @@
+version:1.1
+passage.text:Pokrov mumije je postavljen leta 1920 in pripoveduje zgodbo o skupini arheologov, ki naletijo na izgubljeni grob dečka faraona Kah-To-Beja. Zgodba se začne z bliskovitim zaporedjem v antični Egipt in vidimo zgodbo o tem, kako je Prem, sluga Kah-To-Beya, odzval dečka, ko je bil njegov oče umorjen v palači in ga odpeljal v puščavo za zaščito . Na žalost fant umre in je pokopan. Zgodba se nato premakne v leto 1920 in prikazuje odpravo, ki jo vodita znanstvenik Sir Basil Walden in poslovnež Stanley Preston, ki najde grob. Ne upoštevajo strašnega opozorila, ki jim ga je izdal lokalni beduin Hasmid o posledicah za tiste, ki kršijo grobnice starega Egipta in odstranijo telesa in sveti pokrov. Sir Basila ugrizne kača takoj po iskanju grobnice. Okreva se, vendar se po prihodu v Kairo ponovi. Preston to izkoristi in ga odpelje v norišče, da si zasluži, da je sam našel grobnico in prinčevo mumijo. Medtem, ko je bila postavljena v kairski muzej, je Premijeva mumija oživljena, ko Hasmid na platnu poje sveto prisego. Nato mumija nadaljuje z ubojnim divjanjem, da ubije člane odprave, začenši s Sirom Basijem, potem ko pobegne iz azila. Tiste, ki so pomagali odstraniti vsebino grobnice v Kairo, odstranijo s takšnimi grozljivimi sredstvi, kot je davljenje, metanje skozi okna in fotografiranje kisline v obraz.
+passage.questions.9.question:Kdo je vodil odpravo in kaj so prezrli?
+passage.questions.9.idx:2784.0
+passage.questions.9.answers.4.text:Sir Basil Walden in Stanley Preston sta ignorirala opozorila o posledicah kršitve grobnic iz starega Egipta
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:14689.0
+passage.questions.9.answers.3.text:Sir Basil Walden in Stanley Preston ignorirata opozorilo Hasmida o posledicah samega potovanja po Egiptu
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:14688.0
+passage.questions.9.answers.2.text:Znanstvenik Sir Basil Walden in poslovnež Stanley Preston ne upoštevata strašnega opozorila, ki ju jima je izrekel Hasmid
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:14687.0
+passage.questions.9.answers.1.text:Stanley Preston ignorira Sir Basila Waldena
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:14686.0
+passage.questions.9.answers.0.text:Sir Basil Walden ignorira kačji ugriz
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:14685.0
+passage.questions.8.question:Poimenuj nekoga, ki ga je Prem ubil
+passage.questions.8.idx:2783.0
+passage.questions.8.answers.4.text:Hasmid
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:14684.0
+passage.questions.8.answers.3.text:Prem
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:14683.0
+passage.questions.8.answers.2.text:Sir Basil Walden, Stanley Preston
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:14682.0
+passage.questions.8.answers.1.text:Sir Basil
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:14681.0
+passage.questions.8.answers.0.text:Kah-To-Bey
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:14680.0
+passage.questions.7.question:Kaj se zgodi s tistimi, ki so kršili grobnice?
+passage.questions.7.idx:2782.0
+passage.questions.7.answers.4.text:Mumija jih muči, a ne ubije
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:14679.0
+passage.questions.7.answers.3.text:Nekaj jih preživi in ubije mumijo
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:14678.0
+passage.questions.7.answers.2.text:Mumija jih ubije na grozljive načine
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:14677.0
+passage.questions.7.answers.1.text:Vsi končajo v azilu
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14676.0
+passage.questions.7.answers.0.text:Mumija se divja, da kaznuje kršitelje. Mumija uporablja davljenje in druga sredstva kaznovanja
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:14675.0
+passage.questions.6.question:Komu je pripadala grobnica in kako je umrl?
+passage.questions.6.idx:2781.0
+passage.questions.6.answers.6.text:Oče fanta Pharaona, ki je umrl v puščavi po begu pred pučem v svoji palači
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:14674.0
+passage.questions.6.answers.5.text:Grobnica je bila grobnica faraona Kah-To-Beya. Po smrti očeta je faraon odnehal
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:14673.0
+passage.questions.6.answers.4.text:Fant Pharaon, ki je bil umorjen med palačo in pokopan v puščavi, da bi ga ljudje v prihodnosti našli
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:14672.0
+passage.questions.6.answers.3.text:Fant Pharaon, ki je umrl v puščavi po begu pred pučem v očetovi palači
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:14671.0
+passage.questions.6.answers.2.text:Sluga, ki je umrl v puščavi po begu pred pučem v palači, kjer dela
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:14670.0
+passage.questions.6.answers.1.text:Skupina arheologov
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:14669.0
+passage.questions.6.answers.0.text:Predsednik
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:14668.0
+passage.questions.5.question:Pojasnite čas in kraj postavitve zgodbe.
+passage.questions.5.idx:2780.0
+passage.questions.5.answers.5.text:Zgodba je bila postavljena v dvajseta leta 20. stoletja. Lokacija je bila stari Egipt
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:14667.0
+passage.questions.5.answers.4.text:Začne se v starem Egiptu in se nadaljuje na isti lokaciji, vendar v današnjem času
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:14666.0
+passage.questions.5.answers.3.text:Postavljeno je v starodavni Egipt
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:14665.0
+passage.questions.5.answers.2.text:Začne se leta 1920 v Egiptu, nato pa se liki vrnejo nazaj v stari Egipt
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:14664.0
+passage.questions.5.answers.1.text:Naročeno
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:14663.0
+passage.questions.5.answers.0.text:Začne se v starem Egiptu, nato pa se leta 1920 nadaljuje na isti lokaciji in se preseli v Kairo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14662.0
+passage.questions.4.question:Kdaj je bil Sir Basil ugrizen in ali si opomore?
+passage.questions.4.idx:2779.0
+passage.questions.4.answers.3.text:Ko je prispel v Kairo, ni preživel
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:14661.0
+passage.questions.4.answers.2.text:Sir Basil je bil ugrizen takoj po odhodu iz grobnice. Okreva se, vendar se mu ponovi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:14660.0
+passage.questions.4.answers.1.text:Ko je bil predan azilu, kjer ne preživi
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:14659.0
+passage.questions.4.answers.0.text:Ko ga pride mumija ubiti in ne preživi
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:14658.0
+passage.questions.3.question:Kako se imenuje fant, ki so mu arheologi našli grobnico in kaj se mu na žalost zgodi?
+passage.questions.3.idx:2778.0
+passage.questions.3.answers.4.text:Prem, ki umre nekje v puščavi, potem ko je pokopal Kah-To-Beya
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:14657.0
+passage.questions.3.answers.3.text:Faraon Kah-To-Bey in na žalost umre
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:14656.0
+passage.questions.3.answers.2.text:Kah-To-Bey umre v puščavi po begu pred dvorskim udarom
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:14655.0
+passage.questions.3.answers.1.text:Preh ubije Kah-To-Beya in ga nato povleče v puščavo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:14654.0
+passage.questions.3.answers.0.text:Prema ubije Kah-To-Bey in ga pokoplje na njegovem mestu
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:14653.0
+passage.questions.2.question:Kaj se zgodi s Sirom Basilom Waldenom in Stanleyjem Prestonom?
+passage.questions.2.idx:2777.0
+passage.questions.2.answers.5.text:Uspejo ubiti mumijo in preživeti
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:14652.0
+passage.questions.2.answers.4.text:Hughes
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:14651.0
+passage.questions.2.answers.3.text:Zataknejo se v azilu
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:14650.0
+passage.questions.2.answers.2.text:Ubije jih mumija
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:14649.0
+passage.questions.2.answers.1.text:Pokopani so v puščavi
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14648.0
+passage.questions.2.answers.0.text:Sir Basila ugrizne kača takoj po iskanju grobnice, Preston pa to izkoristi in ga odpelje v norišče, da si zasluži, da je sam našel grobnico in prinčevo mumijo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:14647.0
+passage.questions.18.question:Čigava mamica se ubija?
+passage.questions.18.idx:2793.0
+passage.questions.18.answers.5.text:Mumija iz Prema
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:14733.0
+passage.questions.18.answers.4.text:Bojna glava
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:14732.0
+passage.questions.18.answers.3.text:Neznana mumija
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:14731.0
+passage.questions.18.answers.2.text:Fant Pharaon Kah-To-Bey&#39;s
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:14730.0
+passage.questions.18.answers.1.text:Hasmid&#39;s
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:14729.0
+passage.questions.18.answers.0.text:Kah-To-Beyev oče
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:14728.0
+passage.questions.17.question:Ali si Sir Basil Walden opomore od ugriza kače?
+passage.questions.17.idx:2792.0
+passage.questions.17.answers.4.text:Da, vendar se spremeni v mumijo in začne ubijati svoje kolege
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:14727.0
+passage.questions.17.answers.3.text:Da, vendar se kmalu zatem ponovi
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:14726.0
+passage.questions.17.answers.2.text:Da, popolnoma
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:14725.0
+passage.questions.17.answers.1.text:Ne, to ga ubije
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:14724.0
+passage.questions.17.answers.0.text:Uradniki
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:14723.0
+passage.questions.16.question:Kaj se je zgodilo s sirom Basilom in azilom?
+passage.questions.16.idx:2791.0
+passage.questions.16.answers.4.text:Ubije mumijo v azilu
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:14722.0
+passage.questions.16.answers.3.text:Tam je za vedno zaprt
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:14721.0
+passage.questions.16.answers.2.text:Mumija ga ubije v azilu
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:14720.0
+passage.questions.16.answers.1.text:Pobegne
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:14719.0
+passage.questions.16.answers.0.text:Sir Basil je za azil zavezal poslovnež Stanley Preston. Sir Basil kasneje pobegne iz azila
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:14718.0
+passage.questions.15.question:Kdo umre in je bil pokopan v starodavnem Egiptu, potem ko je bil po palačnem udaru odvzet?
+passage.questions.15.idx:2790.0
+passage.questions.15.answers.3.text:Sir Basil
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:14717.0
+passage.questions.15.answers.2.text:Hasmid
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:14716.0
+passage.questions.15.answers.1.text:Kah-To-Bey
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:14715.0
+passage.questions.15.answers.0.text:Prem
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:14714.0
+passage.questions.14.question:Zakaj lahko Preston izkoristi Sir Basil?
+passage.questions.14.idx:2789.0
+passage.questions.14.answers.4.text:Ker umre zaradi ugriza kače
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:14713.0
+passage.questions.14.answers.3.text:Ker ima ponovitev ugriza kače
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:14712.0
+passage.questions.14.answers.2.text:Ker ga mumija ubije
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:14711.0
+passage.questions.14.answers.1.text:Ker je Sir Basila ugriznila kača in se ponovi
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:14710.0
+passage.questions.14.answers.0.text:Ker je pravzaprav nor
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:14709.0
+passage.questions.13.question:Kdo ubije posameznike, ki so pomagali pri odstranjevanju vsebine grobnice?
+passage.questions.13.idx:2788.0
+passage.questions.13.answers.5.text:Hasmid
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:14708.0
+passage.questions.13.answers.4.text:Mumija Kah-To-Bey
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:14707.0
+passage.questions.13.answers.3.text:Prijatelji
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:14706.0
+passage.questions.13.answers.2.text:Mumija
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:14705.0
+passage.questions.13.answers.1.text:Kah-To-Beyev oče
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:14704.0
+passage.questions.13.answers.0.text:Sir Basil
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:14703.0
+passage.questions.12.question:Kaj se zgodi s Kah-To-Beyem, potem ko ga Prem odpelje v puščavo?
+passage.questions.12.idx:2787.0
+passage.questions.12.answers.4.text:Ubije Prema
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:14702.0
+passage.questions.12.answers.3.text:Ljudje, ki organizirajo državni udar, ga najdejo in ubijejo
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:14701.0
+passage.questions.12.answers.2.text:Kača ga ugrizne
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:14700.0
+passage.questions.12.answers.1.text:Umre in je pokopan
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:14699.0
+passage.questions.12.answers.0.text:Umre
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:14698.0
+passage.questions.11.question:Kje je Prem pokopan?
+passage.questions.11.idx:2786.0
+passage.questions.11.answers.3.text:V kairskem muzeju
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:14697.0
+passage.questions.11.answers.2.text:Starodavni Egipt
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:14696.0
+passage.questions.11.answers.1.text:V puščavi namesto fanta
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:14695.0
+passage.questions.11.answers.0.text:V palači
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:14694.0
+passage.questions.10.question:V kateri državi je bila grobnica Kah-To-Beya?
+passage.questions.10.idx:2785.0
+passage.questions.10.answers.3.text:ZDA
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:14693.0
+passage.questions.10.answers.2.text:Indija
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:14692.0
+passage.questions.10.answers.1.text:Maroko
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:14691.0
+passage.questions.10.answers.0.text:Egipt
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:14690.0
+passage.questions.1.question:Kdo je našel grobnico Kah-To-Beya?
+passage.questions.1.idx:2776.0
+passage.questions.1.answers.1.text:Hasmid
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:14646.0
+passage.questions.1.answers.0.text:Prem
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:14645.0
+passage.questions.0.question:Ali je kača ugriznila znanstvenika ali poslovneža?
+passage.questions.0.idx:2775
+passage.questions.0.answers.2.text:Poslovni mož
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:14644.0
+passage.questions.0.answers.1.text:Nobenega
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:14643
+passage.questions.0.answers.0.text:Znanstvenik
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:14642
+idx:250

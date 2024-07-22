@@ -1,0 +1,259 @@
+version:1.1
+passage.text:Johnnie je imel niz majhnih zvezkov angleških verzov, ki jih je lastnoročno opomnil, Stoddard pa ji je prinesel že zgodaj v času njihovega poznanstva in ga pustil bolj kot darilo kot posojilo. Te majhne knjige je hranila po tem, ko so se ostale vrnile. Prebrala jih je in prebrala - odstreli Chaucerja, Spenserja, elizabetanskih liristov, mejna balada, ostra, nežna, oh, tako človeška - dokler ni znala njihovih strani na pamet in njihov besednjak je vplival na njen, njihova podoba je obarvala vse njene proste misli. Vsakič, ko je razpravljala o njihovi vrnitvi, se ji je zdelo, da ne zdrži. Vzela bi jih ven in sedela z odprtim v rokah, ne bi brala, ampak strmela v strani z nevidnimi očmi, s prsti podajala po njej, ko bi gladila ljubljeno roko, ali se obračala po vsaki knjigi samo, da bi našla svinčniki na robovih. Ko bi jih vzela nazaj, bi se odrekla delu sebe. Vendar je bilo treba to storiti in nekega bednega jutra jih je vse naredila v ličen paket, ki jih je nameravala odnesti v mlin in jih tako zgodaj položiti na mizo Stoddarda, ko ni nikogar v pisarni. Potem so vstopili otroci; Deanie je bila napol bolna; in v stiski, ker je bolnega otroka udobno spravil v lastno posteljo, je Johnnie pozabil knjige. Sprejemala jih je opoldne, srečala je samega Stoddarda.
+passage.questions.9.question:Zakaj je Johnnie vodil knjige?
+passage.questions.9.idx:2918.0
+passage.questions.9.answers.3.text:Bila so darila
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:15494.0
+passage.questions.9.answers.2.text:Prebrala jih je
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:15493.0
+passage.questions.9.answers.1.text:Ni si mogla prisiliti, da bi jih vrnila, ker jih je imela tako rada
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:15492.0
+passage.questions.9.answers.0.text:Preberite jih
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:15491.0
+passage.questions.8.question:Kaj bi glavna junakinja menila, da bi se odrekla delu sebe?
+passage.questions.8.idx:2917.0
+passage.questions.8.answers.1.text:Odmetavanje knjig stran
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:15490.0
+passage.questions.8.answers.0.text:Vrnitev knjig, ki jih je še imela
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:15489.0
+passage.questions.7.question:Ali je glavni lik prvotno hranil zgodbe Chaucerja, potem ko so se vsi drugi vrnili nazaj?
+passage.questions.7.idx:2916.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:15488.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:15487.0
+passage.questions.6.question:Kakšne priprave je Johnnie sprejel, da je knjige vrnil Stoddardu?
+passage.questions.6.idx:2915.0
+passage.questions.6.answers.2.text:Zavila jih je v lep paket in jih nameravala odnesti v mlin in jih postaviti na Stoddardovo mizo
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:15486.0
+passage.questions.6.answers.1.text:Oblečena v najlepša oblačila
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:15485.0
+passage.questions.6.answers.0.text:Iz njih so naredili lep paket
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:15484.0
+passage.questions.5.question:Zakaj je moral Johnnie knjige osebno vrniti Stoddardu?
+passage.questions.5.idx:2914.0
+passage.questions.5.answers.3.text:Pozabila jih je
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:15483.0
+passage.questions.5.answers.2.text:Deanie je bila bolna
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:15482.0
+passage.questions.5.answers.1.text:Bolni otroci
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:15481.0
+passage.questions.5.answers.0.text:Upala je, da ga bo videla
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15480.0
+passage.questions.4.question:Česa Johnnie ni hotel storiti, ker tega ni mogel prenesti?
+passage.questions.4.idx:2913.0
+passage.questions.4.answers.1.text:Preberite knjige
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:15479.0
+passage.questions.4.answers.0.text:Vrnite knjige
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:15478.0
+passage.questions.3.question:Je glavni junak ob vrnitvi spoznal osebo, ki ji je prinesla knjige?
+passage.questions.3.idx:2912.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:15477.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15476.0
+passage.questions.22.question:Kaj je Johnnie naredil s knjigami, namesto da bi jih vrnil?
+passage.questions.22.idx:2931.0
+passage.questions.22.answers.3.text:Posedite z odprtimi, a ne berite
+passage.questions.22.answers.3.label:1.0
+passage.questions.22.answers.3.idx:15537.0
+passage.questions.22.answers.2.text:Zažgali so jih
+passage.questions.22.answers.2.label:0,0
+passage.questions.22.answers.2.idx:15536.0
+passage.questions.22.answers.1.text:Pobožajte jih
+passage.questions.22.answers.1.label:1.0
+passage.questions.22.answers.1.idx:15535.0
+passage.questions.22.answers.0.text:Preberite jih znova in znova
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:15534.0
+passage.questions.21.question:Kako se je počutil Johnnie, ko se je končno odločil, da bo knjige vrnil v pisarno?
+passage.questions.21.idx:2930.0
+passage.questions.21.answers.4.text:Nesrečen
+passage.questions.21.answers.4.label:1.0
+passage.questions.21.answers.4.idx:15533.0
+passage.questions.21.answers.3.text:Zdelo se ji je, kot da bi se odrekla delu sebe
+passage.questions.21.answers.3.label:1.0
+passage.questions.21.answers.3.idx:15532.0
+passage.questions.21.answers.2.text:Vzneseno
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:15531.0
+passage.questions.21.answers.1.text:Olajšan
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:15530.0
+passage.questions.21.answers.0.text:Kot bi se odrekla delu sebe
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:15529.0
+passage.questions.20.question:Katero od knjig, ki jih je posodil Stoddard, je Johnnie hranil predvsem vse posojene knjige?
+passage.questions.20.idx:2929.0
+passage.questions.20.answers.2.text:Niz majhnih zvezkov z angleškimi verzi
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:15528.0
+passage.questions.20.answers.1.text:Majhne količine angleških verzov
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:15527.0
+passage.questions.20.answers.0.text:Leposlovne zgodbe
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:15526.0
+passage.questions.2.question:Čigave knjige je Johnnie hranil in prebral?
+passage.questions.2.idx:2911.0
+passage.questions.2.answers.2.text:Stoddard
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:15475.0
+passage.questions.2.answers.1.text:Stoddardov
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15474.0
+passage.questions.2.answers.0.text:Deanie
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15473.0
+passage.questions.19.question:V katerih knjigah sta bili besedi Chaucerja in Spenserja?
+passage.questions.19.idx:2928.0
+passage.questions.19.answers.2.text:Šolske knjige
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:15525.0
+passage.questions.19.answers.1.text:Majhne količine angleških verzov
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:15524.0
+passage.questions.19.answers.0.text:Knjižice
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:15523.0
+passage.questions.18.question:Kaj je obdržal Johnnie po vrnitvi ostalih?
+passage.questions.18.idx:2927.0
+passage.questions.18.answers.3.text:Svinčniki
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:15522.0
+passage.questions.18.answers.2.text:Majhne količine angleških verzov
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:15521.0
+passage.questions.18.answers.1.text:Papir
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:15520.0
+passage.questions.18.answers.0.text:Komplet majhnih angleških verzov
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:15519.0
+passage.questions.17.question:Zakaj je glavna junakinja svoje knjige vzela opoldne namesto prej?
+passage.questions.17.idx:2926.0
+passage.questions.17.answers.2.text:Prej ni mogla zdržati
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:15518.0
+passage.questions.17.answers.1.text:Deanie je bila napol bolna
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:15517.0
+passage.questions.17.answers.0.text:Otroci so bili bolni
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:15516.0
+passage.questions.16.question:Zakaj Johnnie ne bi mogel prenesti knjig?
+passage.questions.16.idx:2925.0
+passage.questions.16.answers.3.text:Čeprav je pesmi znala na pamet, je rada sedela, držeč knjige, se spominjala veselja ob branju pesmi in ročno napisanih pripisov
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:15515.0
+passage.questions.16.answers.2.text:Poznala jih je na pamet
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:15514.0
+passage.questions.16.answers.1.text:Stoddarda ni hotela več videti
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:15513.0
+passage.questions.16.answers.0.text:Zdelo se ji je, kot da bi se odrekla delu sebe
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:15512.0
+passage.questions.15.question:Kaj je storil Johnnie, zaradi česar se je počutila, kot da se odreka delu sebe?
+passage.questions.15.idx:2924.0
+passage.questions.15.answers.1.text:Vrnitev knjig
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:15511.0
+passage.questions.15.answers.0.text:Izgubil sem knjige
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:15510.0
+passage.questions.14.question:Je Johnnie knjige vrnil Stoddardu?
+passage.questions.14.idx:2923.0
+passage.questions.14.answers.2.text:Da. Poskušala jih je vrniti zgodaj, ko ni bilo nikogar v pisarni, a je na koncu naletela na Stoddarda
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:15509.0
+passage.questions.14.answers.1.text:Da
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:15508.0
+passage.questions.14.answers.0.text:Ne
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:15507.0
+passage.questions.13.question:Kdo je pisal na robovih knjig?
+passage.questions.13.idx:2922.0
+passage.questions.13.answers.1.text:Stoddard
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:15506.0
+passage.questions.13.answers.0.text:Johnnie
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:15505.0
+passage.questions.12.question:Johnnie je včasih knjige prebral, kaj pa bi še počel s knjigami?
+passage.questions.12.idx:2921.0
+passage.questions.12.answers.3.text:Zazrite se vanje
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:15504.0
+passage.questions.12.answers.2.text:Zapiši vanje
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:15503.0
+passage.questions.12.answers.1.text:Prste potegnite čeznje
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:15502.0
+passage.questions.12.answers.0.text:Sedela bi z njimi in samo strmela v slike
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:15501.0
+passage.questions.11.question:Zakaj Johnnie ni hotel vrniti knjig?
+passage.questions.11.idx:2920.0
+passage.questions.11.answers.2.text:Bili so del nje
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:15500.0
+passage.questions.11.answers.1.text:Ni mogla prenesti, da bi jih vrnila, saj jih je cenila in čutila, da so del nje same
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:15499.0
+passage.questions.11.answers.0.text:Bala se je
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:15498.0
+passage.questions.10.question:Ker so bile knjige podarjene bolj kot darilo kot posojilo, zakaj bi Johnnie čutil potrebo po vrnitvi knjig Stoddardu?
+passage.questions.10.idx:2919.0
+passage.questions.10.answers.2.text:Rokopisni zapiski, ki pripisujejo verze, so se zdeli intimni vsakič, ko je s prsti podala besedilo
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:15497.0
+passage.questions.10.answers.1.text:Niso ji pripadali
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:15496.0
+passage.questions.10.answers.0.text:Prosil jih je nazaj
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:15495.0
+passage.questions.1.question:Zakaj Johnnie popoldne ni hotel vrniti knjig?
+passage.questions.1.idx:2910.0
+passage.questions.1.answers.1.text:Imela je sestanek
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15472.0
+passage.questions.1.answers.0.text:Stoddarda ni hotela videti
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:15471.0
+passage.questions.0.question:Kakšen komplet knjig je imel Johnnie?
+passage.questions.0.idx:2909
+passage.questions.0.answers.2.text:Majhne količine angleških verzov
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15470.0
+passage.questions.0.answers.1.text:Majhen zvezek v angleškem verzu, ki vsebuje Chaucerja in Spenserja
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:15469
+passage.questions.0.answers.0.text:Enciklopedije
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:15468
+idx:261

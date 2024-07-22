@@ -1,0 +1,57 @@
+version:1.1
+passage.text:LONDON, Anglija - Grafitar Banksy, ki slovi po pronicanju v muzejske zbirke brez njihove vednosti in po pršenju v javne zgradbe po vsem svetu, prireja svojo prvo večjo razstavo po zadnjih letih. Banksyjeva slika britanskega parlamenta v angleškem muzeju v Bristolu. Tokrat pa je anonimni umetnik sodeloval z direktorjem muzeja v Bristolu v Veliki Britaniji. Max Foster iz CNN-a je dobil predogled svojega največjega projekta doslej. Umetnikova anonimnost mu je postala znana in s svojimi deli, ki so jih na dražbah prodali za več sto tisoč dolarjev, je postal eno največjih svetovnih imen na svetu. Razpon razstave je bil sicer zelo raznolik, vendar je Banksyju ostal zvest s svojim običajnim nekonvencionalnim pogledom na umetnost. Oglejte si slike z Banksyjeve razstave »&quot; Mislim, da smo jih morda povlekli na našo raven, namesto da bi bili povišani na njihovo &quot;, je o muzeju dejal Banksy, ki naj bi prihajal iz Bristola. V 36 urah je pod strogim varovanjem s svojo umetnostjo napolnil tri zgodbe stavbe, saj je le nekaj muzejskih uslužbencev vedelo o bližnjem prihodu predstav. Njegova dela so skrita med običajnimi muzejskimi eksponati in so razdeljena na različne prostore, vključno z instalacijami, slikami in skulpturami. Na eni izmed slik je lik izrezan in namesto tega sedi na okvirju slike in si morda oddahne?
+passage.questions.2.question:Koliko časa je trajalo, da je Banksy svoje delo skril med tri zgodbe običajnih muzejskih eksponatov?
+passage.questions.2.idx:4579.0
+passage.questions.2.answers.4.text:18 ur
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:24196.0
+passage.questions.2.answers.3.text:2 dneva
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:24195.0
+passage.questions.2.answers.2.text:24 ur
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:24194.0
+passage.questions.2.answers.1.text:Tri zgodbe
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24193.0
+passage.questions.2.answers.0.text:36 ur
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:24192.0
+passage.questions.1.question:Kateri anonimni umetnik je skupaj z direktorjem muzeja v Bristolu v Veliki Britaniji sodeloval pri prvi večji razstavi v zadnjih letih?
+passage.questions.1.idx:4578.0
+passage.questions.1.answers.4.text:Claude Manet
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:24191.0
+passage.questions.1.answers.3.text:Grafitar Banksy
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:24190.0
+passage.questions.1.answers.2.text:Banksy
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24189.0
+passage.questions.1.answers.1.text:Bristol Cane
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:24188.0
+passage.questions.1.answers.0.text:Max Foster
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:24187.0
+passage.questions.0.question:Zakaj je Banksy rekel, da je njegov običajni nekonvencionalni pogled na umetnost morda razstavljen v muzeju?
+passage.questions.0.idx:4577
+passage.questions.0.answers.5.text:Ker so morali zbrati denar za dober namen
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:24186.0
+passage.questions.0.answers.4.text:Živel je v Bristolu in bilo je priročno
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:24185.0
+passage.questions.0.answers.3.text:Misli, da so muzej morda povlekli na svojo raven, namesto da bi ga povzdignili na njihovega
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:24184.0
+passage.questions.0.answers.2.text:Njegovo delo je skrito med običajnimi eksponati v muzejih in je v treh sobah v treh zgodbah
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:24183.0
+passage.questions.0.answers.1.text:Hotel je podpreti muzej
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:24182
+passage.questions.0.answers.0.text:Rekel je, da mislim, da smo jih morda povlekli na naš nivo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24181
+idx:403

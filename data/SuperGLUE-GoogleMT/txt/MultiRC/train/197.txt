@@ -1,0 +1,134 @@
+version:1.1
+passage.text:Jake je hodil do parka, da bi s prijatelji igral baseball. V sončnih dneh je bil rad zunaj in zdaj, ko je bilo šolanja konec leta, je vsak dan igral baseball. Bolj ko je igral, boljši je bil. Le Frank je bil boljši, kot je bil. Všeč mu je bilo igrati tretjo osnovo, pogosto pa je igral na terenu. Nosil je svojo najljubšo palčko, ki mu jo je kupil dedek. Njegov dedek ga je naučil ujeti. Ko je bil mlajši, je rad preživljal čas z njim, a se je lani preselil. Zdaj je dedka videl šele poleti. Jake je bil res navdušen, da mu je pokazal svoje spretnosti, ko je prišel na naslednjo tekmo. Zdaj bi lahko zelo hitro metal. Bil je prepričan, da bi njegov dedek hotel sedeti spredaj in ga opazovati. Vedel je, da bo skakal gor in dol. Jake je ves preostanek poti do parka z veseljem pretekel, kako zabaven bo letos igral baseball.
+passage.questions.9.question:V čem je Jake v resnici vešč?
+passage.questions.9.idx:2213.0
+passage.questions.9.answers.2.text:Metanje
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:11570.0
+passage.questions.9.answers.1.text:Vatanje
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:11569.0
+passage.questions.9.answers.0.text:Vrzi hitro
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:11568.0
+passage.questions.8.question:Je bil Frank boljši od Jakea, čeprav je bil boljši pri igranju baseballa?
+passage.questions.8.idx:2212.0
+passage.questions.8.answers.2.text:Jake se je sicer izboljšal, Frank pa boljši od Jakea
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:11567.0
+passage.questions.8.answers.1.text:Da
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:11566.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:11565.0
+passage.questions.7.question:Ga je Jakeov dedek naučil, kako ujeti z palčko, ki mu jo je kupil?
+passage.questions.7.idx:2211.0
+passage.questions.7.answers.2.text:Da, Jakeov dedek ga je naučil, kako ujeti z palčko, ki mu jo je kupil
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:11564.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:11563.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:11562.0
+passage.questions.6.question:Je bil Jake navdušen, ko je dedu pokazal, da lahko zdaj zelo hitro meta?
+passage.questions.6.idx:2210.0
+passage.questions.6.answers.2.text:Ja, Jake je bil navdušen, da mu je pokazal svoje spretnosti in da je lahko zelo hitro metal
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:11561.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:11560.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:11559.0
+passage.questions.5.question:Zakaj Jake vidi dedka šele poleti?
+passage.questions.5.idx:2209.0
+passage.questions.5.answers.2.text:Premaknjeno
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:11558.0
+passage.questions.5.answers.1.text:Lani se je preselil
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:11557.0
+passage.questions.5.answers.0.text:Dedek je v službi
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:11556.0
+passage.questions.4.question:V čem je bil Frank boljši od Jakea?
+passage.questions.4.idx:2208.0
+passage.questions.4.answers.2.text:Baseball
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:11555.0
+passage.questions.4.answers.1.text:Igranje nogometa
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11554.0
+passage.questions.4.answers.0.text:Igranje baseballa
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:11553.0
+passage.questions.3.question:Kdo prihaja k Jakeu na naslednjo tekmo?
+passage.questions.3.idx:2207.0
+passage.questions.3.answers.2.text:Jakov dedek
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:11552.0
+passage.questions.3.answers.1.text:Frank
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:11551.0
+passage.questions.3.answers.0.text:Dedek
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:11550.0
+passage.questions.2.question:S kom je Jake preživljal čas, ko je bil mlajši?
+passage.questions.2.idx:2206.0
+passage.questions.2.answers.1.text:Dedek
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:11549.0
+passage.questions.2.answers.0.text:Mati
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:11548.0
+passage.questions.12.question:Kaj je Jake izboljšal, ko je več igral?
+passage.questions.12.idx:2216.0
+passage.questions.12.answers.1.text:Baseball
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:11577.0
+passage.questions.12.answers.0.text:Nogomet
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:11576.0
+passage.questions.11.question:Je Jake v šolskih dneh vsak dan hodil v park, da bi s prijatelji igral baseball?
+passage.questions.11.idx:2215.0
+passage.questions.11.answers.2.text:Jake je hodil v park igrati baseball s svojimi prijatelji vsak dan, ko se je šola končala
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:11575.0
+passage.questions.11.answers.1.text:Da
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:11574.0
+passage.questions.11.answers.0.text:Ne
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:11573.0
+passage.questions.10.question:Kam je Jake odšel v tem sončnem dnevu?
+passage.questions.10.idx:2214.0
+passage.questions.10.answers.1.text:V park
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:11572.0
+passage.questions.10.answers.0.text:V šolo
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:11571.0
+passage.questions.1.question:Kaj bi počel Jakeov dedek, ko bi ga gledal, kako igra?
+passage.questions.1.idx:2205.0
+passage.questions.1.answers.1.text:Dajte mu darila
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11547.0
+passage.questions.1.answers.0.text:Skoči gor in dol
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:11546.0
+passage.questions.0.question:Je Jake lahko videl dedka le poleti, odkar se je lani preselil?
+passage.questions.0.idx:2204
+passage.questions.0.answers.2.text:Jake je dedka videl šele poleti, odkar se je lani preselil
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:11545.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:11544
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:11543
+idx:197

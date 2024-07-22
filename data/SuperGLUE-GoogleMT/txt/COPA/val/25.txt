@@ -1,0 +1,6 @@
+choice1:Šel je čez omejitev hitrosti.
+choice2:Povozil je žebelj.
+idx:25
+label:1
+premise:Voznik je prebil pnevmatiko.
+question:cause

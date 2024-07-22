@@ -1,0 +1,6 @@
+choice1:Njen sin je izgubil mačka.
+choice2:Njen sin je padel iz postelje.
+idx:60
+label:1
+premise:Mama je poklicala rešilce.
+question:cause

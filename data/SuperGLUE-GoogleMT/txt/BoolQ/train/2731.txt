@@ -1,0 +1,4 @@
+idx:2731
+label:False
+passage:Dvodelni graf - pogosto pišemo G = (U, V, E) (\ displaystyle G = (U, V, E)), da označimo dvodelni graf, katerega particija ima dela U (\ displaystyle U) in V (\ displaystyle V), pri čemer E (\ displaystyle E) označuje robove grafa. Če dvodelni graf ni povezan, ima lahko več kot dve razdelitvi; v tem primeru je zapis (U, V, E) (\ displaystyle (U, V, E)) koristen pri določanju ene posebne ločitve, ki je lahko pomembna v aplikaciji. Če je U = V (\ displaystyle U = V), to je, če imata dve podmnožici enako kardinalnost, potem se G (\ displaystyle G) imenuje uravnoteženi dvodelni graf. Če imajo vsa oglišča na isti strani biparticije enako stopnjo, potem se G (\ displaystyle G) imenuje dvokotna.
+question:ali mora biti povezan dvodelni graf

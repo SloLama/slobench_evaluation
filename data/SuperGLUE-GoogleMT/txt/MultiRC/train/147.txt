@@ -1,0 +1,84 @@
+version:1.1
+passage.text:Med najdramatičnejšimi spremembami prednostnih nalog, ki jih je predlagal mestni svet, bi se 25,6 milijona dolarjev s financiranja odvetnikov, ki jih imenujejo sodišča, preusmerilo v družbo pravne pomoči. V dokumentu, ki je bil včeraj objavljen za utemeljitev svojih preurejenih prednostnih nalog, je Svet trdil, da lahko pravna pomoč doseže večje ekonomije obsega kot odvetniki, imenovani v skladu s členom 18-B zakona o občini. V dokumentu Sveta je tudi zapisano, da &quot;nepojasnjeno&quot; odvetniki 18-B vodijo 50 odstotkov slabih kazenskih zadev v New Yorku, čeprav je njihov mandat obravnavanje le primerov z več obtoženci, v katerih je prišlo do konflikta pri združenju za pravno pomoč. V preteklih letih je mestni svet dosledno dodal 5,6 milijona dolarjev 54,7 milijona dolarjev, ki jih je za družbo za pravno pomoč predlagal nekdanji župan Giuliani, s čimer je skupni znesek presegel le 60 milijonov dolarjev. Toda letos Svet prvič predlaga, da se več kot 20 milijonov dolarjev sredstev, ki jih je župan namenil za odvetnike 18-B, preusmeri v družbo za pravno pomoč, kar bi povečalo njeno skupno financiranje na 80,4 milijona dolarjev. To bi odražalo skok trenutne ugotovitve za približno tretjino. Medtem je mestni svet predlagal, da se županova dodelitev 62,8 milijona dolarjev za odvetnike 18-B zmanjša za 66 odstotkov na 21,4 milijona dolarjev.
+passage.questions.5.question:Kaj je Svet storil z odvetniki 18-B, ki so v New Yorku vodili 50 odstotkov slabih kazenskih zadev?
+passage.questions.5.idx:1670.0
+passage.questions.5.answers.5.text:Preusmeritev ali dodajanje več sredstev za pravno pomoč
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:8636.0
+passage.questions.5.answers.4.text:Predlagano zmanjšanje dodelitve župana v višini 62,8 milijona dolarjev na 21,4 milijona dolarjev
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:8635.0
+passage.questions.5.answers.3.text:Obravnavati samo primere več obdolžencev, v katerih je prišlo do konflikta pri društvu za pravno pomoč
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:8634.0
+passage.questions.5.answers.2.text:Pravna pomoč lahko doseže večjo ekonomijo obsega kot odvetniki, imenovani v skladu s členom 18-B zakona o občini
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:8633.0
+passage.questions.5.answers.1.text:Krčenje dodelitve župana
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8632.0
+passage.questions.5.answers.0.text:Preusmeritev sredstev
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:8631.0
+passage.questions.4.question:Župan Giuliani je nekdanji župan katerega mesta?
+passage.questions.4.idx:1669.0
+passage.questions.4.answers.2.text:New York City
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8630.0
+passage.questions.4.answers.1.text:New Jersey
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8629.0
+passage.questions.4.answers.0.text:Društvo za pravno pomoč
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8628.0
+passage.questions.3.question:V zadnjih 5,6 milijona dolarjev so dodali dodeljeni znesek, kakšen znesek predlagajo letos?
+passage.questions.3.idx:1668.0
+passage.questions.3.answers.1.text:Več kot 20 milijonov dolarjev, 80,4 milijona dolarjev
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:8627.0
+passage.questions.3.answers.0.text:Okoli 20 milijonov dolarjev, 60 milijonov dolarjev
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8626.0
+passage.questions.2.question:Kateri nekdanji župan je namenil 62,8 milijona dolarjev za odvetnike, imenovane v skladu s členom 18-B?
+passage.questions.2.idx:1667.0
+passage.questions.2.answers.3.text:Župan Giuliani
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:8625.0
+passage.questions.2.answers.2.text:Župan Blasio
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8624.0
+passage.questions.2.answers.1.text:Odvetniki
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8623.0
+passage.questions.2.answers.0.text:Giuliani
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8622.0
+passage.questions.1.question:Mestni svet želi, da se kateri organizaciji dodeli več sredstev?
+passage.questions.1.idx:1666.0
+passage.questions.1.answers.2.text:Dodelitev župana
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8621.0
+passage.questions.1.answers.1.text:Člen 18-B Odvetniki
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8620.0
+passage.questions.1.answers.0.text:Društvo za pravno pomoč
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:8619.0
+passage.questions.0.question:Koliko Svet poveča njihovo trenutno financiranje za pravno pomoč za 25,6 milijona dolarjev?
+passage.questions.0.idx:1665
+passage.questions.0.answers.4.text:80,4 milijona dolarjev
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:8618.0
+passage.questions.0.answers.3.text:54,7 milijona dolarjev
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:8617.0
+passage.questions.0.answers.2.text:Ena tretjina
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:8616.0
+passage.questions.0.answers.1.text:62,8 milijona dolarjev
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:8615
+passage.questions.0.answers.0.text:60 milijonov dolarjev
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8614
+idx:147

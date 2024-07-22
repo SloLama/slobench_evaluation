@@ -1,0 +1,6 @@
+choice1:Muha je ugriznila konja.
+choice2:Jahač je pobožal konja.
+idx:81
+label:0
+premise:Konj je padel.
+question:cause

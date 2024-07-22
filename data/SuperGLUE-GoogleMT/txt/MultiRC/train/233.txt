@@ -1,0 +1,77 @@
+version:1.1
+passage.text:Čeprav elektronsko vohunjenje ameriška podjetja morda stane milijarde dolarjev na leto, večina še ne sprejema previdnostnih ukrepov, pravijo strokovnjaki. Nasprotno pa bodo evropska podjetja letos za elektronsko varnost porabila 150 milijonov dolarjev, predvidoma do leta 1992. 1 milijardo dolarjev. Številna tuja podjetja, zlasti banke, imajo že svoje kriptografe, so poročali govorniki konference. Kljub temu je šifriranje poslovnih komunikacij le delno sredstvo. En strokovnjak, čigar služba je tako politično občutljiva, da je govoril pod pogojem, da ne bo imenovan ali citiran, je dejal, da bo pričakovani pritok vzhodnoevropskih beguncev v naslednjih nekaj letih močno povečal možnosti za delavce, ki opravljajo vzdrževanje računalnikov, , podvojitev kot tuja vohuna. Poleg tega po njegovih besedah zdaj obstaja tehnologija za krajo poslovnih skrivnosti, potem ko so bile &quot;izbrisane&quot; iz pomnilnika računalnika. Dejal je, da je Oliver North of Iran-Contra notorie mislil, da je izbrisal svoj računalnik, vendar je te podatke pozneje prebral v kongresni odbor. Noben osebni računalnik, niti tisti na mizi izvršnega direktorja, ni varen, je poudaril ta govornik. W. Mark Goode, predsednik podjetja Micronyx Inc., podjetja Richardson v Teksasu, ki proizvaja izdelke za računalniško varnost, je zagotovil novo opredelitev kampanje Mihaila Gorbačova za večjo odprtost, znano tudi kot glasnost. G. Goode je dejal, da so Sovjeti odkrito kradejo zahodne korporacijske komunikacije pod g. Gorbačovom. Omenil je primer švicarskega trgovca z nafto, ki je pred kratkim prek teleksa ponudil naftni tanker za prevzem tovora surove nafte na Bližnjem vzhodu. Med odgovori švicarskega trgovca je bil odgovor sovjetske nacionalne ladijske družbe, ki ni bila povabljena k oddaji ponudbe. Prisluškovanje Sovjetov pa se je splačalo, ker so dobili pogodbo.
+passage.questions.3.question:Ali Evropejci za boj proti elektronskemu vohunstvu porabljajo več ali manj kot ZDA?
+passage.questions.3.idx:2613.0
+passage.questions.3.answers.3.text:Manj
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:13760.0
+passage.questions.3.answers.2.text:Veliko več
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:13759.0
+passage.questions.3.answers.1.text:Več
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:13758.0
+passage.questions.3.answers.0.text:Približno enako
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:13757.0
+passage.questions.2.question:Ali korak, ki so ga začele izvajati tuje banke, verjetno popolnoma reši problem?
+passage.questions.2.idx:2612.0
+passage.questions.2.answers.2.text:Mogoče
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:13756.0
+passage.questions.2.answers.1.text:Nemogoče
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:13755.0
+passage.questions.2.answers.0.text:Da
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:13754.0
+passage.questions.1.question:Kako je polno ime človeka, ki je trdil, da Sovjeti odkrito kradejo zahodne korporacijske komunikacije?
+passage.questions.1.idx:2611.0
+passage.questions.1.answers.6.text:Mihail Gorbačov
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:13753.0
+passage.questions.1.answers.5.text:Gospod Gorbačov
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:13752.0
+passage.questions.1.answers.4.text:Richardson
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:13751.0
+passage.questions.1.answers.3.text:Oliver North
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13750.0
+passage.questions.1.answers.2.text:Mark Goode
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:13749.0
+passage.questions.1.answers.1.text:W. Mark Goode
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:13748.0
+passage.questions.1.answers.0.text:Gorbačov
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13747.0
+passage.questions.0.question:S kom so se Sovjeti dogovorili za prevzem tovora surove nafte na Bližnjem vzhodu?
+passage.questions.0.idx:2610
+passage.questions.0.answers.7.text:Severna Koreja
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:13746.0
+passage.questions.0.answers.6.text:Država, ki meji na Švico
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:13745.0
+passage.questions.0.answers.5.text:Iraški trgovec z nafto
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:13744.0
+passage.questions.0.answers.4.text:Švicarski trgovec z nafto
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:13743.0
+passage.questions.0.answers.3.text:Iran
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:13742.0
+passage.questions.0.answers.2.text:Švicarski
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:13741.0
+passage.questions.0.answers.1.text:Izraelski trgovec z nafto
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13740
+passage.questions.0.answers.0.text:Dubajski trgovec z nafto
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13739
+idx:233

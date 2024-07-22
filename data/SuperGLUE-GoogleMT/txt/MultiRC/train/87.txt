@@ -1,0 +1,310 @@
+version:1.1
+passage.text:Včasih se lastnosti lahko razlikujejo od staršev do potomcev. Te spremembe so posledica mutacij. Mutacije so naključna sprememba. Mutacije so naravne. Nekatere mutacije so škodljive. V tem primeru organizem morda ne bo živel za razmnoževanje. Lastnost ne bo prenesena na potomce. Druge spremembe lastnosti nimajo vpliva na preživetje. Ali so nekatere mutacije dobre za živo bitje? Druge mutacije imajo lahko velike koristi. Predstavljajte si, da ste prvi molj, ki se lahko zlije v njegovo ozadje. Imela bi boljše možnosti za preživetje. Živa stvar, ki preživi, bo verjetno imela potomce. V nasprotnem primeru lahko novo lastnost prenese na svoje potomce. To je dobra novica za potomce. Verjetno je, da bodo potomci preživeli. Mutacije so en način, kako se živa bitja prilagajajo novim razmeram.
+passage.questions.9.question:Kakšna je prednost smrti organizma s škodljivimi mutacijami?
+passage.questions.9.idx:1021.0
+passage.questions.9.answers.4.text:Potomci se ne bodo ujemali z geni
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:5340.0
+passage.questions.9.answers.3.text:Brez prednosti
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:5339.0
+passage.questions.9.answers.2.text:Nič
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:5338.0
+passage.questions.9.answers.1.text:Mutacije se ne prenašajo na potomce
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:5337.0
+passage.questions.9.answers.0.text:Ne more ga prenesti na svoje potomce
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:5336.0
+passage.questions.8.question:Kaj lahko mutacije omogočijo?
+passage.questions.8.idx:1020.0
+passage.questions.8.answers.7.text:Koristne lastnosti
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:5335.0
+passage.questions.8.answers.6.text:Razvijte nove lastnosti
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:5334.0
+passage.questions.8.answers.5.text:Spremembe staršev
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:5333.0
+passage.questions.8.answers.4.text:Naključna sprememba
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:5332.0
+passage.questions.8.answers.3.text:Mešanje
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:5331.0
+passage.questions.8.answers.2.text:Nič
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:5330.0
+passage.questions.8.answers.1.text:Škodljive lastnosti
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:5329.0
+passage.questions.8.answers.0.text:Mutacije živim bitjem omogočajo prilagajanje novim razmeram
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:5328.0
+passage.questions.7.question:Ali je naravno, da se nekatere lastnosti razlikujejo od staršev do potomcev?
+passage.questions.7.idx:1019.0
+passage.questions.7.answers.3.text:Naravno
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:5327.0
+passage.questions.7.answers.2.text:Ni naravno
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:5326.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:5325.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:5324.0
+passage.questions.6.question:Kaj se zgodi s škodljivimi mutacijami?
+passage.questions.6.idx:1018.0
+passage.questions.6.answers.4.text:Brez preživetja
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:5323.0
+passage.questions.6.answers.3.text:Ni sprememb
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:5322.0
+passage.questions.6.answers.2.text:Pri škodljivih mutacijah se organizem ne bo mogel razmnoževati in zato te lastnosti ne bo mogel prenesti na potomce
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:5321.0
+passage.questions.6.answers.1.text:Organizem umre pred razmnoževanjem
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:5320.0
+passage.questions.6.answers.0.text:Organizem svojo lastnost prenaša na svoje potomce
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:5319.0
+passage.questions.5.question:Kaj so mutacije?
+passage.questions.5.idx:1017.0
+passage.questions.5.answers.4.text:Razmnoževanje
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:5318.0
+passage.questions.5.answers.3.text:So spremembe v zaporedju DNA
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:5317.0
+passage.questions.5.answers.2.text:Ne vem
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5316.0
+passage.questions.5.answers.1.text:Naključne spremembe
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:5315.0
+passage.questions.5.answers.0.text:Razlike od staršev do potomcev
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5314.0
+passage.questions.4.question:Ali so mutacije dobre ali slabe?
+passage.questions.4.idx:1016.0
+passage.questions.4.answers.3.text:Odvisno
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:5313.0
+passage.questions.4.answers.2.text:Slab
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:5312.0
+passage.questions.4.answers.1.text:Vedno dobro
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:5311.0
+passage.questions.4.answers.0.text:Nekatere mutacije so škodljive, nekatere pa imajo lahko velike koristi
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:5310.0
+passage.questions.3.question:Kaj bi pomenilo, da bodo potomci bolj verjetno preživeli?
+passage.questions.3.idx:1015.0
+passage.questions.3.answers.6.text:Koristne lastnosti
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:5309.0
+passage.questions.3.answers.5.text:Biti bolj viden
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:5308.0
+passage.questions.3.answers.4.text:Izstopajoče
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:5307.0
+passage.questions.3.answers.3.text:Boljši cilji, ki dodajo večje možnosti za preživetje
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:5306.0
+passage.questions.3.answers.2.text:Dedovanje lastnosti za preživetje
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:5305.0
+passage.questions.3.answers.1.text:Koristne mutacije
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:5304.0
+passage.questions.3.answers.0.text:Slabe lastnosti
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:5303.0
+passage.questions.2.question:So mutacije škodljive ali naravne?
+passage.questions.2.idx:1014.0
+passage.questions.2.answers.3.text:Nobenega
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:5302.0
+passage.questions.2.answers.2.text:Naravno
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:5301.0
+passage.questions.2.answers.1.text:Škodljivo
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:5300.0
+passage.questions.2.answers.0.text:Lahko sta oba
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:5299.0
+passage.questions.19.question:Kaj lahko povzroči, da se lastnosti razlikujejo?
+passage.questions.19.idx:1031.0
+passage.questions.19.answers.2.text:Mešanje
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:5382.0
+passage.questions.19.answers.1.text:Mutacije
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:5381.0
+passage.questions.19.answers.0.text:Starši
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:5380.0
+passage.questions.18.question:Kaj bi lahko preprečilo, da bi se škodljiva mutacija prenesla v drugo generacijo?
+passage.questions.18.idx:1030.0
+passage.questions.18.answers.5.text:Močne lastnosti, ki pomagajo preživeti
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:5379.0
+passage.questions.18.answers.4.text:Starš umira pred razmnoževanjem
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:5378.0
+passage.questions.18.answers.3.text:Starš se ne more razmnoževati
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:5377.0
+passage.questions.18.answers.2.text:Nič ne more preprečiti
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:5376.0
+passage.questions.18.answers.1.text:Organizem s škodljivo mutacijo morda ne bo razmnoževal in tako mutacija ne bo prenesena na potomce
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:5375.0
+passage.questions.18.answers.0.text:Omogočanje staršu, da živi dovolj dolgo za razmnoževanje
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:5374.0
+passage.questions.17.question:Kaj povzroča razlike v lastnostih med razmnoževanjem?
+passage.questions.17.idx:1029.0
+passage.questions.17.answers.3.text:Mutacije
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:5373.0
+passage.questions.17.answers.2.text:Potomci
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:5372.0
+passage.questions.17.answers.1.text:Na srečo
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:5371.0
+passage.questions.17.answers.0.text:Moški in samice imajo različne gene
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:5370.0
+passage.questions.16.question:Ali je molj, ki se lahko zlije v svoje ozadje, bolj verjetno, da bo imel potomce, kot če se ne more vmešati v svoje ozadje?
+passage.questions.16.idx:1028.0
+passage.questions.16.answers.1.text:Da
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:5369.0
+passage.questions.16.answers.0.text:Ne
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:5368.0
+passage.questions.15.question:Ali škodljive mutacije prehajajo na potomce?
+passage.questions.15.idx:1027.0
+passage.questions.15.answers.3.text:Včasih
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:5367.0
+passage.questions.15.answers.2.text:Starš s škodljivo mutacijo vedno umre, preden se lahko razmnoži
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:5366.0
+passage.questions.15.answers.1.text:Včasih starš ne živi dovolj dolgo za razmnoževanje
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:5365.0
+passage.questions.15.answers.0.text:Nikoli
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:5364.0
+passage.questions.14.question:Kaj je potrebno za ustvarjanje možnosti za prenos lastnosti na potencialno potomstvo?
+passage.questions.14.idx:1026.0
+passage.questions.14.answers.5.text:S parjenjem
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:5363.0
+passage.questions.14.answers.4.text:Naravna selekcija
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:5362.0
+passage.questions.14.answers.3.text:Preživetje
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:5361.0
+passage.questions.14.answers.2.text:Razmnoževanje
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:5360.0
+passage.questions.14.answers.1.text:Nočni seks
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:5359.0
+passage.questions.14.answers.0.text:Mutacije
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:5358.0
+passage.questions.13.question:Komu se lastnosti prenašajo od staršev?
+passage.questions.13.idx:1025.0
+passage.questions.13.answers.3.text:Nova generacija
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:5357.0
+passage.questions.13.answers.2.text:Starši so
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:5356.0
+passage.questions.13.answers.1.text:Potomci
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:5355.0
+passage.questions.13.answers.0.text:Živalim
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:5354.0
+passage.questions.12.question:Kaj bi lahko povzročilo, da je molj prvi, ki se je zlil s svojim ozadjem?
+passage.questions.12.idx:1024.0
+passage.questions.12.answers.3.text:Slaba lastnost
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:5353.0
+passage.questions.12.answers.2.text:Zelo prevladujoča lastnost
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:5352.0
+passage.questions.12.answers.1.text:Mutacija
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:5351.0
+passage.questions.12.answers.0.text:Življenje dovolj dolgo za razmnoževanje
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:5350.0
+passage.questions.11.question:Za kaj so mutacije dobre?
+passage.questions.11.idx:1023.0
+passage.questions.11.answers.5.text:Pobiranje najslabših lastnosti
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:5349.0
+passage.questions.11.answers.4.text:Ubijanje organizma, preden se lahko razmnoži
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:5348.0
+passage.questions.11.answers.3.text:Različne lastnosti, ki lahko pomagajo preživeti
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:5347.0
+passage.questions.11.answers.2.text:Nič
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:5346.0
+passage.questions.11.answers.1.text:Mutacije so dobre za boljše možnosti za preživetje in način, kako se živa bitja prilagodijo novim razmeram
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:5345.0
+passage.questions.11.answers.0.text:Ni dobro za nič
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:5344.0
+passage.questions.10.question:Ali mutacije vedno vplivajo na preživetje?
+passage.questions.10.idx:1022.0
+passage.questions.10.answers.2.text:Včasih nimajo učinka
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:5343.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:5342.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:5341.0
+passage.questions.1.question:Ali lahko mutacije vplivajo na preživetje?
+passage.questions.1.idx:1013.0
+passage.questions.1.answers.1.text:Sploh ne
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:5298.0
+passage.questions.1.answers.0.text:Da
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5297.0
+passage.questions.0.question:So mutacije vedno škodljive?
+passage.questions.0.idx:1012
+passage.questions.0.answers.2.text:Da
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:5296.0
+passage.questions.0.answers.1.text:Ne, lahko koristijo tudi živemu bitju
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5295
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:5294
+idx:87

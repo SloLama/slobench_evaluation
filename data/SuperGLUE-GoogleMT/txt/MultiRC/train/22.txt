@@ -1,0 +1,76 @@
+version:1.1
+passage.text:Leta 1990 se je ameriška carinska hiša v New Yorku preimenovala v Hamiltona. Leta 1880 je njegov sin John Church Hamilton naročil Carlu Conradsu, da je izklesal granitni kip, ki se zdaj nahaja v Central Parku v New Yorku. En kip, ki je počastil Aleksandra Hamiltona v Chicagu, je bil v polemiki, vsaj glede okoliške arhitekture. Kate Sturges Buckingham (1858-1937), iz družine Buckingham Fountain, je naročila spomenik. Njegov zagon je bil, da je finančni minister Hamilton &quot;zavaroval finančno prihodnost države in lastni družini omogočil, da si je ustvarila bogastvo v dvigalih za žito in bančništvu. Posledično je bil John Angel najet za oblikovanje figurativne skulpture, finski arhitekt Eliel Saarinen ustvarili zanjo &quot;ogromno arhitekturno postavitev&quot;. Predlagano 80 metrov visoko zavetje v stolpcih je bilo slabo sprejeto. Po smrti gospe Buckingham leta 1937 je bila postavitev skulpture postavljena. Lokacija in zasnova sta bila negotova. Obtožbe o zaroti so se pojavile in zadeva je zašla v Potem ko so sodišča odredila, da se gradnja konča do leta 1953, so skrbniki najeli arhitekta Samuela A. Marxa, ki je bil dokončan, imel je strukturne težave in je bil nazadnje porušen leta 1993. Kip je bil pozlačen in je še vedno na ogled. Kip Jamesa Earla Fraserja je bil posvečen 17. maja 1923 na južni terasi stavbe zakladnice v Washingtonu.
+passage.questions.4.question:Koliko let je stal kip gospe Buckinghams Aleksandra Hamiltona?
+passage.questions.4.idx:259.0
+passage.questions.4.answers.3.text:Stojalo je 40 let
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:1441.0
+passage.questions.4.answers.2.text:40
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1440.0
+passage.questions.4.answers.1.text:Stala je 50 let
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1439.0
+passage.questions.4.answers.0.text:50
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1438.0
+passage.questions.3.question:Koliko let je bila gospa Buckingham v času smrti?
+passage.questions.3.idx:258.0
+passage.questions.3.answers.3.text:Ga. Buckingham je imela v času smrti 69 let
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1437.0
+passage.questions.3.answers.2.text:Ga. Buckingham je imela v času smrti 79 let
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1436.0
+passage.questions.3.answers.1.text:79
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1435.0
+passage.questions.3.answers.0.text:85
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1434.0
+passage.questions.2.question:Kako je ime družine, ki ji je Hamilton pomagal zagotoviti bogastvo, ki je nato v njegovo ime posvetil kip?
+passage.questions.2.idx:257.0
+passage.questions.2.answers.3.text:Buckingham
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:1433.0
+passage.questions.2.answers.2.text:Družina Fountain
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1432.0
+passage.questions.2.answers.1.text:Družina Buckinghamskih vodnjakov Kate Sturges Buckingham je nato posvetila kip v njegovem imenu
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:1431.0
+passage.questions.2.answers.0.text:Družina Angel je njegov sin posvetil kip v njegovem imenu
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1430.0
+passage.questions.1.question:Kateri pravni postopek je od leta 1937 do 1953 povezal gradnjo kipa?
+passage.questions.1.idx:256.0
+passage.questions.1.answers.3.text:Obtožbe o zaroti, ki so se zapletle v sodne postopke
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1429.0
+passage.questions.1.answers.2.text:Nihče ni zahteval kipa, zato ga niso nameravali zgraditi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1428.0
+passage.questions.1.answers.1.text:Spor
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:1427.0
+passage.questions.1.answers.0.text:Ločitev
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:1426.0
+passage.questions.0.question:Po porušenju je bil kip:
+passage.questions.0.idx:255
+passage.questions.0.answers.4.text:Kip je bil pozlačen
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:1425.0
+passage.questions.0.answers.3.text:Na zaslonu
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1424.0
+passage.questions.0.answers.2.text:Proč od zaslona
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1423.0
+passage.questions.0.answers.1.text:Kip je bil recikliran, da je nastal nov kip
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1422
+passage.questions.0.answers.0.text:Uničeno
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1421
+idx:22

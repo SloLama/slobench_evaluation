@@ -1,0 +1,6 @@
+choice1:Denar je podaril cerkvi.
+choice2:Iz cerkve so ga izobčili.
+idx:45
+label:1
+premise:Moški se je uprl cerkvenim oblastem.
+question:effect

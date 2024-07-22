@@ -1,0 +1,295 @@
+version:1.1
+passage.text:Z oskarjem nagrajena igralka Joan Fontaine je umrla v nedeljo, je v ponedeljek dejal njen dolgoletni prijatelj Noel Beutel. Imela je 96 let. Fontaine je umrl &quot;zelo mirno&quot; v snu naravnih vzrokov, je dejal Beutel. Bila je v svojem domu Carmel v Kaliforniji. Preživela jo je starejša sestra, igralka Olivia de Havilland - s katero se že desetletja ni pogovarjala. Fontaine se je rodila Joan de Beauvoir de Havilland leta 1916 v Tokiu na Japonskem, kjer je bil njen britanski oče patentni odvetnik in učitelj. S sestro sta se leta 1919, ko sta se starša ločila, z mamo preselila v Saratogo v Kaliforniji. Fontaine je bila najstnica, ko je igralsko kariero začela kot Joan Burfield v filmu &quot;No More Ladies&quot; iz leta 1935. Kasneje je sprejela umetniško ime Fontaine - ime drugega moža njene matere. V svoji avtobiografiji iz leta 1978 &quot;No Bed of Roses&quot; je zapisala, da je njena mama, ki je bila igralka, že v zgodnjih letih začela spodbujati rivalstvo s starejšo sestro. Prepir se je razširil na njuno kariero, ko sta bili obe sestri leta 1942 nominirani za najboljši oskarji. Fontaine, ki je bila nominirana za &quot;Sum sum&quot; Alfreda Hitchcocka, je premagala svojo sestro Olivio de Havilland, ki je bila nominirana za &quot;Zadrži zoro&quot;. De Havilland je leta 1947 dobila prvega izmed dveh oskarjev, ko je prejela nagrado za najboljšo igralko za film &quot;Vsak po svoje&quot;. De Havilland in Fontaine ostajata edini sestri, ki imata nagradi Oskarja za najboljšo igralko. Dolgoletni spopad z de Havillandom je bil med ponovnim zborovanjem oskarjev leta 1979 na vrhuncu, da so morali sedeti na nasprotnih koncih odra. &quot;Bila sem šokirana in žalostna, ko sem izvedela za smrt moje sestre Joan Fontaine ... in cenim številne prijazne izraze sočutja, ki smo jih prejeli,&quot; je v izjavi za CNN sporočila Olivia de Havilland.
+passage.questions.9.question:Kje in kdaj se je rodila Joan Fontaine?
+passage.questions.9.idx:5053.0
+passage.questions.9.answers.4.text:Rodila se je leta 1916 v Tokiu na Japonskem
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:26838.0
+passage.questions.9.answers.3.text:1918
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:26837.0
+passage.questions.9.answers.2.text:Tokio
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:26836.0
+passage.questions.9.answers.1.text:Saratoga
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:26835.0
+passage.questions.9.answers.0.text:1916
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:26834.0
+passage.questions.8.question:Kakšna sta bila poklica matere in očeta Joan Fontaine?
+passage.questions.8.idx:5052.0
+passage.questions.8.answers.5.text:Učitelj plesa
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:26833.0
+passage.questions.8.answers.4.text:Pevka
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:26832.0
+passage.questions.8.answers.3.text:Igralka
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:26831.0
+passage.questions.8.answers.2.text:Patentni odvetnik
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:26830.0
+passage.questions.8.answers.1.text:Učitelj
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:26829.0
+passage.questions.8.answers.0.text:Igralka
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:26828.0
+passage.questions.7.question:Koliko je bila stara Joan Fontaine, ko je umrla?
+passage.questions.7.idx:5051.0
+passage.questions.7.answers.3.text:96
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:26827.0
+passage.questions.7.answers.2.text:Dvainšestdeset
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:26826.0
+passage.questions.7.answers.1.text:62
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:26825.0
+passage.questions.7.answers.0.text:Šestindevetdeset
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:26824.0
+passage.questions.6.question:Koliko let je trajalo, da je prejela oskarja, potem ko je bila prvič nominirana?
+passage.questions.6.idx:5050.0
+passage.questions.6.answers.4.text:Nobenega
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:26823.0
+passage.questions.6.answers.3.text:0
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:26822.0
+passage.questions.6.answers.2.text:10.
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:26821.0
+passage.questions.6.answers.1.text:5.
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:26820.0
+passage.questions.6.answers.0.text:Deset
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:26819.0
+passage.questions.5.question:Kje je Joan umrla?
+passage.questions.5.idx:5049.0
+passage.questions.5.answers.2.text:V njenem domu Carmel v Kaliforniji
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:26818.0
+passage.questions.5.answers.1.text:Na odru
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:26817.0
+passage.questions.5.answers.0.text:Domov
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:26816.0
+passage.questions.4.question:Kam in kdaj se je preselila v Ameriko?
+passage.questions.4.idx:5048.0
+passage.questions.4.answers.4.text:S sestro sta se leta 1919 z materjo preselili v Saratogo v Kaliforniji
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:26815.0
+passage.questions.4.answers.3.text:Tokio
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:26814.0
+passage.questions.4.answers.2.text:Saratoga
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:26813.0
+passage.questions.4.answers.1.text:1919
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:26812.0
+passage.questions.4.answers.0.text:1916
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:26811.0
+passage.questions.3.question:Koliko je bila stara Joan Fontaine, ko se je preselila v Saratogo?
+passage.questions.3.idx:5047.0
+passage.questions.3.answers.4.text:3.
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:26810.0
+passage.questions.3.answers.3.text:Tri
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:26809.0
+passage.questions.3.answers.2.text:7.
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26808.0
+passage.questions.3.answers.1.text:Deset
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:26807.0
+passage.questions.3.answers.0.text:4.
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:26806.0
+passage.questions.2.question:Koliko je bila stara Joan Fontaine, ko je začela igralsko kariero?
+passage.questions.2.idx:5046.0
+passage.questions.2.answers.2.text:19.
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:26805.0
+passage.questions.2.answers.1.text:Dojenček
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26804.0
+passage.questions.2.answers.0.text:Najstnik
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26803.0
+passage.questions.19.question:Seznam 2 filmov, za katere sta sestri Fontaine in De Havilland dobili oskarja?
+passage.questions.19.idx:5063.0
+passage.questions.19.answers.4.text:Burfield
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:26879.0
+passage.questions.19.answers.3.text:Vsakemu svojemu in suspenziji
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:26878.0
+passage.questions.19.answers.2.text:Nič več dame
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:26877.0
+passage.questions.19.answers.1.text:Vsakemu svoje
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:26876.0
+passage.questions.19.answers.0.text:Sum
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:26875.0
+passage.questions.18.question:Za kaj nosita naslov De Havilland in Fontaine?
+passage.questions.18.idx:5062.0
+passage.questions.18.answers.2.text:So edini sestri, ki imata oskarja za najboljšo igralko
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:26874.0
+passage.questions.18.answers.1.text:Samo sestre z oskarji
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:26873.0
+passage.questions.18.answers.0.text:Najstarejše sestre
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:26872.0
+passage.questions.17.question:Katera dva priimka je Joan de Beauvoir de Havilland uporabila za svojo kariero?
+passage.questions.17.idx:5061.0
+passage.questions.17.answers.4.text:Burfield
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:26871.0
+passage.questions.17.answers.3.text:Fontaine
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:26870.0
+passage.questions.17.answers.2.text:Fontaine in Burfield
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:26869.0
+passage.questions.17.answers.1.text:Olivia
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:26868.0
+passage.questions.17.answers.0.text:Havilland
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:26867.0
+passage.questions.16.question:S katerimi dvema umetniškima imenoma je šla Joan de Beauvoir de Havilland?
+passage.questions.16.idx:5060.0
+passage.questions.16.answers.4.text:Noel Fontaine
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:26866.0
+passage.questions.16.answers.3.text:Joan Fontaine
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:26865.0
+passage.questions.16.answers.2.text:Joanette
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:26864.0
+passage.questions.16.answers.1.text:Noel Beutel
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:26863.0
+passage.questions.16.answers.0.text:Joan Burfield
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:26862.0
+passage.questions.15.question:Pojasnite okoliščine Fontaineove smrti?
+passage.questions.15.idx:5059.0
+passage.questions.15.answers.4.text:Tragedija
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:26861.0
+passage.questions.15.answers.3.text:V njenem domu naravnih vzrokov
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:26860.0
+passage.questions.15.answers.2.text:Naravni vzroki
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:26859.0
+passage.questions.15.answers.1.text:V spanju
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:26858.0
+passage.questions.15.answers.0.text:Avtomobilska nesreča
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:26857.0
+passage.questions.14.question:Zakaj je sprejela umetniško ime Fontaine?
+passage.questions.14.idx:5058.0
+passage.questions.14.answers.2.text:Ker se je tega imena naučil na odru
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:26856.0
+passage.questions.14.answers.1.text:Ker je bilo to njeno mater
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:26855.0
+passage.questions.14.answers.0.text:Ker je bilo tako ime njenih mater drugi mož
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:26854.0
+passage.questions.13.question:Koliko je bila stara Joan Fontaine, ko so se njeni starši ločili in se preselila v Kalifornijo?
+passage.questions.13.idx:5057.0
+passage.questions.13.answers.3.text:Tri
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:26853.0
+passage.questions.13.answers.2.text:3.
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:26852.0
+passage.questions.13.answers.1.text:Sedem
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:26851.0
+passage.questions.13.answers.0.text:7.
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:26850.0
+passage.questions.12.question:Koliko je bila stara Joan, ko je napisala avtobiografijo?
+passage.questions.12.idx:5056.0
+passage.questions.12.answers.3.text:14.
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:26849.0
+passage.questions.12.answers.2.text:62
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:26848.0
+passage.questions.12.answers.1.text:Dvainšestdeset
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:26847.0
+passage.questions.12.answers.0.text:Štirinajst
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:26846.0
+passage.questions.11.question:Koliko je bila Fontaine stara, ko je začela igralsko kariero?
+passage.questions.11.idx:5055.0
+passage.questions.11.answers.2.text:Manj ali enako 19
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:26845.0
+passage.questions.11.answers.1.text:Dojenček
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:26844.0
+passage.questions.11.answers.0.text:Najstnik
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:26843.0
+passage.questions.10.question:Koliko je bila stara Joan, ko je bila nominirana za svojega prvega oskarja?
+passage.questions.10.idx:5054.0
+passage.questions.10.answers.3.text:96
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:26842.0
+passage.questions.10.answers.2.text:Šestindvajset
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:26841.0
+passage.questions.10.answers.1.text:26.
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:26840.0
+passage.questions.10.answers.0.text:Šestindevetdeset
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:26839.0
+passage.questions.1.question:V katerem letu se je začela njena igralska kariera?
+passage.questions.1.idx:5045.0
+passage.questions.1.answers.1.text:1916
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:26802.0
+passage.questions.1.answers.0.text:1935
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:26801.0
+passage.questions.0.question:V katerih dveh državah je živel Fontaine?
+passage.questions.0.idx:5044
+passage.questions.0.answers.4.text:Tokio
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:26800.0
+passage.questions.0.answers.3.text:Teksas
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:26799.0
+passage.questions.0.answers.2.text:Japonska
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:26798.0
+passage.questions.0.answers.1.text:Japonska in Združene države Amerike
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26797
+passage.questions.0.answers.0.text:ZDA
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:26796
+idx:449

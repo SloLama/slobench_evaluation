@@ -1,0 +1,271 @@
+version:1.1
+passage.text:Patricia Cross in njen fant Larry Osborne, dva učenca šole v San Franciscu, sta izključena zaradi objave podzemnega časopisa zunaj kampusa. Posledično profesor filozofije, dr. Jonathon Barnett, odstopi s svojega učiteljskega položaja in se odloči postati zagovornik kontrakulturnega mladinskega gibanja in zlasti uporabe LSD. Hipiji iz okrožja Haight-Ashbury ga najprej vidijo kot junaka in nato še kot nekaj več. Dr. Barnett celo nastopi v televizijski oddaji Joe Pyne, da izrazi podporo hipi skupnosti in uporabi LSD. Eden od naklepanih moških vidi priložnost za gradnjo dr. Barnetta kot vodjo kulta, osredotočenega na uporabo LSD. Upa, da bo zaslužil od uporabnikov, govorov dr. Barnetta, znanih kot &quot;dogajanje&quot;, in njihovega načina življenja. Na množičnem plesu, ki ga poganja LSD, se Patricia začne slabo potovati, kar vodi do prepira med njo in Patom, kar na koncu razdeli par. Ko Patricia ugotovi, da je noseča, ji dr. Barnett svetuje splav, kar na koncu povzroči, da Patricia poskusi samomor. Vendar jo Larry reši in postavi uničenje kulta dr. Barnetta za svoj glavni cilj. Larry iz enega množičnih govorov iz množice ustreli dr. Barnetta. Ko še en navzoči hipi pomiri občinstvo in Elliot vidi novega vodjo njihove kultne organizacije, Larry ugotovi, da ga je njegov atentat na dr. Barnetta preprosto naredil za mučenika hipi gibanja.
+passage.questions.9.question:Komu Larry škoduje?
+passage.questions.9.idx:3639.0
+passage.questions.9.answers.2.text:Larry
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:19333.0
+passage.questions.9.answers.1.text:Dr. Barnett
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:19332.0
+passage.questions.9.answers.0.text:Uničenje kulta dr. Barnetta
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:19331.0
+passage.questions.8.question:Zakaj je dr. Jonathon Barnett odstopil s položaja učitelja?
+passage.questions.8.idx:3638.0
+passage.questions.8.answers.2.text:Patricia Cross in njen fant Larry Osborne sta bila izključena zaradi objave podzemnega časopisa zunaj kampusa, zaradi katerega je dr. Jonathon Barnett odstopil s položaja učitelja
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:19330.0
+passage.questions.8.answers.1.text:Postati zagovornik kontrakulturnega mladinskega gibanja
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:19329.0
+passage.questions.8.answers.0.text:Učni položaj
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:19328.0
+passage.questions.7.question:Kaj je povzročilo, da je Larry svoj glavni cilj uničenje kulta dr. Barnetta?
+passage.questions.7.idx:3637.0
+passage.questions.7.answers.2.text:Njegova nekdanja punca Patricia je bila noseča in dr. Barnett ji svetuje splav, kar na koncu pripelje do tega, da Patricia poskusi samomor, vendar jo reši, zaradi česar je uničenje kulta dr. Barnetta njegov glavni cilj.
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:19327.0
+passage.questions.7.answers.1.text:Patricijina nosečnost vodi do poskusa samomora
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:19326.0
+passage.questions.7.answers.0.text:Uničenje
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19325.0
+passage.questions.6.question:Potem ko Patricijino slabo potovanje privede do razpada, kaj se Patricia zaveda, kar vodi v njen poskus samomora?
+passage.questions.6.idx:3636.0
+passage.questions.6.answers.3.text:Zavedite se
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:19324.0
+passage.questions.6.answers.2.text:Patricia
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:19323.0
+passage.questions.6.answers.1.text:Da je noseča
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:19322.0
+passage.questions.6.answers.0.text:Samomor
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:19321.0
+passage.questions.5.question:Po izključitvi dveh študentov za kazen zaradi objave podzemnega časopisa se profesor odloči, kaj bo storil glede svojega učiteljskega položaja?
+passage.questions.5.idx:3635.0
+passage.questions.5.answers.2.text:Se odloči, da bo zagovornik protikulturnega mladinskega gibanja
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:19320.0
+passage.questions.5.answers.1.text:Izgnan
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:19319.0
+passage.questions.5.answers.0.text:Odstopite
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:19318.0
+passage.questions.4.question:Larnet Shoot&#39;s Barnett, potem ko se je zaobljubil?
+passage.questions.4.idx:3634.0
+passage.questions.4.answers.2.text:Uničenje kulta naj postane njegov glavni cilj
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19317.0
+passage.questions.4.answers.1.text:Uničenje kulta dr. Barnetta je njegov glavni cilj
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19316.0
+passage.questions.4.answers.0.text:Zaobljuba
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:19315.0
+passage.questions.3.question:Katera skupina Haight-Ashbury je podprla profesorja, skupino, ki jo praznuje v zameno v oddaji Joe Pyne.
+passage.questions.3.idx:3633.0
+passage.questions.3.answers.3.text:Praznuje
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:19314.0
+passage.questions.3.answers.2.text:Junak
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19313.0
+passage.questions.3.answers.1.text:Podpora
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:19312.0
+passage.questions.3.answers.0.text:Hipiji
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:19311.0
+passage.questions.2.question:Kdo je oseba, ki uporablja glas, ki podpira hipijevsko skupnost in kult, osredotočen na uporabo LSD?
+passage.questions.2.idx:3632.0
+passage.questions.2.answers.3.text:Elliot
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:19310.0
+passage.questions.2.answers.2.text:Dr.Barnett
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:19309.0
+passage.questions.2.answers.1.text:Podpora
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19308.0
+passage.questions.2.answers.0.text:Premikanje
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:19307.0
+passage.questions.13.question:Zakaj je bil dr. Barnett viden kot vodja kulta, osredotočenega na uporabo LSD?
+passage.questions.13.idx:3643.0
+passage.questions.13.answers.2.text:Hipiji iz okrožja Haight-Ashbury ga najprej vidijo kot junaka in tudi zaradi njegovega nastopa v televizijski oddaji Joe Pyne, da izrazijo svojo podporo hipi skupnosti in uporabi LSD
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:19369.0
+passage.questions.13.answers.1.text:Uporaba LSD
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:19368.0
+passage.questions.13.answers.0.text:Priložnost za zaslužek od govorov dr. Barnetta
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:19367.0
+passage.questions.12.question:Katero zdravilo dr. Barnett podpira?
+passage.questions.12.idx:3642.0
+passage.questions.12.answers.3.text:LSD
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:19366.0
+passage.questions.12.answers.2.text:Barnett
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:19365.0
+passage.questions.12.answers.1.text:Droga
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:19364.0
+passage.questions.12.answers.0.text:Podpora
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:19363.0
+passage.questions.11.question:Zakaj je dr. Barnett odstopil od poučevanja?
+passage.questions.11.idx:3641.0
+passage.questions.11.answers.9.text:Izgon študentov
+passage.questions.11.answers.9.label:1.0
+passage.questions.11.answers.9.idx:19356.0
+passage.questions.11.answers.8.text:Patricijev poskus samomora
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:19355.0
+passage.questions.11.answers.7.text:Patricijina nosečnost
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:19354.0
+passage.questions.11.answers.6.text:Zagovorništvo
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:19353.0
+passage.questions.11.answers.5.text:Postati zagovornik protikulturne mladine
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:19352.0
+passage.questions.11.answers.4.text:Ples
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:19351.0
+passage.questions.11.answers.3.text:Navdihnjen z izključitvijo študentov zaradi objave podzemnega časopisa, se je Barnett odločil, da postane zagovornik kontrakulturnega mladinskega gibanja
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:19350.0
+passage.questions.11.answers.2.text:Spodbujati uporabo LSD
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:19349.0
+passage.questions.11.answers.15.text:Larryjev izgon
+passage.questions.11.answers.15.label:1.0
+passage.questions.11.answers.15.idx:19362.0
+passage.questions.11.answers.14.text:Izgon Patricije in Larryja
+passage.questions.11.answers.14.label:1.0
+passage.questions.11.answers.14.idx:19361.0
+passage.questions.11.answers.13.text:Samomor
+passage.questions.11.answers.13.label:0,0
+passage.questions.11.answers.13.idx:19360.0
+passage.questions.11.answers.12.text:Uporaba LSD
+passage.questions.11.answers.12.label:1.0
+passage.questions.11.answers.12.idx:19359.0
+passage.questions.11.answers.11.text:Uporaba LSD
+passage.questions.11.answers.11.label:0,0
+passage.questions.11.answers.11.idx:19358.0
+passage.questions.11.answers.10.text:Voditi televizijsko oddajo Joe Pyne
+passage.questions.11.answers.10.label:0,0
+passage.questions.11.answers.10.idx:19357.0
+passage.questions.11.answers.1.text:Izgon Patricije
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:19348.0
+passage.questions.11.answers.0.text:Izdati podzemni časopis zunaj kampusa
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:19347.0
+passage.questions.10.question:Kateri dogodek žene Larryja, da uniči kult?
+passage.questions.10.idx:3640.0
+passage.questions.10.answers.9.text:Dr. Barnett zasluži s hipiji
+passage.questions.10.answers.9.label:0,0
+passage.questions.10.answers.9.idx:19343.0
+passage.questions.10.answers.8.text:Patricijev poskus samomora
+passage.questions.10.answers.8.label:1.0
+passage.questions.10.answers.8.idx:19342.0
+passage.questions.10.answers.7.text:Umor dr. Barnetta
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:19341.0
+passage.questions.10.answers.6.text:Barnett je Patricio spodbudil k splavu, zaradi česar je poskusila samomor
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:19340.0
+passage.questions.10.answers.5.text:Dr. Barnett svetuje Patriciji, da splavi
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:19339.0
+passage.questions.10.answers.4.text:Promocija LSD dr. Barnetta
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:19338.0
+passage.questions.10.answers.3.text:Poskus samomora
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:19337.0
+passage.questions.10.answers.2.text:Slab izlet
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:19336.0
+passage.questions.10.answers.12.text:Patricijino slabo LSD potovanje
+passage.questions.10.answers.12.label:0,0
+passage.questions.10.answers.12.idx:19346.0
+passage.questions.10.answers.11.text:Hipi gibanje
+passage.questions.10.answers.11.label:0,0
+passage.questions.10.answers.11.idx:19345.0
+passage.questions.10.answers.10.text:Splav
+passage.questions.10.answers.10.label:1.0
+passage.questions.10.answers.10.idx:19344.0
+passage.questions.10.answers.1.text:Slab izlet LSD
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:19335.0
+passage.questions.10.answers.0.text:Patrica poskuša samomor
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:19334.0
+passage.questions.1.question:Na katero skupino ljudi vpliva dr. Barnett?
+passage.questions.1.idx:3631.0
+passage.questions.1.answers.2.text:Skupina
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:19306.0
+passage.questions.1.answers.1.text:Hipiji iz okrožja Haight-Ashbury
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:19305.0
+passage.questions.1.answers.0.text:Hipiji
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19304.0
+passage.questions.0.question:Pred čim Larry reši Patricijo?
+passage.questions.0.idx:3630
+passage.questions.0.answers.9.text:Splav
+passage.questions.0.answers.9.label:1.0
+passage.questions.0.answers.9.idx:19299.0
+passage.questions.0.answers.8.text:Poskus samomora
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:19298.0
+passage.questions.0.answers.7.text:Poskus samomora
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:19297.0
+passage.questions.0.answers.6.text:Njeno slabo LSD potovanje
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:19296.0
+passage.questions.0.answers.5.text:Šolski izgon
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:19295.0
+passage.questions.0.answers.4.text:Objava
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:19294.0
+passage.questions.0.answers.3.text:Dr. Barnett
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:19293.0
+passage.questions.0.answers.2.text:Hiša v okrožju Haight-Ashbury
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:19292.0
+passage.questions.0.answers.13.text:LSD
+passage.questions.0.answers.13.label:0,0
+passage.questions.0.answers.13.idx:19303.0
+passage.questions.0.answers.12.text:Samomor
+passage.questions.0.answers.12.label:1.0
+passage.questions.0.answers.12.idx:19302.0
+passage.questions.0.answers.11.text:Njen poskus samomora
+passage.questions.0.answers.11.label:1.0
+passage.questions.0.answers.11.idx:19301.0
+passage.questions.0.answers.10.text:Iz kulta dr. Barnetta
+passage.questions.0.answers.10.label:1.0
+passage.questions.0.answers.10.idx:19300.0
+passage.questions.0.answers.1.text:TELEVIZIJSKA ODDAJA
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19291
+passage.questions.0.answers.0.text:Splav
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19290
+idx:319

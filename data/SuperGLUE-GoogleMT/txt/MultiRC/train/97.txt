@@ -1,0 +1,267 @@
+version:1.1
+passage.text:Ko zbolite, vaše telo vzpostavi akcijo. Vaše telo se začne boriti proti bolezni. Zato se želite dobro prehranjevati in naspati. Za boj proti bolezni potrebujete močan imunski sistem. Rastline nimajo imunskega sistema. To ne pomeni, da ne zbolijo. Rastline prizadenejo bolezni tako kot mi. Običajno je njihova prva obrambna linija smrt dela rastline. To preprečuje širjenje okužbe. Mnoge rastline proizvajajo tudi posebne kemikalije za boj proti boleznim. Na primer, vrbe proizvajajo kemikalijo, ki uničuje bakterije. Ista spojina se uporablja v številnih izdelkih za akne. Sliko vrbe lahko vidite na sliki Rastline so morda pametnejše, kot si mislimo. Ne, ne moreta se pogovarjati. Morda bodo lahko pošiljali sporočila.
+passage.questions.9.question:Kakšna sta dva načina, kako se rastline lahko borijo proti boleznim?
+passage.questions.9.idx:1159.0
+passage.questions.9.answers.4.text:Odpusti in miruje
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:5888.0
+passage.questions.9.answers.3.text:Z odmiranjem dela rastline in s proizvodnjo posebnih kemikalij za boj proti boleznim
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:5887.0
+passage.questions.9.answers.2.text:Jejte pravilno in naspite
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:5886.0
+passage.questions.9.answers.1.text:Smrt dela rastline in prezimovanje
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:5885.0
+passage.questions.9.answers.0.text:Hibernira in proizvaja kemikalije, ki se borijo proti boleznim
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5884.0
+passage.questions.8.question:Kaj imamo ljudje, česar rastline nimajo?
+passage.questions.8.idx:1158.0
+passage.questions.8.answers.4.text:Klice
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:5883.0
+passage.questions.8.answers.3.text:Živčni sistem
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:5882.0
+passage.questions.8.answers.2.text:Življenje
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:5881.0
+passage.questions.8.answers.1.text:Bakterije
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:5880.0
+passage.questions.8.answers.0.text:Imunski sistemi
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:5879.0
+passage.questions.7.question:Vrbe ustvarjajo posebno kemikalijo, ki služi kot kaj?
+passage.questions.7.idx:1157.0
+passage.questions.7.answers.6.text:Za uničenje bakterij in kot sredstvo proti aknam
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:5878.0
+passage.questions.7.answers.5.text:Za rast bakterij
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:5877.0
+passage.questions.7.answers.4.text:Protivnetna zdravila
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:5876.0
+passage.questions.7.answers.3.text:Bakterijsko sredstvo
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:5875.0
+passage.questions.7.answers.2.text:Spojina v izdelkih za akne
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:5874.0
+passage.questions.7.answers.1.text:Da bi ubil bakterije
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:5873.0
+passage.questions.7.answers.0.text:Antidepresiv
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:5872.0
+passage.questions.6.question:Kako lahko odmiranje dela rastline pomaga rastlini?
+passage.questions.6.idx:1156.0
+passage.questions.6.answers.6.text:Pustil bo nov del zrasti
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:5871.0
+passage.questions.6.answers.5.text:Izboljšala bo fotosintezo
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:5870.0
+passage.questions.6.answers.4.text:Vodi ne bo tekla
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:5869.0
+passage.questions.6.answers.3.text:Lahko prepreči širjenje okužbe
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:5868.0
+passage.questions.6.answers.2.text:Bolezen se ne bo širila
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:5867.0
+passage.questions.6.answers.1.text:Za boj proti okužbi
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:5866.0
+passage.questions.6.answers.0.text:Za pomoč pri širjenju okužbe
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:5865.0
+passage.questions.5.question:Zakaj del rastline odmre, ko je rastlina okužena z boleznijo?
+passage.questions.5.idx:1155.0
+passage.questions.5.answers.6.text:Ker ga ubije
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:5864.0
+passage.questions.5.answers.5.text:Za spodbujanje okužbe
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:5863.0
+passage.questions.5.answers.4.text:Da bi preprečili širjenje bolezni
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:5862.0
+passage.questions.5.answers.3.text:Da se prepreči širjenje okužbe
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:5861.0
+passage.questions.5.answers.2.text:Ker ga voda ne more doseči
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5860.0
+passage.questions.5.answers.1.text:Ker je sonce premočno
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:5859.0
+passage.questions.5.answers.0.text:Za boj proti okužbi
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5858.0
+passage.questions.4.question:Ali se lahko rastline borijo proti okužbam, ne da bi sproščale posebne kemikalije?
+passage.questions.4.idx:1154.0
+passage.questions.4.answers.3.text:Da - tako, da del rastline odmre
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:5857.0
+passage.questions.4.answers.2.text:Včasih v blagih primerih
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:5856.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:5855.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:5854.0
+passage.questions.3.question:Kje je mogoče najti isto kemikalijo, ki jo vrbe proizvajajo za boj proti okužbam?
+passage.questions.3.idx:1153.0
+passage.questions.3.answers.4.text:Losjon
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:5853.0
+passage.questions.3.answers.3.text:Škatle za sok
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:5852.0
+passage.questions.3.answers.2.text:Ljudje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:5851.0
+passage.questions.3.answers.1.text:Mila
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:5850.0
+passage.questions.3.answers.0.text:V izdelkih za akne
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:5849.0
+passage.questions.2.question:Ali rastline brez imunskega sistema dobijo okužbe?
+passage.questions.2.idx:1152.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:5848.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5847.0
+passage.questions.14.question:Kaj vam lahko pomaga, da imate močan imunski sistem?
+passage.questions.14.idx:1164.0
+passage.questions.14.answers.4.text:Jejte pravilno in naspite
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:5912.0
+passage.questions.14.answers.3.text:Poskrbite za veliko sončne svetlobe
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:5911.0
+passage.questions.14.answers.2.text:Jejte jabolko na dan
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:5910.0
+passage.questions.14.answers.1.text:Pomanjkanje spanja
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:5909.0
+passage.questions.14.answers.0.text:Vadba
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:5908.0
+passage.questions.13.question:Rastline imajo imunski sistem tako kot ljudje: res ali ne?
+passage.questions.13.idx:1163.0
+passage.questions.13.answers.1.text:Lažno
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:5907.0
+passage.questions.13.answers.0.text:Prav
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:5906.0
+passage.questions.12.question:Kakšni organizmi lahko zbolijo, čeprav nimajo imunskega sistema?
+passage.questions.12.idx:1162.0
+passage.questions.12.answers.4.text:Žabe
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:5905.0
+passage.questions.12.answers.3.text:Plankton
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:5904.0
+passage.questions.12.answers.2.text:Živali
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:5903.0
+passage.questions.12.answers.1.text:Rastline
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:5902.0
+passage.questions.12.answers.0.text:Minnows
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:5901.0
+passage.questions.11.question:Zakaj bi ljudje, ki uporabljajo izdelke za akne, cenili vrbe?
+passage.questions.11.idx:1161.0
+passage.questions.11.answers.6.text:Vrbovo lubje se uporablja v izdelkih za akne
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:5900.0
+passage.questions.11.answers.5.text:Vrbe proizvajajo kemikalijo za ubijanje bakterij
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:5899.0
+passage.questions.11.answers.4.text:Vrbe proizvajajo kemikalijo, ki je v izdelkih za akne
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:5898.0
+passage.questions.11.answers.3.text:Boljša Francija
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:5897.0
+passage.questions.11.answers.2.text:Vrbe imajo glive, ki se borijo proti aknam
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:5896.0
+passage.questions.11.answers.1.text:Kemikalija, ki jo vrbe proizvajajo za ubijanje bakterij, je tudi spojina, ki se uporablja v mnogih izdelkih za akne
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:5895.0
+passage.questions.11.answers.0.text:Izdelki iz aken, ki jih navdihujejo vrbe
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:5894.0
+passage.questions.10.question:Katero drevo proizvaja spojino v številnih izdelkih za akne?
+passage.questions.10.idx:1160.0
+passage.questions.10.answers.4.text:Vrba
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:5893.0
+passage.questions.10.answers.3.text:hrast
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:5892.0
+passage.questions.10.answers.2.text:Mango drevo
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:5891.0
+passage.questions.10.answers.1.text:Breza
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:5890.0
+passage.questions.10.answers.0.text:Javor
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:5889.0
+passage.questions.1.question:Kaj se običajno zgodi v rastlini, da se prepreči širjenje okužbe?
+passage.questions.1.idx:1151.0
+passage.questions.1.answers.5.text:Smrt dela rastline
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:5846.0
+passage.questions.1.answers.4.text:Spušča liste
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:5845.0
+passage.questions.1.answers.3.text:Del rastline odmre
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:5844.0
+passage.questions.1.answers.2.text:Hibernira
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5843.0
+passage.questions.1.answers.1.text:Miruje
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:5842.0
+passage.questions.1.answers.0.text:Nekaj počitka
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:5841.0
+passage.questions.0.question:Kaj se zgodi najprej, ko bolezen začne razjedati rastlino?
+passage.questions.0.idx:1150
+passage.questions.0.answers.5.text:Proizvaja kemikalije
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:5840.0
+passage.questions.0.answers.4.text:Smrt dela rastline
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:5839.0
+passage.questions.0.answers.3.text:Okuženi del rastline začne odmirati
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:5838.0
+passage.questions.0.answers.2.text:Listi odpadejo
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:5837.0
+passage.questions.0.answers.1.text:Aktivacija imunskega sistema
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:5836
+passage.questions.0.answers.0.text:Prezimi
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5835
+idx:97

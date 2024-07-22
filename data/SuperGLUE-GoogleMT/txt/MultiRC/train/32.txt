@@ -1,0 +1,110 @@
+version:1.1
+passage.text:Po prihodu v New York City so Einsteina odpeljali na različne kraje in prireditve, med drugim v kitajsko četrt, kosilo z uredniki New York Timesa in nastop Carmen v Metropolitanski operi, kjer ga je ob prihodu razveselila publika . V naslednjih dneh mu je župan Jimmy Walker dal ključe mesta in se srečal s predsednikom univerze Columbia, ki je Einsteina opisal kot &quot;vladajočega monarha uma.&quot; Harry Emerson Fosdick, pastor v newyorški Riverside Church, je Einsteinu ogledal cerkev in mu pokazal kip v polni velikosti, ki ga je cerkev naredila iz Einsteina, ki je stal ob vhodu. Tudi med bivanjem v New Yorku se je med praznovanjem Hanuke pridružil množici 15.000 ljudi v Madison Square Gardenu. Einstein je nato odpotoval v Kalifornijo, kjer je srečal predsednika Caltecha in nobelovca Roberta A. Millikana. Njegovo prijateljstvo z Millikanom je bilo &quot;nerodno&quot;, saj je Millikan &quot;nagnjen k domoljubnemu militarizmu&quot;, kjer je bil Einstein izrazit pacifist. Med nagovorom študentom Caltecha je Einstein ugotovil, da znanost pogosto naredi več škode kot koristi. Ta odpor do vojne je Einsteina tudi pripeljal do prijateljevanja z avtorjem Uptonom Sinclairjem in filmsko zvezdo Charliejem Chaplinom, ki sta bila znana po svojem pacifizmu. Carl Laemmle, vodja Universal Studios, je Einsteinu ogledal njegov studio in ga seznanil s Chaplinom. Takoj sta se pogovorila, Chaplin je povabil Einsteina in njegovo ženo Elzo k sebi domov na večerjo. Chaplin je dejal, da se zdi, da Einsteinova zunanja osebnost, mirna in nežna, skriva &quot;zelo čustven temperament&quot;, iz katerega izhaja njegova &quot;izjemna intelektualna energija&quot;. Chaplin se tudi spominja, da mu je Elsa pripovedovala o času, ko je Einstein zasnoval svojo teorijo relativnosti. Nekega jutra se je med zajtrkom zdel izgubljen v mislih in ni upošteval svoje hrane. Vprašala ga je, ali ga kaj moti. Usedel se je za svoj klavir in začel igrati. Pol ure je igral in pisal zapiske, nato pa se je odpravil gor v svojo delovno sobo, kjer je ostal dva tedna, pri čemer mu je Elsa prinesla hrano. Po koncu dveh tednov je prišel dol z dvema listoma papirja s svojo teorijo. Chaplinov film City Lights naj bi imel premiero nekaj dni kasneje v Hollywoodu, Chaplin pa je Einsteina in Elzo povabil, naj se mu pridružita kot njegova posebna gosta.
+passage.questions.6.question:Kakšni so bili dogodki pred Einsteinovo osamitvijo?
+passage.questions.6.idx:377.0
+passage.questions.6.answers.5.text:Zajtrkoval je
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:2051.0
+passage.questions.6.answers.4.text:Einsteina in njegovo ženo so povabili na večerjo Charlie Chaplin, kjer je razkril svojo teorijo relativnosti
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:2050.0
+passage.questions.6.answers.3.text:Govoril je s kaplanom
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2049.0
+passage.questions.6.answers.2.text:Sklenil se je s Chaplinom
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2048.0
+passage.questions.6.answers.1.text:Prezrl sem njegovo hrano
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:2047.0
+passage.questions.6.answers.0.text:Igral klavir
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2046.0
+passage.questions.5.question:Na katerem priljubljenem kraju je bil Einstein pred odhodom v Kalifornijo?
+passage.questions.5.idx:376.0
+passage.questions.5.answers.5.text:Madison Square Garden
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:2045.0
+passage.questions.5.answers.4.text:Central Park
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:2044.0
+passage.questions.5.answers.3.text:New York
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2043.0
+passage.questions.5.answers.2.text:Universal Studios
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:2042.0
+passage.questions.5.answers.1.text:Caltech
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2041.0
+passage.questions.5.answers.0.text:Disney
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2040.0
+passage.questions.4.question:Je bil Einstein poročen?
+passage.questions.4.idx:375.0
+passage.questions.4.answers.2.text:Elsi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2039.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2038.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2037.0
+passage.questions.3.question:Kje in zakaj je bil Einstein predstavljen slavnemu igralcu?
+passage.questions.3.idx:374.0
+passage.questions.3.answers.6.text:Einsteina so Kaplanu predstavili v Universal Studios, potem ko je ugotovil, da je tudi pacifist
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:2036.0
+passage.questions.3.answers.5.text:Oba sta opozorjena na pacifizem
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:2035.0
+passage.questions.3.answers.4.text:Oba se zanimata za znanost
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2034.0
+passage.questions.3.answers.3.text:Universal Studios
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2033.0
+passage.questions.3.answers.2.text:Hollywood
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2032.0
+passage.questions.3.answers.1.text:Predstavil ga je fred astare
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2031.0
+passage.questions.3.answers.0.text:Charlieja kaplana so mu predstavili v univerzalnih studiih, ker sta bila oba nagnjena k več škodi kot koristi
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2030.0
+passage.questions.2.question:Koliko časa je trajalo, da je Einstein končal svojo teorijo relativnosti?
+passage.questions.2.idx:373.0
+passage.questions.2.answers.2.text:4 leta
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2029.0
+passage.questions.2.answers.1.text:2 leti
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:2028.0
+passage.questions.2.answers.0.text:2 tedna
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:2027.0
+passage.questions.1.question:Kje živi Charlie Chaplin?
+passage.questions.1.idx:372.0
+passage.questions.1.answers.0.text:New York
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:2026.0
+passage.questions.0.question:Katero mesto je Einstein dobil ključe?
+passage.questions.0.idx:371
+passage.questions.0.answers.4.text:New York City
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2025.0
+passage.questions.0.answers.3.text:Los Angeles
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2024.0
+passage.questions.0.answers.2.text:Kolumbija
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2023.0
+passage.questions.0.answers.1.text:Hollywood
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2022
+passage.questions.0.answers.0.text:Kitajska četrt
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2021
+idx:32

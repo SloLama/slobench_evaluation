@@ -1,0 +1,207 @@
+version:1.1
+passage.text:Oseba, ki bi s svojim vmešavanjem lahko rešila vse dvome, je bila zaradi okoliščin prepovedana posegati v zadevo. Wykham Delandre se je sprl s svojo sestro - ali pa se je morda sprla z njim - in sta bila pogovarjana ne le z oboroženo nevtralnostjo, temveč tudi z ostrim sovraštvom. Prepir je bil predhodnik Margaretine odhoda do Brentove skale. Z Wykhamom sta skoraj že udarila. Gotovo so bile grožnje na eni in na drugi strani; in na koncu je Wykham, prevzet s strastjo, ukazal svoji sestri, naj zapusti svojo hišo. Takoj je vstala in, ne da bi čakala, da bo spakirala celo svoje osebne stvari, odšla iz hiše. Na pragu se je za trenutek ustavila, da bi Wykhamu vrgla grenko grožnjo, da bo do zadnje ure svojega življenja obžaloval svoje dejanje tistega dne. Od takrat je minilo nekaj tednov; in v soseski je bilo razumljeno, da je Margaret odšla v London, ko se je nenadoma pojavila, ko se je vozila z Geoffreyjem Brentom, in celotna soseska je pred nočjo vedela, da se je nastanila na skali. Brent ni bil presenečen, da se je Brent nepričakovano vrnil, saj je bil to njegov običajni običaj. Tudi lastni služabniki niso nikoli vedeli, kdaj ga lahko pričakujejo, kajti obstajala so zasebna vrata, od katerih je imel sam ključ, s katerim je včasih vstopil, ne da bi se kdo v hiši zavedal njegovega prihoda. To je bil njegov običajni način pojavljanja po daljši odsotnosti.
+passage.questions.9.question:Za kaj sta se sprla Margaret in Wykham?
+passage.questions.9.idx:2588.0
+passage.questions.9.answers.3.text:Sendviči
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:13633.0
+passage.questions.9.answers.2.text:Prepir je bil predhodnik Margaretine odhoda do Brentove skale
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:13632.0
+passage.questions.9.answers.1.text:Margretova zveza z Brentom
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:13631.0
+passage.questions.9.answers.0.text:Na koncu je Wykham, ki ga je prevzel strast, ukazal svoji sestri, naj zapusti svojo hišo
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:13630.0
+passage.questions.8.question:Kakšen je Brentov običajni način prihoda po daljši odsotnosti domov?
+passage.questions.8.idx:2587.0
+passage.questions.8.answers.2.text:Včasih je vstopil, ne da bi se kdo v hiši zavedal njegovega prihoda
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:13629.0
+passage.questions.8.answers.1.text:Prepir je bil predhodnik Margaretine odhoda do Brentove skale
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:13628.0
+passage.questions.8.answers.0.text:Nepričakovano skozi zasebna vrata
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:13627.0
+passage.questions.7.question:Kdo je imel ključ do zasebnih vrat?
+passage.questions.7.idx:2586.0
+passage.questions.7.answers.3.text:Geoffrey Brent
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:13626.0
+passage.questions.7.answers.2.text:Wykham
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:13625.0
+passage.questions.7.answers.1.text:Brent
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:13624.0
+passage.questions.7.answers.0.text:Prijatelji
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:13623.0
+passage.questions.6.question:Komu je Margaret po hudem prepiru z bratom pobegnila?
+passage.questions.6.idx:2585.0
+passage.questions.6.answers.2.text:Geoffrey Brent
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:13622.0
+passage.questions.6.answers.1.text:London
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:13621.0
+passage.questions.6.answers.0.text:Predsednik
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:13620.0
+passage.questions.5.question:Kako se Wykham in Margaret poznata?
+passage.questions.5.idx:2584.0
+passage.questions.5.answers.1.text:Bila sta brat in sestra
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:13619.0
+passage.questions.5.answers.0.text:Bila sta prijatelja
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:13618.0
+passage.questions.4.question:Je Margaret ostro ogrozila Wykham pred ali po ukazu, naj zapusti hišo?
+passage.questions.4.idx:2583.0
+passage.questions.4.answers.2.text:Po
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:13617.0
+passage.questions.4.answers.1.text:Po ukazu, naj zapusti hišo
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:13616.0
+passage.questions.4.answers.0.text:Preden mu je bilo ukazano zapustiti hišo
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:13615.0
+passage.questions.3.question:Kako je prvo ime sestre Wykham Delandre?
+passage.questions.3.idx:2582.0
+passage.questions.3.answers.1.text:Geoffrey
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13614.0
+passage.questions.3.answers.0.text:Margaret
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:13613.0
+passage.questions.2.question:Kako je ime sestri Wykham Delandre?
+passage.questions.2.idx:2581.0
+passage.questions.2.answers.1.text:Geoffrey Brent
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:13612.0
+passage.questions.2.answers.0.text:Njeno ime je Margaret
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13611.0
+passage.questions.17.question:Je bilo nenavadno, da je Brent po dolgi odsotnosti uporabljal zasebna vrata svojega bivališča?
+passage.questions.17.idx:2596.0
+passage.questions.17.answers.1.text:Da, to je bil njegov običajni način pojavljanja po daljši odsotnosti
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:13658.0
+passage.questions.17.answers.0.text:Ne
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:13657.0
+passage.questions.16.question:Ali sta Wykham in Margaret skoraj že udarila pred ali po njej, ko je šla na Brent&#39;s Rock?
+passage.questions.16.idx:2595.0
+passage.questions.16.answers.2.text:Preden je odšla na Brent&#39;s Rock
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:13656.0
+passage.questions.16.answers.1.text:Prej
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:13655.0
+passage.questions.16.answers.0.text:Potem ko je odšla na Brent&#39;s Rock
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:13654.0
+passage.questions.15.question:Kdo je lastnik The Rocka?
+passage.questions.15.idx:2594.0
+passage.questions.15.answers.1.text:Geoffrey Brent
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:13653.0
+passage.questions.15.answers.0.text:Wykham Delandre
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:13652.0
+passage.questions.14.question:Kje je živela Margaret, preden se je nastanila na skali?
+passage.questions.14.idx:2593.0
+passage.questions.14.answers.3.text:Hiša njenega brata
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:13651.0
+passage.questions.14.answers.2.text:Brentova skala
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:13650.0
+passage.questions.14.answers.1.text:Naročeno
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:13649.0
+passage.questions.14.answers.0.text:Z bratom Wykhamom Delandrejem
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:13648.0
+passage.questions.13.question:Katere navade Geoffreyja Brenta ga naredijo nepredvidljivega?
+passage.questions.13.idx:2592.0
+passage.questions.13.answers.2.text:Včasih je vstopil, ne da bi se kdo v hiši zavedal njegovega prihoda
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:13647.0
+passage.questions.13.answers.1.text:Nepričakovano je prišel domov in se nikomur povedal v zasebna vrata
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:13646.0
+passage.questions.13.answers.0.text:Celotna soseska je pred nočjo vedela, da se je nastanila v Skalu
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:13645.0
+passage.questions.12.question:Kdo je imel ključ?
+passage.questions.12.idx:2591.0
+passage.questions.12.answers.3.text:Geoffrey Brent
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:13644.0
+passage.questions.12.answers.2.text:Plenilec
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:13643.0
+passage.questions.12.answers.1.text:Brent
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:13642.0
+passage.questions.12.answers.0.text:Margaret
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:13641.0
+passage.questions.11.question:Kdo so bili liki v zgodbi?
+passage.questions.11.idx:2590.0
+passage.questions.11.answers.3.text:Wykham Delandre, Margaret in Geoffrey Brent
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:13640.0
+passage.questions.11.answers.2.text:Wykham, Margaret in Brent
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:13639.0
+passage.questions.11.answers.1.text:Osebne stvari
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:13638.0
+passage.questions.11.answers.0.text:Sestra
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:13637.0
+passage.questions.10.question:Kaj se je zgodilo, preden je Margaret odšla k Geoffreyju?
+passage.questions.10.idx:2589.0
+passage.questions.10.answers.2.text:Prag, ki ga je za trenutek ustavila, da je Wykhamu vrgla grenko grožnjo, da bo do zadnje ure svojega življenja obžaloval sramoto in obup
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:13636.0
+passage.questions.10.answers.1.text:Z bratom Wykhamom sta se sprla
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:13635.0
+passage.questions.10.answers.0.text:Margaret se je sprla s svojim bratom Wykhamom Delandrejem
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:13634.0
+passage.questions.1.question:Kdo je tista oseba, ki bi lahko rešila vse dvome samo s posegom?
+passage.questions.1.idx:2580.0
+passage.questions.1.answers.3.text:Geoffrey Brent
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:13610.0
+passage.questions.1.answers.2.text:Ena oseba
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:13609.0
+passage.questions.1.answers.1.text:Margaret
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13608.0
+passage.questions.1.answers.0.text:Wykham Delandre
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13607.0
+passage.questions.0.question:Kakšno dejanje je Margaret rekla, da bo Wykham ubogal do zadnjega dne svojega življenja?
+passage.questions.0.idx:2579
+passage.questions.0.answers.3.text:V soseski so razumeli, da je Margaret odšla v London
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:13606.0
+passage.questions.0.answers.2.text:Vrgel svojo sestro iz hiše
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:13605.0
+passage.questions.0.answers.1.text:Sprehod iz hiše
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13604
+passage.questions.0.answers.0.text:Za trenutek se je ustavila, da bi Wykhamu vrgla grenko grožnjo, da bo do sramote in obupa do zadnje ure svojega življenja obdržal svoje dejanje tistega dne.
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:13603
+idx:231

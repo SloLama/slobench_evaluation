@@ -1,0 +1,6 @@
+choice1:Knjižničarja sem prosil za pomoč.
+choice2:Knjiga je bila izposojena.
+idx:384
+label:0
+premise:Knjižničar je našel knjigo v enem izmed kupov.
+question:cause

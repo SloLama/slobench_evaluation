@@ -1,0 +1,156 @@
+version:1.1
+passage.text:Film je postavljen v Igloolik v vzhodni arktični puščavi na začetku prvega tisočletja. http://atanarjuat.com/legend/legend_film.php Veter piha nad mračno zasneženo pokrajino, medtem ko človek poskuša pregnati nekaj plenilskih psov. Slišimo glas starca, ki poje otročjo pesmico. V kamniti hiši čuden šaman po imenu Tungajuaq, ki prihaja od severa, hudomušno poje zbrani skupnosti in vodji tabora Kumaglak. Toda med gledalci je nekaj nezaupljivih obrazov. Preklopite naprej na drug dan. Qulitalik se poslavlja od sestre Panikpak, žene Kumaglaka, in obljublja, da bo prišel, če bo v srcu poklical pomoč. Daje mu zajčjo nogo svojega moža za duhovno moč. Qulitalik reče svoji sestri: &quot;Tulimaq je tista, za katero bodo šli zdaj. &#39;&#39; Zdi se, da Qulitalik odhaja, da bi se izognil grožnji, in upanje je, da se bo nekega dne vrnil na pomoč. Ko ga Panikpak opazuje, kako odhaja, ženska zasliši glas: »Nikoli nismo vedeli, kaj je bil ali zakaj se je to zgodilo. Zlo je prišlo k nam kot smrt. Samo zgodilo se je in morali smo živeti s tem. &#39;&#39; Ponovno se vrnite na prvotni prizor v kamniti hiši. Obiskovalec in vodja tabora Kumaglak sta v &quot;prijateljskem&quot; duhovnem dvoboju, ki vključuje vezavo na usnjene jermenčke. Toda Panikpak se prestraši, ko se kamnita svetilka pred njo polomi na pol in na grozo prisotnih Kumaglak mrtva pade. Obiskovalec s telesa Kumaglaka odstrani voditeljevo ogrlico iz mroževih zob in mimo Tulimaka položi ogrlico okoli vratu Sauri, sinu umorjenega vodje Kumaglaka, rekoč: &quot;Pazi, kaj si želiš.&quot;
+passage.questions.9.question:Je Qulitalik zapustil sestro Panikpak?
+passage.questions.9.idx:1966.0
+passage.questions.9.answers.1.text:Da
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:10224.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:10223.0
+passage.questions.8.question:Kdo daje svojemu bratu zajčje stopalo moža?
+passage.questions.8.idx:1965.0
+passage.questions.8.answers.1.text:Kumaglak
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:10222.0
+passage.questions.8.answers.0.text:Panikpak
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:10221.0
+passage.questions.7.question:Kaj je Panikpak podarila svojemu možu?
+passage.questions.7.idx:1964.0
+passage.questions.7.answers.2.text:Zajčje stopalo
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:10220.0
+passage.questions.7.answers.1.text:Štirilistna detelja
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:10219.0
+passage.questions.7.answers.0.text:Duhovna moč
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:10218.0
+passage.questions.6.question:V čem sodeluje, preden Kumaglak umre?
+passage.questions.6.idx:1963.0
+passage.questions.6.answers.2.text:Prijateljski duhovni dvoboj
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:10217.0
+passage.questions.6.answers.1.text:Duhovni dvoboj
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:10216.0
+passage.questions.6.answers.0.text:Igra na srečo
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:10215.0
+passage.questions.5.question:Ali ima Qulitalik brata ali sestro?
+passage.questions.5.idx:1962.0
+passage.questions.5.answers.2.text:Iz besedila ni jasno
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:10214.0
+passage.questions.5.answers.1.text:Brat
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:10213.0
+passage.questions.5.answers.0.text:Sestra
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:10212.0
+passage.questions.4.question:Kaj je bil eden od Kumaglakovih naklonov?
+passage.questions.4.idx:1961.0
+passage.questions.4.answers.1.text:Veliki duhovnik
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:10211.0
+passage.questions.4.answers.0.text:Vodja tabora
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:10210.0
+passage.questions.3.question:Kaj se je zgodilo s Kumaglakom?
+passage.questions.3.idx:1960.0
+passage.questions.3.answers.2.text:Bil je umorjen
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:10209.0
+passage.questions.3.answers.1.text:Izginil je
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:10208.0
+passage.questions.3.answers.0.text:Je umrl
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:10207.0
+passage.questions.2.question:Iz česa je hiša?
+passage.questions.2.idx:1959.0
+passage.questions.2.answers.2.text:Zavedite se
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:10206.0
+passage.questions.2.answers.1.text:Kamen
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:10205.0
+passage.questions.2.answers.0.text:Adobe
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:10204.0
+passage.questions.14.question:Kdo je bil Sauri?
+passage.questions.14.idx:1971.0
+passage.questions.14.answers.2.text:Sin umorjenega voditelja Kumaglaka
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:10239.0
+passage.questions.14.answers.1.text:Njen prvi mož
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:10238.0
+passage.questions.14.answers.0.text:Atta-jeve osebnosti
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:10237.0
+passage.questions.13.question:Kako je ime vodji tabora?
+passage.questions.13.idx:1970.0
+passage.questions.13.answers.2.text:Tungajuaq
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:10236.0
+passage.questions.13.answers.1.text:Kumaglak
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:10235.0
+passage.questions.13.answers.0.text:Zaobljuba
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:10234.0
+passage.questions.12.question:V tisti zasneženi pokrajini, kaj so slišali?
+passage.questions.12.idx:1969.0
+passage.questions.12.answers.2.text:Slišali so glas starca, ki je pel otroško pesmico
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:10233.0
+passage.questions.12.answers.1.text:Psi
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:10232.0
+passage.questions.12.answers.0.text:Govedo
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:10231.0
+passage.questions.11.question:Kako se imenuje starec, ki poje otročjo pesmico?
+passage.questions.11.idx:1968.0
+passage.questions.11.answers.2.text:Tungajuaq
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:10230.0
+passage.questions.11.answers.1.text:Kumaglak
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:10229.0
+passage.questions.11.answers.0.text:Peklenski ogenj
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:10228.0
+passage.questions.10.question:Je obiskovalec kdaj komuniciral s Kumaglakom?
+passage.questions.10.idx:1967.0
+passage.questions.10.answers.2.text:Da
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:10227.0
+passage.questions.10.answers.1.text:Ne
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:10226.0
+passage.questions.10.answers.0.text:Prijatelji
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:10225.0
+passage.questions.1.question:Je skupnost nekoč pela?
+passage.questions.1.idx:1958.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:10203.0
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:10202.0
+passage.questions.0.question:Kaj je spletno mesto filma?
+passage.questions.0.idx:1957
+passage.questions.0.answers.2.text:Www.imdb.com
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10201.0
+passage.questions.0.answers.1.text:Http://atanarjuat.com/legend/legend_film.php
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:10200
+passage.questions.0.answers.0.text:\
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:10199
+idx:178

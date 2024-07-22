@@ -1,0 +1,444 @@
+version:1.1
+passage.text:Uvodni posnetek filma prikazuje Kuntija, ki moli za zaščito Gospoda Krišne za Pandave. Lord Krišna tolaži Kuntija in obljublja, da bo Pandave kdaj zaščitil in jih vodil skozi težave in težave, ki se lahko pojavijo v življenju. Sinova potomcev Panduja in Dhritarashtre se prepirata. Ko Duryodhana Pandave žali kot &quot;vzdrževane družine&quot;, Bheema nasprotuje, češ da so Kaurave potomci vdove. Duryodhana prosi Vedo Vyaso za pojasnilo. Nato mu povedo, da je Gandhari, ki je imela astrološko napako, najprej poročena s kozo, nato pa še z njegovim očetom. Duryodhana si pridobi sovražnost do kraljestva Gandhara, kjer vlada kralj, oče njegove matere Gandhari. Napadne Gandharo in uniči celo kraljestvo. On zapre kraljevo družino v svoj zapor. Na zapornika jim da samo eno riževo zrno. Nato kralj Gandhare prepreči, da bi vsi pobrali malo hrane, ki je na voljo. Pravi, da bi lahko, namesto da bi vsi umrli, obdržali vsaj enega svojih knezov pri življenju. Izbere Sakunija za živega. Sakuni je prisegel, da bo naredil vse, da bo uničil celoten klan Kaurava. Iz očetove hrbtenjače dela čarobne kocke. Čarobne kocke kažejo natančno tisto številko, ki bi si jo želel. Duryodhana se usmili osamljenega ujetnika, Sakuni, potem ko preostala kraljeva družina Gandhara umre v zaporu zaradi lakote. Sakuni se pridruži zlu koterij Duryodhane, Karne in Dushyasane.
+passage.questions.9.question:Kdo je mati Duryodhane?
+passage.questions.9.idx:3674.0
+passage.questions.9.answers.4.text:Gandhari
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:19511.0
+passage.questions.9.answers.3.text:Mary
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:19510.0
+passage.questions.9.answers.2.text:Kunti
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:19509.0
+passage.questions.9.answers.1.text:Sakuni
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:19508.0
+passage.questions.9.answers.0.text:Kaurava
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:19507.0
+passage.questions.8.question:Kako je ime moškemu, ki je podlegel Edvininim čarom in med safarijem rešil svojega moža pred tigrom, ki jedo človeka?
+passage.questions.8.idx:3673.0
+passage.questions.8.answers.5.text:Bheema
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:19506.0
+passage.questions.8.answers.4.text:karnan
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:19505.0
+passage.questions.8.answers.3.text:Se ne uporablja
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:19504.0
+passage.questions.8.answers.2.text:Krišnan
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:19503.0
+passage.questions.8.answers.1.text:Rob
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:19502.0
+passage.questions.8.answers.0.text:Ni odgovora
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:19501.0
+passage.questions.7.question:Katerega princa se je kralj Gandhare odločil obdržati in ne umreti?
+passage.questions.7.idx:3672.0
+passage.questions.7.answers.8.text:karnan
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:19500.0
+passage.questions.7.answers.7.text:Lord Krišna
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:19499.0
+passage.questions.7.answers.6.text:Bheeman
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:19498.0
+passage.questions.7.answers.5.text:Sakuni
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:19497.0
+passage.questions.7.answers.4.text:Kralj izbere Sakunija za živega
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:19496.0
+passage.questions.7.answers.3.text:Pridruži se zlim silam
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:19495.0
+passage.questions.7.answers.2.text:Princ Sukuni
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:19494.0
+passage.questions.7.answers.1.text:Karna
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:19493.0
+passage.questions.7.answers.0.text:Priseže
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:19492.0
+passage.questions.6.question:Kakšno napako ima mati Duryodhane?
+passage.questions.6.idx:3671.0
+passage.questions.6.answers.6.text:Astrološki
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:19491.0
+passage.questions.6.answers.5.text:Slepi
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:19490.0
+passage.questions.6.answers.4.text:Poročen s kozo
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:19489.0
+passage.questions.6.answers.3.text:Ona je koza
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:19488.0
+passage.questions.6.answers.2.text:Astronomska napaka
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:19487.0
+passage.questions.6.answers.1.text:Prizadet
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:19486.0
+passage.questions.6.answers.0.text:Astrološka napaka
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:19485.0
+passage.questions.5.question:Kdo moli v uvodnem posnetku filma in ali kdo odgovori na njegove molitve?
+passage.questions.5.idx:3670.0
+passage.questions.5.answers.7.text:Gospod Krišna usliša njegove molitve
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:19484.0
+passage.questions.5.answers.6.text:Gandhana moli
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:19483.0
+passage.questions.5.answers.5.text:Kunti moli ob odprtju filma, Lord Krišna pa usliši njegove molitve
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:19482.0
+passage.questions.5.answers.4.text:Kunti moli
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:19481.0
+passage.questions.5.answers.3.text:Njegove molitve niso uslišane
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:19480.0
+passage.questions.5.answers.2.text:Bheema moli
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:19479.0
+passage.questions.5.answers.1.text:kunti, ki molijo gospoda Krišne
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:19478.0
+passage.questions.5.answers.0.text:Duryodhanan moli karnana
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:19477.0
+passage.questions.4.question:Koga se kralj Gandhare odloči, da bo ostal živ?
+passage.questions.4.idx:3669.0
+passage.questions.4.answers.7.text:On sam
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:19476.0
+passage.questions.4.answers.6.text:Pridruži se silam zla
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:19475.0
+passage.questions.4.answers.5.text:Njegova žena
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:19474.0
+passage.questions.4.answers.4.text:Sakuni
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:19473.0
+passage.questions.4.answers.3.text:Duryodhana
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:19472.0
+passage.questions.4.answers.2.text:Princ Sukuni
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19471.0
+passage.questions.4.answers.1.text:Karna
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:19470.0
+passage.questions.4.answers.0.text:Priseže
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:19469.0
+passage.questions.3.question:Kdo dela kocke iz očetove hrbtenjače in ali zvrne pravo številko?
+passage.questions.3.idx:3668.0
+passage.questions.3.answers.8.text:Bheema
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:19468.0
+passage.questions.3.answers.7.text:Gandharijev sin
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:19467.0
+passage.questions.3.answers.6.text:karna
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:19466.0
+passage.questions.3.answers.5.text:Sakuni naredi kocke in vržejo točno tisto številko, ki bi jo želel
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:19465.0
+passage.questions.3.answers.4.text:Sakuni
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:19464.0
+passage.questions.3.answers.3.text:Duryodhana
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:19463.0
+passage.questions.3.answers.2.text:Sakuni naredi kocke
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19462.0
+passage.questions.3.answers.1.text:Kocka vrže tisto, kar kdaj misli sakuni
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:19461.0
+passage.questions.3.answers.0.text:Izbrani princ
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:19460.0
+passage.questions.2.question:Kakšno razlago Veda Vyasa daje Duryodhani?
+passage.questions.2.idx:3667.0
+passage.questions.2.answers.6.text:Gandhari je imel astrološko napako, najprej je poročena s kozlom in nato poročena z njegovim očetom
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:19459.0
+passage.questions.2.answers.5.text:Njegova mati Gandhari je imela astrološko napako
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:19458.0
+passage.questions.2.answers.4.text:Njegova mati Gandhari je imela astrološko napako, kar pomeni, da je najprej poročena s kozlom in nato poročena z njegovim očetom
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:19457.0
+passage.questions.2.answers.3.text:ubiti vsakega na njegovi poti
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:19456.0
+passage.questions.2.answers.2.text:Najprej je poročena s kozlom, nato pa še z njegovim očetom
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:19455.0
+passage.questions.2.answers.1.text:Njegova mati je koza
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19454.0
+passage.questions.2.answers.0.text:Je &quot;odvisen&quot;
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:19453.0
+passage.questions.17.question:Kdo se odloči, da bo Sakuni živ?
+passage.questions.17.idx:3682.0
+passage.questions.17.answers.7.text:Kralj Gandhare
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:19574.0
+passage.questions.17.answers.6.text:Gandhari
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:19573.0
+passage.questions.17.answers.5.text:karna
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:19572.0
+passage.questions.17.answers.4.text:Gandhara
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:19571.0
+passage.questions.17.answers.3.text:Sakuni
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:19570.0
+passage.questions.17.answers.2.text:Duryodhana
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:19569.0
+passage.questions.17.answers.1.text:Kralj
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:19568.0
+passage.questions.17.answers.0.text:Duryodhanina mati
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:19567.0
+passage.questions.16.question:Kaj Lord Krishna obljublja Kunti, da bo kdaj zaščitil
+passage.questions.16.idx:3681.0
+passage.questions.16.answers.7.text:Daje življenje
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:19566.0
+passage.questions.16.answers.6.text:Pandave
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:19565.0
+passage.questions.16.answers.5.text:Daje zlato
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:19564.0
+passage.questions.16.answers.4.text:Obljublja, da bo pomagal premagati kraljestvo Gandhana
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:19563.0
+passage.questions.16.answers.3.text:Da se maščujem Gandhaniju
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:19562.0
+passage.questions.16.answers.2.text:Da jih vodi skozi težave in težave, ki se lahko pojavijo v življenju
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:19561.0
+passage.questions.16.answers.1.text:Zaščitite Pandave in jih vodite skozi težave in težave
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:19560.0
+passage.questions.16.answers.0.text:Obljublja, da bo kdaj zaščitil Pandave
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:19559.0
+passage.questions.15.question:S čim se hrani kraljeva družina v zaporu?
+passage.questions.15.idx:3680.0
+passage.questions.15.answers.7.text:Praznik
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:19558.0
+passage.questions.15.answers.6.text:Bheeman
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:19557.0
+passage.questions.15.answers.5.text:Riž
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:19556.0
+passage.questions.15.answers.4.text:Duryodhana
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:19555.0
+passage.questions.15.answers.3.text:Vsako po eno zrno
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:19554.0
+passage.questions.15.answers.2.text:Krišnan
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:19553.0
+passage.questions.15.answers.1.text:Veliko hrane
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:19552.0
+passage.questions.15.answers.0.text:Gandhara kralj
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:19551.0
+passage.questions.14.question:Kako je Sakuni preživel zapor?
+passage.questions.14.idx:3679.0
+passage.questions.14.answers.8.text:Zaporniki so združili prejeto hrano in izbrali Sakunija, da jo je prejel. Nato se je Duryodhana usmilil Sakunija, potem ko so ostali zaporniki umrli
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:19550.0
+passage.questions.14.answers.7.text:Bil je izbran
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:19549.0
+passage.questions.14.answers.6.text:Zaplete se v prepir
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:19548.0
+passage.questions.14.answers.5.text:Iz očetove hrbtenjače je izdeloval čarobne kocke
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:19547.0
+passage.questions.14.answers.4.text:Gandhara mu da vso hrano
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:19546.0
+passage.questions.14.answers.3.text:Tekel je zelo hitro
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:19545.0
+passage.questions.14.answers.2.text:Pretihotapil iz
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:19544.0
+passage.questions.14.answers.1.text:Prisegel je, da bo uničil klan Kaurava
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:19543.0
+passage.questions.14.answers.0.text:Izbran je bil, da bo živ
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:19542.0
+passage.questions.13.question:Kdo zapušča kraljestvo in kaj počne po njem?
+passage.questions.13.idx:3678.0
+passage.questions.13.answers.9.text:Gandhaha
+passage.questions.13.answers.9.label:0,0
+passage.questions.13.answers.9.idx:19541.0
+passage.questions.13.answers.8.text:Bheema
+passage.questions.13.answers.8.label:0,0
+passage.questions.13.answers.8.idx:19540.0
+passage.questions.13.answers.7.text:Vsakega je ubil
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:19539.0
+passage.questions.13.answers.6.text:Duryodhana pušča kraljestvo Gandhara
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:19538.0
+passage.questions.13.answers.5.text:Sakuni
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:19537.0
+passage.questions.13.answers.4.text:Vsakemu zaporniku da po eno zrno riža
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:19536.0
+passage.questions.13.answers.3.text:Naredi čarobne kocke iz očetove hrbtenjače
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:19535.0
+passage.questions.13.answers.2.text:Duryodhana
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:19534.0
+passage.questions.13.answers.1.text:Duryodhana odloži kraljestvo in kraljevo družino zapre
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:19533.0
+passage.questions.13.answers.0.text:Zaprl je kralja
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:19532.0
+passage.questions.12.question:Kateri član družine Gandhara se pridruži Duryodhani, Karni in Dushyasani, potem ko je preživel zapor?
+passage.questions.12.idx:3677.0
+passage.questions.12.answers.4.text:Pandu
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:19531.0
+passage.questions.12.answers.3.text:Gandhari
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:19530.0
+passage.questions.12.answers.2.text:Sakuni
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:19529.0
+passage.questions.12.answers.1.text:Dhritarashtra
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:19528.0
+passage.questions.12.answers.0.text:Darth Vader
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:19527.0
+passage.questions.11.question:Kaj Duryodhana počne s kraljevo družino, potem ko si pridobi sovražnost in napade kraljestvo Gandhara?
+passage.questions.11.idx:3676.0
+passage.questions.11.answers.7.text:Prireja pojedino
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:19526.0
+passage.questions.11.answers.6.text:Z njimi se spoprijatelji
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:19525.0
+passage.questions.11.answers.5.text:Pobil je vse
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:19524.0
+passage.questions.11.answers.4.text:Zapre jih v svoj zapor
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:19523.0
+passage.questions.11.answers.3.text:Na zapornika jim da samo eno riževo zrno
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:19522.0
+passage.questions.11.answers.2.text:Zapre jih
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:19521.0
+passage.questions.11.answers.1.text:Pustil jih je na prosto
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:19520.0
+passage.questions.11.answers.0.text:Daje jim samo eno zrno riža
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:19519.0
+passage.questions.10.question:Kdo je napadel kraljestvo Gandhara?
+passage.questions.10.idx:3675.0
+passage.questions.10.answers.6.text:Bheema
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:19518.0
+passage.questions.10.answers.5.text:Sin Gandharija
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:19517.0
+passage.questions.10.answers.4.text:Sukuni
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:19516.0
+passage.questions.10.answers.3.text:Sakuni
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:19515.0
+passage.questions.10.answers.2.text:Duryodhana
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:19514.0
+passage.questions.10.answers.1.text:Princ iz Grandare
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:19513.0
+passage.questions.10.answers.0.text:krišna
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:19512.0
+passage.questions.1.question:Je Sakuni princ?
+passage.questions.1.idx:3666.0
+passage.questions.1.answers.5.text:Kmečki je
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:19452.0
+passage.questions.1.answers.4.text:Begger
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:19451.0
+passage.questions.1.answers.3.text:Princ Gandare
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:19450.0
+passage.questions.1.answers.2.text:Da
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:19449.0
+passage.questions.1.answers.1.text:Ne
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:19448.0
+passage.questions.1.answers.0.text:Prijatelj
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:19447.0
+passage.questions.0.question:Zakaj Duryodhana napade Gandharo?
+passage.questions.0.idx:3665
+passage.questions.0.answers.6.text:Je oče svoje matere
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:19446.0
+passage.questions.0.answers.5.text:Žaljiv je, da ga imenujejo &quot;odvisnik&quot;
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:19445.0
+passage.questions.0.answers.4.text:Duryodhani povedo, da je imela njegova mati Gandhari astrološko napako, zato je najprej poročena s kozo, preden se je poročila z njegovim očetom. To krepi sovražnost Duryodhane do Gandhare, ki ji vlada oče njegove matere
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:19444.0
+passage.questions.0.answers.3.text:Ne mara gandhare
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:19443.0
+passage.questions.0.answers.2.text:Njegova mati ima astrološko napako
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:19442.0
+passage.questions.0.answers.1.text:Bheema pravi, da so kaurave potomci vdove
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:19441
+passage.questions.0.answers.0.text:Njegova žena je koza
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19440
+idx:322

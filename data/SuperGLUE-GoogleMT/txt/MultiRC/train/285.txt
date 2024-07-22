@@ -1,0 +1,399 @@
+version:1.1
+passage.text:(CNN) - Program ameriškega vesoljskega plovila se je leta 2011 upokojil, ameriški astronavti pa so stopirali v orbito. Toda po dolgih treh letih je Nasin naslednik že skoraj pripravljen vstopiti. Orion, najnovejša vesoljska ladja s posadko, se pripravlja na prvo misijo decembra. V prihodnjih misijah bo potoval v globok vesolje - na Mars in naprej - dlje, kot so ljudje kdaj koli prej. Orion je napolnjen s presežniki. Ponaša se z največjim toplotnim ščitom doslej in računalnikom 400-krat hitrejšim od tistih na vesoljskih plovilih. V vesolje ga bodo izstrelili z najmočnejšo raketo, ki jo je doslej naredila NASA. Na decembrskem letu ne bo nobenega astronavta, ki bo preizkusil sisteme vesoljskih plovil za prihodnje misije s posadko. V vesoljskem centru Kennedy na Floridi potekajo zaključna dela na vesoljskem plovilu. Orion se je ta mesec približal zaključku, ko je modul posadke zložil na servisni modul. &quot;Zdaj, ko smo tako blizu izstrelitve, so dela za dokončanje vesoljskih plovil vidna vsak dan,&quot; je v izjavi dejal vodja programa Orion Mark Geyer. 3.600 kilometrov dolgo potovanje Ko bo končana, bo kapsula Orion podobna ograjni foliji z visokim špirom, ki strelja z zaobljenega dna. Na vrhu bo sedel sistem za prekinitev izstrelitve z navzdol obrnjenimi potisniki, ki bi posadko v primeru okvare rakete rešili posadke. Spodnji del, servisni modul, bo opravljal različne funkcije, kot sta pogon v vesolju in shranjevanje tovora. Med obema bo modul posadke, ki lahko podpira človeško življenje od izstrelitve do okrevanja. Na servisni modul bo pritrjena raketa United IV Launch Alliance Delta IV Heavy. Prvič po prvem izstrelitvi vesoljskega plovila leta 1981 bo prostor za posadko vozil na konici rakete, namesto da bi visel na boku, kar bo opozorilo na konfiguracijo slavnih misij Apollo ali Gemini.
+passage.questions.9.question:Kako se imenuje nova vesoljska ladja NASA?
+passage.questions.9.idx:3227.0
+passage.questions.9.answers.4.text:Apolon
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:17048.0
+passage.questions.9.answers.3.text:Vesoljsko plovilo
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:17047.0
+passage.questions.9.answers.2.text:Delta IV
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:17046.0
+passage.questions.9.answers.1.text:Orion
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:17045.0
+passage.questions.9.answers.0.text:Gemeni
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:17044.0
+passage.questions.8.question:Kaj vključuje sistem za prekinitev?
+passage.questions.8.idx:3226.0
+passage.questions.8.answers.6.text:Opravljal bo različne funkcije, kot sta pogon v vesolju in skladiščenje tovora
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:17043.0
+passage.questions.8.answers.5.text:Na vrhu ladje bo nameščen sistem za prekinitev izstrelitve z navzdol obrnjenimi potisniki, ki bi posadko v primeru okvare rakete rešili posadko pred trkom.
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:17042.0
+passage.questions.8.answers.4.text:Tristerji, obrnjeni navzdol
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:17041.0
+passage.questions.8.answers.3.text:Blaženje posadke
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:17040.0
+passage.questions.8.answers.2.text:Sistem za prekinitev z navzdol obrnjenimi potisniki, ki bi posadko rešili pred trkom v primeru okvare rakete
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:17039.0
+passage.questions.8.answers.1.text:Skladiščenje tovora
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:17038.0
+passage.questions.8.answers.0.text:Potisniki
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:17037.0
+passage.questions.7.question:Kakšen bo decembrski preizkus leta?
+passage.questions.7.idx:3225.0
+passage.questions.7.answers.3.text:Hitrost vesoljskega plovila
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:17036.0
+passage.questions.7.answers.2.text:Ameriški astronavti naj stopirajo v orbito
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:17035.0
+passage.questions.7.answers.1.text:Sistemi vesoljskih plovil za prihodnje misije s posadko
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:17034.0
+passage.questions.7.answers.0.text:Prednost vožnje na konici raketarja kot bočni
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:17033.0
+passage.questions.6.question:Kaj je pomembno pri Orionu?
+passage.questions.6.idx:3224.0
+passage.questions.6.answers.9.text:Potuje lahko 3.600 milj
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:17032.0
+passage.questions.6.answers.8.text:Ima največji toplotni ščit
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:17031.0
+passage.questions.6.answers.7.text:Orion ima največji toplotno zaščito doslej in računalnik 400-krat hitrejši od tistih na vesoljskih plovilih, v vesolje pa bo izstreljen z najmočnejšo raketo, ki jo je kdajkoli naredila NASA
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:17030.0
+passage.questions.6.answers.6.text:Astronavtom vrne, da so na vrhu rakete
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:17029.0
+passage.questions.6.answers.5.text:Prostor za posadko bo raje vozil na konici rakete, ne pa da bo visel na boku, kar bo opozorilo na konfiguracijo slavnih misij Apollo ali Gemini
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:17028.0
+passage.questions.6.answers.4.text:Njegov računalnik je manj kot 400-krat hitrejši od prevoza
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:17027.0
+passage.questions.6.answers.3.text:Nasin naslednik je skoraj pripravljen na vstop
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:17026.0
+passage.questions.6.answers.2.text:Servisni modul lahko izvaja različne funkcije
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:17025.0
+passage.questions.6.answers.1.text:Vozil bo eno najmočnejših raket, ki jih je kdajkoli zasnovala NASA
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:17024.0
+passage.questions.6.answers.0.text:Na njem ne bo noastronavtov
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:17023.0
+passage.questions.5.question:Kaj bo Orion dovolil Nasi in zakaj?
+passage.questions.5.idx:3223.0
+passage.questions.5.answers.8.text:Preizkusite sisteme vesoljskih plovil za prihodnje misije s posadko, ker je to največji toplotno zaščitni kdajkoli zgrajen in računalnik 400-krat hitrejši od sistemov na vesoljskih plovilih
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:17022.0
+passage.questions.5.answers.7.text:V globok vesolje
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:17021.0
+passage.questions.5.answers.6.text:Potujte izven Marsa
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:17020.0
+passage.questions.5.answers.5.text:Štopi
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:17019.0
+passage.questions.5.answers.4.text:Nasi bo omogočilo potovanje v globoki vesolj, ker je nabito s presežniki
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:17018.0
+passage.questions.5.answers.3.text:Preskusni sistemi
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:17017.0
+passage.questions.5.answers.2.text:Rešite posadko pred nesrečo
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:17016.0
+passage.questions.5.answers.1.text:Dlje kot kdaj koli prej
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:17015.0
+passage.questions.5.answers.0.text:Orion je napolnjen s presežniki
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:17014.0
+passage.questions.4.question:Kakšna raketa bo Orion izstrelila v vesolje?
+passage.questions.4.idx:3222.0
+passage.questions.4.answers.4.text:Dvojčka
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:17013.0
+passage.questions.4.answers.3.text:Apolon
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:17012.0
+passage.questions.4.answers.2.text:Nasina najmanj zmogljiva raketa
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:17011.0
+passage.questions.4.answers.1.text:United Launch Alliance Delta IV Heavy raketa
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17010.0
+passage.questions.4.answers.0.text:Servisni modul
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:17009.0
+passage.questions.3.question:V katerem letu naj bi izšel Orion?
+passage.questions.3.idx:3221.0
+passage.questions.3.answers.5.text:2018
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:17008.0
+passage.questions.3.answers.4.text:2010
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:17007.0
+passage.questions.3.answers.3.text:2012
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:17006.0
+passage.questions.3.answers.2.text:2014
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:17005.0
+passage.questions.3.answers.1.text:2011
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:17004.0
+passage.questions.3.answers.0.text:Tri leta
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:17003.0
+passage.questions.20.question:Kam bo potoval Orion?
+passage.questions.20.idx:3238.0
+passage.questions.20.answers.5.text:V globok vesolje
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:17105.0
+passage.questions.20.answers.4.text:Na 3.600 milj potovanja
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:17104.0
+passage.questions.20.answers.3.text:Vesolje
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:17103.0
+passage.questions.20.answers.2.text:Vesoljski center Kennedy
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:17102.0
+passage.questions.20.answers.1.text:Mars
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:17101.0
+passage.questions.20.answers.0.text:Dlje kot kdorkoli prej
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:17100.0
+passage.questions.2.question:Koliko hitrejši je Orionov računalnik do računalnika vesoljske ladje?
+passage.questions.2.idx:3220.0
+passage.questions.2.answers.3.text:400-krat hitreje
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:17002.0
+passage.questions.2.answers.2.text:400 milj
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:17001.0
+passage.questions.2.answers.1.text:400-krat
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:17000.0
+passage.questions.2.answers.0.text:3.600
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:16999.0
+passage.questions.19.question:Kdaj je prva naloga Oriona in kaj bo preizkusil?
+passage.questions.19.idx:3237.0
+passage.questions.19.answers.6.text:Decembrski polet, ki bo preizkusil sisteme vesoljskih plovil za prihodnje misije s posadko
+passage.questions.19.answers.6.label:1.0
+passage.questions.19.answers.6.idx:17099.0
+passage.questions.19.answers.5.text:Raziskovanje globokega vesolja
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:17098.0
+passage.questions.19.answers.4.text:Njegova prva misija je decembra in bo preizkusila sisteme vesoljskih plovil za prihodnje misije s posadko
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:17097.0
+passage.questions.19.answers.3.text:Mesec pred decembrom, sistemi vesoljskih plovil
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:17096.0
+passage.questions.19.answers.2.text:3.600 milj poti
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:17095.0
+passage.questions.19.answers.1.text:2011
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:17094.0
+passage.questions.19.answers.0.text:Potoval bo v globok vesolje - do Marsa in naprej
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:17093.0
+passage.questions.18.question:Ali bo na decembrskem letu NASA-jeve najnovejše vesoljske ladje s posadko kdo astronavt?
+passage.questions.18.idx:3236.0
+passage.questions.18.answers.3.text:Ameriški astronavti naj stopirajo v orbito
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:17092.0
+passage.questions.18.answers.2.text:Na krovu ne bo nobenega astronavta
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:17091.0
+passage.questions.18.answers.1.text:Da
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:17090.0
+passage.questions.18.answers.0.text:Ne
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:17089.0
+passage.questions.17.question:Koliko let je bil v uporabi prejšnji vesoljski shuttle?
+passage.questions.17.idx:3235.0
+passage.questions.17.answers.5.text:3.
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:17088.0
+passage.questions.17.answers.4.text:30 let, od 1981 do 2011
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:17087.0
+passage.questions.17.answers.3.text:35
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:17086.0
+passage.questions.17.answers.2.text:2011
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:17085.0
+passage.questions.17.answers.1.text:Tri leta
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:17084.0
+passage.questions.17.answers.0.text:11.
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:17083.0
+passage.questions.16.question:S čim je naložena najnovejša vesoljska ladja agencije?
+passage.questions.16.idx:3234.0
+passage.questions.16.answers.5.text:Astronavti
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:17082.0
+passage.questions.16.answers.4.text:Superlativi
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:17081.0
+passage.questions.16.answers.3.text:Računalnik 400-krat hitrejši od shuttlea
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:17080.0
+passage.questions.16.answers.2.text:Ograjna folija
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:17079.0
+passage.questions.16.answers.1.text:Največji toplotno zaščitni kdajkoli zgrajen
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:17078.0
+passage.questions.16.answers.0.text:Manjši toplotni ščit v primerjavi s prejšnjim shuttleom
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:17077.0
+passage.questions.15.question:Na kateri del vesoljske ladje bo pritrjena raketa United Launch Alliance Delta IV Heavy?
+passage.questions.15.idx:3233.0
+passage.questions.15.answers.4.text:Spodnji del
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:17076.0
+passage.questions.15.answers.3.text:Zagon sistema za prekinitev
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:17075.0
+passage.questions.15.answers.2.text:Servisni modul
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:17074.0
+passage.questions.15.answers.1.text:Modul posadke
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:17073.0
+passage.questions.15.answers.0.text:Prekini sistem
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:17072.0
+passage.questions.14.question:Koliko časa je minilo od prvega izstrelitve Oriona?
+passage.questions.14.idx:3232.0
+passage.questions.14.answers.4.text:(ob predpostavki, da bo ta test opravljen leta 2018) 3 leta
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:17071.0
+passage.questions.14.answers.3.text:Tri dolga leta
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:17070.0
+passage.questions.14.answers.2.text:6 let
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:17069.0
+passage.questions.14.answers.1.text:2011
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:17068.0
+passage.questions.14.answers.0.text:30 let v letu 2011
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:17067.0
+passage.questions.13.question:Naslednik NASA -ine Space Shuttle ima prvo poslanstvo v katerem mesecu?
+passage.questions.13.idx:3231.0
+passage.questions.13.answers.2.text:December
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:17066.0
+passage.questions.13.answers.1.text:2011
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:17065.0
+passage.questions.13.answers.0.text:Ni jasno
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:17064.0
+passage.questions.12.question:Koliko astronavtov bo na prvi misiji Oriona?
+passage.questions.12.idx:3230.0
+passage.questions.12.answers.4.text:3.600
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:17063.0
+passage.questions.12.answers.3.text:Tri
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:17062.0
+passage.questions.12.answers.2.text:0
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:17061.0
+passage.questions.12.answers.1.text:Na krovu bo veliko astronavtov
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:17060.0
+passage.questions.12.answers.0.text:Nič
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:17059.0
+passage.questions.11.question:Kako se imenuje Nasin naslednik upokojenega programa vesoljskega plovila iz leta 2011?
+passage.questions.11.idx:3229.0
+passage.questions.11.answers.4.text:Dvojčka
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:17058.0
+passage.questions.11.answers.3.text:Apolon
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:17057.0
+passage.questions.11.answers.2.text:Vesoljsko plovilo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:17056.0
+passage.questions.11.answers.1.text:Delta IV
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:17055.0
+passage.questions.11.answers.0.text:Orion
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:17054.0
+passage.questions.10.question:Med katerima sistemoma ali moduloma se nahaja modul posadke?
+passage.questions.10.idx:3228.0
+passage.questions.10.answers.4.text:Sistem za prekinitev zagona in servisni modul
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:17053.0
+passage.questions.10.answers.3.text:Ograjna folija, z visokim špirom
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:17052.0
+passage.questions.10.answers.2.text:Skladiščenje pogona in tovora
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:17051.0
+passage.questions.10.answers.1.text:LAS in SM
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:17050.0
+passage.questions.10.answers.0.text:Spire in okrogla podlaga
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:17049.0
+passage.questions.1.question:Koliko let je trajal ameriški program vesoljskega prevoza?
+passage.questions.1.idx:3219.0
+passage.questions.1.answers.5.text:3.
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:16998.0
+passage.questions.1.answers.4.text:Tri
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:16997.0
+passage.questions.1.answers.3.text:30.
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:16996.0
+passage.questions.1.answers.2.text:2011
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16995.0
+passage.questions.1.answers.1.text:Trideset
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:16994.0
+passage.questions.1.answers.0.text:11.
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:16993.0
+passage.questions.0.question:Kako dolgo bo potovala najnovejša vesoljska ladja agencije?
+passage.questions.0.idx:3218
+passage.questions.0.answers.4.text:3.600 milj
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:16992.0
+passage.questions.0.answers.3.text:3.600 milj
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:16991.0
+passage.questions.0.answers.2.text:Na Mars
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:16990.0
+passage.questions.0.answers.1.text:Dlje kot kdaj koli prej
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:16989
+passage.questions.0.answers.0.text:400 milj
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:16988
+idx:285

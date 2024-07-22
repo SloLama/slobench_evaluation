@@ -1,0 +1,104 @@
+version:1.1
+passage.text:Pojasnitev zapisa Obramba ameriškega zračnega prostora 11. septembra ni potekala v skladu s predhodnim usposabljanjem in protokoli. Improvizirali so ga civilisti, ki nikoli niso ravnali z ugrabljenim letalom, ki je poskušalo izginiti, in vojska, ki ni bila pripravljena na preobrazbo komercialnih letal v orožje za množično uničevanje. Kot se je izkazalo, so imeli zračni zagovorniki NEADS devet minut predhodnega obvestila o prvem ugrabljenem letalu, predhodnega obvestila niso prejeli za drugega, tretjega in četrtega predhodnega obvestila. Ne verjamemo, da resnična slika tega jutra odraža diskreditacijo operativnega osebja v objektih NEADS ali FAA. Poveljniki in častniki NEADS so aktivno iskali informacije in na podlagi tega, kar so vedeli, najbolje presojali. Posamezni kontrolorji FAA, upravljavci objektov in vodje Komandnega centra so nenavadno priporočali nacionalno opozorilo, zaustavljali lokalni promet na tleh in navsezadnje odločali o pristajanju vseh letal in brezhibno izvrševali to ukaz brez primere. Bolj kot dejanski dogodki so bili zaradi netočnih vladnih poročil o teh dogodkih videti, da je bila vojska pravočasno obveščena, da se je odzvala na dva ugrabitve in sprožila vprašanja o ustreznosti odziva. Ti računi so vplivali na preusmerjanje vprašanj o sposobnosti vojske za pridobivanje pravočasnih in natančnih informacij iz lastnih virov. Poleg tega so precenili zmožnost FAA, da je to jutro vojski zagotovila pravočasne in koristne informacije. V javnem pričevanju pred Komisijo maja 2003 so uradniki NORAD-a navedli, da je NEADS ob 9:16 od FAA prejel obvestilo o ugrabitvi United 93. Ta trditev ni bila pravilna. O ugrabitvi ob 9:16 ni bilo ugrabitve. Takrat je United 93 nadaljeval normalno. V tem istem javnem pričevanju so uradniki NORAD-a navedli, da je NEADS ob 9:24 prejel obvestilo o ugrabitvi ameriškega 77. Ta izjava je bila tudi napačna. Obvestilo, ki ga je NEADS prejel ob 9:24, je bilo, da ameriški 11 ni zadel Svetovnega trgovinskega centra in se odpravlja proti Washingtonu DC. V svojih pričevanjih in v drugih javnih računih so uradniki NORAD-a tudi navedli, da so se Langleyjevi lovci skušali odzvati na obvestila. približno ameriški 77.178 United 93 ali oboje. Tudi te trditve so bile napačne. Borci so bili premešani zaradi poročila, da se ameriška 11 odpravlja proti jugu, kar je razvidno ne samo iz posnetkov pogovorov na NEADS, temveč tudi iz posnetkov pogovorov v centrih FAA; sočasni dnevniki, sestavljeni na NEADS, sedežu celinske regije in NORAD; in druge evidence.
+passage.questions.3.question:Kdo je vodil ameriško zračno obrambo 11. septembra?
+passage.questions.3.idx:2617.0
+passage.questions.3.answers.7.text:Civilisti
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:13791.0
+passage.questions.3.answers.6.text:Upravitelj objekta
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:13790.0
+passage.questions.3.answers.5.text:11 ni bila izvedena v skladu s predhodno obstoječimi
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:13789.0
+passage.questions.3.answers.4.text:Obalna straža
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:13788.0
+passage.questions.3.answers.3.text:Vojska
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:13787.0
+passage.questions.3.answers.2.text:FAA
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:13786.0
+passage.questions.3.answers.1.text:9.
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13785.0
+passage.questions.3.answers.0.text:Kontrolorji FAA, upravniki objektov in vojska
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:13784.0
+passage.questions.2.question:Kdo je 11. septembra koordiniral obrambo zračnega prostora ZDA?
+passage.questions.2.idx:2616.0
+passage.questions.2.answers.7.text:Tako vojaške kot civilne oblasti
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:13783.0
+passage.questions.2.answers.6.text:Krmilniki FAA
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:13782.0
+passage.questions.2.answers.5.text:Zagovorniki
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:13781.0
+passage.questions.2.answers.4.text:NEADS
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:13780.0
+passage.questions.2.answers.3.text:Piloti
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13779.0
+passage.questions.2.answers.2.text:Vojska
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:13778.0
+passage.questions.2.answers.1.text:Upravitelji ukaznega centra
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13777.0
+passage.questions.2.answers.0.text:FAA
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13776.0
+passage.questions.1.question:Kdo je moral pojasniti zapis ameriške obrambe 11. septembra?
+passage.questions.1.idx:2615.0
+passage.questions.1.answers.5.text:Zračni prostor
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:13775.0
+passage.questions.1.answers.4.text:NEADS
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:13774.0
+passage.questions.1.answers.3.text:Državni računi
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:13773.0
+passage.questions.1.answers.2.text:Ameriška vojska
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:13772.0
+passage.questions.1.answers.1.text:FAA
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13771.0
+passage.questions.1.answers.0.text:Obramba zračnega prostora ZDA
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13770.0
+passage.questions.0.question:Kaj je bilo precenjeno glede zaznane neustreznosti vojaškega odziva na 11. september
+passage.questions.0.idx:2614
+passage.questions.0.answers.8.text:Komunikacija FAA
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:13769.0
+passage.questions.0.answers.7.text:Sposobnost FAA, da pravočasno in koristno obvesti vojsko, je bila precenjena
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:13768.0
+passage.questions.0.answers.6.text:Preoblikovanje komercialnih letal v orožje za množično uničevanje
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:13767.0
+passage.questions.0.answers.5.text:NEADS
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:13766.0
+passage.questions.0.answers.4.text:Uničenje
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:13765.0
+passage.questions.0.answers.3.text:Sposobnost FAA, da vojski zagotavlja pravočasne in koristne informacije
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:13764.0
+passage.questions.0.answers.2.text:Hitrost letala
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13763.0
+passage.questions.0.answers.1.text:Protokol ugrabitve
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13762
+passage.questions.0.answers.0.text:FAA
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13761
+idx:234

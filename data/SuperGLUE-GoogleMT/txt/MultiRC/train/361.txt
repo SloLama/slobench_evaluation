@@ -1,0 +1,322 @@
+version:1.1
+passage.text:Tokugawa jemlje vse: Ko je Hideyoshi umrl leta 1598, je upal, da bo njegov petletni sin nadaljeval svojo &quot;dinastijo&quot;, sprva pod taktirko petih regentov. Toda eden od regentov je bil Ieyasu Tokugawa, ki je že 12 let preživljal čas v Edu in gojil lastne dinastične ambicije. Med zvitimi, brezobzirnimi triumvirati, ki so bili na vrhu na koncu stoletja državljanske vojne v državi, je bil Tokugawa nedvomno najbolj potrpežljiv, najbolj preudaren in najbolj zahrbten. Hitro se je odpravil, da bi odpravil svoje najmočnejše tekmece, ki jih je leta 1600 zatrl v veliki bitki pri Sekigahari (blizu sodobne Nagoje). V naslednjih dveh stoletjih in pol vladanja iz nove prestolnice, ustanovljene v Edu, je Tokugawa v strateških oporiščih po vsej državi organiziral tesno nadzorovano koalicijo z okoli 260 daimyoji. Zvestoba tej zelo privilegirani in prestižni skupini je bila zagotovljena z utrjevanjem njihovih etičnih načel v kodeksu bushida, &quot;Pot bojevnika&quot;: zvestoba svojemu gospodarju, obramba svojega statusa in časti ter izpolnjevanje vseh obveznosti. Lojalnost je bila še okrepljena z držanjem vazalnih žena in otrok za talce v Edu. Vse ceste v Edo, najbolj znana je bila avtocesta Tokaido, so imele kontrolne točke za vstop pušk in izhod žena. Eden najučinkovitejših načinov, kako državo držati tesno v rokah, je bil, da jo odrežemo od zunanjega sveta in ohranimo Japonsko Japonsko. Sprva je Ieyasu Tokugawa želel spodbujati zunanjo trgovino. Želel je svile in spodbudil Nizozemce in Britance kot dobre, neprolizujoče protestante, ki jih zanima trgovina. Toda portugalski in španski katoliški misijonarji niso marali, za katere je menil, da spodkopavajo tradicionalne japonske vrednote. Leta 1612 je prepovedal njihovo delovanje, dve leti kasneje pa odredil izgon vseh misijonarjev in nepokesanih japonskih spreobrnjencev. Sledile so usmrtitve in mučenje. Spreobrnjenci so se bili prisiljeni odreči svoji veri z gaženjem križev in podob Jezusa in Marije. Katoliška cerkev je na Japonskem štela 3125 mučenikov od leta 1597 (od začetka Hideyoshija) do leta 1660. Leta 1635 je bilo Japoncem zaradi bolečine v smrti prepovedano potovanje v tujino, japonskim državljanom, ki so že bili v tujini, pa je bilo onemogočeno, da bi se vrnili, če bi vrnil subverzivne krščanske doktrine. Zahodne knjige so bile prepovedane, prav tako kitajske knjige, ki omenjajo krščanstvo.
+passage.questions.9.question:Kdo si je želel svile in spodbudil Nizozemce in Britance kot dobre, ne-prozelitske protestante, ki jih zanima trgovina?
+passage.questions.9.idx:4148.0
+passage.questions.9.answers.6.text:Ieyasu Tokugawa
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:22095.0
+passage.questions.9.answers.5.text:Cesar
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:22094.0
+passage.questions.9.answers.4.text:Vasali
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:22093.0
+passage.questions.9.answers.3.text:španski
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:22092.0
+passage.questions.9.answers.2.text:Portugalski in španski katoliški misijonarji
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:22091.0
+passage.questions.9.answers.1.text:Hideyoshi
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:22090.0
+passage.questions.9.answers.0.text:Portugalščina
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:22089.0
+passage.questions.8.question:Navedite pomemben datum v japonski zgodovini, ki označuje &quot;zaprtje Japonske&quot; za zunanji svet, in navedite tri primere te izolacijske politike.
+passage.questions.8.idx:4147.0
+passage.questions.8.answers.9.text:Japonskim državljanom je bil preprečen odhod iz države
+passage.questions.8.answers.9.label:1.0
+passage.questions.8.answers.9.idx:22087.0
+passage.questions.8.answers.8.text:Spodbujala nizozemsko in britansko trgovino
+passage.questions.8.answers.8.label:0,0
+passage.questions.8.answers.8.idx:22086.0
+passage.questions.8.answers.7.text:1612
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:22085.0
+passage.questions.8.answers.6.text:Gaženje križev in podob Jezusa in Marije
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:22084.0
+passage.questions.8.answers.5.text:Japoncem, ki so bili že v tujini, je bilo preprečeno, da bi prišli domov
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:22083.0
+passage.questions.8.answers.4.text:1635
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:22082.0
+passage.questions.8.answers.3.text:Leta 1635 je bilo japonskim državljanom prepovedano potovanje v tujino in se niso mogli vrniti, če so zunaj Japonske, zahodne knjige pa so bile prepovedane
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:22081.0
+passage.questions.8.answers.2.text:1610; vratarjem v tujini je bilo prepovedano vračanje, državljanom prepoved odhoda v tujino, drugi narodi niso mogli obiskati
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:22080.0
+passage.questions.8.answers.10.text:Japonci so zahodu napovedali vojno
+passage.questions.8.answers.10.label:0,0
+passage.questions.8.answers.10.idx:22088.0
+passage.questions.8.answers.1.text:Prepovedali so kakršno koli zahodno blago
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:22079.0
+passage.questions.8.answers.0.text:Japonski državljani so bili usmrčeni zaradi poskusa odhoda
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:22078.0
+passage.questions.7.question:Koliko regentov tam in koliko jih je imelo lastne ambicije?
+passage.questions.7.idx:4146.0
+passage.questions.7.answers.6.text:6; 2.
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:22077.0
+passage.questions.7.answers.5.text:Tri, ena
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:22076.0
+passage.questions.7.answers.4.text:3.
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:22075.0
+passage.questions.7.answers.3.text:5; 1.
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:22074.0
+passage.questions.7.answers.2.text:1.
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:22073.0
+passage.questions.7.answers.1.text:Od 5 regentov je imel eden Tokugawa svoje ambicije
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:22072.0
+passage.questions.7.answers.0.text:10.
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:22071.0
+passage.questions.6.question:V nasprotju z odnosom Tokugawe do britanskih in nizozemskih trgovcev ter portugalskih in španskih misijonarjev.
+passage.questions.6.idx:4145.0
+passage.questions.6.answers.9.text:Vse je prepovedal
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:22070.0
+passage.questions.6.answers.8.text:Sprejemal je Britance in Nizozemce, portugalščine in Španije pa ne
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:22069.0
+passage.questions.6.answers.7.text:Britanski in nizozemski trgovci so bili dovoljeni, portugalski in španski misijonarji prepovedani
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:22068.0
+passage.questions.6.answers.6.text:Spodbujal je Nizozemce in Britance, a mu portugalski in španski misijonarji niso bili všeč
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:22067.0
+passage.questions.6.answers.5.text:Trgovce je spodbudil, a misijonarje izgnal
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:22066.0
+passage.questions.6.answers.4.text:Najprej je prepovedal Britance in Nizozemce, nato Portugalce in Špance
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:22065.0
+passage.questions.6.answers.3.text:Hotel je spodbuditi nereligiozne trgovce, da spodbujajo zunanjo trgovino, toda verski misijonarji so po njegovem mnenju spodkopavali japonske vrednote
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:22064.0
+passage.questions.6.answers.2.text:Napadel je trgovce in pozdravlja misijonarje, da oznanjujejo njihovo vero
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:22063.0
+passage.questions.6.answers.1.text:Všeč so mu bili portugalski in španski misijonarji, ni pa pozdravil Britancev in Nizozemcev
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:22062.0
+passage.questions.6.answers.0.text:Obe skupini pozdravlja na Japonskem
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:22061.0
+passage.questions.5.question:Kakšne ukrepe je Tokugawa sprejel proti misijonarjem in tistim, ki so prešli v katolištvo?
+passage.questions.5.idx:4144.0
+passage.questions.5.answers.9.text:Prepovedana nizozemska in britanska
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:22057.0
+passage.questions.5.answers.8.text:Prisiljeni spreobrnjenci so se odrekli svoji veri
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:22056.0
+passage.questions.5.answers.7.text:Prepovedali njihove dejavnosti
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:22055.0
+passage.questions.5.answers.6.text:Izgnali vse misijonarje
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:22054.0
+passage.questions.5.answers.5.text:Dovoljeno potovanje v tujino
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:22053.0
+passage.questions.5.answers.4.text:Prijavljeni mučenci
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:22052.0
+passage.questions.5.answers.3.text:Z njimi se je boril v bitki
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:22051.0
+passage.questions.5.answers.2.text:Pozdravil jih je
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:22050.0
+passage.questions.5.answers.12.text:Ali so jih izgnali ali mučili in usmrtili
+passage.questions.5.answers.12.label:1.0
+passage.questions.5.answers.12.idx:22060.0
+passage.questions.5.answers.11.text:Izgnal jih je
+passage.questions.5.answers.11.label:1.0
+passage.questions.5.answers.11.idx:22059.0
+passage.questions.5.answers.10.text:Mučil jih je in usmrtil
+passage.questions.5.answers.10.label:1.0
+passage.questions.5.answers.10.idx:22058.0
+passage.questions.5.answers.1.text:Izgnani so bili z Japonske, usmrčeni, mučeni, spreobrnjenci pa so se morali odreči svoji novi veri
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:22049.0
+passage.questions.5.answers.0.text:Bili so prosto pozdravljeni
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:22048.0
+passage.questions.4.question:Kakšen je bil krut način izvrševanja zakonika Bushido?
+passage.questions.4.idx:4143.0
+passage.questions.4.answers.9.text:Brani status in čast
+passage.questions.4.answers.9.label:0,0
+passage.questions.4.answers.9.idx:22047.0
+passage.questions.4.answers.8.text:Žena vazala in otroci so bili v Edu talci, da bi silili zvestobo
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:22046.0
+passage.questions.4.answers.7.text:Izdajalci so bili umorjeni
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:22045.0
+passage.questions.4.answers.6.text:Označevanje vazalov
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:22044.0
+passage.questions.4.answers.5.text:Zadrževanje vazalnih žena in otrok kot talcev v Edu
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:22043.0
+passage.questions.4.answers.4.text:Premagati vazale
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:22042.0
+passage.questions.4.answers.3.text:Lojalnost je bila še okrepljena z držanjem vazalnih žena in otrok za talce v Edu
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:22041.0
+passage.questions.4.answers.2.text:Umor vazalove družine talcev
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:22040.0
+passage.questions.4.answers.1.text:Spodbujanje zunanje trgovine
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:22039.0
+passage.questions.4.answers.0.text:Izpolnjevanje vseh obveznosti
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:22038.0
+passage.questions.3.question:Komu niso bili všeč portugalski in španski katoliški misijonarji?
+passage.questions.3.idx:4142.0
+passage.questions.3.answers.8.text:Ieyasu Tokugawa
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:22037.0
+passage.questions.3.answers.7.text:Tokugawa
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:22036.0
+passage.questions.3.answers.6.text:Cesar
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:22035.0
+passage.questions.3.answers.5.text:Vasali
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:22034.0
+passage.questions.3.answers.4.text:Nizozemsko
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:22033.0
+passage.questions.3.answers.3.text:Nizozemski in britanski trgovci
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:22032.0
+passage.questions.3.answers.2.text:Hideyoshi
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:22031.0
+passage.questions.3.answers.1.text:Britanski
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22030.0
+passage.questions.3.answers.0.text:Kitajski
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:22029.0
+passage.questions.2.question:Kdo je leta 1600 strl njihove tekmece v veliki bitki pri Sekigahari?
+passage.questions.2.idx:4141.0
+passage.questions.2.answers.8.text:Ieyasu Tokugawa
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:22028.0
+passage.questions.2.answers.7.text:Tokugawa
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:22027.0
+passage.questions.2.answers.6.text:Cesar
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:22026.0
+passage.questions.2.answers.5.text:Vasali
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:22025.0
+passage.questions.2.answers.4.text:Nizozemsko
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22024.0
+passage.questions.2.answers.3.text:Edo
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:22023.0
+passage.questions.2.answers.2.text:Kitajska
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22022.0
+passage.questions.2.answers.1.text:Hideyoshi
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:22021.0
+passage.questions.2.answers.0.text:Britanski
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:22020.0
+passage.questions.10.question:Kako je bila v bushido uveljavljena zvestoba?
+passage.questions.10.idx:4149.0
+passage.questions.10.answers.9.text:S tem ko so njihove žene in družine postale talce
+passage.questions.10.answers.9.label:1.0
+passage.questions.10.answers.9.idx:22105.0
+passage.questions.10.answers.8.text:Z grožnjo smrti
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:22104.0
+passage.questions.10.answers.7.text:Zvesti so bili razkošno nagrajeni
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:22103.0
+passage.questions.10.answers.6.text:Z držanjem vazalove družine za talce
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:22102.0
+passage.questions.10.answers.5.text:Branje svojega statusa in časti
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:22101.0
+passage.questions.10.answers.4.text:Izpolnite vse obveznosti, bodite zvesti gospodarju, zagovarjajte status in čast in vassel žene / otroci, ki so talci
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:22100.0
+passage.questions.10.answers.3.text:Lojalnost je bila še okrepljena z držanjem vazalnih žena in otrok za talce v Edu
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:22099.0
+passage.questions.10.answers.2.text:S tem, ko je vzel vazalov denar
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:22098.0
+passage.questions.10.answers.1.text:Izpolnjevanje vseh obveznosti
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:22097.0
+passage.questions.10.answers.0.text:Z grožnjo večne obsojanja
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:22096.0
+passage.questions.1.question:Kdo je nasledil Hideyoshija iz njegove trdnjave v Edu?
+passage.questions.1.idx:4140.0
+passage.questions.1.answers.6.text:Sin Hideyoshi
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:22019.0
+passage.questions.1.answers.5.text:Njegov sin
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:22018.0
+passage.questions.1.answers.4.text:Tokugawa
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:22017.0
+passage.questions.1.answers.3.text:Zvit, neusmiljen triumvirat
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:22016.0
+passage.questions.1.answers.2.text:Hideyoshijev brat
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22015.0
+passage.questions.1.answers.1.text:Sin Tokugave
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22014.0
+passage.questions.1.answers.0.text:Njegov petletni sin
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:22013.0
+passage.questions.0.question:Katere tri lastnosti so zaslužne za zmago Tokugawe v bitki pri Sekigahari?
+passage.questions.0.idx:4139
+passage.questions.0.answers.5.text:Zvit, neusmiljen, nadzor
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:22012.0
+passage.questions.0.answers.4.text:Potrpežljivost, pamet in zvestoba
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:22011.0
+passage.questions.0.answers.3.text:Najbolj potrpežljiv, najbolj preudaren, najbolj zahrbten
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:22010.0
+passage.questions.0.answers.2.text:Potrpežljivost, preudarnost in zahrbtnost
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:22009.0
+passage.questions.0.answers.1.text:Najpogumnejši, najprijaznejši in najpametnejši
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:22008
+passage.questions.0.answers.0.text:Najbolj potrpežljivi, najpogumnejši in najbolj preudarni
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:22007
+idx:361

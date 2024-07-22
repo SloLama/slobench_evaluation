@@ -1,0 +1,317 @@
+version:1.1
+passage.text:Sodnik se je naslonil na stol in zvabil gospoda Andrewsa. Končano je bilo. Koplje je bilo svobodno in iz različnih delov sodne dvorane so se ljudje premikali proti vratom. Njihova številka je pokazala, da je bilo prijateljev mladeniča veliko. G. Thorndike je začutil neko piko razočaranja. Čeprav ga je rezultat razbremenil in razveselil, je želel, da je pri uresničitvi tega dela imel neko vlogo. Isaacs &amp; Sonsu je zameril zaslugo, da je dal Spearju svobodo. Njegovo jutro je bilo zapravljeno. Zanemarjal je lastne interese in nikakor ni pomagal interesom Spearja. Oddaljil se je iz ograjene ograje, ko ga je Andrews poklical po imenu. &quot;Njegova čast,&quot; je impresivno rekel, &quot;želi govoriti s tabo.&quot; Sodnik se je nagnil nad njegovo mizo in gospodu Thorndikeu stisnil roko. Potem je imel govor. Govor je govoril o javno razpoloženih državljanih, ki so zaradi zanemarjanja lastnih interesov prišli pomagati ciljem pravičnosti in soljudi v nesreči. Namerno je govoril na ves glas in vsi so se ustavili, da bi jih poslušali. &quot;Zakon, gospod Thorndike, ni maščevalen,&quot; je dejal. &quot;Želi biti samo pravičen. Tudi bogastvo ali politični ali družbeni vplivi ga ne morejo omajati. Ko pa je v človeku dobro, ga osebno želim vedeti in ko gospodje, kot ste vi, vašega stališča v tem mesto, pridi sem, da bi za človeka spregovorila dobro besedo, če ne bi poslušali, bi poenotili namen pravičnosti. Zahvaljujem se ti za prihod in želim si, da bi bilo več naših državljanov tako nesebičnih in javno razpoloženih. &quot; Vse skupaj je bilo precej absurdno in najbolj neprijetno, toda v sebi je gospod Thorndike žarel od užitka. Že dolgo ni bilo, da bi mu kdo drznil dopovedovati, da se je dobro odrezal.
+passage.questions.9.question:Zakaj je gospod Thorndike občutil razočaranje?
+passage.questions.9.idx:591.0
+passage.questions.9.answers.5.text:Ker ni mogel pomagati
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:3047.0
+passage.questions.9.answers.4.text:Želel si je, da bi sodeloval pri odločitvi sodnika
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:3046.0
+passage.questions.9.answers.3.text:Njegovo jutro je bilo zapravljeno
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:3045.0
+passage.questions.9.answers.2.text:Ker je kriv moški pobegnil
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:3044.0
+passage.questions.9.answers.1.text:Želel si je, da bi pri tem dosegel, da je imel neko vlogo
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3043.0
+passage.questions.9.answers.0.text:Ker ga je sodnik poklical
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:3042.0
+passage.questions.8.question:Komu je g. Thorndike pripisal zaslugo, da je Spear dobil prostost?
+passage.questions.8.idx:590.0
+passage.questions.8.answers.4.text:On sam
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:3041.0
+passage.questions.8.answers.3.text:Koplje
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:3040.0
+passage.questions.8.answers.2.text:Odvetniki
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3039.0
+passage.questions.8.answers.1.text:Isaacs &amp; Sons
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3038.0
+passage.questions.8.answers.0.text:Sodnik
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3037.0
+passage.questions.7.question:O čem je bil v glavnem začetek sodnikovega govora?
+passage.questions.7.idx:589.0
+passage.questions.7.answers.6.text:Koplje
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:3036.0
+passage.questions.7.answers.5.text:Državljani
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3035.0
+passage.questions.7.answers.4.text:Sodnikov govor je bil v glavnem o javno razpoloženih državljanih, ki zanemarjajo lastne interese in v nesreči priskočijo na pomoč drugim. Pravi, da rad ve, kdaj je pred njim dober človek
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:3034.0
+passage.questions.7.answers.3.text:Javno razpoloženi državljani
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3033.0
+passage.questions.7.answers.2.text:Kaznovanje prestopnikov
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3032.0
+passage.questions.7.answers.1.text:Ljudje, ki zanemarjajo lastne interese za druge
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3031.0
+passage.questions.7.answers.0.text:Interesi
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3030.0
+passage.questions.6.question:Kaj je sodnik osebno povedal gospodu Thorndikeju o sebi?
+passage.questions.6.idx:588.0
+passage.questions.6.answers.4.text:Bilo mu je nerodno
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:3029.0
+passage.questions.6.answers.3.text:Sodnik je gospodu Thorndikeju dejal, da je bil gospod in da se mu zahvaljuje za prihod. Rekel je, da si želi, da bi bilo več državljanov tako nesebičnih in javno razpoloženih kot on
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:3028.0
+passage.questions.6.answers.2.text:Zamotil je
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3027.0
+passage.questions.6.answers.1.text:Bil je nesebičen
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3026.0
+passage.questions.6.answers.0.text:Bil je javno razpoložen
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:3025.0
+passage.questions.5.question:Kdo se je zahvalil gospodu Thorndikeu, da je prišel tisti dan?
+passage.questions.5.idx:587.0
+passage.questions.5.answers.5.text:Koplje
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:3024.0
+passage.questions.5.answers.4.text:Sodnik, ki predseduje sojenju
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:3023.0
+passage.questions.5.answers.3.text:Žirija
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3022.0
+passage.questions.5.answers.2.text:Sodnik
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3021.0
+passage.questions.5.answers.1.text:Issacs
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3020.0
+passage.questions.5.answers.0.text:G. Andrews
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3019.0
+passage.questions.4.question:Kaj pravi sodnik o zakonu?
+passage.questions.4.idx:586.0
+passage.questions.4.answers.4.text:Ni maščevalna
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:3018.0
+passage.questions.4.answers.3.text:Ni maščevalen, želi biti pravičen in ga ne morejo vplivati bogastvo, politični ali družbeni vplivi
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3017.0
+passage.questions.4.answers.2.text:Prav je
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3016.0
+passage.questions.4.answers.1.text:Ni samo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3015.0
+passage.questions.4.answers.0.text:Maščevalen je
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3014.0
+passage.questions.3.question:Kdo je gospodu Thorndikeju povedal, da je dobro opravil?
+passage.questions.3.idx:585.0
+passage.questions.3.answers.5.text:Koplje
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:3013.0
+passage.questions.3.answers.4.text:Odvetniki
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3012.0
+passage.questions.3.answers.3.text:Žirija
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3011.0
+passage.questions.3.answers.2.text:Sodnik sojenja
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:3010.0
+passage.questions.3.answers.1.text:Sodnik
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3009.0
+passage.questions.3.answers.0.text:Sodni izvršitelj
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3008.0
+passage.questions.2.question:Kako se je počutil gospod Thorndike, ko je bila sodba izrečena za Spear?
+passage.questions.2.idx:584
+passage.questions.2.answers.5.text:Nerodno
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:3007.0
+passage.questions.2.answers.4.text:Bojim se
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3006.0
+passage.questions.2.answers.3.text:G. Thorndike je bil nekoliko razočaran. Zdelo se mu je, da je njegov čas zapravljen. Rezultat je bil zadovoljen, vendar si je želel, da bi sodeloval pri omogočanju Spearju svobode
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3005.0
+passage.questions.2.answers.2.text:Razočaran
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:3004.0
+passage.questions.2.answers.1.text:Twingle
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3003
+passage.questions.2.answers.0.text:Razočaranje
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:3002
+passage.questions.15.question:Zakaj se je sodnik glasno zahvalil gospodu Thorndikeu za prihod?
+passage.questions.15.idx:597.0
+passage.questions.15.answers.6.text:Da bi lahko slišali tudi drugi državljani
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:3084.0
+passage.questions.15.answers.5.text:Ker je bil nesebičen
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:3083.0
+passage.questions.15.answers.4.text:Ker je žrtvoval svoj čas
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:3082.0
+passage.questions.15.answers.3.text:Želel si je, da bi bilo več ljudi nesebičnih in javno razpoloženih
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:3081.0
+passage.questions.15.answers.2.text:Da bi ga grajal
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:3080.0
+passage.questions.15.answers.1.text:Ker je bil zvezda priča
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:3079.0
+passage.questions.15.answers.0.text:Ker je pomagal osvoboditi Speara
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:3078.0
+passage.questions.14.question:Zakaj je zakon pravičen in ne maščevalen?
+passage.questions.14.idx:596.0
+passage.questions.14.answers.3.text:Ker ali policija
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:3077.0
+passage.questions.14.answers.2.text:Ker dobri ljudje govorijo dobre besede
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:3076.0
+passage.questions.14.answers.1.text:Ne more ga omajati bogastvo ali politični ali družbeni vpliv
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:3075.0
+passage.questions.14.answers.0.text:Ker pravila pravijo tako
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:3074.0
+passage.questions.13.question:Zakaj je gospod Thorndike čutil, da je njegovo jutro zapravljeno?
+passage.questions.13.idx:595.0
+passage.questions.13.answers.6.text:Ker sodbe, ki si jo je želel, ni dobil
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:3073.0
+passage.questions.13.answers.5.text:Premikanje iz ograjenega ograjenega prostora
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:3072.0
+passage.questions.13.answers.4.text:Ker ni pomagal
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:3071.0
+passage.questions.13.answers.3.text:Zanemarjal je lastne interese in ni pomagal Spearu
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:3070.0
+passage.questions.13.answers.2.text:Ker je Spear šel v zapor
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:3069.0
+passage.questions.13.answers.1.text:Ker ni sodeloval pri osvobajanju Kopje
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3068.0
+passage.questions.13.answers.0.text:Zanemarjal je lastne interese
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:3067.0
+passage.questions.12.question:Kakšen je bil rezultat sodnikov in ali je g. Thorndikea razveselil?
+passage.questions.12.idx:594.0
+passage.questions.12.answers.5.text:Obešena žirija
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:3066.0
+passage.questions.12.answers.4.text:Nedolžen
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:3065.0
+passage.questions.12.answers.3.text:Spears je osvobodil in gospodu Thorndiku je bilo všeč
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:3064.0
+passage.questions.12.answers.2.text:Kriv
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:3063.0
+passage.questions.12.answers.1.text:Koplje je bilo brezplačno
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:3062.0
+passage.questions.12.answers.0.text:Ni kriv
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:3061.0
+passage.questions.11.question:Kako je gospod Thorndike občutil sodnika, ki je imel govor v zvezi z njim?
+passage.questions.11.idx:593.0
+passage.questions.11.answers.7.text:Bil je v zadregi
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:3060.0
+passage.questions.11.answers.6.text:Javnega duha
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:3059.0
+passage.questions.11.answers.5.text:Bil je prestrašen
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:3058.0
+passage.questions.11.answers.4.text:Kot nesebično
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:3057.0
+passage.questions.11.answers.3.text:Žarelo od užitka
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:3056.0
+passage.questions.11.answers.2.text:G. Thorndike je menil, da je nekoliko nesmiselno in neprijetno. V sebi je žarel od užitka, ker je minilo že nekaj časa, odkar mu je nekdo rekel, da je dobro opravil
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:3055.0
+passage.questions.11.answers.1.text:Bil je jezen
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:3054.0
+passage.questions.11.answers.0.text:Bil je zadovoljen
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:3053.0
+passage.questions.10.question:Komu je gospod Thorndike hotel pomagati?
+passage.questions.10.idx:592.0
+passage.questions.10.answers.4.text:On sam
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:3052.0
+passage.questions.10.answers.3.text:Koplje
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3051.0
+passage.questions.10.answers.2.text:Sodnik
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3050.0
+passage.questions.10.answers.1.text:Obdolženec
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:3049.0
+passage.questions.10.answers.0.text:Issacs
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:3048.0
+passage.questions.1.question:Koga je sodnik poslal, da pokliče gospoda Thorndikeja?
+passage.questions.1.idx:583
+passage.questions.1.answers.3.text:Spears
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3001.0
+passage.questions.1.answers.2.text:G. Andrews
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3000.0
+passage.questions.1.answers.1.text:Žirija
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2999
+passage.questions.1.answers.0.text:Andrews
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2998
+passage.questions.0.question:Kaj je sodnik gospodu Thorndikeju povedal o zakonu?
+passage.questions.0.idx:582
+passage.questions.0.answers.6.text:Želi si samo
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:2997.0
+passage.questions.0.answers.5.text:Sodnik je gospodu Thorndikeju dejal, da zakon ni maščevalen. Rekel je, da zakon želi biti le pravičen. Sodnik je dejal, da zakona ne morejo vplivati bogastvo, politični ali družbeni vplivi
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2996.0
+passage.questions.0.answers.4.text:Bilo je maščevalno
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2995.0
+passage.questions.0.answers.3.text:Bilo je krivično
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2994.0
+passage.questions.0.answers.2.text:Ni bilo maščevalno
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2993.0
+passage.questions.0.answers.1.text:Zakon ni maščevalen
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2992
+passage.questions.0.answers.0.text:Ne morejo ga vplivati bogastvo ali politični ali družbeni vplivi
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2991
+idx:50

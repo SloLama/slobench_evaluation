@@ -1,0 +1,460 @@
+version:1.1
+passage.text:Callimaco prevzame lepotica Lucrezije, vendar je zvesta žena Nicije, bogate in neumne odvetnice. Callimaco najame službo senčnega &quot;popravljalca&quot; z imenom Ligurio, da pomaga pri iskanju z njo. Lgurio obvesti Callimaco, da si Nicia in Lucrezia nestrpno želita imeti otroka. S pomočjo popravljalca,. Callimaco se maskira kot zdravnica in prepriča Nicijo, da Lucrezia najboljši način, da zanosi otroka, vzame napoj iz korena mandrake. Laže in opozori Nicijo, da bo prvi mož, ki je zaspal z Lucrezijo, potem ko je vzela napoj, umrl v osmih dneh. Skupaj oblikujejo načrt ugrabitve neznanca, da bi spal z Lucrezijo in izvlekli strup. Nato se Callimaco preobleče in poskrbi, da bo ugrabljen. Lucrezia je častna ženska in se sprva ne strinja z neznancem. Nicia dobi tako Lucrezijino mamo, žensko slabega slovesa, kot njenega spovednika brata Timotea, duhovnika nizke morale, da Lucrezijo prepriča o nujnosti načrta. Potem ko je končno spal z Lucrezijo, Callimaco vse prizna. Lucrezia razmišlja o dvoličnosti svojega moža, matere in spovednika ter se odloči, da si zdaj želi Callimaco za ljubimca za vedno. Callimaco dobi tisto, kar je želel, vsi ostali pa še naprej verjamejo, da je vsak prelisičil druge.
+passage.questions.9.question:Kakšna je vloga Callimaca v tej predstavi?
+passage.questions.9.idx:3047.0
+passage.questions.9.answers.8.text:Doktor
+passage.questions.9.answers.8.label:1.0
+passage.questions.9.answers.8.idx:16073.0
+passage.questions.9.answers.7.text:Lucrezijin spovednik
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:16072.0
+passage.questions.9.answers.6.text:Junak
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:16071.0
+passage.questions.9.answers.5.text:Glavni junak
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:16070.0
+passage.questions.9.answers.4.text:Villan
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:16069.0
+passage.questions.9.answers.3.text:Lucrezijin ljubimec
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:16068.0
+passage.questions.9.answers.2.text:Antagonist
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:16067.0
+passage.questions.9.answers.1.text:Lucrezijina mati
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:16066.0
+passage.questions.9.answers.0.text:Delodajalec Ligurio
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:16065.0
+passage.questions.8.question:Zakaj se Callimaco pretvarja, da je ugrabljen?
+passage.questions.8.idx:3046.0
+passage.questions.8.answers.3.text:Želi rešiti Lucrezijo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:16064.0
+passage.questions.8.answers.2.text:Ker je hotel spati z Nicijo
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:16063.0
+passage.questions.8.answers.1.text:Ker je hotel spati z Lucrezijo
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:16062.0
+passage.questions.8.answers.0.text:Callimaco se pretvarja, da je ugrabljen, da bi lahko spal z Lucrezijo, katere mož meni, da je treba očistiti strup iz njenega sistema
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:16061.0
+passage.questions.7.question:Za kateri napoj naj bi ubil Lucrezijo?
+passage.questions.7.idx:3045.0
+passage.questions.7.answers.8.text:Niciji pravijo, da bo prvi moški, ki bo spil z njo po zaužitju napitka korenine mandračje, umrl
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:16060.0
+passage.questions.7.answers.7.text:Napoj iz korena mandrake
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:16059.0
+passage.questions.7.answers.6.text:Napoj iz srebrnega korena
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:16058.0
+passage.questions.7.answers.5.text:Napoj dan bratu Timoteu
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:16057.0
+passage.questions.7.answers.4.text:Korenina mandrake
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:16056.0
+passage.questions.7.answers.3.text:Korenina mandrake
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:16055.0
+passage.questions.7.answers.2.text:Podaril Callimaco
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:16054.0
+passage.questions.7.answers.1.text:Napoj je Lucreziji podaril Callimaco
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:16053.0
+passage.questions.7.answers.0.text:Nobenega napitka ni, da bi ubil Lucrezijo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:16052.0
+passage.questions.6.question:Kdo je neposredno in posredno pomagal pri iskanju Callimaca, da bi spal z Lucrezijo
+passage.questions.6.idx:3044.0
+passage.questions.6.answers.8.text:Nicia, Lgurio, Lucrezijina mati in njen brat Timoteo
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:16051.0
+passage.questions.6.answers.7.text:Ligurio
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:16050.0
+passage.questions.6.answers.6.text:Giotto
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:16049.0
+passage.questions.6.answers.5.text:Nicia je neposredno pomagala
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:16048.0
+passage.questions.6.answers.4.text:Služkinja
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:16047.0
+passage.questions.6.answers.3.text:Nicia
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:16046.0
+passage.questions.6.answers.2.text:Ligurio je posredno pomagal
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:16045.0
+passage.questions.6.answers.1.text:Nicia je posredno pomagala
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:16044.0
+passage.questions.6.answers.0.text:Ligurio je neposredno pomagal
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:16043.0
+passage.questions.5.question:Komu Liguro pomaga Callimacu?
+passage.questions.5.idx:3043.0
+passage.questions.5.answers.6.text:Brat Timoteo
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:16042.0
+passage.questions.5.answers.5.text:Lucrezia
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:16041.0
+passage.questions.5.answers.4.text:Lucrezijin spovednik
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:16040.0
+passage.questions.5.answers.3.text:Lepota
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:16039.0
+passage.questions.5.answers.2.text:Bogat in neumen odvetnik
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:16038.0
+passage.questions.5.answers.1.text:Nicia
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:16037.0
+passage.questions.5.answers.0.text:Žena Nicia
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:16036.0
+passage.questions.4.question:Koga mu Nicia pomaga, da Lucrezijo spije s tujcem?
+passage.questions.4.idx:3042.0
+passage.questions.4.answers.7.text:Lucrezijin spovednik
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:16035.0
+passage.questions.4.answers.6.text:Callimaco
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:16034.0
+passage.questions.4.answers.5.text:Brat Timoteo, njen spovednik, duhovnik nizke morale
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:16033.0
+passage.questions.4.answers.4.text:Ligurio
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:16032.0
+passage.questions.4.answers.3.text:Ligurio fiksir
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:16031.0
+passage.questions.4.answers.2.text:Lucrezijina mati in spovednik brat Timoteo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:16030.0
+passage.questions.4.answers.1.text:Lucrezijina mati
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:16029.0
+passage.questions.4.answers.0.text:Lucrezijina mati, ženska slabega slovesa
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:16028.0
+passage.questions.3.question:Zakaj Lucrezia želi, da je Callimaco za vedno njen ljubimec?
+passage.questions.3.idx:3041.0
+passage.questions.3.answers.6.text:Ker je bila Callimaco iskrena in je priznal resnico, kjer so ji, kot vsi drugi, lagali
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:16027.0
+passage.questions.3.answers.5.text:Ker je spala s Callimacom
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:16026.0
+passage.questions.3.answers.4.text:Ker si je želela otroka
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:16025.0
+passage.questions.3.answers.3.text:Kljub svoji družini
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:16024.0
+passage.questions.3.answers.2.text:Ker razmišlja o dvoličnosti svojega moža, matere in spovednika
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:16023.0
+passage.questions.3.answers.1.text:Zaljubila se je
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:16022.0
+passage.questions.3.answers.0.text:Ker je imela rada Lucrezijo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:16021.0
+passage.questions.2.question:Koga je nespametni odvetnik uredil, da ga ugrabi?
+passage.questions.2.idx:3040.0
+passage.questions.2.answers.5.text:Brat Timoteo
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:16020.0
+passage.questions.2.answers.4.text:Lucrezia
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:16019.0
+passage.questions.2.answers.3.text:Tujec
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:16018.0
+passage.questions.2.answers.2.text:Callimaco
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:16017.0
+passage.questions.2.answers.1.text:Callimaco preoblečen
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:16016.0
+passage.questions.2.answers.0.text:Njen spovednik
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:16015.0
+passage.questions.19.question:Čigava žena hrepeni po otroku?
+passage.questions.19.idx:3057.0
+passage.questions.19.answers.5.text:Senčni fiksir
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:16139.0
+passage.questions.19.answers.4.text:Callimaco
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:16138.0
+passage.questions.19.answers.3.text:Ligurio
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:16137.0
+passage.questions.19.answers.2.text:Bogat in neumen odvetnik
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:16136.0
+passage.questions.19.answers.1.text:Nicia
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:16135.0
+passage.questions.19.answers.0.text:Lucrezijin ljubimec
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:16134.0
+passage.questions.18.question:Kdo je imel častno žensko za ljubimca?
+passage.questions.18.idx:3056.0
+passage.questions.18.answers.6.text:Brat Timoteo
+passage.questions.18.answers.6.label:0,0
+passage.questions.18.answers.6.idx:16133.0
+passage.questions.18.answers.5.text:Lucrezia
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:16132.0
+passage.questions.18.answers.4.text:Tujec
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:16131.0
+passage.questions.18.answers.3.text:Callimaco
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:16130.0
+passage.questions.18.answers.2.text:Timoteo
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:16129.0
+passage.questions.18.answers.1.text:Nicia
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:16128.0
+passage.questions.18.answers.0.text:Lucrezijina mati
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:16127.0
+passage.questions.17.question:Kdo je končno spal z Lucrezijo?
+passage.questions.17.idx:3055.0
+passage.questions.17.answers.6.text:Brat Timoteo
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:16126.0
+passage.questions.17.answers.5.text:Junak
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:16125.0
+passage.questions.17.answers.4.text:Callimaco
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:16124.0
+passage.questions.17.answers.3.text:Ligurio
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:16123.0
+passage.questions.17.answers.2.text:Popravilo
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:16122.0
+passage.questions.17.answers.1.text:Liguro
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:16121.0
+passage.questions.17.answers.0.text:Delodajalec Ligurio
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:16120.0
+passage.questions.16.question:Kaj si želi Callimaco?
+passage.questions.16.idx:3054.0
+passage.questions.16.answers.5.text:Spat z Nicijo
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:16119.0
+passage.questions.16.answers.4.text:Spat z Lucrezijo
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:16118.0
+passage.questions.16.answers.3.text:Zanositi otroka z Nicijo
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:16117.0
+passage.questions.16.answers.2.text:Biti ljubiteljica Lucrezije
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:16116.0
+passage.questions.16.answers.1.text:Callimaco želi spati z Lucrezijo, ki se mu zdi zelo lepa
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:16115.0
+passage.questions.16.answers.0.text:Da se znebite moža Lucrezije
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:16114.0
+passage.questions.15.question:Kdo se dvakrat preobleče?
+passage.questions.15.idx:3053.0
+passage.questions.15.answers.6.text:Brat Timoteo
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:16113.0
+passage.questions.15.answers.5.text:Callimaco
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:16112.0
+passage.questions.15.answers.4.text:Ligurio
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:16111.0
+passage.questions.15.answers.3.text:Preobleče se v zdravnika in neznanca
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:16110.0
+passage.questions.15.answers.2.text:Lucrezijin ljubimec
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:16109.0
+passage.questions.15.answers.1.text:Preobleče se v brata Timotea in zdravnika
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:16108.0
+passage.questions.15.answers.0.text:Lucrezijina mati
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:16107.0
+passage.questions.14.question:Kdo je Callimacu maškaral kot zdravnik?
+passage.questions.14.idx:3052.0
+passage.questions.14.answers.4.text:Brat Timoteo
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:16106.0
+passage.questions.14.answers.3.text:Lucrezia
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:16105.0
+passage.questions.14.answers.2.text:Ligurio
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:16104.0
+passage.questions.14.answers.1.text:Popravilo
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:16103.0
+passage.questions.14.answers.0.text:Njen spovednik
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:16102.0
+passage.questions.13.question:Zakaj Lucrezia okleva, da bi se srečala z neznancem?
+passage.questions.13.idx:3051.0
+passage.questions.13.answers.4.text:Lucrezia je poročena z Nicijo in je zvesta žena
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:16101.0
+passage.questions.13.answers.3.text:Ker zanosi otroka
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:16100.0
+passage.questions.13.answers.2.text:Sovraži nove ljudi
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:16099.0
+passage.questions.13.answers.1.text:Ker jemlje napoj iz korenine Mandrake
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:16098.0
+passage.questions.13.answers.0.text:Ker je častna ženska
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:16097.0
+passage.questions.12.question:S kakšnim načrtom Nicia želi pomoč spovednika brata Timotea?
+passage.questions.12.idx:3050.0
+passage.questions.12.answers.5.text:Da prepriča Lucrezijo, da spi s tujcem
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:16096.0
+passage.questions.12.answers.4.text:Pomagajte prepričati Lucrezijo o nujnosti načrta
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:16095.0
+passage.questions.12.answers.3.text:Pomoč pri ugrabitvi
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:16094.0
+passage.questions.12.answers.2.text:Pomoč pri spanju z Lucrezijo
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:16093.0
+passage.questions.12.answers.1.text:Ugrabiti Lucrezijo
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:16092.0
+passage.questions.12.answers.0.text:Nicia želi, da je brat Timoteo prepričal Lucrezijo, da spi z njenim ugrabiteljem Callimacom
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:16091.0
+passage.questions.11.question:Kako se je Nicia prevarala?
+passage.questions.11.idx:3049.0
+passage.questions.11.answers.8.text:Verjela je, da je Callimaco preoblečen v zdravnika
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:16090.0
+passage.questions.11.answers.7.text:Brat Timoteo
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:16089.0
+passage.questions.11.answers.6.text:Napoj
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:16088.0
+passage.questions.11.answers.5.text:Lagali so ji najbližji
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:16087.0
+passage.questions.11.answers.4.text:Callimaco
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:16086.0
+passage.questions.11.answers.3.text:Njen mož, mati in spovednica
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:16085.0
+passage.questions.11.answers.2.text:Lucrezijina mati
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:16084.0
+passage.questions.11.answers.1.text:Callimaco je Nici verjel, da mora Lucrezia popiti napoj Mandrake in ga bo ubil, če bo spal z njo
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:16083.0
+passage.questions.11.answers.0.text:Zapeljal jo je
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:16082.0
+passage.questions.10.question:Zakaj se je Callimaco oblekel v neznanko?
+passage.questions.10.idx:3048.0
+passage.questions.10.answers.7.text:Da bi se preoblekel v Nicijo
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:16081.0
+passage.questions.10.answers.6.text:Tako bi si lahko privoščil Lucrezijino mamo
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:16080.0
+passage.questions.10.answers.5.text:Konec koncev, da spim z Lucrezijo
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:16079.0
+passage.questions.10.answers.4.text:Da bi lahko spala z Lucrezijo
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:16078.0
+passage.questions.10.answers.3.text:Za zmago v Lucreziji
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:16077.0
+passage.questions.10.answers.2.text:Za zmago v igri s kartami
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:16076.0
+passage.questions.10.answers.1.text:Da bi se lahko priznal bratu Timoteu
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:16075.0
+passage.questions.10.answers.0.text:Da bi prestrašil brata Timotea
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:16074.0
+passage.questions.1.question:Zakaj je Nicia dovolila, da je Callimaco spal s svojo ženo?
+passage.questions.1.idx:3039.0
+passage.questions.1.answers.8.text:Verjel je, da je neznanec
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:16014.0
+passage.questions.1.answers.7.text:Nicia je bila prijazna in radodarna oseba
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:16013.0
+passage.questions.1.answers.6.text:Želel je, da neželeni učinki napoja vplivajo na neznanca
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:16012.0
+passage.questions.1.answers.5.text:Slabo se je počutil za Callimaco
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:16011.0
+passage.questions.1.answers.4.text:Mislil je, da bo kdo spal z ženo umrl v osmih dneh, in ni vedel, da je tujec Callimaco
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:16010.0
+passage.questions.1.answers.3.text:In da bo umrl, saj je prvi spal z njo po zaužitju napitka
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:16009.0
+passage.questions.1.answers.2.text:Izgubil je stavo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16008.0
+passage.questions.1.answers.1.text:Je nov o Callimacovi ljubezni do Lucrezije
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:16007.0
+passage.questions.1.answers.0.text:Hotel je izvleči strup iz nje
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:16006.0
+passage.questions.0.question:Kaj je modro v Callimacu?
+passage.questions.0.idx:3038
+passage.questions.0.answers.4.text:jeza
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:16005.0
+passage.questions.0.answers.3.text:Poželenje
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:16004.0
+passage.questions.0.answers.2.text:Sovraži Nicijo
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:16003.0
+passage.questions.0.answers.1.text:Za Lucrezijo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:16002
+passage.questions.0.answers.0.text:Spite z Lucrezijo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:16001
+idx:271

@@ -1,0 +1,219 @@
+version:1.1
+passage.text:Odbor direktorjev je imel prvo sejo o Al Kaidi 4. septembra. Na dan srečanja je Clarke Riceu poslal strastno osebno noto. Kritiziral je ameriška protiteroristična prizadevanja v preteklosti in sedanjosti. &quot;Pravo vprašanje&quot; pred ravnatelji je, kot je zapisal, &quot;ali se resno ukvarjamo z grožnjo al Qida? Ali je al Qida velik posel? Nosilci odločitev bi si morali predstavljati prihodnji dan, ko CSG ne bo uspel ustaviti al Napadi Qide in stotine Američanov so umrli v več državah, vključno z ZDA, &quot;je zapisal Clarke. &quot;Kaj bi si tisti, ki sprejemajo odločitve, želeli, da so to storili že prej? Ta prihodnji dan se lahko zgodi kadar koli.&quot; Clarke se je nato obrnil na Colea. &quot;Dejstvo, da je bil USS Cole napaden med zadnjo upravo, nas ne oprošča odziva na napad,&quot; je zapisal. &quot;Mnogi v Al Qidi in talibanih so morda iz Colea izvlekli napačno lekcijo: da lahko Američane pobijajo, ne da bi se odzvali ZDA, ne da bi za to imeli ceno.&quot;
+passage.questions.8.question:Kdo je 4. septembra kritiziral protiteroristična prizadevanja ZDA?
+passage.questions.8.idx:780.0
+passage.questions.8.answers.6.text:Cole
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:4126.0
+passage.questions.8.answers.5.text:Clarke
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:4125.0
+passage.questions.8.answers.4.text:Al Kaida
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:4124.0
+passage.questions.8.answers.3.text:Ravnatelji
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4123.0
+passage.questions.8.answers.2.text:Predsednik Bush
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4122.0
+passage.questions.8.answers.1.text:Predsednik Clinton
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4121.0
+passage.questions.8.answers.0.text:Riž
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4120.0
+passage.questions.7.question:Ko je Clarke poslal Rice sporočilo, kdo je imel sestanek?
+passage.questions.7.idx:779.0
+passage.questions.7.answers.6.text:Odbor ravnateljev
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:4119.0
+passage.questions.7.answers.5.text:Clarke
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:4118.0
+passage.questions.7.answers.4.text:Kapetan USS Cole
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:4117.0
+passage.questions.7.answers.3.text:Al Quida
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4116.0
+passage.questions.7.answers.2.text:Talibani
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4115.0
+passage.questions.7.answers.1.text:Odbor
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4114.0
+passage.questions.7.answers.0.text:Ravnatelji
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4113.0
+passage.questions.6.question:Kdo trdi, da so se &quot;talibani morda iz Colea naučili napačne lekcije&quot;?
+passage.questions.6.idx:778.0
+passage.questions.6.answers.4.text:Clarke
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:4112.0
+passage.questions.6.answers.3.text:Clintonova uprava
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:4111.0
+passage.questions.6.answers.2.text:Al Kaida
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4110.0
+passage.questions.6.answers.1.text:Nihče
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4109.0
+passage.questions.6.answers.0.text:Riž
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4108.0
+passage.questions.5.question:Kaj je bila glavna tema seje glavnega odbora?
+passage.questions.5.idx:777.0
+passage.questions.5.answers.8.text:Clarke
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:4107.0
+passage.questions.5.answers.7.text:Odbor ZDA
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:4106.0
+passage.questions.5.answers.6.text:Napad na USS Cole
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:4105.0
+passage.questions.5.answers.5.text:Ameriška prizadevanja za boj proti terorizmu
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:4104.0
+passage.questions.5.answers.4.text:Riž
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:4103.0
+passage.questions.5.answers.3.text:Resnost grožnje z Al qido
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4102.0
+passage.questions.5.answers.2.text:Teroristične grožnje ZDA
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4101.0
+passage.questions.5.answers.1.text:ZDA
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4100.0
+passage.questions.5.answers.0.text:Al Qida
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4099.0
+passage.questions.4.question:Koga je Clarke kritiziral, ko je Riceu poslal strastno osebno noto?
+passage.questions.4.idx:776.0
+passage.questions.4.answers.8.text:Odbor ravnateljev
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:4098.0
+passage.questions.4.answers.7.text:Ameriška prizadevanja za boj proti terorizmu v preteklosti in sedanjosti
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:4097.0
+passage.questions.4.answers.6.text:Al Kaida
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:4096.0
+passage.questions.4.answers.5.text:Pretekla prizadevanja ZDA za boj proti terorizmu
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:4095.0
+passage.questions.4.answers.4.text:USS Cole
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4094.0
+passage.questions.4.answers.3.text:Ameriški protiterorizem
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:4093.0
+passage.questions.4.answers.2.text:Riž
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4092.0
+passage.questions.4.answers.1.text:Talibani
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4091.0
+passage.questions.4.answers.0.text:Protiterorizem
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4090.0
+passage.questions.3.question:Katere dve stvari je Clarke pozval k odločevalcem, da se lahko prihodnost zgodi kadar koli?
+passage.questions.3.idx:775.0
+passage.questions.3.answers.8.text:Odločite se prej
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:4089.0
+passage.questions.3.answers.7.text:Ocenite grožnje Al Qide
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:4088.0
+passage.questions.3.answers.6.text:Ne maščevaj se Colu
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:4087.0
+passage.questions.3.answers.5.text:Odloči se
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:4086.0
+passage.questions.3.answers.4.text:Razpusti CSG in sestani se na Odboru ravnateljev
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:4085.0
+passage.questions.3.answers.3.text:Predstavljajte si sebe v prihodnjem terorističnem napadu in se vprašajte, kaj bi lahko storili prej
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4084.0
+passage.questions.3.answers.2.text:Predstavljajte si sebe v prihodnosti in odgovorite na vprašanje, ali resno obravnavamo grožnjo al Qida
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4083.0
+passage.questions.3.answers.1.text:Odločevalci bi si morali predstavljati prihodnji dan
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4082.0
+passage.questions.3.answers.0.text:Pripravite sestanek odbora direktorjev in se za nasvet obrnite na kapitana USS Cole
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4081.0
+passage.questions.2.question:Kdo je rekel, da je bil USS Cole napaden med Clintonovo administracijo?
+passage.questions.2.idx:774.0
+passage.questions.2.answers.5.text:Clarke
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:4080.0
+passage.questions.2.answers.4.text:Al Kaida
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4079.0
+passage.questions.2.answers.3.text:Ravnatelji
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4078.0
+passage.questions.2.answers.2.text:Nihče
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4077.0
+passage.questions.2.answers.1.text:Predsednik Clinton
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:4076.0
+passage.questions.2.answers.0.text:Riž
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:4075.0
+passage.questions.1.question:Pravo vprašanje je &quot;ali je Al Qida velik posel&quot;. Kdo je Clarke pričakoval, da bo odgovoril na to?
+passage.questions.1.idx:773.0
+passage.questions.1.answers.7.text:Kapetan USS Cole
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:4074.0
+passage.questions.1.answers.6.text:Anketarji
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:4073.0
+passage.questions.1.answers.5.text:Bill Clinton
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:4072.0
+passage.questions.1.answers.4.text:Al Kaida
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:4071.0
+passage.questions.1.answers.3.text:Ravnatelji
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4070.0
+passage.questions.1.answers.2.text:Tisti, ki odločajo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4069.0
+passage.questions.1.answers.1.text:Riž
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:4068.0
+passage.questions.1.answers.0.text:Talibani
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:4067.0
+passage.questions.0.question:Na kateri datum je Clarke poslal Riceu noto, v kateri kritizira ameriška protiteroristična prizadevanja?
+passage.questions.0.idx:772
+passage.questions.0.answers.5.text:Nekje septembra
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:4066.0
+passage.questions.0.answers.4.text:Na dan sestanka ravnateljev
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:4065.0
+passage.questions.0.answers.3.text:5. septembra
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4064.0
+passage.questions.0.answers.2.text:11. septembra
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4063.0
+passage.questions.0.answers.1.text:4. septembra
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4062
+passage.questions.0.answers.0.text:Dan napada USS Cole
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4061
+idx:66

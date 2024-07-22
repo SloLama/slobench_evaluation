@@ -1,0 +1,82 @@
+version:1.1
+passage.text:Pester je pritekel v sobo. Ko je zagledal psa, se je hitro ustavil. Psa je že videl, že ga ima vsaka mačka, včasih pa je živel s črnim psom po imenu Henry, a še nikoli ni videl rjavega. Zdelo se mu je nenavadno, a ne tako čudno, kot je videl Lindo rjavega piščanca v dnevni sobi lansko pomlad. To ga je še vedno zmedlo. Menil je, da mu je ta pes všeč, ne zaradi barve, ampak zato, ker je majhen. In bilo je tako poraščeno. Bilo je kot bris, ki bi lahko tekel naokoli. Skočil je na svoj najljubši stol in pogledal navzdol, ko je Maggie stekla pod njim. Bila je nekako ljubka za psa, si je mislil Pester. Ulegel se je na stol in jo talal, ko je tekla v krogu pod njim. Ko je šla mimo, jo je tapkal po ušesih in zamahnil z repom kot zastava, ki je želela pritegniti njeno pozornost. Po malo več tega se je Pester privil v kroglo na stolu in zadremal.
+passage.questions.4.question:Je Pester že poznal pse, ko je pritekel v sobo?
+passage.questions.4.idx:2806.0
+passage.questions.4.answers.2.text:Sploh ne
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:14813.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:14812.0
+passage.questions.4.answers.0.text:Nekako
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14811.0
+passage.questions.3.question:Zakaj je Pester pomislil na krpo, ko je zagledal psa?
+passage.questions.3.idx:2805.0
+passage.questions.3.answers.6.text:Mop je bil kos kot pes
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:14810.0
+passage.questions.3.answers.5.text:Mop je bil podoben psu
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:14809.0
+passage.questions.3.answers.4.text:Ker pes je bil tako kosmat
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:14808.0
+passage.questions.3.answers.3.text:Teče pes izgleda kot bris
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:14807.0
+passage.questions.3.answers.2.text:Bilo je tako poraščeno
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:14806.0
+passage.questions.3.answers.1.text:Bilo je tako črno
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:14805.0
+passage.questions.3.answers.0.text:Mop je lahko pes
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:14804.0
+passage.questions.2.question:Kako se imenuje pes, ki ga je Pester videl, ko je tekel v sobo?
+passage.questions.2.idx:2804.0
+passage.questions.2.answers.3.text:Mogoče Maggie
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:14803.0
+passage.questions.2.answers.2.text:Janez
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:14802.0
+passage.questions.2.answers.1.text:Magg
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14801.0
+passage.questions.2.answers.0.text:Maggie
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:14800.0
+passage.questions.1.question:Kakšno barvo je videl pes Pester, ko je pritekel v sobo?
+passage.questions.1.idx:2803.0
+passage.questions.1.answers.4.text:Rjave barve
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:14799.0
+passage.questions.1.answers.3.text:Rjavkasto
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:14798.0
+passage.questions.1.answers.2.text:Izgleda kot rjava
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:14797.0
+passage.questions.1.answers.1.text:rjav
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:14796.0
+passage.questions.1.answers.0.text:Bela
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:14795.0
+passage.questions.0.question:Kakšne živali je Pester zdaj videl, ki so bile rjave?
+passage.questions.0.idx:2802
+passage.questions.0.answers.3.text:Raca
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14794.0
+passage.questions.0.answers.2.text:Psi
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:14793.0
+passage.questions.0.answers.1.text:Mačke
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:14792
+passage.questions.0.answers.0.text:Piščanec
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:14791
+idx:252

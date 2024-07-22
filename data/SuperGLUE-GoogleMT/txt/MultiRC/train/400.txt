@@ -1,0 +1,62 @@
+version:1.1
+passage.text:Nathan je paket besed prebral v tišini, s svojimi edinimi gibi je nenehno napredoval z očmi in občasno zamenjal strani. Allan je nervozno sedel nasproti njega na stolu, ki si ga je Nathan najbrž oblazinil, v tkanini iz tkanine, ki je vsebovala zlahka več nadevov kot kateri koli drug pohištveni predmet tega obdobja. Nathan je nazadnje prišel do konca in odložil svoje branje na mizo med njima. Allan se je nezavedno nagnil naprej. &quot;To je najboljša zgodba, ki ste jo kdaj napisali.&quot; Allan je izdihnil in se naslonil nazaj na stol, njegov obraz se je sproščal, posnemajoč njegove misli. &quot;Torej,&quot; je vprašal, &quot;ne mislite, da gre za zapravljanje črnila in papirja, jalovo odpravo v bolezen ali literarno razuzdanost?&quot; &quot;Nebesa, ne,&quot; je zgrožen rekel Nathan. &quot;To je eno najmočnejših del, ki sem jih prebral v preteklih letih. Govori o najglobljem pripovedovalčevem instinktu v vseh nas, vendar je povsem izviren. Dragi moj prijatelj, to si že storil. Oh, sprva se bodo morda zalotili proti tebi; morda vas bodo obsodili kot pogana ali literarnega divjaka; toda medtem ko oblastniki govorijo take reči, bodo drugi brali vaše zgodbe in videli njihovo resnično vrednost. Verjemite mi, ko rečem, da vas bodo čez stoletje brali. &quot; Allan, čeprav dvomljiv glede te možnosti, je zaradi komplimenta začutil nekaj skušnjave; v glavnem mu je dalo spodbudo, ki jo je še vedno potreboval. Nathan je obljubil, da bo zgodbo pokazal tiskarju, ki ga je poznal, in Allan jo je pustil pri sebi, nato pa je z nasmehom na obrazu odšel domov pod razprte javorje. Zdaj je začutil, da ima Nathan morda prav; čeprav je bil človek nekoliko nenavaden, je imel tako neizogibno poštenost kot določeno nagnjenost k vpogledu. Vsekakor ni bilo zanikati, da imajo zgodbe izvirnost. Končno sadje njegovega uma je končno dozorelo in okus se mu je zdel manj grenak, kot je bilo pričakovano. Te misli in podobne so mu napolnile glavo, ko je hodil po dolgi cesti domov. Bil je večer in nebo je na zahodu gorelo oranžno, ko se je končno približal domu.
+passage.questions.3.question:Kaj bere Nathan?
+passage.questions.3.idx:4569.0
+passage.questions.3.answers.3.text:Alanova zgodba
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:24132.0
+passage.questions.3.answers.2.text:Nathan bere delo, ki ga je napisal Allan
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:24131.0
+passage.questions.3.answers.1.text:Nathanova zgodba
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:24130.0
+passage.questions.3.answers.0.text:Nathan bere paket besed
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:24129.0
+passage.questions.2.question:Zakaj je Allan dovolil Nathanu, da prevzame zgodbo?
+passage.questions.2.idx:4568.0
+passage.questions.2.answers.4.text:Hotel je, da ga prebere
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:24128.0
+passage.questions.2.answers.3.text:Ker je Nathan obljubil, da bo zgodbo pokazal tiskarju
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:24127.0
+passage.questions.2.answers.2.text:Ker je imel Nathan prav
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:24126.0
+passage.questions.2.answers.1.text:Nathan se je zdel njegova zgodba odlična in resničen je, poleg tega pa je poznal nekoga, ki bi jo lahko natisnil
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:24125.0
+passage.questions.2.answers.0.text:Želel je, da ga objavi
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24124.0
+passage.questions.1.question:Kdo je napisal zgodbo?
+passage.questions.1.idx:4567.0
+passage.questions.1.answers.2.text:Allan je napisal zgodbo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24123.0
+passage.questions.1.answers.1.text:Nathan
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:24122.0
+passage.questions.1.answers.0.text:Allan
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:24121.0
+passage.questions.0.question:Zakaj je bil Allan živčen?
+passage.questions.0.idx:4566
+passage.questions.0.answers.4.text:Skrbelo ga je, da Nathanu to, kar je napisal, ne bo všeč
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:24120.0
+passage.questions.0.answers.3.text:Ker je pustil Nathana prebrati njegovo zgodbo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:24119.0
+passage.questions.0.answers.2.text:Menil je, da gre za zapravljanje črnila in papirja, jalovo odpravo v bolezen ali literarno razuzdanost
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:24118.0
+passage.questions.0.answers.1.text:Želel je izvedeti Nathanovo mnenje
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:24117
+passage.questions.0.answers.0.text:Vedel je, da je njegova zgodba smeti
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24116
+idx:400

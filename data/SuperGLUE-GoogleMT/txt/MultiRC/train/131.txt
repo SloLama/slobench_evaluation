@@ -1,0 +1,130 @@
+version:1.1
+passage.text:Dirk Diggler se je rodil kot Steven Samuel Adams 15. aprila 1961 zunaj Saint Paula v Minnesoti. Njegovi starši so bili gradbeni delavci in lastniki butikov, ki so vsako nedeljo obiskovali cerkev in verjeli v Boga. V iskanju kariere kot moški model je Diggler pri 16 letih opustil šolanje in odšel od doma. Na stojalu za falafel ga je odkril Jack Horner. Diggler je med Hornerjem leta 1979 med delom na filmu spoznal svojega prijatelja Reeda Rothchilda. Horner je Digglerja počasi uvajal v posel, dokler ni postal opazen v industriji. Diggler je postal ugleden model in začel nastopati v pornografskih filmih, po katerem je njegova kariera stekla. Imel je kritične in blagajniške uspešnice, ki so ga pripeljale do slave. Zadetki in oglaševanje so pripeljali do slave in denarja, kar je Digglerja pripeljalo v svet mamil. Z denarjem, ki ga je zaslužil Diggler, je lahko podpiral tako svojo kot Rothchildovo odvisnost. Droge so sčasoma povzročile razhod med Digglerjem in Hornerjem, saj je imel Diggler težave s svojim nastopom na snemanju. Po razpadu je Diggler poskušal posneti film sam, vendar film ni bil dokončan. Nato je poskusil glasbeno kariero, ki je bila prav tako uspešna, vendar ga je zaradi količine denarja, ki ga je zaslužil, poglobil v mamila. Nato je zaigral v televizijski oddaji, ki je bila neuspešna tako v kritičnem kot komercialnem smislu. Potem ko je Diggler propadel in ni imel dela, se je vrnil v porno industrijo, kjer je sodeloval v nizkoproračunskih homoseksualnih filmih, da bi podprl svojo navado.
+passage.questions.7.question:Koliko je bil Diggler star, ko je spoznal Reeda Rothchilda?
+passage.questions.7.idx:1511.0
+passage.questions.7.answers.3.text:16.
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:7890.0
+passage.questions.7.answers.2.text:1979
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:7889.0
+passage.questions.7.answers.1.text:18.
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:7888.0
+passage.questions.7.answers.0.text:1977
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:7887.0
+passage.questions.6.question:S kom so bili prijatelji Reed Rothchild pred srečanjem z Digglerjem?
+passage.questions.6.idx:1510.0
+passage.questions.6.answers.3.text:Steven Samuel Adams
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:7886.0
+passage.questions.6.answers.2.text:Jack Horner
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:7885.0
+passage.questions.6.answers.1.text:Digglerjeva mati in oče
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:7884.0
+passage.questions.6.answers.0.text:Steven Adams
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:7883.0
+passage.questions.5.question:Kaj je povzročilo, da je Diggler uporabljal droge?
+passage.questions.5.idx:1509.0
+passage.questions.5.answers.7.text:Blagajniški hiti
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:7882.0
+passage.questions.5.answers.6.text:Zadetki na blagajni
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:7881.0
+passage.questions.5.answers.5.text:Slava
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:7880.0
+passage.questions.5.answers.4.text:Zadetki in reklama
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:7879.0
+passage.questions.5.answers.3.text:Opustitev šolanja pri 16 letih
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:7878.0
+passage.questions.5.answers.2.text:Njegova propadla televizijska oddaja
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:7877.0
+passage.questions.5.answers.1.text:Slava in denar
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:7876.0
+passage.questions.5.answers.0.text:Denar
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:7875.0
+passage.questions.4.question:Po kateri karieri je Diggler šel in zaslovel?
+passage.questions.4.idx:1508.0
+passage.questions.4.answers.6.text:Glasba
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:7874.0
+passage.questions.4.answers.5.text:Moški model
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:7873.0
+passage.questions.4.answers.4.text:TV igranje
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:7872.0
+passage.questions.4.answers.3.text:Glasbenik
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:7871.0
+passage.questions.4.answers.2.text:Pornografija
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:7870.0
+passage.questions.4.answers.1.text:Delavec
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:7869.0
+passage.questions.4.answers.0.text:Moški model
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:7868.0
+passage.questions.3.question:V katerem letu je Diggler opustil šolanje?
+passage.questions.3.idx:1507.0
+passage.questions.3.answers.2.text:Okoli leta 1961
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:7867.0
+passage.questions.3.answers.1.text:Okoli leta 1977
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:7866.0
+passage.questions.3.answers.0.text:1979
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7865.0
+passage.questions.2.question:Je Reedov prijatelj nastopal v homoseksualnih filmih?
+passage.questions.2.idx:1506.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:7864.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:7863.0
+passage.questions.1.question:Zaradi česar Diggler ni uspel v svojih sanjah
+passage.questions.1.idx:1505.0
+passage.questions.1.answers.3.text:Zasvojenost z mamili
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:7862.0
+passage.questions.1.answers.2.text:Njegov prekinitev s Hornerjem
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:7861.0
+passage.questions.1.answers.1.text:Denar
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:7860.0
+passage.questions.1.answers.0.text:Droge
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:7859.0
+passage.questions.0.question:Kaj je povzročilo, da je Diggler imel manj uspeha?
+passage.questions.0.idx:1504
+passage.questions.0.answers.4.text:Zasvojenost
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:7858.0
+passage.questions.0.answers.3.text:Diggler in Horner sta se razšla
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:7857.0
+passage.questions.0.answers.2.text:Droge
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7856.0
+passage.questions.0.answers.1.text:Glasbena kariera
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7855
+passage.questions.0.answers.0.text:Konec odnosa z Hornerjem
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7854
+idx:131

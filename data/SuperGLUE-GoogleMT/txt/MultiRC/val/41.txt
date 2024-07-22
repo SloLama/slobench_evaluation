@@ -1,0 +1,355 @@
+version:1.1
+passage.text:Dan na plaži. Ko se je Sam zjutraj zbudil, je bil nadvse navdušen! Danes je bil dan! Bila je nedelja, dan, ko sta Samova mama in oče obljubila, da ga bosta peljala na plažo. Sama babica je Samu dala vedro in lopato za uporabo v pesku. Za zajtrkom je bil Sam tako navdušen, da se je migal na svojem sedežu! Mama je rekla Samu, da bodo odšli, ko bo velika kazalka ure kazala na 10, majhna pa na 12. Na to je mama vprašala Sama, če bi rad pomagal pri pripravi sendvičev za potovanje, Sam pa je rekel želel pomagati. Oče je rekel: &quot;Naredimo si igro, narediti moramo sendvič za vsakega od nas. Tri smo, torej potrebujemo tri sendviče. Štejmo, ko naredimo sendviče!&quot; Sam je štel, ko je mama naredila sendviče, enega za očeta, enega za mamo in enega za Sama. Potem je mama začela pripravljati še en sendvič! &quot;Mama!&quot; je rekel Sam, &quot;imamo tri sendviče in to naredi en sendvič za vsakega od nas.&quot; Sama mama se je zasmejala: &quot;Imaš prav, Sam!&quot; Sama mama je rekla, da je bila neumna.
+passage.questions.9.question:Zakaj je Sam mami preprečil, da bi naredila štiri sendviče?
+passage.questions.9.idx:464.0
+passage.questions.9.answers.3.text:Potrebovali so le 3 sendviče
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:2369.0
+passage.questions.9.answers.2.text:Ker so potrebovali le tri - po enega za vsakega od njih
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2368.0
+passage.questions.9.answers.1.text:Ker si sendvičev ni več želel delati, je hotel na plažo
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2367.0
+passage.questions.9.answers.0.text:Ker sam sebi ni hotel sendviča
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2366.0
+passage.questions.8.question:Kakšne so bile Samove besede, ko je mama naredila sendvič?
+passage.questions.8.idx:463.0
+passage.questions.8.answers.6.text:Sam&#39;s
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:2365.0
+passage.questions.8.answers.5.text:Izdelano
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:2364.0
+passage.questions.8.answers.4.text:Imamo tri sendviče in to naredi en sendvič za vsakega od nas
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:2363.0
+passage.questions.8.answers.3.text:Prav imaš, Sam!
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:2362.0
+passage.questions.8.answers.2.text:Naredimo si igro
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2361.0
+passage.questions.8.answers.1.text:Mama
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2360.0
+passage.questions.8.answers.0.text:Štejmo, ko pripravljamo sendviče!
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2359.0
+passage.questions.7.question:Koliko sendvičev je mama skoraj naredila?
+passage.questions.7.idx:462.0
+passage.questions.7.answers.2.text:Tri
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:2358.0
+passage.questions.7.answers.1.text:10.
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2357.0
+passage.questions.7.answers.0.text:Štiri
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:2356.0
+passage.questions.6.question:Koliko sendvičev potrebujejo mama, oče in Sam?
+passage.questions.6.idx:461.0
+passage.questions.6.answers.4.text:Štirje, ker bo samo oče potreboval dva sendviča
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:2355.0
+passage.questions.6.answers.3.text:Tri, po en
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:2354.0
+passage.questions.6.answers.2.text:Pet, ena za Sama in dve za mamo in očeta
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2353.0
+passage.questions.6.answers.1.text:Po šest, dva
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2352.0
+passage.questions.6.answers.0.text:Potrebujejo 3
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2351.0
+passage.questions.5.question:Kakšen dan je bil danes?
+passage.questions.5.idx:460.0
+passage.questions.5.answers.4.text:Nedelja, dan za sendviče
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:2350.0
+passage.questions.5.answers.3.text:Sobota, dan na plaži
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2349.0
+passage.questions.5.answers.2.text:Sobota, dan za sendviče
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2348.0
+passage.questions.5.answers.1.text:Po
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2347.0
+passage.questions.5.answers.0.text:Nedelja, dan na plaži
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2346.0
+passage.questions.4.question:Kakšno napako je naredila Samova mama, da je bila neumna?
+passage.questions.4.idx:459.0
+passage.questions.4.answers.4.text:Jedel sendvič
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:2345.0
+passage.questions.4.answers.3.text:Pomikala se je na svojem sedežu
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2344.0
+passage.questions.4.answers.2.text:Čakal, da kazalci ur pridejo na svoja mesta
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2343.0
+passage.questions.4.answers.1.text:Začela je izdelovati preveč sendvičev
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2342.0
+passage.questions.4.answers.0.text:Začel pripravljati četrti sendvič
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2341.0
+passage.questions.3.question:Kaj bo Sam prinesel na plažo?
+passage.questions.3.idx:458.0
+passage.questions.3.answers.5.text:Njegova babica
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:2340.0
+passage.questions.3.answers.4.text:Vedro, lopata in sendviči
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:2339.0
+passage.questions.3.answers.3.text:Njegove igrače
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2338.0
+passage.questions.3.answers.2.text:Štirje sendviči
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2337.0
+passage.questions.3.answers.1.text:Gremo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2336.0
+passage.questions.3.answers.0.text:Vedro in lopata
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2335.0
+passage.questions.2.question:Kakšna je bila Samova igra s sendviči?
+passage.questions.2.idx:457
+passage.questions.2.answers.5.text:Strmel je v uro, ko je njegova mama delala sendviče
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2334.0
+passage.questions.2.answers.4.text:Igra
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2333.0
+passage.questions.2.answers.3.text:Jedel je sendviče, ki jih je pripravila mama
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2332.0
+passage.questions.2.answers.2.text:Sendviče je delal, kot je štela njegova mama
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2331.0
+passage.questions.2.answers.1.text:Prešteval je sendviče, ki jih je pripravila mama
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:2330
+passage.questions.2.answers.0.text:Štetje
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2329
+passage.questions.19.question:Zakaj je bil Sam navdušen?
+passage.questions.19.idx:474.0
+passage.questions.19.answers.9.text:Njegova mati je po pomoti naredila dodaten sendvič
+passage.questions.19.answers.9.label:0,0
+passage.questions.19.answers.9.idx:2423.0
+passage.questions.19.answers.8.text:Šel je na plažo
+passage.questions.19.answers.8.label:1.0
+passage.questions.19.answers.8.idx:2422.0
+passage.questions.19.answers.7.text:Dan je nameraval preživeti doma s starši in babico
+passage.questions.19.answers.7.label:0,0
+passage.questions.19.answers.7.idx:2421.0
+passage.questions.19.answers.6.text:S starši je hotel pripraviti sendviče
+passage.questions.19.answers.6.label:0,0
+passage.questions.19.answers.6.idx:2420.0
+passage.questions.19.answers.5.text:Starši so ga odpeljali na plažo
+passage.questions.19.answers.5.label:1.0
+passage.questions.19.answers.5.idx:2419.0
+passage.questions.19.answers.4.text:S svojo babico je hotel kupiti vedro in lopato
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:2418.0
+passage.questions.19.answers.3.text:Rad je gledal na uro
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:2417.0
+passage.questions.19.answers.2.text:Kmalu je šel s starši na plažo
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:2416.0
+passage.questions.19.answers.1.text:Bil je lačen in si je želel sendvičev
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:2415.0
+passage.questions.19.answers.0.text:Bil je dan za odhod na plažo
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:2414.0
+passage.questions.18.question:Koliko časa bi odšli in kaj so vzeli s seboj?
+passage.questions.18.idx:473.0
+passage.questions.18.answers.3.text:Odšli so ob desetih in s seboj vzeli tri sendviče
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:2413.0
+passage.questions.18.answers.2.text:Odšli bi ob 10. uri in s seboj vzeli sendviče
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:2412.0
+passage.questions.18.answers.1.text:Odšli so opoldne in s seboj vzeli tri sendviče
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:2411.0
+passage.questions.18.answers.0.text:Odšli so opoldne in s seboj vzeli štiri sendviče
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:2410.0
+passage.questions.17.question:Kako se je Sam počutil ob odhodu na plažo in kaj je moral vzeti s seboj?
+passage.questions.17.idx:472.0
+passage.questions.17.answers.4.text:Bil je zelo navdušen, s svojo vedro in lopato
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:2409.0
+passage.questions.17.answers.3.text:Sam je bil nadvse navdušen in babica mu je dala lopato in vedro
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:2408.0
+passage.questions.17.answers.2.text:Bil je zelo navdušen in s seboj je hotel vzeti babico
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:2407.0
+passage.questions.17.answers.1.text:Plaža mu res ni bila všeč, a vsaj poskusil je svoje vedro in lopato
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:2406.0
+passage.questions.17.answers.0.text:Ni hotel iti, je pa bil nad sendviči nadvse navdušen
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:2405.0
+passage.questions.16.question:Kam bi šel Sam, ko bi velika roka kazala na 10, mala pa na 12?
+passage.questions.16.idx:471.0
+passage.questions.16.answers.3.text:V šolo
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:2404.0
+passage.questions.16.answers.2.text:Pri njegovi babici
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:2403.0
+passage.questions.16.answers.1.text:Na zajtrk
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:2402.0
+passage.questions.16.answers.0.text:Na plažo
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:2401.0
+passage.questions.15.question:Kakšen občutek je imel Sam do dneva na plaži?
+passage.questions.15.idx:470.0
+passage.questions.15.answers.5.text:Proti
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:2400.0
+passage.questions.15.answers.4.text:Bil je zelo navdušen
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:2399.0
+passage.questions.15.answers.3.text:Bil je lačen
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:2398.0
+passage.questions.15.answers.2.text:Bil je nezainteresiran
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2397.0
+passage.questions.15.answers.1.text:Vznemirjenje
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:2396.0
+passage.questions.15.answers.0.text:Bil je jezen
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:2395.0
+passage.questions.14.question:Kaj prinaša Sam na potovanje?
+passage.questions.14.idx:469.0
+passage.questions.14.answers.4.text:Čokolada
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:2394.0
+passage.questions.14.answers.3.text:Vedro, lopata in sendviči
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:2393.0
+passage.questions.14.answers.2.text:Njegova sestra
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:2392.0
+passage.questions.14.answers.1.text:Knjige
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:2391.0
+passage.questions.14.answers.0.text:Vedro in lopata njegove babice
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:2390.0
+passage.questions.13.question:Kaj namerava Sam odpeljati na plažo?
+passage.questions.13.idx:468.0
+passage.questions.13.answers.5.text:Njegova babica
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:2389.0
+passage.questions.13.answers.4.text:Vedro in lopata njegove babice
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:2388.0
+passage.questions.13.answers.3.text:Ura
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:2387.0
+passage.questions.13.answers.2.text:Vzame vedro in lopato, ki mu jo je dala babica, in tri sendviče
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:2386.0
+passage.questions.13.answers.1.text:Četrti sendvič
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:2385.0
+passage.questions.13.answers.0.text:Uradniki
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:2384.0
+passage.questions.12.question:Koliko sendvičev so potrebovali in koliko jih je pripravila mama?
+passage.questions.12.idx:467.0
+passage.questions.12.answers.3.text:Potrebovali so štiri sendviče, njegova mama pa štiri
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:2383.0
+passage.questions.12.answers.2.text:Potrebovali so in vzeli tri sendviče, njegova mama pa je na skrivaj pojedla četrtega
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2382.0
+passage.questions.12.answers.1.text:Potrebovali so in naredili tri sendviče, njegova mama pa je začela pripravljati četrtega
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2381.0
+passage.questions.12.answers.0.text:Potrebovali so tri sendviče, a mama je poskušala narediti štiri neumne
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:2380.0
+passage.questions.11.question:Kako se je Sam obnašal, da se je mama nasmejala?
+passage.questions.11.idx:466.0
+passage.questions.11.answers.3.text:Pomikal se je na svojem sedežu
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:2379.0
+passage.questions.11.answers.2.text:Na plažo ni hotel več
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2378.0
+passage.questions.11.answers.1.text:Pojasnil je, zakaj ne potrebujejo še enega sendviča
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:2377.0
+passage.questions.11.answers.0.text:Pojedel je vse sendviče
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2376.0
+passage.questions.10.question:Kateri dan sta šla na plažo in kako je Same pokazal svoje navdušenje?
+passage.questions.10.idx:465.0
+passage.questions.10.answers.5.text:Pojedel je tri sendviče
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:2375.0
+passage.questions.10.answers.4.text:Pomikal se je na svojem sedežu
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:2374.0
+passage.questions.10.answers.3.text:Po pomoti je začel izdelovati četrti sendvič
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2373.0
+passage.questions.10.answers.2.text:Plenilec
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2372.0
+passage.questions.10.answers.1.text:Babici je dal vedro in lopato
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2371.0
+passage.questions.10.answers.0.text:Dan je bil v nedeljo. Sam je svoje navdušenje pokazal s premikanjem na sedežu
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:2370.0
+passage.questions.1.question:Kaj je mama rekla Samu, naj pokaže, da je čas, da gre na plažo?
+passage.questions.1.idx:456
+passage.questions.1.answers.3.text:Mala kazalka na uri kaže na 12, velika pa na 10
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2328.0
+passage.questions.1.answers.2.text:Obe kazalci na uri kažeta na 12
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2327.0
+passage.questions.1.answers.1.text:Četrti sendvič
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2326
+passage.questions.1.answers.0.text:Ko je velika kazalka ure kazala na 10, mala pa na 12
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2325
+passage.questions.0.question:Zakaj je bil Sam navdušen v nedeljo zjutraj?
+passage.questions.0.idx:455
+passage.questions.0.answers.4.text:Ker v nedeljo ni bilo šole
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2324.0
+passage.questions.0.answers.3.text:Bil je navdušen nad izdelavo sendvičev
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2323.0
+passage.questions.0.answers.2.text:Starši so mu obljubili, da ga bodo tisti dan peljali na plažo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2322.0
+passage.questions.0.answers.1.text:Ves dan je lahko preživel s starši
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2321
+passage.questions.0.answers.0.text:Sam je šel na plažo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2320
+idx:41

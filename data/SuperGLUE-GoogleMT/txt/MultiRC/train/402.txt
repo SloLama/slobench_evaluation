@@ -1,0 +1,86 @@
+version:1.1
+passage.text:Howland se je na poti nazaj v taborišče le malo pogovarjal. Prizor, ki mu je bil ravnokar priča, je nanj nenavadno vplival; v njem je še enkrat premešalo vso njegovo staro ambicijo, vse njegovo staro navdušenje, pa vendar noben ni našel glasu v besedah. Bil je vesel, ko se je končala večerja pri Thorneju, in s prehodom poštnih sani in starejšega inženirja je nad njim prišel še globlji občutek veselja. Zdaj je bil on odgovoren, od te ure naprej je bila njegova cesta. MacDonaldu je stisnil roko v stisku, ki je pomenil več kot besede, ko sta se razšla. V lastni kabini je vrgel plašč in kapo, prižgal lulo in poskušal ugotoviti, kaj vse to zanj pomeni. Bil je glavni - zadolžen za največje delo na železniškem gradbeništvu na svetu --_ he_, Jack Howland, ki je bil pred manj kot dvajsetimi leti bosi, napol sestradani ježarji, ki so trgovali po ulicah, kjer je bil zdaj znan! In kaj je bila zdaj ta črna stvar, ki je ogrozila njegove možnosti, ravno tako kot je zmagal v svoji veliki borbi? Stisnil je roke, ko je znova pomislil na to, kar se je že zgodilo - strahopeten poskus njegovega življenja, opozorila in njegova kri je zavrela do vročine. Tisto noč - ko je videl Meleese - bi vedel, kaj storiti. Toda ne bi bil odpeljan, kot sta bila odpeljana Gregson in Thorne. Bil je odločen v tem.
+passage.questions.3.question:Kako se je Jack počutil po večerji in zakaj se je počutil tako?
+passage.questions.3.idx:4576.0
+passage.questions.3.answers.6.text:Jack je bil navdušen nad srečanjem z ljudmi na večerji
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:24180.0
+passage.questions.3.answers.5.text:Jack je bil nesrečen, ker je izgubil službo
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:24179.0
+passage.questions.3.answers.4.text:Občutek veselja, saj je bila pot od te ure naprej njegova
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:24178.0
+passage.questions.3.answers.3.text:Jacku je bilo žal, da je zamenjal Thorna
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:24177.0
+passage.questions.3.answers.2.text:Občutek strahu, ker ni bil vajen biti glavni
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:24176.0
+passage.questions.3.answers.1.text:Srečen, ker je bil zadolžen za železnico
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:24175.0
+passage.questions.3.answers.0.text:Jack je bil vesel, ker je bil zadolžen za gradnjo železnice
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:24174.0
+passage.questions.2.question:Čigave občutke ambicije je vzbudil prejšnji prizor? Navedite ime in priimek.
+passage.questions.2.idx:4575.0
+passage.questions.2.answers.4.text:Jack MacDonald
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:24173.0
+passage.questions.2.answers.3.text:John Thorne
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:24172.0
+passage.questions.2.answers.2.text:James Howland
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:24171.0
+passage.questions.2.answers.1.text:John Howland
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24170.0
+passage.questions.2.answers.0.text:Jack Howland
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:24169.0
+passage.questions.1.question:Kdo je imel poskus njegovega življenja?
+passage.questions.1.idx:4574.0
+passage.questions.1.answers.5.text:MacDonald
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:24168.0
+passage.questions.1.answers.4.text:John Thorne
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:24167.0
+passage.questions.1.answers.3.text:Jim Howland
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:24166.0
+passage.questions.1.answers.2.text:Howland
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24165.0
+passage.questions.1.answers.1.text:Gregson
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:24164.0
+passage.questions.1.answers.0.text:Jack Howland
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:24163.0
+passage.questions.0.question:Je bil Howland odločen kot Thornton?
+passage.questions.0.idx:4573
+passage.questions.0.answers.6.text:Bil je odločen, da bo odgnal ostale
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:24162.0
+passage.questions.0.answers.5.text:Howland je bil bolj odločen kot Thornton
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:24161.0
+passage.questions.0.answers.4.text:Bil je bolj odločen
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:24160.0
+passage.questions.0.answers.3.text:Da
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:24159.0
+passage.questions.0.answers.2.text:Ne
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:24158.0
+passage.questions.0.answers.1.text:Howland je imel enako odločnost kot Thornton
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:24157
+passage.questions.0.answers.0.text:Ni bil odločen
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24156
+idx:402

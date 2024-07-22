@@ -1,0 +1,6 @@
+choice1:S sveče je kapljal vosek.
+choice2:Vosek na sveči se je strdil.
+idx:90
+label:0
+premise:Prižgal sem svečo.
+question:effect

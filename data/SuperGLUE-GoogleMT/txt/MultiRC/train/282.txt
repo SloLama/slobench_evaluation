@@ -1,0 +1,133 @@
+version:1.1
+passage.text:Roberta Adams je preskočila debele smernice za obrazce o skrbništvu in se v sredo usedla za računalnik v pravosodnem centru Lamoreaux v Orangeu. Ženska Garden Grove je odgovorila na vrsto vprašanj, da bi ustvarila in natisnila obrazec, ki ga je vložila na sodišče. &quot;To je enostavno,&quot; je dejal Adams, 25 let. &quot;Mislil sem, da bom imel vsa vprašanja in bi moral obrazce odnesti domov.&quot; Študija Univerze v Kaliforniji v Irvinu, objavljena v sredo, je pokazala, da interaktivni računalniški sistem ljudem učinkovito pomaga pri izpolnjevanju papirjev za prepovedi približevanja, obrambi zaradi izselitve, o sporih v sporih majhne vrednosti in pri zahtevah za opustitev plačila pristojbine. Ne samo, da sistem olajša življenje ljudem, ki si ne morejo privoščiti odvetnika, ampak lahko tudi izboljša učinkovitost sodišč, ker so obrazci, ki se ob izpolnitvi natisnejo, zlahka berejo in se pravilno izpolnjujejo, ugotovljena študija. Od začetka programa leta 2000 je več kot 6000 ljudi uporabljalo brezplačni sistem v javnih stavbah po okrožju Orange. Sistem je razvilo Društvo za pravno pomoč iz okrožja Orange s približno 800.000 USD nepovratnih sredstev. Program se izogiba pravnemu žargonu, ponuja video ogled sodišča in se drži besednjaka petega razreda. Uporabniki lahko izbirajo v angleščini, španščini ali vietnamščini. Kioski so na sodiščih v Fullertonu in Orangeu, uradu za podporo družini okrožnega državnega tožilca, Društvu za pravno pomoč v Santa Ani, mestni hiši Irvine in knjižnici San Juan Capistrano. Program je na voljo tudi na spletu. Bob Cohen, izvršni direktor pravne pomoči, je dejal, da bi morala študija očistiti pot širitvi po vsej Kaliforniji. Lokalno bodo to poletje dodali program prošenj za ločitev. Cohen je dejal, da sistem dokazuje prednosti tehnologije, prilagojene tistim, ki niso računalniško podkovani. Povedal je, da večina tehnologije, ki je zdaj na voljo, zahteva internetno znanje in dostop. Ljudje z nizkimi dohodki pa imajo manj dostopa do računalnikov in manj izkušenj z njihovo uporabo. &quot;Naše stranke morajo nadoknaditi čas in postati del mainstreama,&quot; je dejal Cohen.
+passage.questions.7.question:Kdo je rekel, da večina tehnologije, ki je zdaj na voljo, zahteva internetno znanje in dostop?
+passage.questions.7.idx:3196.0
+passage.questions.7.answers.2.text:Bob Cohen
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:16896.0
+passage.questions.7.answers.1.text:Roberta Adams
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:16895.0
+passage.questions.7.answers.0.text:Adams
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:16894.0
+passage.questions.6.question:Kateri sta dve prednosti sistema?
+passage.questions.6.idx:3195.0
+passage.questions.6.answers.4.text:Izogiba se pravnemu žargonu in je v različnih jezikih
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:16893.0
+passage.questions.6.answers.3.text:Olajšajte življenje ljudem, izboljšajte učinkovitost sodišč
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:16892.0
+passage.questions.6.answers.2.text:Podprta je s pravno pomočjo
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:16891.0
+passage.questions.6.answers.1.text:Ljudje ne morejo zapraviti denarja, nobenega odvetnika
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:16890.0
+passage.questions.6.answers.0.text:Izognili smo se pravnemu žargonu, ljudje z nizkimi dohodki imajo dostop do brezplačne storitve in boljše učinkovitosti sodišč
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:16889.0
+passage.questions.5.question:Kako je nastal program?
+passage.questions.5.idx:3194.0
+passage.questions.5.answers.4.text:Postavili so jo sodišča v Fullertonu in Orangeu
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:16888.0
+passage.questions.5.answers.3.text:Leta 2000 ga je ustanovilo društvo za pravno pomoč iz okrožja Orange
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:16887.0
+passage.questions.5.answers.2.text:Fromt, raziskovalec univerze v Kaliforniji
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:16886.0
+passage.questions.5.answers.1.text:Razvilo ga je Društvo za pravno pomoč iz okrožja Orange s približno 800.000 USD nepovratnih sredstev
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:16885.0
+passage.questions.5.answers.0.text:Program je razvilo Društvo za pravno pomoč iz okrožja Orange s približno 800.000 USD nepovratnih sredstev
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:16884.0
+passage.questions.4.question:Od kod lahko dostopam do programa?
+passage.questions.4.idx:3193.0
+passage.questions.4.answers.4.text:Splet, kioski sodišč, pravna pomoč, mestna hiša, knjižnica
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:16883.0
+passage.questions.4.answers.3.text:Program je dostopen s sodišč v Fullertonu in Orangeu, urada za podporo družini okrožnega državnega tožilca, Društva za pravno pomoč v Santa Ani, mestne hiše Irvine in knjižnice San Juan Capistrano
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:16882.0
+passage.questions.4.answers.2.text:Do njega lahko dostopate v pisarnah pravne pomoči
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:16881.0
+passage.questions.4.answers.1.text:Univerzitetni kiosk
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:16880.0
+passage.questions.4.answers.0.text:Splet prek interneta
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:16879.0
+passage.questions.3.question:Katere izobraževalne in jezikovne potrebe so izpolnjene?
+passage.questions.3.idx:3192.0
+passage.questions.3.answers.4.text:Uporablja se besedišče petega razreda, na voljo pa so trije jeziki: angleščina, vietnamščina in španščina
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:16878.0
+passage.questions.3.answers.3.text:Računalniško znanje, angleščina, španščina ali vietnamščina
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:16877.0
+passage.questions.3.answers.2.text:Magister, angleščina, francoščina in portugalščina
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:16876.0
+passage.questions.3.answers.1.text:Ponuja video ogled sodišča
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:16875.0
+passage.questions.3.answers.0.text:Drži se besedišča 5. razreda in uporabniki lahko izbirajo v angleščini, španščini ali vietnamščini
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:16874.0
+passage.questions.2.question:Katere obrazce lahko izpolnite prek kioska?
+passage.questions.2.idx:3191.0
+passage.questions.2.answers.4.text:Omejevalni nalogi, obramba proti deložaciji, primeri majhne vrednosti in zahteve za opustitev vložitve pristojbine
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:16873.0
+passage.questions.2.answers.3.text:Prepovedi približevanja, obrazci za skrbništvo nad otroki, obramba proti deložaciji, primeri majhne vrednosti in zahtevki za opustitev vloge
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:16872.0
+passage.questions.2.answers.2.text:Obrazci za skrbništvo nad otroki
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:16871.0
+passage.questions.2.answers.1.text:Deložacija, prepovedi približevanja, skrbništvo nad otrokom
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:16870.0
+passage.questions.2.answers.0.text:Obrazci za dohodnino, obrazci za najemnino
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:16869.0
+passage.questions.1.question:Kdo je mislil, da bodo imeli vsa vprašanja in bi morali domov vzeti obrazce za skrbništvo nad otroki?
+passage.questions.1.idx:3190.0
+passage.questions.1.answers.4.text:Ženska Garden Grove
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:16868.0
+passage.questions.1.answers.3.text:Bob Cohen
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:16867.0
+passage.questions.1.answers.2.text:Adams
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:16866.0
+passage.questions.1.answers.1.text:Roberta Adams
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:16865.0
+passage.questions.1.answers.0.text:Ženska
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:16864.0
+passage.questions.0.question:V katerem mestu živi Roberta Adams?
+passage.questions.0.idx:3189
+passage.questions.0.answers.4.text:Irvine City
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:16863.0
+passage.questions.0.answers.3.text:Oranžna okrožja
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:16862.0
+passage.questions.0.answers.2.text:Vrtni gaj
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:16861.0
+passage.questions.0.answers.1.text:Santa Ana
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:16860
+passage.questions.0.answers.0.text:Kalifornija
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:16859
+idx:282

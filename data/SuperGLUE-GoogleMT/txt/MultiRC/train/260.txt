@@ -1,0 +1,71 @@
+version:1.1
+passage.text:V četrtek je Fort Waelhem podlegel po veličastnem odporu. Garnizona jo je držala, dokler ni bila zgolj kopica ruševin, in res so imeli največ težav pri izhodu. Menim, da je zelo malo dvoma, da so Nemci proti tem utrdbam uporabljali svoje največje puške, velike 42-centimetrske havbice. Znano je, da sta bila dva od njih po padcu Maubeugea pripeljana proti severu, mimo Bruslja, in odlomek, ki smo ga dobili, je bil skoraj dokončen. Nekega jutra nam ga je v dar prinesel hvaležni bolnik in prišel je iz okolice Fort Waelhem. Bila je masa poliranega jekla, dolga dva, široka in debela tri centimetre, in tehtala je približno petdeset kilogramov. Bil je zelo nepravilne oblike, z robovi, ostrimi kot britvice, brez delcev rje na njem. Pobrali so ga tam, kjer je še vedno vroče padel, in to je bil daleč najboljši drobec lupine, kar sem jih kdaj videl. Žal smo ga morali zapustiti, leži pa zakopano na vrtu ob naši bolnišnici. Nekega dne ga bodo izkopali in razstavili kot prepričljiv dokaz, da so Nemci pri obstreljevanju mesta uporabili svoje velike puške.
+passage.questions.3.question:Kako je izgledal fragment pištole?
+passage.questions.3.idx:2908.0
+passage.questions.3.answers.5.text:Polirano jeklo, dolgo dva metra, široko in debelo tri centimetre, tehtalo je približno petdeset kilogramov
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:15467.0
+passage.questions.3.answers.4.text:Bil je z rjo prekrit kos kovine, ki se je pobral, ko je padel
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:15466.0
+passage.questions.3.answers.3.text:Zelo nepravilne oblike, z robovi, ostrimi kot britvice, brez delcev rje na sebi
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:15465.0
+passage.questions.3.answers.2.text:Bil je majhen in dobro oblikovan
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15464.0
+passage.questions.3.answers.1.text:Bila je masa poliranega jekla, dolga dva, široka in debela tri centimetre, in tehtala je približno petdeset kilogramov. Bil je zelo nepravilne oblike, z robovi, ostrimi kot britvice, brez delcev rje na njem
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:15463.0
+passage.questions.3.answers.0.text:Bil je velik, iz jekla, dolge in nepravilne oblike z ostrimi robovi
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:15462.0
+passage.questions.2.question:V katerem mestu je bil najden drobec pištole?
+passage.questions.2.idx:2907.0
+passage.questions.2.answers.4.text:Soseska Fort Waelhem
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:15461.0
+passage.questions.2.answers.3.text:Po padcu Maubeugea proti severu mimo Bruslja
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15460.0
+passage.questions.2.answers.2.text:Bruselj
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:15459.0
+passage.questions.2.answers.1.text:Trdnjava Waelheim
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15458.0
+passage.questions.2.answers.0.text:Trdnjava Waelhem
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:15457.0
+passage.questions.1.question:Kako so našli drobce pištole? (Kdo, kje, v kakšnem stanju?)
+passage.questions.1.idx:2906.0
+passage.questions.1.answers.4.text:E Hvaležen bolnik ga je pobral tam, kjer je še vedno vroč, brez delca rje, pobral pa ga je tam, kjer je še vedno vroče padel v okolici Fort Waelheim, in je bil daleč najfiniji odsek lupine, ki so ga našli
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:15456.0
+passage.questions.1.answers.3.text:Ugotovil ga je pacient, verjetno po padcu Maubeugea, ki je prišel iz utrdbe Waelhem in je bil še vedno vroč
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:15455.0
+passage.questions.1.answers.2.text:Pacient jo je našel zakopano na vrtu ob bolnišnici
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:15454.0
+passage.questions.1.answers.1.text:Našel ga je garnizon v Fort Waelhemu, zato je bilo vroče
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:15453.0
+passage.questions.1.answers.0.text:Nekdo ga je našel v Bruslju, tako da je bilo kul
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:15452.0
+passage.questions.0.question:Je bil fragment pištole velik ali majhen?
+passage.questions.0.idx:2905
+passage.questions.0.answers.3.text:Majhna
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:15451.0
+passage.questions.0.answers.2.text:Velik
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15450.0
+passage.questions.0.answers.1.text:Velik dva metra, širok meter in debel tri centimetre, tehtal je približno petdeset kilogramov
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:15449
+passage.questions.0.answers.0.text:Srednja velikost
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:15448
+idx:260

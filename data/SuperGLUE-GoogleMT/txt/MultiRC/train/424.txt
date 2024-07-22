@@ -1,0 +1,196 @@
+version:1.1
+passage.text:Za mizo v konferenčni sobi je bil namestnik šefa kabineta Bele hiše Joshua Bolten. Bolten je opazoval izmenjave in po tako imenovanem &quot;mirnem trenutku&quot; predlagal, naj podpredsednik stopi v stik s predsednikom in potrdi ukaz za sodelovanje. Bolten nam je povedal, da želi zagotoviti, da bodo predsedniku povedali, da je podpredsednik ukaz izvršil. Dejal je, da s predsednikom še ni slišal predhodne razprave o tej temi. Podpredsednik je bil prijavljen, da je predsednika ob 10:18 poklical na dvominutni pogovor, ki je dobil potrditev. Na Air Force One je predsednikov tiskovni sekretar zapisoval; Ari Fleischer je zapisal, da mu je predsednik ob 10.20 povedal, da je po potrebi odobril sestavljanje letala. Minile so minute in prišla je vest o letalu spodaj v Pensilvaniji. Tisti v zavetišču so se spraševali, ali je bilo letalo sestreljeno v skladu s tem pooblastilom. Približno ob 10.30 je zavetišče začelo prejemati poročila o drugem ugrabljenem letalu, tokrat oddaljenem le 5 do 10 milj. Ker je imel le minuto ali dve, je podpredsednik znova sporočil pooblastilo za &quot;vključitev ali&quot; odstranitev &quot;letala. Ob 10:33 je Hadley v konferenčni klic o zračni nevarnosti dejal:&quot; Moram obvestiti Dicka Myersa, da naša poročila kažejo, da prihajajoče letalo leti le 5 km stran. Navodila podpredsednika so bila, da jih moramo umakniti. &quot;Še enkrat ni bilo takojšnjih informacij o usodi prihajajočega letala. V ustreznem opisu ene priče:&quot; Pade pod radarski zaslon in samo nenehno lebdi v vaša domišljija; ne veste, kje je in kaj se z njim zgodi. &quot;Sčasoma so v zavetišču prejeli vest, da naj bi bil ugrabitelj, oddaljen 5 milj, helikopter medevac. Prenos dovoljenja iz Bele hiše v pilote NMCC je izvedel za United Ugrabitev 93 okoli 10:03. FAA v tem času ni imela stikov z vojsko na ravni državnega poveljstva. NMCC je za United 93 izvedel iz Bele hiše.
+passage.questions.9.question:HAd je bila predhodna razprava in kaj je Boltena skrbelo?
+passage.questions.9.idx:4786.0
+passage.questions.9.answers.3.text:Brez predhodne razprave - hotel se je prepričati, da je predsedniku povedal, da je podpredsednik ukaz izvršil
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:25523.0
+passage.questions.9.answers.2.text:Brez predhodne razprave - hotel se je prepričati, da podpredsednik ve vse, kar se dogaja
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:25522.0
+passage.questions.9.answers.1.text:Ker predhodnega pogovora s predsednikom ni bilo, je želel, da predsednik ve, da je podpredsednik ukaz izvršil
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:25521.0
+passage.questions.9.answers.0.text:Da, bil je - hotel je zagotoviti, da so predsedniku povedali, da je podpredsednik ukaz izvršil
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:25520.0
+passage.questions.8.question:Kje je bil predsednik ob 10:18, ko ga je poklical podpredsednik?
+passage.questions.8.idx:4785.0
+passage.questions.8.answers.4.text:&quot;NMCC&quot;
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:25519.0
+passage.questions.8.answers.3.text:Ovalni urad
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:25518.0
+passage.questions.8.answers.2.text:Na počitnicah
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:25517.0
+passage.questions.8.answers.1.text:Air Force One
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:25516.0
+passage.questions.8.answers.0.text:&quot;Bela hiša&quot;
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:25515.0
+passage.questions.7.question:Kje je bil Joshua Bolten, ko je predlagal, naj podpredsednik stopi v stik s predsednikom in potrdi ukaz o zaroki?
+passage.questions.7.idx:4784.0
+passage.questions.7.answers.5.text:Konferenčna soba
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:25514.0
+passage.questions.7.answers.4.text:Air Force One
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:25513.0
+passage.questions.7.answers.3.text:Za mizo v konferenčni sobi
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:25512.0
+passage.questions.7.answers.2.text:Ovalna pisarna
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:25511.0
+passage.questions.7.answers.1.text:&quot;Bolten je gledal izmenjavo&quot;
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:25510.0
+passage.questions.7.answers.0.text:&quot;potrdite naročilo za vključitev&quot;
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:25509.0
+passage.questions.6.question:Je predsednik ukazal, naj se letalo ustavi?
+passage.questions.6.idx:4783.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:25508.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:25507.0
+passage.questions.5.question:Kako dolgo je vlada spremljala letalo?
+passage.questions.5.idx:4782.0
+passage.questions.5.answers.5.text:30 minut
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:25506.0
+passage.questions.5.answers.4.text:10 minut
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:25505.0
+passage.questions.5.answers.3.text:Od 10:03 do 10:30
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:25504.0
+passage.questions.5.answers.2.text:15 minut
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:25503.0
+passage.questions.5.answers.1.text:&quot;Prenos dovoljenja&quot;
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:25502.0
+passage.questions.5.answers.0.text:&quot;Dokler Aricraft ne pade pod radarski zaslon&quot;
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:25501.0
+passage.questions.4.question:O čem je govoril Bolten?
+passage.questions.4.idx:4781.0
+passage.questions.4.answers.5.text:&quot;Podpredsednik stopi v stik s predsednikom in potrdi ukaz za sodelovanje&quot;
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:25500.0
+passage.questions.4.answers.4.text:VP se pogovarja s predsednikom,
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:25499.0
+passage.questions.4.answers.3.text:Kdo je napadel
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25498.0
+passage.questions.4.answers.2.text:Ugrabljeno letalo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:25497.0
+passage.questions.4.answers.1.text:&quot;vključi naročilo&quot;
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:25496.0
+passage.questions.4.answers.0.text:Vrstni red nasledstva
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:25495.0
+passage.questions.3.question:Približno koliko časa je preteklo med tem, ko je bil podpredsednik prijavljen, da je poklical predsednika, in ko je zavetišče prvič dobilo poročila o drugem ugrabljenem letalu?
+passage.questions.3.idx:4780.0
+passage.questions.3.answers.6.text:10 minut
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:25494.0
+passage.questions.3.answers.5.text:15 minut
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:25493.0
+passage.questions.3.answers.4.text:&quot;ob 10.33 uri.&quot;
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:25492.0
+passage.questions.3.answers.3.text:12 minut
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:25491.0
+passage.questions.3.answers.2.text:&quot;tri sekunde&quot;
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25490.0
+passage.questions.3.answers.1.text:13 minut
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25489.0
+passage.questions.3.answers.0.text:1 uro
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25488.0
+passage.questions.2.question:Ali so obstajali predhodni podatki o nizko letečih letalih in kaj se je izkazalo za njih?
+passage.questions.2.idx:4779.0
+passage.questions.2.answers.3.text:Da - helikopter medevac
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:25487.0
+passage.questions.2.answers.2.text:Da - komercialno letalo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25486.0
+passage.questions.2.answers.1.text:Ne - helikopter medevac
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25485.0
+passage.questions.2.answers.0.text:Ker ni bilo podatkov o letalu, je bilo izdano naročilo za odstranitev, vendar se je izkazalo, da gre za helikopter medika
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:25484.0
+passage.questions.10.question:O čem je tekel pogovor med podpredsednikom in predsednikom?
+passage.questions.10.idx:4787.0
+passage.questions.10.answers.5.text:&quot;Predsedniku so povedali, da je podpredsednik ukaz izvršil.&quot;
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:25529.0
+passage.questions.10.answers.4.text:Ukaz za sestrelitev letala
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:25528.0
+passage.questions.10.answers.3.text:Kaj storiti z nizko letečim letalom
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:25527.0
+passage.questions.10.answers.2.text:Ko bi se vrnil v Washington
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:25526.0
+passage.questions.10.answers.1.text:&quot;Ni neposrednega pogovora med njima&quot;
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:25525.0
+passage.questions.10.answers.0.text:Kdo je stal za napadi
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:25524.0
+passage.questions.1.question:Kdo je v Beli hiši prosil podpredsednika, naj stopi v stik s predsednikom in kaj je bilo treba potrditi?
+passage.questions.1.idx:4778.0
+passage.questions.1.answers.4.text:Tajnica Joshua Boltena - ukaz o zaroki
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:25483.0
+passage.questions.1.answers.3.text:Namestnik šefa kabineta Bele hiše Joshua Bolten je želel, da se potrdi ukaz o zaroki
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:25482.0
+passage.questions.1.answers.2.text:Joshua Bolten - Čas vzleta Air Force One
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:25481.0
+passage.questions.1.answers.1.text:Namestnik šefa kabineta Bele hiše Joshua Bolten je hotel potrditi predsednika
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:25480.0
+passage.questions.1.answers.0.text:Joshua Bolten - Naroči se
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:25479.0
+passage.questions.0.question:Kdo je bil del tega pogovora?
+passage.questions.0.idx:4777
+passage.questions.0.answers.5.text:Bolten in Fleischer
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:25478.0
+passage.questions.0.answers.4.text:&quot;Predsednikova tiskovna sekretarka&quot;
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:25477.0
+passage.questions.0.answers.3.text:Bolten, predsednik, Fleischer
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:25476.0
+passage.questions.0.answers.2.text:Fleischer, Cheney in Bush
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:25475.0
+passage.questions.0.answers.1.text:&quot;Podpredsednik&quot;
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25474
+passage.questions.0.answers.0.text:Bolten, Cheney in Bush
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:25473
+idx:424

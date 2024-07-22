@@ -1,0 +1,251 @@
+version:1.1
+passage.text:Dedek Littlefoota neke noči otrokom pripoveduje zgodbo o &quot;Samotnem dinozavru&quot;, legendarni dolgi vratu, ki je nekoč varoval Veliko dolino pred najbolj divjim ostrim zobom, kar jih je kdaj živelo. Sledil je boj, ki je pripeljal do smrti Sharptooth-a. Vendar je ostrozobi levi &quot;Samotni dinozaver&quot; z brazgotino prerezal desno oko. Kmalu po bitki je med potresom iz tal prišel ogromen monolit, ki je spominjal na ponosnega sauropoda in je imel okoli vratu razporejene ostre zobe v naravni velikosti. Dinozavri so ga poimenovali &quot;skala Saurus&quot;. Legenda tudi pravi, da če se kdo poškoduje monolit, se slaba sreča spusti v dolino. Nekaj dni kasneje, ko se otroci igrajo, Littlefoot po naključju pade s pečine. Tik preden se udari po tleh, ga reši osorni Diplodocus. Ta dolga vrat se predstavlja samo kot &quot;Doc&quot; in ne pozna svoje zgodovine. Littlefoot je navdušen nad tem novincem, ki ima brazgotine na enem očesu in kaže predhodno znanje o topografiji Velike doline. Iz predhodnih razlogov Littlefoot domneva, da je Doc osamljeni dinozaver. To pove svojim prijateljem in v podporo svoji domnevi pripoveduje na videz nekdanjo legendo. Ceraine nečakinje, dvojčka Dinah in Dana, navdihnjene odidejo na Saurus Rock, ne da bi kdo to opazil. Kasneje, ko se prijatelji igrajo, opazijo, da Dinah in Dana pogrešata. Ko se spomnijo njihovega pogovora prejšnjega dne, jih odidejo do Saurus Rock.
+passage.questions.9.question:Kakšen je odnos Littlefoota z Dinah in Dana?
+passage.questions.9.idx:191.0
+passage.questions.9.answers.4.text:So nečakinje njegove prijateljice Cere
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:993.0
+passage.questions.9.answers.3.text:Je njihov starejši brat
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:992.0
+passage.questions.9.answers.2.text:On je njihov bratranec
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:991.0
+passage.questions.9.answers.1.text:Je prijatelj z njihovo teto Cero
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:990.0
+passage.questions.9.answers.0.text:Nikoli jih ni srečal
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:989.0
+passage.questions.8.question:Je bila zgodba o dedku Littlefoota zanesljiva ali resnična?
+passage.questions.8.idx:190.0
+passage.questions.8.answers.1.text:Da
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:988.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:987.0
+passage.questions.7.question:Kdo je šel na Saurus Rock, da bi našel Dinah in Dana?
+passage.questions.7.idx:189.0
+passage.questions.7.answers.4.text:Cera in Littlefoot
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:986.0
+passage.questions.7.answers.3.text:Doc
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:985.0
+passage.questions.7.answers.2.text:Littlefoot in njegov dedek
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:984.0
+passage.questions.7.answers.1.text:Littelfoot in Doc
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:983.0
+passage.questions.7.answers.0.text:Prijatelji
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:982.0
+passage.questions.6.question:Zakaj Littlefoot misli, da je našel »osamljenega dinozavra«?
+passage.questions.6.idx:188.0
+passage.questions.6.answers.5.text:Videti je, kako Doc ubije Ostrega zoba
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:981.0
+passage.questions.6.answers.4.text:Doc ima brazgotino na očesu
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:980.0
+passage.questions.6.answers.3.text:Sliši, kako Doc govori Sarah, da je osamljeni dinozaver
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:979.0
+passage.questions.6.answers.2.text:Praznuje
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:978.0
+passage.questions.6.answers.1.text:Opazi, da si je Doc ustvaril dom v steni skale Saurus
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:977.0
+passage.questions.6.answers.0.text:Dedek Littlefoota mu pripoveduje zgodbo o &quot;Osamljenem dinozavru&quot;, hudem borcu z dolgim vratom, ki je dobil brazgotino, ko ga reši stara dolga vratu z enako brazgotino, misli, da je to osamljeni dinozaver
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:976.0
+passage.questions.5.question:Kdo pogreša na koncu zgodbe?
+passage.questions.5.idx:187.0
+passage.questions.5.answers.3.text:Cera in Littlefoot
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:975.0
+passage.questions.5.answers.2.text:Dana in Cera
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:974.0
+passage.questions.5.answers.1.text:Dinah in Dana
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:973.0
+passage.questions.5.answers.0.text:Doc
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:972.0
+passage.questions.4.question:Zakaj Littlefoot in njegovi prijatelji mislijo, da sta dvojčka odšla na Saurus Rock?
+passage.questions.4.idx:186.0
+passage.questions.4.answers.5.text:Ker jih je zanimala zgodba Littlefoota o osamljenem dinozavru
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:971.0
+passage.questions.4.answers.4.text:Ker so pustili sled sladkarijem iz trde vode
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:970.0
+passage.questions.4.answers.3.text:Ker so dan prej govorili o samotnem dinozavru in omenili Saurus Rock
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:969.0
+passage.questions.4.answers.2.text:Ker je drug dinozaver videl, v katero smer so se napotili
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:968.0
+passage.questions.4.answers.1.text:Ker vedno hodijo tja
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:967.0
+passage.questions.4.answers.0.text:Ker so mu tako povedali prijatelji, potem ko je pripovedoval očitno nekdanjo legendo
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:966.0
+passage.questions.3.question:Kam greta Dinah in Dana, ko sta slišali zgodbo o osamljenem dinozavru iz Littlefoota?
+passage.questions.3.idx:185.0
+passage.questions.3.answers.4.text:Velika voda
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:965.0
+passage.questions.3.answers.3.text:Hrumeči slapovi
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:964.0
+passage.questions.3.answers.2.text:Rock Saurus
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:963.0
+passage.questions.3.answers.1.text:Prijatelji
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:962.0
+passage.questions.3.answers.0.text:Velika dolina
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:961.0
+passage.questions.2.question:Kdo reši Littlefoota, ko pade s pečine?
+passage.questions.2.idx:184
+passage.questions.2.answers.2.text:Njegov dedek
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:960.0
+passage.questions.2.answers.1.text:Cera
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:959
+passage.questions.2.answers.0.text:Doc
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:958
+passage.questions.15.question:Kdo misli, da je Littlefoot &quot;osamljeni dinozaver&quot;?
+passage.questions.15.idx:197.0
+passage.questions.15.answers.4.text:Njegov dedek
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:1021.0
+passage.questions.15.answers.3.text:Doc
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:1020.0
+passage.questions.15.answers.2.text:Dinah
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:1019.0
+passage.questions.15.answers.1.text:Dana
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:1018.0
+passage.questions.15.answers.0.text:Legendarni dolgi vrat
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:1017.0
+passage.questions.14.question:Koga sreča dolga vrat Littefoot in zakaj misli, da je osamljeni dinozaver?
+passage.questions.14.idx:196.0
+passage.questions.14.answers.4.text:Hank - ker ima brazgotino na enem očesu
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:1016.0
+passage.questions.14.answers.3.text:Doc - ker ima brazgotino na enem očesu
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:1015.0
+passage.questions.14.answers.2.text:Doc - ker mu pove
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1014.0
+passage.questions.14.answers.1.text:Doc, ker ima brazgotino čez desno oko in ve za topografijo Velike doline
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:1013.0
+passage.questions.14.answers.0.text:Doc - ker ga vidi, kako ubije oster zob
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1012.0
+passage.questions.13.question:Kako je ime velikanskemu monolitu?
+passage.questions.13.idx:195.0
+passage.questions.13.answers.3.text:Longneck Rock
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:1011.0
+passage.questions.13.answers.2.text:Rock Saurus
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:1010.0
+passage.questions.13.answers.1.text:Lone Rock
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1009.0
+passage.questions.13.answers.0.text:Ostri zob
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1008.0
+passage.questions.12.question:Zakaj jo dinozavri imenujejo Saurus Rock?
+passage.questions.12.idx:194.0
+passage.questions.12.answers.4.text:Izgleda kot velikanski rep z dolgim vratom
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:1007.0
+passage.questions.12.answers.3.text:Legendarni dolgi vrat, ki je nekoč varoval Veliko dolino pred najbolj divjimi ostrimi zobmi, kar jih je kdaj živelo. Sledil je boj, ki je pripeljal do smrti Sharptooth-a. Ogromen monolit, ki je spominjal na ponosnega sauropoda in je imel okoli oštrih zob v velikosti ostre zobe, je prišel iz zemlje med potresom
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:1006.0
+passage.questions.12.answers.2.text:Ker vsi drugi to počnejo
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1005.0
+passage.questions.12.answers.1.text:Na njem piše &quot;Saurus Rock&quot;
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:1004.0
+passage.questions.12.answers.0.text:Oblikovan je kot velikanski sauropod
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:1003.0
+passage.questions.11.question:Kdo je bil sovražnik dinozavra?
+passage.questions.11.idx:193.0
+passage.questions.11.answers.4.text:Doc
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:1002.0
+passage.questions.11.answers.3.text:Littlefootov dedek
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:1001.0
+passage.questions.11.answers.2.text:Ostrozobec
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:1000.0
+passage.questions.11.answers.1.text:Cera
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:999.0
+passage.questions.11.answers.0.text:Ostri zob
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:998.0
+passage.questions.10.question:Kdo je rešil malo nog pred padcem?
+passage.questions.10.idx:192.0
+passage.questions.10.answers.3.text:Njegov dedek
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:997.0
+passage.questions.10.answers.2.text:Nihče
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:996.0
+passage.questions.10.answers.1.text:Cera
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:995.0
+passage.questions.10.answers.0.text:Doc
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:994.0
+passage.questions.1.question:Kdo je bil junak malega dedka?
+passage.questions.1.idx:183
+passage.questions.1.answers.3.text:&quot;Duke the Diploducus&quot;
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:957.0
+passage.questions.1.answers.2.text:&quot;Osamljeni sauropod&quot;
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:956.0
+passage.questions.1.answers.1.text:&quot;Drzni sauropod&quot;
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:955
+passage.questions.1.answers.0.text:&quot;Samotni dinozaver&quot;
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:954
+passage.questions.0.question:Kdo je ubil Sharptooth?
+passage.questions.0.idx:182
+passage.questions.0.answers.3.text:Cerov oče
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:953.0
+passage.questions.0.answers.2.text:Samotni dinozaver
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:952.0
+passage.questions.0.answers.1.text:Littlefootov dedek
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:951
+passage.questions.0.answers.0.text:Littlefoot-ova mama
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:950
+idx:18

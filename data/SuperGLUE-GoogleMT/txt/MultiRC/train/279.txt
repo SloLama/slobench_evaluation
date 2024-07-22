@@ -1,0 +1,229 @@
+version:1.1
+passage.text:Zmanjšanje porabe virov pomeni ravno tisto, kar piše z uporabo manj virov. Obstaja veliko načinov, kako zmanjšati porabo virov. Kupite trajno blago. Izberite izdelke, ki so dobro narejeni, tako da bodo zdržali dlje. Dolgoročno boste kupili manj predmetov, tako boste prihranili denar in sredstva. To je win-win! Popravite in ne zamenjajte. Namesto nakupa novega popravite kolo. Namesto nakupa nove majice prišite gumb. Uporabili boste manj virov in prihranili denar. Kupite samo tisto, kar potrebujete. Ne kupujte galone mleka, če lahko spijete le polovico, preden se pokvari. Namesto tega kupite pol galone in popijte vse. Ne boste zapravljali virov (ali denarja!) Kupujte lokalno. Na primer, kupite lokalne pridelke na kmetijski tržnici, kot je slika na sliki 2.20. Veliko blaga prihranite, če blaga ne pošiljate na velike razdalje. Tudi izdelki, kupljeni na trgih kmetov, uporabljajo manj embalaže! Približno tretjina tistega, kar vržemo ven, je embalaža.
+passage.questions.7.question:Kako se kupuje samo tisto, kar potrebujete, da se izognete izgubi virov?
+passage.questions.7.idx:3174.0
+passage.questions.7.answers.8.text:Poskusite uporabiti manj izdelkov, ki jih kupite
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:16769.0
+passage.questions.7.answers.7.text:Delite, kar imate
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:16768.0
+passage.questions.7.answers.6.text:Hrana se ne bo pokvarila
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:16767.0
+passage.questions.7.answers.5.text:Zavrženih bo manj, ker se je predmet pokvaril
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:16766.0
+passage.questions.7.answers.4.text:Kmetje bodo zmanjšali embalažo
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:16765.0
+passage.questions.7.answers.3.text:Kupite samo tisto, kar lahko uporabite
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:16764.0
+passage.questions.7.answers.2.text:Prihranili boste denar
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:16763.0
+passage.questions.7.answers.1.text:Kupite več, kot potrebujete
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:16762.0
+passage.questions.7.answers.0.text:Ne kupujte galone mleka, če lahko spijete le polovico, preden se pokvari, raje kupite pol galone
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:16761.0
+passage.questions.6.question:Kako nakup lokalnega prebivalstva zmanjša porabo virov?
+passage.questions.6.idx:3173.0
+passage.questions.6.answers.8.text:Veliko blaga prihranite, če blaga ne pošiljate na velike razdalje. Tudi izdelki, kupljeni na trgih kmetov, uporabljajo manj embalaže! Približno tretjina tistega, kar vržemo ven, je embalaža
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:16760.0
+passage.questions.6.answers.7.text:Zmanjša porabo energije
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:16759.0
+passage.questions.6.answers.6.text:Uporablja se manj embalaže
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:16758.0
+passage.questions.6.answers.5.text:Ni vam treba potovati tako daleč
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:16757.0
+passage.questions.6.answers.4.text:Cene so nižje
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:16756.0
+passage.questions.6.answers.3.text:Uporablja manj jedrske energije
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:16755.0
+passage.questions.6.answers.2.text:Hrana je bolj sveža
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:16754.0
+passage.questions.6.answers.1.text:Veliko blaga prihranite, če blaga ne pošiljate na velike razdalje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:16753.0
+passage.questions.6.answers.0.text:preprečuje uporabo tovarn
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:16752.0
+passage.questions.5.question:Kako lahko z nakupom lokalnih zmanjšate porabo virov?
+passage.questions.5.idx:3172.0
+passage.questions.5.answers.9.text:Uporablja se manj embalaže
+passage.questions.5.answers.9.label:1.0
+passage.questions.5.answers.9.idx:16751.0
+passage.questions.5.answers.8.text:Mali lokalni kmetje reciklirajo
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:16750.0
+passage.questions.5.answers.7.text:Denar ostane lokalno
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:16749.0
+passage.questions.5.answers.6.text:Uporabljate manj jedrske energije
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:16748.0
+passage.questions.5.answers.5.text:Uporabljate manj mineralov
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:16747.0
+passage.questions.5.answers.4.text:Porabite manj sončne energije
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:16746.0
+passage.questions.5.answers.3.text:Veliko blaga prihranite, če blaga ne pošiljate na velike razdalje
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:16745.0
+passage.questions.5.answers.2.text:Blago ni treba odpremiti na velike razdalje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:16744.0
+passage.questions.5.answers.1.text:Lokalni kmetje porabijo manj vode
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:16743.0
+passage.questions.5.answers.0.text:Veliko virov prihranimo, če blaga ne pošiljamo na velike razdalje, številni izdelki, kupljeni na trgih kmetov, pa porabijo manj denarja
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:16742.0
+passage.questions.4.question:Kateri sta dva primera popravila in ne zamenjave?
+passage.questions.4.idx:3171.0
+passage.questions.4.answers.9.text:Namesto da majico zamenjate, na majico prišite nov gumb
+passage.questions.4.answers.9.label:1.0
+passage.questions.4.answers.9.idx:16741.0
+passage.questions.4.answers.8.text:Namesto nakupa novega popravite kolo in si prišite gumb, namesto da kupite novo majico
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:16740.0
+passage.questions.4.answers.7.text:Namesto da bi ga zamenjali, popravite kolo
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:16739.0
+passage.questions.4.answers.6.text:Kupite manjšo količino mleka, kupite lokalno
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:16738.0
+passage.questions.4.answers.5.text:Ko pojeste zelenjavo, gojite novo rastlino
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:16737.0
+passage.questions.4.answers.4.text:Kupite trajno blago in od kmetov
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:16736.0
+passage.questions.4.answers.3.text:Naročite po spletu, da zmanjšate stroške pošiljanja
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:16735.0
+passage.questions.4.answers.2.text:Po možnosti kupujte novo blago
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:16734.0
+passage.questions.4.answers.1.text:Na majico prišite gumb, kupite lokalno
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:16733.0
+passage.questions.4.answers.0.text:Pritrdite kolo, prišite gumb na majico
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:16732.0
+passage.questions.3.question:Kako se kupuje trajno blago, da se zmanjša raba virov?
+passage.questions.3.idx:3170.0
+passage.questions.3.answers.7.text:Kupujte stvari brez pakiranja
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:16731.0
+passage.questions.3.answers.6.text:Kupite pri uglednih prodajalcih
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:16730.0
+passage.questions.3.answers.5.text:Trajajo dlje, zato vam ne bo treba takoj odkupiti istega izdelka
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:16729.0
+passage.questions.3.answers.4.text:Stroški pošiljanja so odpravljeni
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:16728.0
+passage.questions.3.answers.3.text:Embalaža se zmanjša
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:16727.0
+passage.questions.3.answers.2.text:Izberite izdelke, ki so dobro narejeni, tako da bodo zdržali dlje
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:16726.0
+passage.questions.3.answers.1.text:Izberite predmete, ki so dobro narejeni, tako da bodo zdržali dlje; dolgoročno boste kupili manj predmetov, tako boste prihranili denar in sredstva
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:16725.0
+passage.questions.3.answers.0.text:Kupite nekaj v trdni embalaži
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:16724.0
+passage.questions.2.question:Kako nakup trajnega blaga pomaga zmanjšati porabo virov?
+passage.questions.2.idx:3169.0
+passage.questions.2.answers.7.text:Kupili boste manj predmetov
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:16723.0
+passage.questions.2.answers.6.text:Uporablja manj fosilnih goriv
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:16722.0
+passage.questions.2.answers.5.text:Izberite izdelke, ki so dobro narejeni, tako da bodo zdržali dlje. Dolgoročno boste kupili manj predmetov, tako boste prihranili denar in sredstva
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:16721.0
+passage.questions.2.answers.4.text:Uporablja manj embalaže
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:16720.0
+passage.questions.2.answers.3.text:Trajno blago porabi manj virov za njegovo izdelavo
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:16719.0
+passage.questions.2.answers.2.text:Zapravili boste manj denarja
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:16718.0
+passage.questions.2.answers.1.text:Uporablja manj pošiljanja
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:16717.0
+passage.questions.2.answers.0.text:Dolgoročno boste kupili manj izdelkov, tako boste prihranili denar in sredstva
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:16716.0
+passage.questions.1.question:Kako je win-win nakup trajnega blaga?
+passage.questions.1.idx:3168.0
+passage.questions.1.answers.7.text:Prihranili boste denar in plin
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:16715.0
+passage.questions.1.answers.6.text:Stroški pošiljanja so prihranjeni
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:16714.0
+passage.questions.1.answers.5.text:Z nakupom manj predmetov prihranite vire in porabite manj denarja
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:16713.0
+passage.questions.1.answers.4.text:Prihranili boste minerale in denar
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:16712.0
+passage.questions.1.answers.3.text:Prihranili boste tako hrano kot denar
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:16711.0
+passage.questions.1.answers.2.text:Prihranite denar in vire
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:16710.0
+passage.questions.1.answers.1.text:Več stvari boste imeli po nižjih stroških
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:16709.0
+passage.questions.1.answers.0.text:Dolgoročno boste kupili manj izdelkov, tako boste prihranili denar in sredstva
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:16708.0
+passage.questions.0.question:Kako nakup trajnih predmetov prihrani sredstva?
+passage.questions.0.idx:3167
+passage.questions.0.answers.7.text:Plačali boste manj
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:16707.0
+passage.questions.0.answers.6.text:Izdelki bodo zdržali dlje časa in dolgoročno boste kupili manj izdelkov
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:16706.0
+passage.questions.0.answers.5.text:Blago ne bo treba pošiljati na velike razdalje
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:16705.0
+passage.questions.0.answers.4.text:Ker trajajo dlje, bo potrebno manj predmetov in manj virov
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:16704.0
+passage.questions.0.answers.3.text:Potrebna je manjša moč vode
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:16703.0
+passage.questions.0.answers.2.text:Uporabili boste manj jedrske energije
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:16702.0
+passage.questions.0.answers.1.text:Uporabili boste manj kinetične energije
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:16701
+passage.questions.0.answers.0.text:Dolgoročno boste kupili manj izdelkov, tako boste prihranili denar in sredstva
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:16700
+idx:279

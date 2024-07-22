@@ -1,0 +1,193 @@
+version:1.1
+passage.text:Nekoč je v visokem stolpu živela princesa, ki je zaradi zlobne matere ni smela zapustiti. Nekega dne se je odločila, da bo odšla, vendar ji mama tega ni dovolila. Princesa je splezala skozi okno visokega stolpa in se spustila po južni steni, ko je njena mama spala. Tavala je po dobrih poteh. Končno je odšla v gozd, kjer ni električnih stebrov, ampak tam je nekaj jam. Tam je spoznala mladeniča, ki je tekel. Ime mu je bilo Janez. John je princeso vprašal, zakaj je tako lepa ženska, kot je ona, sredi gozda. Povedala je, da jo je celo življenje ujela zlobna ženska, ki je rekla, da je njena mati. Moški je rekel, da bo princeso odpeljal v bližnji grad. Povedal je tudi, da misli, da je morda pogrešana princesa. Ko gredo skozi gozd, naletijo na številne težave. Vidijo, da so izgubljeni in nikakor ne morejo najti, kam iti. Po preteku nekaj dni se princesa povzpne na vrh drevesa, da bi ugotovila, kje sta. Vidi, da grad, kamor hočejo iti, ni tako daleč in blizu gore. Potem ko razmišljata o najboljšem načinu, da prideta tja, John in princesa odideta do gradu, kjer živijo do konca življenja.
+passage.questions.9.question:Kje se je znašla princesa?
+passage.questions.9.idx:5097.0
+passage.questions.9.answers.4.text:Princesa je živela v palači
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:27060.0
+passage.questions.9.answers.3.text:V gozdu
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:27059.0
+passage.questions.9.answers.2.text:Princesa je živela v gradu z očetom
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:27058.0
+passage.questions.9.answers.1.text:Princesa je živela v visokem stolpu, ki ga ni smela zapustiti
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:27057.0
+passage.questions.9.answers.0.text:Skozi okno
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:27056.0
+passage.questions.8.question:Kako je princesa videla grad?
+passage.questions.8.idx:5096.0
+passage.questions.8.answers.3.text:Plezanje na vrh drevesa
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:27055.0
+passage.questions.8.answers.2.text:Z vrha drevesa
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:27054.0
+passage.questions.8.answers.1.text:Po plezanju na Janezova ramena
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:27053.0
+passage.questions.8.answers.0.text:Po iskanju na zemljevidu
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:27052.0
+passage.questions.7.question:Zakaj je moški pomagal princesi?
+passage.questions.7.idx:5095.0
+passage.questions.7.answers.3.text:Ker je hotel nagrado
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:27051.0
+passage.questions.7.answers.2.text:Da jo rešiš pred hudo ženo
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:27050.0
+passage.questions.7.answers.1.text:Ker mu je tako naročila kraljica
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:27049.0
+passage.questions.7.answers.0.text:Ker ji je princesa pripovedovala o svojem ujetništvu
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:27048.0
+passage.questions.6.question:Kaj je bilo blizu gradu, v katerem sta želela živeti princesa in John?
+passage.questions.6.idx:5094.0
+passage.questions.6.answers.4.text:Gora
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:27047.0
+passage.questions.6.answers.3.text:Morska obala
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:27046.0
+passage.questions.6.answers.2.text:Reka
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:27045.0
+passage.questions.6.answers.1.text:Plenilec
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:27044.0
+passage.questions.6.answers.0.text:Gora
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:27043.0
+passage.questions.5.question:Kdo je bil moški, ki ga je princesa spoznala?
+passage.questions.5.idx:5093.0
+passage.questions.5.answers.2.text:Janez
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:27042.0
+passage.questions.5.answers.1.text:Lovec
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:27041.0
+passage.questions.5.answers.0.text:Kralj
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:27040.0
+passage.questions.4.question:Kje sta in kako dolgo sta princesa in Janez to ugotovila.
+passage.questions.4.idx:5092.0
+passage.questions.4.answers.2.text:Po nekaj tednih poti skozi gozd so daleč od gradu
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:27039.0
+passage.questions.4.answers.1.text:Nekaj dni je trajalo, da so ugotovili, da niso tako daleč od gradu in blizu gore
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:27038.0
+passage.questions.4.answers.0.text:Po mesecu potovanja so na meji kraljestva
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:27037.0
+passage.questions.3.question:Kako je princesa opazila grad?
+passage.questions.3.idx:5091.0
+passage.questions.3.answers.3.text:Plezala je na drevo
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:27036.0
+passage.questions.3.answers.2.text:S plezanjem na Janezova ramena
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:27035.0
+passage.questions.3.answers.1.text:S plezanjem na vrh drevesa
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:27034.0
+passage.questions.3.answers.0.text:Z uporabo John&#39;s spyglass
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:27033.0
+passage.questions.2.question:Kdo je princeso peljal na grad?
+passage.questions.2.idx:5090.0
+passage.questions.2.answers.2.text:Njena zlobna mati
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:27032.0
+passage.questions.2.answers.1.text:Njen oče
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:27031.0
+passage.questions.2.answers.0.text:Janez
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:27030.0
+passage.questions.13.question:Kdo sta glavna junaka zgodbe?
+passage.questions.13.idx:5101.0
+passage.questions.13.answers.4.text:Princesa, kralj in kraljica
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:27076.0
+passage.questions.13.answers.3.text:Princesa, njena mati in Janez
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:27075.0
+passage.questions.13.answers.2.text:Njihova življenja
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:27074.0
+passage.questions.13.answers.1.text:Janez in kraljica
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:27073.0
+passage.questions.13.answers.0.text:Gozd
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:27072.0
+passage.questions.12.question:Kako je princesa končala v gozdu?
+passage.questions.12.idx:5100.0
+passage.questions.12.answers.2.text:Mami se je prikradla iz stolpa in se potepala
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:27071.0
+passage.questions.12.answers.1.text:Po sledenju Janezovim stopinjam
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:27070.0
+passage.questions.12.answers.0.text:Po plovbi po reki s čolnom
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:27069.0
+passage.questions.11.question:S kakšno težavo sta se srečala princesa in Janez?
+passage.questions.11.idx:5099.0
+passage.questions.11.answers.3.text:Velikanski srednji medved
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:27068.0
+passage.questions.11.answers.2.text:Zavedajo se, da so se izgubili in ne morejo najti kam iti
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:27067.0
+passage.questions.11.answers.1.text:Izgubili so se
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:27066.0
+passage.questions.11.answers.0.text:Neprehodna pečina
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:27065.0
+passage.questions.10.question:Kdo je bil mladenič in kaj je počel?
+passage.questions.10.idx:5098.0
+passage.questions.10.answers.3.text:Janez in on je tekel
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:27064.0
+passage.questions.10.answers.2.text:Ime mu je bilo John in je kandidiral
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:27063.0
+passage.questions.10.answers.1.text:Ime mu je bilo Joss in jadral je
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:27062.0
+passage.questions.10.answers.0.text:Ime mu je bilo Sean in je delal
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:27061.0
+passage.questions.1.question:Zakaj in kako je princesa odšla?
+passage.questions.1.idx:5089.0
+passage.questions.1.answers.4.text:Ker je morala najti zdravilo, se je povzpela po južni steni
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:27029.0
+passage.questions.1.answers.3.text:Ker ji hudobna mati ni dovolila zapustiti stolpa, je pobegnila, ko je splezala skozi okno
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:27028.0
+passage.questions.1.answers.2.text:Ker ji je bilo na njenem gradu dolgčas, je šla skozi dvižni most
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:27027.0
+passage.questions.1.answers.1.text:Predsednik
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:27026.0
+passage.questions.1.answers.0.text:Princesa je splezala skozi okno, ker ji mati ni dovolila oditi
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:27025.0
+passage.questions.0.question:Kakšno vprašanje je postavil Janez in princeso?
+passage.questions.0.idx:5088
+passage.questions.0.answers.1.text:Vprašal jo je, ali želi ostati na večerji, in sprejela je
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:27024
+passage.questions.0.answers.0.text:Kaj je nameravala storiti in odgovorila je, da želi obiskati kraljico
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:27023
+idx:452

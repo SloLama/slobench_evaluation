@@ -1,0 +1,511 @@
+version:1.1
+passage.text:Porky po vsem velikem mestu išče hotelsko sobo, a zaradi kongresa ni prostih mest. Porky zasede edino prosto mesto v enem hotelu, vendar ga bo moral deliti z Daffy Duck, ki je zelo glasna, neprijetna in nadležna vrsta. Daffy predstavi svojega nevidnega prijatelja kenguruja &quot;Hymie&quot;, vendar Porky temu ne verjame. Preostali del noči Daffy preživi sitnega Porkyja: muči ga z vprašanji, pretrese posteljo, razlije vodo iz kozarca, obleče odejo in na koncu oba dobesedno pošlje z postelje, ko Daffy brcne, in Porkyja prestraši s svojim dobesedno zmrznjene noge. Porky, sit s svojimi norčijami, Daffyja pospravi v prevleko za blazino in ga spusti skozi okno. Ko se Porky vrne v posteljo, se Daffy vrne zavezana, a se ju otrese in pripravi na maščevanje. Daffy prevari napol zaspanega prašiča, da stopi skozi okno, misleč, da se vkrca na vlak. Daffy skrije okno, češ da je &quot;preveč grozljivo&quot; za gledanje. Naenkrat zasliši hrup vlakov in za senco zagleda še vedno zaspanega Porkyja, ki se odpelje na pravem vlaku in mahne Daffyju. Daffy se mu zdi to neumno. Potem se odbije po sobi: &quot;Hoo-Hoo! &#39;&#39; - divja.
+passage.questions.9.question:Zakaj Porky ni verjel Daffy Ducku?
+passage.questions.9.idx:2074.0
+passage.questions.9.answers.7.text:Napol v spanju
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:10860.0
+passage.questions.9.answers.6.text:Zaupanja vreden
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:10859.0
+passage.questions.9.answers.5.text:Budna
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:10858.0
+passage.questions.9.answers.4.text:Imel je namišljenega prijatelja
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:10857.0
+passage.questions.9.answers.3.text:Rekel je, da ga ne bo motil
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:10856.0
+passage.questions.9.answers.2.text:Rekel je, da bo tiho
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:10855.0
+passage.questions.9.answers.1.text:Daffy Duck je imel nevidnega prijatelja kenguruja po imenu Hymie
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:10854.0
+passage.questions.9.answers.0.text:Prevaran
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:10853.0
+passage.questions.8.question:Kdo se oglaša po sobi
+passage.questions.8.idx:2073.0
+passage.questions.8.answers.4.text:Daffy
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:10852.0
+passage.questions.8.answers.3.text:Porky, ker se je Daffy odločil, da bo dobil svojo sobo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:10851.0
+passage.questions.8.answers.2.text:Svinjski
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:10850.0
+passage.questions.8.answers.1.text:Porky, ker je končno moral imeti prostor zase
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:10849.0
+passage.questions.8.answers.0.text:Daffy, ker je Porky odhajal z vlakom
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:10848.0
+passage.questions.7.question:Zakaj je bil Porky sit Daffyja?
+passage.questions.7.idx:2072.0
+passage.questions.7.answers.7.text:Pojedel je vso hrano
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:10847.0
+passage.questions.7.answers.6.text:Bil je sit njegovih norčij
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:10846.0
+passage.questions.7.answers.5.text:Gnjavi
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:10845.0
+passage.questions.7.answers.4.text:Uporabil je vse brisače v sobi
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:10844.0
+passage.questions.7.answers.3.text:Daffy je prijazen
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:10843.0
+passage.questions.7.answers.2.text:Ker je Daffy noč preživel nadležen Porky
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:10842.0
+passage.questions.7.answers.1.text:Bil je preveč siten
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:10841.0
+passage.questions.7.answers.0.text:Daffy zaupa
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:10840.0
+passage.questions.6.question:Kaj je preveč grozljivo za gledanje
+passage.questions.6.idx:2071.0
+passage.questions.6.answers.5.text:Daffy Faing skozi okno
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:10839.0
+passage.questions.6.answers.4.text:Porky pade skozi okno
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:10838.0
+passage.questions.6.answers.3.text:Prašič stopi skozi okno
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:10837.0
+passage.questions.6.answers.2.text:Porkyja je zadel vlak
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:10836.0
+passage.questions.6.answers.1.text:Daffy pade skozi okno
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:10835.0
+passage.questions.6.answers.0.text:Svinjino udarijo s nakovalom
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:10834.0
+passage.questions.5.question:Kakšna žival je svinjska
+passage.questions.5.idx:2070.0
+passage.questions.5.answers.4.text:Zajec
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:10833.0
+passage.questions.5.answers.3.text:Pes
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:10832.0
+passage.questions.5.answers.2.text:Raca
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:10831.0
+passage.questions.5.answers.1.text:Prašič
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:10830.0
+passage.questions.5.answers.0.text:Piščanec
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:10829.0
+passage.questions.4.question:Kaj končno naredi Porky, da bi dobil sobo?
+passage.questions.4.idx:2069.0
+passage.questions.4.answers.7.text:Strehe
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:10828.0
+passage.questions.4.answers.6.text:Deli posteljo
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:10827.0
+passage.questions.4.answers.5.text:Mora deliti z Daffy Duck
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:10826.0
+passage.questions.4.answers.4.text:Skriva se v omari
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:10825.0
+passage.questions.4.answers.3.text:Pelje se z vlakom
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:10824.0
+passage.questions.4.answers.2.text:Plača nekomu, da uporablja svojo sobo
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:10823.0
+passage.questions.4.answers.1.text:Porky vzame sobo z Daffyjem, kaj ni vesel?
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:10822.0
+passage.questions.4.answers.0.text:Deli sobo
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:10821.0
+passage.questions.3.question:Zakaj mora Porky deliti sobo z Daffyjem?
+passage.questions.3.idx:2068.0
+passage.questions.3.answers.7.text:Veliko prostora
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:10820.0
+passage.questions.3.answers.6.text:Ni prostora
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:10819.0
+passage.questions.3.answers.5.text:Prostih mest ni
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:10818.0
+passage.questions.3.answers.4.text:Vklenjene so skupaj
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:10817.0
+passage.questions.3.answers.3.text:V velikem mestu ni drugih sob
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:10816.0
+passage.questions.3.answers.2.text:Izgubil je stavo z Bugs Bunnyjem
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:10815.0
+passage.questions.3.answers.1.text:Prosto delovno mesto
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:10814.0
+passage.questions.3.answers.0.text:V mestu je konvencija in omejena razpoložljivost sob, ostane le ena, ki zahteva skupno rabo
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:10813.0
+passage.questions.2.question:Ali Porky po vseh norčijah končno prespi noč?
+passage.questions.2.idx:2067.0
+passage.questions.2.answers.8.text:Ne. Daffy ima še zadnji trik v rokavu, ki Porkyja dejansko pošlje na vlak
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:10812.0
+passage.questions.2.answers.7.text:Ne, ker je Daffy preglasno smrčal
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:10811.0
+passage.questions.2.answers.6.text:Brez spanca
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:10810.0
+passage.questions.2.answers.5.text:Ne, Porky ga je prevaral, zaradi česar je šel skozi okno
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:10809.0
+passage.questions.2.answers.4.text:Ne, ker konča na vlaku
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:10808.0
+passage.questions.2.answers.3.text:Brez počitka
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:10807.0
+passage.questions.2.answers.2.text:Spočiti
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:10806.0
+passage.questions.2.answers.1.text:Da, prespal je noč, potem ko je Daffyja vrgel skozi okno
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:10805.0
+passage.questions.2.answers.0.text:Blažen spanec
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:10804.0
+passage.questions.19.question:Zakaj je Daffy poskakoval po sobi in rekel &quot;hoo hoo!&quot;?
+passage.questions.19.idx:2084.0
+passage.questions.19.answers.7.text:Daffy je neumna
+passage.questions.19.answers.7.label:1.0
+passage.questions.19.answers.7.idx:10942.0
+passage.questions.19.answers.6.text:Na televiziji je našel svoj najljubši kanal
+passage.questions.19.answers.6.label:0,0
+passage.questions.19.answers.6.idx:10941.0
+passage.questions.19.answers.5.text:Daffy je odgovoren
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:10940.0
+passage.questions.19.answers.4.text:Ker je mislil, da je Porky odhajal z vlakom neumno
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:10939.0
+passage.questions.19.answers.3.text:Daffy je skrbna
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:10938.0
+passage.questions.19.answers.2.text:Ker se mu je zdela dremava Porky, ki mu maha na dejanskem vlaku, neumna
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:10937.0
+passage.questions.19.answers.1.text:Daffy je nor
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:10936.0
+passage.questions.19.answers.0.text:Dobil je brezplačno sobno strežbo
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:10935.0
+passage.questions.18.question:Zakaj ima Porky težave s pridobivanjem sobe?
+passage.questions.18.idx:2083.0
+passage.questions.18.answers.8.text:Konvencija v mestu
+passage.questions.18.answers.8.label:1.0
+passage.questions.18.answers.8.idx:10934.0
+passage.questions.18.answers.7.text:Konvencija
+passage.questions.18.answers.7.label:1.0
+passage.questions.18.answers.7.idx:10933.0
+passage.questions.18.answers.6.text:Prostih mest ni
+passage.questions.18.answers.6.label:1.0
+passage.questions.18.answers.6.idx:10932.0
+passage.questions.18.answers.5.text:Dogodek
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:10931.0
+passage.questions.18.answers.4.text:Selitev rac
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:10930.0
+passage.questions.18.answers.3.text:Igra
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:10929.0
+passage.questions.18.answers.2.text:Nobenega denarja nima
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:10928.0
+passage.questions.18.answers.1.text:V mestu poteka velik kongres
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:10927.0
+passage.questions.18.answers.0.text:Sobe so predrage
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:10926.0
+passage.questions.17.question:Kaj je Daffy Ducka tako razveselilo, da je rekel &quot;Hoo Hoo&quot;?
+passage.questions.17.idx:2082.0
+passage.questions.17.answers.8.text:Daffy je neumna
+passage.questions.17.answers.8.label:1.0
+passage.questions.17.answers.8.idx:10925.0
+passage.questions.17.answers.7.text:Menil je, da je Porky odhajal z vlakom neumno
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:10924.0
+passage.questions.17.answers.6.text:Porky je odhajal z vlakom
+passage.questions.17.answers.6.label:1.0
+passage.questions.17.answers.6.idx:10923.0
+passage.questions.17.answers.5.text:Daffy je dolgčas
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:10922.0
+passage.questions.17.answers.4.text:Daffy je nor
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:10921.0
+passage.questions.17.answers.3.text:Dobil je brezplačno sobno strežbo
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:10920.0
+passage.questions.17.answers.2.text:Televizor v sobi je imel njegov najljubši kanal
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:10919.0
+passage.questions.17.answers.1.text:Porky se je odpeljal na vlak
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:10918.0
+passage.questions.17.answers.0.text:Daffy je rezerviran
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:10917.0
+passage.questions.16.question:Zakaj je Daffy problematičen sošolec Porkyja?
+passage.questions.16.idx:2081.0
+passage.questions.16.answers.8.text:Neprijeten je
+passage.questions.16.answers.8.label:1.0
+passage.questions.16.answers.8.idx:10916.0
+passage.questions.16.answers.7.text:Pesting
+passage.questions.16.answers.7.label:1.0
+passage.questions.16.answers.7.idx:10915.0
+passage.questions.16.answers.6.text:Poskuša kopirati svoje delo
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:10914.0
+passage.questions.16.answers.5.text:Je glasen
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:10913.0
+passage.questions.16.answers.4.text:Je glasen in neprijeten in poskuša Porkyja verjeti v svojega namišljenega prijatelja. Daffy preživi celo noč nadležen Porky
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:10912.0
+passage.questions.16.answers.3.text:Nadležen
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:10911.0
+passage.questions.16.answers.2.text:Spoštljivo
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:10910.0
+passage.questions.16.answers.1.text:Poskuša varati
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:10909.0
+passage.questions.16.answers.0.text:Prijetno
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:10908.0
+passage.questions.15.question:Kakšne težave ima Porky pri skupni sobi z Daffyjem?
+passage.questions.15.idx:2080.0
+passage.questions.15.answers.8.text:Daffy ga gnjavi
+passage.questions.15.answers.8.label:1.0
+passage.questions.15.answers.8.idx:10907.0
+passage.questions.15.answers.7.text:Daffy ga zasmehuje z vprašanji
+passage.questions.15.answers.7.label:1.0
+passage.questions.15.answers.7.idx:10906.0
+passage.questions.15.answers.6.text:Daffy je moteča
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:10905.0
+passage.questions.15.answers.5.text:Daffy je prijeten
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:10904.0
+passage.questions.15.answers.4.text:Sobna postrežba je pozna
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:10903.0
+passage.questions.15.answers.3.text:Daffy je tiho
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:10902.0
+passage.questions.15.answers.2.text:Daffy je neprijetna, dela nered in vidi stvari
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:10901.0
+passage.questions.15.answers.1.text:Daffy je glasna in neprijetna
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:10900.0
+passage.questions.15.answers.0.text:Ni tople vode
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:10899.0
+passage.questions.14.question:Kako je Daffy poškodovan in kaj naredi naprej?
+passage.questions.14.idx:2079.0
+passage.questions.14.answers.9.text:Zapusti hotel
+passage.questions.14.answers.9.label:0,0
+passage.questions.14.answers.9.idx:10898.0
+passage.questions.14.answers.8.text:Poškodovan je tako, da je padel s postelje in ga nataknil v prevleko za blazino ter potisnil skozi okno. Načrtuje se, da se bo maščeval Porkyju
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:10897.0
+passage.questions.14.answers.7.text:Poišče drugo sobo
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:10896.0
+passage.questions.14.answers.6.text:Polnjene v blazino
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:10895.0
+passage.questions.14.answers.5.text:Tih
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:10894.0
+passage.questions.14.answers.4.text:Porky ga je spustil skozi okno in namerava se maščevati
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:10893.0
+passage.questions.14.answers.3.text:Porky ga je udaril in namerava vzglavnik nad Porkyjevo glavo
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:10892.0
+passage.questions.14.answers.2.text:Maščeva se
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:10891.0
+passage.questions.14.answers.1.text:Spustil skozi okno
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:10890.0
+passage.questions.14.answers.0.text:Padel je pod prho in namerava iti k zdravniku
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:10889.0
+passage.questions.13.question:Zakaj je moral Porky deliti sobo z Daffyjem?
+passage.questions.13.idx:2078.0
+passage.questions.13.answers.6.text:Veliko prostora
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:10888.0
+passage.questions.13.answers.5.text:Ker je bil v mestu kongres, ni bilo prostih mest, razen enega v hotelu, v katerem sta bila oba
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:10887.0
+passage.questions.13.answers.4.text:Vse sobe so bile predrage
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:10886.0
+passage.questions.13.answers.3.text:Ker prostih mest ni bilo
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:10885.0
+passage.questions.13.answers.2.text:V mestu je bil kongres
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:10884.0
+passage.questions.13.answers.1.text:Prosto delovno mesto
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:10883.0
+passage.questions.13.answers.0.text:Denarja ni imel
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:10882.0
+passage.questions.12.question:Kaj je povzročilo, da je Porky dal Daffy Duck v blazino?
+passage.questions.12.idx:2077.0
+passage.questions.12.answers.8.text:Pesting
+passage.questions.12.answers.8.label:1.0
+passage.questions.12.answers.8.idx:10881.0
+passage.questions.12.answers.7.text:Poskušal ga je prikrasti v hotel
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:10880.0
+passage.questions.12.answers.6.text:Nadležen
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:10879.0
+passage.questions.12.answers.5.text:Bil je sit njegovih norčij
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:10878.0
+passage.questions.12.answers.4.text:Želel je, da mu je udobno
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:10877.0
+passage.questions.12.answers.3.text:Tih
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:10876.0
+passage.questions.12.answers.2.text:Daffy Duck ga je gnjavila
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:10875.0
+passage.questions.12.answers.1.text:Friendy
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:10874.0
+passage.questions.12.answers.0.text:Ker je bil glasen in neprijeten
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:10873.0
+passage.questions.11.question:Kdo sliši zvoke vlaka
+passage.questions.11.idx:2076.0
+passage.questions.11.answers.2.text:Zajček dolgoušček
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:10872.0
+passage.questions.11.answers.1.text:Svinjski
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:10871.0
+passage.questions.11.answers.0.text:Daffy
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:10870.0
+passage.questions.10.question:Kaj Porky išče v velikem mestu?
+passage.questions.10.idx:2075.0
+passage.questions.10.answers.8.text:Hotelska soba
+passage.questions.10.answers.8.label:1.0
+passage.questions.10.answers.8.idx:10869.0
+passage.questions.10.answers.7.text:Motelska soba
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:10868.0
+passage.questions.10.answers.6.text:Supermarket
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:10867.0
+passage.questions.10.answers.5.text:Bolnišnica
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:10866.0
+passage.questions.10.answers.4.text:Prostor za večerjo
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:10865.0
+passage.questions.10.answers.3.text:Njegova družina
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:10864.0
+passage.questions.10.answers.2.text:Gledališče
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:10863.0
+passage.questions.10.answers.1.text:Išče hotelsko sobo
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:10862.0
+passage.questions.10.answers.0.text:Gostilna
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:10861.0
+passage.questions.1.question:Zakaj je moral Porky deliti hotelsko sobo z Daffy Duck?
+passage.questions.1.idx:2066.0
+passage.questions.1.answers.7.text:Veliko prostora
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:10803.0
+passage.questions.1.answers.6.text:V bližini je kongres, zato so vsi ostali hoteli polni
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:10802.0
+passage.questions.1.answers.5.text:Nobene druge sobe
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:10801.0
+passage.questions.1.answers.4.text:V mestu je bil kongres
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:10800.0
+passage.questions.1.answers.3.text:Vklenjeni so bili skupaj
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10799.0
+passage.questions.1.answers.2.text:Prosto delovno mesto
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:10798.0
+passage.questions.1.answers.1.text:Ker sta najboljša prijatelja
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:10797.0
+passage.questions.1.answers.0.text:Drugih prostih mest ni bilo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10796.0
+passage.questions.0.question:Zakaj je Daffy Duck skril okno in rekel, da je preveč grozljivo?
+passage.questions.0.idx:2065
+passage.questions.0.answers.8.text:Ker je prevaral Porkyja, da je šel pred vlak
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:10795.0
+passage.questions.0.answers.7.text:Navdušen nad pogledom
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:10794.0
+passage.questions.0.answers.6.text:Ni hotel videti ptic, ki se bijejo
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:10793.0
+passage.questions.0.answers.5.text:Bruto
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:10792.0
+passage.questions.0.answers.4.text:Prevaril je Porkyja in ga prisilil, da je šel skozi okno
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:10791.0
+passage.questions.0.answers.3.text:Hotel videti
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:10790.0
+passage.questions.0.answers.2.text:Menil je, da se ljudje tukajo zunaj
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10789.0
+passage.questions.0.answers.1.text:Izogibajte se drami
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:10788
+passage.questions.0.answers.0.text:Ni hotel gledati Porkyja, ki ga je udaril vlak
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:10787
+idx:187

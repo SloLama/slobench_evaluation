@@ -1,0 +1,6 @@
+choice1:Iz žvečilnega gumija sem naredil mehurček.
+choice2:Žvečilni gumi je izgubil okus.
+idx:287
+label:1
+premise:Izpljunil sem žvečilni gumi.
+question:cause

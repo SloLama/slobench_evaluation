@@ -1,0 +1,6 @@
+choice1:Doživel je čustveno travmo.
+choice2:Utrpel je možganske poškodbe.
+idx:377
+label:1
+premise:Pacient je padel v komo.
+question:cause

@@ -1,0 +1,6 @@
+choice1:Na cesti se je pojavil jelen.
+choice2:Avtoradio se je izklopil.
+idx:61
+label:0
+premise:Voznik je udaril po zavorah.
+question:cause

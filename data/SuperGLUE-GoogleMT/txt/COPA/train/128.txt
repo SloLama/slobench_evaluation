@@ -1,0 +1,6 @@
+choice1:Voznik je govoril vso pot.
+choice2:Voznik je napačno zavil.
+idx:128
+label:1
+premise:Potovanje je trajalo dolgo.
+question:cause

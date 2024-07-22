@@ -1,0 +1,6 @@
+﻿choice1:Val jo je ponesel do obale.
+choice2:Z desko je zaplavala v morje.
+idx:113
+label:0
+premise:Deskarka je ujela val.
+question:effect

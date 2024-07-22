@@ -1,0 +1,48 @@
+version:1.1
+passage.text:Oktobra 1933 se je Einstein vrnil v ZDA in zasedel mesto na Inštitutu za napredne študije (v Princetonu v New Jerseyju), za katerega je bilo znano, da je postal zatočišče za znanstvenike, ki bežijo pred nacistično Nemčijo. Takrat je večina ameriških univerz, vključno s Harvardom, Princetonom in Yaleom, imela minimalno ali nič judovske fakultete ali študentov zaradi judovske kvote, ki je trajala do poznih štiridesetih let. Einstein še vedno ni bil odločen glede svoje prihodnosti. Ponudbe je imel na več evropskih univerzah, vključno z Oxfordom, kjer je od maja 1931 do junija 1933 ostal tri kratka obdobja, vendar je leta 1935 prišel do odločitve, da bo za vedno ostal v ZDA in zaprosil za državljanstvo. Einsteinova povezanost z Inštitutom za izpopolnjevanje bi trajala do njegove smrti leta 1955. Bil je eden od štirih prvih izbranih (dva izmed ostalih sta John von Neumann in Kurt Godel) na novem Inštitutu, kjer je kmalu razvil tesno prijateljstvo z Godel. Oba bi se skupaj pogovarjala o svojem delu. Bruria Kaufman, njegov pomočnik, je pozneje postal fizik. V tem obdobju je Einstein poskušal razviti enotno teorijo polja in zavrniti sprejeto razlago kvantne fizike, oba neuspešno.
+passage.questions.2.question:S kom se je Einstein dolgo sprehajal?
+passage.questions.2.idx:4601.0
+passage.questions.2.answers.4.text:Einstein
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:24294.0
+passage.questions.2.answers.3.text:John von Neumann
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:24293.0
+passage.questions.2.answers.2.text:Godel
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:24292.0
+passage.questions.2.answers.1.text:Bruria Kaufman
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24291.0
+passage.questions.2.answers.0.text:Kurt Godel
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:24290.0
+passage.questions.1.question:Zakaj se je Einstein težko odločil?
+passage.questions.1.idx:4600.0
+passage.questions.1.answers.3.text:Želel je ostati v Evropi
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:24289.0
+passage.questions.1.answers.2.text:Ponudbe je imel s Harvarda, Princetona in Yalea
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24288.0
+passage.questions.1.answers.1.text:Imel je ponudbe številnih univerz
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:24287.0
+passage.questions.1.answers.0.text:Omejena judovska fakulteta in študentje
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:24286.0
+passage.questions.0.question:Koliko let je bil Einstein povezan z Inštitutom za napredni študij?
+passage.questions.0.idx:4599
+passage.questions.0.answers.3.text:2 leti
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:24285.0
+passage.questions.0.answers.2.text:20 let
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:24284.0
+passage.questions.0.answers.1.text:22 let
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:24283
+passage.questions.0.answers.0.text:Več kot 20 let
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24282
+idx:406

@@ -1,0 +1,287 @@
+version:1.1
+passage.text:Druga pomembna točka, o kateri so se ravnatelji 10. marca dogovorili, je potreba po zatiranju terorističnih organizacij in omejevanju zbiranja sredstev. Bomba v veleposlaništvu leta 1998 je usmerila pozornost na finance Al Kaide. En rezultat je bila ustanovitev medagencijskega odbora za financiranje terorizma, ki ga vodi NSC. Na njeno priporočilo je predsednik Bin Ladena in Al Kaido imenoval za sankcije po Zakonu o mednarodnih izrednih ekonomskih močeh. To je Uradu Ministrstva za zakladništvo za nadzor tujih sredstev (OFAC) omogočilo iskanje in zamrznitev sredstev Bin Ladena ali Al Kaide, ki so dosegla ameriški finančni sistem. Ker pa je OFAC imel le malo informacij, je bilo zamrznjenih le nekaj sredstev. Julija 1999 je predsednik uporabil isto oznako za talibane za zatočišče Bin Ladena. Tu je imel OFAC več uspeha. Blokiral je več kot 34 milijonov dolarjev talibanskega premoženja v ameriških bankah. Zamrznjenih je bilo tudi dodatnih 215 milijonov dolarjev zlata in 2 milijona dolarjev vlog na vpogled, ki so pripadala afganistanski centralni banki in jih je hranila zvezna banka New York. Po oktobru 1999, ko je State Department uradno imenoval Al Kaido za &quot;tujo teroristično organizacijo&quot;, je ameriška banka postala dolžna blokirati njene transakcije in zaseči njena sredstva. Niti to imenovanje niti sankcije OZN niso imele posebnega dodatnega praktičnega učinka; sankcijam se je bilo enostavno izogniti in ni bilo večstranskih mehanizmov, ki bi zagotovili, da finančni sistemi drugih držav ne bi bili uporabljeni kot vodi za financiranje terorizma. Napad na sredstva institucije, tudi talibanov, je bil enostavnejši kot iskanje in zaseg sredstev tajne svetovne organizacije, kot je Al Kaida. Čeprav je bila enota Cine Bin Laden prvotno navdihnjena z idejo o preučevanju terorističnih finančnih povezav, je le malo osebja, ki ji je bilo dodeljeno, imelo izkušenj s finančnimi preiskavami. Zdi se, da so bile kakršne koli obveščevalne informacije o financiranju terorizma zbrane stransko, kar je posledica zbiranja drugih obveščevalnih podatkov. Ta odnos je lahko v veliki meri izhajal iz načelnika te enote, ki ni verjel, da je preprosto sledenje denarju od točke A do točke B razkrilo veliko o načrtih in namerah teroristov. Zaradi tega je CIA malo poudarjala financiranje terorizma. Kljub temu je CIA splošno razumela, kako je Al Kaida zbirala denar.
+passage.questions.9.question:Praktični učinki razglasitve Al Kaide za &quot;tujo teroristično organizacijo&quot; so privedli do majhnih dosežkov po katerem datumu?
+passage.questions.9.idx:3259.0
+passage.questions.9.answers.3.text:Julij 1999
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:17238.0
+passage.questions.9.answers.2.text:Marec 1999
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:17237.0
+passage.questions.9.answers.1.text:Oktober 1999
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:17236.0
+passage.questions.9.answers.0.text:10. marec
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:17235.0
+passage.questions.8.question:Koliko talibanskega premoženja v ZDA je bilo leta 1999 zamrznjeno?
+passage.questions.8.idx:3258.0
+passage.questions.8.answers.3.text:34 milijonov dolarjev
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:17234.0
+passage.questions.8.answers.2.text:2 milijona dolarjev
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:17233.0
+passage.questions.8.answers.1.text:36 milijonov dolarjev
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:17232.0
+passage.questions.8.answers.0.text:215 milijonov dolarjev
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:17231.0
+passage.questions.7.question:Kdo je blokiral več kot 34 milijonov dolarjev talibanskega premoženja v ameriških bankah in zamrznil 215 milijonov dolarjev zlata in dva milijona dolarjev vlog na zahtevo afganistanske centralne banke?
+passage.questions.7.idx:3257.0
+passage.questions.7.answers.5.text:Talibani
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:17230.0
+passage.questions.7.answers.4.text:OFAC
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:17229.0
+passage.questions.7.answers.3.text:Ameriške banke
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:17228.0
+passage.questions.7.answers.2.text:Predsednik
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:17227.0
+passage.questions.7.answers.1.text:Afganistanska centralna banka
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:17226.0
+passage.questions.7.answers.0.text:State Department
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:17225.0
+passage.questions.6.question:Eden od rezultatov srečanja 10. marca je bil?
+passage.questions.6.idx:3256.0
+passage.questions.6.answers.3.text:Zračni napadi na taborišča za usposabljanje teroristov
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:17224.0
+passage.questions.6.answers.2.text:Iskanje lokacije bin Ladena
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:17223.0
+passage.questions.6.answers.1.text:Ustanovitev medagencijskega odbora za financiranje terorizma, ki ga vodi NSC
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:17222.0
+passage.questions.6.answers.0.text:Zatiranje terorističnih organizacij
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:17221.0
+passage.questions.5.question:Zakaj je OFAC imel malo informacij o financiranju Al Kaide?
+passage.questions.5.idx:3255.0
+passage.questions.5.answers.1.text:Al Kaida je bila tajna svetovna organizacija
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:17220.0
+passage.questions.5.answers.0.text:Ker njihova inteligenca ni tako močna kot kaida
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:17219.0
+passage.questions.4.question:Zakaj je CIA malo poudarjala preiskovanja financiranja terorizma?
+passage.questions.4.idx:3254.0
+passage.questions.4.answers.2.text:Ker talibani ne uporabljajo veliko svetovnega finančnega sistema
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:17218.0
+passage.questions.4.answers.1.text:Ker talibani nimajo veliko finančnih dejavnosti
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:17217.0
+passage.questions.4.answers.0.text:Prijatelj Binalshibha
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:17216.0
+passage.questions.3.question:Kakšen je bil rezultat spremljanja terorističnega denarja, ki je tekel od točke A do točke B?
+passage.questions.3.idx:3253.0
+passage.questions.3.answers.5.text:Malo poudarka je bilo namenjenega financiranju terorizma
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:17215.0
+passage.questions.3.answers.4.text:CIA je malo poudarjala financiranje terorizma
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:17214.0
+passage.questions.3.answers.3.text:Znanje o tem, kako je Al Kaida zbirala denar
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:17213.0
+passage.questions.3.answers.2.text:CIA je ugotovila, da je težko napasti sklade Al Kaide
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:17212.0
+passage.questions.3.answers.1.text:Cia je lahko izsledila države, ki pomagajo zabavati Al Kaido
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:17211.0
+passage.questions.3.answers.0.text:Popolna zamrznitev sredstev Al Kaide
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:17210.0
+passage.questions.2.question:Koliko denarja je bilo zamrznjenih, potem ko je predsednik uporabil isto oznako za talibane?
+passage.questions.2.idx:3252.0
+passage.questions.2.answers.6.text:Blokiral je 34 milijonov dolarjev premoženja talibanov, 215 milijonov dolarjev zlata in dva milijona dolarjev vlog na vpogled
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:17209.0
+passage.questions.2.answers.5.text:500 milijonov dolarjev
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:17208.0
+passage.questions.2.answers.4.text:251 milijonov dolarjev
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:17207.0
+passage.questions.2.answers.3.text:2 milijona dolarjev
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:17206.0
+passage.questions.2.answers.2.text:Manj kot 34 milijonov dolarjev
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:17205.0
+passage.questions.2.answers.1.text:215 milijonov dolarjev
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:17204.0
+passage.questions.2.answers.0.text:34 milijonov dolarjev talibanskega premoženja v ameriških bankah, še 215 milijonov dolarjev zlata in dva milijona dolarjev vlog na vpogled
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:17203.0
+passage.questions.18.question:Kakšen je bil rezultat bombardiranja veleposlaništva leta 1998?
+passage.questions.18.idx:3268.0
+passage.questions.18.answers.5.text:Tuja teroristična organizacija
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:17276.0
+passage.questions.18.answers.4.text:Zbiranje druge inteligence
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:17275.0
+passage.questions.18.answers.3.text:Določitev Al Kaide za &quot;domačo teroristično organizacijo&quot;
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:17274.0
+passage.questions.18.answers.2.text:Nastanek Al Kaide
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:17273.0
+passage.questions.18.answers.1.text:Predsednikova določitev Bin Ladena in Al Kaide za sankcije
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:17272.0
+passage.questions.18.answers.0.text:Osredotočila se je na finance Al-Kaide
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:17271.0
+passage.questions.17.question:Kaj je OFAC-u omogočilo iskanje in zamrznitev sredstev Al Kaide, ki so dosegla finančni sistem ZDA?
+passage.questions.17.idx:3267.0
+passage.questions.17.answers.5.text:Bombardiranje veleposlaništva leta 1998
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:17270.0
+passage.questions.17.answers.4.text:Finančni sistemi niso bili uporabljeni kot vodi za financiranje terorizma
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:17269.0
+passage.questions.17.answers.3.text:Mednarodni zakon o izrednih gospodarskih močeh
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:17268.0
+passage.questions.17.answers.2.text:Medagencijski odbor za financiranje terorizma, ki ga vodi NSC
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:17267.0
+passage.questions.17.answers.1.text:Izkoriščanje sredstev tajne svetovne organizacije, kot je Al Kaida
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:17266.0
+passage.questions.17.answers.0.text:State Department
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:17265.0
+passage.questions.16.question:Leta 1999 se je predsednik odločil, da bo uporabil iste oznake zamrznitve premoženja talibanov v Združenih državah, kar je povzročilo, koliko denarja je bilo zamrznjenih?
+passage.questions.16.idx:3266.0
+passage.questions.16.answers.3.text:34 milijonov
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:17264.0
+passage.questions.16.answers.2.text:215 milijonov
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:17263.0
+passage.questions.16.answers.1.text:2 milijona dolarjev
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:17262.0
+passage.questions.16.answers.0.text:215 milijonov dolarjev
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:17261.0
+passage.questions.15.question:Zakaj so ameriške banke težko blokirale transakcije in zasegle sredstva Al Kaide, čeprav je bila imenovana za &quot;tujo teroristično organizacijo&quot;?
+passage.questions.15.idx:3265.0
+passage.questions.15.answers.2.text:Ker njihova tehnologija ni bila dovolj močna za sledenje finančnim dejavnostim Talibanov
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:17260.0
+passage.questions.15.answers.1.text:Ker je Al Kaida skrivala svoje podrobnosti
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:17259.0
+passage.questions.15.answers.0.text:Ni bilo večstranskih mehanizmov, ki bi preprečili uporabo finančnih sistemov drugih držav za izogibanje sankcijam
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:17258.0
+passage.questions.14.question:Kaj je dalo Uradu ministrstva za finance za nadzor tujih sredstev (OFAC) možnost iskanja in zamrznitve sredstev Bin Ladena ali Al Kaide, ki so dosegla finančni sistem ZDA?
+passage.questions.14.idx:3264.0
+passage.questions.14.answers.2.text:Sankcioniranje ameriškega finančnega sistema
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:17257.0
+passage.questions.14.answers.1.text:Sankcioniranje talibanov
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:17256.0
+passage.questions.14.answers.0.text:Sankcioniranje Bin Ladena
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:17255.0
+passage.questions.13.question:Kateri sta dva razloga, da je CIA malo poudarjala financiranje terorizma?
+passage.questions.13.idx:3263.0
+passage.questions.13.answers.2.text:Preprosto sledenje transakcijam ne bi razkrilo veliko o njihovih načrtih
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:17254.0
+passage.questions.13.answers.1.text:Načelnik enote Cine Bin Laden ni verjel, da sledenje denarja od točke A do točke B razkriva veliko o načrtih in namerah teroristov, malo osebja, dodeljenega tej enoti, pa je imelo izkušenj s finančnimi preiskavami.
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:17253.0
+passage.questions.13.answers.0.text:CIA je že splošno razumela njihove načrte
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:17252.0
+passage.questions.12.question:Kateri glavni ameriški uradi in odbori, ki sodelujejo pri naslednjih terorističnih skladih, so Kaida in Talibani konec devetdesetih let?
+passage.questions.12.idx:3262.0
+passage.questions.12.answers.5.text:Talibani
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:17251.0
+passage.questions.12.answers.4.text:Bela hiša
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:17250.0
+passage.questions.12.answers.3.text:Al Kaida
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:17249.0
+passage.questions.12.answers.2.text:Zakon o mednarodnih izrednih ekonomskih močeh
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:17248.0
+passage.questions.12.answers.1.text:Droga
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:17247.0
+passage.questions.12.answers.0.text:ZN
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:17246.0
+passage.questions.11.question:OFAC je poskušal zamrzniti, katere teroristične organizacije financirajo?
+passage.questions.11.idx:3261.0
+passage.questions.11.answers.3.text:Talibani
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:17245.0
+passage.questions.11.answers.2.text:Al Kaida
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:17244.0
+passage.questions.11.answers.1.text:ISIS
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:17243.0
+passage.questions.11.answers.0.text:Hamas
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:17242.0
+passage.questions.10.question:Zakaj je bilo lažje napasti sredstva neke institucije, tudi talibanov, kot iskati in zaseči sredstva tajne svetovne organizacije, kot je Al Kaida?
+passage.questions.10.idx:3260.0
+passage.questions.10.answers.2.text:CIA ni želela določiti časa, da bi ji sledila
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:17241.0
+passage.questions.10.answers.1.text:Predrago je bilo slediti skladom
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:17240.0
+passage.questions.10.answers.0.text:Ker je enota Bin Laden Cie imela zelo malo izkušenj, če sploh kaj, s finančnimi preiskavami
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:17239.0
+passage.questions.1.question:Zakaj je večina obveščevalnih podatkov o financiranju terorizma izhajala iz zbiranja drugih obveščevalnih podatkov?
+passage.questions.1.idx:3251.0
+passage.questions.1.answers.2.text:Ker transakcije same po sebi ne razkrijejo podrobnosti svojih načrtov
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:17202.0
+passage.questions.1.answers.1.text:Ker drugi organi njihovega sistema niso bili dovolj sposobni
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:17201.0
+passage.questions.1.answers.0.text:Študenti
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:17200.0
+passage.questions.0.question:Kdo je priporočil, da predsednik Bin Ladena in Al Kaido imenuje za sankcije po Zakonu o mednarodnih izrednih ekonomskih močeh?
+passage.questions.0.idx:3250
+passage.questions.0.answers.4.text:Ravnatelji
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:17199.0
+passage.questions.0.answers.3.text:Teroristične organizacije
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:17198.0
+passage.questions.0.answers.2.text:Veleposlaništvo
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:17197.0
+passage.questions.0.answers.1.text:Medagencijski odbor za financiranje terorizma, ki ga vodi NSC
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:17196
+passage.questions.0.answers.0.text:Predsednik
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:17195
+idx:287

@@ -1,0 +1,173 @@
+version:1.1
+passage.text:Paul je dal zaničevano uro in postavil predse svojo množico kamnov in kovin, in ko je jutro strmoglavilo kamne, da so jih najbolje okrasili, je izbral najsvetlejšo in ta nova ura je bila tako lahka in tanka, da se je zdelo, da je ujela sončno svetlobo. nič in njegov lesk. Topaze so tekle v penasti strugi. Pokrov je bil obložen z granati in zdelo se je, da so brstele rdeče vrtnice. Obraz je bil iz kristala in na njem so vgravirane figure utripale in mahale s cirkoni, berili in ametisti. Naredil je en teden, njegovi poskusi ponoči s senco pa so bili samo on. Pavel je prisegel, da ne bo govoril, dokler njegova naloga ne bo končana. Noč, ki jo je bil dragulj vreden podariti. Paul je dolge ure dnevne svetlobe gledal v živo do najnižje žice; nato prižgal svojo luč, In oster ob steno, čisto belo Obris sence se je začel v obliko. Njegove goreče srčne Besede, tako dolgo zaprte, so nabreknile do pretiranega govora. Kakor prisiljen, je dami povedal vso svojo ljubezen in, dvignil uro nad glavo, pokleknil in prosil nekaj Littlestovih znamenj. Senca je bila neumna.
+passage.questions.9.question:Komu je Pavel želel podariti uro z dragulji?
+passage.questions.9.idx:1174.0
+passage.questions.9.answers.4.text:Dami, ki jo je ljubil
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:5951.0
+passage.questions.9.answers.3.text:Senca
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:5950.0
+passage.questions.9.answers.2.text:Najmanjša serija
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:5949.0
+passage.questions.9.answers.1.text:Ženska, v katero je zaljubljen
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:5948.0
+passage.questions.9.answers.0.text:Nikomur
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5947.0
+passage.questions.8.question:Katere drage kamne so bile na rokah Pavlove nove ure posejane?
+passage.questions.8.idx:1173.0
+passage.questions.8.answers.3.text:Cirkoni
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:5946.0
+passage.questions.8.answers.2.text:Beryls
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:5945.0
+passage.questions.8.answers.1.text:Granati
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:5944.0
+passage.questions.8.answers.0.text:penast tok
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:5943.0
+passage.questions.7.question:S čim so bile strešene ure?
+passage.questions.7.idx:1172.0
+passage.questions.7.answers.3.text:Cirkoni
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:5942.0
+passage.questions.7.answers.2.text:Topaze
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:5941.0
+passage.questions.7.answers.1.text:Granati in zdeli so se brstične vrtnice
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:5940.0
+passage.questions.7.answers.0.text:Granati
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:5939.0
+passage.questions.6.question:Katere kamne je Paul uporabil pri izdelavi nove ure?
+passage.questions.6.idx:1171.0
+passage.questions.6.answers.2.text:Topaz, granat, kristal, cirkon, beril, ametist
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:5938.0
+passage.questions.6.answers.1.text:Kristali
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:5937.0
+passage.questions.6.answers.0.text:Topazi, granati, cirkoni, berili, ametisti
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:5936.0
+passage.questions.5.question:Komu je bila namenjena ura?
+passage.questions.5.idx:1170.0
+passage.questions.5.answers.1.text:V senco
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:5935.0
+passage.questions.5.answers.0.text:Za damo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5934.0
+passage.questions.4.question:Kateri kamni so na pokrovu ure?
+passage.questions.4.idx:1169.0
+passage.questions.4.answers.2.text:Topaze
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:5933.0
+passage.questions.4.answers.1.text:Granati
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:5932.0
+passage.questions.4.answers.0.text:Topaz
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:5931.0
+passage.questions.3.question:Iz česa je bil narejen obraz ure?
+passage.questions.3.idx:1168.0
+passage.questions.3.answers.2.text:Kristali
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:5930.0
+passage.questions.3.answers.1.text:Roman
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:5929.0
+passage.questions.3.answers.0.text:Granati
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:5928.0
+passage.questions.2.question:Kaj je Paul skušal narediti?
+passage.questions.2.idx:1167.0
+passage.questions.2.answers.2.text:rdeča vrtnica
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5927.0
+passage.questions.2.answers.1.text:Ura z dragulji
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:5926.0
+passage.questions.2.answers.0.text:Ura
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:5925.0
+passage.questions.12.question:Kaj je Pavlu potreboval teden dni?
+passage.questions.12.idx:1177.0
+passage.questions.12.answers.2.text:Senca
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:5960.0
+passage.questions.12.answers.1.text:Nova ura
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:5959.0
+passage.questions.12.answers.0.text:Dragulj
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:5958.0
+passage.questions.11.question:Koliko časa je trajalo izdelava ure?
+passage.questions.11.idx:1176.0
+passage.questions.11.answers.2.text:Zavedite se
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:5957.0
+passage.questions.11.answers.1.text:Dva tedna
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:5956.0
+passage.questions.11.answers.0.text:En teden
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:5955.0
+passage.questions.10.question:Komu je Pavel hitro izpovedoval svojo ljubezen?
+passage.questions.10.idx:1175.0
+passage.questions.10.answers.2.text:Dama, v katero je zaljubljen
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:5954.0
+passage.questions.10.answers.1.text:V njegovo senco
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:5953.0
+passage.questions.10.answers.0.text:Dami
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:5952.0
+passage.questions.1.question:Katere vrste kamnov je krasila Pavlova ura?
+passage.questions.1.idx:1166.0
+passage.questions.1.answers.7.text:Kristal
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:5924.0
+passage.questions.1.answers.6.text:Penast potok
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:5923.0
+passage.questions.1.answers.5.text:c
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:5922.0
+passage.questions.1.answers.4.text:Ametisti
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:5921.0
+passage.questions.1.answers.3.text:Beryls
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:5920.0
+passage.questions.1.answers.2.text:Granati
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:5919.0
+passage.questions.1.answers.1.text:Rdeče vrtnice
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:5918.0
+passage.questions.1.answers.0.text:Kovine
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:5917.0
+passage.questions.0.question:Ali je Pavel nadaljeval s prisego, da ne bo govoril, dokler ne konča ure?
+passage.questions.0.idx:1165
+passage.questions.0.answers.3.text:Da, Paul ni spregovoril, dokler ni bil prepričan, da je uro vredno predstaviti ženski, ki jo ima rad
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:5916.0
+passage.questions.0.answers.2.text:Da
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:5915.0
+passage.questions.0.answers.1.text:Mogoče
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:5914
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5913
+idx:98

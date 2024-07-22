@@ -1,0 +1,275 @@
+version:1.1
+passage.text:Nekoč sem imel psa po imenu Toodles. Bil je črno-bel in imel dolga disketna ušesa. Imel je tudi zelo kratke noge, a res velike tace. Vsako soboto smo šli v park in igrali Toodlesovo najljubšo igro. Toodles se je rad igral po igri. Neke sobote je Toodles pritekel do ribnika, ker je tam videl race, ki so plavale. Tekel je po ribniku in lajal na race. Račke ga niso upoštevale in so kar naprej plavale. Toodles je ni imel! Skočil je v ribnik in začel plavati proti račam ter loviti nove igralce. Ena od rac, pogumnejša od ostalih, je s kljunom pomolčila Toodlesa - in ga nato ugriznila kar v eno disketno uho! Toodles je zalajal in zbežal iz ribnika, ker ga je raca bolela v ušesu. Premočen je stekel proti mestu, kjer sem jedla sendvič na travi, in se zvil v naročju, da sem se lahko počutil bolje. Potem, kadar je zagledal raco, je Toodles tekel v drugo smer.
+passage.questions.9.question:Kakšne živali so v parku
+passage.questions.9.idx:1529.0
+passage.questions.9.answers.3.text:Kokoši
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:7960.0
+passage.questions.9.answers.2.text:Veverice
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:7959.0
+passage.questions.9.answers.1.text:Račke
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:7958.0
+passage.questions.9.answers.0.text:Mačke
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:7957.0
+passage.questions.8.question:Kje je bil ribnik
+passage.questions.8.idx:1528.0
+passage.questions.8.answers.2.text:V parku
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:7956.0
+passage.questions.8.answers.1.text:Doma
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:7955.0
+passage.questions.8.answers.0.text:Zunaj
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:7954.0
+passage.questions.7.question:Katera igra Toodle je bila najljubša?
+passage.questions.7.idx:1527.0
+passage.questions.7.answers.3.text:Tek
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:7953.0
+passage.questions.7.answers.2.text:Prinesi
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:7952.0
+passage.questions.7.answers.1.text:Igraj mrtev
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:7951.0
+passage.questions.7.answers.0.text:Rad se je igral prinašati
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:7950.0
+passage.questions.6.question:Kako izgleda pes Toodles?
+passage.questions.6.idx:1526.0
+passage.questions.6.answers.4.text:Bilo je z disketnimi ušesi, kratkimi nogami in velikimi tacami
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:7949.0
+passage.questions.6.answers.3.text:rdeča
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:7948.0
+passage.questions.6.answers.2.text:Črno-bel je z disketnimi ušesi, ima zelo kratke noge in velike tace
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:7947.0
+passage.questions.6.answers.1.text:Velik in visok
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:7946.0
+passage.questions.6.answers.0.text:Črno-bela z disketnimi ušesi
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:7945.0
+passage.questions.5.question:Zakaj je Toodles skočil v ribnik?
+passage.questions.5.idx:1525.0
+passage.questions.5.answers.3.text:Račke so ga ignorirale
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:7944.0
+passage.questions.5.answers.2.text:Račke so ga povabile noter
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:7943.0
+passage.questions.5.answers.1.text:Všeč mu je bilo plavanje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:7942.0
+passage.questions.5.answers.0.text:Ker so ga race ignorirale, ko je lajal
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:7941.0
+passage.questions.4.question:Kaj je povedal pripovedovalec, ko je raca ugriznila Toodlesa v uho?
+passage.questions.4.idx:1524.0
+passage.questions.4.answers.3.text:Jedo sendvič
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:7940.0
+passage.questions.4.answers.2.text:Igranje kitare
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:7939.0
+passage.questions.4.answers.1.text:Sedel je na tleh in jedel sendvič
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:7938.0
+passage.questions.4.answers.0.text:Opazoval je kramljače
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:7937.0
+passage.questions.3.question:Kje je bil Toodles, ko se je raca ugriznila za uho?
+passage.questions.3.idx:1523.0
+passage.questions.3.answers.3.text:V ribniku
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:7936.0
+passage.questions.3.answers.2.text:V vodi
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:7935.0
+passage.questions.3.answers.1.text:Na travi
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:7934.0
+passage.questions.3.answers.0.text:Na zalivu
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7933.0
+passage.questions.2.question:Kaj je storil Toodles, ko je zagledal race, ki plavajo v ribniku?
+passage.questions.2.idx:1522.0
+passage.questions.2.answers.4.text:Začel lajati nanje
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:7932.0
+passage.questions.2.answers.3.text:Zalajal je nanje
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:7931.0
+passage.questions.2.answers.2.text:Prinesel je enega od njih
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:7930.0
+passage.questions.2.answers.1.text:Smrčal je nad njimi
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7929.0
+passage.questions.2.answers.0.text:Tekel je okoli ribnika in lajal
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:7928.0
+passage.questions.18.question:Kako je opisan videz krastavcev?
+passage.questions.18.idx:1538.0
+passage.questions.18.answers.4.text:Rjava barva, dolge noge, kratka leta
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:7996.0
+passage.questions.18.answers.3.text:Je rdeč in rjav s kratkimi ušesi
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:7995.0
+passage.questions.18.answers.2.text:Črno-bela z zelo disketiranimi ušesi. Imel je kratke noge in velike tace
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:7994.0
+passage.questions.18.answers.1.text:Črno-bela barva, kratke noge, velike tace in disketna ušesa
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:7993.0
+passage.questions.18.answers.0.text:Črno-bel je z disketnimi ušesi
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:7992.0
+passage.questions.17.question:Kakšne barve so Toodles?
+passage.questions.17.idx:1537.0
+passage.questions.17.answers.2.text:rjav
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:7991.0
+passage.questions.17.answers.1.text:Črno in belo
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:7990.0
+passage.questions.17.answers.0.text:Rjavkasto rumena
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:7989.0
+passage.questions.16.question:Kje se je Toodles igral?
+passage.questions.16.idx:1536.0
+passage.questions.16.answers.2.text:Ulica
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:7988.0
+passage.questions.16.answers.1.text:V parku
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:7987.0
+passage.questions.16.answers.0.text:Na plaži
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:7986.0
+passage.questions.15.question:Kaj so naredili krampi, ko je zagledal race?
+passage.questions.15.idx:1535.0
+passage.questions.15.answers.3.text:Tekel je čez ribnik in lajal, nato pa skočil noter
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:7985.0
+passage.questions.15.answers.2.text:Ugrizni jih
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:7984.0
+passage.questions.15.answers.1.text:Zavpil je
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:7983.0
+passage.questions.15.answers.0.text:Zalajal je nanje
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:7982.0
+passage.questions.14.question:Kaj je bila najljubša igra
+passage.questions.14.idx:1534.0
+passage.questions.14.answers.2.text:Prinesi
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:7981.0
+passage.questions.14.answers.1.text:Igraj mrtev
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:7980.0
+passage.questions.14.answers.0.text:Tek po racah
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:7979.0
+passage.questions.13.question:Kaj je raca naredila, da je Toodlesu bolelo uho?
+passage.questions.13.idx:1533.0
+passage.questions.13.answers.4.text:Ugriznil se je za uho
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:7978.0
+passage.questions.13.answers.3.text:Pokal ga je v uho in ga ugriznil
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:7977.0
+passage.questions.13.answers.2.text:Odtrgal ga je
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:7976.0
+passage.questions.13.answers.1.text:Praskal ga je s prstom
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:7975.0
+passage.questions.13.answers.0.text:Raca je ugriznila Toodlesa za uho
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:7974.0
+passage.questions.12.question:Zakaj Toodles zdaj beži pred racami?
+passage.questions.12.idx:1532.0
+passage.questions.12.answers.4.text:Račka ga je prizadela po ušesih
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:7973.0
+passage.questions.12.answers.3.text:Da bi ga raca preganjala
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:7972.0
+passage.questions.12.answers.2.text:Raca je ugriznila in si prizadela uho
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:7971.0
+passage.questions.12.answers.1.text:Sovraži jih
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:7970.0
+passage.questions.12.answers.0.text:Strah jih je
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:7969.0
+passage.questions.11.question:Kakšne barve je imel pes, ki je plaval proti racam?
+passage.questions.11.idx:1531.0
+passage.questions.11.answers.2.text:rdeča
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:7968.0
+passage.questions.11.answers.1.text:Črno in belo?
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:7967.0
+passage.questions.11.answers.0.text:Bela z rjavimi lisami
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:7966.0
+passage.questions.10.question:Kako se je Toodles igral z racami?
+passage.questions.10.idx:1530.0
+passage.questions.10.answers.4.text:Zalajal je nanje
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:7965.0
+passage.questions.10.answers.3.text:Tek za njimi
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:7964.0
+passage.questions.10.answers.2.text:Pokimal jim je
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:7963.0
+passage.questions.10.answers.1.text:Plavanje z njimi
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:7962.0
+passage.questions.10.answers.0.text:Tekel je okoli ribnika, plaval z njimi, jih preganjal in lajal
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:7961.0
+passage.questions.1.question:Kako so se krastavci odzvali na raco, ki se je ugriznila v uho?
+passage.questions.1.idx:1521.0
+passage.questions.1.answers.4.text:Smejal se je
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:7927.0
+passage.questions.1.answers.3.text:Pobegnil stran od račke
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:7926.0
+passage.questions.1.answers.2.text:Vpil je in mu ni bilo všeč
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:7925.0
+passage.questions.1.answers.1.text:Zalajal je in zbežal iz ribnika. Stekel je proti meni, da sem ga lahko potolažila. Zdaj, ko toodles zagleda raco, teče v drugo smer
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:7924.0
+passage.questions.1.answers.0.text:Grizel je po vrsti
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:7923.0
+passage.questions.0.question:Kakšne barve so bili krampi
+passage.questions.0.idx:1520
+passage.questions.0.answers.3.text:Rjava in bela
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:7922.0
+passage.questions.0.answers.2.text:rjav
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:7921.0
+passage.questions.0.answers.1.text:Črno in belo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:7920
+passage.questions.0.answers.0.text:Bela
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7919
+idx:134

@@ -1,0 +1,165 @@
+version:1.1
+passage.text:Dick je bil jezen, ko je videl, kako zadovoljni moški prenašajo neprijetno zaprtost, skromno hrano in ostro zaničljivost golobradih fantov, ki so jih postavili kot stražarje. Večina zapornikov je čas preživljala s kartami, igrala se je za gumbe, drobnarije ali kaj drugega, kar je tvorilo njihovo skromno lastnino. Dick je izvedel, da so bili vsi komisarji podjetja z Wesleyem Booneom ranjeni ali ubiti v napadu blizu kamnitega mostu. Wesley je bil sprva z zaporniki. Ko so ga oče in sestra pripeljali v zapor, da bi ga odpeljali, ga je udaril po glavi in je bil v besni mrzlici. Nihče ni mogel vedeti, kje je zdaj, toda Dick je vedel, da mora biti v mestu, saj izmenjav ni bilo, konfederalci pa niso dovolili nikomur, da zapusti linijo, razen ženskam z mrtvimi ali tistim, ki so prišli s severa na posebno dovoljenja. Potem je obiskal sedež protestov in razkazal mu je celoten seznam imen, zabeleženih v tamkajšnjih knjigah; toda Barneyjeve ni bilo med njimi. Dan po prihodu je v hotelu Spottswood srečal Elisha Booneja, trpečega, depresivnega, skoraj obupanega. Dick ni imel ljubezni do trdoglavega plutokrata, vendar se ni mogel upreti, da bi se povedal.
+passage.questions.9.question:Kje je Dick ostal, medtem ko je poskušal ostati neznan?
+passage.questions.9.idx:1887.0
+passage.questions.9.answers.1.text:Motel Halloway
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:9854.0
+passage.questions.9.answers.0.text:Hotel Spottswood
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:9853.0
+passage.questions.8.question:Je bil Wesley Boone umorjen pri kamnitem mostu?
+passage.questions.8.idx:1886.0
+passage.questions.8.answers.1.text:Da
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:9852.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:9851.0
+passage.questions.7.question:Kako je bilo ime trdoglavega plutokrata?
+passage.questions.7.idx:1885.0
+passage.questions.7.answers.1.text:Elisha Boone
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:9850.0
+passage.questions.7.answers.0.text:Wesley
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:9849.0
+passage.questions.6.question:Komu se Dick javi v stavku 9?
+passage.questions.6.idx:1884.0
+passage.questions.6.answers.1.text:Elisha Boone
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:9848.0
+passage.questions.6.answers.0.text:Wesley
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:9847.0
+passage.questions.5.question:Koga je Dick v hotelu Spottswood spoznal, da je bil trdoglavi plutokrat?
+passage.questions.5.idx:1883.0
+passage.questions.5.answers.1.text:Elisha Boone
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:9846.0
+passage.questions.5.answers.0.text:Wesley Boone
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:9845.0
+passage.questions.4.question:Kdo je Wesleyja odpeljal iz zapora?
+passage.questions.4.idx:1882.0
+passage.questions.4.answers.2.text:Njegov oče in sestra
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:9844.0
+passage.questions.4.answers.1.text:Wesleyev oče in sestra
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:9843.0
+passage.questions.4.answers.0.text:Wesleyev stric
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:9842.0
+passage.questions.3.question:Kdo je bil jezen, ko je videl, kako zadovoljni moški prenašajo neprijetno zaprtje?
+passage.questions.3.idx:1881.0
+passage.questions.3.answers.1.text:Dick
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:9841.0
+passage.questions.3.answers.0.text:Wesley
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:9840.0
+passage.questions.2.question:Kdo je bil &quot;trdoglavi plutokrat&quot;?
+passage.questions.2.idx:1880.0
+passage.questions.2.answers.1.text:Elisha Boone
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:9839.0
+passage.questions.2.answers.0.text:Wesley
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:9838.0
+passage.questions.17.question:Kdo se je srečal z Elisho Boone v hotelu Spottswood?
+passage.questions.17.idx:1895.0
+passage.questions.17.answers.1.text:Dick
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:9874.0
+passage.questions.17.answers.0.text:Wesley
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:9873.0
+passage.questions.16.question:Kje je Dick obiskal po postanku na sedežu protesta?
+passage.questions.16.idx:1894.0
+passage.questions.16.answers.1.text:Zapor
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:9872.0
+passage.questions.16.answers.0.text:Hotel Spottswood
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:9871.0
+passage.questions.15.question:Kaj je Dick izvedel o Wesleyju Booneu?
+passage.questions.15.idx:1893.0
+passage.questions.15.answers.2.text:Wesley je bil mrtev
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:9870.0
+passage.questions.15.answers.1.text:Wesleyja so udarili po glavi
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:9869.0
+passage.questions.15.answers.0.text:Wesley je bil z zaporniki
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:9868.0
+passage.questions.14.question:Dick se je razjezil, ko je videl, kdo si je čas pokazal na kartah, igral za gumbe, drobnarije ali kaj drugega, kar je tvorilo njihovo skromno lastnino?
+passage.questions.14.idx:1892.0
+passage.questions.14.answers.1.text:Stražarji
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:9867.0
+passage.questions.14.answers.0.text:Ujetniki
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:9866.0
+passage.questions.13.question:Kdo je obiskal sedež protesta?
+passage.questions.13.idx:1891.0
+passage.questions.13.answers.1.text:Dick
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:9865.0
+passage.questions.13.answers.0.text:Wesley
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:9864.0
+passage.questions.12.question:Kdo je bil udarjen po glavi in je imel divjo mrzlico?
+passage.questions.12.idx:1890.0
+passage.questions.12.answers.2.text:Dick
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:9863.0
+passage.questions.12.answers.1.text:Wesley Boone
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:9862.0
+passage.questions.12.answers.0.text:Wesley
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:9861.0
+passage.questions.11.question:Imate seznam imen, koga je videl Dick?
+passage.questions.11.idx:1889.0
+passage.questions.11.answers.2.text:Barneyja ni videl
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:9860.0
+passage.questions.11.answers.1.text:Elisha Boone
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:9859.0
+passage.questions.11.answers.0.text:Barney
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:9858.0
+passage.questions.10.question:Kdo so bili moški, ki so imeli motečo zaprtost, skromno hrano in ostro brezčutnost golobradih fantov, ki so jih postavili za straže?
+passage.questions.10.idx:1888.0
+passage.questions.10.answers.2.text:Gardisti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:9857.0
+passage.questions.10.answers.1.text:Ujetniki
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:9856.0
+passage.questions.10.answers.0.text:Ujetniki
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:9855.0
+passage.questions.1.question:Koga so konfederalci pustili?
+passage.questions.1.idx:1879.0
+passage.questions.1.answers.2.text:Posebni operativci
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:9837.0
+passage.questions.1.answers.1.text:Ženske in tiste s severa na posebnih dovoljenjih
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:9836.0
+passage.questions.1.answers.0.text:Ženske z mrtvimi ali tiste, ki so prišle s severa na posebna dovoljenja
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:9835.0
+passage.questions.0.question:Kdo je bil udarjen po glavi?
+passage.questions.0.idx:1878
+passage.questions.0.answers.1.text:Dick
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:9834
+passage.questions.0.answers.0.text:Wesley
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:9833
+idx:171

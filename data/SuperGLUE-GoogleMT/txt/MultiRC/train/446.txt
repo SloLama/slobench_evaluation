@@ -1,0 +1,78 @@
+version:1.1
+passage.text:In William Martinez, 28, ki je študij medicinske fakultete skrajšal, ker si po dveh letih podiplomskega študija in štirih letih fakultete ni mogel privoščiti posojila v višini 39.000 USD. Martinez dela na dveh delovnih mestih kot zdravnikov pomočnik in podpira svoje ostarele starše in 8-letnega sina. Uncommon Good ima 22-članski zdravniški odbor, odvetnike in predstavnike krščanskih skupin in zaposluje mentorje. Eden od ciljev je doseči, da bo državni zakonodajalec sprejel zakon, ki bo odpuščanje posojil zagotavljal zdravnikom in odvetnikom, ki delajo z revnimi. Mintie je dejala, da upa, da je njena organizacija lahko nacionalni model za druge poklice. Službe pravne pomoči poskuša pripeljati v celinsko dolino - najbližji urad za pravno pomoč je v El Monteu in zastopa 700.000 revnih ljudi po dolinah San Fernando, San Gabriel in Inland. &quot;Če pravna pomoč ni v skupnosti, ne morete reči, da služite revnim,&quot; je dejala Mintie. Neal Dudovitz je izvršni direktor Neighborhood Legal Services okrožja Los Angeles, urada za pravno pomoč v El Monteu. Po njegovem mnenju odvetniki, ki so novi na področju zakona o revščini, ves čas odhajajo, ker si plače ne morejo privoščiti z dolgom pravne fakultete. &quot;Res je odprla veliko oči, da bi ljudje razumeli, kako dolg za izobraževanje omejuje in zmanjšuje storitve, ki so na voljo skupnostim z nizkimi dohodki,&quot; je dejal Dudovitz. &quot;Nancy je svetlobna leta pred krivuljo pri teh stvareh. Zelo malo je narejenega, da bi to rešili.&quot; Mintie, pravijo njeni kolegi, bi lahko v zasebni praksi zaslužila veliko denarja. &quot;Zelo je prijazna in prijetna,&quot; je dejal 45-letni Julius Thompson, odvetnik v Inner City Law Center in prejemnik občasnega dobrega. &quot;Je pa tudi ženska na misiji. Ko se na kaj osredotoči, je močna sila.&quot;
+passage.questions.2.question:Koliko je bil star William Martinez, ko je imel sina?
+passage.questions.2.idx:5023.0
+passage.questions.2.answers.7.text:28.
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:26688.0
+passage.questions.2.answers.6.text:Približno 20
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:26687.0
+passage.questions.2.answers.5.text:18.
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:26686.0
+passage.questions.2.answers.4.text:20.
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:26685.0
+passage.questions.2.answers.3.text:Dvajset
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:26684.0
+passage.questions.2.answers.2.text:22.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:26683.0
+passage.questions.2.answers.1.text:Trideset
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26682.0
+passage.questions.2.answers.0.text:34
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:26681.0
+passage.questions.1.question:Kaj je razlog, da Neal Dudovitz vidi toliko novih odvetnikov po zakonu o revščini?
+passage.questions.1.idx:5022.0
+passage.questions.1.answers.9.text:Ne morejo si privoščiti, da bi ostali pri plači in dolgu pravne fakultete
+passage.questions.1.answers.9.label:1.0
+passage.questions.1.answers.9.idx:26680.0
+passage.questions.1.answers.8.text:Plače si z dolgom pravne fakultete ne morejo privoščiti
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:26679.0
+passage.questions.1.answers.7.text:Storitve niso na voljo
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:26678.0
+passage.questions.1.answers.6.text:Plačo si lahko privoščijo z dolgom pravne fakultete
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:26677.0
+passage.questions.1.answers.5.text:Dolg za izobraževanje
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:26676.0
+passage.questions.1.answers.4.text:Dolg visoke šole
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:26675.0
+passage.questions.1.answers.3.text:Ne marajo ljudi z nizkimi dohodki, ki jim služijo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:26674.0
+passage.questions.1.answers.2.text:Plače si ne morejo privoščiti zaradi dolga pravne fakultete
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:26673.0
+passage.questions.1.answers.1.text:Nizka plača
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26672.0
+passage.questions.1.answers.0.text:Njihove pisarne niso dobro vodene
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26671.0
+passage.questions.0.question:Kdo je rekel: &quot;Ona je strašna sila.&quot;?
+passage.questions.0.idx:5021
+passage.questions.0.answers.4.text:Mintie
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:26670.0
+passage.questions.0.answers.3.text:Odvetnik v Inner City Law Center
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:26669.0
+passage.questions.0.answers.2.text:William Martinez
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:26668.0
+passage.questions.0.answers.1.text:Julius Thompson
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26667
+passage.questions.0.answers.0.text:Neal Dudovitz
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:26666
+idx:446

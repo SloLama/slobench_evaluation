@@ -1,0 +1,305 @@
+version:1.1
+passage.text:(CNN) - Transocean Ltd., lastnik naftne ploščadi Mehiškega zaliva, ki je eksplodirala in ubila 11 delavcev, je razglasil leto 2010 za &quot;najboljše leto na področju varnosti v zgodovini našega podjetja&quot;. na nedavno prijavo pri ameriški komisiji za vrednostne papirje in borzo. To vključuje zvišanje plače za 200.000 dolarjev za predsednika in izvršnega direktorja Transoceana Stevena L. Newmana, katerega osnovna plača se bo po poročilu SEC povečala z 900.000 na 1,1 milijona dolarjev. Newmanov bonus je znašal 374.062 USD, piše v poročilu. Newman ima tudi 5,4 milijona dolarjev dolgoročnega odškodninskega paketa, ki mu ga je podjetje dodelilo ob njegovem imenovanju za izvršnega direktorja marca 2010, v skladu s prijavo SEC. Zadnje denarne nagrade delno temeljijo na &quot;uspešnosti podjetja v varnosti&quot;, navaja Transocean. &quot;Ne glede na tragično izgubo življenj v Mehiškem zalivu smo dosegli zgledno statistično evidenco varnosti, merjeno z našo skupno zapisljivo stopnjo incidentov in skupno potencialno stopnjo resnosti,&quot; piše v izjavi SEC. &quot;V skladu s temi standardi smo zabeležili najboljše leto glede varnosti v zgodovini našega podjetja.&quot; Družba je ta zapis imenovala &quot;odraz naše zavezanosti k doseganju okolja brez incidentov, ves čas in povsod,&quot; navaja prijava SEC. Družba se ni odzvala na e-sporočilo CNN, ki je zahtevalo komentar. Eksplozija na ploščadi Deepwater Horizon 20. aprila 2010 je poškodovala 17 delavcev in ubila 11 drugih, med njimi devet uslužbencev Transoceana, v skladu s prijavo SEC. Imenujejo ga najhujše razlitje v zgodovini ZDA. Vodnjak je bil zaprt tri mesece kasneje, vendar šele preden so se v Zaliv izlili milijoni sodov nafte. Januarja je nacionalna komisija predsednika Baracka Obame za razlitje nafte BP Deepwater Horizon in vrtanje na morju objavila poročilo, v katerem se krivda za nesrečo širi med Transoceanom, BP, ki je najel ploščad, in Halliburtonom, ki je postavil cementno ohišje ploščadi.
+passage.questions.9.question:Kje je bila naftna ploščad Deepwater Horizon pred nesrečo?
+passage.questions.9.idx:83.0
+passage.questions.9.answers.5.text:Zaliv Mannar
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:514.0
+passage.questions.9.answers.4.text:V Aljaškem zalivu
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:513.0
+passage.questions.9.answers.3.text:V južnem Atlantiku
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:512.0
+passage.questions.9.answers.2.text:V Mehiškem zalivu
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:511.0
+passage.questions.9.answers.1.text:Zaliv Mannar
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:510.0
+passage.questions.9.answers.0.text:Mehiški zaliv
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:509.0
+passage.questions.8.question:Na kateri datum se je zgodilo najhujše razlitje nafte v zgodovini ZDA?
+passage.questions.8.idx:82.0
+passage.questions.8.answers.5.text:21. april 2010
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:508.0
+passage.questions.8.answers.4.text:20. april 2010
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:507.0
+passage.questions.8.answers.3.text:19. april 2010
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:506.0
+passage.questions.8.answers.2.text:11. 11. 2010
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:505.0
+passage.questions.8.answers.1.text:20. april 2010
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:504.0
+passage.questions.8.answers.0.text:Marec 2010
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:503.0
+passage.questions.7.question:Kaj je bilo najslabše razlitje nafte v zgodovini ZDA?
+passage.questions.7.idx:81.0
+passage.questions.7.answers.8.text:Eksplozija globokega obzorja
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:502.0
+passage.questions.7.answers.7.text:Eksplozijska ploščad
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:501.0
+passage.questions.7.answers.6.text:Naprava Deepwater Horizon
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:500.0
+passage.questions.7.answers.5.text:Eksplozija ploščadi Deep Horizon leta 2009
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:499.0
+passage.questions.7.answers.4.text:Čezoceanska ploščad leta 2009
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:498.0
+passage.questions.7.answers.3.text:Razlitje nafte Deepwater Horizon
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:497.0
+passage.questions.7.answers.2.text:Eksplozija ploščadi Deepwater Horizon leta 2010 v Mehiškem zalivu
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:496.0
+passage.questions.7.answers.1.text:Obzorje
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:495.0
+passage.questions.7.answers.0.text:Razlitje 20. aprila 2010
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:494.0
+passage.questions.6.question:Kako se imenuje naftna ploščad v Mehiškem zalivu
+passage.questions.6.idx:80.0
+passage.questions.6.answers.5.text:Čezocean
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:493.0
+passage.questions.6.answers.4.text:Globokomorski obzor
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:492.0
+passage.questions.6.answers.3.text:Prenos
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:491.0
+passage.questions.6.answers.2.text:Halliburton
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:490.0
+passage.questions.6.answers.1.text:Prenos
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:489.0
+passage.questions.6.answers.0.text:Transocean Ltd
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:488.0
+passage.questions.5.question:Koliko denarja za bonuse in povišanja plač je prejel predsednik in izvršni direktor Transoceana Steven L. Newman?
+passage.questions.5.idx:79.0
+passage.questions.5.answers.8.text:Prejel je 374.062 USD bonusa in 200.000 USD povišanja
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:487.0
+passage.questions.5.answers.7.text:400.000 USD dodatka in 300.000 USD povišanja plače
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:486.0
+passage.questions.5.answers.6.text:$ 374062 $ in 200000 $ povišanje plače
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:485.0
+passage.questions.5.answers.5.text:374.062 $ bonusa in 200.000 dolarjev povišanja plače
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:484.0
+passage.questions.5.answers.4.text:1,1 milijona dolarjev
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:483.0
+passage.questions.5.answers.3.text:574.062 USD
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:482.0
+passage.questions.5.answers.2.text:900.000 USD povišanja plače in 200.000 USD dodatkov
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:481.0
+passage.questions.5.answers.1.text:$ 400000 bonus in $ 300000 povišanje plače
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:480.0
+passage.questions.5.answers.0.text:Povišanje plače za 200.000 USD plus bonus v višini 374.062 USD
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:479.0
+passage.questions.4.question:Kako dolgo je bil Steven L. Newman izvršni direktor družbe Transocean, ko je prišlo do razlitja?
+passage.questions.4.idx:78.0
+passage.questions.4.answers.6.text:2 leti
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:478.0
+passage.questions.4.answers.5.text:7 mesecev
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:477.0
+passage.questions.4.answers.4.text:3 mesece
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:476.0
+passage.questions.4.answers.3.text:Skoraj 5 mesecev
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:475.0
+passage.questions.4.answers.2.text:Ne več kot en mesec
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:474.0
+passage.questions.4.answers.1.text:6 mesecev
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:473.0
+passage.questions.4.answers.0.text:Mesec
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:472.0
+passage.questions.3.question:Kako dolgo med imenovanjem Newmana za izvršnega direktorja in eksplozijo Deepwater?
+passage.questions.3.idx:77.0
+passage.questions.3.answers.7.text:Eno leto
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:471.0
+passage.questions.3.answers.6.text:1,5 meseca
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:470.0
+passage.questions.3.answers.5.text:Tri mesece
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:469.0
+passage.questions.3.answers.4.text:Mesec, od marca 2010 do aprila 2010
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:468.0
+passage.questions.3.answers.3.text:2 meseca
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:467.0
+passage.questions.3.answers.2.text:4 mesece
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:466.0
+passage.questions.3.answers.1.text:1 mesec
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:465.0
+passage.questions.3.answers.0.text:Mesec
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:464.0
+passage.questions.2.question:Kako dolgo po zaprtju vrtine je nacionalna komisija za izlitje nafte BP Deepwater Horizon in vrtanje na morju razdelila krivdo za razlitje nafte med Transoceanom, BP in Halliburtonom?
+passage.questions.2.idx:76.0
+passage.questions.2.answers.5.text:7 mesecev
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:463.0
+passage.questions.2.answers.4.text:3 mesece
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:462.0
+passage.questions.2.answers.3.text:Od julija 2010 do januarja 2011
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:461.0
+passage.questions.2.answers.2.text:Skoraj 5 mesecev
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:460.0
+passage.questions.2.answers.1.text:3 leta
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:459.0
+passage.questions.2.answers.0.text:Skoraj 6 mesecev
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:458.0
+passage.questions.12.question:Katero podjetje se ni odzvalo na e-pošto CNN, ki je iskala komentar?
+passage.questions.12.idx:86.0
+passage.questions.12.answers.4.text:Transocean, Ltd
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:533.0
+passage.questions.12.answers.3.text:Prenos
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:532.0
+passage.questions.12.answers.2.text:Halliburton
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:531.0
+passage.questions.12.answers.1.text:Prenos
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:530.0
+passage.questions.12.answers.0.text:BP
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:529.0
+passage.questions.11.question:V katerem letu je Steven L. Newman prejel bonus v višini 374.062 USD?
+passage.questions.11.idx:85.0
+passage.questions.11.answers.4.text:2009
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:528.0
+passage.questions.11.answers.3.text:2010
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:527.0
+passage.questions.11.answers.2.text:2011
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:526.0
+passage.questions.11.answers.1.text:Marec 2011
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:525.0
+passage.questions.11.answers.0.text:Marec 2010
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:524.0
+passage.questions.10.question:Koliko je Newman zaslužil leta 210 med svojo plačo in bonusom (zaokroženo na najbližjih sto tisoč)?
+passage.questions.10.idx:84.0
+passage.questions.10.answers.8.text:1,5 milijona dolarjev
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:523.0
+passage.questions.10.answers.7.text:6 milijonov dolarjev
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:522.0
+passage.questions.10.answers.6.text:5,4 milijona dolarjev
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:521.0
+passage.questions.10.answers.5.text:1,4 milijona
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:520.0
+passage.questions.10.answers.4.text:5 milijonov dolarjev
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:519.0
+passage.questions.10.answers.3.text:1.500.000 USD
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:518.0
+passage.questions.10.answers.2.text:1,1 milijona dolarjev
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:517.0
+passage.questions.10.answers.1.text:Skoraj 5,5 milijona dolarjev
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:516.0
+passage.questions.10.answers.0.text:900.000 USD
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:515.0
+passage.questions.1.question:Kateri je datum najhujšega razlitja nafte v zgodovini?
+passage.questions.1.idx:75.0
+passage.questions.1.answers.6.text:Januar 2011
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:457.0
+passage.questions.1.answers.5.text:21. april 2010
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:456.0
+passage.questions.1.answers.4.text:20. april 2010 Eksplozija Deepwater Horizon je bila najhujše razlitje nafte v zgodovini ZDA
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:455.0
+passage.questions.1.answers.3.text:20. april 2010
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:454.0
+passage.questions.1.answers.2.text:19. april 2010
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:453.0
+passage.questions.1.answers.1.text:10. april 2010
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:452.0
+passage.questions.1.answers.0.text:20. april 2010
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:451.0
+passage.questions.0.question:Naštejte nekaj učinkov eksplozije Deepwater Horizon leta 2010
+passage.questions.0.idx:74
+passage.questions.0.answers.8.text:ubil 11 delavcev
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:450.0
+passage.questions.0.answers.7.text:ubil 20 delavcev
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:449.0
+passage.questions.0.answers.6.text:17 delavcev je ranjenih in 11 ubitih
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:448.0
+passage.questions.0.answers.5.text:17 delavcev je ranjenih, 11 ubitih in najhujše razlitje v zgodovini ZDA
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:447.0
+passage.questions.0.answers.4.text:Smrt 28 delavcev
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:446.0
+passage.questions.0.answers.3.text:20 ranjenih delavcev
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:445.0
+passage.questions.0.answers.2.text:Nacionalna komisija predsednika Obame je poročala, da je bila krivda le družba Transocean Ltd
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:444.0
+passage.questions.0.answers.1.text:11 pobitih, milijoni sodov nafte so se razlili v Zaliv
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:443
+passage.questions.0.answers.0.text:Poškodovanih 17 delavcev
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:442
+idx:7

@@ -1,0 +1,62 @@
+version:1.1
+passage.text:Ko je oče samohranilec Thurman Williams v zadnjem času potreboval pomoč pri izpolnjevanju dokumentov v skrbniški obleki, ni za pomoč zaprosil svojega odvetnika. Stopil je do računalniškega kioska v pravosodnem centru Lamoreaux v Orangeu in začel tapkati po tipkah. Kot del pravnega eksperimenta stranke v sporu brez odvetnikov po vsej Kaliforniji uporabljajo računalniške video kioske za pripravo skupnih sodnih spisov in iskanje osnovnega pravnega nasveta. Kiosk, ki ga uporablja Williams, je del prizadevanj države za obvladovanje poplave pravdnih strank, ki si ne morejo privoščiti ali zavrniti najema odvetnikov. Sodni uradniki se po vsej državi bojijo, da je število samozastopanih strank doseglo krizno raven in grozi, da bo zamašil sodne koledarje. Tako kot Williams je tudi več kot 6000 pravdnih strank Orange County sprožilo sodne postopke za I-CAN! kioske ali dostopali do programov na internetu z uporabo domačih računalnikov. Podobni programi delujejo v Sacramentu, San Diegu in Venturi. Nedavna študija prvih 18 mesecev obratovanja kioskov je pokazala, da je prezgodaj ugotoviti, ali bo sistem razbremenil sodne koledarje. Toda v poročilu šole za socialno ekologijo UC Irvine piše, da so bili uporabniki v veliki meri pozitivni glede brezplačne pravne pomoči. &quot;Veliko mi je olajšalo življenje,&quot; je dejal Williams. &quot;Pomagalo mi je, da nisem šel v ubožnico.&quot; 29-letno prebivalko Orange je sodno osebje napotilo v kiosk v pravosodnem centru Lamoreaux. Potem ko je Williams nataknil slušalke in sledil navodilom inštruktorja, je izpolnil četrtinčni paket dokumentov o očetovstvu in skrbništvu. Vaja je trajala 20 minut; po njegovem mnenju bi ga stalo približno 800 dolarjev, če bi se zanesel na odvetnika. &quot;Bilo je veliko lažje, kot sem mislil.&quot; Ne glede na to, ali si ne morejo privoščiti odvetnika ali želijo zgolj prihraniti denar, bo več Kalifornijcev pred sodiščem odvetnika. &quot;Presenečen sem nad številkami,&quot; je dejal komisar Salvador Sarmiento, ki na dan v pravosodnem centru Lamoreaux zasliši med 40 in 90 primerov preživnine za otroke.
+passage.questions.3.question:Koliko je star Williams?
+passage.questions.3.idx:1246.0
+passage.questions.3.answers.2.text:40
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:6366.0
+passage.questions.3.answers.1.text:V svojih dvajsetih
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6365.0
+passage.questions.3.answers.0.text:29.
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:6364.0
+passage.questions.2.question:Kdo je pripomnil: &quot;Pomagalo mi je, da nisem šel v ubožnico.&quot;
+passage.questions.2.idx:1245.0
+passage.questions.2.answers.3.text:Salvador Sarmiento
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6363.0
+passage.questions.2.answers.2.text:Sodne stranke Orange County
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:6362.0
+passage.questions.2.answers.1.text:Thurman Williams
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:6361.0
+passage.questions.2.answers.0.text:Računalnik
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6360.0
+passage.questions.1.question:Zakaj je Thurman Williams v nasprotju z iskanjem odvetnika stopil do računalniškega kioska v pravosodnem centru Lamoreaux v Oranžnem centru in začel samo tapkati tipke
+passage.questions.1.idx:1244.0
+passage.questions.1.answers.5.text:Bilo je ceneje in bolj priročno
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:6359.0
+passage.questions.1.answers.4.text:Kot del pravnega eksperimenta so stranke v sporu brez odvetnikov po Kaliforniji uporabljale računalniške video kioske za pripravo sodnih spisov in iskanje pravnih nasvetov
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:6358.0
+passage.questions.1.answers.3.text:Bil je preveč poceni, da bi dobil odvetnika
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6357.0
+passage.questions.1.answers.2.text:Pripraviti skupne sodne prijave in poiskati osnovni pravni nasvet
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:6356.0
+passage.questions.1.answers.1.text:Prihraniti denar
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:6355.0
+passage.questions.1.answers.0.text:Nisem hotel v pisarno
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:6354.0
+passage.questions.0.question:Kdo je hodil do računalniškega kioska v pravosodnem centru Lamoreaux v Orangeu?
+passage.questions.0.idx:1243
+passage.questions.0.answers.3.text:Thurman Williams
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:6353.0
+passage.questions.0.answers.2.text:Salvador Sarmiento
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:6352.0
+passage.questions.0.answers.1.text:Moški
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:6351
+passage.questions.0.answers.0.text:Sarmiento
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:6350
+idx:105

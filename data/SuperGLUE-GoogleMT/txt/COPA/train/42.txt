@@ -1,0 +1,6 @@
+choice1:Vlagatelj ni uspel preveriti preteklosti.
+choice2:Prosilec je imel delovne izkušnje.
+idx:42
+label:0
+premise:Direktor se je odločil, da prosilca ne bo zaposlil.
+question:cause

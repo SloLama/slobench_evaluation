@@ -1,0 +1,142 @@
+version:1.1
+passage.text:NEW DELHI, Indija (CNN) - Mafija je v četrtek v indijski zvezni državi Orissa ubila hindujca, ko je druga skupina napadla cerkev v drugem delu nemirnega okrožja Kandhamal, so v petek sporočile oblasti. Krščanski aktivisti v začetku tega meseca organizirajo mirovni pohod v Mumbaju v Indiji. Krishan Kumar, najvišji uradnik Kandhamala, je za CNN povedal, da je bil hindujski moški v Raikiji vdrt do smrti. Država Orissa, v kateri prevladujejo plemenski prebivalci, meji na Bengalski zaliv v vzhodni in osrednji Indiji, Kandhamal pa se nahaja v središču države, ki je bilo ogroženo zaradi hindujsko-krščanskega nasilja. Praveen Kumar, policijski nadzornik Kandhamala, je dejal, da v obeh primerih poteka preiskava in ni navedel, ali se išče osumljence. Po besedah upravitelja je v hindujsko-krščanskem nasilju v Kandhamalu ta mesec umrlo triindvajset civilistov, razen policije. &quot;Aretacije se nadaljujejo,&quot; je Praveen Kumar odgovorila na vprašanje, koliko ljudi je bilo doslej pridržanih zaradi nasilja. Zadnji napadi so se zgodili na dan, ko je indijska zvezna vlada državno upravo pozvala, naj sprejme &quot;učinkovite, usmerjene in odločne ukrepe&quot; za nadzor konfliktov. V četrtek je zvezni notranji minister Madhukar Gupta vlado Orisse pozval, naj zagotovi učinkovito napotitev paravojaških sil v zvezno državo. - Harmeet Shah Singh iz CNN je prispeval k temu poročilu.
+passage.questions.7.question:Vsaj koliko civilistov je ta mesec umrlo v državi Orissa v hindujsko-krščanskem nasilju?
+passage.questions.7.idx:731.0
+passage.questions.7.answers.5.text:10 civilistov
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3639.0
+passage.questions.7.answers.4.text:Dvaintrideset
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:3638.0
+passage.questions.7.answers.3.text:42
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:3637.0
+passage.questions.7.answers.2.text:Triindvajset civilistov
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3636.0
+passage.questions.7.answers.1.text:Triindvajset
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3635.0
+passage.questions.7.answers.0.text:Dvaindvajset
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3634.0
+passage.questions.6.question:Ali živi kateri koli plemenski narod v isti državi kot umorjeni hinduist?
+passage.questions.6.idx:730.0
+passage.questions.6.answers.1.text:Včasih
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:3633.0
+passage.questions.6.answers.0.text:Da
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:3632.0
+passage.questions.5.question:Kaj je indijska zvezna vlada državo Orissa pozvala k nadzoru konfliktov?
+passage.questions.5.idx:729.0
+passage.questions.5.answers.6.text:Zagotoviti humanitarno pomoč
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:3631.0
+passage.questions.5.answers.5.text:Za zmečkanje upora
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:3630.0
+passage.questions.5.answers.4.text:Sprejemite &quot;učinkovite, usmerjene in odločne ukrepe.&quot;
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:3629.0
+passage.questions.5.answers.3.text:Zagotoviti učinkovito napotitev paravojaških sil v državo
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3628.0
+passage.questions.5.answers.2.text:Za aretacijo upornikov
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3627.0
+passage.questions.5.answers.1.text:Poklicali so tujce
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3626.0
+passage.questions.5.answers.0.text:Zvezna ministrica za notranje zadeve Madhukar Gupta je prosila vlado Orissa, naj zagotovi učinkovito napotitev paravojaških sil v državo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3625.0
+passage.questions.4.question:Kako se imenuje zaliv, ki meji na državo, v kateri je skupina napadla cerkev?
+passage.questions.4.idx:728.0
+passage.questions.4.answers.4.text:Indijski zaliv
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:3624.0
+passage.questions.4.answers.3.text:Zaliv Biskay
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3623.0
+passage.questions.4.answers.2.text:Orisski zaliv
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3622.0
+passage.questions.4.answers.1.text:Bengalski zaliv
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3621.0
+passage.questions.4.answers.0.text:Tihi zaliv
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3620.0
+passage.questions.3.question:Koliko ljudi je umrlo v Orissi zaradi hinduščansko-krščanskega nasilja?
+passage.questions.3.idx:727.0
+passage.questions.3.answers.5.text:Triindvajset civilistov
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:3619.0
+passage.questions.3.answers.4.text:32
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3618.0
+passage.questions.3.answers.3.text:43
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3617.0
+passage.questions.3.answers.2.text:24.
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3616.0
+passage.questions.3.answers.1.text:2 civilista
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3615.0
+passage.questions.3.answers.0.text:23.
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3614.0
+passage.questions.2.question:V kateri indijski državi se nahaja Raikia?
+passage.questions.2.idx:726
+passage.questions.2.answers.5.text:Država Benai
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:3613.0
+passage.questions.2.answers.4.text:Punjab
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3612.0
+passage.questions.2.answers.3.text:Bengalska država
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3611.0
+passage.questions.2.answers.2.text:Država Kandhamal
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3610.0
+passage.questions.2.answers.1.text:Orissa
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:3609
+passage.questions.2.answers.0.text:Država Orissa
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3608
+passage.questions.1.question:Koga indijska zvezna vlada poziva, naj konča spopade?
+passage.questions.1.idx:725
+passage.questions.1.answers.6.text:Vlada države Orissa
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:3607.0
+passage.questions.1.answers.5.text:Državna uprava
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:3606.0
+passage.questions.1.answers.4.text:Uradniki v Mumbaiju
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3605.0
+passage.questions.1.answers.3.text:Okrožje Kandhamal
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3604.0
+passage.questions.1.answers.2.text:Bengalska vlada
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3603.0
+passage.questions.1.answers.1.text:Krishan Kumar
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3602
+passage.questions.1.answers.0.text:Ameriška vlada
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3601
+passage.questions.0.question:Se je v Raikiji zgodilo kakšno nasilje mafije?
+passage.questions.0.idx:724
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3600
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3599
+idx:61

@@ -1,0 +1,513 @@
+version:1.1
+passage.text:(CNN) - Poleg rolk, Silicijeve doline in hipijev ima Kalifornija trendovsko vrsto drugačne vrste. Država je prva sprejela pomembne pobude za javno zdravje, ki so se razširile po vsej državi. Kalifornija je najprej zahtevala preverjanje smoga za čist zrak, sprejela pobude za boj proti tobaku in kolesarske čelade. Čeprav so bili ti zakoni deležni skepticizma in posmeha, so v drugih državah pogosto postali običajna praksa. Golden State je prvič prepovedal kajenje na delovnih mestih, v barih in restavracijah leta 1998. Zdaj obstajajo podobna pravila po vsej državi. Nekateri zagovorniki trdijo, da je država premišljena predhodnica, v kateri druge države redno posnemajo njene zakone o zdravju in varnosti. &quot;Obstajajo postopne zakonodaje na področju tobaka, okolja in preprečevanja debelosti,&quot; je povedal Mark Horton, predavatelj na kalifornijski šoli za javno zdravje Berkeley. &quot;V nekaterih pogledih ostanki države gledajo na Kalifornijo kot na laboratorij za napredovanje s temi vrstami pobud.&quot; Toda nekateri kritiki Golden State primerjajo z državo varušk. Kalifornija ima 151.002 zakonov o zdravju in varnosti. &quot;Nikoli se ne konča,&quot; je dejal Laer Pearce, ki dela v javnih zadevah v okrožju Orange. &quot;Vsako leto pride več sto računov, na desetine pa nam pove, kako živeti svoje življenje.&quot; Januarja je začelo veljati 760 novih kalifornijskih zakonov - na primer uvoz plavuti morskih psov je prepovedan, študentje športniki morajo imeti zdravstveno dovoljenje po poškodbi glave, najstniki ne smejo uporabljati solarijev in prodajati kofeina pivo je prepovedano. Obstaja mnenje, da ima Kalifornija &quot;več ljudi, ki so zdravstveno naravnani in bolj zdravo naravnani,&quot; je dejal Horton, nekdanji direktor kalifornijskega ministrstva za javno zdravje. To niso samo fanatiki vadbe, ki se družijo na Muscle Beachu, člani kluba Sierra pohodujo po gorah ali uber zdravju zavedajoče se hrano. Kalifornijci imajo na splošno bolj zdrave navade, uvrščajo se na 10. mesto po telesni aktivnosti, na četrto mesto po zdravem krvnem tlaku in na peto prehrano z visoko vsebnostjo sadja in zelenjave v primerjavi z drugimi državami, po ameriških zdravstvenih lestvicah.
+passage.questions.9.question:Katera pravila obstajajo po vsej državi zaradi prepovedi v Kaliforniji?
+passage.questions.9.idx:2893.0
+passage.questions.9.answers.8.text:Brez strojenja
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:15364.0
+passage.questions.9.answers.7.text:Kajenje na delovnih mestih, v barih in restavracijah
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:15363.0
+passage.questions.9.answers.6.text:Prepovedano kajenje
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:15362.0
+passage.questions.9.answers.5.text:Uporaba marihuane v kampusih
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:15361.0
+passage.questions.9.answers.4.text:Prepoved kajenja na delovnih mestih, v barih in restavracijah leta 1998
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:15360.0
+passage.questions.9.answers.3.text:Zakoni proti strojenju
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:15359.0
+passage.questions.9.answers.2.text:Zahtevajte preglede smoga zaradi čistega zraka, sprejmite zakone o proti tobaku in kolesarske čelade
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:15358.0
+passage.questions.9.answers.1.text:Legalizacija marihuane
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:15357.0
+passage.questions.9.answers.0.text:Prepoved debelosti
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:15356.0
+passage.questions.8.question:Kako je še eno ime za Golden State?
+passage.questions.8.idx:2892.0
+passage.questions.8.answers.3.text:Most država
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:15355.0
+passage.questions.8.answers.2.text:Puščavska država
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:15354.0
+passage.questions.8.answers.1.text:Varuška
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:15353.0
+passage.questions.8.answers.0.text:Zdrava država
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:15352.0
+passage.questions.7.question:Zakaj nekateri zagovorniki verjamejo, da je Kalifornija napredna razmišljanja?
+passage.questions.7.idx:2891.0
+passage.questions.7.answers.6.text:Borijo se z norostjo heroin
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:15351.0
+passage.questions.7.answers.5.text:Težko se lotijo kriminala
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:15350.0
+passage.questions.7.answers.4.text:Legalizirali so marihuano
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:15349.0
+passage.questions.7.answers.3.text:Zaradi televizije
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:15348.0
+passage.questions.7.answers.2.text:Ker so bili pionirji velikih pobud za javno zdravje
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:15347.0
+passage.questions.7.answers.1.text:Druge države rutinsko posnemajo zakone o zdravju in varnosti
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:15346.0
+passage.questions.7.answers.0.text:Druge države rutinsko posnemajo njegove zakone o zdravju in varnosti. V tobaku, okolju in preprečevanju debelosti obstajajo postopne zakonodaje. Prav tako je država prva sprejela večje pobude za javno zdravje, ki so se razširile po vsej državi
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:15345.0
+passage.questions.6.question:Zakaj obstaja prepričanje, da so Kalifornijci bolj zdravstveno ozaveščeni?
+passage.questions.6.idx:2890.0
+passage.questions.6.answers.9.text:Vsako noč v povprečju spijo več
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:15344.0
+passage.questions.6.answers.8.text:Kalifornijci so na 10. mestu po telesni dejavnosti in napredni zakonodaji, ki pomaga pri preprečevanju debelosti in promociji javnega zdravja
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:15343.0
+passage.questions.6.answers.7.text:Veliko je takih, ki niso člani kluba Sierra
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:15342.0
+passage.questions.6.answers.6.text:Ker se na plaži druži veliko fanatikov, ki vadijo
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:15341.0
+passage.questions.6.answers.5.text:Vsi so vegetarijanci
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:15340.0
+passage.questions.6.answers.4.text:Imajo več telovadnic
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:15339.0
+passage.questions.6.answers.3.text:Imajo bolj zdrave navade
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:15338.0
+passage.questions.6.answers.2.text:V povprečju tehtajo manj
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:15337.0
+passage.questions.6.answers.1.text:Kalifornijci imajo na splošno bolj zdrave navade, uvrščajo se na 10. mesto po telesni aktivnosti, na četrto mesto po zdravem krvnem tlaku in na peto prehrano z veliko sadja in zelenjave v primerjavi z drugimi državami
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:15336.0
+passage.questions.6.answers.0.text:Veliko delajo
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:15335.0
+passage.questions.5.question:Kaj si preostali okraji mislijo na Kalifornijo po Marku Hortonu?
+passage.questions.5.idx:2889.0
+passage.questions.5.answers.8.text:Da so nori
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:15334.0
+passage.questions.5.answers.7.text:Preostali del države je na Kalifornijo laboratorij za sprejemanje pobud za javno zdravje
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:15333.0
+passage.questions.5.answers.6.text:Zakon raztezajo tja, kamor ne bi smel
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:15332.0
+passage.questions.5.answers.5.text:Preveč nadzorujejo državljane
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:15331.0
+passage.questions.5.answers.4.text:Kalifornija je videti kot laboratorij za napredovanje s temi vrstami pobud
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:15330.0
+passage.questions.5.answers.3.text:Da so &quot;laboratorij&quot;
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:15329.0
+passage.questions.5.answers.2.text:Da so varuška
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:15328.0
+passage.questions.5.answers.1.text:Da so dober primer pri prevelikem nadzoru državljanov
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:15327.0
+passage.questions.5.answers.0.text:So šefi
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15326.0
+passage.questions.4.question:Katere so nekatere prakse Kalifornije za določanje trendov?
+passage.questions.4.idx:2888.0
+passage.questions.4.answers.6.text:Uporaba solarij
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:15325.0
+passage.questions.4.answers.5.text:Skateboarding, Silicijeva dolina, hipiji in je bil prvi, ki je sprejel pomembne pobude na področju javnega zdravja, ki so se razširile po vsej državi, na primer zahtevanje preverjanja smoga za čist zrak, sprejemanje pobud za boj proti tobaku in kolesarskih čelad. Sprejemajo tudi prepovedi kajenja na delovnih mestih in v restavracijah
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:15324.0
+passage.questions.4.answers.4.text:Legalizacija marihuane
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:15323.0
+passage.questions.4.answers.3.text:Sistem kuponov za izobraževanje
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:15322.0
+passage.questions.4.answers.2.text:Pobude za preprečevanje kajenja, zakoni o kolesarskih čeladah, pobude za preprečevanje debelosti
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:15321.0
+passage.questions.4.answers.1.text:Zahtevajte preglede smoga zaradi čistega zraka, sprejmite zakone o proti tobaku in kolesarske čelade
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15320.0
+passage.questions.4.answers.0.text:Najem kolesarskega programa
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:15319.0
+passage.questions.3.question:Katera država je leta 1998 prva prepovedala kajenje na delovnih mestih?
+passage.questions.3.idx:2887.0
+passage.questions.3.answers.7.text:Oregon
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:15318.0
+passage.questions.3.answers.6.text:Kalifornija (Golden State)
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:15317.0
+passage.questions.3.answers.5.text:Silicijeva dolina
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:15316.0
+passage.questions.3.answers.4.text:New York
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:15315.0
+passage.questions.3.answers.3.text:Mississippi
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:15314.0
+passage.questions.3.answers.2.text:Chicago
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15313.0
+passage.questions.3.answers.1.text:Zlata država
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:15312.0
+passage.questions.3.answers.0.text:Washington
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15311.0
+passage.questions.20.question:Zakaj bi lahko kdo rekel, da je Kalifornija laboratorij za napredovanje z novimi pobudami?
+passage.questions.20.idx:2904.0
+passage.questions.20.answers.6.text:Več denarja namenijo v dobrodelne namene
+passage.questions.20.answers.6.label:0,0
+passage.questions.20.answers.6.idx:15447.0
+passage.questions.20.answers.5.text:Imajo več varušk
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:15446.0
+passage.questions.20.answers.4.text:Država je prva sprejela pomembne pobude za javno zdravje, ki so se razširile po vsej državi
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:15445.0
+passage.questions.20.answers.3.text:Ker so bili pionirji velikih pobud za javno zdravje
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:15444.0
+passage.questions.20.answers.2.text:Kalifornija je sprejela in preizkusila pobude na področju okolja in javnega zdravja, ki jih je sprejela preostala država
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:15443.0
+passage.questions.20.answers.1.text:Ker jim druge države plačujejo, da najprej preizkusijo nove pobude
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:15442.0
+passage.questions.20.answers.0.text:Imajo največ prebivalcev v kateri koli državi
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:15441.0
+passage.questions.2.question:Katere večje pobude za javno zdravje so bile prvič sprejete v Kaliforniji?
+passage.questions.2.idx:2886.0
+passage.questions.2.answers.5.text:Kalifornija je najprej zahtevala preverjanje smoga za čist zrak, sprejela pobude za boj proti tobaku in kolesarske čelade
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:15310.0
+passage.questions.2.answers.4.text:Zakon o jantarnem opozorilu
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:15309.0
+passage.questions.2.answers.3.text:Zakon o srečnem obroku
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15308.0
+passage.questions.2.answers.2.text:Zakoni proti strojenju
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:15307.0
+passage.questions.2.answers.1.text:Zahtevajte preglede smoga zaradi čistega zraka, sprejmite zakone o proti tobaku in kolesarske čelade
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15306.0
+passage.questions.2.answers.0.text:Zakon o varnostnem pasu na zadnjem sedežu
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15305.0
+passage.questions.19.question:Zakaj nekateri kritiki Kalifornijo imenujejo država varušk?
+passage.questions.19.idx:2903.0
+passage.questions.19.answers.7.text:Otrokov je veliko
+passage.questions.19.answers.7.label:0,0
+passage.questions.19.answers.7.idx:15440.0
+passage.questions.19.answers.6.text:Vsako leto pride na vrsto več sto računov
+passage.questions.19.answers.6.label:1.0
+passage.questions.19.answers.6.idx:15439.0
+passage.questions.19.answers.5.text:Na prebivalca imajo več varušk
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:15438.0
+passage.questions.19.answers.4.text:Imajo bolj zdrave navade
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:15437.0
+passage.questions.19.answers.3.text:Kalifornija ima 151.002 zakonov o zdravju in varnosti
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:15436.0
+passage.questions.19.answers.2.text:Kalifornija ima 151.002 zakonov o zdravju in varnosti. Vsako leto pride na vrsto več sto računov, na desetine pa nam pove, kako živeti svoje življenje
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:15435.0
+passage.questions.19.answers.1.text:Ljudem govorijo, kaj naj storijo
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:15434.0
+passage.questions.19.answers.0.text:Preveč je zakonov o zdravju in varnosti
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:15433.0
+passage.questions.18.question:Katerih nekaj pobud za javno zdravje je sprejela Kalifornija?
+passage.questions.18.idx:2902.0
+passage.questions.18.answers.7.text:Zakon o jantarnem opozorilu
+passage.questions.18.answers.7.label:0,0
+passage.questions.18.answers.7.idx:15432.0
+passage.questions.18.answers.6.text:Zahtevajte preglede smoga za čist zrak, sprejmite pobude za tobak
+passage.questions.18.answers.6.label:1.0
+passage.questions.18.answers.6.idx:15431.0
+passage.questions.18.answers.5.text:Zakon o srečnem obroku
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:15430.0
+passage.questions.18.answers.4.text:Proti strojenju
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:15429.0
+passage.questions.18.answers.3.text:Zahtevajte preglede smoga zaradi čistega zraka, sprejmite zakone o proti tobaku in kolesarske čelade
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:15428.0
+passage.questions.18.answers.2.text:Organska hrana
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:15427.0
+passage.questions.18.answers.1.text:Zakon o varnostnem pasu na zadnjem sedežu
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:15426.0
+passage.questions.18.answers.0.text:Pobude proti debelosti, pobude za preprečevanje kajenja, preverjanje smoga in kolesarske čelade
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:15425.0
+passage.questions.17.question:Nekdanji direktor kalifornijskega oddelka za javno zdravje je profesor na kateri univerzi?
+passage.questions.17.idx:2901.0
+passage.questions.17.answers.8.text:Univerza v Kaliforniji Irvine
+passage.questions.17.answers.8.label:0,0
+passage.questions.17.answers.8.idx:15424.0
+passage.questions.17.answers.7.text:Berkeley
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:15423.0
+passage.questions.17.answers.6.text:UC Irvine
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:15422.0
+passage.questions.17.answers.5.text:Univerza Perdue
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:15421.0
+passage.questions.17.answers.4.text:Univerza Duke
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:15420.0
+passage.questions.17.answers.3.text:Orange County
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:15419.0
+passage.questions.17.answers.2.text:Kalifornijska univerza v Berkeleyju
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:15418.0
+passage.questions.17.answers.1.text:UC Berkeley
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:15417.0
+passage.questions.17.answers.0.text:UCLA
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:15416.0
+passage.questions.16.question:Kaj je privedlo do zaznavanja, da ima Kalifornija več posameznikov, ki se zavedajo varnosti in zdravja?
+passage.questions.16.idx:2900.0
+passage.questions.16.answers.8.text:Kalifornijci imajo na splošno bolj zdrave navade, uvrščajo se na 10. mesto po telesni dejavnosti, na četrto mesto po zdravem krvnem tlaku in na peto prehrano z visoko vsebnostjo sadja in zelenjave v primerjavi z drugimi državami, po ocenah ameriške zdravstvene lestvice
+passage.questions.16.answers.8.label:1.0
+passage.questions.16.answers.8.idx:15415.0
+passage.questions.16.answers.7.text:Na plaži se druži nekaj fanatikov, ki vadijo
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:15414.0
+passage.questions.16.answers.6.text:Otrokov je veliko
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:15413.0
+passage.questions.16.answers.5.text:Kalifornija ima 151.002 zakonov o zdravju in varnosti. Poleg tega imajo Kalifornijci na splošno bolj zdrave navade, uvrščajo se na 10. mesto po telesni aktivnosti, četrto po zdravem krvnem tlaku in peto po prehrani z veliko sadja in zelenjave v primerjavi z drugimi državami, v skladu z ameriškimi ocenami zdravja
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:15412.0
+passage.questions.16.answers.4.text:Tehtajo manj
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:15411.0
+passage.questions.16.answers.3.text:Imajo bolj zdrave navade
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:15410.0
+passage.questions.16.answers.2.text:To je drago
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:15409.0
+passage.questions.16.answers.1.text:Redneje obiskujejo univerze
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:15408.0
+passage.questions.16.answers.0.text:Zbolijo manj kot druge države
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:15407.0
+passage.questions.15.question:Kdo je Mark Horton?
+passage.questions.15.idx:2899.0
+passage.questions.15.answers.6.text:Javne zadeve v okrožju Orange
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:15406.0
+passage.questions.15.answers.5.text:Mark Horton je prvi, ki je sprejel večje pobude za javno zdravje
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:15405.0
+passage.questions.15.answers.4.text:Zdravnik v San Francisco Medical Center
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:15404.0
+passage.questions.15.answers.3.text:Kalifornijski sekretar za socialne storitve
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:15403.0
+passage.questions.15.answers.2.text:Nekdanji direktor kalifornijskega ministrstva za javno zdravje
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:15402.0
+passage.questions.15.answers.1.text:Generalni državni tožilec
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:15401.0
+passage.questions.15.answers.0.text:Predavatelj na Univerzi v Kaliforniji Berkeley School of Public Health
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:15400.0
+passage.questions.14.question:Katera država je prva sprejela večje pobude na področju javnega zdravja?
+passage.questions.14.idx:2898.0
+passage.questions.14.answers.5.text:Oregon
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:15399.0
+passage.questions.14.answers.4.text:Teksas
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:15398.0
+passage.questions.14.answers.3.text:Zlata država
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:15397.0
+passage.questions.14.answers.2.text:Washington DC
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:15396.0
+passage.questions.14.answers.1.text:Florida
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:15395.0
+passage.questions.14.answers.0.text:Nova Mehika
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:15394.0
+passage.questions.13.question:Katera država je prva sprejela večje pobude na področju javnega zdravja?
+passage.questions.13.idx:2897.0
+passage.questions.13.answers.4.text:Oregon
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:15393.0
+passage.questions.13.answers.3.text:Vermont
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:15392.0
+passage.questions.13.answers.2.text:Juta
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:15391.0
+passage.questions.13.answers.1.text:Minnesota
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:15390.0
+passage.questions.13.answers.0.text:Washington
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:15389.0
+passage.questions.12.question:Kakšen je bil začetni občutek pri teh glavnih pobudah za javno zdravje?
+passage.questions.12.idx:2896.0
+passage.questions.12.answers.6.text:Skepticizem in posmeh
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:15388.0
+passage.questions.12.answers.5.text:Vsi so jih imeli radi
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:15387.0
+passage.questions.12.answers.4.text:Javnost je bila jezna, ko so ji rekli, kaj naj naredi
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:15386.0
+passage.questions.12.answers.3.text:Ljudje so bili dvomljivi
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:15385.0
+passage.questions.12.answers.2.text:Ko so bili deležni skepticizma in posmeha, so pogosto postali običajna praksa v drugih državah
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:15384.0
+passage.questions.12.answers.1.text:Javnost je verjela, da je to v najboljšem interesu vseh
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:15383.0
+passage.questions.12.answers.0.text:Široka podpora
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:15382.0
+passage.questions.11.question:Katere so nekatere glavne pobude na področju javnega zdravja, ki jih je Kalifornija začela?
+passage.questions.11.idx:2895.0
+passage.questions.11.answers.9.text:Uvoz plavuti morskih psov je prepovedan, študentje športniki morajo imeti zdravstveno dovoljenje po poškodbi glave, najstnikom je prepovedana uporaba solarijev
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:15381.0
+passage.questions.11.answers.8.text:Prepoved prodaje kofeinskega piva
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:15380.0
+passage.questions.11.answers.7.text:Reci NE kampanji za droge
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:15379.0
+passage.questions.11.answers.6.text:Jaywalking zakoni
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:15378.0
+passage.questions.11.answers.5.text:Kolesarske čelade, antismog in antismoking
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:15377.0
+passage.questions.11.answers.4.text:Zahtevajte preglede smoga zaradi čistega zraka, sprejmite zakone o proti tobaku in kolesarske čelade
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:15376.0
+passage.questions.11.answers.3.text:Organska hrana
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:15375.0
+passage.questions.11.answers.2.text:Smog preverja zakon o čistem zraku, pobude za boj proti tobaku in kolesarske čelade
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:15374.0
+passage.questions.11.answers.1.text:Pregledi smoga, prepoved kajenja v restavracijah in barih ter zakoni o kolesarskih čeladah
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:15373.0
+passage.questions.11.answers.0.text:Prepoved marihuane
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:15372.0
+passage.questions.10.question:Zakaj nekateri kritiki Golden State opisujejo kot državo varušk?
+passage.questions.10.idx:2894.0
+passage.questions.10.answers.6.text:Vsako leto pride na vrsto več sto računov
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:15371.0
+passage.questions.10.answers.5.text:Tu je veliko otrok
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:15370.0
+passage.questions.10.answers.4.text:To je zato, ker ima Kalifornija 151.002 zakonov o zdravju in varnosti
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:15369.0
+passage.questions.10.answers.3.text:Ljudem govorijo, kaj naj storijo
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:15368.0
+passage.questions.10.answers.2.text:Preveč je zakonov o zdravju in varnosti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:15367.0
+passage.questions.10.answers.1.text:Zaradi največje industrije varstva otrok
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:15366.0
+passage.questions.10.answers.0.text:Ker ima več varušk kot veliko držav
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:15365.0
+passage.questions.1.question:V kateri državi se nahaja znamenita &quot;Muscle Beach&quot;?
+passage.questions.1.idx:2885.0
+passage.questions.1.answers.3.text:Georgia
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:15304.0
+passage.questions.1.answers.2.text:Florida
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:15303.0
+passage.questions.1.answers.1.text:Washington
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15302.0
+passage.questions.1.answers.0.text:Teksas
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:15301.0
+passage.questions.0.question:Kakšen je državni vzdevek v Kaliforniji?
+passage.questions.0.idx:2884
+passage.questions.0.answers.8.text:Bridge State
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:15300.0
+passage.questions.0.answers.7.text:Oranžna država
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:15299.0
+passage.questions.0.answers.6.text:Disneyland
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:15298.0
+passage.questions.0.answers.5.text:Silicijeva dolina
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:15297.0
+passage.questions.0.answers.4.text:Puščavska država
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:15296.0
+passage.questions.0.answers.3.text:Zdravstvena država
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:15295.0
+passage.questions.0.answers.2.text:Varuška
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15294.0
+passage.questions.0.answers.1.text:Zlata država
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:15293
+passage.questions.0.answers.0.text:Hollywood
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:15292
+idx:259

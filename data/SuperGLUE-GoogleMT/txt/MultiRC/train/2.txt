@@ -1,0 +1,71 @@
+version:1.1
+passage.text:Tukaj sem, da vam povem zgodbo o robotu po imenu Carl. Prišel je iz daljne dežele, znane kot Factory. Carl je bil žalosten, ker mu je manjkal del, imenovan guma. Potreboval je tudi nabiralnik sonca. Toda pnevmatika je bila bolj pomembna. Ko je Carl dobil vse te dele, je lahko odpotoval v svoj novi dom v državi Lab in mestu Office. Bilo je težavno priti tja z manjkajočimi deli. Tako kot je opustil upanje, je Carl od gospoda X prejel sporočilo, da so novi deli pripravljeni na dostavo. To je robota zelo razveselilo. Deli so prispeli nekaj dni kasneje in Carl jih je dal v dvodnevno delo. Po tem je Carl začel potovati še zadnji del svojega cilja, da bi prišel do nove službe. Po tem je Carl potreboval 10 dni, da je prišel v laboratorij.
+passage.questions.3.question:Katerih delov manjka robot Carl?
+passage.questions.3.idx:33.0
+passage.questions.3.answers.6.text:Vsi deli
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:208.0
+passage.questions.3.answers.5.text:Nabiralnik sonca
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:207.0
+passage.questions.3.answers.4.text:Samo nabiralec sonca
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:206.0
+passage.questions.3.answers.3.text:Samo pnevmatika
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:205.0
+passage.questions.3.answers.2.text:Dva dela, in sicer zbiralec pnevmatik in sonca
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:204.0
+passage.questions.3.answers.1.text:Nabiralnik pnevmatik in sonca
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:203.0
+passage.questions.3.answers.0.text:Pnevmatika
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:202.0
+passage.questions.2.question:Kateri je bil najpomembnejši manjkajoči del, ki ga mora Carl dobiti po izstopu iz tovarne?
+passage.questions.2.idx:32.0
+passage.questions.2.answers.3.text:Okrogla pnevmatika
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:201.0
+passage.questions.2.answers.2.text:Nabiralnik sonca
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:200.0
+passage.questions.2.answers.1.text:Nabiralnik pnevmatik in sonca
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:199.0
+passage.questions.2.answers.0.text:Pnevmatika
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:198.0
+passage.questions.1.question:Ali g. X namesti Carlove nove dele?
+passage.questions.1.idx:31.0
+passage.questions.1.answers.1.text:Mogoče
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:197.0
+passage.questions.1.answers.0.text:Ne kot vsi
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:196.0
+passage.questions.0.question:Kaj je Carl potreboval pred odhodom v laboratorij
+passage.questions.0.idx:30
+passage.questions.0.answers.6.text:Nabiralnik sonca
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:195.0
+passage.questions.0.answers.5.text:Tako pnevmatika kot nabiralec sonca
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:194.0
+passage.questions.0.answers.4.text:Samo nabiralec sonca
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:193.0
+passage.questions.0.answers.3.text:Samo pnevmatika
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:192.0
+passage.questions.0.answers.2.text:10 dni
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:191.0
+passage.questions.0.answers.1.text:Nabiralnik pnevmatik in sonca
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:190
+passage.questions.0.answers.0.text:Pnevmatika
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:189
+idx:2

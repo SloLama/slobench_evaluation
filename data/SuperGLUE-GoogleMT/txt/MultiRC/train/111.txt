@@ -1,0 +1,470 @@
+version:1.1
+passage.text:Morda boste želeli vedeti, kako mrzlo je. Morda boste morali vedeti, kako hitro piha veter. Mogoče je sinoči deževalo? Veste koliko? Se vam zdi vlažno? Vsa ta vprašanja ste že slišali. Za odgovor na ta vprašanja potrebujemo podatke. Ti podatki prihajajo iz posebnih orodij. Ta orodja zbirajo podatke o vremenu. Ogledate si lahko nekaj spodaj naštetih pogostih orodij: Termometer meri temperaturo. Anemometer meri hitrost vetra. Dežomer meri količino dežja. Vlagomer meri vlažnost. Lopatica kaže smer vetra. Snežni merilnik meri količino snega.
+passage.questions.9.question:Na katero vprašanje odgovarja merilnik dežja?
+passage.questions.9.idx:1312.0
+passage.questions.9.answers.7.text:Temperatura vode
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:6762.0
+passage.questions.9.answers.6.text:Koliko je deževalo?
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:6761.0
+passage.questions.9.answers.5.text:Količina vode na tleh
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:6760.0
+passage.questions.9.answers.4.text:Količina dežja
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:6759.0
+passage.questions.9.answers.3.text:Merjenje temperature
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:6758.0
+passage.questions.9.answers.2.text:Meri količino dežja
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:6757.0
+passage.questions.9.answers.1.text:Meri količino snega
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:6756.0
+passage.questions.9.answers.0.text:Hitrost vetra
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:6755.0
+passage.questions.8.question:Katere podatke zbirajo posebna orodja?
+passage.questions.8.idx:1311.0
+passage.questions.8.answers.9.text:Tekočina
+passage.questions.8.answers.9.label:0,0
+passage.questions.8.answers.9.idx:6748.0
+passage.questions.8.answers.8.text:Dež
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:6747.0
+passage.questions.8.answers.7.text:Podatki o človeku
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:6746.0
+passage.questions.8.answers.6.text:Smer vetra
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:6745.0
+passage.questions.8.answers.5.text:Vlažnost
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:6744.0
+passage.questions.8.answers.4.text:Vibracije
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:6743.0
+passage.questions.8.answers.3.text:Količina snega
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:6742.0
+passage.questions.8.answers.2.text:Hitrost vetra
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:6741.0
+passage.questions.8.answers.15.text:Čas
+passage.questions.8.answers.15.label:0,0
+passage.questions.8.answers.15.idx:6754.0
+passage.questions.8.answers.14.text:Spremenljivost
+passage.questions.8.answers.14.label:0,0
+passage.questions.8.answers.14.idx:6753.0
+passage.questions.8.answers.13.text:Temperatura
+passage.questions.8.answers.13.label:1.0
+passage.questions.8.answers.13.idx:6752.0
+passage.questions.8.answers.12.text:Glasnost
+passage.questions.8.answers.12.label:0,0
+passage.questions.8.answers.12.idx:6751.0
+passage.questions.8.answers.11.text:Viskoznost
+passage.questions.8.answers.11.label:0,0
+passage.questions.8.answers.11.idx:6750.0
+passage.questions.8.answers.10.text:Sneg
+passage.questions.8.answers.10.label:1.0
+passage.questions.8.answers.10.idx:6749.0
+passage.questions.8.answers.1.text:Veter
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:6740.0
+passage.questions.8.answers.0.text:&quot;Vremenski podatki&quot;
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:6739.0
+passage.questions.7.question:Kaj &quot;posebna orodja&quot; počnejo s podatki?
+passage.questions.7.idx:1310.0
+passage.questions.7.answers.9.text:Izmeri
+passage.questions.7.answers.9.label:1.0
+passage.questions.7.answers.9.idx:6738.0
+passage.questions.7.answers.8.text:Izmerite človeške razmere
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:6737.0
+passage.questions.7.answers.7.text:Ocenite
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:6736.0
+passage.questions.7.answers.6.text:Viskoznost
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:6735.0
+passage.questions.7.answers.5.text:Izmerite vremenske razmere
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:6734.0
+passage.questions.7.answers.4.text:Odpraviti
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:6733.0
+passage.questions.7.answers.3.text:Tekočina
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:6732.0
+passage.questions.7.answers.2.text:Zberite
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:6731.0
+passage.questions.7.answers.1.text:&quot;Zbirajo podatke&quot;
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:6730.0
+passage.questions.7.answers.0.text:Merite glede vremena
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:6729.0
+passage.questions.6.question:Kako se meri vreme?
+passage.questions.6.idx:1309.0
+passage.questions.6.answers.9.text:Ogled vremenskega poročila
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:6727.0
+passage.questions.6.answers.8.text:Orodja, ki merijo podatke o vremenu
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:6726.0
+passage.questions.6.answers.7.text:S podatki
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:6725.0
+passage.questions.6.answers.6.text:Ocenjevanje
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:6724.0
+passage.questions.6.answers.5.text:Poročila
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:6723.0
+passage.questions.6.answers.4.text:Zemljevid
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:6722.0
+passage.questions.6.answers.3.text:S posebnimi orodji, ki zbirajo podatke
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:6721.0
+passage.questions.6.answers.2.text:S človeško percepcijo in intuicijo
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:6720.0
+passage.questions.6.answers.10.text:Termometer, higrometer itd.,
+passage.questions.6.answers.10.label:1.0
+passage.questions.6.answers.10.idx:6728.0
+passage.questions.6.answers.1.text:Orodja
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:6719.0
+passage.questions.6.answers.0.text:Posebna orodja
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:6718.0
+passage.questions.5.question:Kako lahko merite temperaturo in vlago?
+passage.questions.5.idx:1308.0
+passage.questions.5.answers.8.text:Anemometer
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:6717.0
+passage.questions.5.answers.7.text:Merilnik snega
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:6716.0
+passage.questions.5.answers.6.text:Higrometer
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:6715.0
+passage.questions.5.answers.5.text:Uporaba termometra in higrometra
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:6714.0
+passage.questions.5.answers.4.text:Barometer
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:6713.0
+passage.questions.5.answers.3.text:Termometer
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:6712.0
+passage.questions.5.answers.2.text:Vetrovka
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:6711.0
+passage.questions.5.answers.1.text:Dežnik
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:6710.0
+passage.questions.5.answers.0.text:Z vetrometrom in merilnikom dežja
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:6709.0
+passage.questions.4.question:Na katero vprašanje odgovori termometer?
+passage.questions.4.idx:1307.0
+passage.questions.4.answers.8.text:Pada dež
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:6708.0
+passage.questions.4.answers.7.text:Temperatura
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:6707.0
+passage.questions.4.answers.6.text:Meri hitrost vetra
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:6706.0
+passage.questions.4.answers.5.text:Hitrost vetra
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:6705.0
+passage.questions.4.answers.4.text:Merjenje temperature
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:6704.0
+passage.questions.4.answers.3.text:Vlažnost
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:6703.0
+passage.questions.4.answers.2.text:Kako hladno je?
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:6702.0
+passage.questions.4.answers.1.text:Meri količino snega
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:6701.0
+passage.questions.4.answers.0.text:Temperatura okolice
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:6700.0
+passage.questions.3.question:S katerimi orodji merimo količino padavin?
+passage.questions.3.idx:1306.0
+passage.questions.3.answers.4.text:Merilnik dežja
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:6699.0
+passage.questions.3.answers.3.text:Anemometer
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:6698.0
+passage.questions.3.answers.2.text:Higrometer
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:6697.0
+passage.questions.3.answers.1.text:Merač snega
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6696.0
+passage.questions.3.answers.0.text:Bodisi snegomer ali deževec, odvisno od vrste padavin
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:6695.0
+passage.questions.2.question:Kateri sta dve vrsti orodij za zbiranje podatkov o vetru?
+passage.questions.2.idx:1305.0
+passage.questions.2.answers.7.text:Anemometer
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:6694.0
+passage.questions.2.answers.6.text:Vremenska lopatica
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:6693.0
+passage.questions.2.answers.5.text:Higrometer
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:6692.0
+passage.questions.2.answers.4.text:Barometer
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:6691.0
+passage.questions.2.answers.3.text:Termometer
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6690.0
+passage.questions.2.answers.2.text:Vetrovka
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:6689.0
+passage.questions.2.answers.1.text:&quot;Vetromer in vetrovka&quot;
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:6688.0
+passage.questions.2.answers.0.text:Manometer
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6687.0
+passage.questions.15.question:S katerim orodjem bi ugotovili, koliko dežja je padlo sinoči?
+passage.questions.15.idx:1318.0
+passage.questions.15.answers.4.text:Merilnik dežja
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:6820.0
+passage.questions.15.answers.3.text:Anemometer
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:6819.0
+passage.questions.15.answers.2.text:Lahko se posvetujete z merilnikom dežja
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:6818.0
+passage.questions.15.answers.1.text:Termometer
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:6817.0
+passage.questions.15.answers.0.text:Higrometer
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:6816.0
+passage.questions.14.question:Kako lahko izmerite smer in hitrost vetra?
+passage.questions.14.idx:1317.0
+passage.questions.14.answers.9.text:Vetrovka in anemometer
+passage.questions.14.answers.9.label:1.0
+passage.questions.14.answers.9.idx:6815.0
+passage.questions.14.answers.8.text:Anemometer
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:6814.0
+passage.questions.14.answers.7.text:Z uporabo vetrometra in lopute
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:6813.0
+passage.questions.14.answers.6.text:Snežni merilnik in vetrokaz
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:6812.0
+passage.questions.14.answers.5.text:Z uporabo anemometra in higrometra
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:6811.0
+passage.questions.14.answers.4.text:Termometer
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:6810.0
+passage.questions.14.answers.3.text:Vetrovka
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:6809.0
+passage.questions.14.answers.2.text:Manometer
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:6808.0
+passage.questions.14.answers.1.text:Vetrovka in higrometer
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:6807.0
+passage.questions.14.answers.0.text:Podatke lahko zbirate iz vetrne lopute in vetrometra
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:6806.0
+passage.questions.13.question:Kaj nam lahko povedo podatki?
+passage.questions.13.idx:1316.0
+passage.questions.13.answers.9.text:Koliko je deževalo
+passage.questions.13.answers.9.label:1.0
+passage.questions.13.answers.9.idx:6801.0
+passage.questions.13.answers.8.text:Vreme za naslednji teden
+passage.questions.13.answers.8.label:0,0
+passage.questions.13.answers.8.idx:6800.0
+passage.questions.13.answers.7.text:Informacije
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:6799.0
+passage.questions.13.answers.6.text:Dejstva
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:6798.0
+passage.questions.13.answers.5.text:Geografija
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:6797.0
+passage.questions.13.answers.4.text:Vse, kar želimo vedeti
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:6796.0
+passage.questions.13.answers.3.text:Danes je čas
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:6795.0
+passage.questions.13.answers.2.text:Podatki nam lahko povedo, kako mrzlo je in kako hitro piha veter
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:6794.0
+passage.questions.13.answers.13.text:Smer
+passage.questions.13.answers.13.label:0,0
+passage.questions.13.answers.13.idx:6805.0
+passage.questions.13.answers.12.text:Vremenske razmere
+passage.questions.13.answers.12.label:1.0
+passage.questions.13.answers.12.idx:6804.0
+passage.questions.13.answers.11.text:Količina padavin
+passage.questions.13.answers.11.label:1.0
+passage.questions.13.answers.11.idx:6803.0
+passage.questions.13.answers.10.text:Temperatura
+passage.questions.13.answers.10.label:1.0
+passage.questions.13.answers.10.idx:6802.0
+passage.questions.13.answers.1.text:Kako mrzlo je
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:6793.0
+passage.questions.13.answers.0.text:Kako hitro piha veter
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:6792.0
+passage.questions.12.question:Kako dobimo vremenske podatke?
+passage.questions.12.idx:1315.0
+passage.questions.12.answers.6.text:Podatki se zbirajo s posebnimi orodji
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:6791.0
+passage.questions.12.answers.5.text:S posebnimi orodji, ki merijo vremenske podatke
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:6790.0
+passage.questions.12.answers.4.text:Uporaba orodij
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:6789.0
+passage.questions.12.answers.3.text:Poročila
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:6788.0
+passage.questions.12.answers.2.text:Z običajnimi orodji in človeškim dojemanjem
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:6787.0
+passage.questions.12.answers.1.text:Posebna orodja
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:6786.0
+passage.questions.12.answers.0.text:Ocena
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:6785.0
+passage.questions.11.question:Katera so najpogostejša orodja?
+passage.questions.11.idx:1314.0
+passage.questions.11.answers.9.text:Merilnik snega
+passage.questions.11.answers.9.label:1.0
+passage.questions.11.answers.9.idx:6780.0
+passage.questions.11.answers.8.text:Higrometer
+passage.questions.11.answers.8.label:1.0
+passage.questions.11.answers.8.idx:6779.0
+passage.questions.11.answers.7.text:Nekatera orodja so termometer in vetrne lopute
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:6778.0
+passage.questions.11.answers.6.text:Ura
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:6777.0
+passage.questions.11.answers.5.text:Ratchet
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:6776.0
+passage.questions.11.answers.4.text:Črpalka za kolo
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:6775.0
+passage.questions.11.answers.3.text:Termometer
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:6774.0
+passage.questions.11.answers.2.text:Vetrovka
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:6773.0
+passage.questions.11.answers.13.text:Izvijač
+passage.questions.11.answers.13.label:0,0
+passage.questions.11.answers.13.idx:6784.0
+passage.questions.11.answers.12.text:Merilnik sile
+passage.questions.11.answers.12.label:0,0
+passage.questions.11.answers.12.idx:6783.0
+passage.questions.11.answers.11.text:Osciloskop
+passage.questions.11.answers.11.label:0,0
+passage.questions.11.answers.11.idx:6782.0
+passage.questions.11.answers.10.text:Anemometer
+passage.questions.11.answers.10.label:1.0
+passage.questions.11.answers.10.idx:6781.0
+passage.questions.11.answers.1.text:Mikrometer
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:6772.0
+passage.questions.11.answers.0.text:Manometer
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:6771.0
+passage.questions.10.question:S katerimi orodji bi merili količino dežja in hitrosti vetra?
+passage.questions.10.idx:1313.0
+passage.questions.10.answers.7.text:Merilnik dežja in vetrovka
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:6770.0
+passage.questions.10.answers.6.text:Anemometer
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:6769.0
+passage.questions.10.answers.5.text:Higrometer
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:6768.0
+passage.questions.10.answers.4.text:Higrometer in vetrna loputa
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:6767.0
+passage.questions.10.answers.3.text:Vetromer in merilnik dežja
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:6766.0
+passage.questions.10.answers.2.text:Vetrovka
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:6765.0
+passage.questions.10.answers.1.text:Manometer
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:6764.0
+passage.questions.10.answers.0.text:Merilnik dežja in anemometer
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:6763.0
+passage.questions.1.question:Kakšno orodje bi morali uporabiti, da bi ugotovili stopnjo vlažnosti v zraku?
+passage.questions.1.idx:1304.0
+passage.questions.1.answers.4.text:Merilnik dežja
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:6686.0
+passage.questions.1.answers.3.text:Barometer
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6685.0
+passage.questions.1.answers.2.text:Termometer
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:6684.0
+passage.questions.1.answers.1.text:Vetrovka
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:6683.0
+passage.questions.1.answers.0.text:Uporabiti bi morali higrometer
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:6682.0
+passage.questions.0.question:Kako lahko ugotovite, koliko snega je zapadlo v določenem časovnem okviru?
+passage.questions.0.idx:1303
+passage.questions.0.answers.5.text:Z uporabo anemometra
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:6681.0
+passage.questions.0.answers.4.text:Podatke lahko zbirate iz merilnika snega
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:6680.0
+passage.questions.0.answers.3.text:Higrometer
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:6679.0
+passage.questions.0.answers.2.text:Z uporabo merilnika snega
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:6678.0
+passage.questions.0.answers.1.text:Vetrovka
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:6677
+passage.questions.0.answers.0.text:Manometer
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:6676
+idx:111

@@ -1,0 +1,4 @@
+idx:9297
+label:True
+passage:Vhod / izhod - V računalniški arhitekturi se kombinacija CPE in glavnega pomnilnika, na katero lahko CPU bere ali piše neposredno po posameznih navodilih, šteje za možgane računalnika. Vsak prenos informacij v kombinirani CPU / pomnilnik ali iz njega, na primer z branjem podatkov z diskovnega pogona, se šteje za V / I. CPU in njegovo podporno vezje lahko zagotavlja preslikani V / I, ki se uporablja pri računalniškem programiranju na nizki ravni, na primer pri izvajanju gonilnikov naprav, ali pa omogoča dostop do V / I kanalov. V / I algoritem je zasnovan tako, da izkorišča lokacijo in učinkovito deluje pri izmenjavi podatkov s sekundarno pomnilniško napravo, kot je diskovni pogon.
+question:je procesor vhodna ali izhodna naprava

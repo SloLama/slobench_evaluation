@@ -1,0 +1,87 @@
+version:1.1
+passage.text:V začetku marca je uprava odložila ukrepe glede predlogov za povečanje pomoči Severnemu zavezništvu in Uzbekom. Riceova je takrat ugotovila, da je najprej treba bolj obsežno preučiti politiko do Afganistana. Pregled si je želela zelo kmalu. Rice in drugi so se spomnili predsednika, ki je rekel: &quot;Utrujen sem od muhanja.&quot; Predsednik naj bi tudi dejal, &quot;utrujen sem od igranja obrambe. Želim igrati napad. Želim se boriti proti teroristom.&quot; Predsednik Bush nam je razložil, da je postal nestrpen. Očitno je slišal predloge za umik Al Kaide, vendar je menil, da lovljenje teroristov enega za drugim ali celo celico za celico ni pristop, ki bi dolgoročno uspel. Hkrati je dejal, da razume, da je treba politiko razvijati počasi, da se lahko diplomacija ter finančni in vojaški ukrepi prepletajo. Hadley je sklical neformalno sejo odbora poslancev 7. marca, ko nekateri poslanci še niso bili potrjeni. Clarkeovi različni predlogi - za pomoč Severnemu zavezništvu in Uzbekistanom ter za misije Predator - so bili prvič pred skupino, ki bi v Bush NSC opravila večino političnega dela. Čeprav se o teh konkretnih predlogih niso odločili, je očitno sklenil, da bi morala obstajati predsedniška direktiva o nacionalni varnostni politiki (NSPD) o terorizmu. Clarke bo pozneje izrazil razdraženost zaradi vztrajanja poslancev, da je treba strategijo za obvladovanje Al Kaide oblikovati v okviru regionalne politike. Dvomil je, da bodo koristi nadomestile izgubljeni čas. Uprava je dejansko nadaljevala s sestanki odbora direktorjev na teme, vključno z Irakom in Sudanom, brez predhodnega kontekstualnega pregleda, Clarke pa je podobno nadaljeval z ozkim programom za boj proti terorizmu. Toda predsednikovi višji svetovalci so problem Al Kaide videli kot del sestavljanke, ki je ni mogoče sestaviti brez izpolnjevanja kosov za Afganistan in Pakistan. Rice je odložil sejo odbora direktorjev o Al Kaidi, dokler poslanci niso razvili nove politike za njihovo obravnavo.
+passage.questions.2.question:Na katere regije sta bila predsednik in njegova uprava osredotočena v boju proti terorizmu?
+passage.questions.2.idx:4132.0
+passage.questions.2.answers.5.text:Srednji vzhod
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:21958.0
+passage.questions.2.answers.4.text:Sudan
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:21957.0
+passage.questions.2.answers.3.text:Iraku in Sudanu
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:21956.0
+passage.questions.2.answers.2.text:Uzbekistan
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:21955.0
+passage.questions.2.answers.1.text:Afganistanu in Pakistanu
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:21954.0
+passage.questions.2.answers.0.text:Iraku
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21953.0
+passage.questions.1.question:Kakšen je bil prvi odziv predsednikov na prizadevanja za obsežnejši pregled politike do Afganistana?
+passage.questions.1.idx:4131.0
+passage.questions.1.answers.9.text:Bush je želel predsedniško direktivo o nacionalni varnostni politiki
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:21951.0
+passage.questions.1.answers.8.text:Bil je utrujen od igranja obrambe
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:21950.0
+passage.questions.1.answers.7.text:Bush je hotel loviti teroriste enega za drugim ali celo celico za celico
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:21949.0
+passage.questions.1.answers.6.text:Utrujen sem od igranja obrambe. Želim igrati napad. Želim se boriti s teroristi
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:21948.0
+passage.questions.1.answers.5.text:Menil je, da bi se morali umakniti iz boja
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:21947.0
+passage.questions.1.answers.4.text:Najprej je hotel poskusiti z diplomacijo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:21946.0
+passage.questions.1.answers.3.text:Predsednik Bush je videl Al Kaido kot del sestavljanke
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21945.0
+passage.questions.1.answers.2.text:Predsednik Bush je postal nestrpen, medtem ko je razumel potrebo po počasnem razvoju politike
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:21944.0
+passage.questions.1.answers.10.text:Želel se je žaliti
+passage.questions.1.answers.10.label:1.0
+passage.questions.1.answers.10.idx:21952.0
+passage.questions.1.answers.1.text:Želel je izčrpen pregled
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21943.0
+passage.questions.1.answers.0.text:Hotel je neposredno napasti teroriste
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21942.0
+passage.questions.0.question:Kako je bilo ime teroristični skupini predsednik Bush in njegova uprava osredotočena na razvoj strategije za poraz?
+passage.questions.0.idx:4130
+passage.questions.0.answers.8.text:PLA
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:21941.0
+passage.questions.0.answers.7.text:Talibani
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:21940.0
+passage.questions.0.answers.6.text:Al Kaida
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:21939.0
+passage.questions.0.answers.5.text:Uzbeki
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:21938.0
+passage.questions.0.answers.4.text:NSPD
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:21937.0
+passage.questions.0.answers.3.text:Al Queda
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:21936.0
+passage.questions.0.answers.2.text:Severno zavezništvo
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:21935.0
+passage.questions.0.answers.1.text:ISIS
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21934
+passage.questions.0.answers.0.text:Al Jazeera
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:21933
+idx:358

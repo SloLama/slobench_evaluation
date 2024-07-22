@@ -1,0 +1,90 @@
+version:1.1
+passage.text:Podjetje Coleco Industries Inc., nekoč visokoleteči proizvajalec igrač, katerega delnice so v začetku osemdesetih let dosegle 65 USD na delnico, je vložilo načrt reorganizacije iz poglavja 11, ki navadnim delničarjem zagotavlja le 1,125 centa na delnico. V skladu z načrtom bi nezavarovani upniki, ki so dolžni približno 430 milijonov dolarjev, prejeli približno 92 milijonov dolarjev ali 21 centov za vsak dolg, ki so mu dolžni. Poleg tega bodo prejeli delnice v reorganizirani družbi, ki se bo imenovala Ranger Industries Inc. Po teh plačilih bo na voljo približno 225.000 ameriških dolarjev za 20 milijonov izdanih navadnih delnic. Družba Avon v zvezni državi Conn. Je leta 1983 dosegla najvišjo vrednost, potem ko je razkrila svoj domači računalnik Adam, vendar je izdelek naletel na napake in bogastvo podjetja se je strmoglavilo. Toda Coleco se je vrnil z uvedbo lutk Cabbage Patch, katerih prodaja je leta 1985 dosegla 600 milijonov dolarjev. Ko pa je norost zamrla, Coleco ni uspel priti do drugega zmagovalca in je julija 1988. vložil prošnjo za zaščito pred stečajnim pravom. skupaj z nezavarovanimi upniki na zveznem stečajnem sodišču v New Yorku in jih mora odobriti sodišče.
+passage.questions.2.question:Kateri izdelki so povzročili rast zalog družbe Coleco v osemdesetih letih?
+passage.questions.2.idx:2251.0
+passage.questions.2.answers.8.text:Ranger
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:11806.0
+passage.questions.2.answers.7.text:Avtomobili za igrače
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:11805.0
+passage.questions.2.answers.6.text:Adamov domači računalnik in lutke iz zelja
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:11804.0
+passage.questions.2.answers.5.text:Punčke iz zelja
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:11803.0
+passage.questions.2.answers.4.text:otroške lutke
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11802.0
+passage.questions.2.answers.3.text:Igrače z akcijskimi figurami
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:11801.0
+passage.questions.2.answers.2.text:Oblačila
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11800.0
+passage.questions.2.answers.1.text:Visoko leteči proizvajalec igrač
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:11799.0
+passage.questions.2.answers.0.text:Igrače
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:11798.0
+passage.questions.1.question:Kaj bodo prejeli nezavarovani upniki kot rezultat načrta reorganizacije Coleca iz 11. poglavja?
+passage.questions.1.idx:2250.0
+passage.questions.1.answers.8.text:92 milijonov dolarjev
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:11797.0
+passage.questions.1.answers.7.text:Na voljo bo približno 225.000 USD
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:11796.0
+passage.questions.1.answers.6.text:92 milijonov
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:11795.0
+passage.questions.1.answers.5.text:92 milijonov dolarjev in zaloge v reorganizirani družbi (Ranger Industries Inc.)
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:11794.0
+passage.questions.1.answers.4.text:50 milijonov dolarjev
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11793.0
+passage.questions.1.answers.3.text:92 milijonov dolarjev ali 21 centov za vsak dolar, ki so mu dolžni
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:11792.0
+passage.questions.1.answers.2.text:92 milijard
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11791.0
+passage.questions.1.answers.1.text:21 centov za vsak dolar
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:11790.0
+passage.questions.1.answers.0.text:200 milijonov dolarjev
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:11789.0
+passage.questions.0.question:Koliko časa po tem, ko so njihove delnice dosegle visoko vrednost, je Coleco vložil prošnjo za zaščito pred stečajnim pravom?
+passage.questions.0.idx:2249
+passage.questions.0.answers.8.text:3.
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:11788.0
+passage.questions.0.answers.7.text:2.
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:11787.0
+passage.questions.0.answers.6.text:Dve leti
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:11786.0
+passage.questions.0.answers.5.text:Približno tri leta
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:11785.0
+passage.questions.0.answers.4.text:8 let
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:11784.0
+passage.questions.0.answers.3.text:Nekoliko več kot tri leta
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:11783.0
+passage.questions.0.answers.2.text:5 let
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11782.0
+passage.questions.0.answers.1.text:20 mesecev
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11781
+passage.questions.0.answers.0.text:1980
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:11780
+idx:201

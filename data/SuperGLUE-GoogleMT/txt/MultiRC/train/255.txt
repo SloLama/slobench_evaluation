@@ -1,0 +1,415 @@
+version:1.1
+passage.text:Ob 9:48 je predstavnik zavetišča v Beli hiši vprašal, ali obstajajo znaki drugega ugrabljenega letala. Namestnik direktorja za operacije je omenil let Delta in zaključil, da &quot;bi bil to četrti možni ugrabitev.&quot; Ob 9:49 je poveljnik NORAD-a v celoti oborožil vsa letala zračne suverenosti na bojne postaje. Ob 9.59 se je konferenci pridružil podpolkovnik zračnih sil, ki je delal v vojaškem uradu Bele hiše, in izjavil, da je ravnokar govoril z namestnikom svetovalca za nacionalno varnost Stephenom Hadleyem. Bela hiša je zahtevala (1) izvajanje kontinuitete vladnih ukrepov, (2) spremstvo lovcev za Air Force One in (3) bojno zračno patruljo nad Washingtonom DC do 10:03, ko je United 93 strmoglavil v Pensilvaniji, o ugrabitvi ni bilo nobene omembe, FAA pa še ni bil dodan k telekonferenci. Predsednik in podpredsednik Predsednik je sedel v učilnici, ko mu je ob 9:05 Andrew Card prišepnil: &quot;Drugo letalo je zadelo drugi stolp. Amerika je napadnuta.&quot; Predsednik nam je povedal, da je njegov instinkt projicirati umirjenost, ne pa, da bi država v trenutku krize videla navdušeni odziv. Tisk je stal za otroki; videl je, kako so začeli zvoniti njihovi telefoni in pozivniki. Predsednik je menil, da mora projicirati moč in umirjenost, dokler ne bo bolje razumel dogajanja. Predsednik je ostal v učilnici še pet do sedem minut, medtem ko so otroci nadaljevali z branjem. Nato se je malo pred 9:15 vrnil v bivalno sobo, kjer ga je osebje seznanilo in videl televizijsko pokritost. Nato je govoril s podpredsednikom Cheneyjem, dr. Riceom, guvernerjem New Yorka Georgeom Patakijem in direktorjem FBI Robertom Muellerjem. Odločil se je za kratko izjavo šole pred odhodom na letališče. Iz tajne službe so nam povedali, da si predsednika želijo preseliti na varnejše mesto, vendar se mu ni zdelo nujno, da zbeži skozi vrata. Med 9:15 in 9:30 je bilo osebje zasedeno z urejanjem vrnitve v Washington, medtem ko se je predsednik o njegovih pripombah posvetoval s svojimi višjimi svetovalci. V tem času nihče v potujoči stranki ni imel podatkov, da je bilo ugrabljeno ali pogrešano drugo letalo. Osebje je bilo v stiku s situacijsko sobo v Beli hiši, toda kolikor smo lahko ugotovili, nihče s predsednikom ni bil v stiku s Pentagonom.
+passage.questions.9.question:Kdo je malo pred 9:15 odšel v bivalni prostor
+passage.questions.9.idx:2842.0
+passage.questions.9.answers.5.text:George Bush
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:15046.0
+passage.questions.9.answers.4.text:NORAD
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:15045.0
+passage.questions.9.answers.3.text:Rick Perry
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:15044.0
+passage.questions.9.answers.2.text:Bill Clinton
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:15043.0
+passage.questions.9.answers.1.text:Predsednik
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:15042.0
+passage.questions.9.answers.0.text:Andrew Card
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:15041.0
+passage.questions.8.question:Kakšna so bila prva razmišljanja predsednika, ko je slišal za napade?
+passage.questions.8.idx:2841.0
+passage.questions.8.answers.6.text:Srečno
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:15040.0
+passage.questions.8.answers.5.text:Da mora ostati miren
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:15039.0
+passage.questions.8.answers.4.text:Opazil je, kako zvonijo telefoni in pozivniki tiska, in želel je ostati miren in pokazati moč pred napadi
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:15038.0
+passage.questions.8.answers.3.text:Za zaščito otrok
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:15037.0
+passage.questions.8.answers.2.text:Žalostno
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:15036.0
+passage.questions.8.answers.1.text:Tragično
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:15035.0
+passage.questions.8.answers.0.text:Da gremo od tam
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:15034.0
+passage.questions.7.question:Ali je predsednik pred odhodom na letališče videl televizijsko poročanje o nesreči Delta 93 v Pensilvaniji?
+passage.questions.7.idx:2840.0
+passage.questions.7.answers.2.text:Kabel ni bil izklopljen
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:15033.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:15032.0
+passage.questions.7.answers.0.text:Bil je zaposlen
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:15031.0
+passage.questions.6.question:Kdo je dal kratko izjavo pred odhodom na letališče
+passage.questions.6.idx:2839.0
+passage.questions.6.answers.4.text:George Bush
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:15030.0
+passage.questions.6.answers.3.text:NORAD
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:15029.0
+passage.questions.6.answers.2.text:Predsednik
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:15028.0
+passage.questions.6.answers.1.text:Andrew Card
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:15027.0
+passage.questions.6.answers.0.text:Dick Cheney
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:15026.0
+passage.questions.5.question:Kateri poveljnik je sposoben voditi vsa letala suverenosti
+passage.questions.5.idx:2838.0
+passage.questions.5.answers.6.text:Vrhovni poveljnik
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:15025.0
+passage.questions.5.answers.5.text:Stephen Hadley
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:15024.0
+passage.questions.5.answers.4.text:Poveljnik NORAD-a
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:15023.0
+passage.questions.5.answers.3.text:Poveljnik NORAD
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:15022.0
+passage.questions.5.answers.2.text:Namestnik svetovalca za nacionalno varnost Stephen Hadley
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:15021.0
+passage.questions.5.answers.1.text:Predsednik
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:15020.0
+passage.questions.5.answers.0.text:Namestnik direktorja
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15019.0
+passage.questions.4.question:Kako dolgo potem, ko je poveljnik NORAD-a usmeril vsa letala zračne suverenosti na bojne postaje, je United 93 strmoglavil v Pensilvaniji?
+passage.questions.4.idx:2837.0
+passage.questions.4.answers.4.text:14 minut
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:15018.0
+passage.questions.4.answers.3.text:24 minut
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:15017.0
+passage.questions.4.answers.2.text:62 minut
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:15016.0
+passage.questions.4.answers.1.text:14 minut
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15015.0
+passage.questions.4.answers.0.text:Ura
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:15014.0
+passage.questions.3.question:Koliko časa od trenutka, ko so predsedniku sporočili, da je drugo letalo zadelo drugi stolp, ali je letalo zračne suverenosti moralo biti usmerjeno na bojne postaje
+passage.questions.3.idx:2836.0
+passage.questions.3.answers.4.text:48 minut
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:15013.0
+passage.questions.3.answers.3.text:64 minut
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:15012.0
+passage.questions.3.answers.2.text:12 minut
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15011.0
+passage.questions.3.answers.1.text:44 minut
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:15010.0
+passage.questions.3.answers.0.text:2 minuti
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15009.0
+passage.questions.2.question:Koliko časa je preteklo med tem, ko je predsednik izvedel za napad in ko se je vrnil v shrambo na sestanek?
+passage.questions.2.idx:2835.0
+passage.questions.2.answers.6.text:25 minut
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:15008.0
+passage.questions.2.answers.5.text:15 minut
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:15007.0
+passage.questions.2.answers.4.text:3 ure
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:15006.0
+passage.questions.2.answers.3.text:Ura
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15005.0
+passage.questions.2.answers.2.text:Skoraj 10 minut
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:15004.0
+passage.questions.2.answers.1.text:1 uro
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:15003.0
+passage.questions.2.answers.0.text:Približno 10 minut
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:15002.0
+passage.questions.19.question:Kakšna čustva je predsednik sprožil, ko je slišal za napad?
+passage.questions.19.idx:2852.0
+passage.questions.19.answers.4.text:Jeza
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:15111.0
+passage.questions.19.answers.3.text:Strah
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:15110.0
+passage.questions.19.answers.2.text:Mirno
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:15109.0
+passage.questions.19.answers.1.text:Tesnobno
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:15108.0
+passage.questions.19.answers.0.text:Teror
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:15107.0
+passage.questions.18.question:Je predsednik, ko je zapustil šolo, vedel, koliko letal je bilo vpletenih v napade 11. septembra?
+passage.questions.18.idx:2851.0
+passage.questions.18.answers.4.text:FBI se je zavedal
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:15106.0
+passage.questions.18.answers.3.text:Da
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:15105.0
+passage.questions.18.answers.2.text:Ne, nihče ni bil obveščen, da so bila vpletena 4 letala do 9:48
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:15104.0
+passage.questions.18.answers.1.text:Ne
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:15103.0
+passage.questions.18.answers.0.text:Osebje je vedelo
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:15102.0
+passage.questions.17.question:Kakšen je bil prvi odziv predsednika, ko je ob 9.05 zvedel za teroristične napade na 911?
+passage.questions.17.idx:2850.0
+passage.questions.17.answers.6.text:Skoči gor in dol
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:15101.0
+passage.questions.17.answers.5.text:Ostani miren
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:15100.0
+passage.questions.17.answers.4.text:Predsednik, ki je bil v učilnici šolskih otrok, je menil, da mora projicirati moč in umirjenost, dokler ne bo bolje razumel dogajanja, in dejansko ostal v učilnici še nekaj minut, medtem ko so otroci nadaljevali z branjem
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:15099.0
+passage.questions.17.answers.3.text:Prestrašiti se
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:15098.0
+passage.questions.17.answers.2.text:Pojdi ven na varno
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:15097.0
+passage.questions.17.answers.1.text:Za projiciranje umirjenosti
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:15096.0
+passage.questions.17.answers.0.text:Navduši se
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:15095.0
+passage.questions.16.question:Kako dolgo po tem, ko je predsednik izvedel za napad, je United 93 strmoglavil v Pensilvaniji?
+passage.questions.16.idx:2849.0
+passage.questions.16.answers.4.text:Dan kasneje
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:15094.0
+passage.questions.16.answers.3.text:Skoraj eno uro
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:15093.0
+passage.questions.16.answers.2.text:5 minut
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:15092.0
+passage.questions.16.answers.1.text:58 minut
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:15091.0
+passage.questions.16.answers.0.text:22 minut
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:15090.0
+passage.questions.15.question:Kdo je prvi povedal predsedniku napada in kakšne so bile njegove natančne besede?
+passage.questions.15.idx:2848.0
+passage.questions.15.answers.7.text:Drugo letalo je zadelo drugi stolp
+passage.questions.15.answers.7.label:1.0
+passage.questions.15.answers.7.idx:15089.0
+passage.questions.15.answers.6.text:&quot;Zadeli so Pentagon&quot;
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:15088.0
+passage.questions.15.answers.5.text:Andrew Card
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:15087.0
+passage.questions.15.answers.4.text:Ob 9.05 je Andrew Card predsedniku zašepetal: &quot;Drugo letalo je zadelo drugi stolp. Amerika je na udaru.&quot;
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:15086.0
+passage.questions.15.answers.3.text:Barak Obama
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:15085.0
+passage.questions.15.answers.2.text:Robert Mueller
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:15084.0
+passage.questions.15.answers.1.text:Dick Cheney
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:15083.0
+passage.questions.15.answers.0.text:&quot;Drugo letalo je zadelo drugi stolp. Amerika je na udaru.&quot;
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:15082.0
+passage.questions.14.question:Koliko možnih ugrabitev je bilo?
+passage.questions.14.idx:2847.0
+passage.questions.14.answers.9.text:Mogoče 4
+passage.questions.14.answers.9.label:1.0
+passage.questions.14.answers.9.idx:15081.0
+passage.questions.14.answers.8.text:3.
+passage.questions.14.answers.8.label:0,0
+passage.questions.14.answers.8.idx:15080.0
+passage.questions.14.answers.7.text:Vsaj 3
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:15079.0
+passage.questions.14.answers.6.text:Štiri
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:15078.0
+passage.questions.14.answers.5.text:2.
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:15077.0
+passage.questions.14.answers.4.text:Več kot 4
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:15076.0
+passage.questions.14.answers.3.text:1.
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:15075.0
+passage.questions.14.answers.2.text:5.
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:15074.0
+passage.questions.14.answers.1.text:Štirje možni ugrabitve
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:15073.0
+passage.questions.14.answers.0.text:4.
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:15072.0
+passage.questions.13.question:Kaj so delali predsednik in njegovo osebje med 9:15 in 9:30 in za katere ključne informacije takrat niso vedeli?
+passage.questions.13.idx:2846.0
+passage.questions.13.answers.7.text:Urejanje vrnitve v Washington
+passage.questions.13.answers.7.label:1.0
+passage.questions.13.answers.7.idx:15071.0
+passage.questions.13.answers.6.text:Kdo je bil ugrabitelj
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:15070.0
+passage.questions.13.answers.5.text:Pentagon je bil zadet
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:15069.0
+passage.questions.13.answers.4.text:Ugrabljeno je bilo drugo letalo
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:15068.0
+passage.questions.13.answers.3.text:Da je bilo ugrabljenih več načrtov
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:15067.0
+passage.questions.13.answers.2.text:Srečanje s starejšimi svetovalci
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:15066.0
+passage.questions.13.answers.1.text:Osebje je urejalo vrnitev v Washington, medtem ko se je predsednik posvetoval s svojimi višjimi svetovalci, vendar takrat ni vedel, da sta pogrešani ali ugrabljeni še dve letali
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:15065.0
+passage.questions.13.answers.0.text:Načrtovanje naslednje igre golfa
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:15064.0
+passage.questions.12.question:Kaj je počel predsednik, ko je opazil, kako začnejo zvoniti telefoni in pozivniki?
+passage.questions.12.idx:2845.0
+passage.questions.12.answers.6.text:Poslušanje otroškega branja
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:15063.0
+passage.questions.12.answers.5.text:Bežanje skozi vrata
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:15062.0
+passage.questions.12.answers.4.text:Zajtrk
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:15061.0
+passage.questions.12.answers.3.text:Tiskovna konferenca
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:15060.0
+passage.questions.12.answers.2.text:Poslušanje branja otrok v učilnici
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:15059.0
+passage.questions.12.answers.1.text:Stoji za otroki
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:15058.0
+passage.questions.12.answers.0.text:Preostanek v učilnici
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:15057.0
+passage.questions.11.question:Kako dolgo od takrat, ko so bila letala zračne suverenosti usmerjena na bojne postaje, je United 93 strmoglavil v Pensilvaniji
+passage.questions.11.idx:2844.0
+passage.questions.11.answers.3.text:Ura
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:15056.0
+passage.questions.11.answers.2.text:14 minut
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:15055.0
+passage.questions.11.answers.1.text:3 minute
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:15054.0
+passage.questions.11.answers.0.text:61 minut
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:15053.0
+passage.questions.10.question:Kaj je predsednik storil takoj, ko mu je Andrew Card rekel: &quot;Amerika je na udaru.&quot;?
+passage.questions.10.idx:2843.0
+passage.questions.10.answers.5.text:Vsem otrokom ustavil branje
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:15052.0
+passage.questions.10.answers.4.text:Ostal miren
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:15051.0
+passage.questions.10.answers.3.text:Začni kričati
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:15050.0
+passage.questions.10.answers.2.text:Ostal miren
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:15049.0
+passage.questions.10.answers.1.text:Skoči gor in pojdi
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:15048.0
+passage.questions.10.answers.0.text:V učilnici je ostal še pet do sedem minut, medtem ko so otroci nadaljevali z branjem
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:15047.0
+passage.questions.1.question:Kako so napadli Ameriko?
+passage.questions.1.idx:2834.0
+passage.questions.1.answers.7.text:Z letali
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:15001.0
+passage.questions.1.answers.6.text:Napadi nožev
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:15000.0
+passage.questions.1.answers.5.text:Pištole
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:14999.0
+passage.questions.1.answers.4.text:Avto bombe
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:14998.0
+passage.questions.1.answers.3.text:Ugrabljena letala
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:14997.0
+passage.questions.1.answers.2.text:Letala so ugrabila in strmoglavila
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:14996.0
+passage.questions.1.answers.1.text:Bombe
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:14995.0
+passage.questions.1.answers.0.text:Ugrabljena letala
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:14994.0
+passage.questions.0.question:Kdo je predsedniku dejal, da je &quot;Amerika na udaru&quot;
+passage.questions.0.idx:2833
+passage.questions.0.answers.5.text:NORAD
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:14993.0
+passage.questions.0.answers.4.text:Podpredsednik Dick Cheney
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:14992.0
+passage.questions.0.answers.3.text:Hillary Clinton
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14991.0
+passage.questions.0.answers.2.text:Andrew Card
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:14990.0
+passage.questions.0.answers.1.text:Robert Mueller
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:14989
+passage.questions.0.answers.0.text:Dick Cheney
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:14988
+idx:255

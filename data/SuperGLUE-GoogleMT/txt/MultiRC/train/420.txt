@@ -1,0 +1,133 @@
+version:1.1
+passage.text:Jaz sem zelo lačna. Iščem svojo mamo. Kdaj je večerja? Vprašam. Večerja je ob šestih, pravi mama. Kaj lahko jemo? Vprašam. Hrano lahko poberemo z našega vrta, pravi. Pomagam ji nabrati koruzo, fižol in grah. Koruza je rumena in bela. Fižol je majhen in rjav. Grah je zelen in okrogel. Fižol dam v košarico. Grah dam v skledo. Mati prinese koruzo. Gremo noter. Imam umazane roke. Umijem si roke z milom in vodo. Voda je topla. Moje roke so zdaj čiste. Mati me pusti mešati fižol. Lonec napolnim z vodo. Mati položi koruzo v lonec. Lonec postavi na štedilnik. Voda zavre. Marija je moja sestra. Marija postavi na mizo štiri krožnike. Vsaka plošča je modra. Vsak pojemo dva kosa mesa. Pojem več koruze kot Mary. Marija poje več fižola kot naša mati. Kaj ste se danes naučili? Vpraša Marija. Pravim, da lahko napišem deset novih besed. Marija lahko črkuje samo dve besedi.
+passage.questions.4.question:Koliko in kakšne barve so krožniki, ki jih Marija položi na mizo?
+passage.questions.4.idx:4747.0
+passage.questions.4.answers.6.text:Deset in rjava
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:25269.0
+passage.questions.4.answers.5.text:Marija je na mizo postavila štiri modre krožnike
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:25268.0
+passage.questions.4.answers.4.text:Tri rumene plošče
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25267.0
+passage.questions.4.answers.3.text:Trije modri krožniki
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25266.0
+passage.questions.4.answers.2.text:Dve in zeleni
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:25265.0
+passage.questions.4.answers.1.text:Štirje zeleni krožniki
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:25264.0
+passage.questions.4.answers.0.text:Štirje modri krožniki
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:25263.0
+passage.questions.3.question:V kaj dam fižol in grah?
+passage.questions.3.idx:4746.0
+passage.questions.3.answers.7.text:Vrt
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:25262.0
+passage.questions.3.answers.6.text:V štirih krožnikih
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:25261.0
+passage.questions.3.answers.5.text:Voda
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:25260.0
+passage.questions.3.answers.4.text:Fižol v košarici in grah v skledi
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:25259.0
+passage.questions.3.answers.3.text:Štedilnik
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:25258.0
+passage.questions.3.answers.2.text:V loncu
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:25257.0
+passage.questions.3.answers.1.text:Fižol v skledi in grah v košari
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25256.0
+passage.questions.3.answers.0.text:Košara in skleda
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25255.0
+passage.questions.2.question:Kdo lahko črkuje več besed?
+passage.questions.2.idx:4745.0
+passage.questions.2.answers.8.text:Lahko črkujem več besed
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:25254.0
+passage.questions.2.answers.7.text:Koruza
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:25253.0
+passage.questions.2.answers.6.text:Mary
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:25252.0
+passage.questions.2.answers.5.text:Bobby
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:25251.0
+passage.questions.2.answers.4.text:Marija zna črkovati dve, jaz pa deset
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25250.0
+passage.questions.2.answers.3.text:Mati
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25249.0
+passage.questions.2.answers.2.text:Glavni lik
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:25248.0
+passage.questions.2.answers.1.text:Marija zna črkovati več besed
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25247.0
+passage.questions.2.answers.0.text:Jaz
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:25246.0
+passage.questions.1.question:Zakaj iščem svojo mamo?
+passage.questions.1.idx:4744.0
+passage.questions.1.answers.6.text:Da napolnim lonec vode
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:25245.0
+passage.questions.1.answers.5.text:Da pomagam Mariji
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:25244.0
+passage.questions.1.answers.4.text:Nabirati hrano z vrta
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:25243.0
+passage.questions.1.answers.3.text:Ker sem lačen
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25242.0
+passage.questions.1.answers.2.text:Da se naučim črkovati
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:25241.0
+passage.questions.1.answers.1.text:Za pomoč materi
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:25240.0
+passage.questions.1.answers.0.text:Za zbiranje koruze, fižola in graha
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:25239.0
+passage.questions.0.question:Zakaj si umivam roke?
+passage.questions.0.idx:4743
+passage.questions.0.answers.8.text:Umijem si roke, ker so umazane
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:25238.0
+passage.questions.0.answers.7.text:Jesti
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:25237.0
+passage.questions.0.answers.6.text:Da si ohladim tople roke
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:25236.0
+passage.questions.0.answers.5.text:Da si očistim roke
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:25235.0
+passage.questions.0.answers.4.text:Ker so umazani
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:25234.0
+passage.questions.0.answers.3.text:Nabirati hrano z vrta
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:25233.0
+passage.questions.0.answers.2.text:Da se česa naučim
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:25232.0
+passage.questions.0.answers.1.text:Da dam grah v skledo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25231
+passage.questions.0.answers.0.text:Da poberem fižol
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:25230
+idx:420

@@ -1,0 +1,51 @@
+version:1.1
+passage.text:Družina čez cesto ima mačko. Je prikupna črna mucka po imenu Dillon. Mačka je stara približno dve leti, družina pa ga ima že približno leto dni. Je notranja mačka, ki ne sme iti ven. Otroci se radi igrajo z Dillonom, ker se še vedno obnaša kot mucek. Dillon skače naokoli in lovi muhe, hrošče in pajke. Ko se igra z otroki, jih včasih napadne s tačkami, vendar jih ne poskuša poškodovati s kremplji. Dillon je odličen maček, vendar ima en problem: rad je kruh. Družina ga hrani samo z mačjo hrano, nikoli s človeško hrano, kot je zrezek ali krompir. A mački je vonj kruha tako všeč, da ga poskuša najti povsod, kjer le lahko. Dillon skoči na kuhinjsko mizo, ko je sendvič, in ga poskuša odnesti. Na tleh najde hlebčke iz trgovine in na zavitkih kremplje. Mačka se povzpne v omaro za kruh in išče žemljice s hrenovkami in hamburgerji. Dillon poskuša Dillonu prenehati vstopati v kruh, tako da ga poškropi z vodo, ko gre za kruhom. Vpijejo mu, ko hodi po mizi. Toda Dillon ne posluša. Mucka ves čas poskuša najti kruh za jesti. Družina meni, da je bil človek, ki je skrbel za Dillona, ko je bil zelo mlad mucek, pekar ali kuhar in zato je Dillonu tako všeč vonj in okus kruha!
+passage.questions.2.question:Koliko je star Dillon?
+passage.questions.2.idx:2103.0
+passage.questions.2.answers.4.text:Dve leti stari
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11005.0
+passage.questions.2.answers.3.text:2.
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:11004.0
+passage.questions.2.answers.2.text:Ima 7 let
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11003.0
+passage.questions.2.answers.1.text:1.
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:11002.0
+passage.questions.2.answers.0.text:Skoraj 2
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:11001.0
+passage.questions.1.question:Na kakšen način Dillon poskuša dobiti kruh?
+passage.questions.1.idx:2102.0
+passage.questions.1.answers.5.text:S hojo do pekarne
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:11000.0
+passage.questions.1.answers.4.text:Vzpne se na pult, da bi pojedel sendvič, poskuša se prebiti skozi ovitek za kruh
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:10999.0
+passage.questions.1.answers.3.text:Skoči na kuhinjsko mizo po sendviče, spleza v omaro za kruh in kremplje skozi zavitke za kruh
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10998.0
+passage.questions.1.answers.2.text:Ukrade ga iz trgovine
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:10997.0
+passage.questions.1.answers.1.text:S plezanjem v krušno omarico
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:10996.0
+passage.questions.1.answers.0.text:S skokom na mizo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10995.0
+passage.questions.0.question:Ali Dillon rad preganja žuželke v sebi?
+passage.questions.0.idx:2101
+passage.questions.0.answers.2.text:Da, Dillon rad preganja žuželke znotraj
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10994.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:10993
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:10992
+idx:189

@@ -1,0 +1,4 @@
+idx:645
+label:True
+passage:Večnitnost (računalniška arhitektura) - V računalniški arhitekturi je večnitnost zmožnost centralne procesne enote (CPE) (ali enega jedra v večjedrnem procesorju), da hkrati izvaja več procesov ali niti, ki jih podpira operacijski sistem. Ta pristop se razlikuje od večprocesorske obdelave. V večnitni aplikaciji procesi in niti delijo vire enega ali več jeder, ki vključujejo računalniške enote, predpomnilnike CPU in vmesni pomnilnik za prevajanje (TLB).
+question:je večnitnost uporabna tudi na enem procesorju

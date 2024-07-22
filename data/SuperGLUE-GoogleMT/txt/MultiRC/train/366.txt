@@ -1,0 +1,329 @@
+version:1.1
+passage.text:Obnovljivi viri energije Sončna svetloba Sončna svetloba se lahko uporablja za ogrevanje domov. Uporablja se lahko tudi za proizvodnjo električne energije. To pretvorbo omogočajo sončne celice. Vendar sončna energija morda ni vedno praktična. Nekatera območja so preveč oblačna. Primer Sončni kolektorji na strehi te hiše ustvarjajo dovolj električne energije za potrebe družine. Premikanje vode Padajoča voda ima lahko veliko energije. Njegova energija se lahko pretvori v kinetično energijo. Ta energija lahko obrača turbino in proizvaja električno energijo. Voda lahko naravno pade čez slap ali teče skozi jez. Pomanjkljivost jezov je, da poplavljajo zemljo gorvodno. Lahko tudi zmanjšajo pretok vode po toku. Kateri koli učinek lahko škoduje ekosistemom. Veter Veter premika zrak. Ima kinetično energijo, ki lahko deluje. Vetrne turbine spremenijo kinetično energijo vetra v električno energijo. Le določena območja sveta dobijo dovolj enakomernega vetra. Mnogi ljudje tudi mislijo, da so vetrnice hrupne in jih ni prav lepo gledati.
+passage.questions.9.question:Kaj lahko uporabimo iz teh oblik energije?
+passage.questions.9.idx:4213.0
+passage.questions.9.answers.5.text:Te oblike energije lahko tvorijo elektriko in vodo
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:22393.0
+passage.questions.9.answers.4.text:Obnovljiva energija
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:22392.0
+passage.questions.9.answers.3.text:Te oblike energije lahko proizvajajo toploto in
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:22391.0
+passage.questions.9.answers.2.text:Ali elektrika
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:22390.0
+passage.questions.9.answers.1.text:Lahko se proizvaja električna in jedrska energija
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:22389.0
+passage.questions.9.answers.0.text:Lahko se proizvajata tako elektrika kot toplota
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:22388.0
+passage.questions.8.question:Kateri so trije načini pridobivanja energije?
+passage.questions.8.idx:4212.0
+passage.questions.8.answers.5.text:Sončne celice, padec vode, vetrnice
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:22387.0
+passage.questions.8.answers.4.text:Energijo lahko pridobivamo s pomočjo sončne, vodne in vetrne energije
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:22386.0
+passage.questions.8.answers.3.text:Lahko ga naredimo iz vode, vetra in sončne svetlobe
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:22385.0
+passage.questions.8.answers.2.text:Sončna svetloba, gibanje vode in veter
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:22384.0
+passage.questions.8.answers.1.text:Energijo lahko pridobivamo iz vetra, vode in mikrovalov
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:22383.0
+passage.questions.8.answers.0.text:Lahko ga naredimo iz sončne svetlobe, vetra in rastlinskih snovi
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:22382.0
+passage.questions.7.question:Katere so nekatere oblike obnovljive energije, navedene v odstavku?
+passage.questions.7.idx:4211.0
+passage.questions.7.answers.5.text:Navedene so vetrna, sončna in vodna energija
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:22381.0
+passage.questions.7.answers.4.text:Naštete vrste obnovljivih virov energije so voda, sonce in veter
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:22380.0
+passage.questions.7.answers.3.text:Navedene so toplotna, vetrna in vodna energija
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:22379.0
+passage.questions.7.answers.2.text:Naštete oblike obnovljive energije so veter, jedrska in sončna energija
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:22378.0
+passage.questions.7.answers.1.text:Sončna svetloba, slap, veter
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:22377.0
+passage.questions.7.answers.0.text:Sončna, vodna in vetrna energija
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:22376.0
+passage.questions.6.question:Kaj lahko sončna svetloba zagotovi kot vir?
+passage.questions.6.idx:4210.0
+passage.questions.6.answers.5.text:Sončna svetloba lahko zagotavlja veter
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:22375.0
+passage.questions.6.answers.4.text:Sončna svetloba lahko zagotovi kinetično energijo
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:22374.0
+passage.questions.6.answers.3.text:Lahko ogreva domove in proizvaja elektriko
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:22373.0
+passage.questions.6.answers.2.text:Sončna energija
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:22372.0
+passage.questions.6.answers.1.text:Sončno svetlobo lahko uporabimo za proizvodnjo električne energije
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:22371.0
+passage.questions.6.answers.0.text:Sončna svetloba lahko zagotavlja toploto
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:22370.0
+passage.questions.5.question:Kateri so 3 viri obnovljive energije
+passage.questions.5.idx:4209.0
+passage.questions.5.answers.5.text:Sonce, veter in voda
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:22369.0
+passage.questions.5.answers.4.text:Veter, voda in premog so trije viri obnovljive energije
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:22368.0
+passage.questions.5.answers.3.text:Veter, voda in sončna svetloba
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:22367.0
+passage.questions.5.answers.2.text:Sončna svetloba, gibljiva voda in veter
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:22366.0
+passage.questions.5.answers.1.text:Obnovljiva energija izvira iz vode, sonca in nafte
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:22365.0
+passage.questions.5.answers.0.text:Premikanje vode, vetra in sonca so viri obnovljive energije
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:22364.0
+passage.questions.4.question:Zakaj vetrna energija ne deluje v vseh situacijah ?:
+passage.questions.4.idx:4208.0
+passage.questions.4.answers.4.text:Vetrne turbine lahko zmanjšajo pretok vetra
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:22363.0
+passage.questions.4.answers.3.text:Le določena območja sveta dobijo dovolj enakomernega vetra. Mnogi ljudje tudi mislijo, da so vetrnice hrupne in jih ni prav lepo gledati
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:22362.0
+passage.questions.4.answers.2.text:Stalen veter ni povsod na voljo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:22361.0
+passage.questions.4.answers.1.text:Vetrne turbine lahko ubijejo ptice selivke
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:22360.0
+passage.questions.4.answers.0.text:Vsa območja ne dobijo dovolj enakomernega vetra
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:22359.0
+passage.questions.3.question:Na kakšen način lahko uporabimo sončno svetlobo?
+passage.questions.3.idx:4207.0
+passage.questions.3.answers.7.text:Sončne celice
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:22358.0
+passage.questions.3.answers.6.text:Proizvajajo elektriko
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:22357.0
+passage.questions.3.answers.5.text:Sončno svetlobo lahko uporabljamo za ogrevanje domov in proizvodnjo električne energije
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:22356.0
+passage.questions.3.answers.4.text:Ogrevajte domove in proizvajajte elektriko
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:22355.0
+passage.questions.3.answers.3.text:Sončna energija
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:22354.0
+passage.questions.3.answers.2.text:Uporablja se lahko za toploto in za vetrove
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:22353.0
+passage.questions.3.answers.1.text:Uporablja se lahko za toploto in elektriko
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:22352.0
+passage.questions.3.answers.0.text:Sončno svetlobo lahko uporabimo za proizvodnjo radijskih valov in za proizvodnjo električne energije
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:22351.0
+passage.questions.2.question:Kakšne so pomanjkljivosti jezov
+passage.questions.2.idx:4206.0
+passage.questions.2.answers.5.text:Škodni eko sistem
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:22350.0
+passage.questions.2.answers.4.text:Jezovi lahko ponekod poplavijo zemljo, drugod pa zmanjšajo vodo
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:22349.0
+passage.questions.2.answers.3.text:Jezovi lahko zmanjšajo pretok vode dolvodno in poplavijo zemljo gorvodno
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:22348.0
+passage.questions.2.answers.2.text:Poplavno zemljišče gorvodno in zmanjšanje pretoka vode dolvodno
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:22347.0
+passage.questions.2.answers.1.text:Jezovi lahko poplavijo zemljo dolvodno in zmanjšajo pretok vode gorvodno
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:22346.0
+passage.questions.2.answers.0.text:Pomanjkljivosti jezov so, da nekatera območja nimajo dovolj vode in so lahko hrupna
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:22345.0
+passage.questions.15.question:Kako sončna svetloba ustvarja elektriko
+passage.questions.15.idx:4219.0
+passage.questions.15.answers.4.text:Sončne celice
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:22430.0
+passage.questions.15.answers.3.text:Sončne celice se uporabljajo za proizvodnjo električne energije iz sončne svetlobe
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:22429.0
+passage.questions.15.answers.2.text:Zaradi sončne svetlobe se turbine obračajo, zaradi česar je elektrika
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:22428.0
+passage.questions.15.answers.1.text:Sončna svetloba ustvarja energijo prek sončnih celic
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:22427.0
+passage.questions.15.answers.0.text:Sončna svetloba ustvarja elektriko s shranjevanjem kinetične energije
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:22426.0
+passage.questions.14.question:O katerih dveh vrstah energije se govori v člankih?
+passage.questions.14.idx:4218.0
+passage.questions.14.answers.6.text:Ta članek obravnava sončno in geotermalno energijo
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:22425.0
+passage.questions.14.answers.5.text:Ta članek vključuje energijo vetra in sonca
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:22424.0
+passage.questions.14.answers.4.text:Sončna energija
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:22423.0
+passage.questions.14.answers.3.text:Obravnavani so tako sončna kot vodna energija
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:22422.0
+passage.questions.14.answers.2.text:Govori o jedrski in vetrni energiji
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:22421.0
+passage.questions.14.answers.1.text:Sončna in kinetična energija
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:22420.0
+passage.questions.14.answers.0.text:kinetična energija
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:22419.0
+passage.questions.13.question:Kakšna je pomanjkljivost kinetične energije iz vodne energije?
+passage.questions.13.idx:4217.0
+passage.questions.13.answers.5.text:Hidroelektrarne so lahko hrupne
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:22418.0
+passage.questions.13.answers.4.text:Vzvodno poplavlja, dolvodno premalo vode
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:22417.0
+passage.questions.13.answers.3.text:Jezov za hidroelektrarne ni prav lepo gledati
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:22416.0
+passage.questions.13.answers.2.text:Turbine so hrupne in jih ni prav lepo gledati
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:22415.0
+passage.questions.13.answers.1.text:Hidroenergija lahko poplavi nekaj zemljišč in zmanjša vodo v drugih krajih
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:22414.0
+passage.questions.13.answers.0.text:Pomanjkljivost je, da lahko škoduje ekosistemom
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:22413.0
+passage.questions.12.question:Katere so nekatere pomanjkljivosti vetrnih turbin?
+passage.questions.12.idx:4216.0
+passage.questions.12.answers.5.text:Vetrne turbine morda ni lepo gledati in lahko povzročijo požar
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:22412.0
+passage.questions.12.answers.4.text:Nekateri ljudje mislijo, da vetrne turbine slabo dišijo in so preveč hrupne
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:22411.0
+passage.questions.12.answers.3.text:Le določena območja sveta dobijo dovolj enakomernega vetra in marsikdo tudi meni, da so vetrne turbine hrupne in jih ni prav lepo gledati
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:22410.0
+passage.questions.12.answers.2.text:Nekateri mislijo, da so vetrne turbine glasne in grde
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:22409.0
+passage.questions.12.answers.1.text:Vetrne turbine niso zelo lepe in so lahko hrupne
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:22408.0
+passage.questions.12.answers.0.text:Turbine so hrupne in jih ni prav lepo gledati
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:22407.0
+passage.questions.11.question:Katere so nekatere pomanjkljivosti jezov?
+passage.questions.11.idx:4215.0
+passage.questions.11.answers.6.text:Razviti pretok vode po toku navzdol
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:22406.0
+passage.questions.11.answers.5.text:Zalivajo zemljo gorvodno. Lahko tudi zmanjšajo pretok vode po toku. Kateri koli učinek lahko škoduje ekosistemom
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:22405.0
+passage.questions.11.answers.4.text:Škodljiv eko sistem
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:22404.0
+passage.questions.11.answers.3.text:Jezovi lahko zmanjšajo vodo dolvodno in uničijo prosto živeče živali
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:22403.0
+passage.questions.11.answers.2.text:Voda lahko poplavi zemljo ali poškoduje slap
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:22402.0
+passage.questions.11.answers.1.text:Jezovi lahko zmanjšajo vodo navzdol in poplavijo zemljo gorvodno
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:22401.0
+passage.questions.11.answers.0.text:Jezovi lahko poplavijo zemljo in zmanjšajo pretok vode
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:22400.0
+passage.questions.10.question:Kateri dve stvari omejujeta uporabo vetrnih turbin
+passage.questions.10.idx:4214.0
+passage.questions.10.answers.5.text:Vetrne turbine lahko omeji miren zrak ali veter, ki se premika prehitro
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:22399.0
+passage.questions.10.answers.4.text:Ljudje mislijo, da so turbine hrupne in grde, le na nekaterih območjih je dovolj enakomernega vetra
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:22398.0
+passage.questions.10.answers.3.text:Le določena območja sveta dobijo dovolj enakomernega vetra in marsikdo tudi meni, da so vetrne turbine hrupne in jih ni prav lepo gledati
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:22397.0
+passage.questions.10.answers.2.text:Vetrne turbine niso praktične na območjih, kjer ni dovolj enakomernega vetra, nekatera območja pa so preveč oblačna
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:22396.0
+passage.questions.10.answers.1.text:Hrupno in ni prav lepo gledati
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:22395.0
+passage.questions.10.answers.0.text:Vetrne turbine niso preveč zanesljive in ljudje mislijo, da so hrupne
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:22394.0
+passage.questions.1.question:Kako gibljiva voda ustvarja elektriko?
+passage.questions.1.idx:4205.0
+passage.questions.1.answers.5.text:Voda lahko z obračanjem turbine proizvaja elektriko
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:22344.0
+passage.questions.1.answers.4.text:Elektriko lahko proizvedemo tako, da vodik izvlečemo iz vode, ki se premika
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:22343.0
+passage.questions.1.answers.3.text:Energija vode lahko spremeni turbino in čarobno povzroči elektriko
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:22342.0
+passage.questions.1.answers.2.text:Voda lahko premika turbino, ki ustvarja moč
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:22341.0
+passage.questions.1.answers.1.text:Padajoča voda ima lahko veliko energije, ki jo lahko pretvorimo v kinetično energijo, ki obrača turbino in proizvaja elektriko
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:22340.0
+passage.questions.1.answers.0.text:Elektriko lahko proizvedemo s shranjevanjem vode v baterijah
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:22339.0
+passage.questions.0.question:Kateri so viri kinetične energije
+passage.questions.0.idx:4204
+passage.questions.0.answers.5.text:Kinetična energija prihaja iz vode, ki se premika, ali iz vetra
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:22338.0
+passage.questions.0.answers.4.text:Viri kinetične energije so veter, gibljiva voda in geotermalna energija
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:22337.0
+passage.questions.0.answers.3.text:Tako veter kot gibljiva voda ustvarjata kinetično energijo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:22336.0
+passage.questions.0.answers.2.text:Kinetična energija prihaja iz sončne ali vetrne energije
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:22335.0
+passage.questions.0.answers.1.text:Premikanje vode in vetra
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:22334
+passage.questions.0.answers.0.text:Veter, voda
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22333
+idx:366

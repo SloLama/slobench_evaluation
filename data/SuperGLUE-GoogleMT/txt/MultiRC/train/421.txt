@@ -1,0 +1,74 @@
+version:1.1
+passage.text:Mike in Jeff sta tesna prijatelja. Njihova šola ima igro ugibanja, da bi uganila, koliko gumijastih kroglic je v škatli. Če dobijo pravi znesek, dobijo 100 USD. Če se približajo, dobijo darilno kartico v višini 20 USD. Zdi se, da v škatli manjka nekaj gumic. Izkazalo se je, da jih nekateri ljudje jedo, ko ugibajo. 100 ljudi je uganilo in vzelo košček sladkarij. Škatla je velika 10 x 10 x 10 &quot;. Vsaka gumija je 1&quot;. Mike je uganil 500. Jeff je uganil 800. Oba sta rekla, da bosta svoj denar, če zmagata, razdelila.
+passage.questions.3.question:Če bi bilo v škatli 798 gumijastih kroglic, koliko denarja bi dobili Mike in Jeff?
+passage.questions.3.idx:4751.0
+passage.questions.3.answers.5.text:100 dolarjev
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:25290.0
+passage.questions.3.answers.4.text:20 darilnih kartic
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:25289.0
+passage.questions.3.answers.3.text:10.
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:25288.0
+passage.questions.3.answers.2.text:Košček sladkarij
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:25287.0
+passage.questions.3.answers.1.text:Darilna kartica za 10 dolarjev
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25286.0
+passage.questions.3.answers.0.text:100
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25285.0
+passage.questions.2.question:Če bi bilo v škatli 500 gumi, koliko denarja bi dobili Mike in Jeff?
+passage.questions.2.idx:4750.0
+passage.questions.2.answers.4.text:150
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25284.0
+passage.questions.2.answers.3.text:V dolarjih
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25283.0
+passage.questions.2.answers.2.text:50
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:25282.0
+passage.questions.2.answers.1.text:50 dolarjev
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25281.0
+passage.questions.2.answers.0.text:100
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:25280.0
+passage.questions.1.question:Približno koliko gumbolov manjka?
+passage.questions.1.idx:4749.0
+passage.questions.1.answers.3.text:Brez pogrešanih
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25279.0
+passage.questions.1.answers.2.text:100
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25278.0
+passage.questions.1.answers.1.text:20.
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:25277.0
+passage.questions.1.answers.0.text:Nekateri
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:25276.0
+passage.questions.0.question:Kako lahko nekdo izobraženo ugiba, koliko gumijastih kroglic je v škatli?
+passage.questions.0.idx:4748
+passage.questions.0.answers.5.text:Dodajte 10 gumic za vsakega, ki ga je oseba vzela
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:25275.0
+passage.questions.0.answers.4.text:Pomnožite dimenzije škatle z dimenzijami gumi
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:25274.0
+passage.questions.0.answers.3.text:Dva prijatelja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:25273.0
+passage.questions.0.answers.2.text:Število gumic pomnožite s površino in odštejte manjkajoče
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:25272.0
+passage.questions.0.answers.1.text:Množenje dimenzij škatle in deljenje z velikostjo gumi
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25271
+passage.questions.0.answers.0.text:Odvrzite škatlo in preštejte vsako
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:25270
+idx:421

@@ -1,0 +1,120 @@
+version:1.1
+passage.text:Ko se je ustavil tik pred vasjo, je Harry oblikoval svoje moške s sprednjo stranjo čez celotno cesto in ukazal linije naprej, dvajset metrov narazen. Potem, ko se je postavil na njihovo glavo, je dal besedo in se po ulici zapeljal na okrogle glave. Slednji, ki so bili zasedeni z napadi na hiše, so se zavedali navzočnosti sovražnika, dokler ni bil blizu njih, in so bili popolnoma presenečeni. Sila naboja je bila neustavljiva in Okrogle glave, razpršene in peš, so bile posekane v vse smeri. Skupine dvojic in trojk so stale skupaj in poskušale odpor, vendar je glavnina mislila le na to, da si povrne konje. V treh minutah po vstopu kraljevcev v vas so preživeli Roundheads v polnem letu, ki so jih vneto preganjali zmagovalni kavalirji. Ti, ki so bili večinoma bolje postavljeni, so prehiteli in pobili številne okrogle glave, v njihove četrti pri Didcotu pa se je vrnila največ polovica sile, ki so jo napotili. Zasledovanje se je nadaljevalo približno pol milje od tega kraja, nato pa se je Harry, vedoč, da je tam sila pehote Roundhead, umaknil iz zasledovanja in se vrnil v Chalcombe. Ugotovil je, da je bila ubita več kot polovica mož Sir Ralpha Willoughyja, mnogi so bili posekani, preden so se lahko prijeli v orožje, tisti, ki so se nastanili v gostilni, in v dveh ali treh večjih hišah, ki so sami vzdrževali uspešno odpor do prihoda pomoči.
+passage.questions.9.question:Kdo je bil presenečen, ko je izvedel, da je bila ubita več kot polovica mož Sir Ralpha Willoughyja?
+passage.questions.9.idx:1132.0
+passage.questions.9.answers.2.text:Ralph
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:5748.0
+passage.questions.9.answers.1.text:Harry
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:5747.0
+passage.questions.9.answers.0.text:Sir Ralph Willoughy
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5746.0
+passage.questions.8.question:Je Harry preiskal četrtine Okroglavih?
+passage.questions.8.idx:1131.0
+passage.questions.8.answers.1.text:Da
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:5745.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:5744.0
+passage.questions.7.question:Je bil Chalcombe mesto, vas ali mesto?
+passage.questions.7.idx:1130.0
+passage.questions.7.answers.1.text:Vas
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:5743.0
+passage.questions.7.answers.0.text:Mesto
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:5742.0
+passage.questions.6.question:Kdo je bil vodja rojalistov?
+passage.questions.6.idx:1129.0
+passage.questions.6.answers.1.text:Ralph
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:5741.0
+passage.questions.6.answers.0.text:Harry
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:5740.0
+passage.questions.5.question:Kako blizu so se kavalirji približali Didcotu?
+passage.questions.5.idx:1128.0
+passage.questions.5.answers.2.text:1/2 milje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:5739.0
+passage.questions.5.answers.1.text:Bili so na njihovem ozemlju
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:5738.0
+passage.questions.5.answers.0.text:30 jardov
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:5737.0
+passage.questions.4.question:Kako so se Roundheads poskusili upreti?
+passage.questions.4.idx:1127.0
+passage.questions.4.answers.2.text:Skupine dvojic in trojk so stale skupaj
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:5736.0
+passage.questions.4.answers.1.text:Napadli so
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:5735.0
+passage.questions.4.answers.0.text:Poskusili so v treh
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:5734.0
+passage.questions.3.question:Kakšne sile so imele okrogle glave?
+passage.questions.3.idx:1126.0
+passage.questions.3.answers.2.text:Na konju
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:5733.0
+passage.questions.3.answers.1.text:Peš
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:5732.0
+passage.questions.3.answers.0.text:Kalvarija in pehota
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:5731.0
+passage.questions.2.question:Kje je bil sedež Royalistov?
+passage.questions.2.idx:1125.0
+passage.questions.2.answers.2.text:Vas
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5730.0
+passage.questions.2.answers.1.text:Didcot
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:5729.0
+passage.questions.2.answers.0.text:Chalcombe
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:5728.0
+passage.questions.11.question:Kdo je vodil svojega moža v presenetljivem napadu na okrogle glave?
+passage.questions.11.idx:1134.0
+passage.questions.11.answers.1.text:Harry
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:5752.0
+passage.questions.11.answers.0.text:Sir Didcot
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:5751.0
+passage.questions.10.question:Kdo je napredoval po ulici na Roundheads?
+passage.questions.10.idx:1133.0
+passage.questions.10.answers.1.text:Ralph
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:5750.0
+passage.questions.10.answers.0.text:Harry
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:5749.0
+passage.questions.1.question:Katero vas so branile sile Sir Ralph Willoughy?
+passage.questions.1.idx:1124.0
+passage.questions.1.answers.2.text:Vas
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5727.0
+passage.questions.1.answers.1.text:Didcot
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:5726.0
+passage.questions.1.answers.0.text:Chalcombe
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5725.0
+passage.questions.0.question:Koga je presenetilo navzočnost njihovega sovražnika?
+passage.questions.0.idx:1123
+passage.questions.0.answers.2.text:Harry
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:5724.0
+passage.questions.0.answers.1.text:Vaščani in okrogle glave
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5723
+passage.questions.0.answers.0.text:Okroglave glave
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:5722
+idx:94

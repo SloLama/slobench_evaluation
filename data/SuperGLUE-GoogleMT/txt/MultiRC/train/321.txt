@@ -1,0 +1,130 @@
+version:1.1
+passage.text:Stara obokana cerkev je bila odstranjena: na oltarju ni bilo nobene krpe, samo DJ-jev pripomoček in njegovo pivo. Skozi temo sem videl tri vijake, ki so ostali v steni od mesta, kjer so sneli razpelo. Prepovedana spovednica, ki bi jo lahko prodali, se je tresla na način, ki je nakazoval dejavnost v njej, in tam, kjer so klopi odstranili, je nekaj sto ljudi pričalo o dirljivi pridigi DJ-ja. Rachel je stopila naprej med množico, medtem ko sem si vzel trenutek, da sem popil v modro osvetljenem, senčnem trezorju in svetlobo, ki se je vlekla med kdo ve, kaj se dviga med DJ-jem in množico. Zaslišal je grozen odmev, vsak utrip je odmeval v naslednjem, stara vitražna okna pa so zazvečala v njihovih okvirih. Na plesišču so se ljudje gibali z zaprtimi očmi in rokami v zraku. Nekaj časa sem plesal z Rachel, potem pa se je zdelo, da jo nekaj ob šanku vleče za očmi. Povedala mi je, da gre na pijačo in se izmuznila iz množice. Ko se ni vrnila na pol naslednje pesmi, sem pogledal v bar. Bila je le majhna postavitev, kjer je nekdo zložil nekaj zabojev in prinesel nekaj alkoholnega za delitev, večinoma pivo. Rachel je stala s plastično skodelico in bila videti, kot da se pogovarja, toda tam nisem videl nikogar drugega. Naslednjič, ko se je množica razšla, sem ga zagledal. Stal je pred modro lučjo, zato ga nisem mogel jasno videti, toda to, kar sem videl, mi je ostalo v spominu. Oblečen je bil v jakno iz modrega žameta, lasje pa so se črno bleščali ob beli koži. Zdelo se je, da se je modra meglica le sramežljivo ustavila njegove bledice, odmaknila je njegov osupljiv obraz, ne da bi osvetlila njegove podrobnosti, njegova zapestja pa so v temi zablestela belo. Ni se premaknil, samo strmel je in držal svojo pijačo. Ko sem jih naslednjič videl, so se mu usta premikala. Prikimala je in jo prijel za roko. Skozi simpatijo plesalcev sem jih opazoval, ko so se stiskali ob steno, in prišel je občutek, da je nekaj zelo narobe. V soboto zjutraj sem se zbudil in videl, da še vedno ni prišla domov.
+passage.questions.9.question:Kaj je rekla Rachel, kamor se je napotila, ko je plesala?
+passage.questions.9.idx:3663.0
+passage.questions.9.answers.2.text:Da se ne počuti dobro
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:19436.0
+passage.questions.9.answers.1.text:Pijača
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:19435.0
+passage.questions.9.answers.0.text:Da se je odpravila na pijačo
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:19434.0
+passage.questions.8.question:Kje je bilo razpelo
+passage.questions.8.idx:3662.0
+passage.questions.8.answers.2.text:V stari cerkvi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:19433.0
+passage.questions.8.answers.1.text:Odstranjeno
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:19432.0
+passage.questions.8.answers.0.text:Na steni
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:19431.0
+passage.questions.7.question:Kateri dve barvni sliki sta uporabljeni v tem odlomku?
+passage.questions.7.idx:3661.0
+passage.questions.7.answers.4.text:Modra in bela
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:19430.0
+passage.questions.7.answers.3.text:Rachel
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:19429.0
+passage.questions.7.answers.2.text:DJ
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:19428.0
+passage.questions.7.answers.1.text:Jakna
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:19427.0
+passage.questions.7.answers.0.text:Oranžna, črna
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19426.0
+passage.questions.6.question:Kateri vizualni dokazi kažejo, da je bila ta stavba nekoč cerkev?
+passage.questions.6.idx:3660.0
+passage.questions.6.answers.3.text:Trije vijaki so ostali v steni, od koder so odnesli razpelo
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:19425.0
+passage.questions.6.answers.2.text:DJ-jevo orodje in njegovo pivo
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:19424.0
+passage.questions.6.answers.1.text:Splošna arhitektura in križi na strehi
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:19423.0
+passage.questions.6.answers.0.text:Oltar, spovedniška škatla in vijaki, na katere je bilo obešeno razpelo
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:19422.0
+passage.questions.5.question:Kaj je ostalo, ko so v stari obokani cerkvi sneli razpelo s stene?
+passage.questions.5.idx:3659.0
+passage.questions.5.answers.2.text:Trije vijaki v steni
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19421.0
+passage.questions.5.answers.1.text:Trije vijaki
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:19420.0
+passage.questions.5.answers.0.text:Oltarna oblačila
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:19419.0
+passage.questions.4.question:Kakšno jakno je opisal, da se mu je zapomnila
+passage.questions.4.idx:3658.0
+passage.questions.4.answers.1.text:Modri žamet
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19418.0
+passage.questions.4.answers.0.text:Beli atlas
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:19417.0
+passage.questions.3.question:Kolikokrat je uporabljena slika &quot;modre&quot;?
+passage.questions.3.idx:3657.0
+passage.questions.3.answers.2.text:4.
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19416.0
+passage.questions.3.answers.1.text:5.
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:19415.0
+passage.questions.3.answers.0.text:2.
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:19414.0
+passage.questions.2.question:Pred čem je stal mož, ko se je množica razdelila?
+passage.questions.2.idx:3656.0
+passage.questions.2.answers.2.text:Pastor
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:19413.0
+passage.questions.2.answers.1.text:Modra luč
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:19412.0
+passage.questions.2.answers.0.text:Uradniki
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:19411.0
+passage.questions.10.question:Katere besedne zveze vzpostavljajo vzporednico med to zabavno sceno in tipično cerkveno sceno.
+passage.questions.10.idx:3664.0
+passage.questions.10.answers.2.text:Nekaj sto ljudi je pričalo o dirljivi pridigi DJ-ja. Na plesišču so se ljudje gibali z zaprtimi očmi in rokami v zraku
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:19439.0
+passage.questions.10.answers.1.text:Bila je le majhna postavitev, kjer je nekdo zložil nekaj zabojev in prinesel nekaj alkoholnega za delitev, večinoma pivo
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:19438.0
+passage.questions.10.answers.0.text:&quot;Gibljiva pridiga DJ-ja&quot; in &quot;ljudje so se gibali z zaprtimi očmi in rokami v zraku&quot;
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:19437.0
+passage.questions.1.question:Kdo je bilo dekle, s katerim je plesal
+passage.questions.1.idx:3655.0
+passage.questions.1.answers.1.text:Sarah
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:19410.0
+passage.questions.1.answers.0.text:Rachel
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19409.0
+passage.questions.0.question:Zakaj je Rachel nehala plesati z njim
+passage.questions.0.idx:3654
+passage.questions.0.answers.3.text:Pesem ji ni bila všeč
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:19408.0
+passage.questions.0.answers.2.text:Bila je z drugim fantom
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:19407.0
+passage.questions.0.answers.1.text:Zaobljuba
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19406
+passage.questions.0.answers.0.text:Odpravila se je do šanka
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:19405
+idx:321

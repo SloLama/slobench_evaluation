@@ -1,0 +1,143 @@
+version:1.1
+passage.text:Za večino odvetnikov bi bile polne čakalnice in sestanki, rezervirani do sredine julija, enakovredni donosni odvetniški praksi. Toda Frank Smith vozi šest let star avtomobil s 140.000 prevoženimi kilometri, plačilo starejše minimalne plače v zadnjih mesecih pa ga je postavilo v minus. Upane zvezne štipendije še niso prišle, zato je moral zvišati svoje stopnje. Od prejšnjega tedna za storitve svoje letne fundacije za pravno pomoč Northern Utah Legal namesto 25 USD zaračuna najmanj 50 USD na uro. To je na odvetniškem trgu, kjer se pristojbine gibljejo od 150 do 250 dolarjev na uro na območju Ogdena in do 400 dolarjev na uro na območju Solnega jezera. Smithova odvetniška fundacija v bistvu pomaga ljudem, ki imajo preveč denarja, da se kvalificirajo za zvezno financirano pravno službo Utah, a premalo denarja, da bi si privoščili odvetnika.
+passage.questions.9.question:Frank Smith je moral zaradi pomanjkanja česa zvišati svoje stopnje?
+passage.questions.9.idx:286.0
+passage.questions.9.answers.3.text:Zvezna nepovratna sredstva
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1498.0
+passage.questions.9.answers.2.text:Nepovratna sredstva
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1497.0
+passage.questions.9.answers.1.text:Donacije
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1496.0
+passage.questions.9.answers.0.text:Stranke
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1495.0
+passage.questions.8.question:Kdo je moral zvišati svoje stopnje, saj zvezne štipendije še niso prišle skozi?
+passage.questions.8.idx:285.0
+passage.questions.8.answers.2.text:Odvetniki
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1494.0
+passage.questions.8.answers.1.text:Frank Smith
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:1493.0
+passage.questions.8.answers.0.text:Pravne storitve v Utahu
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1492.0
+passage.questions.7.question:Kolikšen minimum naj bi Frank Smith zaračunal za uro pravnih storitev v dolarjih?
+passage.questions.7.idx:284.0
+passage.questions.7.answers.3.text:25 dolarjev
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1491.0
+passage.questions.7.answers.2.text:150 dolarjev
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1490.0
+passage.questions.7.answers.1.text:400 dolarjev
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1489.0
+passage.questions.7.answers.0.text:50 dolarjev
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1488.0
+passage.questions.6.question:Kdo je začel zaračunavati najmanj 50 USD na uro namesto 25 USD za pravne storitve?
+passage.questions.6.idx:283.0
+passage.questions.6.answers.2.text:Odvetniški trg
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1487.0
+passage.questions.6.answers.1.text:Frank Smith
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1486.0
+passage.questions.6.answers.0.text:Pravne storitve v Utahu
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1485.0
+passage.questions.5.question:Zakaj Frank Smith v svoji odvetniški pisarni ne zasluži donosne plače?
+passage.questions.5.idx:282.0
+passage.questions.5.answers.4.text:Na uro zaračuna le 50 USD in pomaga tistim, ki si ne morejo privoščiti višjih honorarjev
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:1484.0
+passage.questions.5.answers.3.text:Zaračunava nižje stopnje kot trg lawey
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1483.0
+passage.questions.5.answers.2.text:Slab odvetnik je
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1482.0
+passage.questions.5.answers.1.text:Slab je z denarjem
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1481.0
+passage.questions.5.answers.0.text:Nižje pristojbine
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:1480.0
+passage.questions.4.question:Je povprečna urna postavka na območju Ogdena nižja ali višja od urne postavke Franka Smitha?
+passage.questions.4.idx:281.0
+passage.questions.4.answers.2.text:Višje
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1479.0
+passage.questions.4.answers.1.text:Spodnji
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1478.0
+passage.questions.4.answers.0.text:Približno enako
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1477.0
+passage.questions.3.question:Kaj je pripeljalo do finančnih težav Franka Smitha?
+passage.questions.3.idx:280.0
+passage.questions.3.answers.4.text:Ni prejel prepotrebne dotacije in zaračuna veliko manj kot drugi odvetniki na tem območju
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:1476.0
+passage.questions.3.answers.3.text:Pomanjkanje nepovratnih sredstev
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:1475.0
+passage.questions.3.answers.2.text:Premalo strank
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1474.0
+passage.questions.3.answers.1.text:Biti slab z denarjem
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1473.0
+passage.questions.3.answers.0.text:Upal, da nepovratna sredstva ne bodo prišla v njegovo podjetje
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:1472.0
+passage.questions.2.question:Kateri dve stvari vodita do več denarja za druge odvetnike?
+passage.questions.2.idx:279
+passage.questions.2.answers.6.text:Višje stopnje, večje financiranje
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:1471.0
+passage.questions.2.answers.5.text:Višje stopnje in boljši denar
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:1470.0
+passage.questions.2.answers.4.text:Več strank
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1469.0
+passage.questions.2.answers.3.text:Dodelite denar
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1468.0
+passage.questions.2.answers.2.text:Lokacija
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:1467.0
+passage.questions.2.answers.1.text:Veliko strank in visoka urna postavka
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:1466
+passage.questions.2.answers.0.text:Višje pristojbine
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:1465
+passage.questions.1.question:Kakšen je poklic Franka Smitha?
+passage.questions.1.idx:278
+passage.questions.1.answers.2.text:Grant Wrighter
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1464.0
+passage.questions.1.answers.1.text:Odvetnik
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:1463
+passage.questions.1.answers.0.text:Paralegal
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1462
+passage.questions.0.question:Kdo zaračuna več za storitve: Frank Smith ali odvetniški trg na splošno?
+passage.questions.0.idx:277
+passage.questions.0.answers.2.text:Odvetniški trg
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1461.0
+passage.questions.0.answers.1.text:6 let star avto
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1460
+passage.questions.0.answers.0.text:Frank Smith
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1459
+idx:24

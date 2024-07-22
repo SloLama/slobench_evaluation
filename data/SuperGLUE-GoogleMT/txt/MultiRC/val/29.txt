@@ -1,0 +1,346 @@
+version:1.1
+passage.text:Leta 2415, potem ko je virus leta 2011 izbrisal 99% prebivalstva Zemlje, vsi preživeli naseljujejo Bregno, obzidano mesto-državo, ki ji vlada kongres znanstvenikov. Čeprav je Bregna idilična, ljudje redno izginjajo in vsi trpijo zaradi slabih sanj. on Flux je član podzemne uporniške organizacije `Monicans &#39;, ki komunicira s pomočjo tehnologije, ki omogoča telepatijo in jo vodi The Handler. Po misiji uničenja nadzorne postaje je prišla domov, da bi ugotovila, da je bila njena sestra Una umorjena, ker so jo zamenjali za Monica. Ko jo pošljejo na misijo, da bi ubili vodjo vlade Trevorja Goodchilda, odkrije, da člani sveta v tajnem puču manipulirajo tako z njo kot z Moničani. To odkritje postavlja pod vprašaj izvor vseh v Bregni; in še posebej njena osebna povezava s Trevorjem. Izkazalo se je, da so vsi v Bregni pravzaprav kloni, pridelani iz reciklirane DNK. Ker se mrtvi nenehno ponovno rojevajo v nove posameznike in še vedno nosijo delne spomine na svoje prejšnje življenje, se zaskrbljujoče sanje povečujejo. Recikliranje in kloniranje sta postala nujna, saj je prvotni virusni protistrup naredil človeka neplodnega. Trevorjevi tekoči poskusi, tako kot pri vseh njegovih prednikih-klonih, poskušajo obrniti neplodnost. on izve, da je klon prvotne Trevorjeve žene Katherine in je prvi Katherinein klon po več kot 400 letih. Eden od Trevorjevih poskusov Una je bil uspešen, ko je zanosila.
+passage.questions.9.question:Zakaj Trevor&#39;s eksperimentira s poskusi in njegovimi predniki?
+passage.questions.9.idx:348.0
+passage.questions.9.answers.4.text:Za denar
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:1805.0
+passage.questions.9.answers.3.text:Za znanstveni napredek
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1804.0
+passage.questions.9.answers.2.text:Neplodnost poskuša obrniti
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1803.0
+passage.questions.9.answers.1.text:Zaradi neplodnosti, ki jo povzroča protistrup virusa
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:1802.0
+passage.questions.9.answers.0.text:Za zdravilo proti virusu
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1801.0
+passage.questions.8.question:Ta mož, pokojni mož deklice po imenu Katherine, je vladni vodja.
+passage.questions.8.idx:347.0
+passage.questions.8.answers.3.text:Bregna Goodchild
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:1800.0
+passage.questions.8.answers.2.text:Trevor Bregna
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1799.0
+passage.questions.8.answers.1.text:Trevor Goodchild
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:1798.0
+passage.questions.8.answers.0.text:Flux Goodchild
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1797.0
+passage.questions.7.question:Je bil Trevorjev poskus kloniranja uspešen?
+passage.questions.7.idx:346.0
+passage.questions.7.answers.3.text:Iz besedila ni jasno
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1796.0
+passage.questions.7.answers.2.text:Ja, bilo je. Una je zanosila
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:1795.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1794.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:1793.0
+passage.questions.6.question:Kakšno je poslanstvo Fluxa?
+passage.questions.6.idx:345.0
+passage.questions.6.answers.5.text:Komunicirajte s pomočjo telepatije
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:1792.0
+passage.questions.6.answers.4.text:Misija uničenja nadzorne postaje
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:1791.0
+passage.questions.6.answers.3.text:Uničenje nadzorne postaje
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:1790.0
+passage.questions.6.answers.2.text:Za ustvarjanje klonov
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1789.0
+passage.questions.6.answers.1.text:Poiskati novo kolonijo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1788.0
+passage.questions.6.answers.0.text:Za ustavitev virusa
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1787.0
+passage.questions.5.question:Kdo je bil uspešen klon in tudi njegova sestra?
+passage.questions.5.idx:344.0
+passage.questions.5.answers.3.text:Pretok
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1786.0
+passage.questions.5.answers.2.text:Katherine
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1785.0
+passage.questions.5.answers.1.text:Una
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1784.0
+passage.questions.5.answers.0.text:Trevor
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1783.0
+passage.questions.4.question:Katero odkritje dvomi o poreklu vseh v Bregni?
+passage.questions.4.idx:343.0
+passage.questions.4.answers.5.text:Da je njena sestra mrtva
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:1782.0
+passage.questions.4.answers.4.text:Prijavljen za ZDA
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1781.0
+passage.questions.4.answers.3.text:Odkritje, da člani sveta v tajnem puču manipulirajo tako z njo kot z Moničani
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:1780.0
+passage.questions.4.answers.2.text:Tako z Monicanci člani sveta manipulirajo s tajnim državnim udarom
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1779.0
+passage.questions.4.answers.1.text:Da jih je virus naredil neplodne
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1778.0
+passage.questions.4.answers.0.text:Da so kloni
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1777.0
+passage.questions.3.question:Kako je ime prvotni ženi vladnega vodje?
+passage.questions.3.idx:342.0
+passage.questions.3.answers.3.text:Katherine
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:1776.0
+passage.questions.3.answers.2.text:Una
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1775.0
+passage.questions.3.answers.1.text:Monica
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1774.0
+passage.questions.3.answers.0.text:Bregna
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1773.0
+passage.questions.2.question:Kaj trpijo preživeli ljudje?
+passage.questions.2.idx:341
+passage.questions.2.answers.5.text:Neplodnost
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:1772.0
+passage.questions.2.answers.4.text:Barnett
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:1771.0
+passage.questions.2.answers.3.text:Slabe sanje
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:1770.0
+passage.questions.2.answers.2.text:Kratko življenje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1769.0
+passage.questions.2.answers.1.text:Luskasta koža
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:1768
+passage.questions.2.answers.0.text:Sončna občutljivost
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1767
+passage.questions.19.question:Je bil vsak Bregna klon
+passage.questions.19.idx:358.0
+passage.questions.19.answers.3.text:Da
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:1857.0
+passage.questions.19.answers.2.text:Bregna
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:1856.0
+passage.questions.19.answers.1.text:Klon
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:1855.0
+passage.questions.19.answers.0.text:Ne
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:1854.0
+passage.questions.18.question:Kaj se je zgodilo z Bregno leta 2011?
+passage.questions.18.idx:357.0
+passage.questions.18.answers.4.text:Izbruhnil je vulkan
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:1853.0
+passage.questions.18.answers.3.text:Virus je leta 2011 izbrisal 99% prebivalstva Zemlje, zato so se infiltrirali v Bregno
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:1852.0
+passage.questions.18.answers.2.text:Znanstveni eksperiment
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:1851.0
+passage.questions.18.answers.1.text:Bregna je idilična, ljudje redno izginjajo in vsi trpijo zaradi slabih sanj
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:1850.0
+passage.questions.18.answers.0.text:Prizadel orkan
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:1849.0
+passage.questions.17.question:Kako se imenuje obzidana mestna država, v kateri so prebivali vsi preživeli ljudje in s kakšnimi težavami so se prebivalci srečevali v mestu?
+passage.questions.17.idx:356.0
+passage.questions.17.answers.4.text:Bregna - ljudje rutinsko izginjajo in vsi trpijo zaradi slabih sanj
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:1848.0
+passage.questions.17.answers.3.text:Bregna - umirajo zaradi virusa
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:1847.0
+passage.questions.17.answers.2.text:Pretok - ne morejo zanositi
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:1846.0
+passage.questions.17.answers.1.text:Bregna - deformirali so mlade
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:1845.0
+passage.questions.17.answers.0.text:Bregna, vsi so imeli težave s slabimi sanjami
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:1844.0
+passage.questions.16.question:Kakšne so možnosti prejšnjih življenj?
+passage.questions.16.idx:355.0
+passage.questions.16.answers.5.text:DNK
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:1843.0
+passage.questions.16.answers.4.text:Sanje so spomini
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:1842.0
+passage.questions.16.answers.3.text:Dojenčki
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:1841.0
+passage.questions.16.answers.2.text:Recikliranje in kloniranje
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:1840.0
+passage.questions.16.answers.1.text:Delni spomini na njuna prejšnja življenja
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:1839.0
+passage.questions.16.answers.0.text:Virus
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:1838.0
+passage.questions.15.question:Kdo je vodja misije?
+passage.questions.15.idx:354.0
+passage.questions.15.answers.4.text:Una
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:1837.0
+passage.questions.15.answers.3.text:Prijatelji
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:1836.0
+passage.questions.15.answers.2.text:Trevor Goodchild
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:1835.0
+passage.questions.15.answers.1.text:Vodnik
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1834.0
+passage.questions.15.answers.0.text:Pretok
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:1833.0
+passage.questions.14.question:Zakaj sta bila potrebna recikliranje in kloniranje ljudi in kakšen je bil negativen učinek tega?
+passage.questions.14.idx:353.0
+passage.questions.14.answers.5.text:Virus - prvotni virusni protistrup je ljudi naredil neplodne
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:1832.0
+passage.questions.14.answers.4.text:Ker je prvotni virusni protistrup naredil človeka neplodnega, negativni učinek pa je bil, da so imeli vsi kloni moteče sanje
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:1831.0
+passage.questions.14.answers.3.text:Tajna služba
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:1830.0
+passage.questions.14.answers.2.text:Neplodnost - potrebovali so delavce
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1829.0
+passage.questions.14.answers.1.text:Virus - zmanjkalo jim je žensk
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1828.0
+passage.questions.14.answers.0.text:Virus - ostalo jim je malo ljudi
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1827.0
+passage.questions.13.question:Kdo je izvedel poskuse, katerih cilj je bil obrniti neplodnost klonov in kako se imenuje prvi uspešni klon, ki je zanosil?
+passage.questions.13.idx:352.0
+passage.questions.13.answers.4.text:Trevor, prvi uspešni klon, ki je zanosil, je bila Una
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:1826.0
+passage.questions.13.answers.3.text:Trevor Goodchild - Katherine
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:1825.0
+passage.questions.13.answers.2.text:Bregna- Katherine
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:1824.0
+passage.questions.13.answers.1.text:Trevor Goodchild- Una
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:1823.0
+passage.questions.13.answers.0.text:Una- Katherine
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1822.0
+passage.questions.12.question:Kdo je bil umorjen namesto vladnega vodje?
+passage.questions.12.idx:351.0
+passage.questions.12.answers.3.text:Pretok
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:1821.0
+passage.questions.12.answers.2.text:Katherine
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1820.0
+passage.questions.12.answers.1.text:Una
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1819.0
+passage.questions.12.answers.0.text:Trevor
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1818.0
+passage.questions.11.question:Kako je ime vladnega voditelja na Fluxu poslano ubijati in kakšna je njena povezava z njim?
+passage.questions.11.idx:350.0
+passage.questions.11.answers.5.text:Trevor Goodchild - ona je njegova hči
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:1817.0
+passage.questions.11.answers.4.text:Trevor Goodchild - ona je sestra
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:1816.0
+passage.questions.11.answers.3.text:Trevor Goodchild - je klon prvotne Trevorjeve žene
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:1815.0
+passage.questions.11.answers.2.text:Katherine Goodchild - je klon prvotne Trevorjeve žene
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:1814.0
+passage.questions.11.answers.1.text:Trevor Goodchild, njena povezava z njim je, da je klon njegove prvotne žene
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:1813.0
+passage.questions.11.answers.0.text:Katherine Goodchild - ona je sestra
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:1812.0
+passage.questions.10.question:Zakaj ljudje trpijo zaradi slabih sanj?
+passage.questions.10.idx:349.0
+passage.questions.10.answers.5.text:Vlada
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:1811.0
+passage.questions.10.answers.4.text:Še vedno nosijo delne spomine na svoje prejšnje življenje
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:1810.0
+passage.questions.10.answers.3.text:Sanjajo o virusu
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1809.0
+passage.questions.10.answers.2.text:Spominjajo se svojega ustvarjanja
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:1808.0
+passage.questions.10.answers.1.text:Virus jim daje nočne more
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1807.0
+passage.questions.10.answers.0.text:Virus
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1806.0
+passage.questions.1.question:Kakšnega eksperimenta so ljudje Bregne?
+passage.questions.1.idx:340
+passage.questions.1.answers.4.text:Znanstveni poskus kolonije
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1766.0
+passage.questions.1.answers.3.text:Klon, vzgojen iz reciklirane DNA
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1765.0
+passage.questions.1.answers.2.text:Poskus z virusi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1764.0
+passage.questions.1.answers.1.text:Poskus z virusnim protistrupom
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1763
+passage.questions.1.answers.0.text:Kloniranje
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:1762
+passage.questions.0.question:Kako je ime uporniška organizacija?
+passage.questions.0.idx:339
+passage.questions.0.answers.4.text:Dobre otroke
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1761.0
+passage.questions.0.answers.3.text:Pretok
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:1760.0
+passage.questions.0.answers.2.text:Bregnans
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1759.0
+passage.questions.0.answers.1.text:Tehnologija, ki omogoča telepatijo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1758
+passage.questions.0.answers.0.text:Moničani
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1757
+idx:29

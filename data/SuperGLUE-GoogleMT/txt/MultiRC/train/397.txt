@@ -1,0 +1,334 @@
+version:1.1
+passage.text:Jennifer Baum v svoji pisarni, ki je postala pisarna, dela pod naraščajočim puščanjem, zaradi katerega se strop rjavi in sesuva. V vedrih, nameščenih za lovljenje vode, raste plesen. Skomigne jo. Zunaj svoje pisarne je prilepila prozorno plastično obleko in napis z napisom: &quot;Vsi zaposleni si morajo pred vstopom nadeti zaščitno opremo.&quot; Takšno je življenje v limbu. Skoraj leto dni po 11. septembru Društvo za pravno pomoč - odvetniki newyorških revnih in brezdomcev - ostaja brezdomcev. Zaradi skrbi za okolje se neprofitni organizaciji prepoveduje vrnitev na svoj sedež 90 Church St., nasproti strani Svetovnega trgovinskega centra. Pravna pomoč ima neprijetno družbo. Glede na analizo nepremičninskega posredništva s sedežem na Manhattnu TenantWise.com Inc.in Crain&#39;s New York Business nad 11.500 Newyorčanov še vedno dela začasno. To je 8% od 137.000 delavcev, ki so izgubili pisarne ali dostop do njih ob propadu stolpov dvojčkov. 450 razseljenih odvetnikov in uslužbencev pravne pomoči je zadnjih 12 mesecev preživelo v nekdanjih neizkoriščenih prostorih - nekateri neuporabljeni iz utemeljenega razloga - v drugih neprofitnih pisarnah. Lahko mine še leto in pol, preden se vrnejo na svoje stare mize. Soočili so se s težkimi delovnimi razmerami, saj povpraševanje po storitvah pravne pomoči narašča zaradi 11. septembra in poslabšanja gospodarstva. Civilna delitev je razporejena med nekaj mestnih četrti. Njihovi papirji in dokumenti, vredni približno 20.000 škatel, so zaljubljeni v skladišče v kraju Linden v zvezni državi NJ. &quot;Štejem dneve, ko bomo lahko vse dele dobili na enem mestu,&quot; pravi Steven Banks, pridruženi glavni odvetnik pravne pomoči. V spominih izgnanih delavcev je stara pisarna dosegla mitske razsežnosti. Pravijo, da so lesene obloge in preproge lahko hladile čustva in dvigovale razpoloženje. Pisarna za pravno pomoč na ulici Montague v Brooklyn Heightsu, kjer je 65 razseljenih delavcev tlakovalo prostor sredi zbledelih in opraskanih sten, je bolj podobna ugodni kleti.
+passage.questions.9.question:V katerem oddelku je shranjenih približno 20.000 zabojev papirjev in dokumentov?
+passage.questions.9.idx:4535.0
+passage.questions.9.answers.4.text:Vlada
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:23954.0
+passage.questions.9.answers.3.text:Paralegals
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:23953.0
+passage.questions.9.answers.2.text:Civilna delitev pravne pomoči
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:23952.0
+passage.questions.9.answers.1.text:IRS
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:23951.0
+passage.questions.9.answers.0.text:Civilna delitev
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:23950.0
+passage.questions.8.question:Kako se imenuje neprofitna organizacija in kje se nahaja?
+passage.questions.8.idx:4534.0
+passage.questions.8.answers.6.text:Društvo za band band
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:23949.0
+passage.questions.8.answers.5.text:Društvo za pravno pomoč
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:23948.0
+passage.questions.8.answers.4.text:New York City
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:23947.0
+passage.questions.8.answers.3.text:Philadelphia
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:23946.0
+passage.questions.8.answers.2.text:Patricia
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:23945.0
+passage.questions.8.answers.1.text:Crain&#39;s New York Business
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:23944.0
+passage.questions.8.answers.0.text:Društvo za pravno pomoč nasproti stolpov dvojčkov
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:23943.0
+passage.questions.7.question:Zunaj čigave pisarne je napis, na katerem piše, da mora pred vstopom nositi zaščitno opremo?
+passage.questions.7.idx:4533.0
+passage.questions.7.answers.4.text:Finančni direktorji
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:23942.0
+passage.questions.7.answers.3.text:Vsi zaposleni
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:23941.0
+passage.questions.7.answers.2.text:Jennifer Baum
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:23940.0
+passage.questions.7.answers.1.text:Jennifer Baum
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23939.0
+passage.questions.7.answers.0.text:Več kot 11.500 Newyorčanov
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:23938.0
+passage.questions.6.question:Od kod prihaja voda v vedra?
+passage.questions.6.idx:4532.0
+passage.questions.6.answers.6.text:Na parkirišču
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:23937.0
+passage.questions.6.answers.5.text:Steven Banks
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:23936.0
+passage.questions.6.answers.4.text:Širjenje puščanja tvori strop njenega skladišča, ki je postalo pisarna
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:23935.0
+passage.questions.6.answers.3.text:Od zunaj
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:23934.0
+passage.questions.6.answers.2.text:Urad za pravno pomoč
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:23933.0
+passage.questions.6.answers.1.text:Puščanje stropa
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:23932.0
+passage.questions.6.answers.0.text:New York Business
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:23931.0
+passage.questions.5.question:Kateri organizaciji se je zaradi skrbi za okolje prepovedala vrnitev na svoj sedež 90 Church St., nasproti strani Svetovnega trgovinskega centra?
+passage.questions.5.idx:4531.0
+passage.questions.5.answers.6.text:Leta
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:23930.0
+passage.questions.5.answers.5.text:Društvo za band band
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:23929.0
+passage.questions.5.answers.4.text:Nepremičninsko posredništvo s sedežem na Manhattnu
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:23928.0
+passage.questions.5.answers.3.text:Društvo za pravno pomoč
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:23927.0
+passage.questions.5.answers.2.text:Društvo za pravno pomoč
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:23926.0
+passage.questions.5.answers.1.text:Deloittes
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:23925.0
+passage.questions.5.answers.0.text:Crain&#39;s New York Business
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:23924.0
+passage.questions.4.question:Lahko mine še leto in pol, preden se delavci katere organizacije vrnejo na svoje stare mize?
+passage.questions.4.idx:4530.0
+passage.questions.4.answers.5.text:Društvo za band band
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:23923.0
+passage.questions.4.answers.4.text:Johnson in Johnson
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:23922.0
+passage.questions.4.answers.3.text:Nepremičninsko posredništvo s sedežem na Manhattnu
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:23921.0
+passage.questions.4.answers.2.text:Društvo za pravno pomoč
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:23920.0
+passage.questions.4.answers.1.text:Društvo za pravno pomoč
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:23919.0
+passage.questions.4.answers.0.text:Crain&#39;s New York Business
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:23918.0
+passage.questions.3.question:Iz katerega materiala je narejena obleka pisarne Jennifer Baum?
+passage.questions.3.idx:4529.0
+passage.questions.3.answers.3.text:Prozorna plastika
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:23917.0
+passage.questions.3.answers.2.text:Rjava in drobtina
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:23916.0
+passage.questions.3.answers.1.text:Poliester
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:23915.0
+passage.questions.3.answers.0.text:Plastika
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:23914.0
+passage.questions.2.question:Koliko časa bo trajalo, da se delavci Društva za pravno pomoč vrnejo v svoje stare pisarne?
+passage.questions.2.idx:4528.0
+passage.questions.2.answers.4.text:Leto
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:23913.0
+passage.questions.2.answers.3.text:12 mesecev
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:23912.0
+passage.questions.2.answers.2.text:Leto in pol
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:23911.0
+passage.questions.2.answers.1.text:18 mesecev
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:23910.0
+passage.questions.2.answers.0.text:11. september
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:23909.0
+passage.questions.16.question:Kakšno podjetje je društvo za pravno pomoč?
+passage.questions.16.idx:4542.0
+passage.questions.16.answers.6.text:Odvetniki
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:23997.0
+passage.questions.16.answers.5.text:Posredovanje pri nepremičninah
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:23996.0
+passage.questions.16.answers.4.text:Brezposelna
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:23995.0
+passage.questions.16.answers.3.text:Podpora brezdomcem
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:23994.0
+passage.questions.16.answers.2.text:Družba za finančno pomoč
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:23993.0
+passage.questions.16.answers.1.text:Neprofitna organizacija
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:23992.0
+passage.questions.16.answers.0.text:Pisarniško delo
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:23991.0
+passage.questions.15.question:Kolikšen je odstotek od 137.000 delavcev, ki so jih izgubili pisarni, 11.500 delavcev, ki so jih razselili stolpi dvojčkov?
+passage.questions.15.idx:4541.0
+passage.questions.15.answers.3.text:90%
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:23990.0
+passage.questions.15.answers.2.text:11500%
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:23989.0
+passage.questions.15.answers.1.text:8%
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:23988.0
+passage.questions.15.answers.0.text:5%
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:23987.0
+passage.questions.14.question:Kaj se je zgodilo z nekaterimi razseljenimi uslužbenci pravne pomoči?
+passage.questions.14.idx:4540.0
+passage.questions.14.answers.5.text:Upokojen
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:23986.0
+passage.questions.14.answers.4.text:Viri so bili razporejeni na prej neuporabljena mesta, nekaj zelo slabega stanja
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:23985.0
+passage.questions.14.answers.3.text:Ostal dobro in brez strehe nad glavo
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:23984.0
+passage.questions.14.answers.2.text:Premaknjeno
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:23983.0
+passage.questions.14.answers.1.text:Brooklyn Heights
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:23982.0
+passage.questions.14.answers.0.text:Nekateri so odstopili
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:23981.0
+passage.questions.13.question:Kakšnih spominov se delavci pravne pomoči spominjajo na staro pisarno?
+passage.questions.13.idx:4539.0
+passage.questions.13.answers.5.text:Stara pisarna je dosegla mitske razsežnosti
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:23980.0
+passage.questions.13.answers.4.text:Lesene obloge in preproge so lahko ohladile čustva in dvignile razpoloženje
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:23979.0
+passage.questions.13.answers.3.text:65 razseljenih delavcev
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:23978.0
+passage.questions.13.answers.2.text:Preproge
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:23977.0
+passage.questions.13.answers.1.text:Obledele in opraskane stene
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:23976.0
+passage.questions.13.answers.0.text:Čustva in žgane pijače
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:23975.0
+passage.questions.12.question:Kje je bil prvotni naslov sedeža Društva za pravno pomoč
+passage.questions.12.idx:4538.0
+passage.questions.12.answers.4.text:Church Church
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:23974.0
+passage.questions.12.answers.3.text:90 Church St, nasproti spletnega mesta Svetovnega trgovinskega centra
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:23973.0
+passage.questions.12.answers.2.text:123 Svetovni trgovski center Blvd
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:23972.0
+passage.questions.12.answers.1.text:New York
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:23971.0
+passage.questions.12.answers.0.text:Skladišče v Lindenu, NJ
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:23970.0
+passage.questions.11.question:Kaj je Jennifer Baum skomignila?
+passage.questions.11.idx:4537.0
+passage.questions.11.answers.7.text:Delo v naraščajočem puščanju
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:23969.0
+passage.questions.11.answers.6.text:Plesen raste v vedrih, da lovi vodo
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:23968.0
+passage.questions.11.answers.5.text:Strop postane rjav in se ruši
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:23967.0
+passage.questions.11.answers.4.text:Delo v skladišču
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:23966.0
+passage.questions.11.answers.3.text:Vedro, ki lovi vodo
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:23965.0
+passage.questions.11.answers.2.text:Pušča
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:23964.0
+passage.questions.11.answers.1.text:V vedro
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:23963.0
+passage.questions.11.answers.0.text:Zalepila si je plastično vrečko
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:23962.0
+passage.questions.10.question:Zakaj morajo zaposleni nositi zaščitno opremo, preden vstopijo v pisarno Jennifer Baum?
+passage.questions.10.idx:4536.0
+passage.questions.10.answers.6.text:Ker takšno je življenje v limbu
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:23961.0
+passage.questions.10.answers.5.text:Ker Društvo za pravno pomoč - odvetniki newyorških revnih in brezdomcev - ostaja, brezdomcev
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:23960.0
+passage.questions.10.answers.4.text:Zaradi plesni
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:23959.0
+passage.questions.10.answers.3.text:Ker so se stolpi dvojčici zrušili
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:23958.0
+passage.questions.10.answers.2.text:Ker je prilepila prozorno plastično obleko
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:23957.0
+passage.questions.10.answers.1.text:Ker je bilo to del njihovega prava družb
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:23956.0
+passage.questions.10.answers.0.text:Strop se ruši
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:23955.0
+passage.questions.1.question:Katera neprofitna organizacija je imela sedež na naslovu 90 Church St., nasproti spletnega mesta Svetovnega trgovinskega centra?
+passage.questions.1.idx:4527.0
+passage.questions.1.answers.3.text:Nepremičninsko posredništvo s sedežem na Manhattnu
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:23908.0
+passage.questions.1.answers.2.text:Društvo za band band
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23907.0
+passage.questions.1.answers.1.text:Društvo za pravno pomoč
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:23906.0
+passage.questions.1.answers.0.text:Crain&#39;s New York Business
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:23905.0
+passage.questions.0.question:Ki je pred pisarno postavila napis, na katerem piše: &quot;Vsi zaposleni si morajo nadeti zaščitno opremo, preden vstopijo.&quot;
+passage.questions.0.idx:4526
+passage.questions.0.answers.5.text:Finančni direktorji
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:23904.0
+passage.questions.0.answers.4.text:Vsi zaposleni
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:23903.0
+passage.questions.0.answers.3.text:Hišniško osebje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:23902.0
+passage.questions.0.answers.2.text:Jennifer Baum
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23901.0
+passage.questions.0.answers.1.text:Jennifer Baum
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:23900
+passage.questions.0.answers.0.text:Več kot 11.500 Newyorčanov
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23899
+idx:397

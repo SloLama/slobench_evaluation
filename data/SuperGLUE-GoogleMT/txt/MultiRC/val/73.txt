@@ -1,0 +1,265 @@
+version:1.1
+passage.text:Zemlja je na svoji osi nagnjena 23 1/2. To pomeni, da ima ena zemeljska krogla, ko se vrti, daljše dni s krajšimi nočmi. Hkrati ima druga polobla krajše dneve in daljše noči. Na primer, na severni polobli se poletje začne 21. junija. Na ta datum je severni pol usmerjen neposredno proti Soncu. To je najdaljši dan in najkrajša noč v letu na severni polobli. Južni pol je usmerjen. Polkrogla, ki je nagnjena stran od Sonca, je hladnejša, ker sprejema manj neposrednih žarkov. Ko Zemlja kroži okoli Sonca, gre severna polobla od zime do pomladi, nato poleti in jeseni. Južna polobla dela nasprotno od poletja do jeseni do zime do pomladi. Ko je zima na severni polobli, je poletje na južni polobli in obratno. Kaj to pomeni za vas? Če živite v Severni Ameriki, je 1. julij običajno zelo topel dan. Če bi potovali v Južno Avstralijo, bi potrebovali težek plašč. Na ekvatorju se letni časi nikoli ne spreminjajo. Posledično ostajajo povprečne dnevne temperature enake. Poletja in zime ni, kot jih poznamo.
+passage.questions.9.question:Kdaj je severni pol usmerjen neposredno proti soncu?
+passage.questions.9.idx:842.0
+passage.questions.9.answers.3.text:Dan čez zimo.
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:4244.0
+passage.questions.9.answers.2.text:Dan čez poletje.
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:4243.0
+passage.questions.9.answers.1.text:21. julija
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4242.0
+passage.questions.9.answers.0.text:21. junija
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:4241.0
+passage.questions.8.question:Zakaj ima ena polobla krajši dan in daljše noči, ko se zemlja vrti?
+passage.questions.8.idx:841.0
+passage.questions.8.answers.3.text:Samo se.
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4240.0
+passage.questions.8.answers.2.text:Ker se zemlja nagiba, kar spremeni gravitacijo, kar povzroči spremembo temperature.
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4239.0
+passage.questions.8.answers.1.text:Ker je nagnjen stran od sonca
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4238.0
+passage.questions.8.answers.0.text:Ker je zemlja nagnjena za 23 1/2 stopinje.
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4237.0
+passage.questions.7.question:Kje na Zemlji ostaja povprečna temperatura enaka?
+passage.questions.7.idx:840.0
+passage.questions.7.answers.1.text:Topli kraji
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4236.0
+passage.questions.7.answers.0.text:Na ekvatorju.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4235.0
+passage.questions.6.question:Katero sezono doživlja južna Avstralija, medtem ko je v Severni Ameriki zima?
+passage.questions.6.idx:839.0
+passage.questions.6.answers.1.text:Pomlad
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4234.0
+passage.questions.6.answers.0.text:Poletje.
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4233.0
+passage.questions.5.question:Zakaj bi imela ena polobla (severna ali južna) daljše dni in krajše noči kot nasprotna polobla?
+passage.questions.5.idx:838.0
+passage.questions.5.answers.5.text:Ker je za preživetje številnih živali potrebna sprememba sezone.
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:4232.0
+passage.questions.5.answers.4.text:Zaradi gravitacije.
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:4231.0
+passage.questions.5.answers.3.text:Zemlja je čudna
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4230.0
+passage.questions.5.answers.2.text:Zaradi nagiba zemlje ena polobla nima neposrednih sončnih žarkov
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4229.0
+passage.questions.5.answers.1.text:Zemeljski nagib ga usmeri na drug del sonca.
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4228.0
+passage.questions.5.answers.0.text:Ker je Zemlja med vrtenjem nagnjena na svojo os.
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4227.0
+passage.questions.4.question:Ko doživlja južna polobla od jeseni do zime, kaj doživlja severna polobla?
+passage.questions.4.idx:837.0
+passage.questions.4.answers.3.text:Od poletja do zime.
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4226.0
+passage.questions.4.answers.2.text:Od zime do pomladi.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4225.0
+passage.questions.4.answers.1.text:Od poletja do pomladi.
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4224.0
+passage.questions.4.answers.0.text:Od pomladi do poletja.
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4223.0
+passage.questions.3.question:Katera sezona se začne na severni polobli, ko je severni pol usmerjen neposredno proti Soncu?
+passage.questions.3.idx:836.0
+passage.questions.3.answers.1.text:Pomlad
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4222.0
+passage.questions.3.answers.0.text:Poletje.
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4221.0
+passage.questions.2.question:Kaj se zgodi na ekvatorju?
+passage.questions.2.idx:835
+passage.questions.2.answers.6.text:Vedno je poletje.
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:4220.0
+passage.questions.2.answers.5.text:Dnevi so najdaljši poleti.
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:4219.0
+passage.questions.2.answers.4.text:Dnevi so vedno najdaljši.
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4218.0
+passage.questions.2.answers.3.text:Letni časi se nikoli ne spreminjajo in povprečne dnevne temperature ostanejo enake, zato ni poletja in zime, kot jih poznamo.
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4217.0
+passage.questions.2.answers.2.text:Letni časi se nikoli ne spreminjajo
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4216.0
+passage.questions.2.answers.1.text:ekvator je celo leto v isti sezoni
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:4215
+passage.questions.2.answers.0.text:ekvator ne doživlja poletja ali zime
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:4214
+passage.questions.19.question:Zakaj se na ekvatorju letni časi ne spreminjajo?
+passage.questions.19.idx:852.0
+passage.questions.19.answers.3.text:Blizu je pola.
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:4279.0
+passage.questions.19.answers.2.text:ekvator zemeljski nagib ne vpliva
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:4278.0
+passage.questions.19.answers.1.text:Ker je vedno nagnjen proti soncu.
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:4277.0
+passage.questions.19.answers.0.text:Ker se ekvator nikoli ne nagne stran ali proti soncu, da bi dobili manj ali več sončnih žarkov
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:4276.0
+passage.questions.18.question:Kako nagibanje Zemlje vpliva na dolžino dni in noči?
+passage.questions.18.idx:851.0
+passage.questions.18.answers.3.text:Ne.
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:4275.0
+passage.questions.18.answers.2.text:Ljudje na eni polobli čutijo večjo gravitacijo kot drugo.
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:4274.0
+passage.questions.18.answers.1.text:Spremeni, kako dolg je vsak dan in noč.
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:4273.0
+passage.questions.18.answers.0.text:ko se Zemlja vrti, ima ena polobla daljše dni s krajšimi nočmi, druga polobla ima krajše dni in daljše noči
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:4272.0
+passage.questions.17.question:Kaj je posebnega pri 21. juniju?
+passage.questions.17.idx:850.0
+passage.questions.17.answers.5.text:Takrat se južni pol obrne neposredno proti soncu.
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:4271.0
+passage.questions.17.answers.4.text:Pomeni začetek pomladi.
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:4270.0
+passage.questions.17.answers.3.text:Zaznamuje konec pomladi.
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:4269.0
+passage.questions.17.answers.2.text:severni pol kaže neposredno na sonce
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:4268.0
+passage.questions.17.answers.1.text:Na ta datum je severni pol usmerjen neposredno proti Soncu. To je najdaljši dan in najkrajša noč v letu na severni polobli
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:4267.0
+passage.questions.17.answers.0.text:Zaznamuje začetek poletja na severni polobli.
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:4266.0
+passage.questions.16.question:Ali države na ekvatorju doživljajo zimo?
+passage.questions.16.idx:849.0
+passage.questions.16.answers.1.text:Da
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:4265.0
+passage.questions.16.answers.0.text:št
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:4264.0
+passage.questions.15.question:Ali različne poloble doživljajo drugačno vreme?
+passage.questions.15.idx:848.0
+passage.questions.15.answers.1.text:Ne
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:4263.0
+passage.questions.15.answers.0.text:Da
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:4262.0
+passage.questions.14.question:Zakaj imajo poloble različno dolgo dneve in noči?
+passage.questions.14.idx:847.0
+passage.questions.14.answers.4.text:Imajo različne temperature
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:4261.0
+passage.questions.14.answers.3.text:Ker se zemeljska gravitacija nenehno spreminja.
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:4260.0
+passage.questions.14.answers.2.text:Ker je zemlja nagnjena na svojo os.
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:4259.0
+passage.questions.14.answers.1.text:Zemeljski nagib jih usmerja na različne oddaljenosti od sonca.
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:4258.0
+passage.questions.14.answers.0.text:zaradi nagiba zemlje
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:4257.0
+passage.questions.13.question:Ali imata severna in južna polobla dneve in noči različno dolžino?
+passage.questions.13.idx:846.0
+passage.questions.13.answers.1.text:Ne
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:4256.0
+passage.questions.13.answers.0.text:Da
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:4255.0
+passage.questions.12.question:Kje na zemlji ni poletja ali zime?
+passage.questions.12.idx:845.0
+passage.questions.12.answers.1.text:Avstralija
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4254.0
+passage.questions.12.answers.0.text:Ekvator.
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:4253.0
+passage.questions.11.question:Kje na svetu ostajajo povprečne dnevne temperature enake?
+passage.questions.11.idx:844.0
+passage.questions.11.answers.3.text:New York
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4252.0
+passage.questions.11.answers.2.text:Severni pol
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4251.0
+passage.questions.11.answers.1.text:Avstralija
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4250.0
+passage.questions.11.answers.0.text:Ekvator.
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:4249.0
+passage.questions.10.question:Kateri dan je najdaljši dan in najkrajša noč v letu na severni polobli?
+passage.questions.10.idx:843.0
+passage.questions.10.answers.3.text:12. junija
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:4248.0
+passage.questions.10.answers.2.text:21. julij
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4247.0
+passage.questions.10.answers.1.text:21. avgusta
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4246.0
+passage.questions.10.answers.0.text:21. junija
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4245.0
+passage.questions.1.question:Kaj se zgodi 21. junija na severni polobli?
+passage.questions.1.idx:834
+passage.questions.1.answers.3.text:Poletje se konča.
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4213.0
+passage.questions.1.answers.2.text:Poletje se začne. To je najdaljši dan in najkrajša noč v letu na južni polobli.
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4212.0
+passage.questions.1.answers.1.text:poletje je
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:4211
+passage.questions.1.answers.0.text:Na ta datum je severni pol usmerjen neposredno proti Soncu; to je najdaljši dan in najkrajša noč v letu na severni polobli.
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:4210
+passage.questions.0.question:Kaj pomeni nagib Zemlje?
+passage.questions.0.idx:833
+passage.questions.0.answers.3.text:Pomeni, da je zemlja ravna.
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4209.0
+passage.questions.0.answers.2.text:To pomeni, da ima ena zemljina, ko se vrti, daljše dneve s krajšimi nočmi, hkrati pa druga polobla krajše dneve in daljše noči.
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:4208.0
+passage.questions.0.answers.1.text:poloble doživljajo dan in noč različno dolgo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4207
+passage.questions.0.answers.0.text:ko se Zemlja vrti, ima ena polobla daljše dni s krajšimi nočmi.
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4206
+idx:73

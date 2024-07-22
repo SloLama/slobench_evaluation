@@ -1,0 +1,6 @@
+﻿choice1: Voznik je celo pot govoril.
+choice2:Voznik je narobe zavil.
+idx:128
+label:1
+premise:Pot je trajala dolgo.
+question:cause

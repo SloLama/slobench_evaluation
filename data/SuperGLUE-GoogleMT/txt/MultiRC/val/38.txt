@@ -1,0 +1,257 @@
+version:1.1
+passage.text:Aleksander je z materjo pobegnil iz Makedonije in jo odpeljal skupaj z bratom, kraljem Aleksandrom Epirskim v Dodoni, prestolnici Molosij. Nadaljeval je do Ilirije, kjer se je zatekel k ilirskemu kralju in bil gost kot gost, čeprav jih je nekaj let prej premagal v bitki. Vendar se zdi, da se Philip ni nikoli hotel odreči svojega politično in vojaško izobraženega sina. V skladu s tem se je Alexander po prizadevanjih družinskega prijatelja Demarata, ki je posredoval med obema stranema, po šestih mesecih vrnil v Makedonijo. V naslednjem letu je perzijski satrap (guverner) Karije Pixodarus ponudil svojo najstarejšo hčer Aleksandrovemu polbratu Filipu Arhidaeju. Olimpija in več Aleksandrovih prijateljev je predlagalo, da je to pokazalo, da namerava Filip Arrideja narediti za svojega naslednika. Aleksander se je odzval tako, da je poslal igralca Tesalla iz Korinta, da je Pixodarju dejal, da ne bi smel ponuditi roke svoje hčere nezakonskemu sinu, temveč Aleksandru. Ko je Filip slišal za to, je ustavil pogajanja in oštel Aleksandra, ker se je hotel poročiti s hčerko Kariana, in pojasnil, da želi zanj boljšo nevesto. Filip je izgnal štiri Aleksandrove prijatelje, Harpala, Nearha, Ptolemeja in Erigija, Korinčani pa so mu v verigah pripeljali Tesala.
+passage.questions.9.question:Kdo je z Aleksandrom pobegnil iz Makedonije?
+passage.questions.9.idx:441.0
+passage.questions.9.answers.2.text:Njegova mati in njegov stric (njen brat)
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2235.0
+passage.questions.9.answers.1.text:Njegova mati
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:2234.0
+passage.questions.9.answers.0.text:Njegov bratranec
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2233.0
+passage.questions.8.question:Poimenujte vse Aleksandrove družine, omenjene v tem odstavku.
+passage.questions.8.idx:440.0
+passage.questions.8.answers.9.text:Aleksander I.
+passage.questions.8.answers.9.label:1.0
+passage.questions.8.answers.9.idx:2231.0
+passage.questions.8.answers.8.text:Perzijski satrap
+passage.questions.8.answers.8.label:0,0
+passage.questions.8.answers.8.idx:2230.0
+passage.questions.8.answers.7.text:Aleksandrov oče Filip
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:2229.0
+passage.questions.8.answers.6.text:Ptolomej
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:2228.0
+passage.questions.8.answers.5.text:Demaratus
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:2227.0
+passage.questions.8.answers.4.text:Filip
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:2226.0
+passage.questions.8.answers.3.text:Filip Arhidaeus
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:2225.0
+passage.questions.8.answers.2.text:Harpauls
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2224.0
+passage.questions.8.answers.10.text:Tesal
+passage.questions.8.answers.10.label:0,0
+passage.questions.8.answers.10.idx:2232.0
+passage.questions.8.answers.1.text:Aleksandrova mati
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:2223.0
+passage.questions.8.answers.0.text:Aleksandrovi prijatelji
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2222.0
+passage.questions.7.question:Ko je izvedel, da je perzijski satrap iz Karije svojo najstarejšo hčer ponudil svojemu polbratu, ki ga je Aleksander poslal Pixodarusu, naj mu namesto tega ponudi njeno roko?
+passage.questions.7.idx:439.0
+passage.questions.7.answers.5.text:Igralec, Tesal iz Korinta
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:2221.0
+passage.questions.7.answers.4.text:Nezakonski sin
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:2220.0
+passage.questions.7.answers.3.text:Filip
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2219.0
+passage.questions.7.answers.2.text:Njegov dedič
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:2218.0
+passage.questions.7.answers.1.text:Koruški Tesal,
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:2217.0
+passage.questions.7.answers.0.text:Korinčanom
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2216.0
+passage.questions.6.question:Zakaj se je Filip ustavil s pogajanji in grajal Aleksandra?
+passage.questions.6.idx:438.0
+passage.questions.6.answers.5.text:Ker je Filip slišal za to
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:2215.0
+passage.questions.6.answers.4.text:Želel ji je boljšo nevesto
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:2214.0
+passage.questions.6.answers.3.text:Ker se je Aleksander hotel poročiti s hčerko Kariana
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2213.0
+passage.questions.6.answers.2.text:Želel je, da se neha mešati v druge zadeve
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2212.0
+passage.questions.6.answers.1.text:Filip je izgnal štiri Aleksandrove prijatelje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2211.0
+passage.questions.6.answers.0.text:Ker je Aleksander poslal igralca, naj Pixodarusu reče, naj mu namesto tega ponudi hčerko, ker je Arrhidaues nezakonski
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2210.0
+passage.questions.5.question:Zakaj je imel Filip izgnanih štirih prijateljev Aleksandrov in mu je Tesal privezan v verigah?
+passage.questions.5.idx:437.0
+passage.questions.5.answers.5.text:Ker je Pixodarus najstarejšo hčer ponudil Aleksandrovemu polbratu
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:2209.0
+passage.questions.5.answers.4.text:Kaznovati aleksandra
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2208.0
+passage.questions.5.answers.3.text:Ustavil je pogajanja
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2207.0
+passage.questions.5.answers.2.text:Aleksandru je želel boljšo nevesto
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2206.0
+passage.questions.5.answers.1.text:Ker so Aleksandra prepričali, da ker je Pixodarus ponudil svojo hčer polbratu, je to pomenilo, da je Filip nameraval Arrhidaja narediti za svojega naslednika, Tesal pa je bil igralec, ki je šel k Pixodarusu, da bi ga prepričal, naj namesto njega ponudi hčer Aleksandru
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2205.0
+passage.questions.5.answers.0.text:Ker so bili izdajalci
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2204.0
+passage.questions.4.question:Kakšen je bil Aleksandrov odnos z ilirskim kraljem?
+passage.questions.4.idx:436.0
+passage.questions.4.answers.5.text:To je njegov politično in vojaško izobražen sin
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:2203.0
+passage.questions.4.answers.4.text:V preteklosti poražen v bitki, zdaj gostoljuben gostitelj
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2202.0
+passage.questions.4.answers.3.text:Bila sta brata
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2201.0
+passage.questions.4.answers.2.text:Kralj je bil njegov stric
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2200.0
+passage.questions.4.answers.1.text:Njegova mati je
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2199.0
+passage.questions.4.answers.0.text:Aleksander je Ilirskega kralja obravnaval kot gosta
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2198.0
+passage.questions.3.question:Po begu iz Makedonije, ki je Aleksandra obravnaval kot gosta?
+passage.questions.3.idx:435.0
+passage.questions.3.answers.4.text:Kralj Aleksander I. Epirski
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2197.0
+passage.questions.3.answers.3.text:Njegov stric
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2196.0
+passage.questions.3.answers.2.text:Gost
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2195.0
+passage.questions.3.answers.1.text:Ilirski kralj
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:2194.0
+passage.questions.3.answers.0.text:Njegova mati
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2193.0
+passage.questions.2.question:Kdo je rekel Pixodarusu, naj ne poda roke hčere nezakonskemu sinu, temveč Aleksandru?
+passage.questions.2.idx:434
+passage.questions.2.answers.5.text:Perzijski satrap (guverner) Caria
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2192.0
+passage.questions.2.answers.4.text:Igralec, Tesal iz Korinta
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:2191.0
+passage.questions.2.answers.3.text:Nezakonski sin
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2190.0
+passage.questions.2.answers.2.text:Filip
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2189.0
+passage.questions.2.answers.1.text:Aleksander
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:2188
+passage.questions.2.answers.0.text:Hčerkina roka
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:2187
+passage.questions.12.question:Kje je Aleksander pobegnil iz Makedonije, kje se je zatekel?
+passage.questions.12.idx:444.0
+passage.questions.12.answers.4.text:Ilirija
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:2254.0
+passage.questions.12.answers.3.text:Molosovci
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:2253.0
+passage.questions.12.answers.2.text:Dodona
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2252.0
+passage.questions.12.answers.1.text:Epir
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:2251.0
+passage.questions.12.answers.0.text:Grčija
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2250.0
+passage.questions.11.question:Koga je Filip izgnal?
+passage.questions.11.idx:443.0
+passage.questions.11.answers.8.text:Carian
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:2249.0
+passage.questions.11.answers.7.text:Tesal
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:2248.0
+passage.questions.11.answers.6.text:Narchus
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:2247.0
+passage.questions.11.answers.5.text:Erigyius
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:2246.0
+passage.questions.11.answers.4.text:Ptolomej
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:2245.0
+passage.questions.11.answers.3.text:Harpalus
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:2244.0
+passage.questions.11.answers.2.text:Aleksander
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2243.0
+passage.questions.11.answers.1.text:Aleksandrovi prijatelji
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:2242.0
+passage.questions.11.answers.0.text:Korinčanom
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2241.0
+passage.questions.10.question:Potem ko se je Aleksander vrnil v Makedonijo, je guverner Karije ponudil polbrata Alexandra Filipa Arhidaeusa?
+passage.questions.10.idx:442.0
+passage.questions.10.answers.4.text:Nezakonski sin
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:2240.0
+passage.questions.10.answers.3.text:Njegova najstarejša hči
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:2239.0
+passage.questions.10.answers.2.text:Roka njegove hčere
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2238.0
+passage.questions.10.answers.1.text:Njegove dežele
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2237.0
+passage.questions.10.answers.0.text:Aleksandrov polbrat
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2236.0
+passage.questions.1.question:Preden se je Aleksander zatekel v Ilirijo, katerega družinskega člana je zapustil skupaj s kraljem Aleksandrom I.
+passage.questions.1.idx:433
+passage.questions.1.answers.1.text:Njegov brat
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2186
+passage.questions.1.answers.0.text:Njegova mati
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2185
+passage.questions.0.question:Zakaj so Olimpija in več Aleksandrovih prijateljev mislili, da namerava Filip Arrideja narediti za svojega dediča?
+passage.questions.0.idx:432
+passage.questions.0.answers.5.text:Ker je Pixodarus ponudil Arrihideju najstarejšo hčerko
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2184.0
+passage.questions.0.answers.4.text:Demaratus je posredoval med obema stranema
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2183.0
+passage.questions.0.answers.3.text:Aleksander je ponudil svojo najstarejšo hčerko
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2182.0
+passage.questions.0.answers.2.text:Ker se je s tem hvalil
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2181.0
+passage.questions.0.answers.1.text:Ker je perzijski satrap (guverner) Karije Pixodarus ponudil svojo najstarejšo hčer Aleksandrovemu polbratu Filipu Arhideju
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2180
+passage.questions.0.answers.0.text:Aleksander se je po šestih mesecih vrnil v Makedonijo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2179
+idx:38

@@ -1,0 +1,235 @@
+version:1.1
+passage.text:Zvezni agenti so v torek vdrli v pisarno dr. Salomona Melgena, očesnega zdravnika, katerega pretekle težave z oblastmi so že zapletle senatorja Roberta Menendeza. Z rumenim trakom za zločine, ki so ga nanizali zunaj, so moški in ženske vlekli škatlo za škatlo materialov iz pisarne Melgen&#39;s West Palm Beach v čakalne enoprostorce. Pri iskanju sta sodelovala člana zveznega oddelka za zdravstvo in socialne zadeve in Zveznega preiskovalnega urada, za katerega je posebni agent FBI Michael Leverock dejal, da je drugi na isti kliniki v Melgenu, drugi pa januarja lani. &quot;Ker je to del tekoče preiskave, (oblasti trenutno) nimajo dodatnih komentarjev / informacij,&quot; je dejal Leverock. To ne pomeni uradnih podrobnosti o tem, kaj so oblasti iskale. Četudi to nima nič opraviti z njegovim zapisom velikodušnega političnega donatorja, torkov napad nakazuje Melgenove pravne težave in morda njihov negativni vpliv na Menendeza, starejšega ameriškega senatorja iz New Jerseyja, še zdaleč ni konec. Izpovedi kažejo, da so bile seksualne trditve &quot;lažni madeži&quot;, pravi senator. Zdravnikov odvetnik je trdil, da je bilo torek z vladnim načinom vrnitve v Melgen, potem ko je tožil zaradi plačil Medicare. Kljub temu je odvetnik Matthew Menchel dejal, da bo Melgen še naprej sodeloval z oblastmi. &quot;Čeprav verjamemo, da je bil današnji vdor maščevalni in da legitimne potrebe po iskanju ni bilo, dejanja FBI dr. Melgenu ne bodo preprečila nadaljnjega polnega sodelovanja z vlado,&quot; je dejal Menchel. Zdravnik je prvič opozoril mnoge po Washingtonu, ko je konservativno spletno mesto The Daily Caller objavilo poročilo tik pred volitvami novembra 2012, v katerem je navedlo več dominikank, ki so trdile, da so z Menendezom seksale za denar. Demokrat iz New Jerseyja je odločno zanikal obtožbo. In marca je dominikanska policija objavila, da so bile tri ženske plačane, da so - lažno - trdile, da imajo spolne odnose z Menendezom. Medtem ko je ta del zgodbe zamrl, je epizoda sprožila vprašanja o tem, zakaj in kako je Menendez leta 2010 trikrat letel v Dominikansko republiko na Melgenovem zasebnem letalu.
+passage.questions.9.question:Katero leto so tri ženske trdile, da so bile plačane, če so povedale, da imajo spolne odnose z Menendezom?
+passage.questions.9.idx:607.0
+passage.questions.9.answers.2.text:2012
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3115.0
+passage.questions.9.answers.1.text:2013
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:3114.0
+passage.questions.9.answers.0.text:2010
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:3113.0
+passage.questions.8.question:Ali sta Melgen in Menendez vzpostavila medsebojno povezavo?
+passage.questions.8.idx:606.0
+passage.questions.8.answers.1.text:Da
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3112.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3111.0
+passage.questions.7.question:Kaj je res glede trditev o Menendezu?
+passage.questions.7.idx:605.0
+passage.questions.7.answers.2.text:V Dominikansko republiko je 3-krat odletel z zasebnim letalom
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3110.0
+passage.questions.7.answers.1.text:Nič; po navedbah dominikanske policije so bili lažni
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3109.0
+passage.questions.7.answers.0.text:Vse
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3108.0
+passage.questions.6.question:Kje se je zgodil napad in kateri oddelki so bili zaprošeni, da ga raziščejo?
+passage.questions.6.idx:604.0
+passage.questions.6.answers.2.text:Boston, CIA
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3107.0
+passage.questions.6.answers.1.text:Južna Florida, oddelek za zdravstvo in socialne storitve ter Zvezni preiskovalni urad
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3106.0
+passage.questions.6.answers.0.text:Južna Florida, zdravstvo in socialne službe ter FBI
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:3105.0
+passage.questions.5.question:Kateri trije oddelki so bili vključeni v preiskavo?
+passage.questions.5.idx:603.0
+passage.questions.5.answers.2.text:FBI, zdravstvo in socialne službe, dominikanska policija
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3104.0
+passage.questions.5.answers.1.text:CIA, FBI, zdravstvo in socialne službe
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3103.0
+passage.questions.5.answers.0.text:Zvezni oddelek za zdravstvo in socialne storitve in Zvezni preiskovalni urad
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3102.0
+passage.questions.4.question:Zakaj oblasti niso imele nadaljnjih komentarjev?
+passage.questions.4.idx:602.0
+passage.questions.4.answers.2.text:Preiskava je še potekala
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3101.0
+passage.questions.4.answers.1.text:Niso vedeli ničesar
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3100.0
+passage.questions.4.answers.0.text:Sami niso imeli podrobnosti
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3099.0
+passage.questions.3.question:Kdo je dr. Salomon Melgen?
+passage.questions.3.idx:601.0
+passage.questions.3.answers.3.text:Politik
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3098.0
+passage.questions.3.answers.2.text:Odvetnik
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3097.0
+passage.questions.3.answers.1.text:Očesni zdravnik, ki ima v preteklosti že zvezno državo
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3096.0
+passage.questions.3.answers.0.text:Zdravnik
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3095.0
+passage.questions.2.question:Kaj se je v zvezi z vpletenostjo Menendeza izkazalo v tekoči preiskavi?
+passage.questions.2.idx:600
+passage.questions.2.answers.1.text:V Dominikansko republiko je 3-krat odletel z zasebnim letalom
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:3094
+passage.questions.2.answers.0.text:Nič
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3093
+passage.questions.19.question:.Kaj je osumljen Menendeza, ko je letel z Melgenovim zasebnim letalom?
+passage.questions.19.idx:617.0
+passage.questions.19.answers.3.text:Seksala se je z ženskami za denar
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:3148.0
+passage.questions.19.answers.2.text:Seksa
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:3147.0
+passage.questions.19.answers.1.text:Nič
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:3146.0
+passage.questions.19.answers.0.text:V Dominikansko republiko letel 3-krat
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:3145.0
+passage.questions.18.question:Zaradi članka katere publikacije in preiskave, ki je bila posledica tega, je bila opravljena racija v pisarni zdravnika Melgena?
+passage.questions.18.idx:616.0
+passage.questions.18.answers.2.text:Daily Caller
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:3144.0
+passage.questions.18.answers.1.text:Daily Mail
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:3143.0
+passage.questions.18.answers.0.text:New York Times
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:3142.0
+passage.questions.17.question:Zakaj ni uradnih podrobnosti o tem, kaj so iskali organi?
+passage.questions.17.idx:615.0
+passage.questions.17.answers.3.text:To je tekoča preiskava
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:3141.0
+passage.questions.17.answers.2.text:Preiskava je v teku
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:3140.0
+passage.questions.17.answers.1.text:Ne vedo, kaj iskati
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:3139.0
+passage.questions.17.answers.0.text:Pozabili so reči
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:3138.0
+passage.questions.16.question:Zakaj je bil okoli zdravniške ordinacije rumen trak?
+passage.questions.16.idx:614.0
+passage.questions.16.answers.3.text:Pisarna je bila predmet preiskave
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:3137.0
+passage.questions.16.answers.2.text:Bilo je napadeno
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:3136.0
+passage.questions.16.answers.1.text:Nekdo je umrl v pisarni
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:3135.0
+passage.questions.16.answers.0.text:Pisarna je bila kraj zločina
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:3134.0
+passage.questions.15.question:Katere ameriške agencije so bile vpletene v škandal Menendez?
+passage.questions.15.idx:613.0
+passage.questions.15.answers.2.text:CIA
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:3133.0
+passage.questions.15.answers.1.text:FBI
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:3132.0
+passage.questions.15.answers.0.text:Ministrstvo za zdravje in socialne storitve, Zvezni preiskovalni urad
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:3131.0
+passage.questions.14.question:Kdo je objavil obtožbo in kdo jo zanikal?
+passage.questions.14.idx:612.0
+passage.questions.14.answers.2.text:New York Times, Melgen
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:3130.0
+passage.questions.14.answers.1.text:Daily Caller, demokrat iz New Jerseyja
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:3129.0
+passage.questions.14.answers.0.text:Daily Caller, Menendez
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:3128.0
+passage.questions.13.question:Kdo je zdravnikov odvetnik?
+passage.questions.13.idx:611.0
+passage.questions.13.answers.2.text:Salomon Melgen
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:3127.0
+passage.questions.13.answers.1.text:Matthew Menchel
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3126.0
+passage.questions.13.answers.0.text:Michael Leverock
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:3125.0
+passage.questions.12.question:Katere informacije so izšle marca? Je ostalo še kakšno vprašanje?
+passage.questions.12.idx:610.0
+passage.questions.12.answers.2.text:Tri ženske so bile plačane zaradi lažnih trditev, da so imele spolne odnose z Menendezom. Vprašanje, ki je ostalo, je bilo, zakaj je Menendez trikrat potoval v Dominikansko republiko
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:3124.0
+passage.questions.12.answers.1.text:Nič, ne
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:3123.0
+passage.questions.12.answers.0.text:Menendez je imel seks s tremi ženskami, ja
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:3122.0
+passage.questions.11.question:Več žensk iz dominikanske javnosti je lažno obtožilo katerega ameriškega senatorja?
+passage.questions.11.idx:609.0
+passage.questions.11.answers.2.text:Robert Menedez
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:3121.0
+passage.questions.11.answers.1.text:Robert Menendez
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:3120.0
+passage.questions.11.answers.0.text:Matthew Menchel
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3119.0
+passage.questions.10.question:Zakaj so ljudje vzeli materiale iz pisarne?
+passage.questions.10.idx:608.0
+passage.questions.10.answers.2.text:Preiskava
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:3118.0
+passage.questions.10.answers.1.text:Ukradeni so bili
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3117.0
+passage.questions.10.answers.0.text:Bilo je napadeno
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3116.0
+passage.questions.1.question:Katera dva oddelka sta sodelovala pri napadu na Melgenovo pisarno?
+passage.questions.1.idx:599
+passage.questions.1.answers.3.text:Zdravstva in socialnih služb ter Zvezni preiskovalni urad
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3092.0
+passage.questions.1.answers.2.text:CIA in FBI
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3091.0
+passage.questions.1.answers.1.text:Zdravstvo in človeške storitve, FBI
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:3090
+passage.questions.1.answers.0.text:CIA, zdravstvo in socialne storitve
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3089
+passage.questions.0.question:Kaj je bil obtožen Menendez?
+passage.questions.0.idx:598
+passage.questions.0.answers.3.text:Nič
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3088.0
+passage.questions.0.answers.2.text:goljufije
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3087.0
+passage.questions.0.answers.1.text:Seks z ženskami za denar
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3086
+passage.questions.0.answers.0.text:Ženske, ki so ga spolno napadale
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3085
+idx:51

@@ -1,0 +1,132 @@
+version:1.1
+passage.text:Že nekako smo bili zaprti v kot. Toda ti mesarji v votlini so bili presenečeni, verjetno so se prestrašili in niso imeli posebnega orožja, le tiste svoje majhne sekirice. In tako je bil pobeg. Njihove trpežne majhne oblike - vedno toliko krajše in debelejše od čred mesečine - so bile raztresene po pobočju na zgovoren način neodločnosti. Imel sem moralno prednost ponorelega bika na ulici. Toda ob vsem tem se jih je zdelo ogromno. Zelo verjetno je bilo. Tisti Seleniti po razkolu so imeli zagotovo nekaj peklensko dolgih sulic. Mogoče so imeli za nas druga presenečenja .... Ampak, zmedite! če bi napolnili jamo, bi jih morali spustiti za seboj, in če ne bi, bi se te majhne brbončice v jami verjetno okrepile. Samo nebesa so vedela, kakšni izjemni vojaški motorji - pištole, bombe, zemeljska torpeda - ta neznani svet pod našimi nogami, ta vaster svet, od katerega smo zgolj nabodli zunanjo povrhnjico, trenutno ne bi mogli poslati v naše uničenje. Postalo je jasno, da je bilo treba samo polniti! Jasneje je postalo, ko so se po votlini proti nam spuščale noge številnih svežih Selenitov.
+passage.questions.8.question:Kje so Seleniti v zvezi s pripovedovalcem?
+passage.questions.8.idx:2995.0
+passage.questions.8.answers.4.text:Spodaj
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:15849.0
+passage.questions.8.answers.3.text:Tako zgoraj kot spodaj
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:15848.0
+passage.questions.8.answers.2.text:Nad votlino
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:15847.0
+passage.questions.8.answers.1.text:Pod votlino
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:15846.0
+passage.questions.8.answers.0.text:Predsednik
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:15845.0
+passage.questions.7.question:Kateri način je pobeg?
+passage.questions.7.idx:2994.0
+passage.questions.7.answers.3.text:Gor po jami / jami
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:15844.0
+passage.questions.7.answers.2.text:Proti nam
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:15843.0
+passage.questions.7.answers.1.text:Dol po jami
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:15842.0
+passage.questions.7.answers.0.text:Gor po votlini
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:15841.0
+passage.questions.6.question:Kdo so bili krajši in debelejši od čred mesečine?
+passage.questions.6.idx:2993.0
+passage.questions.6.answers.2.text:Mesarji
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:15840.0
+passage.questions.6.answers.1.text:Pištole
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:15839.0
+passage.questions.6.answers.0.text:Biki
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:15838.0
+passage.questions.5.question:Kako so izgledale tiste z majhnimi sekirami?
+passage.questions.5.idx:2992.0
+passage.questions.5.answers.2.text:Črede Mooncalf
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:15837.0
+passage.questions.5.answers.1.text:Biki
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:15836.0
+passage.questions.5.answers.0.text:Imeli so trdne majhne oblike
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:15835.0
+passage.questions.4.question:Kateri sta dva razloga, da se pripovedovalec odloči, da je edina možnost zaračunavanje?
+passage.questions.4.idx:2991.0
+passage.questions.4.answers.6.text:Čreda bikov
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:15834.0
+passage.questions.4.answers.5.text:Neznano je, kakšno orožje imajo spodaj Seleniti, razen kopja
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:15833.0
+passage.questions.4.answers.4.text:Nevarnost spodaj in Seleniti
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:15832.0
+passage.questions.4.answers.3.text:Nevarnost zgoraj
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:15831.0
+passage.questions.4.answers.2.text:Seleniti
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:15830.0
+passage.questions.4.answers.1.text:Seleniti se približujejo od spodaj (ne mirujejo)
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15829.0
+passage.questions.4.answers.0.text:Orožje pod njimi in polnjenje Selinovcev
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:15828.0
+passage.questions.3.question:Kaj je govorniku in njihovemu begu oviralo?
+passage.questions.3.idx:2990.0
+passage.questions.3.answers.4.text:Bik
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:15827.0
+passage.questions.3.answers.3.text:Pištole
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:15826.0
+passage.questions.3.answers.2.text:Seleniti
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:15825.0
+passage.questions.3.answers.1.text:Jame
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15824.0
+passage.questions.3.answers.0.text:Bombe
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:15823.0
+passage.questions.2.question:Kdo je varoval pot do pobega?
+passage.questions.2.idx:2989.0
+passage.questions.2.answers.3.text:Mesarji
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:15822.0
+passage.questions.2.answers.2.text:Seleniti
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:15821.0
+passage.questions.2.answers.1.text:Biki
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:15820.0
+passage.questions.2.answers.0.text:Uradniki
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15819.0
+passage.questions.1.question:Kaj je postalo jasno, ko so številni Seleniti naleteli na govornika?
+passage.questions.1.idx:2988.0
+passage.questions.1.answers.2.text:Edino, kar je bilo treba, je bilo polnjenje
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:15818.0
+passage.questions.1.answers.1.text:Morali bi pobegniti
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15817.0
+passage.questions.1.answers.0.text:Morali so zaračunati
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:15816.0
+passage.questions.0.question:Koga se je zdelo ogromno?
+passage.questions.0.idx:2987
+passage.questions.0.answers.2.text:Mesarji
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15815.0
+passage.questions.0.answers.1.text:Seleniti
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:15814
+passage.questions.0.answers.0.text:Biki
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:15813
+idx:267

@@ -1,0 +1,4 @@
+idx:637
+label:False
+passage:Poštni nabiralnik - Ulični naslovi bodo imeli enak poštni naslov pošte, skupaj z &quot;številko enote&quot;, ki se ujema s številko poštnega predala. Na primer, pošta v El Centru v Kaliforniji je na naslovu 1598 Main Street. Zato bi bil za poštni predal 9975 (fiktivni) naslov za ulico: 1598 Main Street Unit 9975, El Centro, CA. Prvih pet mest poštne številke je na nacionalni ravni lahko ali pa tudi ne enako naslovu poštnega predala, zadnje štiri številke (Zip + 4) pa so tako rekoč vedno različne. Razen nekaterih največjih pošt v ZDA je devetmestni Zip + 4 &quot;Street Addressing&quot; (ne naslov poštnega predala) enak za vse škatle na določeni lokaciji.
+question:is po box enako kot poštna številka

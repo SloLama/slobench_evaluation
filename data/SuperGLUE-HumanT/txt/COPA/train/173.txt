@@ -1,0 +1,6 @@
+choice1:Mačka je obtičala na drevesu.
+choice2:Ptica si je naredila gnezdo na drevesu.
+idx:173
+label:0
+premise:Deček je splezal na drevo.
+question:cause

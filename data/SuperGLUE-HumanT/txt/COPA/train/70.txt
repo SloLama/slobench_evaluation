@@ -1,0 +1,6 @@
+choice1:Bomba je eksplodirala.
+choice2:Bomba je bila onesposobljena.
+idx:70
+label:0
+premise:Terorist je sprožil bombo.
+question:effect

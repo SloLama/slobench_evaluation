@@ -1,0 +1,6 @@
+choice1:Hotel je izklopiti budilko.
+choice2:Pred službo si je želel zlikati hlače.
+idx:35
+label:0
+premise:Moški je nujno skočil iz postelje.
+question:cause

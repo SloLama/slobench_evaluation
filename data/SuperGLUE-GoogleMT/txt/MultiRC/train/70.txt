@@ -1,0 +1,121 @@
+version:1.1
+passage.text:Majhna zabava v kabini, tako katastrofalno začeta, končana, pod blagim vplivom vina in ženske, v izvrstnih občutkih in z nekaj veselja. Mamie je v plišastem klobuku Gainsborough in obleki iz svilene barve vina sedela med očarljivo kraljico med svojo nesramno okolico in spremljevalci. Mračno leglo v kabini je sprožilo njeno sijočo lepoto: tarry Johnson je bil folija njene lepe lepote; žarela je v tistem revnem kraju, lepa kot zvezda; dokler niti jaz, ki navadno nisem bil med njenimi občudovalci, nisem ujel iskrice občudovanja; in celo kapitan, ki ni bil nobenega dvornega humorja, je predlagal, da se prizorišče obeleži z mojim svinčnikom. Bilo je zadnje dejanje večera. Ko sem se lotil svoje naloge, se je pol ure podaljšalo na več kot tri, preden je bila dokončana: Mamie v polni vrednosti, preostali del zabave je predstavljal le orise in umetnik sam je predstavil pogled od zadaj, kar je je bil izgovoren podobnost. Toda Mamie sem posvetil največ pozornosti; in prav z njo sem dosegla svoj glavni uspeh.
+passage.questions.7.question:Je govornik svojo pozornost namenil liku v plišastem klobuku Gainsborough?
+passage.questions.7.idx:818.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4282.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4281.0
+passage.questions.6.question:Je govornik storil, kot je zahteval kapitan?
+passage.questions.6.idx:817.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:4280.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4279.0
+passage.questions.5.question:Je umetnik delno narisal lik z imenom Johnson?
+passage.questions.5.idx:816.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4278.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4277.0
+passage.questions.4.question:Kdo je žarel v tistem revnem kraju, lepem kot zvezda?
+passage.questions.4.idx:815.0
+passage.questions.4.answers.2.text:Mamie
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4276.0
+passage.questions.4.answers.1.text:Avtor
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4275.0
+passage.questions.4.answers.0.text:Kapitan
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4274.0
+passage.questions.3.question:Je bil avtor običajno občudovalec žensk v plišastem klobuku Gainsborough in obleki iz svilene barve vina.
+passage.questions.3.idx:814.0
+passage.questions.3.answers.2.text:Mamie
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4273.0
+passage.questions.3.answers.1.text:Nihče
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4272.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4271.0
+passage.questions.2.question:Katero nalogo je bilo treba opraviti več kot tri ure?
+passage.questions.2.idx:813.0
+passage.questions.2.answers.5.text:Risanje slike
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:4270.0
+passage.questions.2.answers.4.text:Čiščenje po zabavi
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4269.0
+passage.questions.2.answers.3.text:Risba zabave
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4268.0
+passage.questions.2.answers.2.text:Skiciranje slike prizora
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4267.0
+passage.questions.2.answers.1.text:Fotografiranje
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:4266.0
+passage.questions.2.answers.0.text:Risanje Mamie
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4265.0
+passage.questions.1.question:Kaj je bilo zadnje dejanje večera?
+passage.questions.1.idx:812.0
+passage.questions.1.answers.9.text:Risba zabave
+passage.questions.1.answers.9.label:1.0
+passage.questions.1.answers.9.idx:4262.0
+passage.questions.1.answers.8.text:Avtor naj bi jih narisal
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:4261.0
+passage.questions.1.answers.7.text:Skiciranje slike prizora
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:4260.0
+passage.questions.1.answers.6.text:Petje skupaj
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:4259.0
+passage.questions.1.answers.5.text:Govornik, ki je risal praznovanja
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:4258.0
+passage.questions.1.answers.4.text:Zabava
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:4257.0
+passage.questions.1.answers.3.text:Risanje slike ljudi na zabavi
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4256.0
+passage.questions.1.answers.2.text:Fotografiram
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4255.0
+passage.questions.1.answers.11.text:Petje pesmi
+passage.questions.1.answers.11.label:0,0
+passage.questions.1.answers.11.idx:4264.0
+passage.questions.1.answers.10.text:Risba zabave
+passage.questions.1.answers.10.label:1.0
+passage.questions.1.answers.10.idx:4263.0
+passage.questions.1.answers.1.text:Risanje slike
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:4254.0
+passage.questions.1.answers.0.text:Avtor naj bi fotografiral
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:4253.0
+passage.questions.0.question:Koliko časa je trajalo zadnje dejanje večera, preden je bilo dokončano?
+passage.questions.0.idx:811
+passage.questions.0.answers.3.text:Tri ure
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4252.0
+passage.questions.0.answers.2.text:30 minut
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4251.0
+passage.questions.0.answers.1.text:3 ure
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4250
+passage.questions.0.answers.0.text:Pol ure
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4249
+idx:70

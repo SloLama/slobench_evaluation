@@ -1,0 +1,135 @@
+version:1.1
+passage.text:V preteklosti so kampanje za pisanje pisem LSEO letno ustvarile od 11.000 do 25.000 dolarjev, se spominja Dallas Ferguson, odvetnik Tulsa in predsednik uprave novega LASO. Ta znesek komajda nadomesti ogromne reze, ki jih je Kongres leta 1996 začel izvajati pri Legal Services Corp., glavnem viru financiranja državnih agencij za pravno pomoč. LSEO, ki mu grozi izumrtje, se je s pomočjo državnega financiranja, nepovratnih sredstev in Združene poti na območju Tulsa vrnil nazaj. Medtem stranke še naprej prihajajo. Vsaj tri četrtine je žensk in otrok, ki živijo v revščini. Agencija pomaga več kot 12.000 otrokom na leto. Tretjino strank LSEO delajo revni, ki ne prejemajo državnih prejemkov. Mnogi so starejši občani. Riggs obžaluje, da upokojeni odvetnik Tulsa John Athens, prvak pravne pomoči, ni dočakal, koliko denar pomeni. Lani so Atene umrle. V njegovo čast je fundacija Oxley donirala 200.000 USD za razširitev vroče telefonske linije za stranke. Ta storitev, ki se bo razširila po vsej državi, ljudem, ki se potrebujejo, se lahko posvetuje z odvetnikom o civilnopravnih težavah, vključno s spori o najemninah in pogodbah, zlorabi družine, potrošniških vprašanjih in skrbništvu. Odvetniki ne obravnavajo nobenih kazenskih zadev. RH Harbaugh, skrbnik fundacije in kolega iz Aten v odvetniški pisarni Conner &amp; Winters, je dejal, da je njegov mentor &quot;poseben interes za ljudi, ki si ne morejo privoščiti pravnih storitev. Bil je seznanjen s telefonsko številko in podpiral njeno širitev.&quot; Said Riggs: &quot;Ko govorimo o našem pravnem sistemu, uporabljamo vzvišene besedne zveze, kot je&quot; s pravičnostjo za vse &quot;. Ta stavek je vtisnjen v stavbo našega vrhovnega sodišča v ZDA. To so samo prazne besede, če ljudje nimajo dostopa do tega sistem. &quot;
+passage.questions.5.question:Kdo so stranke LSEO za večino?
+passage.questions.5.idx:421.0
+passage.questions.5.answers.7.text:Matere samohranilke
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:2133.0
+passage.questions.5.answers.6.text:Vsaj tri četrtine so ženske in otroci, ki živijo v revščini. Tretjina strank LSEO je zaposlenih revnih, ki ne prejemajo državnih prejemkov.
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:2132.0
+passage.questions.5.answers.5.text:Vsaj tri četrtine je žensk in otrok, ki živijo v revščini
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:2131.0
+passage.questions.5.answers.4.text:Nekateri so starejši občani
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2130.0
+passage.questions.5.answers.3.text:Upokojenci
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2129.0
+passage.questions.5.answers.2.text:Revni delavci, ki ne prejemajo vladnih prejemkov
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:2128.0
+passage.questions.5.answers.1.text:Tisti, ki niso zavarovani
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2127.0
+passage.questions.5.answers.0.text:Tisti, ki imajo brezplačna in omejena stanovanja
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2126.0
+passage.questions.4.question:Kateri stavek je vtisnjen na stavbo našega vrhovnega sodišča v ZDA?
+passage.questions.4.idx:420.0
+passage.questions.4.answers.4.text:Pravna svoboda za vse
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:2125.0
+passage.questions.4.answers.3.text:Dajte mi svoje utrujene in svoje uboge
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2124.0
+passage.questions.4.answers.2.text:Končno svoboden
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2123.0
+passage.questions.4.answers.1.text:V Boga zaupamo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2122.0
+passage.questions.4.answers.0.text:S pravičnostjo za vse
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2121.0
+passage.questions.3.question:Fundacija Oxley je donirala 200.000 ameriških dolarjev za razširitev vroče telefonske linije za stranke, v čigavo čast?
+passage.questions.3.idx:419.0
+passage.questions.3.answers.5.text:Riggs
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:2120.0
+passage.questions.3.answers.4.text:Dallas Furguson
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2119.0
+passage.questions.3.answers.3.text:Janez Atene
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2118.0
+passage.questions.3.answers.2.text:Odvetnik John Athens
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2117.0
+passage.questions.3.answers.1.text:RH Harbaugh
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2116.0
+passage.questions.3.answers.0.text:Atene
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2115.0
+passage.questions.2.question:Katera agencija letno pomaga več kot 12.000 otrokom?
+passage.questions.2.idx:418
+passage.questions.2.answers.4.text:Kongresna pravna služba Corp.
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2114.0
+passage.questions.2.answers.3.text:Fundacija RH Harbaugh
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2113.0
+passage.questions.2.answers.2.text:Fundacija Oxley
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2112.0
+passage.questions.2.answers.1.text:Vrhovno sodišče ZDA
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:2111
+passage.questions.2.answers.0.text:LSEO
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2110
+passage.questions.1.question:Kakšen znesek je podarila fundacija Oxley in za kaj je bila uporabljena?
+passage.questions.1.idx:417
+passage.questions.1.answers.6.text:Ženske in otroci, ki živijo v revščini
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:2109.0
+passage.questions.1.answers.5.text:100.000 USD za razširitev vroče telefonske linije za stranke
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2108.0
+passage.questions.1.answers.4.text:200.000 dolarjev za najem tolmačev
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2107.0
+passage.questions.1.answers.3.text:200.000 USD za dodajanje dodatnega pravnega osebja
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2106.0
+passage.questions.1.answers.2.text:Fundacija Oxley je donirala 200.000 ameriških dolarjev za razširitev vroče telefonske linije za stranke. Ta storitev, ki se bo razširila po vsej državi, omogoča potrebnim ljudem, da se posvetujejo z odvetnikom o civilnopravnih težavah, vključno s spori o najemninah in pogodbah, zlorabi družine, potrošniških vprašanjih in skrbništvu
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2105.0
+passage.questions.1.answers.1.text:200.000 USD za razširitev vroče telefonske linije za stranke
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:2104
+passage.questions.1.answers.0.text:200.000 USD za razširitev vroče linije za stranke
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2103
+passage.questions.0.question:Kdo je zmanjšal LSEO in kako mu je uspelo preživeti?
+passage.questions.0.idx:416
+passage.questions.0.answers.8.text:Odvetnik Tulsa
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:2102.0
+passage.questions.0.answers.7.text:Kongresu Legal Services Corp z velikimi donacijami neprofitnih organizacij
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:2101.0
+passage.questions.0.answers.6.text:Kongres za pravne storitve Corp.,
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:2100.0
+passage.questions.0.answers.5.text:Kampanje za pisanje pisem
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2099.0
+passage.questions.0.answers.4.text:Zbiranje sredstev
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2098.0
+passage.questions.0.answers.3.text:Ogromni rezi, ki jih je Kongres začel leta 1996, pri Legal Services Corp., glavnem viru financiranja državnih agencij za pravno pomoč. LSEO, ki mu je grozila z izumrtjem, se je vrnila s pomočjo državnih sredstev, nepovratnih sredstev in združene poti na območju Tulsa
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2097.0
+passage.questions.0.answers.2.text:Kongres za pravne storitve Corp s pomočjo zbiralcev sredstev
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2096.0
+passage.questions.0.answers.1.text:Kongres za pravne storitve Corp, s pomočjo pogonov
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2095
+passage.questions.0.answers.0.text:Kongres pravne službe Corp, z nepovratnimi sredstvi, državnimi sredstvi, Tulsa United Way
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2094
+idx:35

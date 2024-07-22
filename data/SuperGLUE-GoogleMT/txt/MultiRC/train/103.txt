@@ -1,0 +1,305 @@
+version:1.1
+passage.text:Fosili se lahko tvorijo na druge načine. Fosile je mogoče skoraj v celoti ohraniti. V tem procesu se organizem ne spremeni veliko. Kot je razvidno spodaj, lahko drevesni sok prekrije organizem. Sčasoma se sok strdi. Pretvori se v jantar. Prvotni organizem je ohranjen. Za znanstvenike je to zelo razburljivo. Sposobni so preučevati DNK organizma, ki ne živi več na Zemlji. Nekatere živali so našli zamrznjene v ledu. Druge so po padcu našli v katranskih jamah. Kalupi in odlitki so še en način fosilizacije organizmov. Ste že kdaj hodili v mehkem blatu in puščali sledi? Včasih se te sledi organizmov lahko ohranijo. V tem primeru od organizma ne ostane nič. Plesen je odtis organizma, ki je ohranjen v kamninah. Ostanki organizmov se popolnoma razgradijo. Od prvotne rastline in živali ni ostalo nič.
+passage.questions.9.question:V katerih treh materialih je mogoče ohraniti organizem?
+passage.questions.9.idx:1217.0
+passage.questions.9.answers.8.text:Mavec
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:6217.0
+passage.questions.9.answers.7.text:Led, jantar in katran
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:6216.0
+passage.questions.9.answers.6.text:Hrastova drevesa
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:6215.0
+passage.questions.9.answers.5.text:sneg, okno, ogledalo
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:6214.0
+passage.questions.9.answers.4.text:Katranske jame
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:6213.0
+passage.questions.9.answers.3.text:Sap- postane jantar
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:6212.0
+passage.questions.9.answers.2.text:Led
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:6211.0
+passage.questions.9.answers.1.text:Led, plesen, fosili
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:6210.0
+passage.questions.9.answers.0.text:Granit
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:6209.0
+passage.questions.8.question:Kateri so še fosili poleg jantarja in plesni?
+passage.questions.8.idx:1216.0
+passage.questions.8.answers.8.text:Kamen
+passage.questions.8.answers.8.label:0,0
+passage.questions.8.answers.8.idx:6208.0
+passage.questions.8.answers.7.text:Mavčni fosili
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:6207.0
+passage.questions.8.answers.6.text:Fosilna goriva
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:6206.0
+passage.questions.8.answers.5.text:Nekatere živali padejo v katranske jame, druge pa zmrznejo v ledu
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:6205.0
+passage.questions.8.answers.4.text:Fosili katranskih jam
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:6204.0
+passage.questions.8.answers.3.text:Led
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:6203.0
+passage.questions.8.answers.2.text:Naftni fosili
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:6202.0
+passage.questions.8.answers.1.text:Zasedbe
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:6201.0
+passage.questions.8.answers.0.text:Zamrznjeni ledeni fosili
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:6200.0
+passage.questions.7.question:Če pustite svoj odtis v blatu, je podoben postopku, ki ustvarja fosile?
+passage.questions.7.idx:1215.0
+passage.questions.7.answers.6.text:Casting
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:6199.0
+passage.questions.7.answers.5.text:Predmeti iz jantarja
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:6198.0
+passage.questions.7.answers.4.text:Prevajanje
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:6197.0
+passage.questions.7.answers.3.text:Kalupi in odlitki
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:6196.0
+passage.questions.7.answers.2.text:Plesen
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:6195.0
+passage.questions.7.answers.1.text:Erozija
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:6194.0
+passage.questions.7.answers.0.text:Amber
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:6193.0
+passage.questions.6.question:Kako lahko fosile popolnoma ohranimo?
+passage.questions.6.idx:1214.0
+passage.questions.6.answers.8.text:Ko se sok prelije po organizmu in strdi, postane rumen
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:6192.0
+passage.questions.6.answers.7.text:Drevesni sok lahko pokrije organizem in se oblikuje v jantar
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:6191.0
+passage.questions.6.answers.6.text:Ko se ohrani v ledu
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:6190.0
+passage.questions.6.answers.5.text:V kalupu
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:6189.0
+passage.questions.6.answers.4.text:V vodi
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:6188.0
+passage.questions.6.answers.3.text:V zasedbi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:6187.0
+passage.questions.6.answers.2.text:Ko se ohrani v katranski jami
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:6186.0
+passage.questions.6.answers.1.text:Skozi plesen ali led
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:6185.0
+passage.questions.6.answers.0.text:Skozi plesen, led ali jantar
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:6184.0
+passage.questions.5.question:Katere druge načine lahko organizme ohranimo?
+passage.questions.5.idx:1213.0
+passage.questions.5.answers.7.text:V katranski jami
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:6183.0
+passage.questions.5.answers.6.text:V granitu
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:6182.0
+passage.questions.5.answers.5.text:V ledu
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:6181.0
+passage.questions.5.answers.4.text:V porcelanu
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:6180.0
+passage.questions.5.answers.3.text:Skozi fosile
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:6179.0
+passage.questions.5.answers.2.text:V marmorju
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:6178.0
+passage.questions.5.answers.1.text:Skozi led in plesen
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:6177.0
+passage.questions.5.answers.0.text:Lahko se fosilizirajo v katranskih jamah ali zamrznejo v ledu. Plesen in odlitki v blatu lahko tudi ohranijo organizme
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:6176.0
+passage.questions.4.question:Kako nastaja jantar?
+passage.questions.4.idx:1212.0
+passage.questions.4.answers.6.text:Podzemlje
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:6175.0
+passage.questions.4.answers.5.text:Ko se drevesni sok posuši
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:6174.0
+passage.questions.4.answers.4.text:Casting
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:6173.0
+passage.questions.4.answers.3.text:Z drevesnim sokom, ki ohranja predmet
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:6172.0
+passage.questions.4.answers.2.text:Drevesni sok prekrije organizem, nato pa se sčasoma strdi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:6171.0
+passage.questions.4.answers.1.text:Oblikovanje
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:6170.0
+passage.questions.4.answers.0.text:Odtiskovanje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:6169.0
+passage.questions.3.question:Zakaj je jantar tako razburljiv za znanstvenike?
+passage.questions.3.idx:1211.0
+passage.questions.3.answers.6.text:Ker pušča zasedbo
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:6168.0
+passage.questions.3.answers.5.text:Lahko ohrani organizem, vključno z DNK bitij, ki na zemlji ne obstajajo več
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:6167.0
+passage.questions.3.answers.4.text:Predmet popolnoma ohrani
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:6166.0
+passage.questions.3.answers.3.text:Znanstveniki lahko preučujejo DNK organizma, ki na Zemlji ne obstaja več
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:6165.0
+passage.questions.3.answers.2.text:Izgleda čudovito
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:6164.0
+passage.questions.3.answers.1.text:Ker vidijo pravo žival
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6163.0
+passage.questions.3.answers.0.text:Ker pušča plesen
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:6162.0
+passage.questions.2.question:Iz katere vrste fosilov nastane, ko se žival popolnoma razgradi in pusti le odtis organizma?
+passage.questions.2.idx:1210.0
+passage.questions.2.answers.4.text:Fosilizirani artefakt
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:6161.0
+passage.questions.2.answers.3.text:Igralska zasedba
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6160.0
+passage.questions.2.answers.2.text:Fosilno gorivo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:6159.0
+passage.questions.2.answers.1.text:Kalup
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:6158.0
+passage.questions.2.answers.0.text:Amber
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6157.0
+passage.questions.12.question:Kaj lahko znanstveniki preučijo o fosilu, ki ga najdemo v jantarju, česar z večino fosilov običajno ne morejo?
+passage.questions.12.idx:1220.0
+passage.questions.12.answers.5.text:Zgodovinski artefakti
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:6234.0
+passage.questions.12.answers.4.text:Vse
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:6233.0
+passage.questions.12.answers.3.text:DNK
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:6232.0
+passage.questions.12.answers.2.text:Razgradnja atoma
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:6231.0
+passage.questions.12.answers.1.text:Sposobni so preučevati DNK organizma, ki ne živi več na Zemlji
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:6230.0
+passage.questions.12.answers.0.text:Struktura živcev
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:6229.0
+passage.questions.11.question:Kaj nastane, ko se živalski ali rastlinski organizem popolnoma razgradi in ohrani v skali
+passage.questions.11.idx:1219.0
+passage.questions.11.answers.3.text:Hidroglif
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:6228.0
+passage.questions.11.answers.2.text:Plesen
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:6227.0
+passage.questions.11.answers.1.text:Igralska zasedba
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:6226.0
+passage.questions.11.answers.0.text:Fosilna
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:6225.0
+passage.questions.10.question:Kako nastane kalup odtisa?
+passage.questions.10.idx:1218.0
+passage.questions.10.answers.6.text:Samo drži se
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:6224.0
+passage.questions.10.answers.5.text:Odtis organizma - hoja po blatu
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:6223.0
+passage.questions.10.answers.4.text:Z erozijo
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:6222.0
+passage.questions.10.answers.3.text:Odtis je narejen iz mehke snovi, ki je vtisnjena in ohranjena kot kamnina
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:6221.0
+passage.questions.10.answers.2.text:Živalski ali rastlinski organizem se popolnoma razgradi in ohrani v skali
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:6220.0
+passage.questions.10.answers.1.text:Z gravitacijo
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:6219.0
+passage.questions.10.answers.0.text:Z ometom
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:6218.0
+passage.questions.1.question:Kaj je plesen?
+passage.questions.1.idx:1209.0
+passage.questions.1.answers.6.text:Odtis organizma, ki je ohranjen v kamninah
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:6156.0
+passage.questions.1.answers.5.text:To je spora
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:6155.0
+passage.questions.1.answers.4.text:Popoln organizem
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:6154.0
+passage.questions.1.answers.3.text:Fosilno gorivo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6153.0
+passage.questions.1.answers.2.text:Kalup je odtis fosila
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:6152.0
+passage.questions.1.answers.1.text:Plesen je odtis organizma brez ostankov prvotnega organizma
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:6151.0
+passage.questions.1.answers.0.text:Popoln fosil
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:6150.0
+passage.questions.0.question:Kaj postane, ko drevesni sok prekrije organizem in se strdi?
+passage.questions.0.idx:1208
+passage.questions.0.answers.6.text:Igralska zasedba
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:6149.0
+passage.questions.0.answers.5.text:Fosilno gorivo
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:6148.0
+passage.questions.0.answers.4.text:Zlato
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:6147.0
+passage.questions.0.answers.3.text:Pretvori se v jantar
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:6146.0
+passage.questions.0.answers.2.text:Plesen
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:6145.0
+passage.questions.0.answers.1.text:Oranžni fosil
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:6144
+passage.questions.0.answers.0.text:Amber
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:6143
+idx:103

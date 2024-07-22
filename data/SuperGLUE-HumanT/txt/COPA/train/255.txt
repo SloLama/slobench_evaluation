@@ -1,0 +1,6 @@
+choice1:Na semaforju se je prižgala zelena luč.
+choice2:Bližal se je tuleči rešilec.
+idx:255
+label:1
+premise:Avtomobili so se premaknili na odstavni pas.
+question:cause

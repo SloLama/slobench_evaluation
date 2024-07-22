@@ -1,0 +1,405 @@
+version:1.1
+passage.text:Alien Planet začne z medzvezdnim vesoljskim plovilom z imenom Von Braun, ki zapusti Zemljino orbito. Potuje z 20-odstotno hitrostjo svetlobe in v 42 letih doseže Darwina IV. Ko doseže orbito, namesti Darwin Reconnaissance Orbiter, ki išče potencialna mesta za pristajanje sond. Prva sonda, Balboa, med vstopom eksplodira skupaj s transportom dvižnega telesa, ker se eno od njenih kril ni uspelo razviti. Dve rezervni sondi, Leonardo da Vinci in Isaac Newton, uspešno pristaneta na planetu in se veliko naučita o njegovih bizarnih avtohtonih življenjskih oblikah, vključno z očitno pametno vrsto. Robotske sonde, poslane v raziskave o Darwinu IV, se imenujejo Horusove sonde. Vsaka sonda Horus je sestavljena iz {{convert}} dolgega napihljivega, z vodikom napolnjenega balona, ki je prekrit s sončnimi receptorji, računalniškimi &quot;možgani&quot;, &quot;glavo&quot;, prekrito s senzorji, in več manjšimi roboti, ki jih je mogoče poslati na mesta preveč nevarno za same sonde. Sonde imajo omejeno stopnjo umetne inteligence, ki je zelo podobna &quot;procesorski moči&quot; 4-letnika. Vse resnično razmišlja superračunalnik v orbiti okoli Von Brauna. Sonde so programirane z različnimi osebnostmi; Ike je bolj previden, medtem ko Leo prevzema tveganje. Obe sondi sta opremljeni tudi s holografskim sporočilom, ki bo predvideno za vsako čuteče življenje na Darwinu. Ko ti dve sondi napihneta plinske vreče, naletita na požrešno puščico Arrowtongue in jo opazujeta, kako zasleduje žirospirter.
+passage.questions.9.question:Kje planet Alien razporedi Darwin Reconnaissance Orbiter?
+passage.questions.9.idx:3555.0
+passage.questions.9.answers.7.text:Na Darwina IV
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:18894.0
+passage.questions.9.answers.6.text:Na tujem planetu
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:18893.0
+passage.questions.9.answers.5.text:Nov planet
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:18892.0
+passage.questions.9.answers.4.text:Orbita Darwina IV
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:18891.0
+passage.questions.9.answers.3.text:Zemlja
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:18890.0
+passage.questions.9.answers.2.text:Darwin IV
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:18889.0
+passage.questions.9.answers.1.text:Horus
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:18888.0
+passage.questions.9.answers.0.text:Na Balboa
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:18887.0
+passage.questions.8.question:Katera medzvezdna vesoljska ladja doseže Darwina IV v 42 letih?
+passage.questions.8.idx:3554.0
+passage.questions.8.answers.5.text:Ike
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:18886.0
+passage.questions.8.answers.4.text:Isaac Newton
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:18885.0
+passage.questions.8.answers.3.text:Leonardo da Vinci
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:18884.0
+passage.questions.8.answers.2.text:Sapien
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:18883.0
+passage.questions.8.answers.1.text:Von Braun
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:18882.0
+passage.questions.8.answers.0.text:Balboa
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:18881.0
+passage.questions.7.question:Kljub omejenemu AI sond, kaj obravnava &quot;resnično razmišljanje&quot;?
+passage.questions.7.idx:3553.0
+passage.questions.7.answers.7.text:Računalnik na Von Braunu
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:18880.0
+passage.questions.7.answers.6.text:Ike
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:18879.0
+passage.questions.7.answers.5.text:Opica
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:18878.0
+passage.questions.7.answers.4.text:Sapiens
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:18877.0
+passage.questions.7.answers.3.text:Superračunalnik v orbiti Von Braun
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:18876.0
+passage.questions.7.answers.2.text:Puščice
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:18875.0
+passage.questions.7.answers.1.text:Superračunalnik
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:18874.0
+passage.questions.7.answers.0.text:Superračunalnik na Darwinu IV
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:18873.0
+passage.questions.6.question:Koliko časa traja, da Alien Planet doseže Darwina IV?
+passage.questions.6.idx:3552.0
+passage.questions.6.answers.5.text:2 leti
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:18872.0
+passage.questions.6.answers.4.text:10 let
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:18871.0
+passage.questions.6.answers.3.text:12 let
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:18870.0
+passage.questions.6.answers.2.text:Traja 50 let
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:18869.0
+passage.questions.6.answers.1.text:Traja 42 let
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:18868.0
+passage.questions.6.answers.0.text:72 let
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:18867.0
+passage.questions.5.question:Katere oblike umetne inteligence se uporabljajo na vesoljskih plovilih?
+passage.questions.5.idx:3551.0
+passage.questions.5.answers.6.text:Roboti in superračunalniki
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:18866.0
+passage.questions.5.answers.5.text:Sonde Horus in analitik tehničnih podatkov
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:18865.0
+passage.questions.5.answers.4.text:Sonde in roboti
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:18864.0
+passage.questions.5.answers.3.text:Žiroskopi in puščice
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:18863.0
+passage.questions.5.answers.2.text:Dve različni osebnosti: previdni Ike in tvegani Leo
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:18862.0
+passage.questions.5.answers.1.text:Sonde imajo nekaj inteligence. To ustreza 4-letniku. In glavno inteligenco opravi računalnik znotraj Von Brauna
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:18861.0
+passage.questions.5.answers.0.text:Darwinov izvidniški orbiter in sonde
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:18860.0
+passage.questions.4.question:Kateri sondi, ki napihneta plinske vreče?
+passage.questions.4.idx:3550.0
+passage.questions.4.answers.7.text:Leonardo da Vinci in Balboa
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:18859.0
+passage.questions.4.answers.6.text:Balboa in Isaac Newton
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:18858.0
+passage.questions.4.answers.5.text:Puščica in jezik
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:18857.0
+passage.questions.4.answers.4.text:Balboa in Sapien
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:18856.0
+passage.questions.4.answers.3.text:Sonde Horus
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:18855.0
+passage.questions.4.answers.2.text:Leonardo DaVinci in Isaac Newton
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:18854.0
+passage.questions.4.answers.1.text:Leonardo da Vinci in Isaac Newton
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:18853.0
+passage.questions.4.answers.0.text:Ike in Leo
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:18852.0
+passage.questions.3.question:Koliko časa traja Von Braun, da pride do Darwina IV?
+passage.questions.3.idx:3549.0
+passage.questions.3.answers.5.text:2 leti
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:18851.0
+passage.questions.3.answers.4.text:20 let
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:18850.0
+passage.questions.3.answers.3.text:4 leta
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:18849.0
+passage.questions.3.answers.2.text:Eno svetlobno leto pri 20% svetlobni hitrosti
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:18848.0
+passage.questions.3.answers.1.text:83 let
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:18847.0
+passage.questions.3.answers.0.text:Traja 42 let
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:18846.0
+passage.questions.2.question:Primerjajte računalniško moč sond z računalniško močjo vesoljskega plovila Van Braun.
+passage.questions.2.idx:3548.0
+passage.questions.2.answers.7.text:Sonde imajo procesorsko moč 4-letnika, Van Braun pa procesorsko moč odraslega človeka
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:18845.0
+passage.questions.2.answers.6.text:Sonde imajo nekaj umetne inteligence, vendar jih Van Braun nadzoruje s superračunalnikom
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:18844.0
+passage.questions.2.answers.5.text:Superračunalnik v primerjavi s 4 letnikom
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:18843.0
+passage.questions.2.answers.4.text:Sonde imajo naprednejši procesor kot vesoljsko plovilo Van Braun
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:18842.0
+passage.questions.2.answers.3.text:Superračunalnik v primerjavi s 30-letnikom
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:18841.0
+passage.questions.2.answers.2.text:Superračunalnik v primerjavi z 2 letnikom
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:18840.0
+passage.questions.2.answers.1.text:4-letnik v primerjavi z 8-letnikom
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:18839.0
+passage.questions.2.answers.0.text:Sonde imajo omejeno umetno inteligenco, medtem ko ima vesoljsko plovilo Van Braun superračunalnik za resnično razmišljanje
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:18838.0
+passage.questions.17.question:Katere so različne vrste sond na Von Braunu?
+passage.questions.17.idx:3563.0
+passage.questions.17.answers.7.text:Sonde Horus
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:18945.0
+passage.questions.17.answers.6.text:Leonardo da Vinci
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:18944.0
+passage.questions.17.answers.5.text:Sapiens
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:18943.0
+passage.questions.17.answers.4.text:Balboa, rezervne sonde in robotske sonde (Horus)
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:18942.0
+passage.questions.17.answers.3.text:Puščice in žirosprinterji
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:18941.0
+passage.questions.17.answers.2.text:Robotske sonde
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:18940.0
+passage.questions.17.answers.1.text:Balboa
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:18939.0
+passage.questions.17.answers.0.text:Isaac Newton, Leonardo da Vinci in Balboa
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:18938.0
+passage.questions.16.question:Od vseh lastnosti, s katerimi so sonde opremljene, katera je namenjena predvsem komunikaciji s tujimi oblikami življenja?
+passage.questions.16.idx:3562.0
+passage.questions.16.answers.7.text:Holografsko sporočilo
+passage.questions.16.answers.7.label:1.0
+passage.questions.16.answers.7.idx:18937.0
+passage.questions.16.answers.6.text:Programski receptorji
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:18936.0
+passage.questions.16.answers.5.text:Zvočna škatla
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:18935.0
+passage.questions.16.answers.4.text:Holografski projektor sporočil
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:18934.0
+passage.questions.16.answers.3.text:Možgani
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:18933.0
+passage.questions.16.answers.2.text:Več manjših robotov, ki jih lahko pošljete na nevarna območja
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:18932.0
+passage.questions.16.answers.1.text:Napihljiv balon, napolnjen z vodikom
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:18931.0
+passage.questions.16.answers.0.text:Holografski projektor
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:18930.0
+passage.questions.15.question:S kakšno hitrostjo potuje medzvezdna vesoljska ladja Von Braun?
+passage.questions.15.idx:3561.0
+passage.questions.15.answers.4.text:20% svetlobne hitrosti
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:18929.0
+passage.questions.15.answers.3.text:10% svetlobne hitrosti
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:18928.0
+passage.questions.15.answers.2.text:Pri svetlobni hitrosti
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:18927.0
+passage.questions.15.answers.1.text:42 svetlobnih let
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:18926.0
+passage.questions.15.answers.0.text:Pri 25% svetlobni hitrosti
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:18925.0
+passage.questions.14.question:Kje se vesoljsko plovilo Von Braun razporedi po doseganju orbite?
+passage.questions.14.idx:3560.0
+passage.questions.14.answers.6.text:Sapienu
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:18924.0
+passage.questions.14.answers.5.text:Darwinu IV
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:18923.0
+passage.questions.14.answers.4.text:Na Balboo
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:18922.0
+passage.questions.14.answers.3.text:Ostaja v orbiti in uporablja Darwin Reconnaisance Orbiter
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:18921.0
+passage.questions.14.answers.2.text:Na površino planeta namesti balon, napolnjen z vodikom
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:18920.0
+passage.questions.14.answers.1.text:Na vesoljski planet
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:18919.0
+passage.questions.14.answers.0.text:Darwinov izvidniški orbiter
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:18918.0
+passage.questions.13.question:Kako so se imenovale tri sonde, ki jih je postavila vesoljska ladja Van Braun?
+passage.questions.13.idx:3559.0
+passage.questions.13.answers.6.text:Balboa, Leonardo DaVinci in Isaac Newton
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:18917.0
+passage.questions.13.answers.5.text:Balboa, Leonardo da Vinci in Sapien
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:18916.0
+passage.questions.13.answers.4.text:Darwin Reconnaisance Orbiter, Horus in Balboa
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:18915.0
+passage.questions.13.answers.3.text:Balboa, Leonardo da Vinci in Isaac Newton
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:18914.0
+passage.questions.13.answers.2.text:Leonardo d Vinci, Isaac Newton in Sapien
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:18913.0
+passage.questions.13.answers.1.text:Arrowtongue, Sapien in Balboa
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:18912.0
+passage.questions.13.answers.0.text:Ike, Leo in Arrowtongue
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:18911.0
+passage.questions.12.question:Kateri planet doseže Darwina IV tako, da potuje z 20% svetlobno hitrostjo?
+passage.questions.12.idx:3558.0
+passage.questions.12.answers.6.text:Alien Planet z Von Braunom
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:18910.0
+passage.questions.12.answers.5.text:Isaac Newton
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:18909.0
+passage.questions.12.answers.4.text:Leonardo da Vinci
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:18908.0
+passage.questions.12.answers.3.text:Vesoljski planet
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:18907.0
+passage.questions.12.answers.2.text:Darwinov izvidniški orbiter
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:18906.0
+passage.questions.12.answers.1.text:Horus
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:18905.0
+passage.questions.12.answers.0.text:Balboa
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:18904.0
+passage.questions.11.question:Balboa, Leonardo da Vinci in Isaac Newton so vse vrste česa?
+passage.questions.11.idx:3557.0
+passage.questions.11.answers.6.text:Medplanetarna vesoljska ladja
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:18903.0
+passage.questions.11.answers.5.text:Opice
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:18902.0
+passage.questions.11.answers.4.text:Sonde
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:18901.0
+passage.questions.11.answers.3.text:Znanstveniki
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:18900.0
+passage.questions.11.answers.2.text:Arrowtongue
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:18899.0
+passage.questions.11.answers.1.text:Živahne vrste
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:18898.0
+passage.questions.11.answers.0.text:Roboti
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:18897.0
+passage.questions.10.question:Ali je res, da je vesoljsko plovilo Alien Planet potrebovalo 49 let, da je doseglo Darwina IV?
+passage.questions.10.idx:3556.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:18896.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:18895.0
+passage.questions.1.question:Katero medzvezdno vesoljsko plovilo uporablja Alien Planet za dosego Darwina IV?
+passage.questions.1.idx:3547.0
+passage.questions.1.answers.5.text:Isaac Newton
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:18837.0
+passage.questions.1.answers.4.text:Leonardo da Vinci
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:18836.0
+passage.questions.1.answers.3.text:Arrowtongue
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:18835.0
+passage.questions.1.answers.2.text:Von Braun
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18834.0
+passage.questions.1.answers.1.text:Horus
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:18833.0
+passage.questions.1.answers.0.text:Balboa
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:18832.0
+passage.questions.0.question:Sonde imajo različne osebnosti in stopnjo inteligence.
+passage.questions.0.idx:3546
+passage.questions.0.answers.7.text:10-letnik
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:18831.0
+passage.questions.0.answers.6.text:4-letnik
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:18830.0
+passage.questions.0.answers.5.text:Isaac Newton
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:18829.0
+passage.questions.0.answers.4.text:Občutljive življenjske oblike
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:18828.0
+passage.questions.0.answers.3.text:Otrok
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:18827.0
+passage.questions.0.answers.2.text:4-letnik
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:18826.0
+passage.questions.0.answers.1.text:90-letnik
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18825
+passage.questions.0.answers.0.text:Dveletnik
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:18824
+idx:312

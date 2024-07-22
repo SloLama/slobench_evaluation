@@ -1,0 +1,214 @@
+version:1.1
+passage.text:Lahko se vprašate, ali obstajajo še drugi primeri statičnega praznjenja. Odgovor je pritrdilen. Strela je oblika statičnega praznjenja. Je veliko bolj dramatično kot tisto, kar se zgodi med vami in trkalcem, vendar je isto načelo. Kako se to zgodi, lahko vidite v naslednjem diagramu in animaciji. V deževju ste brez dvoma videli strele. Kakšne povezave ima razsvetljava s statično elektriko? Kot kaže, vse! Ob deževju oblaki razvijejo regije z različnimi naboji. To se zgodi zaradi gibanja molekul zraka, kapljic vode in ledenih delcev. Negativni naboji so skoncentrirani na dnu oblakov. Pozitivni naboji so zgoščeni na vrhu. Negativni naboji odbijajo elektrone na tleh spodaj. Tla se nato pozitivno napolnijo. Sčasoma se razlike povečujejo. Sčasoma se elektroni izpraznijo. To je tisto, kar vidimo kot strelo. Spodaj si lahko ogledate čudovit počasno gibanje strele.
+passage.questions.9.question:Kako se tla pozitivno napolnijo?
+passage.questions.9.idx:2550.0
+passage.questions.9.answers.4.text:Negativni naboji na dnu oblakov odbijajo elektrone na tleh spodaj
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:13460.0
+passage.questions.9.answers.3.text:Pozitivni naboji na dnu oblakov privlačijo elektrone na tleh spodaj
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:13459.0
+passage.questions.9.answers.2.text:Pozitivni naboji, ki so koncentrirani na dnu oblakov, privlačijo elektrone na tleh spodaj
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:13458.0
+passage.questions.9.answers.1.text:Negativni naboji iz baze oblaka odbijajo elektrone na tleh spodaj
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:13457.0
+passage.questions.9.answers.0.text:Negativni naboji, ki so koncentrirani na dnu oblakov, odbijajo elektrone na tleh spodaj
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:13456.0
+passage.questions.8.question:V čem se vrh oblaka razlikuje od dna oblaka med nevihto?
+passage.questions.8.idx:2549.0
+passage.questions.8.answers.6.text:Negativni naboji so koncentrirani na osnovi oblaka, pozitivni pa na vrhu
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:13455.0
+passage.questions.8.answers.5.text:Zgornji in spodnji oblaki so nasprotno nabiti
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:13454.0
+passage.questions.8.answers.4.text:Zgornji in spodnji oblak imata nasprotni naboj
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:13453.0
+passage.questions.8.answers.3.text:Negativni naboji odbijajo elektrone na tleh spodaj
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:13452.0
+passage.questions.8.answers.2.text:Dno oblaka miruje
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:13451.0
+passage.questions.8.answers.1.text:Vrh oblaka je nevtralen
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:13450.0
+passage.questions.8.answers.0.text:Pozitivni naboji so zgoščeni na vrhu
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:13449.0
+passage.questions.7.question:Kaj ima strela zveze s statično elektriko?
+passage.questions.7.idx:2548.0
+passage.questions.7.answers.6.text:Strela in statična energija sta narazen
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:13448.0
+passage.questions.7.answers.5.text:Molekule zraka
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:13447.0
+passage.questions.7.answers.4.text:Vse!
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:13446.0
+passage.questions.7.answers.3.text:Kot kaže, vse
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:13445.0
+passage.questions.7.answers.2.text:Strela je primer statične energije
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:13444.0
+passage.questions.7.answers.1.text:Strela je oblika statične energije
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:13443.0
+passage.questions.7.answers.0.text:Strela je oblika dinamične energije
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:13442.0
+passage.questions.6.question:Kako oblaki razvijajo različne regije nabojev?
+passage.questions.6.idx:2547.0
+passage.questions.6.answers.4.text:Ker so pozitivni naboji skoncentrirani na dnu oblakov
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:13441.0
+passage.questions.6.answers.3.text:Zaradi gibanja molekul zraka, kapljic vode in ledenih delcev
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:13440.0
+passage.questions.6.answers.2.text:Zaradi gibanja v molekulah zraka, kapljicah vode in ledenih delcih
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:13439.0
+passage.questions.6.answers.1.text:Skozi gibanje molekul, kapljic vode in ledenih delcev
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:13438.0
+passage.questions.6.answers.0.text:Zaradi lastnosti dinamičnega praznjenja strele
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:13437.0
+passage.questions.5.question:Katera sta dva primera statičnega praznjenja?
+passage.questions.5.idx:2546.0
+passage.questions.5.answers.4.text:Sončna svetloba
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:13436.0
+passage.questions.5.answers.3.text:Razsvetljava
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:13435.0
+passage.questions.5.answers.2.text:Gibanje vetra
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:13434.0
+passage.questions.5.answers.1.text:Vratno trkalo
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:13433.0
+passage.questions.5.answers.0.text:Strela in kaj se zgodi med vami in udarcem vrat
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:13432.0
+passage.questions.4.question:Je strela oblika statičnega praznjenja?
+passage.questions.4.idx:2545.0
+passage.questions.4.answers.3.text:Ne strinjam se
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:13431.0
+passage.questions.4.answers.2.text:Strinjam se
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:13430.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:13429.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:13428.0
+passage.questions.3.question:Kaj vidimo, ko se elektroni izpraznijo?
+passage.questions.3.idx:2544.0
+passage.questions.3.answers.4.text:Razsvetljava
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:13427.0
+passage.questions.3.answers.3.text:Dež
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:13426.0
+passage.questions.3.answers.2.text:Utripa
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:13425.0
+passage.questions.3.answers.1.text:Strela
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:13424.0
+passage.questions.3.answers.0.text:Sneženje
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:13423.0
+passage.questions.2.question:Ali obstajajo še drugi primeri statičnega praznjenja?
+passage.questions.2.idx:2543.0
+passage.questions.2.answers.6.text:Nevihta
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:13422.0
+passage.questions.2.answers.5.text:Sončna svetloba
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:13421.0
+passage.questions.2.answers.4.text:Razsvetljava
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:13420.0
+passage.questions.2.answers.3.text:Da
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:13419.0
+passage.questions.2.answers.2.text:Gibanje vetra
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:13418.0
+passage.questions.2.answers.1.text:Vratno trkalo
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13417.0
+passage.questions.2.answers.0.text:Strela je oblika statičnega praznjenja
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13416.0
+passage.questions.10.question:Kako imajo lahko različne regije oblakov različne naboje?
+passage.questions.10.idx:2551.0
+passage.questions.10.answers.4.text:Ker so pozitivni naboji skoncentrirani na dnu oblakov
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:13465.0
+passage.questions.10.answers.3.text:To je posledica gibanja molekul zraka, kapljic vode in delcev ledu
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:13464.0
+passage.questions.10.answers.2.text:Zaradi gibanja molekul zraka, kapljic vode in ledenih delcev
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:13463.0
+passage.questions.10.answers.1.text:Zaradi gibanja v molekulah zraka, kapljicah vode in ledenih delcih
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:13462.0
+passage.questions.10.answers.0.text:Zaradi lastnosti dinamičnega praznjenja strele
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:13461.0
+passage.questions.1.question:Kaj vidimo, ko vidimo strele?
+passage.questions.1.idx:2542.0
+passage.questions.1.answers.4.text:Izpust elektronov
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:13415.0
+passage.questions.1.answers.3.text:Elektroni se izpraznijo iz oblakov
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:13414.0
+passage.questions.1.answers.2.text:Vidimo, da se pozitivni naboj izprazni
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:13413.0
+passage.questions.1.answers.1.text:Protoni se odvajajo z neba
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13412.0
+passage.questions.1.answers.0.text:Izpust elektronov je tisto, kar vidimo kot razsvetljavo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13411.0
+passage.questions.0.question:Kaj se zgodi z elektroni, da se spremenijo v strele?
+passage.questions.0.idx:2541
+passage.questions.0.answers.7.text:Elektroni spreminjajo svoje lastnosti
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:13410.0
+passage.questions.0.answers.6.text:Počasni posnetek
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:13409.0
+passage.questions.0.answers.5.text:Sčasoma se elektroni izpraznijo
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:13408.0
+passage.questions.0.answers.4.text:Izpraznijo se
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:13407.0
+passage.questions.0.answers.3.text:Elektroni odbijajo negativni naboj na tleh spodaj
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:13406.0
+passage.questions.0.answers.2.text:Elektron se nevtralno napolni
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13405.0
+passage.questions.0.answers.1.text:Elektroni se izpraznijo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:13404
+passage.questions.0.answers.0.text:Negativni naboji odbijajo elektrone na tleh spodaj
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:13403
+idx:227

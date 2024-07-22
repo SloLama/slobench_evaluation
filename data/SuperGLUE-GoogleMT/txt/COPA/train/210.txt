@@ -1,0 +1,6 @@
+choice1:Pošiljatelj je od nje skušal pridobiti denar.
+choice2:Pošiljatelj je od nje zahteval odgovor.
+idx:210
+label:0
+premise:Ženska je e-pošto izbrisala.
+question:cause

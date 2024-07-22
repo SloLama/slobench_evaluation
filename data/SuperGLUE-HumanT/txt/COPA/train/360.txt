@@ -1,0 +1,6 @@
+choice1:Poseg je bil drag.
+choice2:Specialisti so priporočali poseg.
+idx:360
+label:1
+premise:Pacient je šel na tvegan poseg.
+question:cause

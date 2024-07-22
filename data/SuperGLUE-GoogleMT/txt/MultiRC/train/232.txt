@@ -1,0 +1,269 @@
+version:1.1
+passage.text:Milwaukee, Wisconsin (CNN) - Predsednik Barack Obama je v ponedeljek v prizadevanju za ustvarjanje delovnih mest in pospeševanje gospodarske rasti kongres pozval, naj sprejme načrt za 50 milijard dolarjev za obnovo prometne infrastrukture države. Njegov nagovor je bil prvi od dveh govorov, ki naj bi jih imel predsednik ta teden, da bi oblikoval stalni odziv svoje uprave na recesijo, manj kot dva meseca pred vmesnimi volitvami, na katerih so ogrožene demokratične večine v parlamentu in senatu. &quot;Danes objavljam nov načrt za dolgoročno obnovo in posodobitev ameriških cest ter tirnic in vzletno-pristajalnih stez,&quot; je dejal Obama, ki je na praznik dela govoril v Milwaukeeju v državi Wisconsin - državi s konkurenčnimi gubernacijskimi dirkami in dirkami ameriškega senata. &quot;Včasih smo imeli najboljšo infrastrukturo na svetu. Lahko jo imamo spet,&quot; je dejal na glasno navdušenje množice sindikalnih delavcev. Predlog predvideva - v šestletnem obdobju - obnovo 150.000 milj cest, 4.000 milj železniške in 150 milj letaliških stez. Vključevala bi tudi posodobitev nacionalnega sistema nadzora zračnega prometa, da bi zmanjšali zamude in čas potovanja. &quot;To ne bo samo ustvarilo delovnih mest takoj. Naše gospodarstvo bo tudi dolgoročno brundalo,&quot; je dejal predsednik. Obama upa, da bo skupaj s kongresom izvedel vnaprejšnjo naložbo v višini 50 milijard dolarjev - znesek, ki ga je izjava Bele hiše navedla, predstavlja velik del novih izdatkov za infrastrukturo. Nato bi bila naložba povezana s tem, kar je uprava imenovala okvir za izboljšanje prevozne porabe. Dolgoročni načrt bi vključeval ustanovitev infrastrukturne banke, ki bi vzbujala zvezne dolarje in se osredotočala na projekte, ki bi lahko zagotovili največji pok, je dejal Obama. Predsednik je poudaril, da morajo demokrati in republikanci sodelovati pri pobudi za prevoz, ki bi jo moral potrditi kongres.
+passage.questions.9.question:Kakšen takojšen učinek bi imel načrt za obnovo in posodobitev ameriških cest ter dolgotrajnih tirnic in vzletno-pristajalnih stez?
+passage.questions.9.idx:2606.0
+passage.questions.9.answers.5.text:Več porabljenega denarja
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:13720.0
+passage.questions.9.answers.4.text:Takoj bi zmanjšala delovna mesta
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:13719.0
+passage.questions.9.answers.3.text:Takoj bi ustvarila delovna mesta
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:13718.0
+passage.questions.9.answers.2.text:Ponovno bi nam dala &quot;največjo infrastrukturo na svetu&quot;
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:13717.0
+passage.questions.9.answers.1.text:Več delovnih mest
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:13716.0
+passage.questions.9.answers.0.text:Bi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:13715.0
+passage.questions.8.question:Na kaj misli predsednik, ko reče: &quot;Lahko ga dobimo spet&quot;?
+passage.questions.8.idx:2605.0
+passage.questions.8.answers.6.text:Posodobljena infrastruktura
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:13714.0
+passage.questions.8.answers.5.text:Najboljša infrastruktura na svetu
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:13713.0
+passage.questions.8.answers.4.text:Največja svetovna infrastruktura
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:13712.0
+passage.questions.8.answers.3.text:Veličino
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:13711.0
+passage.questions.8.answers.2.text:Demokratična večina v parlamentu in senatu
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:13710.0
+passage.questions.8.answers.1.text:Infrastrukturna banka
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:13709.0
+passage.questions.8.answers.0.text:&quot;Največja infrastruktura na svetu&quot;
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:13708.0
+passage.questions.7.question:Kaj je bilo vključeno v načrt predsednika Obame za ustvarjanje delovnih mest in pospeševanje gospodarske rasti?
+passage.questions.7.idx:2604.0
+passage.questions.7.answers.5.text:Obnovite državno prometno infrastrukturo z obnovo in posodobitvijo ameriških cest, tirnic in vzletno-pristajalnih stez
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:13707.0
+passage.questions.7.answers.4.text:Šestletno obdobje - obnova 25.000 milj cest, 1500 milj železnice in 500 milj letaliških stez
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:13706.0
+passage.questions.7.answers.3.text:Načrt za obnovo 150.000 milj cest, 4.000 milj železnice in 150 milj letaliških stez
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:13705.0
+passage.questions.7.answers.2.text:Kongres
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:13704.0
+passage.questions.7.answers.1.text:Šestletno obdobje za obnovo 150.000 milj cest, 4.000 milj železnice in 150 milj letaliških stez
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:13703.0
+passage.questions.7.answers.0.text:Sedemletni načrt za obnovo tirnic, cest in vzletno-pristajalnih stez
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:13702.0
+passage.questions.6.question:Koga je bilo veliko ljudi veselo, kaj je predsednik govoril v svojem govoru o obnovi prometne infrastrukture države?
+passage.questions.6.idx:2603.0
+passage.questions.6.answers.5.text:Republikanci
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:13701.0
+passage.questions.6.answers.4.text:&quot;White-Collar&quot; delavci
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:13700.0
+passage.questions.6.answers.3.text:Sindikalni delavci
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:13699.0
+passage.questions.6.answers.2.text:Demokrati
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:13698.0
+passage.questions.6.answers.1.text:Kongres
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:13697.0
+passage.questions.6.answers.0.text:Ljudje, ki so sindikalni delavci
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:13696.0
+passage.questions.5.question:Kaj pa kot predsednik Obama, ki kongres prosi za uresničitev njegovega načrta za obnovo državne prometne infrastrukture?
+passage.questions.5.idx:2602.0
+passage.questions.5.answers.6.text:Naložba v višini 50 milijard dolarjev
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:13695.0
+passage.questions.5.answers.5.text:Skupaj delati pri njegovem novem načrtu in ga podpirati
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:13694.0
+passage.questions.5.answers.4.text:Zanje naj bi ustvarili šestletni načrt za obnovo cest, tirnic in vzletno-pristajalnih stez
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:13693.0
+passage.questions.5.answers.3.text:Biti ponosen nanj
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:13692.0
+passage.questions.5.answers.2.text:Za izvajanje &quot;National Bank
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:13691.0
+passage.questions.5.answers.1.text:Ustanovitev &quot;Infrastrukturne banke&quot;, ki bo pomagala financirati prenovo na najučinkovitejši način
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:13690.0
+passage.questions.5.answers.0.text:Šest let za obnovo številnih cest, tirnic in vzletno-pristajalnih stez
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:13689.0
+passage.questions.4.question:Kakšen je okvir za izboljšanje porabe za prevoz?
+passage.questions.4.idx:2601.0
+passage.questions.4.answers.2.text:Dolgoročni načrt bi vključeval ustanovitev nacionalne banke, ki bi vzbujala zvezne dolarje in se osredotočala na projekte, ki so bili najučinkovitejši.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:13688.0
+passage.questions.4.answers.1.text:Ustvarjanje infrastrukturne banke, ki bi usmerjala porabo, da bi dosegli največje rezultate za porabljene dolarje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:13687.0
+passage.questions.4.answers.0.text:Dolgoročni načrt bi vključeval ustanovitev Infrastrukturne banke, ki bi izkoristila zvezne dolarje in se osredotočila na projekte, ki so bili najučinkovitejši.
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:13686.0
+passage.questions.3.question:Kaj je v imenu njegove uprave očiten vzrok in kaj je vzrok za to, zakaj je predsednik Obama govoril o porabi 50 milijard dolarjev za obnovo prometne infrastrukture države?
+passage.questions.3.idx:2600.0
+passage.questions.3.answers.5.text:Misli, da so ceste slabe
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:13685.0
+passage.questions.3.answers.4.text:Odkrit vzrok je bil zagotoviti odgovor uprave na recesijo. Nakazani vzrok se je nanašal na vmesne volitve, na katerih so bile ogrožene demokratične večine v parlamentu in senatu
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:13684.0
+passage.questions.3.answers.3.text:Overt: Zavzemati se za ustvarjanje delovnih mest in spodbujanje gospodarstva. B Implicirano: Ker je ogrožena demokratična večina doma in senata
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:13683.0
+passage.questions.3.answers.2.text:Overt: Ker prihajajo vmesne volitve. Implicirano: Ponudba za ustvarjanje delovnih mest in spodbujanje gospodarske rasti
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:13682.0
+passage.questions.3.answers.1.text:Overt: Ponudba za ustvarjanje delovnih mest in pospeševanje gospodarske rasti. Implicirano: Ker prihajajo vmesne volitve
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:13681.0
+passage.questions.3.answers.0.text:Overt: Za posodobitev cest in popravilo cest, tirnic in vzletno-pristajalnih stez. Implicirano: zagotoviti republiško večino doma in senata pred vmesnimi volitvami
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:13680.0
+passage.questions.2.question:Je načrt predsednika Obame kratkoročno ali dolgoročno koristen?
+passage.questions.2.idx:2599.0
+passage.questions.2.answers.6.text:Kratkoročno
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:13679.0
+passage.questions.2.answers.5.text:Kratek tek
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:13678.0
+passage.questions.2.answers.4.text:Dolgoročno
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:13677.0
+passage.questions.2.answers.3.text:Takoj
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13676.0
+passage.questions.2.answers.2.text:Dolgoročno
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:13675.0
+passage.questions.2.answers.1.text:Oboje
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13674.0
+passage.questions.2.answers.0.text:Tako neposredna delovna mesta kot dolgoročno brneče gospodarstvo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13673.0
+passage.questions.12.question:Kaj predvideva predlog?
+passage.questions.12.idx:2609.0
+passage.questions.12.answers.4.text:Obnova 150.000 milj cest, 4.000 milj železnice in 150 milj letaliških stez ter posodobitev sistema nadzora zračnega prometa
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:13738.0
+passage.questions.12.answers.3.text:Načrt za obnovo 150.000 milj cest, 4.000 milj železnice in 150 milj letaliških stez
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:13737.0
+passage.questions.12.answers.2.text:Posodobljena in izboljšana infrastruktura
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:13736.0
+passage.questions.12.answers.1.text:Demokratična večina v parlamentu in senatu
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:13735.0
+passage.questions.12.answers.0.text:Boljše ceste
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:13734.0
+passage.questions.11.question:Kakšno trditev je glede infrastrukture države izrazil predsednik Obama?
+passage.questions.11.idx:2608.0
+passage.questions.11.answers.7.text:Da bi ponudba za njegovo obnovo ustvarila nova delovna mesta
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:13733.0
+passage.questions.11.answers.6.text:Da še nikoli nismo imeli največje infrastrukture na svetu
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:13732.0
+passage.questions.11.answers.5.text:Da smo imeli nekoč &quot;najboljšo infrastrukturo na svetu&quot;
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:13731.0
+passage.questions.11.answers.4.text:Da &quot;lahko spet imamo [največjo infrastrukturo na svetu]&quot;
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:13730.0
+passage.questions.11.answers.3.text:Včasih je bilo najboljše na svetu in njegov načrt bo pomagal obnoviti to priznanje
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:13729.0
+passage.questions.11.answers.2.text:Ustvarila bo delovna mesta in izboljšala gospodarstvo
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:13728.0
+passage.questions.11.answers.1.text:Izboljšal bo čas vožnje
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:13727.0
+passage.questions.11.answers.0.text:Da bi ponudba za njegovo obnovo povzročila, da bo gospodarstvo &quot;brnelo&quot;
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:13726.0
+passage.questions.10.question:Koliko bi stali okvir za izboljšanje porabe kongresa za prevoz?
+passage.questions.10.idx:2607.0
+passage.questions.10.answers.4.text:150.000 dolarjev
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:13725.0
+passage.questions.10.answers.3.text:4 milijarde dolarjev
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:13724.0
+passage.questions.10.answers.2.text:50 milijonov dolarjev
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:13723.0
+passage.questions.10.answers.1.text:50 milijard dolarjev
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:13722.0
+passage.questions.10.answers.0.text:Petdeset milijard USD
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:13721.0
+passage.questions.1.question:Kakšen vpliv bi imel ta načrt poleg popravila 150 kilometrov letaliških stez na letalski promet?
+passage.questions.1.idx:2598.0
+passage.questions.1.answers.7.text:Stroški bi povzročili povečanje zamud in
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:13672.0
+passage.questions.1.answers.6.text:Ali čas potovanja
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:13671.0
+passage.questions.1.answers.5.text:Nacionalni sistem nadzora zračnega prometa bi posodobili, da bi zmanjšali zamude in čas potovanja
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:13670.0
+passage.questions.1.answers.4.text:Pomagalo bi našemu gospodarstvu
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:13669.0
+passage.questions.1.answers.3.text:To bi zmanjšalo zamude
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:13668.0
+passage.questions.1.answers.2.text:To bi skrajšalo čas potovanja
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:13667.0
+passage.questions.1.answers.1.text:Prebarvanje črt
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13666.0
+passage.questions.1.answers.0.text:Posodobitev nacionalnega sistema nadzora zračnega prometa, da bi zmanjšali zamude in čas potovanja
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13665.0
+passage.questions.0.question:Kaj je predsednik dejal, da bi bili dve pomembni koristi porabe za obnovo številnih kilometrov cest, železnic in vzletno-pristajalnih stez?
+passage.questions.0.idx:2597
+passage.questions.0.answers.5.text:Več delovnih mest, boljše gospodarstvo
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:13664.0
+passage.questions.0.answers.4.text:Da bo ustvarila infrastrukturno banko in povečala možnost demokratične večine v parlamentu in senatu
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:13663.0
+passage.questions.0.answers.3.text:Da bi &quot;takoj ustvaril delovna mesta&quot; in &quot;Naj naše gospodarstvo bruni na dolgi rok.&quot;
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:13662.0
+passage.questions.0.answers.2.text:Več delovnih mest, boljši čas vožnje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13661.0
+passage.questions.0.answers.1.text:Da bo spodbudil novo porabo za infrastrukturo in populariziral tiste, ki jim je v Wisconsinu naklonjen za prihajajoče tamkajšnje dirke
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13660
+passage.questions.0.answers.0.text:Takoj bi ustvarila delovna mesta in tudi dolgoročno bolj tekoče gospodarstvo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:13659
+idx:232

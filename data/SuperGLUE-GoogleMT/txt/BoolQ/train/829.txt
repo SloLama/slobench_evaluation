@@ -1,0 +1,4 @@
+idx:829
+label:False
+passage:Kategorična spremenljivka - posledično je osrednja tendenca nabora kategoričnih spremenljivk podana z načinom; ni mogoče določiti niti povprečja niti mediane. Kot primer lahko glede na nabor ljudi upoštevamo nabor kategoričnih spremenljivk, ki ustrezajo njihovim priimkom. Upoštevamo lahko operacije, kot so enakovrednost (ali imata dve osebi enak priimek), nastavitev članstva (ali ima oseba ime na določenem seznamu), štetje (koliko ljudi ima priimek) ali iskanje načina ( katero ime se najpogosteje pojavlja). Vendar ne moremo smiselno izračunati &quot;vsote&quot; Smith + Johnson ali vprašati, ali je Smith &quot;manjši od&quot; ali &quot;večji od&quot; Johnsona. Kot rezultat tega ne moremo smiselno vprašati, kaj je v naboru imen povprečno ime ali povprečje (mediana).
+question:ali lahko določite mediano za neurejeno kategorično spremenljivko

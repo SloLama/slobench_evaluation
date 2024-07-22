@@ -1,0 +1,102 @@
+version:1.1
+passage.text:(CNN) - Argentinska zvezdniška zasedba je v soboto na odprtju skupine B v Johannesburgu začela kampanjo za svetovno prvenstvo z zmago nad Nigerijo z 1: 0. Zadetek branilca Gabriela Heinzeja v šestih minutah je vse ločil obe ekipi po navdihnjenem prikazu vratarja Nigerije Vincenta Enyeame. Toda Južna Koreja je dan v soboto končala na vrhu skupine po zmagi nad Grčijo z 2: 0 v Port Elizabeth. Gola Lee Jung-Soo in Park Ji-Sung sta polfinalistom leta 2002 omogočila udobno zmago nad evropskimi cv prvaki leta 2008. Argentina 1: 0 Nigerija Enyeama le malo ni mogel zaustaviti močnega zgodnjega udarca z glavo Heinzeja iz kota Juana Sebastiana Verona, vendar je svojo ekipo ohranil pri življenju z nizom akrobatskih obramb, s čimer je zavrnil svetovnega igralca leta Lionela Messija. Diego Maradona je bil vesel, da si je zagotovil prvo zmago kot trener svetovnega pokala, vendar kritičen do svojih napadalcev, ker igre niso naredili varne. &quot;Ko stvari ne ubijete pred golom, lahko plačate visoko ceno. Skoraj so dobili neodločen rezultat - zamudili smo veliko priložnosti,&quot; je Maradona dejal za AFP. &quot;Igralca, kot sta Leo Messi in Higuain, sta v lanski sezoni med njimi dosegla približno 60 zadetkov, danes pa je bilo skoraj tako, kot da si ne bi mogli ogledati cilja.&quot; Toda zmaga pomeni, da smo lahko mirni - smo v prava pot. &quot;
+passage.questions.5.question:Kdo so napadalci Argentine?
+passage.questions.5.idx:3162.0
+passage.questions.5.answers.3.text:Lionel Messi in Higuain
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:16671.0
+passage.questions.5.answers.2.text:Gabriel Heinze
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:16670.0
+passage.questions.5.answers.1.text:Juan Sebastian Veron
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:16669.0
+passage.questions.5.answers.0.text:Lee Jung-Soo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:16668.0
+passage.questions.4.question:Kdo so igralci argentinske nogometne reprezentance?
+passage.questions.4.idx:3161.0
+passage.questions.4.answers.5.text:Nigerija Enyeama
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:16667.0
+passage.questions.4.answers.4.text:Lionel Messi
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:16666.0
+passage.questions.4.answers.3.text:Juan Sebastian Veron
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:16665.0
+passage.questions.4.answers.2.text:Lee Jung-Soo, Park Ji-Sung
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:16664.0
+passage.questions.4.answers.1.text:Gabriel Heinze
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:16663.0
+passage.questions.4.answers.0.text:Diego Maradona
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:16662.0
+passage.questions.3.question:Kako je ime nigerijskemu vratarju?
+passage.questions.3.idx:3160.0
+passage.questions.3.answers.5.text:Vincent Enyeama
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:16661.0
+passage.questions.3.answers.4.text:Juan Sebastian Veron
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:16660.0
+passage.questions.3.answers.3.text:Gabriel Heinze
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:16659.0
+passage.questions.3.answers.2.text:Enyeama
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:16658.0
+passage.questions.3.answers.1.text:Johannesburg
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:16657.0
+passage.questions.3.answers.0.text:Skupina B
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:16656.0
+passage.questions.2.question:Koga je igrala Argentina na uvodni tekmi?
+passage.questions.2.idx:3159.0
+passage.questions.2.answers.2.text:Portugalska
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:16655.0
+passage.questions.2.answers.1.text:Johannesburg
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:16654.0
+passage.questions.2.answers.0.text:Nigerija
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:16653.0
+passage.questions.1.question:Kdo je bil selektor Argentine?
+passage.questions.1.idx:3158.0
+passage.questions.1.answers.5.text:Port Elizabeth
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:16652.0
+passage.questions.1.answers.4.text:Messi
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:16651.0
+passage.questions.1.answers.3.text:Heinze
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:16650.0
+passage.questions.1.answers.2.text:Svetovni igralec leta
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16649.0
+passage.questions.1.answers.1.text:Maradona
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:16648.0
+passage.questions.1.answers.0.text:Diego Maradona
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:16647.0
+passage.questions.0.question:Kdo so bili evropski prvaki leta 2008?
+passage.questions.0.idx:3157
+passage.questions.0.answers.3.text:Grčija
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:16646.0
+passage.questions.0.answers.2.text:Nemčija
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:16645.0
+passage.questions.0.answers.1.text:Južna Koreja
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:16644
+passage.questions.0.answers.0.text:Argentina
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:16643
+idx:277

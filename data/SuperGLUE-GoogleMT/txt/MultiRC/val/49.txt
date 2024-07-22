@@ -1,0 +1,272 @@
+version:1.1
+passage.text:V nesreči je umrl tudi voznik avtomobila Facel Vega Michel Gallimard, ki je bil Camusov založnik in tesen prijatelj. Avgusta 2011 je milanski časopis Corriere della Sera poročal o teoriji, da je bil pisatelj žrtev sovjetske zaplete, vendar Camusov biograf Olivier Todd tega ni menil za verodostojnega. Camus je bil pokopan na pokopališču Lourmarin, Lourmarin, Vaucluse, Francija. Bil je drugi najmlajši prejemnik Nobelove nagrade za literaturo v starosti 44 let, za Rudyardom Kiplingom, star 42 let. Preživeli so ga žena in sin dvojčka, sin in hči Jean in Catherine, avtorske pravice za njegovo delo. Dve Camusovi deli sta bili objavljeni posmrtno. V prvem z naslovom Srečna smrt (1970) je bil lik z imenom Patrice Mersault, primerljiv z Neznančevim Meursaultom. Glede razmerja med obema knjigama poteka znanstvena razprava. Drugi je bil nedokončani roman Prvi mož (1995), ki ga je Camus pisal, preden je umrl. Roman je bil avtobiografsko delo o njegovem otroštvu v Alžiriji.
+passage.questions.9.question:Za kaj je bil v glavnem &quot;Prvi mož&quot;?
+passage.questions.9.idx:575.0
+passage.questions.9.answers.4.text:Njegovo otroštvo v ZDA
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:2960.0
+passage.questions.9.answers.3.text:Njegovo otroštvo v Alžiriji
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:2959.0
+passage.questions.9.answers.2.text:Bila je avtobiografija o Camusovem otroštvu v Alžiriji
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2958.0
+passage.questions.9.answers.1.text:Sovjetski zaplet, da ga ubije
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2957.0
+passage.questions.9.answers.0.text:Njegova žena in sin dvojček ter hči
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2956.0
+passage.questions.8.question:Kdo je preživel Camusa po njegovi smrti?
+passage.questions.8.idx:574.0
+passage.questions.8.answers.3.text:Njegova žena in sinova dvojčka
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:2955.0
+passage.questions.8.answers.2.text:Njegova žena in hčerki dvojčici
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2954.0
+passage.questions.8.answers.1.text:Njegov sin dvojček in hči
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2953.0
+passage.questions.8.answers.0.text:Njegova žena in sin dvojček ter hči
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:2952.0
+passage.questions.7.question:Katere dve Camusovi knjigi, ki sta postavili znanstveno razpravo?
+passage.questions.7.idx:573.0
+passage.questions.7.answers.5.text:O dveh njegovih knjigah ni znanstvene razprave
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:2951.0
+passage.questions.7.answers.4.text:Neznanec in prvi mož
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:2950.0
+passage.questions.7.answers.3.text:Prvi mož in nedokončana knjiga brez naslova
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2949.0
+passage.questions.7.answers.2.text:Srečna smrt in prvi mož
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2948.0
+passage.questions.7.answers.1.text:Srečna smrt (1970) in Neznanec
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:2947.0
+passage.questions.7.answers.0.text:Srečna smrt in nedokončana knjiga brez naslova
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2946.0
+passage.questions.6.question:Olivier Todd dis tega vzroka za Camusovo smrt ne šteje za del sovjetske zaplete.
+passage.questions.6.idx:572.0
+passage.questions.6.answers.5.text:Ni mislil, da je njegova družina vzrok njegove smrti
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:2945.0
+passage.questions.6.answers.4.text:Prometna nesreča
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:2944.0
+passage.questions.6.answers.3.text:Tajna služba
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2943.0
+passage.questions.6.answers.2.text:Ni mislil, da je bil Camus ubit zaradi sovjetske zarote
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:2942.0
+passage.questions.6.answers.1.text:Ni mislil, da je bil tisti dan Michel Gallimard naključno ubit
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2941.0
+passage.questions.6.answers.0.text:Ni mislil, da so Camusove knjige vzrok njegove smrti
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2940.0
+passage.questions.5.question:Kateri dve deli sta bili objavljeni po Camusovi smrti?
+passage.questions.5.idx:571.0
+passage.questions.5.answers.4.text:Srečna smrt in prvi mož
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2939.0
+passage.questions.5.answers.3.text:Po njegovi smrti je izšla le ena knjiga - Srečna smrt
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2938.0
+passage.questions.5.answers.2.text:Po njegovi smrti sta izšli &quot;Srečna smrt&quot; (1970) in &quot;Prvi mož&quot; (1995)
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:2937.0
+passage.questions.5.answers.1.text:Po njegovi smrti je izšla le ena knjiga - The First Man
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2936.0
+passage.questions.5.answers.0.text:Po njegovi smrti ni izšla nobena Camusova knjiga
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2935.0
+passage.questions.4.question:O razmerju med tema dvema romanoma poteka znanstvena razprava?
+passage.questions.4.idx:570.0
+passage.questions.4.answers.4.text:Neznančev Mersault in srečna smrt
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2934.0
+passage.questions.4.answers.3.text:Srečna smrt in prvi mož
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:2933.0
+passage.questions.4.answers.2.text:Biografija prvega človeka in Camusa Olivierja Todda
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2932.0
+passage.questions.4.answers.1.text:Camusova in Romana Kiplingova romana
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2931.0
+passage.questions.4.answers.0.text:Srečna smrt in Camusova biografija Olivierja Todda
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2930.0
+passage.questions.3.question:Kateri roman je Camus napisal o svojem otroštvu v Nigeriji?
+passage.questions.3.idx:569.0
+passage.questions.3.answers.3.text:O svojem otroštvu ni napisal knjige
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2929.0
+passage.questions.3.answers.2.text:V Nigeriji ni odraščal
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2928.0
+passage.questions.3.answers.1.text:Prvi človek
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:2927.0
+passage.questions.3.answers.0.text:Srečna smrt
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2926.0
+passage.questions.2.question:O katerih dveh Camusovih knjigah obstaja znanstvena razprava?
+passage.questions.2.idx:568
+passage.questions.2.answers.4.text:Prvi mož in nedokončana knjiga brez naslova
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2925.0
+passage.questions.2.answers.3.text:Srečna smrt in prvi mož
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2924.0
+passage.questions.2.answers.2.text:Razpravlja se o eni od njegovih knjig - Srečna smrt - in Kiplingovi knjigi
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2923.0
+passage.questions.2.answers.1.text:O dveh njegovih knjigah ni razprave
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:2922
+passage.questions.2.answers.0.text:&quot;Prvi mož&quot; in &quot;Srečna smrt&quot;
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2921
+passage.questions.15.question:Kdo je bil drugi najmlajši, ki je prejel nobelovo nagrado za literaturo?
+passage.questions.15.idx:581.0
+passage.questions.15.answers.4.text:Lourmarin
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:2990.0
+passage.questions.15.answers.3.text:Rudyard Kipling
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:2989.0
+passage.questions.15.answers.2.text:Camus
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:2988.0
+passage.questions.15.answers.1.text:Olivier Todd
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:2987.0
+passage.questions.15.answers.0.text:Camusov sin
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:2986.0
+passage.questions.14.question:Katera dela so bila objavljena posmrtno?
+passage.questions.14.idx:580.0
+passage.questions.14.answers.4.text:Srečna smrt, prvi mož
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:2985.0
+passage.questions.14.answers.3.text:Gallimardov
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:2984.0
+passage.questions.14.answers.2.text:Camus
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:2983.0
+passage.questions.14.answers.1.text:Kiplingova
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:2982.0
+passage.questions.14.answers.0.text:Olivierja Todda
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:2981.0
+passage.questions.13.question:Kaj je bila tema nedokončanega romana?
+passage.questions.13.idx:579.0
+passage.questions.13.answers.4.text:Smrt Camusovega prijatelja Michela Gallimarda
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:2980.0
+passage.questions.13.answers.3.text:Avtobiografsko delo o njegovem otroštvu
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:2979.0
+passage.questions.13.answers.2.text:Camusovo &quot;otroško&quot; otroštvo
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:2978.0
+passage.questions.13.answers.1.text:Življenje Patricea Mersaulta
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:2977.0
+passage.questions.13.answers.0.text:Camusovo otroštvo v Alžiriji
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:2976.0
+passage.questions.12.question:Milanski časopis je mislil, da je bila smrt te osebe del sovjetske zaplete.
+passage.questions.12.idx:578.0
+passage.questions.12.answers.4.text:Rudyard Kipling
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:2975.0
+passage.questions.12.answers.3.text:Corriere della Sera
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:2974.0
+passage.questions.12.answers.2.text:Camujeva žena ter sin in hči dvojčka
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2973.0
+passage.questions.12.answers.1.text:Camus
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2972.0
+passage.questions.12.answers.0.text:Michel Gallimard
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2971.0
+passage.questions.11.question:Kateri roman je Camus napisal o svojem avtobiografskem delu?
+passage.questions.11.idx:577.0
+passage.questions.11.answers.4.text:Vlada
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:2970.0
+passage.questions.11.answers.3.text:Prvi človek
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:2969.0
+passage.questions.11.answers.2.text:Srečna smrt
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2968.0
+passage.questions.11.answers.1.text:Neimenovani nedokončani roman
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2967.0
+passage.questions.11.answers.0.text:Izgubljeni rokopis
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2966.0
+passage.questions.10.question:Kateri roman od dveh posmrtnih je bil nedokončan?
+passage.questions.10.idx:576.0
+passage.questions.10.answers.4.text:Prvi človek
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:2965.0
+passage.questions.10.answers.3.text:Prijatelji
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2964.0
+passage.questions.10.answers.2.text:Srečna smrt
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2963.0
+passage.questions.10.answers.1.text:Camus ni imel nedokončanega romana, ki je izšel
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2962.0
+passage.questions.10.answers.0.text:Avtobiografski roman o njegovem odraslem pisateljskem življenju
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2961.0
+passage.questions.1.question:Kateri dve knjigi sta bili izdani posmrtno?
+passage.questions.1.idx:567
+passage.questions.1.answers.4.text:Srečna smrt in zadnji mož
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2920.0
+passage.questions.1.answers.3.text:Srečna smrt in prvi mož
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:2919.0
+passage.questions.1.answers.2.text:Smrt in prvi mož
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2918.0
+passage.questions.1.answers.1.text:Avtorske pravice za njegovo delo
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2917
+passage.questions.1.answers.0.text:Srečna smrt in mračna smrt
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:2916
+passage.questions.0.question:Kako je umrl Camus?
+passage.questions.0.idx:566
+passage.questions.0.answers.3.text:Prometna nesreča
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2915.0
+passage.questions.0.answers.2.text:Umrl je od starosti
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2914.0
+passage.questions.0.answers.1.text:Bil je ustreljen
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2913
+passage.questions.0.answers.0.text:Umrl je, ko je bil pri prijatelju, skupaj s prijateljem
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2912
+idx:49

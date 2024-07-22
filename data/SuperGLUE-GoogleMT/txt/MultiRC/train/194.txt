@@ -1,0 +1,472 @@
+version:1.1
+passage.text:Algarve je za večino sveta sinonim za Portugalsko, vendar vam bodo Portugalci rekli ravno nasprotno: regija nima veliko skupnega s preostalo državo. Južni del obale bolj spominja na severnoafriško pokrajino kot na evropsko. Nima svetovljanskih mest, kot sta Lizbona in Porto, ki sta bolj severno. Večina Portugalske je znana po zabavnih mestih, srednjeveških gradovih in velikih palačah. Algarve so bolj prepoznavni po nepreglednih blokih turističnih apartmajev, hotelov in natančno urejenih igriščih za golf. In plaže. Mislite, da Algarve in um predstavljata dolge, veličastne odseke zlatega peska, osamljene zalive, uokvirjene s čudnimi oker obarvanimi kamnitimi formacijami, in globoke zelene vode. Portugalska južna provinca je s približno 160 km obale ena glavnih evropskih plažnih destinacij. Občasno hladen ocean je Atlantik, toda Algarve imajo sopen občutek Sredozemlja. Njeno konstantno podnebje je najboljše na Portugalskem in eno najlepših na svetu: več kot 250 sončnih dni na leto - več kot skoraj vsako drugo mednarodno letovišče. Zmerni učinek Zalivskega toka skozi zimo sproži svež spomladanski vetrič, konec januarja in februarja pa polja belih mandljev prekrijejo polja. Poleti je vročina močna, a redko nevzdržna, ne glede na to pa so čudovite plaže in nešteti bazeni vedno le potop. Čudovito celoletno vreme je Algarve postalo velika destinacija za športne počitnice. Vrhunskih golf igrišč je na voljo - nekaj s majicami, ki se dramatično držijo pečin in plovb, ki le obkrožajo rob oceana - in jahanje, tenis, ribolov z velikimi igrami, jadranje in jadranje na deski so izjemno priljubljeni. Šport, plaže in gostoljubno vreme - da ne omenjamo lahko organiziranih paketnih počitnic - so zagotovo razlogi, da Algarve sprejme toliko obiskovalcev kot celotna Portugalska. A na Algarve se ne spuščajo samo mednarodni turisti; številni Portugalci iz Lizbone in drugod na severu imajo počitniške domove in tu preživljajo poletne počitnice. Obala je lepo razdeljena na razgiban Barlavento na zahodu in ravno lepoto Sotaventa na vzhodu. Na zahodu boste našli znamenite oranžne pečine in nadrealistično erodirane kamnine.
+passage.questions.9.question:V katero smer je obala Algarveja od Lizbone?
+passage.questions.9.idx:2178.0
+passage.questions.9.answers.2.text:Jug
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:11408.0
+passage.questions.9.answers.1.text:Zahod
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:11407.0
+passage.questions.9.answers.0.text:sever
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:11406.0
+passage.questions.8.question:Kateri del Portugalske je znan po turističnih hotelih, plažah in golf igriščih?
+passage.questions.8.idx:2177.0
+passage.questions.8.answers.4.text:Algarve
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:11405.0
+passage.questions.8.answers.3.text:Lizbona
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:11404.0
+passage.questions.8.answers.2.text:Porto
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:11403.0
+passage.questions.8.answers.1.text:Sredozemsko
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:11402.0
+passage.questions.8.answers.0.text:Lizbona, Porto
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:11401.0
+passage.questions.7.question:Kateri južni del obale bolj spominja na severnoafriško pokrajino kot evropsko?
+passage.questions.7.idx:2176.0
+passage.questions.7.answers.6.text:Lisbron
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:11400.0
+passage.questions.7.answers.5.text:Lizbona
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:11399.0
+passage.questions.7.answers.4.text:Severna afrika
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:11398.0
+passage.questions.7.answers.3.text:Južna Afrika
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:11397.0
+passage.questions.7.answers.2.text:Algarve
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:11396.0
+passage.questions.7.answers.1.text:Porto
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:11395.0
+passage.questions.7.answers.0.text:Pariz
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:11394.0
+passage.questions.6.question:Čudovito mediteransko vreme skozi vse leto omogoča turistom Algarve, da se ukvarjajo s kakšnimi dejavnostmi?
+passage.questions.6.idx:2175.0
+passage.questions.6.answers.9.text:Veliki ribolov
+passage.questions.6.answers.9.label:1.0
+passage.questions.6.answers.9.idx:11387.0
+passage.questions.6.answers.8.text:Golf
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:11386.0
+passage.questions.6.answers.7.text:Jadranje na deski
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:11385.0
+passage.questions.6.answers.6.text:Golf, jahanje, tenis, ribolov z velikimi igrami, jadranje in jadranje na deski
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:11384.0
+passage.questions.6.answers.5.text:Rugby
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:11383.0
+passage.questions.6.answers.4.text:Jahanje konja
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:11382.0
+passage.questions.6.answers.3.text:Sankanje
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:11381.0
+passage.questions.6.answers.2.text:Streljanje
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:11380.0
+passage.questions.6.answers.15.text:Smučanje
+passage.questions.6.answers.15.label:0,0
+passage.questions.6.answers.15.idx:11393.0
+passage.questions.6.answers.14.text:Jadranje
+passage.questions.6.answers.14.label:1.0
+passage.questions.6.answers.14.idx:11392.0
+passage.questions.6.answers.13.text:Košarka
+passage.questions.6.answers.13.label:0,0
+passage.questions.6.answers.13.idx:11391.0
+passage.questions.6.answers.12.text:Skladi kamenja
+passage.questions.6.answers.12.label:0,0
+passage.questions.6.answers.12.idx:11390.0
+passage.questions.6.answers.11.text:Tenis
+passage.questions.6.answers.11.label:1.0
+passage.questions.6.answers.11.idx:11389.0
+passage.questions.6.answers.10.text:Računalniške igre
+passage.questions.6.answers.10.label:0,0
+passage.questions.6.answers.10.idx:11388.0
+passage.questions.6.answers.1.text:Šport
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:11379.0
+passage.questions.6.answers.0.text:Golf
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:11378.0
+passage.questions.5.question:Algarve imajo približno koliko kilometrov obale?
+passage.questions.5.idx:2174.0
+passage.questions.5.answers.6.text:100 milj
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:11377.0
+passage.questions.5.answers.5.text:160 km
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:11376.0
+passage.questions.5.answers.4.text:250 milj
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:11375.0
+passage.questions.5.answers.3.text:250 km
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:11374.0
+passage.questions.5.answers.2.text:250
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:11373.0
+passage.questions.5.answers.1.text:100
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:11372.0
+passage.questions.5.answers.0.text:Brez obalne črte
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:11371.0
+passage.questions.4.question:Katera regija Portugalske je znana po svojih plažah?
+passage.questions.4.idx:2173.0
+passage.questions.4.answers.3.text:Lizbona
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:11370.0
+passage.questions.4.answers.2.text:Algarve
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:11369.0
+passage.questions.4.answers.1.text:Porto
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11368.0
+passage.questions.4.answers.0.text:Oranžne pečine
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:11367.0
+passage.questions.3.question:Kateri del Portugalske ni reprezentativen za &quot;čudna mesta, srednjeveške gradove in velike palače&quot;?
+passage.questions.3.idx:2172.0
+passage.questions.3.answers.5.text:Lizbona
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:11366.0
+passage.questions.3.answers.4.text:Severna afrika
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:11365.0
+passage.questions.3.answers.3.text:Južna Afrika
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:11364.0
+passage.questions.3.answers.2.text:Algarve
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:11363.0
+passage.questions.3.answers.1.text:Porto
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:11362.0
+passage.questions.3.answers.0.text:Pariz
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:11361.0
+passage.questions.22.question:Je vreme v Algarvah najbolj intenzivno v zimskih ali poletnih mesecih?
+passage.questions.22.idx:2191.0
+passage.questions.22.answers.3.text:Vroče
+passage.questions.22.answers.3.label:0,0
+passage.questions.22.answers.3.idx:11482.0
+passage.questions.22.answers.2.text:Poletje
+passage.questions.22.answers.2.label:1.0
+passage.questions.22.answers.2.idx:11481.0
+passage.questions.22.answers.1.text:padec
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:11480.0
+passage.questions.22.answers.0.text:Zima
+passage.questions.22.answers.0.label:0,0
+passage.questions.22.answers.0.idx:11479.0
+passage.questions.21.question:Glede na besedilo je obalna Algarva podobna kateri regiji sveta?
+passage.questions.21.idx:2190.0
+passage.questions.21.answers.4.text:Francija
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:11478.0
+passage.questions.21.answers.3.text:Severnoafriški
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:11477.0
+passage.questions.21.answers.2.text:Južna Afrika
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:11476.0
+passage.questions.21.answers.1.text:Združene države
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:11475.0
+passage.questions.21.answers.0.text:Severna Afrika
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:11474.0
+passage.questions.20.question:Kateri del Portugalske ni znan po zabavnih mestih?
+passage.questions.20.idx:2189.0
+passage.questions.20.answers.5.text:Lizbona
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:11473.0
+passage.questions.20.answers.4.text:Algarve
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:11472.0
+passage.questions.20.answers.3.text:Porto
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:11471.0
+passage.questions.20.answers.2.text:Portugalščina
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:11470.0
+passage.questions.20.answers.1.text:Provinca Algarve
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:11469.0
+passage.questions.20.answers.0.text:Sotavento
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:11468.0
+passage.questions.2.question:Na koliko področij je država razdeljena?
+passage.questions.2.idx:2171.0
+passage.questions.2.answers.4.text:Mesta
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11360.0
+passage.questions.2.answers.3.text:2.
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:11359.0
+passage.questions.2.answers.2.text:5.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11358.0
+passage.questions.2.answers.1.text:4.
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:11357.0
+passage.questions.2.answers.0.text:Pet
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:11356.0
+passage.questions.19.question:Katera dežela nima svetovljanskih mest, kot sta Lizbona in Porto, ki sta bolj severno?
+passage.questions.19.idx:2188.0
+passage.questions.19.answers.6.text:Lizbona
+passage.questions.19.answers.6.label:0,0
+passage.questions.19.answers.6.idx:11467.0
+passage.questions.19.answers.5.text:Severna afrika
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:11466.0
+passage.questions.19.answers.4.text:Zahodna obala
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:11465.0
+passage.questions.19.answers.3.text:Južna Afrika
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:11464.0
+passage.questions.19.answers.2.text:Algarve
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:11463.0
+passage.questions.19.answers.1.text:Porto
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:11462.0
+passage.questions.19.answers.0.text:Pariz
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:11461.0
+passage.questions.18.question:Prebivalci katerega svetovljanskega portugalskega mesta se javijo na dopust v Algarve?
+passage.questions.18.idx:2187.0
+passage.questions.18.answers.5.text:Mesta na jugu
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:11460.0
+passage.questions.18.answers.4.text:Južna Portugalska
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:11459.0
+passage.questions.18.answers.3.text:Lizbona
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:11458.0
+passage.questions.18.answers.2.text:Porto
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:11457.0
+passage.questions.18.answers.1.text:Portugalci iz Lizbone in drugod na severu
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:11456.0
+passage.questions.18.answers.0.text:Atlantik
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:11455.0
+passage.questions.17.question:Poleg turističnih apartmajev, hotelov in natančno urejenih igrišč za golf je Algarve znan tudi po tem, kaj med turisti?
+passage.questions.17.idx:2186.0
+passage.questions.17.answers.3.text:Plaže
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:11454.0
+passage.questions.17.answers.2.text:Nepregledni bloki turističnih apartmajev, hotelov in natančno urejenih igrišč za golf
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:11453.0
+passage.questions.17.answers.1.text:Gore
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:11452.0
+passage.questions.17.answers.0.text:Zabavna mesta, srednjeveški gradovi in velike palače
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:11451.0
+passage.questions.16.question:Ali je Algarve znan po zabavnih mestih, srednjeveških gradovih in velikih palačah?
+passage.questions.16.idx:2185.0
+passage.questions.16.answers.5.text:Ne, regija Algarve je znana predvsem po številnih razkošnih turističnih apartmajih, hotelih, igriščih za golf in plažah
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:11450.0
+passage.questions.16.answers.4.text:Ne, znano je po plažah in golfu
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:11449.0
+passage.questions.16.answers.3.text:Delno
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:11448.0
+passage.questions.16.answers.2.text:Ima veliko zabavnih mest
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:11447.0
+passage.questions.16.answers.1.text:Ne
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:11446.0
+passage.questions.16.answers.0.text:Jasno
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:11445.0
+passage.questions.15.question:Koliko svetovljanskih mest ima Algarve kot številka?
+passage.questions.15.idx:2184.0
+passage.questions.15.answers.2.text:Nobenega
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:11444.0
+passage.questions.15.answers.1.text:2.
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:11443.0
+passage.questions.15.answers.0.text:Ena
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:11442.0
+passage.questions.14.question:Ali je Algave znana po svojih plažah in igriščih za golf?
+passage.questions.14.idx:2183.0
+passage.questions.14.answers.3.text:Mora biti
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:11441.0
+passage.questions.14.answers.2.text:Ne
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:11440.0
+passage.questions.14.answers.1.text:Negotovo
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:11439.0
+passage.questions.14.answers.0.text:Ocean
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:11438.0
+passage.questions.13.question:Koliko kilometrov obale ima Algarve?
+passage.questions.13.idx:2182.0
+passage.questions.13.answers.6.text:100 milj
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:11437.0
+passage.questions.13.answers.5.text:160 km
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:11436.0
+passage.questions.13.answers.4.text:250 milj
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:11435.0
+passage.questions.13.answers.3.text:250 km
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:11434.0
+passage.questions.13.answers.2.text:250
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:11433.0
+passage.questions.13.answers.1.text:100
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:11432.0
+passage.questions.13.answers.0.text:Brez obalne črte
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:11431.0
+passage.questions.12.question:Koliko sončnih dni prejme Algarve vsako leto?
+passage.questions.12.idx:2181.0
+passage.questions.12.answers.5.text:160 dni
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:11430.0
+passage.questions.12.answers.4.text:Več kot 250 dni
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:11429.0
+passage.questions.12.answers.3.text:100 dni
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:11428.0
+passage.questions.12.answers.2.text:Vse leto
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:11427.0
+passage.questions.12.answers.1.text:250
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:11426.0
+passage.questions.12.answers.0.text:100
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:11425.0
+passage.questions.11.question:Katera regija na Portugalskem v povprečju dobi največ sonca?
+passage.questions.11.idx:2180.0
+passage.questions.11.answers.7.text:Algarve
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:11424.0
+passage.questions.11.answers.6.text:Lizbona
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:11423.0
+passage.questions.11.answers.5.text:Severna afrika
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:11422.0
+passage.questions.11.answers.4.text:Južna Afrika
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:11421.0
+passage.questions.11.answers.3.text:Porto
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:11420.0
+passage.questions.11.answers.2.text:Barlavento
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:11419.0
+passage.questions.11.answers.1.text:Pariz
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:11418.0
+passage.questions.11.answers.0.text:Severni
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:11417.0
+passage.questions.10.question:Kateri odsek obale Algarve ima oranžne pečine in skale?
+passage.questions.10.idx:2179.0
+passage.questions.10.answers.7.text:sever
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:11416.0
+passage.questions.10.answers.6.text:Zahod
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:11415.0
+passage.questions.10.answers.5.text:Robustno
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:11414.0
+passage.questions.10.answers.4.text:Barlavento
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:11413.0
+passage.questions.10.answers.3.text:Solavento, vzhod
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:11412.0
+passage.questions.10.answers.2.text:Vzhod
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:11411.0
+passage.questions.10.answers.1.text:Barlavento, zahod
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:11410.0
+passage.questions.10.answers.0.text:Jug
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:11409.0
+passage.questions.1.question:Katera portugalska provinca ne vsebuje svetovljanskih mest?
+passage.questions.1.idx:2170.0
+passage.questions.1.answers.5.text:sever
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:11355.0
+passage.questions.1.answers.4.text:Severna provinca
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11354.0
+passage.questions.1.answers.3.text:Lizbona
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:11353.0
+passage.questions.1.answers.2.text:Algarve
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:11352.0
+passage.questions.1.answers.1.text:Porto
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11351.0
+passage.questions.1.answers.0.text:Obala Algarve
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:11350.0
+passage.questions.0.question:Katere pomembne geološke značilnosti se nahajajo zahodno od Algarve?
+passage.questions.0.idx:2169
+passage.questions.0.answers.7.text:Kozmopolitska mesta
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:11349.0
+passage.questions.0.answers.6.text:Erodirani skladi kamenja
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:11348.0
+passage.questions.0.answers.5.text:Severnoafriška pokrajina
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:11347.0
+passage.questions.0.answers.4.text:Vulkani
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:11346.0
+passage.questions.0.answers.3.text:Oranžne pečine
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:11345.0
+passage.questions.0.answers.2.text:Oranžne pečine in razjedene skalnate sklade
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:11344.0
+passage.questions.0.answers.1.text:Čudovite plaže
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11343
+passage.questions.0.answers.0.text:Objekti za golf
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:11342
+idx:194

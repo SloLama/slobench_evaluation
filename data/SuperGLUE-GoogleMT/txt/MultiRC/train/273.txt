@@ -1,0 +1,387 @@
+version:1.1
+passage.text:Mehanska energija je kombinacija energije gibanja ali položaja. Ta vrsta energije opisuje predmete, ki se premikajo ali bi se lahko premikali. Gibljiva krogla ima lahko energijo iz gibanja. Puščica ima lahko tudi energijo gibanja. Obe sta vrsti mehanske energije. Si lahko omislite kakšen drug primer? Od kod energija gibanja? Prihaja iz energije, ki jo ustvarja položaj. Ta energija je shranjena energija. To pomeni, da se še ne premika, lahko pa se premakne. Kako lahko shranjujete energijo? Puščica pridobi energijo iz vlečenega loka. Ko se puščica sprosti, lok sprosti svojo shranjeno energijo in puščico sproži. Si lahko omislite kakšen drug način za shranjevanje energije s pomočjo položaja?
+passage.questions.9.question:Kakšno energijo ustvarja položaj?
+passage.questions.9.idx:3090.0
+passage.questions.9.answers.5.text:Potencialna energija
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:16301.0
+passage.questions.9.answers.4.text:Mehanska energija
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:16300.0
+passage.questions.9.answers.3.text:Potencial
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:16299.0
+passage.questions.9.answers.2.text:Shranjeno
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:16298.0
+passage.questions.9.answers.1.text:Energija gibanja
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:16297.0
+passage.questions.9.answers.0.text:kinetična
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:16296.0
+passage.questions.8.question:Ali se objekt z mehansko energijo vedno premika?
+passage.questions.8.idx:3089.0
+passage.questions.8.answers.3.text:Da, vedno se premikajo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:16295.0
+passage.questions.8.answers.2.text:Da
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:16294.0
+passage.questions.8.answers.1.text:Ne, lahko so mirni in imajo tudi potencialno energijo
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:16293.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:16292.0
+passage.questions.7.question:Kakšno vrsto energije imajo gibljiva puščica ali krogla?
+passage.questions.7.idx:3088.0
+passage.questions.7.answers.7.text:Potencialna energija
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:16291.0
+passage.questions.7.answers.6.text:Elastična energija
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:16290.0
+passage.questions.7.answers.5.text:Mehanska energija
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:16289.0
+passage.questions.7.answers.4.text:Mehanski
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:16288.0
+passage.questions.7.answers.3.text:Potencial
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:16287.0
+passage.questions.7.answers.2.text:Gibanje
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:16286.0
+passage.questions.7.answers.1.text:Nuklearna energija
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:16285.0
+passage.questions.7.answers.0.text:Energija gibanja
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:16284.0
+passage.questions.6.question:Kaj lahko naredi shranjena energija?
+passage.questions.6.idx:3087.0
+passage.questions.6.answers.6.text:Ima potencial za pridobivanje energije
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:16283.0
+passage.questions.6.answers.5.text:Premakniti se
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:16282.0
+passage.questions.6.answers.4.text:Da izgine
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:16281.0
+passage.questions.6.answers.3.text:Shranjujte energijo
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:16280.0
+passage.questions.6.answers.2.text:Da eksplodira
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:16279.0
+passage.questions.6.answers.1.text:Lahko se premakne
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:16278.0
+passage.questions.6.answers.0.text:Hranite energijo
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:16277.0
+passage.questions.5.question:Kaj pomeni shranjena energija?
+passage.questions.5.idx:3086.0
+passage.questions.5.answers.8.text:Še ni izdan
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:16276.0
+passage.questions.5.answers.7.text:Energija, ustvarjena z gibanjem
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:16275.0
+passage.questions.5.answers.6.text:Energija, ki jo ustvarja položaj in ima potencial
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:16274.0
+passage.questions.5.answers.5.text:Čaka
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:16273.0
+passage.questions.5.answers.4.text:Energija, ki jo ustvarja položaj
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:16272.0
+passage.questions.5.answers.3.text:Lahko se premakne
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:16271.0
+passage.questions.5.answers.2.text:Ta predmet bi se lahko premikal
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:16270.0
+passage.questions.5.answers.1.text:Da je ta energija pretirana
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:16269.0
+passage.questions.5.answers.0.text:Je mehaničen
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:16268.0
+passage.questions.4.question:Kakšno energijo imajo predmeti, ki se premikajo ali bi se lahko premikali?
+passage.questions.4.idx:3085.0
+passage.questions.4.answers.7.text:Potencialna energija
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:16267.0
+passage.questions.4.answers.6.text:Pozicijski
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:16266.0
+passage.questions.4.answers.5.text:Mehanska energija
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:16265.0
+passage.questions.4.answers.4.text:Mehanski
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:16264.0
+passage.questions.4.answers.3.text:Potencial
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:16263.0
+passage.questions.4.answers.2.text:Elastična
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:16262.0
+passage.questions.4.answers.1.text:Kemična
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:16261.0
+passage.questions.4.answers.0.text:Energija gibanja
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:16260.0
+passage.questions.3.question:Kakšno energijo ima gibljiva žoga?
+passage.questions.3.idx:3084.0
+passage.questions.3.answers.5.text:Potencialna energija
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:16259.0
+passage.questions.3.answers.4.text:Shranjena energija
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:16258.0
+passage.questions.3.answers.3.text:Mehanska energija
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:16257.0
+passage.questions.3.answers.2.text:Mehanski
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:16256.0
+passage.questions.3.answers.1.text:Energija položaja
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:16255.0
+passage.questions.3.answers.0.text:Energija gibanja
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:16254.0
+passage.questions.2.question:Ali shranjena energija zahteva gibanje?
+passage.questions.2.idx:3083.0
+passage.questions.2.answers.1.text:Ne, ne
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:16253.0
+passage.questions.2.answers.0.text:Da
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:16252.0
+passage.questions.17.question:Katero vrsto energije ustvarja položaj?
+passage.questions.17.idx:3098.0
+passage.questions.17.answers.5.text:Potencialna energija
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:16356.0
+passage.questions.17.answers.4.text:Mehanska energija
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:16355.0
+passage.questions.17.answers.3.text:Energija gibanja
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:16354.0
+passage.questions.17.answers.2.text:Potencial
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:16353.0
+passage.questions.17.answers.1.text:Energija gibanja
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:16352.0
+passage.questions.17.answers.0.text:kinetična
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:16351.0
+passage.questions.16.question:Zakaj mehanska energija velja za kombinacijo energije gibanja in položaja?
+passage.questions.16.idx:3097.0
+passage.questions.16.answers.6.text:Energija gibanja dejansko izvira iz energije, ki jo ustvari položaj, ki je shranjena energija. Ko se sprosti shranjena energija, se objekt sproži
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:16350.0
+passage.questions.16.answers.5.text:Ker imajo predmeti hkrati potencialno in mehansko energijo
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:16349.0
+passage.questions.16.answers.4.text:Ker se zaradi tega premika
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:16348.0
+passage.questions.16.answers.3.text:To je zato, ker se predmeti lahko ali premikajo
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:16347.0
+passage.questions.16.answers.2.text:To je zgodovinska konvencija
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:16346.0
+passage.questions.16.answers.1.text:Ker se predmeti bodisi premikajo bodisi bi se lahko premikali
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:16345.0
+passage.questions.16.answers.0.text:Ker so združene sile vedno močnejše od posameznikov
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:16344.0
+passage.questions.15.question:Katera dva omenjena predmeta imata lahko energijo iz gibanja?
+passage.questions.15.idx:3096.0
+passage.questions.15.answers.5.text:Avto in veter
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:16343.0
+passage.questions.15.answers.4.text:Žoga, lok
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:16342.0
+passage.questions.15.answers.3.text:Knjiga in žoga
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:16341.0
+passage.questions.15.answers.2.text:Gibljiva krogla in puščica
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:16340.0
+passage.questions.15.answers.1.text:Žoga in puščica
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:16339.0
+passage.questions.15.answers.0.text:Lok in puščica
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:16338.0
+passage.questions.14.question:Kakšne predmete lahko opišemo z mehansko energijo?
+passage.questions.14.idx:3095.0
+passage.questions.14.answers.7.text:Puščica na steni
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:16337.0
+passage.questions.14.answers.6.text:Rdeča krogla
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:16336.0
+passage.questions.14.answers.5.text:Tisti, ki se premikajo ali bi se lahko premikali
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:16335.0
+passage.questions.14.answers.4.text:Magnetna polja
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:16334.0
+passage.questions.14.answers.3.text:Vsi trdni predmeti
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:16333.0
+passage.questions.14.answers.2.text:Mirna žoga
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:16332.0
+passage.questions.14.answers.1.text:Predmeti, ki se premikajo ali bi se lahko premikali
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:16331.0
+passage.questions.14.answers.0.text:Premikanje žoge in puščice
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:16330.0
+passage.questions.13.question:Kako ima lahko žoga, ki se ne premika, energijo položaja?
+passage.questions.13.idx:3094.0
+passage.questions.13.answers.5.text:Pridobi ga zaradi gravitacije
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:16329.0
+passage.questions.13.answers.4.text:To je zato, ker se lahko premika
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:16328.0
+passage.questions.13.answers.3.text:Če je žoga v položaju, kjer bi se lahko premikala, ima shranjeno energijo položaja
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:16327.0
+passage.questions.13.answers.2.text:Dobi jo iz toplotne energije
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:16326.0
+passage.questions.13.answers.1.text:Je mehaničen
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:16325.0
+passage.questions.13.answers.0.text:To je zato, ker ima mehansko energijo
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:16324.0
+passage.questions.12.question:Kako se energija shranjuje v loku in puščici?
+passage.questions.12.idx:3093.0
+passage.questions.12.answers.7.text:Shranjeno je v bateriji
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:16323.0
+passage.questions.12.answers.6.text:Izvlečen lok
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:16322.0
+passage.questions.12.answers.5.text:Potencialna energija v svojih raketah
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:16321.0
+passage.questions.12.answers.4.text:Njegova oblika
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:16320.0
+passage.questions.12.answers.3.text:Energijo pridobiva iz vlečenega loka
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:16319.0
+passage.questions.12.answers.2.text:Izpuščen je
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:16318.0
+passage.questions.12.answers.1.text:S pomočjo magnetnega polja
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:16317.0
+passage.questions.12.answers.0.text:Po položaju
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:16316.0
+passage.questions.11.question:Zakaj je možno, da ima gibljiva žoga še vedno energijo položaja?
+passage.questions.11.idx:3092.0
+passage.questions.11.answers.6.text:Žoga se lahko še vedno premika
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:16315.0
+passage.questions.11.answers.5.text:Vsi predmeti imajo energijo položaja
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:16314.0
+passage.questions.11.answers.4.text:Ker ima maso
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:16313.0
+passage.questions.11.answers.3.text:Ker ima težo
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:16312.0
+passage.questions.11.answers.2.text:Njegova energija se ne sprosti takoj
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:16311.0
+passage.questions.11.answers.1.text:Ker se lahko premika
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:16310.0
+passage.questions.11.answers.0.text:Ker se mora premikati potencialno
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:16309.0
+passage.questions.10.question:Katere vrste energije imajo gibljiva krogla ali leteča puščica?
+passage.questions.10.idx:3091.0
+passage.questions.10.answers.6.text:Potencialna energija
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:16308.0
+passage.questions.10.answers.5.text:Shranjena energija
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:16307.0
+passage.questions.10.answers.4.text:Mehanska energija
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:16306.0
+passage.questions.10.answers.3.text:Mehanski
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:16305.0
+passage.questions.10.answers.2.text:Energija položaja
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:16304.0
+passage.questions.10.answers.1.text:Nuklearna energija
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:16303.0
+passage.questions.10.answers.0.text:Energija gibanja
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:16302.0
+passage.questions.1.question:Katera vrsta energije se sprosti, ko narisan lok izpusti puščico?
+passage.questions.1.idx:3082.0
+passage.questions.1.answers.8.text:Potencialna energija
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:16251.0
+passage.questions.1.answers.7.text:Shranjena energija
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:16250.0
+passage.questions.1.answers.6.text:Mehanska energija
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:16249.0
+passage.questions.1.answers.5.text:Mehanski
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:16248.0
+passage.questions.1.answers.4.text:Ta vrsta energije
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:16247.0
+passage.questions.1.answers.3.text:Gibanje
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:16246.0
+passage.questions.1.answers.2.text:Nuklearna energija
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16245.0
+passage.questions.1.answers.1.text:Termalna energija
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:16244.0
+passage.questions.1.answers.0.text:Shranjeno
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:16243.0
+passage.questions.0.question:Ali je puščica, ki se sprosti iz loka, primer mehanske energije?
+passage.questions.0.idx:3081
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:16242
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:16241
+idx:273

@@ -1,0 +1,262 @@
+version:1.1
+passage.text:V tem času je Aleksander na svojem dvoru sprejel nekatere elemente perzijske obleke in običajev, zlasti navado proskineze, bodisi simbolično poljubljanje roke bodisi položitev na tla, ki so jo Perzijci pokazali svojim socialnim nadrejenim. Grki so mislili, da je ta gesta provinca božanstev, in verjeli, da se je Aleksander hotel oboževati s svojo zahtevo. To ga je stalo simpatij številnih rojakov in ga je sčasoma opustil. Razkrita je bila spletka proti njegovemu življenju in eden od njegovih častnikov, Philotas, je bil usmrčen, ker ni opozoril Aleksandra. Zaradi sinove smrti je bila potrebna očeta, zato je bil na Aleksandrov ukaz Parmenion, ki je bil zadolžen za varovanje zakladnice v Ecbatani, umorjen, da bi preprečil poskuse maščevanja. Najbolj nesramno je Aleksander osebno ubil človeka, ki mu je rešil življenje pri Granicu, Kleit Črni, med nasilnimi pijanimi prepiri na Marakandi (današnji Samarkand v Uzbekistanu), v katerih je Cleitus Aleksandru očital več napak obsojanja in predvsem, da je imel pozabil makedonske poti v korist pokvarjenega orientalskega življenjskega sloga. Kasneje, v srednjeazijski kampanji, je bila razkrita druga zarota proti njegovemu življenju, ki so jo spodbudile njegove lastne kraljevske strani. V zaplet je bil vpleten njegov uradni zgodovinar Kalisten iz Olimta; zgodovinarji pa še niso dosegli soglasja glede te vpletenosti. Kalisten je padel v nemilost, ker je opozicijo vodil k poskusu uvedbe proskineze.
+passage.questions.9.question:Kako je bilo ime Parmenionovemu sinu?
+passage.questions.9.idx:550.0
+passage.questions.9.answers.1.text:Kleit Črni
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2820.0
+passage.questions.9.answers.0.text:Philotas
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:2819.0
+passage.questions.8.question:S kakšno specifično gesto, ki jo je izvedel Aleksander, so Grki izpodbijali, ker so verjeli, da se je Alex želel pobožiti?
+passage.questions.8.idx:549.0
+passage.questions.8.answers.3.text:Običaj proskineze ali simbolnega poljubljanja roke
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:2818.0
+passage.questions.8.answers.2.text:Simbolično poljubljanje roke
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:2817.0
+passage.questions.8.answers.1.text:Sprejeti elementi perzijske obleke in običajev
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2816.0
+passage.questions.8.answers.0.text:Prostracija na terenu
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:2815.0
+passage.questions.7.question:Koliko zarot proti Aleksandrovemu življenju je bilo razkritih?
+passage.questions.7.idx:548.0
+passage.questions.7.answers.3.text:Nekaj
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:2814.0
+passage.questions.7.answers.2.text:Dva, ki jih poznamo
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2813.0
+passage.questions.7.answers.1.text:Manj kot dve
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2812.0
+passage.questions.7.answers.0.text:2.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:2811.0
+passage.questions.6.question:Kaj je stalo Aleksandra simpatij Aleksandrovih rojakov?
+passage.questions.6.idx:547.0
+passage.questions.6.answers.5.text:Poskus uvedbe proskineze
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:2810.0
+passage.questions.6.answers.4.text:Njegovo prevzemanje elementov perzijske obleke in običajev
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:2809.0
+passage.questions.6.answers.3.text:Ker se je imel za boga
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2808.0
+passage.questions.6.answers.2.text:Za maščevanje
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2807.0
+passage.questions.6.answers.1.text:Za to, da sem postal Perzijec
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2806.0
+passage.questions.6.answers.0.text:Uzurpiranje province božanstev
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2805.0
+passage.questions.5.question:Katere so nekatere stvari, ki jih je Aleksander zahteval, za katere so Grki mislili, da se zdi, da se Aleksander poskuša obogatiti?
+passage.questions.5.idx:546.0
+passage.questions.5.answers.5.text:Simbolično poljubljanje roke in sedenje na tleh
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:2804.0
+passage.questions.5.answers.4.text:Prostracija do tal
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2803.0
+passage.questions.5.answers.3.text:Maščevanje
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2802.0
+passage.questions.5.answers.2.text:Proskineza
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:2801.0
+passage.questions.5.answers.1.text:Elementi perzijske obleke in običajev
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2800.0
+passage.questions.5.answers.0.text:Simbolično poljubljanje roke
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2799.0
+passage.questions.4.question:Kdo je izgubil življenje, ko je bila razkrita zarota proti Aleksandrovemu življenju?
+passage.questions.4.idx:545.0
+passage.questions.4.answers.8.text:Kalisten iz Olyntusa
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:2798.0
+passage.questions.4.answers.7.text:Permenion
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:2797.0
+passage.questions.4.answers.6.text:Filotov oče
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:2796.0
+passage.questions.4.answers.5.text:Eden od njegovih častnikov
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:2795.0
+passage.questions.4.answers.4.text:Aleksandrov uradni zgodovinar
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2794.0
+passage.questions.4.answers.3.text:Vsi zarotniki
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2793.0
+passage.questions.4.answers.2.text:Philotas
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2792.0
+passage.questions.4.answers.1.text:Kleit Črni
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2791.0
+passage.questions.4.answers.0.text:Eden od njegovih častnikov, Philotas, je bil usmrčen, ker ga ni opozoril, Filotasovega očeta Parmeniona pa so po Aleksandrovem ukazu ubili, da bi preprečil maščevanje
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2790.0
+passage.questions.3.question:Zakaj je Alex izgubil simpatije številnih svojih rojakov?
+passage.questions.3.idx:544.0
+passage.questions.3.answers.5.text:Poskus uvedbe proskineze
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:2789.0
+passage.questions.3.answers.4.text:Ker se je imel za boga
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2788.0
+passage.questions.3.answers.3.text:Zaradi njegovih prizadevanj, da bi sprejel nekatere elemente perzijske obleke in običajev, na primer poljubljanje roke, za katero so Grki verjeli, da se je Alex želel obogatiti
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2787.0
+passage.questions.3.answers.2.text:Za maščevanje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2786.0
+passage.questions.3.answers.1.text:Za to, da sem postal Perzijec
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2785.0
+passage.questions.3.answers.0.text:Uzurpiranje province božanstev
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2784.0
+passage.questions.2.question:Je bil Philotasin oče ubit, ker je bil?
+passage.questions.2.idx:543
+passage.questions.2.answers.2.text:Da
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2783.0
+passage.questions.2.answers.1.text:Ne
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:2782
+passage.questions.2.answers.0.text:Za smrt sina je bila potrebna smrt očeta
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2781
+passage.questions.16.question:Koliko zarotov Aleksandrove smrti je bilo?
+passage.questions.16.idx:557.0
+passage.questions.16.answers.2.text:Nekaj
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:2848.0
+passage.questions.16.answers.1.text:Dva, ki jih poznamo
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:2847.0
+passage.questions.16.answers.0.text:Manj kot dve
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:2846.0
+passage.questions.15.question:V kateri kampanji je bil Kalisten iz Olyntusa vpleten v zaplet o Aleksandrovem življenju?
+passage.questions.15.idx:556.0
+passage.questions.15.answers.2.text:Granicus
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2845.0
+passage.questions.15.answers.1.text:Kampanja za uvedbo proskineze
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:2844.0
+passage.questions.15.answers.0.text:Srednjeazijska kampanja
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:2843.0
+passage.questions.14.question:Kaj so Grki verjeli, da je Aleksander hotel sprejeti običaj proskineze?
+passage.questions.14.idx:555.0
+passage.questions.14.answers.5.text:Grki so verjeli, da je Proskynesis, ki je simbolično poljubljanje roke ali sedenje na tleh, Aleksandrov poskus oboževanja in je bil sčasoma opuščen
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:2842.0
+passage.questions.14.answers.4.text:Povzdigni se
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:2841.0
+passage.questions.14.answers.3.text:Uvedite grške običaje Perzijcem
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:2840.0
+passage.questions.14.answers.2.text:Vzpostavite superiornost
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:2839.0
+passage.questions.14.answers.1.text:Oboževal se je
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:2838.0
+passage.questions.14.answers.0.text:Podredite si Perzijce
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:2837.0
+passage.questions.13.question:Katere so podrobnosti drugega zapleta o Aleksandrovem življenju v srednjeazijski kampanji?
+passage.questions.13.idx:554.0
+passage.questions.13.answers.4.text:Vsekakor je bil vpleten Kalisten iz Olyntusa
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:2836.0
+passage.questions.13.answers.3.text:Neuspešno
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:2835.0
+passage.questions.13.answers.2.text:Uspešno
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:2834.0
+passage.questions.13.answers.1.text:Potaknjen z lastnimi kraljevskimi stranmi
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:2833.0
+passage.questions.13.answers.0.text:Spodbudili so ga njegove lastne kraljevske strani z morebitnim sodelovanjem njegovega uradnega zgodovinarja, Callisthenes of Olynthus
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:2832.0
+passage.questions.12.question:Zakaj je bil Parmenion ubit?
+passage.questions.12.idx:553.0
+passage.questions.12.answers.3.text:Parmenion je načrtoval Aleksandrovo življenje
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:2831.0
+passage.questions.12.answers.2.text:Da bi preprečili možnost maščevanja
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:2830.0
+passage.questions.12.answers.1.text:Ker je bil njegov oče Philotas umorjen, ker Aleksandera ni opozoril na zaroto proti njegovemu življenju, je bilo treba tudi sina Philotas ubiti, da bi sinu preprečil maščevanje
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2829.0
+passage.questions.12.answers.0.text:Za smrt sina je bila potrebna smrt očeta
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:2828.0
+passage.questions.11.question:Zakaj se zgodovinarji ne strinjajo glede kalizma?
+passage.questions.11.idx:552.0
+passage.questions.11.answers.2.text:Ne strinjajo se glede njegove nakazovanja na zaroto, da bi ubil Aleksandra, ker je padel v nemilost, ker je opozicijo spodbudil k uvedbi proskineze
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:2827.0
+passage.questions.11.answers.1.text:Zgodovinarji se ne strinjajo glede tega, ali je bil Kalisten vpleten v zaroto proti Aleksandrovemu življenju v kampanji za Srednjo Azijo
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:2826.0
+passage.questions.11.answers.0.text:Zgodovinarji se ne strinjajo glede tega, ali je Callistheness nasprotoval proskinezi
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2825.0
+passage.questions.10.question:Kdo je bil vpleten v drugi zaplet proti Aleksandrovemu življenju?
+passage.questions.10.idx:551.0
+passage.questions.10.answers.3.text:Aleksandrov uradni zgodovinar, Kalisten iz Olyntusa
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:2824.0
+passage.questions.10.answers.2.text:Aleksandrov uradni zgodovinar
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:2823.0
+passage.questions.10.answers.1.text:Kalisten iz Olyntusa
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:2822.0
+passage.questions.10.answers.0.text:Aleksandrove kraljeve strani
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2821.0
+passage.questions.1.question:V kaj je bil vpleten Kalisten iz Olyntusa in zakaj?
+passage.questions.1.idx:542
+passage.questions.1.answers.2.text:Naklep o umoru Aleksandra, ker je Kalisten opozicijo privedel do poskusa uvedbe proskineze
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2780.0
+passage.questions.1.answers.1.text:Bil je vpleten v drugo zaroto proti Aleksandrovemu življenju, ker je padel v nemilost, ker je opozicijo vodil k poskusu uvedbe proskineze
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:2779
+passage.questions.1.answers.0.text:Srednjeazijska kampanja
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:2778
+passage.questions.0.question:Zakaj je moral Parmenion umreti?
+passage.questions.0.idx:541
+passage.questions.0.answers.3.text:Njegov sin Philotas Aleksandra ni opozoril na zaroto proti njegovemu življenju in smrt sina je zahtevala smrt očeta
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2777.0
+passage.questions.0.answers.2.text:Parmenion je načrtoval Aleksandrovo življenje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2776.0
+passage.questions.0.answers.1.text:Da bi preprečili možnost maščevanja
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2775
+passage.questions.0.answers.0.text:Za smrt sina je bila potrebna smrt očeta
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2774
+idx:47

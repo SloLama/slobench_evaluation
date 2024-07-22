@@ -1,0 +1,89 @@
+version:1.1
+passage.text:Ko je Filip korakal proti jugu, so ga nasprotniki blokirali blizu Čeronije v Beotiji. Med naslednjo bitko pri Chaeronei je Filip poveljeval desnemu krilu, Aleksander pa levemu, skupaj s skupino zaupanih Filipovih generalov. Po starih virih naj bi se strani nekaj časa trdo borili. Filip je namerno ukazal svojim četam, naj se umaknejo, računajoč na nepreizkušene atenske hoplite, ki jim bodo sledili, s čimer bodo prekinili njihovo črto. Aleksander je prvi prebil tebanske črte, za njim pa Filipovi generali. Po poškodbi sovražnikove kohezije je Filip ukazal svojim vojakom, naj pritisnejo naprej in jih hitro preusmeril. Ko so Atenjani izgubili, so bili Tebanci obkroženi. Preostali za boj sami, bili so poraženi. Po zmagi pri Haroniji sta Filip in Aleksander brez nasprotnika odkorakala na Peloponez, ki so ga pozdravila vsa mesta; ko pa so prišli do Šparte, so bili zavrnjeni, vendar se niso zatekli k vojni. V Korintu je Filip ustanovil &quot;helensko zavezništvo&quot; (po vzoru starega antipersijskega zavezništva grško-perzijskih vojn), ki je vključevalo večino grških mestnih držav razen Sparte. Philip je bil nato imenovan za Hegemon (pogosto preveden kot &quot;vrhovni poveljnik&quot;) te lige (sodobni učenjaki ga poznajo kot Korintska liga) in napovedal svoje načrte za napad na Perzijsko cesarstvo.
+passage.questions.6.question:Koga so Filipove čete hitro usmerile?
+passage.questions.6.idx:3472.0
+passage.questions.6.answers.4.text:Tebanci (in / ali Atenjani)
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:18290.0
+passage.questions.6.answers.3.text:Atenjani
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:18289.0
+passage.questions.6.answers.2.text:Peloponez
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:18288.0
+passage.questions.6.answers.1.text:Uradniki
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:18287.0
+passage.questions.6.answers.0.text:Špartanci
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:18286.0
+passage.questions.5.question:Po uspešni zmagi v bitki je bil Filip imenovan &quot;Hegemon&quot;
+passage.questions.5.idx:3471.0
+passage.questions.5.answers.2.text:Bitka pri Chaeronei
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:18285.0
+passage.questions.5.answers.1.text:Bitka pri Šparti
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:18284.0
+passage.questions.5.answers.0.text:Sodobni učenjaki
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:18283.0
+passage.questions.4.question:Proti katerim sta se borili Filip in Aleksander?
+passage.questions.4.idx:3470.0
+passage.questions.4.answers.3.text:Beotijci
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:18282.0
+passage.questions.4.answers.2.text:Atenjani in Tebanci
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:18281.0
+passage.questions.4.answers.1.text:Helensko zavezništvo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:18280.0
+passage.questions.4.answers.0.text:Atenski hopliti, tebanci
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:18279.0
+passage.questions.3.question:Kdo je ostal sam za boj in pozneje poražen?
+passage.questions.3.idx:3469.0
+passage.questions.3.answers.2.text:Atenjani
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:18278.0
+passage.questions.3.answers.1.text:Tebanci
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:18277.0
+passage.questions.3.answers.0.text:Špartanci
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18276.0
+passage.questions.2.question:Kje je bil Philip imenovan &quot;Hegemon&quot;?
+passage.questions.2.idx:3468.0
+passage.questions.2.answers.2.text:Atene
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:18275.0
+passage.questions.2.answers.1.text:Vlada
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:18274.0
+passage.questions.2.answers.0.text:V Korintu
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:18273.0
+passage.questions.1.question:Kdo so bili člani Korintske lige, ko je Filip napovedal, da načrtuje napad na Perzijce?
+passage.questions.1.idx:3467.0
+passage.questions.1.answers.2.text:Sparta
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:18272.0
+passage.questions.1.answers.1.text:Vsa grška mesta-države, razen Sparte
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:18271.0
+passage.questions.1.answers.0.text:Večina grških mestnih držav
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:18270.0
+passage.questions.0.question:Zakaj Sparta ni bila del &quot;helenske zveze&quot;?
+passage.questions.0.idx:3466
+passage.questions.0.answers.2.text:Niso bili povabljeni
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:18269.0
+passage.questions.0.answers.1.text:V Heleni nista ljubila
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18268
+passage.questions.0.answers.0.text:Filipa ni pozdravilo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:18267
+idx:306

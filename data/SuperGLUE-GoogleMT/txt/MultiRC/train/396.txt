@@ -1,0 +1,196 @@
+version:1.1
+passage.text:Pozno naslednje nedeljo popoldne se je Gifford odpravil na podeželski sprehod, za katerega se je dogovoril, da ga pravočasno pripelje na večerno službo v mali vaški cerkvi Wynford, ki stoji tik ob meji parka. Pot so ga vodile po dobro zapomnjenih poljskih poteh, ki jih je, čeprav se je proti koncu poti sprehajala tema, brez težav sledil. Zadnje polje, ki ga je prečkal, ga je pripeljalo do ceste, ki se je priključila avtocesti, ki je potekala skozi Wynford, križišče pa je bilo približno četrt milje od cerkve. Ko se je približal stilu, ki je pripeljal na cesto, ki jo je videl, je na drugi strani žive meje in tik nad njo kazal moško glavo. Ob zvoku njegovih korakov se je moški hitro obrnil in, ko ga je za trenutek zasvetila močna mesečina, je bil Gifford prepričan, da je prepoznal Gervaseja Henshawa. Toda ni opazil in je nadaljeval pot do proge, ki jo je prečkal in dobil cesto. Ko je to storil, se je ozrl nazaj. Tam je čakal konj in past s Henshawom v njem. Zdaj se je sklonil, verjetno s ciljem, da bi prikril svojo identiteto, in se premaknil nekaj korakov dlje po cesti.
+passage.questions.9.question:Je Gifford potreboval pomoč, da je prišel do cerkve?
+passage.questions.9.idx:4515.0
+passage.questions.9.answers.1.text:Da
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:23873.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:23872.0
+passage.questions.8.question:Komu je Gervase Henshaw prikrival identiteto?
+passage.questions.8.idx:4514.0
+passage.questions.8.answers.1.text:Gifford
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:23871.0
+passage.questions.8.answers.0.text:Roberta
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:23870.0
+passage.questions.7.question:Kje je Gifford videl Henshawa?
+passage.questions.7.idx:4513.0
+passage.questions.7.answers.1.text:Po cesti
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:23869.0
+passage.questions.7.answers.0.text:Stile
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:23868.0
+passage.questions.6.question:Bi padla tema pred Giffordovim prihodom v cerkev?
+passage.questions.6.idx:4512.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:23867.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:23866.0
+passage.questions.5.question:Kaj je Gervase počel na terenu?
+passage.questions.5.idx:4511.0
+passage.questions.5.answers.2.text:Stoječe
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:23865.0
+passage.questions.5.answers.1.text:Prikrito je postavljal past
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:23864.0
+passage.questions.5.answers.0.text:Spanje
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:23863.0
+passage.questions.4.question:Kam je bil Gifford na poti, ko se je ozrl nazaj?
+passage.questions.4.idx:4510.0
+passage.questions.4.answers.1.text:Na poti do stila
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:23862.0
+passage.questions.4.answers.0.text:Domov
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:23861.0
+passage.questions.3.question:Koga je Gifford prepoznal, ko je zagledal glavo nad živo mejo?
+passage.questions.3.idx:4509.0
+passage.questions.3.answers.2.text:Gifford je prepoznal Gervaseja Henshawa, ko je zagledal glavo nad živo mejo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:23860.0
+passage.questions.3.answers.1.text:Leopard
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:23859.0
+passage.questions.3.answers.0.text:Gervase Henshaw
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:23858.0
+passage.questions.2.question:Ob kateri uri zvečer je Gifford prišel do zadnjega polja
+passage.questions.2.idx:4508.0
+passage.questions.2.answers.1.text:Pozno ponoči
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:23857.0
+passage.questions.2.answers.0.text:Začela se je tema
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:23856.0
+passage.questions.19.question:Bliža se stilu, koga je videl Gifford?
+passage.questions.19.idx:4525.0
+passage.questions.19.answers.1.text:Konj
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:23898.0
+passage.questions.19.answers.0.text:Gervase Henshaw
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:23897.0
+passage.questions.18.question:Kdo je bil na drugi strani žive meje?
+passage.questions.18.idx:4524.0
+passage.questions.18.answers.1.text:Gifford
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:23896.0
+passage.questions.18.answers.0.text:Gervase Henshaw
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:23895.0
+passage.questions.17.question:Kdo je poskušal prikriti njegovo identiteto?
+passage.questions.17.idx:4523.0
+passage.questions.17.answers.2.text:Wynford
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:23894.0
+passage.questions.17.answers.1.text:Gervase Henshaw je poskušal prikriti svojo identiteto
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:23893.0
+passage.questions.17.answers.0.text:Gervase Henshaw
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:23892.0
+passage.questions.16.question:Kje sta Gifforda čakala konj in past?
+passage.questions.16.idx:4522.0
+passage.questions.16.answers.1.text:Po cesti
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:23891.0
+passage.questions.16.answers.0.text:V stilu
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:23890.0
+passage.questions.15.question:Kdaj je Gifford ubral dobro zapomnjena polja?
+passage.questions.15.idx:4521.0
+passage.questions.15.answers.2.text:O padcu teme
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:23889.0
+passage.questions.15.answers.1.text:Pozno naslednjo nedeljo popoldne
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:23888.0
+passage.questions.15.answers.0.text:Zvečer
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:23887.0
+passage.questions.14.question:Kje je Gifford videl Gervaseja Henshawa?
+passage.questions.14.idx:4520.0
+passage.questions.14.answers.2.text:Zagledal je Gervaseja Henshawa blizu stila, blizu notranjosti žive meje
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:23886.0
+passage.questions.14.answers.1.text:Druga stran žive meje
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:23885.0
+passage.questions.14.answers.0.text:Sprednja stran žive meje
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:23884.0
+passage.questions.13.question:Ko je Gifford pogledal nazaj, koliko še po cesti je prepotoval Henshaw?
+passage.questions.13.idx:4519.0
+passage.questions.13.answers.1.text:Nizke obraze
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:23883.0
+passage.questions.13.answers.0.text:Nekaj korakov
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:23882.0
+passage.questions.12.question:Je bilo zunaj svetlo ali temno, ko je bil Gifford približno četrt milje od cerkve?
+passage.questions.12.idx:4518.0
+passage.questions.12.answers.1.text:Temno
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:23881.0
+passage.questions.12.answers.0.text:Zvečer
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:23880.0
+passage.questions.11.question:Zakaj se je proti koncu Giffordovega sprehoda začela tema?
+passage.questions.11.idx:4517.0
+passage.questions.11.answers.2.text:Sončni zahod se je zgodil tistega dne zgodaj
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:23879.0
+passage.questions.11.answers.1.text:Ker je v nedeljo pozno popoldne šel ven
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:23878.0
+passage.questions.11.answers.0.text:Popoldne
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:23877.0
+passage.questions.10.question:Kako daleč je bilo križišče od meje parka?
+passage.questions.10.idx:4516.0
+passage.questions.10.answers.2.text:Četrt milje
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:23876.0
+passage.questions.10.answers.1.text:Križišče je bilo približno četrt milje od meje parka
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:23875.0
+passage.questions.10.answers.0.text:Pol milje
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:23874.0
+passage.questions.1.question:Kaj je počel Henshaw?
+passage.questions.1.idx:4507.0
+passage.questions.1.answers.2.text:Sedenje
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23855.0
+passage.questions.1.answers.1.text:Upogibanje
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:23854.0
+passage.questions.1.answers.0.text:Skrivanje pred Giffordom s konjem in pastjo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:23853.0
+passage.questions.0.question:Kdo je hodil in katero žival je videl?
+passage.questions.0.idx:4506
+passage.questions.0.answers.4.text:Gifford je videl konja
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:23852.0
+passage.questions.0.answers.3.text:Gifford
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:23851.0
+passage.questions.0.answers.2.text:Wynford
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:23850.0
+passage.questions.0.answers.1.text:Krava
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:23849
+passage.questions.0.answers.0.text:Konj
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:23848
+idx:396

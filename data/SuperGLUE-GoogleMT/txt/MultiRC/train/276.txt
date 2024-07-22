@@ -1,0 +1,474 @@
+version:1.1
+passage.text:Sto tisoče let, preden naj bi Kitajska postala najdaljša civilizacija na svetu, je bil prolog uveden s trepetanjem skrbno negovanega ognja. Pekinški človek, predhodnik Homo sapiens, je obvladal ogenj. Lahko bi mu rekli prvi kitajski izum. Saj ne, da je zasnoval kremen in jeklo, vžigalice ali kakršen koli drug način ustvarjanja ognja. Pekinški človek se je preprosto naučil, kako ujeti plamen, morda iz gozdnega požara, in ga prižgati. Tako je užival dva revolucionarna razkošja: svetlobo in toploto. Tehnološko in sociološko je bil to fenomenalen preboj: z ognjem bi lahko skupnosti živele celo leto v eni jami, v kateri bi lahko nadaljevali s kuhanjem in celo taljenjem. Tako so se predniki človeštva do 600.000 pr. N. Št., Približno 50 km (31 milj) jugozahodno od današnjega Pekinga, bili pripravljeni naseliti. Nekaj sto tisoč let kasneje, ko je Marco Polo prišel v glavno mesto Kitajske, ga je presenetil nadaljnji razvoj požarne tehnologije. Kitajci so po njegovih besedah za gorivo uporabljali črne kamne, izkopane iz gora. Evropejci še niso imeli besede za &quot;premog&quot;, niti ga niso odkrili. Prva dinastija Sotočje mitologije in zgodovine na Kitajskem se je zgodilo pred približno 4000 leti v času, ki ga imenujemo dinastija Xia (Hsia). To je bila še kamena doba, vendar naj bi ljudje izdelovali svilo iz niti, ki so jo črvi gojili na listih svojih murv. In pisni jezik (ki se je razvil že pred 4500 do 5000 leti) je bil že v uporabi, prvotno s strani proročij, nato pa uradni pisarji - prvi kitajski učenjaki. Med drugo kvazi legendarno dinastijo Šang (približno od 16. do 11. stoletja pr. N. Št.) So se Kitajci zanimali za umetnost. Skrbni geometrijski vzorci ter motivi zmajev in ptic so krasili sklede in pripomočke. In s prihodom bronaste dobe so Kitajci ustvarili bronaste posode takšne lepote in izvirnosti, da do novega časa arheologi niso verjeli, da so bili uliveni pred 3000 leti. Iz dinastije Shang se je pojavil koncept ene kitajske države pod eno vlado.
+passage.questions.9.question:Kako se danes imenuje gorivo, ki ga je Marco Polo našel, ko je prišel v glavno mesto Kitajske?
+passage.questions.9.idx:3136.0
+passage.questions.9.answers.2.text:Kamnine
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:16553.0
+passage.questions.9.answers.1.text:Črni kamni
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:16552.0
+passage.questions.9.answers.0.text:Premog
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:16551.0
+passage.questions.8.question:Kaj je druga kvazi legendarna dinastija vzbudila koncept?
+passage.questions.8.idx:3135.0
+passage.questions.8.answers.4.text:Ogenj
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:16550.0
+passage.questions.8.answers.3.text:Umetnost
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:16549.0
+passage.questions.8.answers.2.text:Zmaji
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:16548.0
+passage.questions.8.answers.1.text:Posodice
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:16547.0
+passage.questions.8.answers.0.text:En kitajski narod pod eno vlado
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:16546.0
+passage.questions.7.question:Za kaj so Kitajci uporabljali premog?
+passage.questions.7.idx:3134.0
+passage.questions.7.answers.2.text:Gorivo
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:16545.0
+passage.questions.7.answers.1.text:Hrana
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:16544.0
+passage.questions.7.answers.0.text:Ogenj
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:16543.0
+passage.questions.6.question:Pekinški človek je obvladal ogenj v kateri državi trenutno?
+passage.questions.6.idx:3133.0
+passage.questions.6.answers.2.text:Kitajska
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:16542.0
+passage.questions.6.answers.1.text:Peking
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:16541.0
+passage.questions.6.answers.0.text:Amerika
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:16540.0
+passage.questions.5.question:Kdaj je dinastija Hsia prvič izdelala svilo?
+passage.questions.5.idx:3132.0
+passage.questions.5.answers.5.text:Pred 3000 leti
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:16539.0
+passage.questions.5.answers.4.text:Kamena doba
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:16538.0
+passage.questions.5.answers.3.text:Pred 4.000 leti
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:16537.0
+passage.questions.5.answers.2.text:Okoli 2500 pr
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:16536.0
+passage.questions.5.answers.1.text:4000 pr
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:16535.0
+passage.questions.5.answers.0.text:4000 ac
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:16534.0
+passage.questions.4.question:Kje bi moški iz Pekinga ujel plamen in toploto?
+passage.questions.4.idx:3131.0
+passage.questions.4.answers.4.text:Gozd
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:16533.0
+passage.questions.4.answers.3.text:Vžigalna škatlica
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:16532.0
+passage.questions.4.answers.2.text:Iz gozdnega požara
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:16531.0
+passage.questions.4.answers.1.text:Z gora
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:16530.0
+passage.questions.4.answers.0.text:Vročina
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:16529.0
+passage.questions.3.question:Kdo je oblikoval geometrijske sklede in bronaste posode?
+passage.questions.3.idx:3130.0
+passage.questions.3.answers.3.text:Dinastija Xia
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:16528.0
+passage.questions.3.answers.2.text:Shang
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:16527.0
+passage.questions.3.answers.1.text:Homosapiens
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:16526.0
+passage.questions.3.answers.0.text:Dinastija Shang
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:16525.0
+passage.questions.29.question:Kateri evropski raziskovalec je odkril, da so Kitajci kot gorivo uporabljali črne kamne, izkopane iz gora?
+passage.questions.29.idx:3156.0
+passage.questions.29.answers.2.text:Krištof Kolumb
+passage.questions.29.answers.2.label:0,0
+passage.questions.29.answers.2.idx:16642.0
+passage.questions.29.answers.1.text:Marko Polo
+passage.questions.29.answers.1.label:1.0
+passage.questions.29.answers.1.idx:16641.0
+passage.questions.29.answers.0.text:Pekinški človek
+passage.questions.29.answers.0.label:0,0
+passage.questions.29.answers.0.idx:16640.0
+passage.questions.28.question:V času dinastije Shang so se Kitajci zanimali za kakšen model?
+passage.questions.28.idx:3155.0
+passage.questions.28.answers.5.text:Ogenj
+passage.questions.28.answers.5.label:0,0
+passage.questions.28.answers.5.idx:16639.0
+passage.questions.28.answers.4.text:Motivi zmajev in ptic
+passage.questions.28.answers.4.label:1.0
+passage.questions.28.answers.4.idx:16638.0
+passage.questions.28.answers.3.text:Umetnost
+passage.questions.28.answers.3.label:0,0
+passage.questions.28.answers.3.idx:16637.0
+passage.questions.28.answers.2.text:Geometrijska
+passage.questions.28.answers.2.label:1.0
+passage.questions.28.answers.2.idx:16636.0
+passage.questions.28.answers.1.text:Posodice
+passage.questions.28.answers.1.label:0,0
+passage.questions.28.answers.1.idx:16635.0
+passage.questions.28.answers.0.text:Previdni geometrijski modeli
+passage.questions.28.answers.0.label:1.0
+passage.questions.28.answers.0.idx:16634.0
+passage.questions.27.question:Od kod so izkopavali črne kamne in ali so Evropejci za to našli korist?
+passage.questions.27.idx:3154.0
+passage.questions.27.answers.3.text:Izkopali so jih iz gora, Evropejci pa niso odkrili uporabe izdelka
+passage.questions.27.answers.3.label:1.0
+passage.questions.27.answers.3.idx:16633.0
+passage.questions.27.answers.2.text:Tla
+passage.questions.27.answers.2.label:0,0
+passage.questions.27.answers.2.idx:16632.0
+passage.questions.27.answers.1.text:Da
+passage.questions.27.answers.1.label:0,0
+passage.questions.27.answers.1.idx:16631.0
+passage.questions.27.answers.0.text:Gore, št
+passage.questions.27.answers.0.label:1.0
+passage.questions.27.answers.0.idx:16630.0
+passage.questions.26.question:Kakšen vir goriva je omogočil naselje katerega glavnega mesta na Kitajskem?
+passage.questions.26.idx:3153.0
+passage.questions.26.answers.6.text:Premog dovolil naseljevanje Šanghaja
+passage.questions.26.answers.6.label:0,0
+passage.questions.26.answers.6.idx:16629.0
+passage.questions.26.answers.5.text:Ogenj
+passage.questions.26.answers.5.label:0,0
+passage.questions.26.answers.5.idx:16628.0
+passage.questions.26.answers.4.text:Hong Kong
+passage.questions.26.answers.4.label:0,0
+passage.questions.26.answers.4.idx:16627.0
+passage.questions.26.answers.3.text:Premog dovolil naseljevanje Pekinga
+passage.questions.26.answers.3.label:1.0
+passage.questions.26.answers.3.idx:16626.0
+passage.questions.26.answers.2.text:Bejing
+passage.questions.26.answers.2.label:1.0
+passage.questions.26.answers.2.idx:16625.0
+passage.questions.26.answers.1.text:Premog
+passage.questions.26.answers.1.label:1.0
+passage.questions.26.answers.1.idx:16624.0
+passage.questions.26.answers.0.text:Premog je ljudem omogočil, da so se sčasoma naselili v Pekingu
+passage.questions.26.answers.0.label:1.0
+passage.questions.26.answers.0.idx:16623.0
+passage.questions.25.question:V katerem obdobju je bila dinastija Xia (Hsia)?
+passage.questions.25.idx:3152.0
+passage.questions.25.answers.5.text:Bronasta doba
+passage.questions.25.answers.5.label:0,0
+passage.questions.25.answers.5.idx:16622.0
+passage.questions.25.answers.4.text:4000 pr
+passage.questions.25.answers.4.label:0,0
+passage.questions.25.answers.4.idx:16621.0
+passage.questions.25.answers.3.text:Kamena doba
+passage.questions.25.answers.3.label:1.0
+passage.questions.25.answers.3.idx:16620.0
+passage.questions.25.answers.2.text:4000 ac
+passage.questions.25.answers.2.label:0,0
+passage.questions.25.answers.2.idx:16619.0
+passage.questions.25.answers.1.text:Pred 4000 leti
+passage.questions.25.answers.1.label:1.0
+passage.questions.25.answers.1.idx:16618.0
+passage.questions.25.answers.0.text:Okoli 2000 pr
+passage.questions.25.answers.0.label:1.0
+passage.questions.25.answers.0.idx:16617.0
+passage.questions.24.question:Kaj je obvladovanje ognja doseglo Pekinški človek?
+passage.questions.24.idx:3151.0
+passage.questions.24.answers.5.text:Svetloba
+passage.questions.24.answers.5.label:1.0
+passage.questions.24.answers.5.idx:16616.0
+passage.questions.24.answers.4.text:Kitajski izum
+passage.questions.24.answers.4.label:0,0
+passage.questions.24.answers.4.idx:16615.0
+passage.questions.24.answers.3.text:Hrana
+passage.questions.24.answers.3.label:0,0
+passage.questions.24.answers.3.idx:16614.0
+passage.questions.24.answers.2.text:gozdni požari
+passage.questions.24.answers.2.label:0,0
+passage.questions.24.answers.2.idx:16613.0
+passage.questions.24.answers.1.text:Svetloba in toplota
+passage.questions.24.answers.1.label:1.0
+passage.questions.24.answers.1.idx:16612.0
+passage.questions.24.answers.0.text:Vročina
+passage.questions.24.answers.0.label:1.0
+passage.questions.24.answers.0.idx:16611.0
+passage.questions.23.question:Prvi kitajski izum je vključeval mojstra katerega predmeta?
+passage.questions.23.idx:3150.0
+passage.questions.23.answers.4.text:Zajemanje ognja
+passage.questions.23.answers.4.label:1.0
+passage.questions.23.answers.4.idx:16610.0
+passage.questions.23.answers.3.text:Ogenj
+passage.questions.23.answers.3.label:1.0
+passage.questions.23.answers.3.idx:16609.0
+passage.questions.23.answers.2.text:Trgovina s svilo
+passage.questions.23.answers.2.label:0,0
+passage.questions.23.answers.2.idx:16608.0
+passage.questions.23.answers.1.text:Umetnost
+passage.questions.23.answers.1.label:0,0
+passage.questions.23.answers.1.idx:16607.0
+passage.questions.23.answers.0.text:Civilizacija
+passage.questions.23.answers.0.label:0,0
+passage.questions.23.answers.0.idx:16606.0
+passage.questions.22.question:Katero kitajsko dinastijo povezujejo s skrbnimi geometrijskimi vzorci ter motivi zmajev in ptic?
+passage.questions.22.idx:3149.0
+passage.questions.22.answers.3.text:Najprej
+passage.questions.22.answers.3.label:0,0
+passage.questions.22.answers.3.idx:16605.0
+passage.questions.22.answers.2.text:Shang
+passage.questions.22.answers.2.label:1.0
+passage.questions.22.answers.2.idx:16604.0
+passage.questions.22.answers.1.text:Dinastija Xia
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:16603.0
+passage.questions.22.answers.0.text:Dinastija Shang
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:16602.0
+passage.questions.21.question:Kakšen razvoj v požarni tehnologiji je odkril Marco Polo, ko je prišel v glavno mesto Kitajske?
+passage.questions.21.idx:3148.0
+passage.questions.21.answers.5.text:Gore
+passage.questions.21.answers.5.label:0,0
+passage.questions.21.answers.5.idx:16601.0
+passage.questions.21.answers.4.text:Svetloba
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:16600.0
+passage.questions.21.answers.3.text:Črni kamni gorivo
+passage.questions.21.answers.3.label:1.0
+passage.questions.21.answers.3.idx:16599.0
+passage.questions.21.answers.2.text:Olje
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:16598.0
+passage.questions.21.answers.1.text:Črni kamni, izkopani iz gora
+passage.questions.21.answers.1.label:1.0
+passage.questions.21.answers.1.idx:16597.0
+passage.questions.21.answers.0.text:Premog
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:16596.0
+passage.questions.20.question:Je bil ob nastanku dinastije Xia pisni jezik že na mestu?
+passage.questions.20.idx:3147.0
+passage.questions.20.answers.2.text:Ne. Dinastija Xia je bila pred 4000 leti, pisani jezik pa se pojavlja pred 4000 do 5000 leti
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:16595.0
+passage.questions.20.answers.1.text:Da
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:16594.0
+passage.questions.20.answers.0.text:Ne
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:16593.0
+passage.questions.2.question:Kje je človek dobil ogenj in kakšen razkošje je zagotovil?
+passage.questions.2.idx:3129.0
+passage.questions.2.answers.6.text:Naučili so se obdržati plamen iz drugega vira, kot je gozdni požar, in je zagotavljal toploto in svetlobo
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:16524.0
+passage.questions.2.answers.5.text:Nenamerno odkritje zaradi strele
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:16523.0
+passage.questions.2.answers.4.text:Dobil je ogenj iz gozdnega požara, ki je zagotavljal toploto in svetlobo
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:16522.0
+passage.questions.2.answers.3.text:Način kuhanja hrane
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:16521.0
+passage.questions.2.answers.2.text:Drgnjenje dveh palic skupaj je zagotavljalo toploto
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:16520.0
+passage.questions.2.answers.1.text:Svetloba in toplota
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:16519.0
+passage.questions.2.answers.0.text:Ujemite plamen, morda iz gozdnega požara, in ga pridržite
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:16518.0
+passage.questions.19.question:Ta slavni raziskovalec je po prihodu na glavno mesto Kitajske poročal, da so Kitajci v kakšni barvi kamenjali ogenj?
+passage.questions.19.idx:3146.0
+passage.questions.19.answers.4.text:Marco Polo je dejal, da so Kitajci za kurjenje ognja uporabljali premog
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:16592.0
+passage.questions.19.answers.3.text:Kobaltno modre kamnine
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:16591.0
+passage.questions.19.answers.2.text:Črna
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:16590.0
+passage.questions.19.answers.1.text:Moški iz Pekinga je dejal, da so Kitajci za pregorevanje uporabljali premog
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:16589.0
+passage.questions.19.answers.0.text:Marco Polo je bil presenečen, ker so za gorivo uporabljali črne kamnine
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:16588.0
+passage.questions.18.question:Katera dinastija je povzročila zanimanje za umetnost in koncept ene kitajske države pod eno vlado?
+passage.questions.18.idx:3145.0
+passage.questions.18.answers.4.text:Shang
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:16587.0
+passage.questions.18.answers.3.text:Dinastija Xia
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:16586.0
+passage.questions.18.answers.2.text:Dinastija Shang je vzbudila zanimanje za umetnost in koncept ene kitajske države pod eno vlado
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:16585.0
+passage.questions.18.answers.1.text:Dinastija Shang
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:16584.0
+passage.questions.18.answers.0.text:Kitajski
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:16583.0
+passage.questions.17.question:Kdo je obvladal ogenj?
+passage.questions.17.idx:3144.0
+passage.questions.17.answers.4.text:Pekinški človek
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:16582.0
+passage.questions.17.answers.3.text:Homo Sapiens
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:16581.0
+passage.questions.17.answers.2.text:Marko Polo
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:16580.0
+passage.questions.17.answers.1.text:Homo sapien
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:16579.0
+passage.questions.17.answers.0.text:Kitajski
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:16578.0
+passage.questions.16.question:Koga bi lahko imenovali za prvega kitajskega izumitelja?
+passage.questions.16.idx:3143.0
+passage.questions.16.answers.2.text:Marko Polo
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:16577.0
+passage.questions.16.answers.1.text:Pekinški človek
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:16576.0
+passage.questions.16.answers.0.text:Dinastija Shang
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:16575.0
+passage.questions.15.question:Kdo je užival v dveh revolucionarnih razkošjih svetlobe in toplote?
+passage.questions.15.idx:3142.0
+passage.questions.15.answers.2.text:Krištof Kolumb
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:16574.0
+passage.questions.15.answers.1.text:Marko Polo
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:16573.0
+passage.questions.15.answers.0.text:Pekinški človek
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:16572.0
+passage.questions.14.question:Kaj bi lahko imenovali prvi kitajski izum?
+passage.questions.14.idx:3141.0
+passage.questions.14.answers.3.text:Gorivo
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:16571.0
+passage.questions.14.answers.2.text:Ogenj
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:16570.0
+passage.questions.14.answers.1.text:Obvladovanje ognja
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:16569.0
+passage.questions.14.answers.0.text:Pekinški človek
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:16568.0
+passage.questions.13.question:Kdo je bila druga dinastija, ki je ustvarjala umetnost?
+passage.questions.13.idx:3140.0
+passage.questions.13.answers.3.text:Dinastija Xia
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:16567.0
+passage.questions.13.answers.2.text:Shang
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:16566.0
+passage.questions.13.answers.1.text:Kvazi legendarne dinastije
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:16565.0
+passage.questions.13.answers.0.text:Dinastija Shang
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:16564.0
+passage.questions.12.question:Kdo je dosegel tisto, kar bi lahko imenovali prvi kitajski izum?
+passage.questions.12.idx:3139.0
+passage.questions.12.answers.2.text:Marko Polo
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:16563.0
+passage.questions.12.answers.1.text:Shang
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:16562.0
+passage.questions.12.answers.0.text:Pekinški človek
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:16561.0
+passage.questions.11.question:Približno koliko let je minilo med dinastijo Xia in nastankom najstarejših znanih bronastih posod na Kitajskem?
+passage.questions.11.idx:3138.0
+passage.questions.11.answers.4.text:10000
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:16560.0
+passage.questions.11.answers.3.text:1000
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:16559.0
+passage.questions.11.answers.2.text:5 stoletij
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:16558.0
+passage.questions.11.answers.1.text:3000
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:16557.0
+passage.questions.11.answers.0.text:3000 let
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:16556.0
+passage.questions.10.question:Ali je pisni jezik obstajal v času prve dinastije na Kitajskem?
+passage.questions.10.idx:3137.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:16555.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:16554.0
+passage.questions.1.question:Kateri tip predzgodovinskega človeka je bil zaslužen za prvi kitajski izum in kaj je bilo izumljeno?
+passage.questions.1.idx:3128.0
+passage.questions.1.answers.6.text:Pekinški človek
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:16517.0
+passage.questions.1.answers.5.text:Jamske risbe
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:16516.0
+passage.questions.1.answers.4.text:Neandertalec
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:16515.0
+passage.questions.1.answers.3.text:Pekinški človek je razvil premog
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:16514.0
+passage.questions.1.answers.2.text:Pekinški človek in izumil je ogenj
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:16513.0
+passage.questions.1.answers.1.text:Obvladovanje ognja
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:16512.0
+passage.questions.1.answers.0.text:Pekinški človek je bil zaslužen za izumljanje ognja
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:16511.0
+passage.questions.0.question:Katera nova požarna tehnologija je presenetila Marca Pola, ko je prišel v glavno mesto Kitajske?
+passage.questions.0.idx:3127
+passage.questions.0.answers.4.text:Zajemanje ognja
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:16510.0
+passage.questions.0.answers.3.text:Sveče
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:16509.0
+passage.questions.0.answers.2.text:Gorivo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:16508.0
+passage.questions.0.answers.1.text:Kitajci so za gorivo uporabljali črne kamne, izkopane iz gora
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:16507
+passage.questions.0.answers.0.text:Uporaba premoga za gorivo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:16506
+idx:276

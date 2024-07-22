@@ -1,0 +1,202 @@
+version:1.1
+passage.text:Med tranzicijo je Bush za generalnega državnega tožilca izbral Johna Ashcrofta, nekdanjega senatorja iz Missourija. Ashcroft nam je po prihodu na pravosodno ministrstvo naletel na številne težave, ki so opozorile na potrebo po reformi v FBI. Februarja je Clarke generalnega državnega tožilca Ashcrofta seznanil z vprašanji svojega direktorata. Poročal je, da je takrat državni tožilec priznal &quot;strmo krivuljo učenja&quot; in vprašal o napredku preiskave Cole. Niti Ashcroft niti njegovi predhodniki niso prejeli predsednikovega dnevnega poročila. Njegov urad je prejel dnevno obveščevalno poročilo za visoke uradnike, ki so spomladi in poleti 2001 prenašali večino istih informacij o grožnjah. FBI si je prizadeval za izgradnjo svojih institucionalnih zmogljivosti, da bi naredil več proti terorizmu, pri čemer se je opiral na strategijo z imenom MAXCAP 05, ki je bila predstavljena poleti 2000. Dale Watson, pomočnik direktorja FBI za boj proti terorizmu, nam je povedal, da čuti novo Vodstvo pravosodnega ministrstva ni podpiralo strategije. Watson je imel občutek, da ministrstvo za pravosodje želi, da se FBI vrne k preiskovalnim osnovam: orožju, drogam in državljanskim pravicam. Nova uprava je v svojem prvotnem predlogu proračuna za proračunsko leto 2002 zahtevala 8-odstotno povečanje celotnega financiranja FBI, vključno z največjim predlaganim odstotnim povečanjem protiterorističnega programa FBI od proračunskega leta 1997. Dodatna sredstva so vključevala podporo FBI za zimo leta 2002. Olimpijske igre v Salt Lake Cityju v Utahu (enkratno povečanje), izboljšana varnost v objektih FBI in izboljšave FBI-jeve zmogljivosti za odzivanje na OMU. Maja je ministrstvo za pravosodje začelo oblikovati načrte za sestavo proračuna za proračunsko leto 2003, postopek, ki bi navadno dosegel vrhunec v predlogu uprave v začetku leta 2002. 9. maja je državni tožilec na kongresnem zaslišanju pričal o zveznih prizadevanjih za boj proti terorizmu. Dejal je, da je &quot;ena temeljnih odgovornosti države zaščita državljanov pred terorističnimi napadi.&quot; V proračunskih smernicah, izdanih naslednji dan, pa so kot prednostne naloge izpostavljeni zločini z orožjem, trgovina z mamili in državljanske pravice.
+passage.questions.9.question:Kdo je na kongresnem zaslišanju pričal, da je &quot;ena najpomembnejših nalog države zaščititi svoje državljane pred terorističnimi napadi&quot;?
+passage.questions.9.idx:296.0
+passage.questions.9.answers.5.text:Clarke
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:1552.0
+passage.questions.9.answers.4.text:Državni tožilec
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:1551.0
+passage.questions.9.answers.3.text:Ashcroftov predhodnik
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1550.0
+passage.questions.9.answers.2.text:John Ashcroft
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1549.0
+passage.questions.9.answers.1.text:Generalni državni tožilec Ashcroft
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:1548.0
+passage.questions.9.answers.0.text:Dale Watson
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1547.0
+passage.questions.8.question:Kdo sta John Ashcroft in Dale Watson
+passage.questions.8.idx:295.0
+passage.questions.8.answers.4.text:Ashcroft je generalni državni tožilec, Dale Watson pa pomočnik direktorja FBI za boj proti terorizmu
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:1546.0
+passage.questions.8.answers.3.text:Državni tožilec in pomočnik direktorja FBI za boj proti terorizmu
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1545.0
+passage.questions.8.answers.2.text:John Ashcroft je pomočnik direktorja FBI za boj proti terorizmu, Dale Watson pa državni tožilec
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1544.0
+passage.questions.8.answers.1.text:Generalni državni tožilec in vodja kabineta ministrstva za pravosodje
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1543.0
+passage.questions.8.answers.0.text:Državni tožilec in direktor FBI
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1542.0
+passage.questions.7.question:Na kateri datum so bile izdane proračunske smernice, ki so kot prednostne naloge izpostavile kazniva dejanja orožja, trgovino z mamili in državljanske pravice
+passage.questions.7.idx:294.0
+passage.questions.7.answers.4.text:Dan po tem, ko je generalni državni tožilec pričal na kongresnem zaslišanju glede zveznih prizadevanj za boj proti terorizmu
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:1541.0
+passage.questions.7.answers.3.text:9. maja
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1540.0
+passage.questions.7.answers.2.text:10. maja
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:1539.0
+passage.questions.7.answers.1.text:11.
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1538.0
+passage.questions.7.answers.0.text:10. maja
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1537.0
+passage.questions.6.question:Kakšnega dnevnega poročila generalni državni tožilec ni prejel
+passage.questions.6.idx:293.0
+passage.questions.6.answers.4.text:Predsedniki vsak dan
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:1536.0
+passage.questions.6.answers.3.text:Clarke
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1535.0
+passage.questions.6.answers.2.text:Predsednik
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:1534.0
+passage.questions.6.answers.1.text:Dalea Watsona
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1533.0
+passage.questions.6.answers.0.text:Povzetek civilne desnice
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1532.0
+passage.questions.5.question:Nekdanji senator katere države je hotel reformirati FBI?
+passage.questions.5.idx:292.0
+passage.questions.5.answers.5.text:Missouri
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:1531.0
+passage.questions.5.answers.4.text:John Ashcroft iz Teksasa
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:1530.0
+passage.questions.5.answers.3.text:Ashcroft iz Missourija
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1529.0
+passage.questions.5.answers.2.text:John Ashcroft iz Missourija
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1528.0
+passage.questions.5.answers.1.text:Arkansas
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1527.0
+passage.questions.5.answers.0.text:Clarke iz Missourija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1526.0
+passage.questions.4.question:Kako je Ashcroft hotel reformirati FBI?
+passage.questions.4.idx:291.0
+passage.questions.4.answers.6.text:Želel je zmanjšati odpuščanje in povečati učinkovitost
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:1525.0
+passage.questions.4.answers.5.text:Želel se je osredotočiti na orožje, mamila in državljanske pravice
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:1524.0
+passage.questions.4.answers.4.text:Želel se je vrniti k preiskovalnim osnovam: orožje, mamila in državljanske pravice
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:1523.0
+passage.questions.4.answers.3.text:Želel se je osredotočiti na terorizem
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1522.0
+passage.questions.4.answers.2.text:Hotel je, da FBI naredi več proti terorizmu
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1521.0
+passage.questions.4.answers.1.text:Osredotočil se je na preiskovalne osnove, ne glede na to, kaj je na svojem kongresnem zaslišanju o protiterorizmu dejal 9. maja
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1520.0
+passage.questions.4.answers.0.text:Želel se je osredotočiti na protiteroristične zmogljivosti FBI
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1519.0
+passage.questions.3.question:Kdaj so bile proračunske smernice kot prednostne naloge izpostavljene kazniva dejanja orožja, trgovine z mamili in državljanskih pravic?
+passage.questions.3.idx:290.0
+passage.questions.3.answers.3.text:11. septembra
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1518.0
+passage.questions.3.answers.2.text:8. maja
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1517.0
+passage.questions.3.answers.1.text:10. maja
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1516.0
+passage.questions.3.answers.0.text:9. maja
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1515.0
+passage.questions.2.question:Ali proračunske smernice, izdane 10. maja, podpirajo namestnika direktorja FBI glede protiterorizma glede ciljev ministrstva za pravosodje za FBI?
+passage.questions.2.idx:289
+passage.questions.2.answers.3.text:Da, ker je razkrila največji predlagani odstotek povečanja protiteroristične strategije FBI
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1514.0
+passage.questions.2.answers.2.text:Da, okrepila je protiteroristične zmogljivosti
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1513.0
+passage.questions.2.answers.1.text:Ne
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:1512
+passage.questions.2.answers.0.text:Ne, osredotočila se je na preiskovalne osnove kot prednostne naloge
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:1511
+passage.questions.10.question:Ali so proračunske smernice, izdane 10. maja, odražale obravnavo pričevanja generalnega državnega tožilca v zvezi s prizadevanji zvezne države za boj proti terorizmu?
+passage.questions.10.idx:297.0
+passage.questions.10.answers.4.text:Da, izpostavila je protiteroristične institucionalne ukrepe
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:1557.0
+passage.questions.10.answers.3.text:Ne, izpostavil je kazniva dejanja orožja, trgovino z mamili in civilne pravice
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:1556.0
+passage.questions.10.answers.2.text:Da, osredotočil se je na terorizem
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:1555.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1554.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1553.0
+passage.questions.1.question:Kaj je pomočnik direktorja FBI za boj proti terorizmu verjel, da ministrstvo za pravosodje želi, da FBI naredi?
+passage.questions.1.idx:288
+passage.questions.1.answers.5.text:Načrt oblikovanja zveznega proračuna
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1510.0
+passage.questions.1.answers.4.text:Če se vrnemo k preiskovalnim osnovam: orožje, mamila in državljanske pravice
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:1509.0
+passage.questions.1.answers.3.text:Ne krepitev svojih institucionalnih zmogljivosti, da bi lahko naredila več proti terorizmu, ampak vračanje k preiskovalnim osnovam
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1508.0
+passage.questions.1.answers.2.text:Oblikovanje proračuna za proračunsko leto 2003
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1507.0
+passage.questions.1.answers.1.text:Izboljšati varnost v objektih FBI
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1506
+passage.questions.1.answers.0.text:Vrnite se k osnovam orožja, mamil in državljanskih pravic
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:1505
+passage.questions.0.question:Kdo je dejal, da je &quot;ena temeljnih odgovornosti države zaščita državljanov pred terorističnimi napadi.&quot;
+passage.questions.0.idx:287
+passage.questions.0.answers.5.text:Clarke
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1504.0
+passage.questions.0.answers.4.text:George W. Bush
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1503.0
+passage.questions.0.answers.3.text:Državni tožilec
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1502.0
+passage.questions.0.answers.2.text:Pomočnik direktorja FBI za boj proti terorizmu, Dale Watson
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1501.0
+passage.questions.0.answers.1.text:Ashcroft
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:1500
+passage.questions.0.answers.0.text:John Ashcroft
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1499
+idx:25

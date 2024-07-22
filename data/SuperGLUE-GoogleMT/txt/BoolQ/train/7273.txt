@@ -1,0 +1,4 @@
+idx:7273
+label:True
+passage:Ciklična skupina - niz celih števil z operacijo seštevanja tvori skupino. Gre za neskončno ciklično skupino, saj lahko vsa cela števila zapišemo kot končno vsoto ali razliko kopij števila 1. V tej skupini sta 1 in −1 edina generatorja. Vsaka neskončna ciklična skupina je za to skupino izomorfna.
+question:ali ima lahko ciklična skupina več kot en generator

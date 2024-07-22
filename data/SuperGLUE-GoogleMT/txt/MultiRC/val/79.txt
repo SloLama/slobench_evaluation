@@ -1,0 +1,113 @@
+version:1.1
+passage.text:V ogledalu ste videli svoj odsev. Oseba, ki se ozre nazaj na vas, je videti tako kot vi. Kje se zdi, da stoji ta odsevana oseba? Da, zdi se, da so na drugi strani ogledala. O tem je res čudno razmišljati, a zelo kul. Ste že kdaj mahnili ob svojem odsevu v ogledalu? Odsevna slika vam bo mahala nazaj. Tukaj je nekaj, kar lahko poskusite naslednjič, ko se postavite pred ogledalo. Z desno roko mahnite svojemu odsevu. Kaj mislite, s katero roko bo odsev pomahal nazaj? Ista roka? Drugačna roka? Opazili boste nekaj zanimivega. Odsev maha nazaj z roko na isti strani kot vi, vendar je to njihova leva roka. Slika v odsevu je obrnjena. To je tako kot slika zgornjega znaka. Svetlobni žarki zadenejo ravne svetleče površine in se odbijajo. Odsevi so obrnjeni.
+passage.questions.6.question:Kaj povzroči, da se slika v zrcalnem odsevu obrne?
+passage.questions.6.idx:918.0
+passage.questions.6.answers.2.text:Slika v ogledalu je kopija
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4673.0
+passage.questions.6.answers.1.text:Odsev se je obrnil, ker je ogledalo na glavo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4672.0
+passage.questions.6.answers.0.text:Svetlobni žarki zadenejo ravne svetleče površine in se odbijajo
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4671.0
+passage.questions.5.question:Kaj je podobno vašemu razmišljanju?
+passage.questions.5.idx:917.0
+passage.questions.5.answers.4.text:Vaša slika je obrnjena in izgleda tako kot vi
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4670.0
+passage.questions.5.answers.3.text:Ista slika kot vi
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4669.0
+passage.questions.5.answers.2.text:Slika zgornjega znaka
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4668.0
+passage.questions.5.answers.1.text:Slika znaka
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4667.0
+passage.questions.5.answers.0.text:Vaša obratna slika
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4666.0
+passage.questions.4.question:Kaj boste opazili pri svojem odsevu, ko se bo odmahal nazaj?
+passage.questions.4.idx:916.0
+passage.questions.4.answers.4.text:Odsev vam bo zamahnil z obema rokama
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4665.0
+passage.questions.4.answers.3.text:Mahal bo nazaj z rokami na isti strani, vendar bo nasprotno od vas
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:4664.0
+passage.questions.4.answers.2.text:Odsev maha nazaj z roko na isti strani kot vi, vendar je to njihova leva roka
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4663.0
+passage.questions.4.answers.1.text:Da z isto roko maha nazaj
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4662.0
+passage.questions.4.answers.0.text:Da maha nazaj z nasprotno roko
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4661.0
+passage.questions.3.question:Kaj se zgodi, ko pogledate svoj odsev?
+passage.questions.3.idx:915.0
+passage.questions.3.answers.6.text:Vaš odsev se bo premaknil na stran
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:4660.0
+passage.questions.3.answers.5.text:Oseba, ki se ozre na vas, je videti tako kot vi
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:4659.0
+passage.questions.3.answers.4.text:Vaš odsev se ozre nazaj
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:4658.0
+passage.questions.3.answers.3.text:Vidite natančno kopijo sebe
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:4657.0
+passage.questions.3.answers.2.text:Oseba, ki se ozre nazaj na vas, izgleda tako kot vi in zdi se, da je na drugi strani ogledala
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4656.0
+passage.questions.3.answers.1.text:Obraz osebe bo videti drugače
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4655.0
+passage.questions.3.answers.0.text:Vidite obratno sliko o sebi
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4654.0
+passage.questions.2.question:Kakšna je edina razlika med odsevom v ogledalu in dejansko sliko?
+passage.questions.2.idx:914
+passage.questions.2.answers.3.text:Razlika je v tem, da so odsevi v temni barvi
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4653.0
+passage.questions.2.answers.2.text:Odsevi so obrnjeni
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4652.0
+passage.questions.2.answers.1.text:Obrnjeno je
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:4651
+passage.questions.2.answers.0.text:Popolnoma enako je
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:4650
+passage.questions.1.question:Kako deluje refleksija?
+passage.questions.1.idx:913
+passage.questions.1.answers.2.text:Slika v odsevu je obrnjena
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4649.0
+passage.questions.1.answers.1.text:Slika v odsevu prihaja iz luči
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:4648
+passage.questions.1.answers.0.text:Svetlobni žarki zadenejo ravne svetleče površine in se odbijajo, odsevi pa se obrnejo
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:4647
+passage.questions.0.question:Kaj je primer preobrata refleksije?
+passage.questions.0.idx:912
+passage.questions.0.answers.4.text:Ko ob odsevu mahate z desno roko, vam odsev valovi nazaj z roko na isti strani kot desna roka, toda to je odsev leve roke
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:4646.0
+passage.questions.0.answers.3.text:Z desno roko mahajte svojemu odsevu in odsev valovi nazaj z roko na isti strani kot vi, toda to je njihova leva roka
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4645.0
+passage.questions.0.answers.2.text:Vaš odsev bo mahal in se premikal
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4644.0
+passage.questions.0.answers.1.text:Ko mahate z desno roko, vaša slika maha z levo roko
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4643
+passage.questions.0.answers.0.text:Ko mahate z desno roko, tudi vaša slika maha z desno roko
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4642
+idx:79

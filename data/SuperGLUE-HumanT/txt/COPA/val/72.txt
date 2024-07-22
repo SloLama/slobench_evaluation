@@ -1,0 +1,6 @@
+﻿choice1:Učenci so si med poukom dopisovali.
+choice2:Učenci so zastokali.
+idx:72
+label:1
+premise:Učitelj je dal učencem nalogo.
+question:effect

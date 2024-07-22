@@ -1,0 +1,516 @@
+version:1.1
+passage.text:Takoj po zadetku Pentagona je NEADS izvedel za drugo možno ugrabljeno letalo. Šlo je za letalo, ki v resnici sploh ni bilo ugrabljeno. Po drugi nesreči Svetovnega trgovinskega centra so menedžerji Boston Center prepoznali, da sta bili obe letali 767 transkontinentalnih letal, ki so zapustili letališče Logan. Ob spominu na pripombo &quot;imamo nekaj letal&quot; je Boston Center uganil, da bi lahko ugrabili tudi Delta 1989. Bostonski center je poklical NEADS ob 9:41 in kot možno ugrabitev identificiral Delta 1989, letalo 767, ki je zapustilo letališče Logan proti Las Vegasu. NEADS je opozoril FAA&#39;s Cleveland Center, naj gleda Delto 1989. Opazovali so jo tudi Poveljniški center in sedež FAA. V dopoldanskem času je bilo več napačnih poročil o ugrabljenih letalih. Poročilo ameriškega 11, ki se je odpravilo proti jugu, je bilo prvo; Delta 1989 je bila druga. NEADS ni nikoli izgubil sledi Delta 1989 in je celo borilnim letalom naročil iz Ohaja in Michigana, naj ga prestrežejo. Let ni nikoli ugasnil transponderja. NEADS je kmalu izvedel, da letalo ni ugrabljeno, in sledil Delta 1989, ko je obrnil smer nad Toledom, se usmeril proti vzhodu in pristal v Clevelandu. Toda drugo letalo se je odpravilo proti Washingtonu, letalu, o katerem NORAD ni slišal ničesar: United 93. United Airlines Flight 93 FAA Awareness. Ob 9:27 je United 93, potem ko je bil v zraku 45 minut, potrdil prenos krmilnika Cleveland Center. To je bil zadnji običajni stik FAA z letom. Manj kot minuto kasneje so kontrolor iz Clevelanda in piloti letal v bližini zaslišali &quot;radijski prenos nerazumljivih zvokov morebitnega kričanja ali boja neznanega izvora.&quot; Kontrolor se je odzval, nekaj sekund kasneje: »Je kdo poklical Cleveland?« Sledil je drugi radijski prenos z zvoki kričanja.
+passage.questions.9.question:Kako se je krmilnik Clevelanda odzval na prenos, za katerega se je zdelo, da pomeni težave?
+passage.questions.9.idx:660.0
+passage.questions.9.answers.9.text:Vprašal je, ali je kdo poklical Cleveland
+passage.questions.9.answers.9.label:1.0
+passage.questions.9.answers.9.idx:3472.0
+passage.questions.9.answers.8.text:Kričanje
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:3471.0
+passage.questions.9.answers.7.text:767 curek
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:3470.0
+passage.questions.9.answers.6.text:&quot;imamo nekaj letal&quot;
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:3469.0
+passage.questions.9.answers.5.text:V nekaj sekundah
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:3468.0
+passage.questions.9.answers.4.text:A 747
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:3467.0
+passage.questions.9.answers.3.text:Ta se ni odzval, dokler lovci niso bili nameščeni
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:3466.0
+passage.questions.9.answers.2.text:Z zvoki kričanja
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:3465.0
+passage.questions.9.answers.12.text:&quot;radijski prenos nerazumljivih zvokov morebitnega kričanja ali boja neznanega izvora.&quot;
+passage.questions.9.answers.12.label:0,0
+passage.questions.9.answers.12.idx:3475.0
+passage.questions.9.answers.11.text:Združeni 93
+passage.questions.9.answers.11.label:0,0
+passage.questions.9.answers.11.idx:3474.0
+passage.questions.9.answers.10.text:Lovsko letalo
+passage.questions.9.answers.10.label:0,0
+passage.questions.9.answers.10.idx:3473.0
+passage.questions.9.answers.1.text:Delta 1989
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3464.0
+passage.questions.9.answers.0.text:Krikov ni upošteval
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:3463.0
+passage.questions.8.question:Za kateri let je NEADS mislil, da je bil ugrabljen takoj po zadetku Pentagona?
+passage.questions.8.idx:659.0
+passage.questions.8.answers.9.text:UA 93
+passage.questions.8.answers.9.label:0,0
+passage.questions.8.answers.9.idx:3462.0
+passage.questions.8.answers.8.text:Transkontinentalni letali 767, ki so zapustili letališče Logan
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:3461.0
+passage.questions.8.answers.7.text:Let letalske družbe Delta Airlines 1989
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:3460.0
+passage.questions.8.answers.6.text:Delta 93
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:3459.0
+passage.questions.8.answers.5.text:FAA 1989
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:3458.0
+passage.questions.8.answers.4.text:Američan 17
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:3457.0
+passage.questions.8.answers.3.text:Združeni 93
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:3456.0
+passage.questions.8.answers.2.text:Delta 1989
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:3455.0
+passage.questions.8.answers.1.text:Američan 11
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:3454.0
+passage.questions.8.answers.0.text:Let 93 United Airlinesa
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3453.0
+passage.questions.7.question:Kateri let sta spremljala tako poveljniški center kot sedež FAA, zahvaljujoč klicu iz Bostonskega centra na NEADS?
+passage.questions.7.idx:658.0
+passage.questions.7.answers.9.text:Transkontinentalni letali 767, ki so zapustili letališče Logan
+passage.questions.7.answers.9.label:1.0
+passage.questions.7.answers.9.idx:3451.0
+passage.questions.7.answers.8.text:Let letalske družbe Delta Airlines 1989
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:3450.0
+passage.questions.7.answers.7.text:Delta 93
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:3449.0
+passage.questions.7.answers.6.text:FAA 1989
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:3448.0
+passage.questions.7.answers.5.text:Delta Flight 1989
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:3447.0
+passage.questions.7.answers.4.text:Američan 17
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:3446.0
+passage.questions.7.answers.3.text:Združeni 93
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:3445.0
+passage.questions.7.answers.2.text:Delta 1989
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3444.0
+passage.questions.7.answers.10.text:UA 93
+passage.questions.7.answers.10.label:0,0
+passage.questions.7.answers.10.idx:3452.0
+passage.questions.7.answers.1.text:Američan 11
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:3443.0
+passage.questions.7.answers.0.text:Let 93 United Airlinesa
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3442.0
+passage.questions.6.question:Kdaj je bila zadnja običajna komunikacija FAA z letom 93 United Airlines?
+passage.questions.6.idx:657.0
+passage.questions.6.answers.9.text:Potem ko je bil v zraku 45 minut
+passage.questions.6.answers.9.label:1.0
+passage.questions.6.answers.9.idx:3436.0
+passage.questions.6.answers.8.text:Ni znano
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:3435.0
+passage.questions.6.answers.7.text:Nekaj pred 9.30
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:3434.0
+passage.questions.6.answers.6.text:9:27 zjutraj
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:3433.0
+passage.questions.6.answers.5.text:Takoj po udarcu Pentagona
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:3432.0
+passage.questions.6.answers.4.text:9:41
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:3431.0
+passage.questions.6.answers.3.text:10:27
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3430.0
+passage.questions.6.answers.2.text:9:29
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3429.0
+passage.questions.6.answers.14.text:Prenos iz krmilnika New York Center
+passage.questions.6.answers.14.label:0,0
+passage.questions.6.answers.14.idx:3441.0
+passage.questions.6.answers.13.text:Tik pred zadetkom drugega stolpa WTC
+passage.questions.6.answers.13.label:0,0
+passage.questions.6.answers.13.idx:3440.0
+passage.questions.6.answers.12.text:Prenos iz krmilnika Cleveland Center
+passage.questions.6.answers.12.label:1.0
+passage.questions.6.answers.12.idx:3439.0
+passage.questions.6.answers.11.text:9:45
+passage.questions.6.answers.11.label:0,0
+passage.questions.6.answers.11.idx:3438.0
+passage.questions.6.answers.10.text:9:27 EST
+passage.questions.6.answers.10.label:1.0
+passage.questions.6.answers.10.idx:3437.0
+passage.questions.6.answers.1.text:Ob 10.30
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:3428.0
+passage.questions.6.answers.0.text:9:27
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:3427.0
+passage.questions.5.question:Zadnji običajni stik FAA z letom United 93 je bil, ko je potrdil prenos od koga?
+passage.questions.5.idx:656.0
+passage.questions.5.answers.6.text:Ob 9:27 je United 93, potem ko je bil v zraku 45 minut, potrdil prenos krmilnika Cleveland Center
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:3426.0
+passage.questions.5.answers.5.text:United Airlines
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:3425.0
+passage.questions.5.answers.4.text:Ob 10:12 od pilota
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3424.0
+passage.questions.5.answers.3.text:Krmilnik Cleveland Center
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3423.0
+passage.questions.5.answers.2.text:Bostonski center
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3422.0
+passage.questions.5.answers.1.text:FAA
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3421.0
+passage.questions.5.answers.0.text:Pentagon
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3420.0
+passage.questions.4.question:Iz katerega letala sta prišla dva radijska prenosa, ki sta vključevala (možno) kričanje?
+passage.questions.4.idx:655.0
+passage.questions.4.answers.7.text:Let 1989
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:3419.0
+passage.questions.4.answers.6.text:Združeni 93
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:3418.0
+passage.questions.4.answers.5.text:Združeni
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:3417.0
+passage.questions.4.answers.4.text:Let 93
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:3416.0
+passage.questions.4.answers.3.text:Let United Airlines 97
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3415.0
+passage.questions.4.answers.2.text:Delta
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3414.0
+passage.questions.4.answers.1.text:Delta 1989
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3413.0
+passage.questions.4.answers.0.text:Let 93 United Airlinesa
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3412.0
+passage.questions.3.question:Kateri je bil prvi let, o katerem so pomotoma poročali, da je ugrabljen?
+passage.questions.3.idx:654.0
+passage.questions.3.answers.6.text:UA 93
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:3411.0
+passage.questions.3.answers.5.text:Let American Airlines 11
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:3410.0
+passage.questions.3.answers.4.text:Ameriški 11 se odpravlja proti jugu
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:3409.0
+passage.questions.3.answers.3.text:Združeni 93
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3408.0
+passage.questions.3.answers.2.text:Delta 1989
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:3407.0
+passage.questions.3.answers.1.text:Američan 11
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3406.0
+passage.questions.3.answers.0.text:Let 93 United Airlinesa
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3405.0
+passage.questions.2.question:Kdaj je bil zadnji običajni stik med United 93 in FAA?
+passage.questions.2.idx:653.0
+passage.questions.2.answers.9.text:Potem ko je bil v zraku 45 minut
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:3399.0
+passage.questions.2.answers.8.text:Ni znano
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:3398.0
+passage.questions.2.answers.7.text:Nekaj pred 9.30
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:3397.0
+passage.questions.2.answers.6.text:9:27 zjutraj
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:3396.0
+passage.questions.2.answers.5.text:Takoj po udarcu Pentagona
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:3395.0
+passage.questions.2.answers.4.text:9:41
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3394.0
+passage.questions.2.answers.3.text:10:27
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3393.0
+passage.questions.2.answers.2.text:9:29
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3392.0
+passage.questions.2.answers.14.text:Prenos iz krmilnika New York Center
+passage.questions.2.answers.14.label:0,0
+passage.questions.2.answers.14.idx:3404.0
+passage.questions.2.answers.13.text:Tik pred zadetkom drugega stolpa WTC
+passage.questions.2.answers.13.label:0,0
+passage.questions.2.answers.13.idx:3403.0
+passage.questions.2.answers.12.text:Prenos iz krmilnika Cleveland Center
+passage.questions.2.answers.12.label:1.0
+passage.questions.2.answers.12.idx:3402.0
+passage.questions.2.answers.11.text:9:45
+passage.questions.2.answers.11.label:0,0
+passage.questions.2.answers.11.idx:3401.0
+passage.questions.2.answers.10.text:9:27 EST
+passage.questions.2.answers.10.label:1.0
+passage.questions.2.answers.10.idx:3400.0
+passage.questions.2.answers.1.text:Ob 10.30
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:3391.0
+passage.questions.2.answers.0.text:9:27
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:3390.0
+passage.questions.17.question:Kakšno vrsto letala je želel opazovati FAA&#39;s Cleveland Center?
+passage.questions.17.idx:668.0
+passage.questions.17.answers.9.text:Lovsko letalo
+passage.questions.17.answers.9.label:0,0
+passage.questions.17.answers.9.idx:3529.0
+passage.questions.17.answers.8.text:Kričanje
+passage.questions.17.answers.8.label:0,0
+passage.questions.17.answers.8.idx:3528.0
+passage.questions.17.answers.7.text:767 curek
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:3527.0
+passage.questions.17.answers.6.text:&quot;imamo nekaj letal&quot;
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:3526.0
+passage.questions.17.answers.5.text:A 747
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:3525.0
+passage.questions.17.answers.4.text:Ta se ni odzval, dokler lovci niso bili nameščeni
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:3524.0
+passage.questions.17.answers.3.text:Letalo 767, ki je z letališča Logan odšlo v Las Vegas
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:3523.0
+passage.questions.17.answers.2.text:Z zvoki kričanja
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:3522.0
+passage.questions.17.answers.11.text:&quot;radijski prenos nerazumljivih zvokov morebitnega kričanja ali boja neznanega izvora.&quot;
+passage.questions.17.answers.11.label:0,0
+passage.questions.17.answers.11.idx:3531.0
+passage.questions.17.answers.10.text:Združeni 93
+passage.questions.17.answers.10.label:0,0
+passage.questions.17.answers.10.idx:3530.0
+passage.questions.17.answers.1.text:Delta 1989
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:3521.0
+passage.questions.17.answers.0.text:Krikov ni upošteval
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:3520.0
+passage.questions.16.question:Katere stavbe, ki jih je zadelo letalo?
+passage.questions.16.idx:667.0
+passage.questions.16.answers.6.text:Stolpa dvojčka
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:3519.0
+passage.questions.16.answers.5.text:Pentagon
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:3518.0
+passage.questions.16.answers.4.text:Letališče Logan
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:3517.0
+passage.questions.16.answers.3.text:Cleveland Center
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:3516.0
+passage.questions.16.answers.2.text:Pentagon
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:3515.0
+passage.questions.16.answers.1.text:Pentagon in Svetovno trgovinsko središče
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:3514.0
+passage.questions.16.answers.0.text:Svetovni trgovinski center
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:3513.0
+passage.questions.15.question:Bojno letalo iz Ohaja in Michigana je prestreglo letalo, ki je vzletelo s katerega letališča?
+passage.questions.15.idx:666.0
+passage.questions.15.answers.6.text:Cleveland
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:3512.0
+passage.questions.15.answers.5.text:Letališče Logan
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:3511.0
+passage.questions.15.answers.4.text:Združeni
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:3510.0
+passage.questions.15.answers.3.text:Let 93
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:3509.0
+passage.questions.15.answers.2.text:LAX
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:3508.0
+passage.questions.15.answers.1.text:1989
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:3507.0
+passage.questions.15.answers.0.text:Delta
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:3506.0
+passage.questions.14.question:Takrat je Bostonski center poklical NEADS
+passage.questions.14.idx:665.0
+passage.questions.14.answers.4.text:AM
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:3505.0
+passage.questions.14.answers.3.text:9:27
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:3504.0
+passage.questions.14.answers.2.text:9:41
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:3503.0
+passage.questions.14.answers.1.text:10:22
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:3502.0
+passage.questions.14.answers.0.text:Bostonski center je ob 9:41 poklical NEADS
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:3501.0
+passage.questions.13.question:Kaj je bil prvi let pomotoma prijavljen kot ugrabitev?
+passage.questions.13.idx:664.0
+passage.questions.13.answers.6.text:UA 93
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:3500.0
+passage.questions.13.answers.5.text:Let American Airlines 11
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:3499.0
+passage.questions.13.answers.4.text:Ameriški 11 se odpravlja proti jugu
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:3498.0
+passage.questions.13.answers.3.text:Združeni 93
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:3497.0
+passage.questions.13.answers.2.text:Delta 1989
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:3496.0
+passage.questions.13.answers.1.text:Američan 11
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3495.0
+passage.questions.13.answers.0.text:Let 93 United Airlinesa
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:3494.0
+passage.questions.12.question:Katero entiteto je NEADS opozoril v odgovor na letalo 767, ki je z letališča Logan odšlo v Las Vegas?
+passage.questions.12.idx:663.0
+passage.questions.12.answers.7.text:FAA&#39;s Cleveland Center
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:3493.0
+passage.questions.12.answers.6.text:Še eno možno ugrabljeno letalo
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:3492.0
+passage.questions.12.answers.5.text:Cleveland Center
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:3491.0
+passage.questions.12.answers.4.text:Bostonski center
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:3490.0
+passage.questions.12.answers.3.text:Ugrabitev svetovnega trgovinskega centra
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:3489.0
+passage.questions.12.answers.2.text:FAA
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:3488.0
+passage.questions.12.answers.1.text:Pentagon
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:3487.0
+passage.questions.12.answers.0.text:Svetovni trgovinski center
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:3486.0
+passage.questions.11.question:Kateri center za zračni promet je komuniciral z United 93?
+passage.questions.11.idx:662.0
+passage.questions.11.answers.5.text:Cleveland
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:3485.0
+passage.questions.11.answers.4.text:Krmilnik Cleveland Center
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:3484.0
+passage.questions.11.answers.3.text:Letališče Logan
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:3483.0
+passage.questions.11.answers.2.text:Cleveland Center
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:3482.0
+passage.questions.11.answers.1.text:Bostonski center
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:3481.0
+passage.questions.11.answers.0.text:Delta
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3480.0
+passage.questions.10.question:Je Boston Center poklical NEADS glede Delte 1989 pred ali po ugotovitvi težav na United 93?
+passage.questions.10.idx:661.0
+passage.questions.10.answers.3.text:Po
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3479.0
+passage.questions.10.answers.2.text:Prej
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3478.0
+passage.questions.10.answers.1.text:9:27
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3477.0
+passage.questions.10.answers.0.text:9:41
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3476.0
+passage.questions.1.question:Kateri let ni nikoli izklopil transponderja?
+passage.questions.1.idx:652.0
+passage.questions.1.answers.7.text:UA 93
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:3389.0
+passage.questions.1.answers.6.text:Združeni 93
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:3388.0
+passage.questions.1.answers.5.text:Američan 1989
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:3387.0
+passage.questions.1.answers.4.text:Delta 8919
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3386.0
+passage.questions.1.answers.3.text:Lovsko letalo iz Ohaja
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3385.0
+passage.questions.1.answers.2.text:Delta 1989
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3384.0
+passage.questions.1.answers.1.text:Američan 11
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3383.0
+passage.questions.1.answers.0.text:Let 93 United Airlinesa
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:3382.0
+passage.questions.0.question:Za kateri let so poročali, da je ugrabljen, čeprav ni nikoli izklopil transponderja?
+passage.questions.0.idx:651
+passage.questions.0.answers.8.text:UA 93
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:3381.0
+passage.questions.0.answers.7.text:Združeni 93
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:3380.0
+passage.questions.0.answers.6.text:Delta Flight 1989
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:3379.0
+passage.questions.0.answers.5.text:Američan 1989
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:3378.0
+passage.questions.0.answers.4.text:Delta 8919
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3377.0
+passage.questions.0.answers.3.text:Lovsko letalo iz Ohaja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3376.0
+passage.questions.0.answers.2.text:Delta 1989
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3375.0
+passage.questions.0.answers.1.text:Američan 11
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3374
+passage.questions.0.answers.0.text:Let 93 United Airlinesa
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3373
+idx:55

@@ -1,0 +1,359 @@
+version:1.1
+passage.text:Fosili dajejo namige o večjih geoloških dogodkih. Fosili lahko dajo tudi namige o preteklih podnebjih. Fosili oceanskih živali na vrhu gore? Na najvišji gori Zemlje so našli oceanske živali. Težko je verjeti, je pa res. Ti fosili so bili najdeni na vrhu Mt. Everest. Mt. Everest je najvišja gora na Zemlji. Ti fosili so pokazali, da je bilo celotno območje nekoč na dnu morja. To lahko pomeni samo, da je Mt. Everest je bil dvignjen. Pravzaprav je bilo dvignjeno celotno pogorje Himalaje. Bil je prisiljen zaradi trka dveh celin. Fosili rastlin najdemo na Antarktiki. Zdaj je Antarktika skoraj v celoti prekrita z ledom. Na Antarktiki rastline ne rastejo. Po fosilih so nekoč. To pomeni, da je bila Antarktika nekoč veliko toplejša kot zdaj. Ti fosili nam govorijo o preteklem podnebju Antarktike.
+passage.questions.9.question:Kje so nepričakovano našli fosile?
+passage.questions.9.idx:527.0
+passage.questions.9.answers.9.text:Anglija
+passage.questions.9.answers.9.label:0,0
+passage.questions.9.answers.9.idx:2768.0
+passage.questions.9.answers.8.text:Antartica in Mount Everest
+passage.questions.9.answers.8.label:1.0
+passage.questions.9.answers.8.idx:2767.0
+passage.questions.9.answers.7.text:Amerika
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:2766.0
+passage.questions.9.answers.6.text:Himalaje
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:2765.0
+passage.questions.9.answers.5.text:Mount Everest
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:2764.0
+passage.questions.9.answers.4.text:Na vrhu najvišje gore na zemlji
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:2763.0
+passage.questions.9.answers.3.text:Azija
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:2762.0
+passage.questions.9.answers.2.text:Na vrhu Mount Everesta
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2761.0
+passage.questions.9.answers.11.text:Antartica
+passage.questions.9.answers.11.label:0,0
+passage.questions.9.answers.11.idx:2770.0
+passage.questions.9.answers.10.text:Antarktika
+passage.questions.9.answers.10.label:1.0
+passage.questions.9.answers.10.idx:2769.0
+passage.questions.9.answers.1.text:Havaji
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2760.0
+passage.questions.9.answers.0.text:ZDA
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2759.0
+passage.questions.8.question:Kako so Himalajo &quot;dvignili&quot;?
+passage.questions.8.idx:526.0
+passage.questions.8.answers.7.text:Potresi
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:2758.0
+passage.questions.8.answers.6.text:Nezemljani
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:2757.0
+passage.questions.8.answers.5.text:Magnetne sile
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:2756.0
+passage.questions.8.answers.4.text:Vulkani
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:2755.0
+passage.questions.8.answers.3.text:Sila zaradi trka dveh celin
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:2754.0
+passage.questions.8.answers.2.text:Nastalo je zaradi trka dveh celin
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:2753.0
+passage.questions.8.answers.1.text:Trk dveh celin
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:2752.0
+passage.questions.8.answers.0.text:Bilo je pod oceanom
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2751.0
+passage.questions.7.question:Kaj pomeni dejstvo, da so na vrhu gore našli fosile Everest?
+passage.questions.7.idx:525.0
+passage.questions.7.answers.7.text:Celotno območje Mt. Everest je bil včasih na dnu oceana
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:2750.0
+passage.questions.7.answers.6.text:Tam so bili razstreljeni fosili
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:2749.0
+passage.questions.7.answers.5.text:Tja gor so bili preneseni fosili
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:2748.0
+passage.questions.7.answers.4.text:Živali živijo na Mount Everestu
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:2747.0
+passage.questions.7.answers.3.text:Mount Everest je najvišja gora
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2746.0
+passage.questions.7.answers.2.text:Mt. Everest je bil dvignjen pred trkom dveh celin
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2745.0
+passage.questions.7.answers.1.text:Tam zgoraj ni fosilov
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2744.0
+passage.questions.7.answers.0.text:Mount Everest je bil pod morjem
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:2743.0
+passage.questions.6.question:Kaj dokazuje, da je bila na Antarktiki včasih toplejša temperatura?
+passage.questions.6.idx:524.0
+passage.questions.6.answers.8.text:Rastlinski fosili kažejo, da je bila Antarktika nekoč toplejša
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:2742.0
+passage.questions.6.answers.7.text:Pod permafrostom Antarktike so rastline
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:2741.0
+passage.questions.6.answers.6.text:Fosili nam govorijo o preteklem podnebju Antartice
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:2740.0
+passage.questions.6.answers.5.text:Tam živijo pingvini
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:2739.0
+passage.questions.6.answers.4.text:Ljudje, ki so tam živeli že davno, so puščali zapiske, da je bilo toplo
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:2738.0
+passage.questions.6.answers.3.text:V Antartici so fosili rastlin
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:2737.0
+passage.questions.6.answers.2.text:Najdeni so fosili rastlin in živali, ko rastlin zdaj ni
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:2736.0
+passage.questions.6.answers.1.text:Prišlo je do trčenja dveh celin
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2735.0
+passage.questions.6.answers.0.text:Na Antarktiki rastejo rastline, ki so se prilagodile hladnejšemu podnebju
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2734.0
+passage.questions.5.question:Kateri znaki so, da je bila najvišja gora na zemlji nekoč pokrita z morjem?
+passage.questions.5.idx:523.0
+passage.questions.5.answers.7.text:Gora Everest je bila nekoč manj visoka
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:2733.0
+passage.questions.5.answers.6.text:Na Mount Everestu so našli fosile oceanov
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:2732.0
+passage.questions.5.answers.5.text:V Antartici so našli fosile rastlin
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:2731.0
+passage.questions.5.answers.4.text:Vrh Mount Everesta je moker
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:2730.0
+passage.questions.5.answers.3.text:Na vrhu gora najdemo fosile oceanskih živali
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2729.0
+passage.questions.5.answers.2.text:Nazobčane grebene so ustvarili oceanski valovi
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2728.0
+passage.questions.5.answers.1.text:Zemljo je nekoč popolnoma prekrivalo morje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2727.0
+passage.questions.5.answers.0.text:Na vrhu gore so našli fosile oceanskih živali
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2726.0
+passage.questions.4.question:Kakšne fosile najdemo ?? kjer rastline ne rastejo?
+passage.questions.4.idx:522.0
+passage.questions.4.answers.7.text:Antartica
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:2725.0
+passage.questions.4.answers.6.text:Mount Everest
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:2724.0
+passage.questions.4.answers.5.text:Rastlinski fosili
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:2723.0
+passage.questions.4.answers.4.text:Himalaja
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:2722.0
+passage.questions.4.answers.3.text:Raki
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2721.0
+passage.questions.4.answers.2.text:Sesalci
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2720.0
+passage.questions.4.answers.1.text:Zelene rastline
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2719.0
+passage.questions.4.answers.0.text:Žuželke
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2718.0
+passage.questions.3.question:Kakšne fosile so našli v Himalaji?
+passage.questions.3.idx:521.0
+passage.questions.3.answers.6.text:Kopenski sesalci
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:2717.0
+passage.questions.3.answers.5.text:Fosili oceanskih živali
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:2716.0
+passage.questions.3.answers.4.text:Žival
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2715.0
+passage.questions.3.answers.3.text:Oceanske živali
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2714.0
+passage.questions.3.answers.2.text:Ptice
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2713.0
+passage.questions.3.answers.1.text:Rastline
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2712.0
+passage.questions.3.answers.0.text:Žuželke
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2711.0
+passage.questions.2.question:Kaj pomeni dejstvo, da so na vrhu Antarktike našli fosile?
+passage.questions.2.idx:520.0
+passage.questions.2.answers.8.text:Rastline so na Antarktiki morale rasti v preteklosti, zdaj pa ne
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:2710.0
+passage.questions.2.answers.7.text:Na Antarktiki je bilo nekoč toplejše podnebje
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:2709.0
+passage.questions.2.answers.6.text:Živali živijo v Antartici
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:2708.0
+passage.questions.2.answers.5.text:Antarktika je bila vedno hladna
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2707.0
+passage.questions.2.answers.4.text:Včasih je bila Antartica topla
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:2706.0
+passage.questions.2.answers.3.text:V Antartici stvari ne morejo živeti
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2705.0
+passage.questions.2.answers.2.text:Tam je ocean nosil fosile
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2704.0
+passage.questions.2.answers.1.text:Antarktika je bila nekoč ocean
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:2703.0
+passage.questions.2.answers.0.text:Antartica je hladna
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:2702.0
+passage.questions.12.question:Kako vemo, da je bila Antarktika nekoč topla?
+passage.questions.12.idx:530.0
+passage.questions.12.answers.7.text:Antartica ni bila nikoli topla
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:2796.0
+passage.questions.12.answers.6.text:Pod permafrostom Antarktike so rastline
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:2795.0
+passage.questions.12.answers.5.text:Najdeni so fosili rastlin
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:2794.0
+passage.questions.12.answers.4.text:Rastline ne morejo živeti v Antartici
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:2793.0
+passage.questions.12.answers.3.text:Rastline tam ne morejo več rasti, so pa tam našli fosile
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:2792.0
+passage.questions.12.answers.2.text:Na Antarktiki rastejo rastline, ki so se prilagodile hladnejšemu podnebju
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2791.0
+passage.questions.12.answers.1.text:Antartica je hladna
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:2790.0
+passage.questions.12.answers.0.text:Tam so našli rastlinske fosile
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:2789.0
+passage.questions.11.question:Katero pogorje ima najvišjo goro na Zemlji?
+passage.questions.11.idx:529.0
+passage.questions.11.answers.9.text:Antartica
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:2788.0
+passage.questions.11.answers.8.text:Švicarske Alpe
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:2787.0
+passage.questions.11.answers.7.text:Mount Everest
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:2786.0
+passage.questions.11.answers.6.text:Pogorje Himalaja
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:2785.0
+passage.questions.11.answers.5.text:Himalajske gore
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:2784.0
+passage.questions.11.answers.4.text:Himalajci
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:2783.0
+passage.questions.11.answers.3.text:Uralske gore
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:2782.0
+passage.questions.11.answers.2.text:Himalaje (Mount Everest je najvišja gora na Zemlji in se nahaja v Himalaji.)
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:2781.0
+passage.questions.11.answers.1.text:Andi
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2780.0
+passage.questions.11.answers.0.text:Skalnati
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2779.0
+passage.questions.10.question:Kako vemo, da je Mt. Everest je bil včasih del morja?
+passage.questions.10.idx:528.0
+passage.questions.10.answers.7.text:Gora Everest je bila nekoč topla
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:2778.0
+passage.questions.10.answers.6.text:Najdeni so fosili oceanskih živali
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:2777.0
+passage.questions.10.answers.5.text:Mount Everest je še vedno pod morjem
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:2776.0
+passage.questions.10.answers.4.text:Na vrhu so našli fosile oceanskih živali
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:2775.0
+passage.questions.10.answers.3.text:Mount Everest je bil višji
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2774.0
+passage.questions.10.answers.2.text:Nazobčane grebene so ustvarili oceanski valovi
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2773.0
+passage.questions.10.answers.1.text:Zemljo je nekoč popolnoma prekrivalo morje
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2772.0
+passage.questions.10.answers.0.text:Oceanski fosili so bili najdeni na vrhu Mt. Everest
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:2771.0
+passage.questions.1.question:Kaj nam fosili lahko povedo o preteklosti?
+passage.questions.1.idx:519.0
+passage.questions.1.answers.8.text:Namigi o večjih geoloških dogodkih in preteklih podnebjih
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:2701.0
+passage.questions.1.answers.7.text:Ko je bila Zemlja ustvarjena
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:2700.0
+passage.questions.1.answers.6.text:Množična izumrtja
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:2699.0
+passage.questions.1.answers.5.text:Gora Everest je najvišja gora
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2698.0
+passage.questions.1.answers.4.text:Spremembe v populaciji
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2697.0
+passage.questions.1.answers.3.text:Celine so trčile
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2696.0
+passage.questions.1.answers.2.text:Antartica je hladna
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2695.0
+passage.questions.1.answers.1.text:Navajajo namig o večjih geoloških dogodkih
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:2694.0
+passage.questions.1.answers.0.text:Lahko nam pove o preteklih geoloških dogodkih in preteklih podnebjih
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:2693.0
+passage.questions.0.question:Ali so se podnebne spremembe na Antarktiki skozi zgodovino spreminjale?
+passage.questions.0.idx:518
+passage.questions.0.answers.5.text:Da, nekoč je bilo toplo mesto, kjer so rasle rastline, zdaj pa je pokrito z ledom
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2692.0
+passage.questions.0.answers.4.text:Da, postalo je topleje
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2691.0
+passage.questions.0.answers.3.text:Postalo je topleje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2690.0
+passage.questions.0.answers.2.text:Da
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2689.0
+passage.questions.0.answers.1.text:Ne
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2688
+passage.questions.0.answers.0.text:Ostal enak
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2687
+idx:45

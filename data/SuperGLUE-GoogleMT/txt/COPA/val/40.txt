@@ -1,0 +1,6 @@
+choice1:Hamburger so prerezali na polovico.
+choice2:S hamburgerjem so naročili pomfrit.
+idx:40
+label:0
+premise:Prijatelji so se odločili, da si bodo hamburger delili.
+question:effect

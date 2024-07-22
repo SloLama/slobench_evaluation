@@ -1,0 +1,76 @@
+version:1.1
+passage.text:Susan je želela prirediti rojstnodnevno zabavo. Poklicala je vse svoje prijatelje. Ima pet prijateljev. Njena mama je rekla, da jih lahko Susan povabi na zabavo. Njena prva prijateljica ni mogla na zabavo, ker je bila bolna. Njena druga prijateljica je šla iz mesta. Njena tretja prijateljica ni bila tako prepričana, ali ji bodo starši dovolili. Četrti prijatelj je rekel mogoče. Peti prijatelj bi lahko šel na zabavo zagotovo. Susan je bila malo žalostna. Na dan zabave se je pojavilo vseh pet prijateljev. Vsak prijatelj je imel darilo za Susan. Susan je bila vesela in je vsakemu prijatelju naslednji teden poslala zahvalnico.
+passage.questions.4.question:Koliko daril je prejela Susan?
+passage.questions.4.idx:426.0
+passage.questions.4.answers.3.text:Več kot 5
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2154.0
+passage.questions.4.answers.2.text:6.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2153.0
+passage.questions.4.answers.1.text:Pet
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2152.0
+passage.questions.4.answers.0.text:5.
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2151.0
+passage.questions.3.question:Koliko ljudi je poklicala Susan?
+passage.questions.3.idx:425.0
+passage.questions.3.answers.3.text:Vse njene ognjišča
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2150.0
+passage.questions.3.answers.2.text:6.
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2149.0
+passage.questions.3.answers.1.text:Pet
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:2148.0
+passage.questions.3.answers.0.text:5.
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2147.0
+passage.questions.2.question:Koliko zahvalnic je poslala Susan?
+passage.questions.2.idx:424
+passage.questions.2.answers.3.text:Več kot 5
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2146.0
+passage.questions.2.answers.2.text:6.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2145.0
+passage.questions.2.answers.1.text:Pet
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:2144
+passage.questions.2.answers.0.text:5.
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2143
+passage.questions.1.question:Je Susan poklicala prijatelje pred ali po vprašanju mame?
+passage.questions.1.idx:423
+passage.questions.1.answers.3.text:Po vprašanju njene matere
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2142.0
+passage.questions.1.answers.2.text:Prej
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2141.0
+passage.questions.1.answers.1.text:Preden vpraša svojo mamo
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:2140
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:2139
+passage.questions.0.question:Ali je Susanin bolni prijatelj ozdravel?
+passage.questions.0.idx:422
+passage.questions.0.answers.4.text:Da, bila je na Susanini zabavi
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2138.0
+passage.questions.0.answers.3.text:Ne, ni si opomogla
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2137.0
+passage.questions.0.answers.2.text:Da
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2136.0
+passage.questions.0.answers.1.text:Ne
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2135
+passage.questions.0.answers.0.text:Da, ozdravela je
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2134
+idx:36

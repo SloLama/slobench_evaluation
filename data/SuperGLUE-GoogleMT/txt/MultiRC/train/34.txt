@@ -1,0 +1,263 @@
+version:1.1
+passage.text:L. Mark Bailey, ki je odraščal na kmetiji v bližini St. Paul, ni sanjal, da bo postal sodnik. Tudi ko je leta 1975 diplomiral na srednji šoli North Decatur, se je nekoč sedenje na klopi zdelo bolj kot lagodna dejavnost kot kariera. Nekje po črti se je vse to spremenilo. Bailey je leta 1978 diplomiral na Univerzi v Indianapolisu, leta 1982 pa doktoriral na Univerzi Indiana v Indianapolisu. Po nekaj letih zasebne prakse v letih 1982–90 je eno leto postal sodnik okrožnega sodišča Decatur. Zakonodajalec v Indiani je preimenoval to sodniško funkcijo in Baileyju je bil od leta 1992 do leta 1998 dodeljen sodnik višjega sodišča Decatur, ki je dvakrat zmagal na ponovni izvolitvi. Od tam se je njegova kariera nadaljevala po hitri poti in guverner Frank O&#39;Bannon je Baileyja imenoval za prvega okrožnega sodišča za pritožbe v Indiani, kjer danes dela. Kljub hitremu vzponu po zakoniti lestvici je Bailey vedno našel čas, da pomaga v razlogih, ki jih močno čuti. Zaradi svoje predanosti zakonu in ljudem, ki jih ta prizadene, je bil nedavno prepoznan. Komisija Indiana Pro Bono je oktobra v francoskem zdravilišču Lick Springs gostila vsakoletno praznovanje, večerjo Randall T. Shepard. Na srečanju je bilo prisotnih več kot 100 sodnikov, odvetnikov in veljakov. Eden od vrhuncev dogodka je bila podelitev prve nagrade Randalla T. Sheparda za odličnost pro bono dela. Nagrado je Bailey prejel za triletno prostovoljno delo pri komisiji Indiana Pro Bono. Nagrada je bila poimenovana po vrhovnem sodniku vrhovnega sodišča v Indiani v čast njegovi viziji o pravičnosti po vsej državi. Kvalifikacije za nagrado so temeljile na dokazani predanosti inovativnemu razvoju in zagotavljanju pravnih storitev revnim v enem od 14 pro bono okrožij Indiane. &quot;Ta nagrada me je res presenetila. Resnično mi je v čast. Že to, da sem bil prvi predsednik komisije, ki je začela izvajati postopek pro bono, je bilo nekoliko ponižujoče.
+passage.questions.9.question:Na katerem dogodku je bilo prisotnih več kot 100 sodnikov, odvetnikov in dostojanstvenikov?
+passage.questions.9.idx:406.0
+passage.questions.9.answers.2.text:Francoska lizalna večerja
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:2202.0
+passage.questions.9.answers.1.text:Indijska šefica večerja
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2201.0
+passage.questions.9.answers.0.text:Večerja Randall T. Shepard
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:2200.0
+passage.questions.8.question:Kdaj se je življenje L. Marka Baileyja spremenilo in mu omogočilo, da postane sodnik?
+passage.questions.8.idx:405.0
+passage.questions.8.answers.4.text:Po letu 1975
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:2199.0
+passage.questions.8.answers.3.text:Ko je končal srednjo šolo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:2198.0
+passage.questions.8.answers.2.text:Po nekaj letih zasebne prakse v letih 1982–90 je eno leto postal sodnik okrožnega sodišča Decatur
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:2197.0
+passage.questions.8.answers.1.text:Ko je končal fakulteto
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:2196.0
+passage.questions.8.answers.0.text:1975
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2195.0
+passage.questions.7.question:Zakaj je dobil nagrado Randel T Shepard
+passage.questions.7.idx:404.0
+passage.questions.7.answers.4.text:Njegova tri leta prostovoljnega dela v komisiji Indiana Pro Bono
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:2194.0
+passage.questions.7.answers.3.text:Imenovanje na vrhovno sodišče države
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2193.0
+passage.questions.7.answers.2.text:Za njegovo pro bono delo
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2192.0
+passage.questions.7.answers.1.text:Za odličnost v delu Pro Bono
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:2191.0
+passage.questions.7.answers.0.text:Za
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2190.0
+passage.questions.6.question:Kaj je počel L. Mark Bailey po diplomi na univerzi Indiana-Indianapolis?
+passage.questions.6.idx:403.0
+passage.questions.6.answers.4.text:Nekaj let zasebne prakse od 1982 do 90,
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:2189.0
+passage.questions.6.answers.3.text:Delal je kot referent
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2188.0
+passage.questions.6.answers.2.text:V zasebni praksi delal od 1982-90
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:2187.0
+passage.questions.6.answers.1.text:Imenovanje na vrhovno sodišče države
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2186.0
+passage.questions.6.answers.0.text:Za eno leto je postal sodnik okrožja Decatur
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2185.0
+passage.questions.5.question:Kam je Bailey hodila v šolo?
+passage.questions.5.idx:402.0
+passage.questions.5.answers.4.text:Srednja šola North Decatur
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2184.0
+passage.questions.5.answers.3.text:Univerza Indiana-Indianapolis
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2183.0
+passage.questions.5.answers.2.text:Indiana
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2182.0
+passage.questions.5.answers.1.text:Univerza v Illinoisu
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2181.0
+passage.questions.5.answers.0.text:Srednja šola Decatur in Univerza v Indianapolisu
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2180.0
+passage.questions.4.question:Kateremu sodišču je pred imenovanjem na državno vrhovno sodišče predsedovalo?
+passage.questions.4.idx:401.0
+passage.questions.4.answers.4.text:Sodišče v Atlanti
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:2179.0
+passage.questions.4.answers.3.text:Okrožje Decatur
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:2178.0
+passage.questions.4.answers.2.text:Vrhovno sodišče Decatur
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2177.0
+passage.questions.4.answers.1.text:Vrhovno sodišče v Indiani
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2176.0
+passage.questions.4.answers.0.text:Okrožno sodišče Decatur
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2175.0
+passage.questions.3.question:Kdo je sčasoma eno leto postal sodnik okrožnega sodišča Decatur?
+passage.questions.3.idx:400.0
+passage.questions.3.answers.2.text:Randy Mark
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2174.0
+passage.questions.3.answers.1.text:Mark Bailey
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:2173.0
+passage.questions.3.answers.0.text:Randall T. Shepard
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2172.0
+passage.questions.2.question:Katero leto je L. Mark Bailey končal srednjo šolo?
+passage.questions.2.idx:399.0
+passage.questions.2.answers.2.text:1975
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2171.0
+passage.questions.2.answers.1.text:1976
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:2170.0
+passage.questions.2.answers.0.text:1992-1998
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:2169.0
+passage.questions.18.question:Katero srednjo šolo je končal Mark Bailey?
+passage.questions.18.idx:415.0
+passage.questions.18.answers.3.text:1975
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:2234.0
+passage.questions.18.answers.2.text:Srednja šola North Decatur
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:2233.0
+passage.questions.18.answers.1.text:Srednja šola St.
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:2232.0
+passage.questions.18.answers.0.text:1980
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:2231.0
+passage.questions.17.question:Kakšno nagrado je Bailey prejel za svoja tri leta prostovoljnega dela v komisiji Indiana Pro Bono?
+passage.questions.17.idx:414.0
+passage.questions.17.answers.3.text:Nagrada Indiana Pro Bono
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:2230.0
+passage.questions.17.answers.2.text:Mark Bailey
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:2229.0
+passage.questions.17.answers.1.text:Nagrada Randall T. Shepard
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:2228.0
+passage.questions.17.answers.0.text:Nagrada Randall T. Bailey
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:2227.0
+passage.questions.16.question:Katera komisija je podelila nagrado?
+passage.questions.16.idx:413.0
+passage.questions.16.answers.2.text:Randall T. Shepardova komisija
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:2226.0
+passage.questions.16.answers.1.text:Srednja šola North Decatur
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:2225.0
+passage.questions.16.answers.0.text:Komisija Indiana Pro Bono
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:2224.0
+passage.questions.15.question:Kakšno nagrado je Bailey prejela za pomoč ljudem?
+passage.questions.15.idx:412.0
+passage.questions.15.answers.3.text:Indijska glavna nagrada
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:2223.0
+passage.questions.15.answers.2.text:Nagrada Randall T. Shepard
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:2222.0
+passage.questions.15.answers.1.text:Nagrada Randall T. Shepard za odličnost pro bono dela
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:2221.0
+passage.questions.15.answers.0.text:Nagrada Toma Sheparda
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:2220.0
+passage.questions.14.question:Je Bailey želel biti sodnik, ko je končal srednjo šolo?
+passage.questions.14.idx:411.0
+passage.questions.14.answers.2.text:Ni si sanjal, da bi postal sodnik
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:2219.0
+passage.questions.14.answers.1.text:Ja živjo
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:2218.0
+passage.questions.14.answers.0.text:Ne
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:2217.0
+passage.questions.13.question:Kdo je leta 1975 končal srednjo šolo North Decatur?
+passage.questions.13.idx:410.0
+passage.questions.13.answers.2.text:Mark Bailey
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:2216.0
+passage.questions.13.answers.1.text:Randall T. Shepard
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:2215.0
+passage.questions.13.answers.0.text:Ranel Bailey
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:2214.0
+passage.questions.12.question:Kdo je mislil, da je nekoč sedenje na klopi videti bolj kot lagodna dejavnost kot kariera?
+passage.questions.12.idx:409.0
+passage.questions.12.answers.2.text:Randy Bailey
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2213.0
+passage.questions.12.answers.1.text:Mark Bailey
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2212.0
+passage.questions.12.answers.0.text:Randall T. Shepard
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2211.0
+passage.questions.11.question:Katero leto je diplomiral L. Mark Bailey?
+passage.questions.11.idx:408.0
+passage.questions.11.answers.3.text:1978
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:2210.0
+passage.questions.11.answers.2.text:Leta 1975
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:2209.0
+passage.questions.11.answers.1.text:1975
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2208.0
+passage.questions.11.answers.0.text:1982
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2207.0
+passage.questions.10.question:Katera nagrada je bila poimenovana po indijskem vrhovnem sodniku?
+passage.questions.10.idx:407.0
+passage.questions.10.answers.3.text:Randall T. Shepard Ozaveščen
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:2206.0
+passage.questions.10.answers.2.text:Nagrada Randall T. Shepard
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:2205.0
+passage.questions.10.answers.1.text:Francoska Shepardova nagrada
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2204.0
+passage.questions.10.answers.0.text:Indijska glavna nagrada
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2203.0
+passage.questions.1.question:Zakaj je nagrada Bailey dobila ime po Randallu T. Shepardu?
+passage.questions.1.idx:398.0
+passage.questions.1.answers.4.text:Nagrada Randall T. Shepard
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:2168.0
+passage.questions.1.answers.3.text:Randall T. Shepard je daroval veliko denarja
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2167.0
+passage.questions.1.answers.2.text:Ker je Randall T. Shepard veliko delal za Pro Bono
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2166.0
+passage.questions.1.answers.1.text:Indijska glavna nagrada
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:2165.0
+passage.questions.1.answers.0.text:Nagrada je bila poimenovana po vrhovnem sodniku vrhovnega sodišča v Indiani v čast njegovi viziji o pravičnosti po vsej državi
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:2164.0
+passage.questions.0.question:Katero srednjo šolo je končal L. Mark Bailey?
+passage.questions.0.idx:397
+passage.questions.0.answers.2.text:Srednja šola South Decatur
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2163.0
+passage.questions.0.answers.1.text:Srednja šola North Decatur
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2162
+passage.questions.0.answers.0.text:Univerza v Indianapolisu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2161
+idx:34

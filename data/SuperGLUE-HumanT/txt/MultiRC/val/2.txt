@@ -1,0 +1,209 @@
+version:1.1
+passage.text:Leta 1863 je Aleksander II. ponovno sklical finsko skupščino in uvedel številne reforme, ki so povečale finsko avtonomijo v odnosu do Rusije, med drugim tudi lastno valuto, marko. Liberalizacija gospodarstva je pritegnila tuje investicije in pripomogla k industrijskemu razvoju. Finska je prav tako zgradila svoje prve železnice, ki so jih ustanovili neodvisno, pod finsko administracijo.  Nenazadnje pa je tudi preobrazba finskega jezika iz ljudskega jezika v nacionalni jezik, ki je bil enakovreden švedskemu, odprla možnosti večjemu deležu prebivalstva. Aleksander II. na Finskem še vedno velja za »dobrega carja«. Te reforme lahko razumemo kot posledico iskrenega prepričanja, da je, prej kot na območju celotne Rusije, reforme lažje preizkusiti v redko poseljeni in homogeni deželi. Lahko jih razumemo tudi kot nagrado za zvestobo njenega bolj ali manj zahodnjaško usmerjenega ljudstva v času krimske vojne in med poljsko vstajo. Spodbujanje finskega nacionalizma in jezika je bil gotovo tudi poskus rahljanja vezi s Švedsko.  
+passage.questions.9.question:Kaj so nekatere od reform, ki so povečale finsko avtonomijo v odnosu do Rusije?
+passage.questions.9.idx:26.0
+passage.questions.9.answers.4.text: Finska je prav tako zgradila svoje prve železnice, ki so jih ustanovili neodvisno, pod finsko administracijo.
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:122.0
+passage.questions.9.answers.3.text:Uvedba lastne valute, marke, liberalizacija gospodarstva, prve železnice, ustanovljene neodvisno pod finsko administracijo, finščina iz ljudskega jezika postane nacionalni jezik
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:121.0
+passage.questions.9.answers.2.text:Preobrazba finskega jezika iz ljudskega jezika v nacionalni jezik, ki je bil enakovreden švedskemu
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:120.0
+passage.questions.9.answers.1.text:Liberalizacija gospodarstva je pritegnila tuje investicije in pripomogla k industrijskemu razvoju
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:119.0
+passage.questions.9.answers.0.text:Aleksander II. na Finskem še vedno velja za »dobrega carja«
+passage.questions.9.answers.0.label:0.0
+passage.questions.9.answers.0.idx:118.0
+passage.questions.8.question:Kako lahko razumemo reforme?
+passage.questions.8.idx:25.0
+passage.questions.8.answers.2.text:Kot posledico iskrenega prepričanja, da je, prej kot na območju celotne Rusije, reforme lažje preizkusiti v redko poseljeni in homogeni deželi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:117.0
+passage.questions.8.answers.1.text:Aleksander II. na Finskem še vedno velja za »dobrega carja«
+passage.questions.8.answers.1.label:0.0
+passage.questions.8.answers.1.idx:116.0
+passage.questions.8.answers.0.text:Te reforme lahko razumemo kot posledico iskrenega prepričanja, da je, prej kot na območju celotne Rusije, reforme lažje preizkusiti v redko poseljeni in homogeni deželi
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:115.0
+passage.questions.7.question:Na katere tri načine lahko razumemo finske reforme?
+passage.questions.7.idx:24.0
+passage.questions.7.answers.4.text:Nagrada za zvestobo in poskus rahljanja vezi s Švedsko
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:114.0
+passage.questions.7.answers.3.text: Finska je prav tako zgradila svoje prve železnice, ki so jih ustanovili neodvisno, pod finsko administracijo
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:113.0
+passage.questions.7.answers.2.text:Preobrazba finskega jezika iz ljudskega jezika v nacionalni jezik, ki je bil enakovreden švedskemu
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:112.0
+passage.questions.7.answers.1.text:Liberalizacija gospodarstva je pritegnila tuje investicije in pripomogla k industrijskemu razvoju
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:111.0
+passage.questions.7.answers.0.text:Uvedba lastne valute, marke
+passage.questions.7.answers.0.label:0.0
+passage.questions.7.answers.0.idx:110.0
+passage.questions.6.question:Imenuj dve finski reformi iz leta 1863
+passage.questions.6.idx:23.0
+passage.questions.6.answers.3.text:Liberalizacija gospodarstva je pritegnila tuje investicije in pripomogla k industrijskemu razvoju
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:109.0
+passage.questions.6.answers.2.text:Uvedba lastne valute in liberalizacija gospodarstva
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:108.0
+passage.questions.6.answers.1.text:Aleksander II. na Finskem še vedno velja za »dobrega carja«
+passage.questions.6.answers.1.label:0.0
+passage.questions.6.answers.1.idx:107.0
+passage.questions.6.answers.0.text: Finska je prav tako zgradila svoje prve železnice, ki so jih ustanovili neodvisno, pod finsko administracijo
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:106.0
+passage.questions.5.question:Kako je spodbujanje finskega jezika pomagalo ljudem?
+passage.questions.5.idx:22.0
+passage.questions.5.answers.2.text:Zrahljalo je vezi s Švedsko on povečalo avtonomijo v odnosu do Rusije
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:105.0
+passage.questions.5.answers.1.text:Odprlo je možnosti večjemu deležu družbe
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:104.0
+passage.questions.5.answers.0.text: Finska je prav tako zgradila svoje prve železnice, ki so jih ustanovili neodvisno, pod finsko administracijo
+passage.questions.5.answers.0.label:0.0
+passage.questions.5.answers.0.idx:103.0
+passage.questions.4.question:Kako je Aleksander II. pomagal Finski?
+passage.questions.4.idx:21.0
+passage.questions.4.answers.2.text:Aleksander II. je ponovno sklical finsko skupščino in uvedel številne reforme, ki so povečale finsko avtonomijo v odnosu do Rusije, med drugim tudi lastno valuto, marko
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:102.0
+passage.questions.4.answers.1.text:Spodbujanje finskega nacionalizma in jezika je bil gotovo tudi poskus rahljanja vezi s Švedsko
+passage.questions.4.answers.1.label:0.0
+passage.questions.4.answers.1.idx:101.0
+passage.questions.4.answers.0.text:S ponovnim sklicem skupščine in uvedbo lastne valute
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:100.0
+passage.questions.3.question:Na kakšne načine je Aleksander II. spodbudil rast Finske?
+passage.questions.3.idx:20.0
+passage.questions.3.answers.2.text:Z uvedbo številnih reform, ki so povečale finsko avtonomijo v odnosu do Rusije
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:99.0
+passage.questions.3.answers.1.text:Povečevanjem ruske avtonomije v odnosu do Finske
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:98.0
+passage.questions.3.answers.0.text:Uvedbo lastne valute, pritegnil je tuje investicije in pripomogel k industrijskemu razvoju
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:97.0
+passage.questions.2.question:Imenuj dva primera industrijskega razvoja na Finskem
+passage.questions.2.idx:19
+passage.questions.2.answers.3.text:Liberalizacija gospodarstva je pritegnila tuje investicije in pripomogla k industrijskemu razvoju
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:96.0
+passage.questions.2.answers.2.text:Izgradnja železnice in liberalizacija gospodarstva
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:95.0
+passage.questions.2.answers.1.text:Spodbujanje finskega nacionalizma in jezika je bil gotovo tudi poskus rahljanja vezi s Švedsko
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:94
+passage.questions.2.answers.0.text: Finska je prav tako zgradila svoje prve železnice, ki so jih ustanovili neodvisno, pod finsko administracijo
+passage.questions.2.answers.0.label:1
+passage.questions.2.answers.0.idx:93
+passage.questions.15.question:Kaj so bile posledice tega, da je Finska uveljavila svoj jezik?
+passage.questions.15.idx:32.0
+passage.questions.15.answers.4.text:Živel v Nemčiji
+passage.questions.15.answers.4.label:0.0
+passage.questions.15.answers.4.idx:144.0
+passage.questions.15.answers.3.text:Odprlo je možnosti večjemu deležu družbe
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:143.0
+passage.questions.15.answers.2.text:Odprlo je možnosti večjemu deležu družbe in zrahljalo vezi s Švedsko
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:142.0
+passage.questions.15.answers.1.text:Uvedba lastne valute, marke
+passage.questions.15.answers.1.label:0.0
+passage.questions.15.answers.1.idx:141.0
+passage.questions.15.answers.0.text:Aleksander II. na Finskem velja za »dobrega carja«
+passage.questions.15.answers.0.label:0.0
+passage.questions.15.answers.0.idx:140.0
+passage.questions.14.question:S kom so želeli zrahljati vezi, ko so želeli finščino za nacionalni jezik?
+passage.questions.14.idx:31.0
+passage.questions.14.answers.1.text:Švedsko
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:139.0
+passage.questions.14.answers.0.text:Rusijo
+passage.questions.14.answers.0.label:0.0
+passage.questions.14.answers.0.idx:138.0
+passage.questions.13.question:Ali je Aleksander II. pomagal pri uvedbi finske valute in razvoju železnice?
+passage.questions.13.idx:30.0
+passage.questions.13.answers.3.text:Da, uvedel je številne reforme, ki so povečale finsko avtonomijo v odnosu do Rusije, med drugim tudi lastno valuto, marko
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:137.0
+passage.questions.13.answers.2.text:Da, Finska je prav tako zgradila svoje prve železnice, ki so jih ustanovili neodvisno, pod finsko administracijo
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:136.0
+passage.questions.13.answers.1.text:Da
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:135.0
+passage.questions.13.answers.0.text:Ne
+passage.questions.13.answers.0.label:0.0
+passage.questions.13.answers.0.idx:134.0
+passage.questions.12.question:Kako lahko razumemo reformo Aleksandra II.?
+passage.questions.12.idx:29.0
+passage.questions.12.answers.4.text:Preobrazba finskega jezika iz ljudskega jezika v nacionalni jezik, ki je bil enakovreden švedskemu, je odprla možnosti večjemu deležu prebivalstva
+passage.questions.12.answers.4.label:0.0
+passage.questions.12.answers.4.idx:133.0
+passage.questions.12.answers.3.text:Prijatelji
+passage.questions.12.answers.3.label:0.0
+passage.questions.12.answers.3.idx:132.0
+passage.questions.12.answers.2.text:Kot posledico iskrenega prepričanja, da je, prej kot na območju celotne Rusije, reforme lažje preizkusiti v redko poseljeni in homogeni deželi Pa tudi kot nagrado za zvestobo in poskus rahljanja vezi s Švedsko
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:131.0
+passage.questions.12.answers.1.text:Lahko jih razumemo tudi kot nagrado za zvestobo njenega bolj ali manj zahodnjaško usmerjenega ljudstva v času krimske vojne in med poljsko vstajo
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:130.0
+passage.questions.12.answers.0.text:Te reforme lahko razumemo kot posledico iskrenega prepričanja, da je, prej kot na območju celotne Rusije, reforme lažje preizkusiti v redko poseljeni in homogeni deželi
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:129.0
+passage.questions.11.question:Kako od leta 1863 naprej na Finskem gledajo na Aleksandra II.?
+passage.questions.11.idx:28.0
+passage.questions.11.answers.2.text:Kot na dobrega carja
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:128.0
+passage.questions.11.answers.1.text:Nacionalni jezik
+passage.questions.11.answers.1.label:0.0
+passage.questions.11.answers.1.idx:127.0
+passage.questions.11.answers.0.text:Finska skupščina
+passage.questions.11.answers.0.label:0.0
+passage.questions.11.answers.0.idx:126.0
+passage.questions.10.question:Katerega leta je Aleksander II. liberaliziral gospodarstvo na Finskem?
+passage.questions.10.idx:27.0
+passage.questions.10.answers.2.text:Nekaj let pred letom 1863
+passage.questions.10.answers.2.label:0.0
+passage.questions.10.answers.2.idx:125.0
+passage.questions.10.answers.1.text:Desetletje po letu 1863
+passage.questions.10.answers.1.label:0.0
+passage.questions.10.answers.1.idx:124.0
+passage.questions.10.answers.0.text:1863
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:123.0
+passage.questions.1.question:Katere finske reforme so povečale finsko avtonomijo v odnosu do Rusije in liberalizacijo?
+passage.questions.1.idx:18
+passage.questions.1.answers.2.text:Pritegnili tuje investicije, zgradili prve železnice, spodbujanje finskega jezika 
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:92.0
+passage.questions.1.answers.1.text:Liberalizacija gospodarstva je pritegnila tuje investicije in pripomogla k industrijskemu razvoju
+passage.questions.1.answers.1.label:1
+passage.questions.1.answers.1.idx:91
+passage.questions.1.answers.0.text:Spodbujanje finskega nacionalizma in jezika je bil gotovo tudi poskus rahljanja vezi s Švedsko
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:90
+passage.questions.0.question:Kako lahko razumemo finske reforme iz leta 1863?
+passage.questions.0.idx:17
+passage.questions.0.answers.2.text:Te reforme lahko razumemo kot posledico iskrenega prepričanja, da je, prej kot na območju celotne Rusije, reforme lažje preizkusiti v redko poseljeni in homogeni deželi
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:89.0
+passage.questions.0.answers.1.text:Zaviranje finskega nacionalizma in jezika je bil gotovo tudi poskus rahljanja vezi s Švedsko
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:88
+passage.questions.0.answers.0.text:Da jih je bilo lažje preizkusiti v homogeni deželi ali kot posledico zahodnjaške zvestobe
+passage.questions.0.answers.0.label:1
+passage.questions.0.answers.0.idx:87
+idx:2

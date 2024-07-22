@@ -1,0 +1,63 @@
+version:1.1
+passage.text:Sara je želela igrati v baseball ekipi. Nikoli prej ni poskušala zamahniti z netopirjem in udariti v baseball. Njen oče ji je dal palico in skupaj sta odšla v park na trening. Sara se je spraševala, ali bi lahko zadela žogo. Ni bila prepričana, ali bo kaj dobrega. Zelo si je želela igrati v moštvu in nositi pravo uniformo. Komaj je čakala, da pride v park in preizkusi netopirja. Ko sta Sara in njen oče prišla v park, je Sara prijela netopirja in se postavila nekaj korakov stran od očeta. Sara je čakala, ko ji je oče dodal žogo. Srce ji je hitro utripalo. Zgrešila je prvih nekaj igrišč. Zdelo se ji je, da neham, vendar je še naprej poskušala. Kmalu je udarila žogo zelo daleč. Bila je zelo vesela in je komaj čakala, da se prijavi v pravo ekipo. Njen oče je bil zelo ponosen nanjo, ker ni obupala.
+passage.questions.2.question:Zakaj je bil Sarin oče ponosen nanjo, ker ni obupala?
+passage.questions.2.idx:2194.0
+passage.questions.2.answers.5.text:Ker je svojo bolezen premagala
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:11500.0
+passage.questions.2.answers.4.text:Ker se je naučila nehati, ko je bil pravi čas
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11499.0
+passage.questions.2.answers.3.text:Udarjanje žoge
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:11498.0
+passage.questions.2.answers.2.text:Ker je premagala svoj strah in dobro vadila baseball
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:11497.0
+passage.questions.2.answers.1.text:Prijava v pravo ekipo
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:11496.0
+passage.questions.2.answers.0.text:Ne odnehati
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:11495.0
+passage.questions.1.question:Kdo je žogo poslal Sari in kje se je zgodila?
+passage.questions.1.idx:2193.0
+passage.questions.1.answers.4.text:Njen oče na dvorišču
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11494.0
+passage.questions.1.answers.3.text:Njen oče je bil v parku
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:11493.0
+passage.questions.1.answers.2.text:Njen trener na šolskem dvorišču
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11492.0
+passage.questions.1.answers.1.text:Sara in v parku
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11491.0
+passage.questions.1.answers.0.text:Njena najboljša prijateljica v parku
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:11490.0
+passage.questions.0.question:Zakaj mislite, da je Sara zamudila prvih nekaj igrišč?
+passage.questions.0.idx:2192
+passage.questions.0.answers.6.text:Zaradi njene telesne okvare
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:11489.0
+passage.questions.0.answers.5.text:Netopir je bil zlomljen
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:11488.0
+passage.questions.0.answers.4.text:Zaradi vremenskih razmer
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:11487.0
+passage.questions.0.answers.3.text:Ker je bila živčna in še nikoli ni trenirala baseballa
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:11486.0
+passage.questions.0.answers.2.text:Zares ni hotela igrati
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11485.0
+passage.questions.0.answers.1.text:Ker še nikoli prej ni poskušala zamahniti s palico in udariti v baseball
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:11484
+passage.questions.0.answers.0.text:Srce ji je hitro utripalo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:11483
+idx:195

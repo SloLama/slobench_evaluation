@@ -1,0 +1,162 @@
+version:1.1
+passage.text:Busheva administracija pred 11. septembrom s savdsko vlado ni razvila novih diplomatskih pobud o Al Kaidi. Podpredsednik Cheney je 5. julija 2001 poklical prestolonaslednika Abdullaha, da poišče savdsko pomoč pri preprečevanju grozečih napadov na ameriške objekte v Kraljevini. Državni sekretar Powell se je s prestolonaslednikom dvakrat sestal pred 11. septembrom. Razpravljali so o temah, kot sta Irak in ne Al Kaida. Odnose ZDA in Savde poleti 2001 so zaznamovala vroča nesoglasja glede nenehnega izraelsko-palestinskega nasilja in ne glede Bin Ladena. Potrditev novega vodstva Pentagona je bila dolgotrajen postopek. Namestnik ministra Wolfowitz je bil potrjen marca 2001, julija pa podsekretar za obrambno politiko Douglas Feith. Čeprav so bili novi uradniki seznanjeni s terorizmom in nekaterimi prejšnjimi načrti, vključno s tistim za operacijo Neskončno reševanje, so bili, kot nam je povedal sekretar Rumsfeld, osredotočeni na ustvarjanje vojske enaindvajsetega stoletja. Generalštab Shelton se v združenju načelnikov generalštabov ni spominjal velikega zanimanja nove uprave za vojaške možnosti proti Al Kaidi v Afganistanu. Od tajnice ni mogel priklicati nobenih posebnih navodil o tej temi. Brian Sheridan, odhajajoči pomočnik obrambnega ministra za posebne operacije in konflikte nizke intenzivnosti (SOLIC), ključni urad za protiteroristično politiko v Pentagonu, ni nikoli poročal Rumsfeldu. Odšel je 20. januarja; ni ga zamenjal 11. septembra. Rumsfeld nam je opozoril na lastno zanimanje za terorizem, ki se je pogosto pojavljalo na njegovih rednih srečanjih s Tenetom. Menil je, da obrambno ministrstvo pred 11. septembrom ni bilo ustrezno organizirano ali pripravljeno na nove grožnje, kot je terorizem. Toda njegov čas je bil porabljen za postavitev novih uradnikov in delo na temeljnih dokumentih nove obrambne politike, štiriletni pregled obrambe, smernice za obrambno načrtovanje in obstoječe načrte za izredne razmere. Ni se spomnil nobenega posebnega vprašanja protiterorizma, ki je pritegnilo njegovo pozornost pred 11. septembrom, razen razvoja brezpilotnega letalskega sistema Predator. Poveljnik Centralnega poveljstva general Franks nam je dejal, da obstoječih načrtov ne šteje za resne. Zanj bi moral resnični vojaški načrt za reševanje Al Kaide iti do konca, slediti podrobnostim celotne kampanje (vključno s politično-vojaškimi vprašanji, kje naj temeljijo operacije) in si zagotoviti pravice do preleta sosednjih držav. Osnutek predsedniške direktive, ki je bil razposlan junija 2001, je razpravo o vojski začel s ponovitvijo vodilne vloge obrambnega ministrstva pri zaščiti svojih sil v tujini.
+passage.questions.9.question:O čem sta se govorila državni sekretar in prestolonaslednik pred 11. septembrom?
+passage.questions.9.idx:3702.0
+passage.questions.9.answers.4.text:Al kaida
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:19668.0
+passage.questions.9.answers.3.text:Bin ladan
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:19667.0
+passage.questions.9.answers.2.text:Stalno izraelsko-palestinsko nasilje
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:19666.0
+passage.questions.9.answers.1.text:Predsednik
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:19665.0
+passage.questions.9.answers.0.text:Iraku
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:19664.0
+passage.questions.8.question:Katero delovno mesto je bilo prazno od januarja 2001 in ni bilo nadomeščeno pred 11. septembrom?
+passage.questions.8.idx:3701.0
+passage.questions.8.answers.3.text:Poveljnik
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:19663.0
+passage.questions.8.answers.2.text:Predsednik
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:19662.0
+passage.questions.8.answers.1.text:Pomočnik obrambnega ministra za posebne operacije in konflikt nizke intenzivnosti
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:19661.0
+passage.questions.8.answers.0.text:Pomočnik obrambnega ministra za posebne operacije
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:19660.0
+passage.questions.7.question:Kako je priimek ameriškega uradnika, ki se je s prestolonaslednikom Abdulahom dvakrat sestal pred 11. septembrom in razpravljal o temah, kot sta Irak in izraelsko-palestinsko nasilje?
+passage.questions.7.idx:3700.0
+passage.questions.7.answers.2.text:Bush
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:19659.0
+passage.questions.7.answers.1.text:Powell
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:19658.0
+passage.questions.7.answers.0.text:Chenny
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19657.0
+passage.questions.6.question:Kako se priimek moškega, ki je obrambnemu ministrstvu očital, da pred 11. septembrom ni bil ustrezno organiziran?
+passage.questions.6.idx:3699.0
+passage.questions.6.answers.2.text:Rumsfeld
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:19656.0
+passage.questions.6.answers.1.text:Tenet
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:19655.0
+passage.questions.6.answers.0.text:Splošno odkrito
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:19654.0
+passage.questions.5.question:Kdo je menil, da obrambno ministrstvo pred 11. septembrom ni bilo ustrezno organizirano za spopadanje s terorističnimi grožnjami
+passage.questions.5.idx:3698.0
+passage.questions.5.answers.4.text:Rumsfeld
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:19653.0
+passage.questions.5.answers.3.text:Bush
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:19652.0
+passage.questions.5.answers.2.text:Tajnik Rumsfeld
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19651.0
+passage.questions.5.answers.1.text:Chenny
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:19650.0
+passage.questions.5.answers.0.text:Sheridan
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:19649.0
+passage.questions.4.question:Leta 2001 je osnutek predsedniške direktive krožil, koliko mesecev po potrditvi vodstva namestnika sekretarja Wolfowitza?
+passage.questions.4.idx:3697.0
+passage.questions.4.answers.1.text:3.
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19648.0
+passage.questions.4.answers.0.text:5. julij
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:19647.0
+passage.questions.3.question:Čigav čas je bil porabljen za postavitev novih uradnikov
+passage.questions.3.idx:3696.0
+passage.questions.3.answers.4.text:Rumsfeld
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:19646.0
+passage.questions.3.answers.3.text:Bush
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:19645.0
+passage.questions.3.answers.2.text:Tajnik Rumsfeld
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19644.0
+passage.questions.3.answers.1.text:Chenny
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:19643.0
+passage.questions.3.answers.0.text:Sheridan
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:19642.0
+passage.questions.2.question:Kako je priimek generala, katerega vojaški načrt je vključeval celotno kampanjo in zagotavljanje pravic preleta sosednjih držav po 11. septembru?
+passage.questions.2.idx:3695.0
+passage.questions.2.answers.2.text:Rumsfeld
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:19641.0
+passage.questions.2.answers.1.text:Tenet
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19640.0
+passage.questions.2.answers.0.text:Franki
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:19639.0
+passage.questions.11.question:Kdo je zapustil položaj 20. januarja
+passage.questions.11.idx:3704.0
+passage.questions.11.answers.3.text:Wolfowitz
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:19675.0
+passage.questions.11.answers.2.text:Splošno odkrito
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:19674.0
+passage.questions.11.answers.1.text:Podpredsednik Chenny
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:19673.0
+passage.questions.11.answers.0.text:Brian Sheridan
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:19672.0
+passage.questions.10.question:Rumsfeld nam je zapisal, da se zanima za terorizem, toda kdo ga ni nikoli seznanil s terorizmom?
+passage.questions.10.idx:3703.0
+passage.questions.10.answers.2.text:Splošne odkritosti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:19671.0
+passage.questions.10.answers.1.text:Bush
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:19670.0
+passage.questions.10.answers.0.text:Brian Sheridan
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:19669.0
+passage.questions.1.question:Kdo si je želel zagotoviti pravice do preleta sosednjih držav
+passage.questions.1.idx:3694.0
+passage.questions.1.answers.3.text:Rumsfeld
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:19638.0
+passage.questions.1.answers.2.text:General Franks
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:19637.0
+passage.questions.1.answers.1.text:Bush
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:19636.0
+passage.questions.1.answers.0.text:Chenny
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:19635.0
+passage.questions.0.question:Ali je bilo vodstvo namestnika sekretarja Wolfowitza potrjeno pred ali po tem, ko je podpredsednik Cheney poklical prestolonaslednika Abdullaha, da poišče savdsko pomoč?
+passage.questions.0.idx:3693
+passage.questions.0.answers.3.text:5. julij 2001
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:19634.0
+passage.questions.0.answers.2.text:Marec 2001
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:19633.0
+passage.questions.0.answers.1.text:Po savdski pomoči
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19632
+passage.questions.0.answers.0.text:Prej
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:19631
+idx:324

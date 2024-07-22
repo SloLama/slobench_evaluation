@@ -1,0 +1,4 @@
+hypothesis:Aspirin preprečuje gastrointestinalne krvavitve.
+idx:32
+label:not_entailment
+premise:Gastrointestinalne krvavitve so lahko stranski učinek nesteroidnih protivnetnih zdravil, kot sta aspirin in ibuprofen.

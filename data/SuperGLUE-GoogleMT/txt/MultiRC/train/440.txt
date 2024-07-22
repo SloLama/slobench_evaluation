@@ -1,0 +1,183 @@
+version:1.1
+passage.text:Zdi se, da potresi začrtujejo posebnost zemeljske skorje. Potresi so znanstvenikom dali vedeti, kam se je gibala skorja. To je privedlo do odkritja, da je bila Zemljina skorja razdeljena na regije ali plošče. Potresi se najpogosteje dogajajo vzdolž teh meja plošč. To je bil dokaz, da se celine lahko premikajo. Premiki plošč se imenujejo tektonika plošč. Zemljina skorja je razdeljena na plošče. Obstaja približno ducat velikih plošč in več majhnih. Vsaka plošča je poimenovana po celini ali oceanskem bazenu, ki ga vsebuje. Znanstveniki vedo, da se plošče premikajo. Zdaj vedo smer in hitrost tega gibanja. Plošče se ne premikajo zelo hitro. Na leto se premaknejo le nekaj centimetrov. To je približno enaka stopnja nohtov. Torej se lahko vprašate, kaj bi lahko povzročilo to gibanje? Kaj zagotavlja energijo, ki povzroča to spremembo?
+passage.questions.9.question:Kaj je pripeljalo do odkritja, da je bila zemeljska skorja razdeljena na regije ali plošče?
+passage.questions.9.idx:4966.0
+passage.questions.9.answers.3.text:Potresi
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:26429.0
+passage.questions.9.answers.2.text:Gibanje zemeljske skorje
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:26428.0
+passage.questions.9.answers.1.text:Smer in hitrost premikanja plošče
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:26427.0
+passage.questions.9.answers.0.text:Tektonske plošče
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:26426.0
+passage.questions.8.question:Kaj je vodilo znanstvenike do odkrivanja plošč?
+passage.questions.8.idx:4965.0
+passage.questions.8.answers.3.text:Smer gibanja plošče
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:26425.0
+passage.questions.8.answers.2.text:Potresi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:26424.0
+passage.questions.8.answers.1.text:Gibanje zemeljske skorje
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:26423.0
+passage.questions.8.answers.0.text:Regije
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:26422.0
+passage.questions.7.question:Zakaj je verjetno, da so znanstveniki o mejah plošč spoznali šele s preučevanjem potresov?
+passage.questions.7.idx:4964.0
+passage.questions.7.answers.4.text:Potresi se dogajajo na mejah plošč
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:26421.0
+passage.questions.7.answers.3.text:Premikanje plošč vodi do potresov na mejah
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:26420.0
+passage.questions.7.answers.2.text:Ugotovimo jih lahko po jakosti potresa
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:26419.0
+passage.questions.7.answers.1.text:Plošče se ne premikajo zelo hitro. Poslano 13: Na leto se premaknejo le nekaj centimetrov
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:26418.0
+passage.questions.7.answers.0.text:Vidni so med potresom
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:26417.0
+passage.questions.6.question:Kako hitro se premikajo plošče?
+passage.questions.6.idx:4963.0
+passage.questions.6.answers.3.text:Nekaj centimetrov na leto
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:26416.0
+passage.questions.6.answers.2.text:Približno enako hitro rastejo nohti
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:26415.0
+passage.questions.6.answers.1.text:Nekaj metrov na leto
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26414.0
+passage.questions.6.answers.0.text:Zelo hitro
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:26413.0
+passage.questions.5.question:Na koliko plošč je razdeljena zemeljska skorja?
+passage.questions.5.idx:4962.0
+passage.questions.5.answers.3.text:Več kot 10 velikih
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:26412.0
+passage.questions.5.answers.2.text:Približno ducat velikih plošč in več majhnih
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:26411.0
+passage.questions.5.answers.1.text:Nešteto
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:26410.0
+passage.questions.5.answers.0.text:Manj kot 10
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:26409.0
+passage.questions.4.question:Kako so znanstveniki izvedeli o Zemljinih ploščah?
+passage.questions.4.idx:4961.0
+passage.questions.4.answers.4.text:Zdi se, da potresi orisujejo posebnost zemeljske skorje in jim kažejo, kam se skorja premika
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:26408.0
+passage.questions.4.answers.3.text:Smer gibanja plošče
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:26407.0
+passage.questions.4.answers.2.text:Potresi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:26406.0
+passage.questions.4.answers.1.text:Gibanje zemeljske skorje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:26405.0
+passage.questions.4.answers.0.text:Regije
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:26404.0
+passage.questions.3.question:Kaj se premika z enako hitrostjo, kot rastejo nohti?
+passage.questions.3.idx:4960.0
+passage.questions.3.answers.3.text:Potresi
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:26403.0
+passage.questions.3.answers.2.text:Plošče
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:26402.0
+passage.questions.3.answers.1.text:Zemlja
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:26401.0
+passage.questions.3.answers.0.text:Državah
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:26400.0
+passage.questions.2.question:Kaj potresi govorijo znanstvenikom in kaj je pri njih posebnega?
+passage.questions.2.idx:4959.0
+passage.questions.2.answers.4.text:Sestava zemeljske skorje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:26399.0
+passage.questions.2.answers.3.text:Gibanje zemeljske skorje
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:26398.0
+passage.questions.2.answers.2.text:Starost zemeljske skorje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:26397.0
+passage.questions.2.answers.1.text:Znanstveniku povedo, da se skorja premika in da se skorja razbije na plošče, kjer se ti potresi običajno zgodijo
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:26396.0
+passage.questions.2.answers.0.text:Smer gibanja skorje
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26395.0
+passage.questions.11.question:Potresi se dogajajo vzdolž meja plošč, kar je po mnenju znanstvenikov dokaz, da se kaj premika?
+passage.questions.11.idx:4968.0
+passage.questions.11.answers.3.text:Celine
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:26437.0
+passage.questions.11.answers.2.text:Zemeljske mase Zemlje
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:26436.0
+passage.questions.11.answers.1.text:Zemlja
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:26435.0
+passage.questions.11.answers.0.text:Oceani
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:26434.0
+passage.questions.10.question:Kaj znanstveniki vedo o gibanju plošč?
+passage.questions.10.idx:4967.0
+passage.questions.10.answers.3.text:Kdaj se bodo premaknili
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:26433.0
+passage.questions.10.answers.2.text:Smer gibanja
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:26432.0
+passage.questions.10.answers.1.text:Hitrost gibanja
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:26431.0
+passage.questions.10.answers.0.text:Smer in hitrost
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:26430.0
+passage.questions.1.question:Kaj lahko pogledate na svojem telesu, da dobite občutek, kako hitro se krožniki premikajo?
+passage.questions.1.idx:4958.0
+passage.questions.1.answers.3.text:Stopala
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:26394.0
+passage.questions.1.answers.2.text:Roka
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:26393.0
+passage.questions.1.answers.1.text:Nohti
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26392.0
+passage.questions.1.answers.0.text:Lasje
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:26391.0
+passage.questions.0.question:Kaj je znanstvenikom pokazalo, da se celine lahko premikajo?
+passage.questions.0.idx:4957
+passage.questions.0.answers.4.text:Smer gibanja plošče
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:26390.0
+passage.questions.0.answers.3.text:Hitrost premikanja plošče
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:26389.0
+passage.questions.0.answers.2.text:Potresi
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:26388.0
+passage.questions.0.answers.1.text:Potresi na mejah plošč
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26387
+passage.questions.0.answers.0.text:Dokazi, da se potresi najpogosteje dogajajo na teh mejah plošč
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:26386
+idx:440

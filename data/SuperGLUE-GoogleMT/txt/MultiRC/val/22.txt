@@ -1,0 +1,366 @@
+version:1.1
+passage.text:Pariz, Francija (CNN) - Na stotine francoskih delavcev, ki so jezni zaradi predlaganih odpuščanj v tovarni Caterpillar, je v torek držalo za talce vodstvo podjetja, je dejal tiskovni predstavnik delavcev. Francosko osebje Caterpillarja je jezno zaradi pomanjkanja pogajanj o odpuščanju. Ta mesec so francoski delavci, ki jim grozi zmanjšanje, že tretjič blokirali upravnike v svojih pisarnah, da zahtevajo pogajanja. Voditelji so bili v obeh prejšnjih situacijah izpuščeni nepoškodovani. Zadnji incident se je začel v torek zjutraj v pisarni podjetja za gradbeno opremo v jugovzhodnem mestu Grenoble. Delavci so bili jezni, da je Caterpillar predlagal zmanjšanje več kot 700 delovnih mest in se ne bo pogajal, je dejal Nicolas Benoit, predstavnik sindikata delavcev. Benoit je za CNN dejal, da niso želeli škodovati direktorjem Caterpillarja. V torek zvečer so izpustili enega talca, ki je v stavbi Caterpillar pustil delavce s štirimi ujetniki. Izpuščeni moški je bil direktor človeških virov, ki so ga prepoznali le kot g. Petita, ker ima težave s srcem, je za CNN povedal predstavnik sindikata Bernard Patrick. Petit je pred nekaj tedni doživel srčni napad, je dejal Patrick. Štirje drugi, ki so še v priporu, so Nicolas Polutnik, vodja operacij; še dva izvršna direktorja; in Petitov osebni asistent, je dejal. Tudi zunaj stavbe je protestiralo približno 500 zaposlenih.
+passage.questions.9.question:Zakaj je bil gospod Petit izpuščen?
+passage.questions.9.idx:256.0
+passage.questions.9.answers.6.text:Ker se je pogajal z delavci
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:1363.0
+passage.questions.9.answers.5.text:Petit je pred nekaj tedni doživel srčni napad
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:1362.0
+passage.questions.9.answers.4.text:Ker je bil predstavnik sindikata pri Caterpillarju
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:1361.0
+passage.questions.9.answers.3.text:Zaradi težav s srcem je imel napad pred nekaj tedni
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1360.0
+passage.questions.9.answers.2.text:Ker je imel težave s srcem
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1359.0
+passage.questions.9.answers.1.text:Bil je lačen
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1358.0
+passage.questions.9.answers.0.text:Dobil je srčni napad
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:1357.0
+passage.questions.8.question:Kako je prvo ime človeka, ki CNN-u sporoča, da delavci ne želijo škodovati direktorjem Caterpillarja?
+passage.questions.8.idx:255.0
+passage.questions.8.answers.2.text:Benoit
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1356.0
+passage.questions.8.answers.1.text:Nicolas
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:1355.0
+passage.questions.8.answers.0.text:Petit
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1354.0
+passage.questions.7.question:Kolikokrat so francoski delavci blokirali direktorje v svojih pisarnah, da bi zahtevali pogajanja o predlaganih odpuščanjih?
+passage.questions.7.idx:254.0
+passage.questions.7.answers.5.text:DESET
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:1353.0
+passage.questions.7.answers.4.text:Trikrat
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:1352.0
+passage.questions.7.answers.3.text:Torkov incident je bil prvi incident z blokado
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1351.0
+passage.questions.7.answers.2.text:Vsaj tri
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:1350.0
+passage.questions.7.answers.1.text:Vsaj trikrat na mesec
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1349.0
+passage.questions.7.answers.0.text:Letos trikrat doslej
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:1348.0
+passage.questions.6.question:So delavci doslej prizadeli kakšnega direktorja iz tovarne Caterpillar?
+passage.questions.6.idx:253.0
+passage.questions.6.answers.5.text:Štirje preostali talci po izpustu Petita
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:1347.0
+passage.questions.6.answers.4.text:Samo eden, gospod Petit, prvi izpuščeni talec
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:1346.0
+passage.questions.6.answers.3.text:Da
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1345.0
+passage.questions.6.answers.2.text:Ne
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:1344.0
+passage.questions.6.answers.1.text:Zaenkrat ne enega, niti v torkovi blokadi niti v prejšnjih dveh incidentih tega meseca
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1343.0
+passage.questions.6.answers.0.text:Po mnenju Nicolasa Benoita niti enega
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:1342.0
+passage.questions.5.question:Kaj poroča o incidentu informativna mreža?
+passage.questions.5.idx:252.0
+passage.questions.5.answers.3.text:BBC
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1341.0
+passage.questions.5.answers.2.text:NBC
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1340.0
+passage.questions.5.answers.1.text:CNN
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1339.0
+passage.questions.5.answers.0.text:ABC
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1338.0
+passage.questions.4.question:Za katero podjetje dela Nicolas Polutnik?
+passage.questions.4.idx:251.0
+passage.questions.4.answers.3.text:BNP Paribas
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1337.0
+passage.questions.4.answers.2.text:Caterpillar
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1336.0
+passage.questions.4.answers.1.text:CNN
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1335.0
+passage.questions.4.answers.0.text:Cadillac
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1334.0
+passage.questions.3.question:Navedite polno ime enega od talcev
+passage.questions.3.idx:250.0
+passage.questions.3.answers.2.text:Nicolas Benoit
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1333.0
+passage.questions.3.answers.1.text:Nicolas Polutnik
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1332.0
+passage.questions.3.answers.0.text:Bernard Patrick
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1331.0
+passage.questions.20.question:V katerem mestu je ta odstavek osebni asistent gospoda Petita?
+passage.questions.20.idx:267.0
+passage.questions.20.answers.3.text:London
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:1424.0
+passage.questions.20.answers.2.text:Grenoble
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:1423.0
+passage.questions.20.answers.1.text:Pariz
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:1422.0
+passage.questions.20.answers.0.text:Mesto na jugovzhodu Grenoble v Franciji
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:1421.0
+passage.questions.2.question:V kateri stavbi so bili v torek štirje ujetniki?
+passage.questions.2.idx:249
+passage.questions.2.answers.5.text:Pisarna podjetja za gradbeno opremo v jugovzhodnem mestu Grenoble
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:1330.0
+passage.questions.2.answers.4.text:Sedež CNN
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1329.0
+passage.questions.2.answers.3.text:Tovarna Caterpillar
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:1328.0
+passage.questions.2.answers.2.text:Pisarne CNN v Parizu
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1327.0
+passage.questions.2.answers.1.text:Podjetje za gradbeno opremo v jugovzhodnem mestu Grenoble
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:1326
+passage.questions.2.answers.0.text:Sedež Caterpillarja v Parizu
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1325
+passage.questions.19.question:Kakšen je položaj človeka, ki ime deli s tiskovnim predstavnikom sindikata delavcev?
+passage.questions.19.idx:266.0
+passage.questions.19.answers.4.text:Osebni pomočnik
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:1420.0
+passage.questions.19.answers.3.text:Caterpillar vodja operacij
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:1419.0
+passage.questions.19.answers.2.text:Človeški viri
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:1418.0
+passage.questions.19.answers.1.text:Vodja operacij
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:1417.0
+passage.questions.19.answers.0.text:direktor
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:1416.0
+passage.questions.18.question:Kdo je komentiral akcije protestnikov?
+passage.questions.18.idx:265.0
+passage.questions.18.answers.7.text:Benoit
+passage.questions.18.answers.7.label:1.0
+passage.questions.18.answers.7.idx:1415.0
+passage.questions.18.answers.6.text:Nicolas Benoit in Bernard Patrick
+passage.questions.18.answers.6.label:1.0
+passage.questions.18.answers.6.idx:1414.0
+passage.questions.18.answers.5.text:Nicholas Benoit
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:1413.0
+passage.questions.18.answers.4.text:Izpuščeni talec g. Petit
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:1412.0
+passage.questions.18.answers.3.text:Nicolas Benoit
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:1411.0
+passage.questions.18.answers.2.text:Polutnik
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:1410.0
+passage.questions.18.answers.1.text:Dva delavca zunaj blokade
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:1409.0
+passage.questions.18.answers.0.text:Tiskovni predstavnik sindikata delavcev in predstavnik sindikata
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:1408.0
+passage.questions.17.question:Katere zdravstvene težave je imel izpuščeni talec gospod Petit?
+passage.questions.17.idx:264.0
+passage.questions.17.answers.6.text:Težave s srcem
+passage.questions.17.answers.6.label:1.0
+passage.questions.17.answers.6.idx:1407.0
+passage.questions.17.answers.5.text:Anksiozna motnja
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:1406.0
+passage.questions.17.answers.4.text:Diabetes
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:1405.0
+passage.questions.17.answers.3.text:Vročinski napad
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:1404.0
+passage.questions.17.answers.2.text:Imel je težave s srcem
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:1403.0
+passage.questions.17.answers.1.text:V blokadi je škodoval
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:1402.0
+passage.questions.17.answers.0.text:Pred nekaj tedni je doživel srčni napad
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:1401.0
+passage.questions.16.question:Kaj so gosenice zavrnile v zvezi z delovnimi mesti, ki so jih predlagali za zmanjšanje?
+passage.questions.16.idx:263.0
+passage.questions.16.answers.5.text:Pogajati se
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:1400.0
+passage.questions.16.answers.4.text:Pogajanja
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:1399.0
+passage.questions.16.answers.3.text:Niso se hoteli pogajati
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:1398.0
+passage.questions.16.answers.2.text:Da delavcem izplačajo poštene plače
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:1397.0
+passage.questions.16.answers.1.text:Zagotovite zadostno gradbeno opremo
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:1396.0
+passage.questions.16.answers.0.text:VPLI
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:1395.0
+passage.questions.15.question:Koliko ljudi poleg gospoda Petita je bilo talcev?
+passage.questions.15.idx:262.0
+passage.questions.15.answers.7.text:Samo Nicolas Polutnik
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:1394.0
+passage.questions.15.answers.6.text:7.
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:1393.0
+passage.questions.15.answers.5.text:Nicolas Polutnik, vodja operacij; še dva izvršna direktorja; in Petitov osebni asistent
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:1392.0
+passage.questions.15.answers.4.text:Štirje drugi ljudje so bili talci
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:1391.0
+passage.questions.15.answers.3.text:Sedem
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:1390.0
+passage.questions.15.answers.2.text:500 delavcev
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:1389.0
+passage.questions.15.answers.1.text:Štirje drugi
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1388.0
+passage.questions.15.answers.0.text:4.
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:1387.0
+passage.questions.14.question:V katerem mestu so francoski delavci, ki imajo za talce vodstvo Caterpillerja?
+passage.questions.14.idx:261.0
+passage.questions.14.answers.2.text:London
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1386.0
+passage.questions.14.answers.1.text:Grenoble
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:1385.0
+passage.questions.14.answers.0.text:Pariz
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1384.0
+passage.questions.13.question:Kaj je bilo francosko osebje Caterpillarja jezno?
+passage.questions.13.idx:260.0
+passage.questions.13.answers.7.text:Odpuščanja in pomanjkanje pogajanj o njih
+passage.questions.13.answers.7.label:1.0
+passage.questions.13.answers.7.idx:1383.0
+passage.questions.13.answers.6.text:Pomanjkanje ustrezne gradbene opreme v tovarni Caterpillar v Grenoblu
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:1382.0
+passage.questions.13.answers.5.text:Pomanjkanje pogajanj
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:1381.0
+passage.questions.13.answers.4.text:CNN in medijska pokritost blokade
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:1380.0
+passage.questions.13.answers.3.text:Bili so jezni zaradi možnih odpuščanj
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:1379.0
+passage.questions.13.answers.2.text:Odpustiti
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:1378.0
+passage.questions.13.answers.1.text:Odpuščanja, ki jih je predlagala družba
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:1377.0
+passage.questions.13.answers.0.text:Zmanjšanje plač
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1376.0
+passage.questions.12.question:Kako se imenuje podjetje, za katerega so delali Francozi?
+passage.questions.12.idx:259.0
+passage.questions.12.answers.2.text:Grenoble
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1375.0
+passage.questions.12.answers.1.text:Caterpillar
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1374.0
+passage.questions.12.answers.0.text:CNN
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1373.0
+passage.questions.11.question:Zakaj so bili francoski delavci jezni zaradi predlaganih odpuščanj?
+passage.questions.11.idx:258.0
+passage.questions.11.answers.4.text:Zaradi pomanjkanja pogajanj
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:1372.0
+passage.questions.11.answers.3.text:Ker so bila nezakonita odpuščanja
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:1371.0
+passage.questions.11.answers.2.text:Pomankanje denarja
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:1370.0
+passage.questions.11.answers.1.text:Ker bi Caterpillar zmanjšal več kot 700 delovnih mest in se ne bi pogajal
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:1369.0
+passage.questions.11.answers.0.text:Ker je Caterpillar predlagal zmanjšanje več kot tisoč delovnih mest
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:1368.0
+passage.questions.10.question:Kakšno državljanstvo imajo delavci?
+passage.questions.10.idx:257.0
+passage.questions.10.answers.3.text:Norveški
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1367.0
+passage.questions.10.answers.2.text:Poljski
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:1366.0
+passage.questions.10.answers.1.text:angleščina
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1365.0
+passage.questions.10.answers.0.text:Francosko
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1364.0
+passage.questions.1.question:Je bilo število ocenjenih zaposlenih, ki protestirajo, večje ali manjše od števila zaposlenih, ki so jih direktorji predlagali za odpuščanje?
+passage.questions.1.idx:248
+passage.questions.1.answers.2.text:Večje
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1324.0
+passage.questions.1.answers.1.text:Celo
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1323
+passage.questions.1.answers.0.text:Manj
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:1322
+passage.questions.0.question:Kdaj je bil gospod Petit izpuščen?
+passage.questions.0.idx:247
+passage.questions.0.answers.3.text:Sreda zvečer
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:1321.0
+passage.questions.0.answers.2.text:Danes
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1320.0
+passage.questions.0.answers.1.text:Torek zvečer
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:1319
+passage.questions.0.answers.0.text:Torek zjutraj
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1318
+idx:22

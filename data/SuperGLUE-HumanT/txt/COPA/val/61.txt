@@ -1,0 +1,6 @@
+﻿choice1:Na cesti se je pojavila srna.
+choice2:Avto radio se je ugasnil.
+idx:61
+label:0
+premise:Voznik je pritisnil na zavoro.
+question:cause

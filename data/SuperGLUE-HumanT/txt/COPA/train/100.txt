@@ -1,0 +1,6 @@
+choice1:Ugotovila je, kateri učenci manjkajo.
+choice2:Učence je izprašala.
+idx:100
+label:0
+premise:Učiteljica je preverila prisotnost.
+question:effect

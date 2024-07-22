@@ -1,0 +1,123 @@
+version:1.1
+passage.text:G. Andrews je pokazal na enega od hrastovih stolov. &quot;Sedite tam,&quot; je ukazal, &quot;rezervirano je za člane lokala, vendar je vse v redu. Z mano ste.&quot; Izrazito siten, rahlo zmeden se je bankir pogreznil med roke stola. Čutil je, da je izgubil svojo individualnost. Andrews je postal njegov sponzor. Zaradi Andrewsa so ga tolerirali. Ker je Andrews vlekel, je smel sedeti kot enakovreden med odvetniki na policijskem sodišču. Ni bil več Arnold Thorndike. Bil je zgolj človek &quot;z gospodom Andrewsom&quot;. Potem ga je celo Andrews zapustil. &quot;Sodnik bo prišel čez minuto, zdaj,&quot; je dejal pomočnik okrožnega državnega tožilca in šel v ograjeno ogrado pred sodniško klopjo. Tam je pozdravil še enega pomočnika okrožnega državnega tožilca, katerega leta so bila še toliko bolj previdna kot leta gospoda Andrewsa. Sedeli na tirnici, z rokami v žepih in hrbtom obrnjeni k gospodu Thorndikeju, so se smejali in se pogovarjali. Tema njihovega diskurza je bil Mike Donlin, ko se je pojavil v vodvilju. Gospodu Thorndikeju je bilo očitno, da ga je mladi Andrews popolnoma pozabil. Vstal je in se dotaknil rokava. G. Thorndike je z neskončnim sarkazmom začel: &quot;Moje zaveze ne pritiskajo, ampak ...&quot; Sodni uslužbenec je udaril z dlanjo po ograji. &quot;Sedi!&quot; je šepetal Andrews. &quot;Sodnik prihaja.&quot; G. Thorndike je sedel. Sodni uslužbenec je glasno potonil besede, ki jih gospod Thorndike ni mogel razločiti. Začulo se je šumenje svile in od vrat za njim je sodnik stopil mimo.
+passage.questions.8.question:Zakaj je gospod Andrews pokazal na stol?
+passage.questions.8.idx:276.0
+passage.questions.8.answers.3.text:Želel je, da se usede
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1458.0
+passage.questions.8.answers.2.text:Da Arnoldu ukaže, naj sedi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:1457.0
+passage.questions.8.answers.1.text:Tam, kjer bi sedel sodnik
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1456.0
+passage.questions.8.answers.0.text:Želel je, da ga premakne
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1455.0
+passage.questions.7.question:Andrews je rekel, da so hrastovi stoli rezervirani za koga?
+passage.questions.7.idx:275.0
+passage.questions.7.answers.2.text:Sodnik
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1454.0
+passage.questions.7.answers.1.text:Člani odvetniške zbornice
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1453.0
+passage.questions.7.answers.0.text:Člani kraljestva
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:1452.0
+passage.questions.6.question:Je bil zaradi sponzorja toleriran?
+passage.questions.6.idx:274.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1451.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1450.0
+passage.questions.5.question:Zakaj so med policijskimi in sodnimi odvetniki Arnolda tolerirali?
+passage.questions.5.idx:273.0
+passage.questions.5.answers.4.text:Ker je bil on glavni
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:1449.0
+passage.questions.5.answers.3.text:Bil je bankir
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1448.0
+passage.questions.5.answers.2.text:Bil je z gospodom Andrewsom
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1447.0
+passage.questions.5.answers.1.text:Ker ga je sponzoriral gospod Andrews
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1446.0
+passage.questions.5.answers.0.text:Zaradi njegovega sponzorja
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:1445.0
+passage.questions.4.question:Kaj je na začetku storil človek, ki je opustil svoje stališče?
+passage.questions.4.idx:272.0
+passage.questions.4.answers.2.text:Eden od hrastovih stolov
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1444.0
+passage.questions.4.answers.1.text:Miza
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1443.0
+passage.questions.4.answers.0.text:Ograjena ograja
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1442.0
+passage.questions.3.question:Človek, znan kot Arnold Thorndike, je zaradi koga smel sedeti kot enakovreden med odvetniki policijskih sodišč?
+passage.questions.3.idx:271.0
+passage.questions.3.answers.4.text:Njegov sponzor
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:1441.0
+passage.questions.3.answers.3.text:Sodnik
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1440.0
+passage.questions.3.answers.2.text:G. Andrews
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1439.0
+passage.questions.3.answers.1.text:Moški
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1438.0
+passage.questions.3.answers.0.text:Andrews
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:1437.0
+passage.questions.2.question:Kaj je šepetal njegov sponzor?
+passage.questions.2.idx:270
+passage.questions.2.answers.2.text:Sedi
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:1436.0
+passage.questions.2.answers.1.text:Vstani
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:1435
+passage.questions.2.answers.0.text:Sodnik je tukaj
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1434
+passage.questions.1.question:Kdo sedi, ko Andrew zašepeta &quot;Sedi&quot;?
+passage.questions.1.idx:269
+passage.questions.1.answers.4.text:Njegov sponzor
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:1433.0
+passage.questions.1.answers.3.text:Gospod Thorndike
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1432.0
+passage.questions.1.answers.2.text:Okrožni državni tožilec
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1431.0
+passage.questions.1.answers.1.text:Bankir
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:1430
+passage.questions.1.answers.0.text:Njegov policist
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1429
+passage.questions.0.question:Zakaj se je Thorndike dotaknil Andrewsovega rokava?
+passage.questions.0.idx:268
+passage.questions.0.answers.3.text:Povedati mu, da prihaja sodnik
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1428.0
+passage.questions.0.answers.2.text:Da bi pritegnili njegovo pozornost
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1427.0
+passage.questions.0.answers.1.text:Da ga potegne bliže
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1426
+passage.questions.0.answers.0.text:Da ga odprašim
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1425
+idx:23

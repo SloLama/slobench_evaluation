@@ -1,0 +1,165 @@
+version:1.1
+passage.text:Grobe površine ustvarjajo več trenja kot gladke površine. Zato imajo avtomobili pnevmatike. Tudi zato uporabljamo gumijaste preproge na mestih, ki se lahko zmočijo. V svoji kadi lahko celo uporabite trak brez zdrsa. Nezdrsanje je še en način, da rečemo, da imajo predmeti veliko trenja. Na sliki 1.9 so rezila drsalk zelo gladka. Zato s čevlji ne morete zdrsniti po ledu. Podplati čevljev so precej bolj grobi kot drsalke. Grobejša površina čevljev povzroča več trenja in vas upočasni. Tudi težji predmeti imajo več trenja. Težki predmet pritiska navzdol z večjo silo. Površine se tesneje držijo skupaj. Zaradi tega je površinam težje drseti ena mimo druge. Ste kdaj poskusili nekaj težkega potisniti po tleh? Težke predmete je veliko težje potisniti kot lahke predmete.
+passage.questions.9.question:Zakaj je težje predmete težje potiskati kot lahke predmete?
+passage.questions.9.idx:1458.0
+passage.questions.9.answers.2.text:Tudi težji predmeti imajo več trenja
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:7613.0
+passage.questions.9.answers.1.text:Gladka površina
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:7612.0
+passage.questions.9.answers.0.text:Pritisnejo bolj, da ne drsijo tako enostavno
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:7611.0
+passage.questions.8.question:Ali drsalke zagotavljajo veliko trenja?
+passage.questions.8.idx:1457.0
+passage.questions.8.answers.1.text:Ne, ne
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:7610.0
+passage.questions.8.answers.0.text:Da
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:7609.0
+passage.questions.7.question:Kako ima težki predmet večje trenje?
+passage.questions.7.idx:1456.0
+passage.questions.7.answers.3.text:Težke predmete je veliko težje potisniti kot lahke predmete
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:7608.0
+passage.questions.7.answers.2.text:Gladka površina
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:7607.0
+passage.questions.7.answers.1.text:Je težka, zato potiska navzdol z večjo silo
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:7606.0
+passage.questions.7.answers.0.text:Zadržijo več sile na površini, ki jih tesneje drži skupaj
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:7605.0
+passage.questions.6.question:Zakaj uporabljamo gumijaste preproge na območjih, ki se lahko zmočijo?
+passage.questions.6.idx:1455.0
+passage.questions.6.answers.2.text:Groba površina ustvarja trenje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:7604.0
+passage.questions.6.answers.1.text:Gladka površina
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:7603.0
+passage.questions.6.answers.0.text:Ker hrapave površine ustvarjajo več trenja kot gladke površine
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:7602.0
+passage.questions.5.question:Zakaj imajo avtomobili pnevmatike?
+passage.questions.5.idx:1454.0
+passage.questions.5.answers.6.text:Ker grobe površine ustvarjajo več trenja kot gladke površine
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:7601.0
+passage.questions.5.answers.5.text:Grobe površine ustvarjajo več trenja kot gladke površine
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:7600.0
+passage.questions.5.answers.4.text:Da bodo spolzke
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:7599.0
+passage.questions.5.answers.3.text:Če želite ustvariti trenje in jih zadržati na cesti
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:7598.0
+passage.questions.5.answers.2.text:Da grem hitreje
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:7597.0
+passage.questions.5.answers.1.text:Guma ustvarja trenje
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:7596.0
+passage.questions.5.answers.0.text:Ker imajo hrapave površine več trenja kot gladke
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:7595.0
+passage.questions.4.question:Zakaj težji predmeti ustvarjajo več trenja?
+passage.questions.4.idx:1453.0
+passage.questions.4.answers.3.text:Maščoba
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:7594.0
+passage.questions.4.answers.2.text:Pritisnite z večjo silo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:7593.0
+passage.questions.4.answers.1.text:Težki predmet pritiska navzdol z večjo silo
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:7592.0
+passage.questions.4.answers.0.text:Površine se tesneje držijo skupaj
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:7591.0
+passage.questions.3.question:Ko je več trenja, je težje ali lažje potiskati predmet po tleh?
+passage.questions.3.idx:1452.0
+passage.questions.3.answers.2.text:Težje
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:7590.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:7589.0
+passage.questions.3.answers.0.text:Lažje
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7588.0
+passage.questions.2.question:Kaj je težje narediti, če se površine tesneje držijo skupaj?
+passage.questions.2.idx:1451.0
+passage.questions.2.answers.3.text:Zdrs
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:7587.0
+passage.questions.2.answers.2.text:Potisnite drug mimo drugega
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:7586.0
+passage.questions.2.answers.1.text:Ostanite mirni
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7585.0
+passage.questions.2.answers.0.text:Površine težje drsijo ena mimo druge
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:7584.0
+passage.questions.11.question:Kakšno lastnost ima površina gumijaste preproge, ki nam preprečuje zdrs na mokrih površinah?
+passage.questions.11.idx:1460.0
+passage.questions.11.answers.3.text:Ima hrapavo površino
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:7621.0
+passage.questions.11.answers.2.text:Kad
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:7620.0
+passage.questions.11.answers.1.text:Ustvari trenje
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:7619.0
+passage.questions.11.answers.0.text:Lepljivo
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:7618.0
+passage.questions.10.question:Zakaj ne morete v čevljih zdrsniti po ledu tako kot na drsalkah?
+passage.questions.10.idx:1459.0
+passage.questions.10.answers.3.text:Groba površina na čevljih
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:7617.0
+passage.questions.10.answers.2.text:In podplati vaših čevljev so precej bolj grobi kot drsalke
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:7616.0
+passage.questions.10.answers.1.text:Vzemi si več prostora
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:7615.0
+passage.questions.10.answers.0.text:Rezila drsalk so zelo gladka
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:7614.0
+passage.questions.1.question:Zakaj imajo težji predmeti večje trenje?
+passage.questions.1.idx:1450.0
+passage.questions.1.answers.3.text:Predalnik
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:7583.0
+passage.questions.1.answers.2.text:Teža je povezana s trenjem
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:7582.0
+passage.questions.1.answers.1.text:Pridržan z večjo silo na površini, ki jih tesneje drži skupaj
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:7581.0
+passage.questions.1.answers.0.text:Težki predmet pritiska navzdol z večjo silo. Površine se tesneje držijo skupaj, zaradi česar površine težje drsijo ena mimo druge
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:7580.0
+passage.questions.0.question:Da bi lažje drseli po ledu, bi na nogah želeli nekaj, kar bi imelo gladko ali hrapavo površino?
+passage.questions.0.idx:1449
+passage.questions.0.answers.3.text:Gladko
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:7579.0
+passage.questions.0.answers.2.text:Gladka površina
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7578.0
+passage.questions.0.answers.1.text:Trda površina
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7577
+passage.questions.0.answers.0.text:Grobo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7576
+idx:125

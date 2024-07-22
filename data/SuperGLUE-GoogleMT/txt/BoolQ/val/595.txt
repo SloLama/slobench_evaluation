@@ -1,0 +1,4 @@
+idx:595
+label:False
+passage:C Sharp (programski jezik) - Microsoft vodi razvoj odprtokodnega referenčnega prevajalnika C # in nabora orodij, prej imenovanih &quot;Roslyn&quot;. Prevajalnik, ki je v celoti napisan v upravljani kodi (C #), je bil odprt in funkcionalnost se je pojavila kot API-ji. Tako razvijalcem omogoča ustvarjanje orodij za refaktoring in diagnostiko. Čeprav obstajajo druge izvedbe C #, je Visual C # daleč najpogosteje uporabljen. Igralni stroj Unity uporablja C # kot primarni skriptni jezik.
+question:je c # in vizualni c # enak

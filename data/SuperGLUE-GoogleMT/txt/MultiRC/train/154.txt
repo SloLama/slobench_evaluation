@@ -1,0 +1,167 @@
+version:1.1
+passage.text:Zgoraj je bilo le nekaj stvari, ki so povzročile izgubo ali spremembo habitata. Živi organizmi lahko vplivajo na svoj ekosistem na veliko načinov. Na nekaterih področjih je to zaradi upravljanja požarov. Požar je naraven dogodek, zato je zelo pomembno pravilno upravljanje ognja. Na drugih območjih so ribiči odvzeli preveč rib z enega območja. Zaradi tega vrsta ogroža izumrtje. Vpliva tudi na druga živa bitja, ki se te ribe lahko zanašajo na hrano. Spodnja slika prikazuje sliko mine. Rudarstvo spreminja površje Zemlje. Morda je bilo to območje nekoč gozd ali prerija. Pomislite, koliko rastlin in živali je nekoč tu živelo. Zdaj je to velikanska luknja v tleh. Onesnaženje je tudi glavni dejavnik izgube in spreminjanja habitatov.
+passage.questions.9.question:Kaj se lahko zgodi, če ribiči prekomerno lovijo območje?
+passage.questions.9.idx:1727.0
+passage.questions.9.answers.5.text:Ribe, ki so jih ujeli, bi lahko izumrle in vplivale na druga živa bitja, ki so se na te ribe zanašale kot na hrano
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:8960.0
+passage.questions.9.answers.4.text:Življenje
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:8959.0
+passage.questions.9.answers.3.text:Ribe, ki jim grozi izumrtje
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:8958.0
+passage.questions.9.answers.2.text:Vrste, ki jim grozi izumrtje
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:8957.0
+passage.questions.9.answers.1.text:Izumrtje
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:8956.0
+passage.questions.9.answers.0.text:Ribe se povečajo
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:8955.0
+passage.questions.8.question:Ali lahko živi organizem vpliva na svoj ekosistem?
+passage.questions.8.idx:1726.0
+passage.questions.8.answers.2.text:Živi organizmi lahko vplivajo na svoj ekosistem na veliko načinov. Eden od načinov je upravljanje ognja. Druga metoda se lahko opravi z rudarjenjem
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:8954.0
+passage.questions.8.answers.1.text:Mogoče
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:8953.0
+passage.questions.8.answers.0.text:Ni mogoče
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:8952.0
+passage.questions.7.question:Kako ribolov vpliva na ekosisteme?
+passage.questions.7.idx:1725.0
+passage.questions.7.answers.4.text:Ribe, ki jim grozi izumrtje
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:8951.0
+passage.questions.7.answers.3.text:Zmanjšuje število rib in tudi druge živali so lahko odvisne od rib
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:8950.0
+passage.questions.7.answers.2.text:Zaradi njih se ribe selijo, druge živali pa se lahko selijo z njimi
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8949.0
+passage.questions.7.answers.1.text:Menjava vode
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8948.0
+passage.questions.7.answers.0.text:Ribiči so vzeli preveč rib z enega območja. Zaradi tega vrsta ogroža izumrtje. Vpliva tudi na druga živa bitja, ki se te ribe lahko zanašajo na hrano
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:8947.0
+passage.questions.6.question:Kako čezmerni ribolov vpliva na ekosistem?
+passage.questions.6.idx:1724.0
+passage.questions.6.answers.4.text:Povzroča prekomerno vzrejo rib na tem območju
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:8946.0
+passage.questions.6.answers.3.text:Odvzame preveč ulovljenega in povzroči izumrtje
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:8945.0
+passage.questions.6.answers.2.text:Ribe
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8944.0
+passage.questions.6.answers.1.text:Nekatere vrste se lahko soočijo z izumrtjem in vplivajo na druga živa bitja, ki se za hrano zanašajo na ribe
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:8943.0
+passage.questions.6.answers.0.text:Prevelik ribolov z določenega območja bi lahko povzročil povečanje števila rib na tem območju
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8942.0
+passage.questions.5.question:Navedite štiri stvari, ki lahko povzročijo izgubo ali spremembo habitata.
+passage.questions.5.idx:1723.0
+passage.questions.5.answers.4.text:Ribe
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:8941.0
+passage.questions.5.answers.3.text:Življenje, prekomerna pasma, kemikalije, prekomerno hranjenje
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:8940.0
+passage.questions.5.answers.2.text:Rudarstvo, prekomerni ribolov, požar, onesnaževanje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:8939.0
+passage.questions.5.answers.1.text:Požarno upravljanje, naravni dogodki, rudarstvo, onesnaževanje
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:8938.0
+passage.questions.5.answers.0.text:Požar, ribiči, rudarstvo in onesnaževanje
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:8937.0
+passage.questions.4.question:Kaj bi lahko ogrozilo vrsto za izumrtje?
+passage.questions.4.idx:1722.0
+passage.questions.4.answers.4.text:Razmetavanje rib
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:8936.0
+passage.questions.4.answers.3.text:Ribolov
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:8935.0
+passage.questions.4.answers.2.text:Jemanje preveč rib z enega območja
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8934.0
+passage.questions.4.answers.1.text:Ribič jemlje preveč rib z enega območja
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:8933.0
+passage.questions.4.answers.0.text:Narava
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8932.0
+passage.questions.3.question:Je rudarstvo lahko vzrok za izgubo ali spremembo habitata?
+passage.questions.3.idx:1721.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:8931.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8930.0
+passage.questions.2.question:Kako lahko živi organizmi vplivajo na svoje ekosisteme?
+passage.questions.2.idx:1720.0
+passage.questions.2.answers.4.text:Ogenj, čez ribolov, rudarstvo, onesnaženje
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:8929.0
+passage.questions.2.answers.3.text:Upravljanje voda
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:8928.0
+passage.questions.2.answers.2.text:Ribe
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8927.0
+passage.questions.2.answers.1.text:Preveč ribolova z območja
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:8926.0
+passage.questions.2.answers.0.text:Požarno upravljanje
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8925.0
+passage.questions.1.question:Kako rudarstvo spremeni zemeljsko površje?
+passage.questions.1.idx:1719.0
+passage.questions.1.answers.5.text:V tleh pušča ogromno luknjo, kjer je bil nekoč gozd ali prerija, kjer je nekoč živelo veliko rastlin in živali
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:8924.0
+passage.questions.1.answers.4.text:Gozd se polni rastlin in živali
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8923.0
+passage.questions.1.answers.3.text:Rastline in živali se spremenijo v orjaške luknje
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:8922.0
+passage.questions.1.answers.2.text:Spreminja kemijsko sestavo površine
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8921.0
+passage.questions.1.answers.1.text:Na tem območju je prisotna orjaška luknja, ki spreminja strukturo tamkajšnje površine
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8920.0
+passage.questions.1.answers.0.text:Izguba vode
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8919.0
+passage.questions.0.question:Kako rudarstvo spremeni zemeljsko površino?
+passage.questions.0.idx:1718
+passage.questions.0.answers.5.text:Gozd gre pod vodo
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:8918.0
+passage.questions.0.answers.4.text:Rastline in živali jedo odvečno hrano
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:8917.0
+passage.questions.0.answers.3.text:Spreminja sestavo površine
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:8916.0
+passage.questions.0.answers.2.text:Povzroča velikansko luknjo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:8915.0
+passage.questions.0.answers.1.text:Izguba vode
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:8914
+passage.questions.0.answers.0.text:Odstrani ali spremeni gozdove in prerije, v zemlji pusti ogromne luknje
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8913
+idx:154

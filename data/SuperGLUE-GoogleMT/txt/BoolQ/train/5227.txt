@@ -1,0 +1,4 @@
+idx:5227
+label:True
+passage:Storitve oddaljenega namizja - Storitve oddaljenega namizja (RDS), znane kot Terminal Services v sistemu Windows Server 2008 in starejših, je ena od komponent sistema Microsoft Windows, ki uporabniku omogoča, da nadzoruje oddaljeni računalnik ali navidezni stroj prek omrežne povezave. RDS je Microsoftova izvedba tankega odjemalca, kjer sta programska oprema Windows in celotno namizje računalnika z RDS dostopna oddaljeni odjemalski napravi, ki podpira protokol oddaljenega namizja (RDP). Z RDS se v odjemalski sistem prenesejo samo uporabniški vmesniki programske opreme. Ves vnos iz odjemalskega sistema se prenese na strežnik, kjer poteka izvajanje programske opreme. To je v nasprotju s sistemi za pretakanje aplikacij, kot je Microsoft App-V, v katerih se računalniški programi pretakajo na odjemalca na zahtevo in izvajajo na odjemalskem računalniku.
+question:je terminalske storitve enake oddaljenemu namizju

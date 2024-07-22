@@ -1,0 +1,373 @@
+version:1.1
+passage.text:Ne vemo natančno, kako so ugrabitelji dobili dostop do pilotske kabine; Pravila FAA so zahtevala, da vrata med letom ostanejo zaprta in zaklenjena. Ong je domneval, da so se &quot;zataknili&quot; noter. Morda so teroristi stežke zabodli, da bi dobili ključ pilotske kabine, prisilili enega od njih, da odpre vrata pilotske kabine ali da bi iz kabine zvabili kapitana ali prvega častnika. Ali pa so bile stevardese morda le na njihovi poti. Hkrati ali kmalu zatem bi se Atta, edini terorist na krovu, usposobljen za letenje z letalom, v kokpit preselil s sedeža v poslovnem razredu, po možnosti v spremstvu Omarija. Ko se je to dogajalo, je potnika Daniela Lewina, ki je sedel v vrsti tik za Atta in Omari, zabodel eden od ugrabiteljev - verjetno Satam al Suqami, ki je sedel neposredno za Lewinom. Lewin je bil štiri leta kot častnik v izraelski vojski. Morda je poskušal ustaviti ugrabitelje pred seboj, ne da bi se zavedal, da za njim sedi drug. Ugrabitelji so hitro prevzeli nadzor in v prvinski kabini poškropili mace, poper v spreju ali kakšno drugo dražilno sredstvo, da so potnike in stevardese prisilili proti zadnjemu delu letala. Trdili so, da imajo bombo. Približno pet minut po začetku ugrabitve je Betty Ong prek zračnega telefona AT&amp;T stopila v stik z uradom za jugovzhodne rezerve American Airlines v Caryju v Severni Karolini, da bi sporočila izredne razmere na letu. To je bila prva izmed številnih priložnosti 11. septembra, ko so stevardese ukrepale izven obsega svojega usposabljanja, ki je poudarilo, da naj bi v ugrabitvi komunicirale s posadko v pilotski kabini. Klic v sili je trajal približno 25 minut, saj je Ong mirno in profesionalno posredoval informacije o dogodkih na krovu letala oblastem na terenu. Ob 8:19 je Ong poročal: &quot;Kokpit ne odgovarja, nekdo je zaboden v poslovni razred - in mislim, da je tam Mace - da ne moremo dihati - ne vem, mislim, da nas ugrabljajo.&quot; Nato je pripovedovala o zabijanju obeh stevardes. Ob 8.21 je ena od ameriških uslužbencev, ki je prejela Ongov klic v Severni Karolini, Nydia Gonzalez, opozorila operativni center American Airlines v Fort Worthu v Teksasu in stopila do dežurnega direktorja Craiga Marquisa. Marquis je kmalu ugotovil, da gre za nujne primere, in letalskemu dispečerju, odgovornemu za let, naročil, naj stopi v stik s pilotsko kabino. Ob 8:23 je dispečer neuspešno poskušal vzpostaviti stik z letalom.
+passage.questions.9.question:Za katero državo je bil zabodeni moški del vojske?
+passage.questions.9.idx:178.0
+passage.questions.9.answers.5.text:Pakistan
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:1006.0
+passage.questions.9.answers.4.text:Izrael
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:1005.0
+passage.questions.9.answers.3.text:Indija
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1004.0
+passage.questions.9.answers.2.text:ZDA
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1003.0
+passage.questions.9.answers.1.text:Združene države
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1002.0
+passage.questions.9.answers.0.text:Iraku
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1001.0
+passage.questions.8.question:Kdo je trdil, da je na letalu bomba?
+passage.questions.8.idx:177.0
+passage.questions.8.answers.4.text:Ugrabitelji
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:1000.0
+passage.questions.8.answers.3.text:Piloti
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:999.0
+passage.questions.8.answers.2.text:Stevardesa
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:998.0
+passage.questions.8.answers.1.text:Potniki
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:997.0
+passage.questions.8.answers.0.text:Kopilot
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:996.0
+passage.questions.7.question:Za katerega ugrabitelja sumijo, da je zabodel potnika, ki je bil 4 leta kot častnik v izraelski vojski?
+passage.questions.7.idx:176.0
+passage.questions.7.answers.5.text:Omari
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:995.0
+passage.questions.7.answers.4.text:Lewis
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:994.0
+passage.questions.7.answers.3.text:Ong
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:993.0
+passage.questions.7.answers.2.text:Atta
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:992.0
+passage.questions.7.answers.1.text:Satum Al Suqami
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:991.0
+passage.questions.7.answers.0.text:Suqami
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:990.0
+passage.questions.6.question:Kdo je sedel v vrsti za dvema teroristoma?
+passage.questions.6.idx:175.0
+passage.questions.6.answers.4.text:Omari
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:989.0
+passage.questions.6.answers.3.text:Daniel Lewin
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:988.0
+passage.questions.6.answers.2.text:Ong
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:987.0
+passage.questions.6.answers.1.text:Lewin
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:986.0
+passage.questions.6.answers.0.text:Gonzalez
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:985.0
+passage.questions.5.question:Kdo je ukrepal zunaj njenega treninga?
+passage.questions.5.idx:174.0
+passage.questions.5.answers.5.text:Omari
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:984.0
+passage.questions.5.answers.4.text:Lewis
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:983.0
+passage.questions.5.answers.3.text:Ong
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:982.0
+passage.questions.5.answers.2.text:Gonzalez
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:981.0
+passage.questions.5.answers.1.text:Nydia Gonzalez
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:980.0
+passage.questions.5.answers.0.text:Betty Ong
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:979.0
+passage.questions.4.question:Kako Ong sumi, da so ugrabitelji dobili dostop do pilotske kabine?
+passage.questions.4.idx:173.0
+passage.questions.4.answers.5.text:Daj pilota pod pištolo
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:978.0
+passage.questions.4.answers.4.text:Ugrabitelji bi se morda zataknili
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:977.0
+passage.questions.4.answers.3.text:Tako da so se jim zataknili
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:976.0
+passage.questions.4.answers.2.text:Uporabili so ključ
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:975.0
+passage.questions.4.answers.1.text:Zataknili so se noter
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:974.0
+passage.questions.4.answers.0.text:Pilota so prevarali
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:973.0
+passage.questions.3.question:Kdo se je zataknil v kabino letala?
+passage.questions.3.idx:172.0
+passage.questions.3.answers.8.text:Roparji
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:972.0
+passage.questions.3.answers.7.text:Pilot in stevardese
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:971.0
+passage.questions.3.answers.6.text:Ugrabitelji
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:970.0
+passage.questions.3.answers.5.text:Teroristi
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:969.0
+passage.questions.3.answers.4.text:Potniki
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:968.0
+passage.questions.3.answers.3.text:Mimoidoči
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:967.0
+passage.questions.3.answers.2.text:Kabinska posadka
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:966.0
+passage.questions.3.answers.1.text:Letalski prevoznik deluje
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:965.0
+passage.questions.3.answers.0.text:Betty Ong
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:964.0
+passage.questions.2.question:Koliko ljudi je bilo na letu zabodenih?
+passage.questions.2.idx:171.0
+passage.questions.2.answers.6.text:3.
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:963.0
+passage.questions.2.answers.5.text:Tri
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:962.0
+passage.questions.2.answers.4.text:7.
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:961.0
+passage.questions.2.answers.3.text:Mogoče dve
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:960.0
+passage.questions.2.answers.2.text:2.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:959.0
+passage.questions.2.answers.1.text:1.
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:958.0
+passage.questions.2.answers.0.text:4.
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:957.0
+passage.questions.16.question:Kdo se je morda poskušal soočiti z odbojniki in jih ustaviti?
+passage.questions.16.idx:185.0
+passage.questions.16.answers.8.text:Nydia Gonzales
+passage.questions.16.answers.8.label:0,0
+passage.questions.16.answers.8.idx:1057.0
+passage.questions.16.answers.7.text:Markuis
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:1056.0
+passage.questions.16.answers.6.text:Daniel Lewin
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:1055.0
+passage.questions.16.answers.5.text:Daniel Lewin, potnik
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:1054.0
+passage.questions.16.answers.4.text:Nebeški maršal
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:1053.0
+passage.questions.16.answers.3.text:Lewin
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:1052.0
+passage.questions.16.answers.2.text:Markiz
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:1051.0
+passage.questions.16.answers.1.text:Betty Ong
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:1050.0
+passage.questions.16.answers.0.text:Stevardese
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:1049.0
+passage.questions.15.question:Kdo je verjetno zabodel moškega, ki je bil štiri leta v izraelski vojski?
+passage.questions.15.idx:184.0
+passage.questions.15.answers.9.text:Omari
+passage.questions.15.answers.9.label:0,0
+passage.questions.15.answers.9.idx:1048.0
+passage.questions.15.answers.8.text:Daniel Lewin
+passage.questions.15.answers.8.label:0,0
+passage.questions.15.answers.8.idx:1047.0
+passage.questions.15.answers.7.text:Satam al Suqami o ugrabiteljih
+passage.questions.15.answers.7.label:1.0
+passage.questions.15.answers.7.idx:1046.0
+passage.questions.15.answers.6.text:Satam al Suqami
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:1045.0
+passage.questions.15.answers.5.text:Atta
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:1044.0
+passage.questions.15.answers.4.text:Potnik
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:1043.0
+passage.questions.15.answers.3.text:Lewin
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:1042.0
+passage.questions.15.answers.2.text:Nydia Gonzalez
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:1041.0
+passage.questions.15.answers.1.text:Satam al Suqam
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1040.0
+passage.questions.15.answers.0.text:Nezadovoljni tekmec
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:1039.0
+passage.questions.14.question:Kdo je trdil, da imajo bombo?
+passage.questions.14.idx:183.0
+passage.questions.14.answers.7.text:Daniel Lewin
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:1038.0
+passage.questions.14.answers.6.text:Islamska vojska
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:1037.0
+passage.questions.14.answers.5.text:Posadka
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:1036.0
+passage.questions.14.answers.4.text:Potnik
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:1035.0
+passage.questions.14.answers.3.text:Ugrabitelji
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:1034.0
+passage.questions.14.answers.2.text:Ugrabitelji
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:1033.0
+passage.questions.14.answers.1.text:Highjackers / Teroristi
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:1032.0
+passage.questions.14.answers.0.text:Izraelske militante
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1031.0
+passage.questions.13.question:Koliko ugrabiteljev je bilo imenovanih?
+passage.questions.13.idx:182.0
+passage.questions.13.answers.4.text:3.
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:1030.0
+passage.questions.13.answers.3.text:Tri
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:1029.0
+passage.questions.13.answers.2.text:2.
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:1028.0
+passage.questions.13.answers.1.text:1.
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1027.0
+passage.questions.13.answers.0.text:4.
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1026.0
+passage.questions.12.question:Kateri potnik je poskušal ustaviti ugrabitelje?
+passage.questions.12.idx:181.0
+passage.questions.12.answers.5.text:Omari
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:1025.0
+passage.questions.12.answers.4.text:Daniel Lewin
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:1024.0
+passage.questions.12.answers.3.text:Ong
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:1023.0
+passage.questions.12.answers.2.text:Atta
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1022.0
+passage.questions.12.answers.1.text:Lewin
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1021.0
+passage.questions.12.answers.0.text:Gonzalez
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1020.0
+passage.questions.11.question:Kaj je Betty Ong poročala o svojem klicu v sili?
+passage.questions.11.idx:180.0
+passage.questions.11.answers.6.text:Potnik je bil bolan
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:1019.0
+passage.questions.11.answers.5.text:Da je motor nepravilno deloval
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:1018.0
+passage.questions.11.answers.4.text:Kabina ne odgovarja, nekdo je zaboden, ugrabitelji pa so nekaj poškropili
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:1017.0
+passage.questions.11.answers.3.text:Da so jih ugrabili
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:1016.0
+passage.questions.11.answers.2.text:Ugrabitelji so na let postavili bombo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:1015.0
+passage.questions.11.answers.1.text:Kabina ni odgovorila, nekdo je bil zaboden v poslovnem razredu, Mace je bil poškropljen, ugrabljen let in stevardese
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:1014.0
+passage.questions.11.answers.0.text:Da so se izgubili
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:1013.0
+passage.questions.10.question:Zakaj je bil Lewin lahko zaboden?
+passage.questions.10.idx:179.0
+passage.questions.10.answers.5.text:Poskušal je ubiti Ong
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:1012.0
+passage.questions.10.answers.4.text:Poskušal je poklicati 911
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:1011.0
+passage.questions.10.answers.3.text:Zapletel se je z ugrabitelji
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1010.0
+passage.questions.10.answers.2.text:Poskušal je ustaviti teroriste
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:1009.0
+passage.questions.10.answers.1.text:Poskušal je priti v kabino
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1008.0
+passage.questions.10.answers.0.text:Morda je poskušal ustaviti ugrabitelje
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1007.0
+passage.questions.1.question:Zakaj bi se ugrabitelji morali zatikati?
+passage.questions.1.idx:170.0
+passage.questions.1.answers.5.text:Vrata so se zataknila
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:956.0
+passage.questions.1.answers.4.text:Vrata so bila zaklenjena
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:955.0
+passage.questions.1.answers.3.text:Da ustavi policijo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:954.0
+passage.questions.1.answers.2.text:FAA je zahteval, da so vrata v pilotski kabini med letom zaprta in zaklenjena
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:953.0
+passage.questions.1.answers.1.text:Izgubili so ključ
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:952.0
+passage.questions.1.answers.0.text:Za vstop v kokpit
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:951.0
+passage.questions.0.question:Kako je bilo ime osebi, za katero je Betty Ong poročala, da je bila zabodena ob 8:19?
+passage.questions.0.idx:169
+passage.questions.0.answers.4.text:Omari
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:950.0
+passage.questions.0.answers.3.text:Atta
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:949.0
+passage.questions.0.answers.2.text:Daniel Lewis
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:948.0
+passage.questions.0.answers.1.text:Lewin
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:947
+passage.questions.0.answers.0.text:Gonzalez
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:946
+idx:15

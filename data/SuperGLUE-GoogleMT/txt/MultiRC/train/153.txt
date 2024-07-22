@@ -1,0 +1,72 @@
+version:1.1
+passage.text:Bushova administracija se je v prvih mesecih soočala s številnimi težavami, razen s terorizmom. Vključevali so propad bližnjevzhodnega mirovnega procesa in aprila krizo zaradi ameriškega &quot;vohunskega letala&quot;, zrušenega na kitajskem ozemlju. Nova uprava se je močno osredotočila tudi na Rusijo, novo jedrsko strategijo, ki je omogočala protiraketno obrambo, Evropo, Mehiko in Perzijski zaliv. Spomladi je poročanje o terorizmu dramatično naraščalo. V 8. poglavju bomo raziskali to poročanje in načine odzivanja agencij. Ta vse bolj zaskrbljujoča poročila, ki so bila predstavljena predsedniku in najvišjim uradnikom, so postala del konteksta, v katerem je nova uprava pretehtala svoje možnosti za politiko glede Al Kaide. Razen nekaj poročil, ki jih je CSG ocenil in očitno ocenil kot nezanesljive, nobeno od njih ni posebej opozorilo na morebitne ukrepe Al Kaide znotraj ZDA, čeprav je CSG še naprej zaskrbljena zaradi domače grožnje. Mozaik obveščevalnih podatkov o grožnjah je prišel iz Protiterorističnega centra, ki je zbiral le v tujini. Njegova poročila niso bila dopolnjena s poročili FBI. Clarke je izrazil zaskrbljenost zaradi prisotnosti Al Kaide v Združenih državah Amerike in zaskrbljen je zaradi napada na &quot;Hizbolaho, Hamas, Al Qido in druge teroristične organizacije&quot; na Belo hišo. Maja je predsednik Bush napovedal, da si bo podpredsednik Cheney sam prizadeval za priprave na obvladovanje morebitnega napada z orožjem za množično uničevanje in bolj splošne probleme nacionalne pripravljenosti. Naslednjih nekaj mesecev je bilo v glavnem porabljenih za organizacijo prizadevanj in pripeljanje admirala iz Šeste flote nazaj v Washington, da bi ga vodil. Operativna skupina podpredsednika je ravno začela, ko se je zgodil napad 11. septembra.
+passage.questions.2.question:Katere vrste poročanja so se povečale, ali se je CSG zdela vsa poročila zanesljiva?
+passage.questions.2.idx:1717.0
+passage.questions.2.answers.5.text:Poročanje o terorizmu je naraščalo in skupna varnostna skupina se je zdela nekaj nezanesljiva
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:8912.0
+passage.questions.2.answers.4.text:Poroča Al Kaida
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:8911.0
+passage.questions.2.answers.3.text:Da
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:8910.0
+passage.questions.2.answers.2.text:Ne
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:8909.0
+passage.questions.2.answers.1.text:Poročila Cie
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8908.0
+passage.questions.2.answers.0.text:Protiteroristični center,
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8907.0
+passage.questions.1.question:Kakšne so bile skrbi glede Al Kaide?
+passage.questions.1.idx:1716.0
+passage.questions.1.answers.5.text:Napad na Belo hišo
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:8906.0
+passage.questions.1.answers.4.text:Al kaida je hotela prevzeti svet
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8905.0
+passage.questions.1.answers.3.text:Nekatere skrbi v zvezi z Al Kaido so bili možen napad na Belo hišo in možen napad z orožjem za množično uničevanje
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:8904.0
+passage.questions.1.answers.2.text:11.
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8903.0
+passage.questions.1.answers.1.text:Zaskrbljen zaradi prisotnosti Al Kaide v ZDA in zaskrbljen je zaradi napada na &quot;Belo hišo&quot; s strani &quot;Hizbolahe, Hamasa, Al Qide in drugih terorističnih organizacij.&quot;
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8902.0
+passage.questions.1.answers.0.text:Še 9
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8901.0
+passage.questions.0.question:S katerimi drugimi državami je Busheva administracija imela opravka, razen z Al Kaido?
+passage.questions.0.idx:1715
+passage.questions.0.answers.8.text:Nemčija
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:8900.0
+passage.questions.0.answers.7.text:Bližnji vzhod, Kitajska, Rusija
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:8899.0
+passage.questions.0.answers.6.text:perzijski zaliv
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:8898.0
+passage.questions.0.answers.5.text:Avstralija
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:8897.0
+passage.questions.0.answers.4.text:Rusija, Evropa, Mehika, Perzijski zaliv
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:8896.0
+passage.questions.0.answers.3.text:Evropi
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:8895.0
+passage.questions.0.answers.2.text:Mehika
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:8894.0
+passage.questions.0.answers.1.text:Rusija
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8893
+passage.questions.0.answers.0.text:Britanija
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8892
+idx:153

@@ -1,0 +1,93 @@
+version:1.1
+passage.text:Hannah Harvey je bila desetletnica in je imela v šoli veliko prijateljev. Živela je v New Yorku in uživala v gimnastiki in igranju nogometa. Nekega dne se je Hannah vrnila iz šole in starši so jo pozdravili. Vedela je, da je nekaj drugače po izrazih njihovih obrazov. Tudi Jackson, Hannahin pes, se je obnašal drugače. Hannah je vprašala, zakaj so vsi tako čudni. Hannahin oče, ki so ga poznali kot Pop, ji je razložil, da ga služba sili k selitvi. Zdi se, da se Hannah to ni zdelo preveliko. Nato je Hannahina mati razložila, da se selijo v Kenijo. Pojasnila je, da je Kenija kraj v Afriki in tam bi bilo življenje zelo drugačno. Ko je Hannah začela jokati, ko je razmišljala o vseh svojih prijateljih doma, jo je Hannahina mati umirila z nežnim dotikom. Jackson je začel tuliti, ko je Hannah jokala, vendar jo je umrla tudi mama Hannah. Hannah je naslednja dva tedna obiskala svoje prijatelje in se poslovila. Ni vedela, kdaj bo naslednjič doma. Zelo je jokala, ko se je poslovila od svoje najboljše prijateljice Susan. Susan ni povsem razumela, kje je Kenija, vendar je obljubila, da bo obiskala Hannah. Naslednji dan se je Hannah z družino vkrcala na letalo. Sprva so mislili, da Jackson ne more z njimi. Vendar je Hannah trdo delala in pomagala, da je imel vse posnetke, da je lahko prišel. Ko jih je vse dobil, so na letališču rekli, da je Jackson v redu! Družina Harvey je odšla in odšla čez ocean, da bi začela novo življenje v Keniji.
+passage.questions.5.question:Zakaj je Hannah jokala zaradi svojih prijateljev doma?
+passage.questions.5.idx:735.0
+passage.questions.5.answers.3.text:Sovražila jih je
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3828.0
+passage.questions.5.answers.2.text:Smejali so se ji
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3827.0
+passage.questions.5.answers.1.text:Morala se je posloviti
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3826.0
+passage.questions.5.answers.0.text:Ker se je preselila v Kenijo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3825.0
+passage.questions.4.question:Če je Susan Hannahina najboljša prijateljica, zakaj bi jo morala obiskati?
+passage.questions.4.idx:734.0
+passage.questions.4.answers.4.text:Hannah bi bila v Keniji
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:3824.0
+passage.questions.4.answers.3.text:Susan je bila na počitnicah
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3823.0
+passage.questions.4.answers.2.text:Susan se je premaknila
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3822.0
+passage.questions.4.answers.1.text:Hannah se je premikala
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3821.0
+passage.questions.4.answers.0.text:Hannah se odseli v Kenijo
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3820.0
+passage.questions.3.question:Koliko je stara Hannah, ko izve, da se iz New Yorka seli v Kenijo?
+passage.questions.3.idx:733.0
+passage.questions.3.answers.3.text:Hannah ima 10 let
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3819.0
+passage.questions.3.answers.2.text:Enajst
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3818.0
+passage.questions.3.answers.1.text:Trinajst
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3817.0
+passage.questions.3.answers.0.text:Deset
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3816.0
+passage.questions.2.question:Zakaj družinski pes Jackson strelja?
+passage.questions.2.idx:732.0
+passage.questions.2.answers.3.text:Tako bi lahko šel v Kenijo
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3815.0
+passage.questions.2.answers.2.text:Tako je povedala policija
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3814.0
+passage.questions.2.answers.1.text:Bil je bolan
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:3813.0
+passage.questions.2.answers.0.text:Tako lahko gre z družino v Kenijo
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:3812.0
+passage.questions.1.question:Kako je Jackson lahko prišel z družino v Kenijo
+passage.questions.1.idx:731.0
+passage.questions.1.answers.4.text:Imel je vse posnetke
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:3811.0
+passage.questions.1.answers.3.text:S svojimi streli
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3810.0
+passage.questions.1.answers.2.text:Zahtevali so
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3809.0
+passage.questions.1.answers.1.text:Prikradel se je na letalu
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3808.0
+passage.questions.1.answers.0.text:Hannah je poskrbela, da je posnel njegove strele
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:3807.0
+passage.questions.0.question:Koliko let je imela Hannah, ko se je preselila v Kenijo?
+passage.questions.0.idx:730
+passage.questions.0.answers.3.text:10.
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3806.0
+passage.questions.0.answers.2.text:Enajst
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3805.0
+passage.questions.0.answers.1.text:Dvanajst
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3804
+passage.questions.0.answers.0.text:Deset
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3803
+idx:61

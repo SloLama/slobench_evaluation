@@ -1,0 +1,392 @@
+version:1.1
+passage.text:Širitev pa je hitro dosegla vrhunec in evropske sile, ki so oblikovale Novi svet, so se lotile preizkušanja v dinastičnih spopadih in kolonialnem rivalstvu. Angleži so bili glavni tekmeci Nizozemcev na odprtem morju, med njima pa je bilo v 17. in 18. stoletju več vojn. V letih 1665–1667 so Nizozemci pluli po reki Medway in potopili tam privezano britansko floto. V 18. stoletju je Amsterdam zrasel v najpomembnejše finančno središče na svetu, vendar so bila semena propada že posajena. Ko so se angleški koloniji v Novi Angliji uprli Britancem, so našli nizozemske pripravljene Ailije. Iz svojih karibskih kolonij so poslali zaloge orožja in streliva. Britanci so bili besni in so šli v vojno leta 1780, uničil nizozemsko mornarico in nakazal nenaden upad moči in vpliva, od katerega si Nizozemska nikoli ni opomogla. Trgovina je trpela do te mere, da je HOS leta 1791 šel v likvidacijo. V zadnji polovici stoletja so v državi potekale protitranške demonstracije profrancoskih frakcij, leta 1795 pa je Napoleon Bonaparte na svojem epskem pohodu po Evropi zapeljal Nizozemsko. Pod jarmom druge tuje sile in z ves čas trgovanja je bila zlata doba resnično mrtva. Vrnitev Oranžne hiše Napoleon je svojega brata Louisa postavil za holandskega kralja in odločil se je za svojo palačo - zdaj palačo Koninklijk - vzeti lepo mestno hišo na trgu Dam. Toda šele štiri leta pozneje je pobegnil iz mesta po izbruhu civilnih nemirov, ko je zvišal davke. Ko je Napoleonov mehurček počil in je francoska moč začela popuščati, je Viljem Oranski izstopil in bil razglašen za kralja leta 1813. Amsterdam se je moral potruditi iz gospodarskega nazadovanja, vendar je mesto v 19. stoletju nenehno raslo. Industrializacija je spremenila mesto. Amsterdam je z gradnjo glavne postaje konec stoletja obrnil hrbet pomorski preteklosti in pogledal v mehansko dobo prihodnosti. Postaja je bila zgrajena nad starim pristaniškim obzidjem, nekateri najstarejši kanali v središču mesta pa so bili zasipani, da so omogočili boljši dostop do motornih vozil. Dam Square je bil prvič v svoji zgodovini brez izhoda na morje.
+passage.questions.9.question:Kdo so bili kralji Nizozemske po revoluciji?
+passage.questions.9.idx:1230.0
+passage.questions.9.answers.7.text:Napoleon je za njim postavil brata in izgnanega Williama Oranskega
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:6283.0
+passage.questions.9.answers.6.text:Viljem Oranski in Napoleonov brat Ludvik
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:6282.0
+passage.questions.9.answers.5.text:Viljem Oranski in Napoleon Bonaparte
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:6281.0
+passage.questions.9.answers.4.text:Napoleonov brat Louis in William of Orange
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:6280.0
+passage.questions.9.answers.3.text:Napoleon Bonaparte
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:6279.0
+passage.questions.9.answers.2.text:Napoleon Bonaparte in Louis
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:6278.0
+passage.questions.9.answers.1.text:Kralj Louis in William of Orange
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:6277.0
+passage.questions.9.answers.0.text:Angleški kralj
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:6276.0
+passage.questions.8.question:Zakaj so se Britanci leta 1780 vojskovali z Nizozemsko?
+passage.questions.8.idx:1229.0
+passage.questions.8.answers.4.text:Ker so ugotovili, da Nizozemci oskrbujejo britanske kolonije s strelivom
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:6275.0
+passage.questions.8.answers.3.text:Nizozemski tekmeci
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:6274.0
+passage.questions.8.answers.2.text:Ker je trpela trgovina
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:6273.0
+passage.questions.8.answers.1.text:Ker so postali Ailies za Angleže in poslali orožje Angležem
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:6272.0
+passage.questions.8.answers.0.text:Oskrba kolonije s strelivom
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:6271.0
+passage.questions.7.question:Kdo je bil prisiljen pobegniti, ko je zvišal davke in izbruhnili civilni nemiri?
+passage.questions.7.idx:1228.0
+passage.questions.7.answers.5.text:Napoleanov brat Louis
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:6270.0
+passage.questions.7.answers.4.text:Francozi
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:6269.0
+passage.questions.7.answers.3.text:Hiša pomaranče
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:6268.0
+passage.questions.7.answers.2.text:Napoleon
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:6267.0
+passage.questions.7.answers.1.text:Louis
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:6266.0
+passage.questions.7.answers.0.text:Britanci
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:6265.0
+passage.questions.6.question:Konec katerega stoletja se je zgodila stavba glavne postaje?
+passage.questions.6.idx:1227.0
+passage.questions.6.answers.3.text:Industrializacija
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:6264.0
+passage.questions.6.answers.2.text:19. stoletje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:6263.0
+passage.questions.6.answers.1.text:18
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:6262.0
+passage.questions.6.answers.0.text:19.
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:6261.0
+passage.questions.5.question:Koliko let je minilo med tem, ko je VOC prešel v likvidacijo in ko je bil Viljem Oranski razglašen za kralja?
+passage.questions.5.idx:1226.0
+passage.questions.5.answers.3.text:22.
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:6260.0
+passage.questions.5.answers.2.text:Počil je mehurček
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:6259.0
+passage.questions.5.answers.1.text:22 let
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:6258.0
+passage.questions.5.answers.0.text:20.
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:6257.0
+passage.questions.4.question:Zakaj je trgovina leta 1791 tako močno trpela?
+passage.questions.4.idx:1225.0
+passage.questions.4.answers.4.text:Zaradi vojne med Britanijo in Nizozemsko
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:6256.0
+passage.questions.4.answers.3.text:Nizozemska mornarica uničena
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:6255.0
+passage.questions.4.answers.2.text:Ker je HOS odšel v likvidacijo
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:6254.0
+passage.questions.4.answers.1.text:Zaradi vojne s kolonijami
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:6253.0
+passage.questions.4.answers.0.text:Britanski vpliv
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:6252.0
+passage.questions.3.question:Kaj je povzročilo, da je trg Dam prvič v svoji zgodovini postal brez morja?
+passage.questions.3.idx:1224.0
+passage.questions.3.answers.5.text:Vlada
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:6251.0
+passage.questions.3.answers.4.text:Po izgradnji glavne postaje nad starim pristaniščem
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:6250.0
+passage.questions.3.answers.3.text:Kanali v središču mesta so bili zasipani
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:6249.0
+passage.questions.3.answers.2.text:Postaja je bila zgrajena nad starim pristaniškim obzidjem, nekateri najstarejši kanali v središču mesta pa so bili zasuti, da so omogočili boljši dostop do motornih vozil
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:6248.0
+passage.questions.3.answers.1.text:Zaradi gospodarskega upada Amsterdama
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6247.0
+passage.questions.3.answers.0.text:Ko je bil Louis postavljen za kralja in je Mestno hišo na trgu Dam vzel za svojo palačo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:6246.0
+passage.questions.21.question:Kolikokrat so se Angleži in Nizozemci borili med seboj?
+passage.questions.21.idx:1242.0
+passage.questions.21.answers.6.text:Nikoli se nista vojskovala odkrito
+passage.questions.21.answers.6.label:0,0
+passage.questions.21.answers.6.idx:6349.0
+passage.questions.21.answers.5.text:2.
+passage.questions.21.answers.5.label:1.0
+passage.questions.21.answers.5.idx:6348.0
+passage.questions.21.answers.4.text:V 19. stoletju so se borili za vojno
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:6347.0
+passage.questions.21.answers.3.text:1.
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:6346.0
+passage.questions.21.answers.2.text:6.
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:6345.0
+passage.questions.21.answers.1.text:V 17. in 18. stoletju so se večkrat borili
+passage.questions.21.answers.1.label:1.0
+passage.questions.21.answers.1.idx:6344.0
+passage.questions.21.answers.0.text:4.
+passage.questions.21.answers.0.label:0,0
+passage.questions.21.answers.0.idx:6343.0
+passage.questions.20.question:S katerimi državami je imela Nizozemska težave?
+passage.questions.20.idx:1241.0
+passage.questions.20.answers.5.text:Anglija, Francija in Portugalska
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:6342.0
+passage.questions.20.answers.4.text:Anglija in Francija
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:6341.0
+passage.questions.20.answers.3.text:Anglija in Francija od 17. do 19. stoletja
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:6340.0
+passage.questions.20.answers.2.text:Španija in Anglija
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:6339.0
+passage.questions.20.answers.1.text:Angliji in ZDA
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:6338.0
+passage.questions.20.answers.0.text:Francija in Nemčija
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:6337.0
+passage.questions.2.question:Je Amsterdam zrasel v najpomembnejše finančno središče na svetu, preden so Nizozemci zapluli po reki Medway in potopili britansko floto?
+passage.questions.2.idx:1223.0
+passage.questions.2.answers.1.text:Po
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:6245.0
+passage.questions.2.answers.0.text:Prej
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6244.0
+passage.questions.19.question:&quot;Zlata doba&quot; je veljala za mrtvo, potem ko je kdo prevzel nadzor nad Nizozemsko?
+passage.questions.19.idx:1240.0
+passage.questions.19.answers.4.text:Napolean
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:6336.0
+passage.questions.19.answers.3.text:Bonaparte
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:6335.0
+passage.questions.19.answers.2.text:Tuja moč
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:6334.0
+passage.questions.19.answers.1.text:Holandski kralj
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:6333.0
+passage.questions.19.answers.0.text:Napoleon Bonaparte
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:6332.0
+passage.questions.18.question:Nizozemska je bila odvisna od njihove gospodarske stabilnosti in dobička?
+passage.questions.18.idx:1239.0
+passage.questions.18.answers.7.text:Vojaška moč
+passage.questions.18.answers.7.label:0,0
+passage.questions.18.answers.7.idx:6331.0
+passage.questions.18.answers.6.text:Njeno kmetijstvo in surovine
+passage.questions.18.answers.6.label:0,0
+passage.questions.18.answers.6.idx:6330.0
+passage.questions.18.answers.5.text:Trgovina in industrializacija
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:6329.0
+passage.questions.18.answers.4.text:Njene vojaške pogodbe z evropskimi silami
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:6328.0
+passage.questions.18.answers.3.text:Morska trgovina, finančna dejavnost in industrializacija so začeli 19. stoletje
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:6327.0
+passage.questions.18.answers.2.text:Davki
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:6326.0
+passage.questions.18.answers.1.text:Trgovina
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:6325.0
+passage.questions.18.answers.0.text:Pomorstvo v preteklosti in mehanična doba od 19. stoletja
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:6324.0
+passage.questions.17.question:Kolikokrat so bile ladje uničene med večkratnimi konflikti med Anglijo in Nizozemci?
+passage.questions.17.idx:1238.0
+passage.questions.17.answers.7.text:Nizozemci so potopili britansko floto v 17. stoletju, Britanci pa v 18. stoletju nizozemsko mornarico
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:6323.0
+passage.questions.17.answers.6.text:2.
+passage.questions.17.answers.6.label:1.0
+passage.questions.17.answers.6.idx:6322.0
+passage.questions.17.answers.5.text:6.
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:6321.0
+passage.questions.17.answers.4.text:V britansko-nizozemskih vojnah ladij ni potonilo
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:6320.0
+passage.questions.17.answers.3.text:Dvakrat med 17. in 18. stoletjem
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:6319.0
+passage.questions.17.answers.2.text:Trikrat v 19. stoletju
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:6318.0
+passage.questions.17.answers.1.text:4.
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:6317.0
+passage.questions.17.answers.0.text:8.
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:6316.0
+passage.questions.16.question:Katero tujo moč je prevzelo ob smrti zlate dobe Nizozemske?
+passage.questions.16.idx:1237.0
+passage.questions.16.answers.2.text:Britanski
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:6315.0
+passage.questions.16.answers.1.text:Napoleon Bonaparte
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:6314.0
+passage.questions.16.answers.0.text:Francosko
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:6313.0
+passage.questions.15.question:Zakaj Nizozemci niso več močna sila v svetu trgovine?
+passage.questions.15.idx:1236.0
+passage.questions.15.answers.7.text:Zaradi gospodarske krize
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:6312.0
+passage.questions.15.answers.6.text:Ker sta jih premagali angleška flota in Napoleonova vojska
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:6311.0
+passage.questions.15.answers.5.text:Ker so se osredotočili na industrializacijo in morja opustili
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:6310.0
+passage.questions.15.answers.4.text:Nizozemcem so bile uvedene trgovinske carine
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:6309.0
+passage.questions.15.answers.3.text:Britanci so neizterljivo uničili njihove ladje in pristanišča
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:6308.0
+passage.questions.15.answers.2.text:Britanci so uničili nizozemsko mornarico
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:6307.0
+passage.questions.15.answers.1.text:Odkrita je bila hitrejša trgovska pot
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:6306.0
+passage.questions.15.answers.0.text:Ker so začeli propadati kot rezultat dinastičnih in kolonialnih vojn proti drugim evropskim silam
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:6305.0
+passage.questions.14.question:Kdo je angleškim kolonijam poslal zaloge orožja in streliva?
+passage.questions.14.idx:1235.0
+passage.questions.14.answers.3.text:Nizozemski s Karibov
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:6304.0
+passage.questions.14.answers.2.text:Francosko
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:6303.0
+passage.questions.14.answers.1.text:Tuje sile
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:6302.0
+passage.questions.14.answers.0.text:Nizozemci
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:6301.0
+passage.questions.13.question:Napoleon je leta 1795 vzel Nizozemsko, kje je vzel svojo palačo?
+passage.questions.13.idx:1234.0
+passage.questions.13.answers.3.text:Osrednji trg
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:6300.0
+passage.questions.13.answers.2.text:Na bregu reke Medway
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:6299.0
+passage.questions.13.answers.1.text:Oranžna hiša
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:6298.0
+passage.questions.13.answers.0.text:Mestna hiša na trgu Dam
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:6297.0
+passage.questions.12.question:Zakaj je Britanija leta 1780 stopila v vojno z Nizozemsko?
+passage.questions.12.idx:1233.0
+passage.questions.12.answers.4.text:Več nadzora
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:6296.0
+passage.questions.12.answers.3.text:Ker je bila zlata doba mrtva
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:6295.0
+passage.questions.12.answers.2.text:Nizozemci so angleškim kolonijam pošiljali zaloge orožja in streliva
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:6294.0
+passage.questions.12.answers.1.text:Vpliv na britanske kolonije
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:6293.0
+passage.questions.12.answers.0.text:Ker so bili razburjeni, ker so Nizozemci oskrbovali britanske kolonije s strelivom
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:6292.0
+passage.questions.11.question:Katero leto je pomenilo, da je nizozemska &quot;zlata doba resnično mrtva?&quot;
+passage.questions.11.idx:1232.0
+passage.questions.11.answers.3.text:Po
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:6291.0
+passage.questions.11.answers.2.text:Demonstracije proti oranžni
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:6290.0
+passage.questions.11.answers.1.text:1795
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:6289.0
+passage.questions.11.answers.0.text:1791
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:6288.0
+passage.questions.10.question:Koliko let je minilo med tem, ko so Britanci besno stopili v vojno in uničili nizozemsko mornarico, in ko je VOC odšel v likvidacijo?
+passage.questions.10.idx:1231.0
+passage.questions.10.answers.3.text:10.
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:6287.0
+passage.questions.10.answers.2.text:11.
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:6286.0
+passage.questions.10.answers.1.text:11 let
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:6285.0
+passage.questions.10.answers.0.text:1791
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:6284.0
+passage.questions.1.question:Kdo je v 17. stoletju iz njihovih kolonij na Karibih poslal orožje in strelivo v boj z Britanci?
+passage.questions.1.idx:1222.0
+passage.questions.1.answers.3.text:Nizozemska mornarica
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:6243.0
+passage.questions.1.answers.2.text:Francosko
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:6242.0
+passage.questions.1.answers.1.text:Britanske kolonije
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:6241.0
+passage.questions.1.answers.0.text:Nizozemci
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:6240.0
+passage.questions.0.question:V 17. in 18. stoletju so bili Angleži in Nizozemci glavni tekmeci na odprtem morju, s kom so se borili, zaradi česar so postali Ailies?
+passage.questions.0.idx:1221
+passage.questions.0.answers.4.text:Francosko
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:6239.0
+passage.questions.0.answers.3.text:Francozi
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:6238.0
+passage.questions.0.answers.2.text:Palača Koninklijk
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:6237.0
+passage.questions.0.answers.1.text:Britanske kolonije
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:6236
+passage.questions.0.answers.0.text:Britanci
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:6235
+idx:104

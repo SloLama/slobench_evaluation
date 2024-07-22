@@ -1,0 +1,4 @@
+idx:3204
+label:True
+passage:Najzgodnejše načrtovanje prvega roka - Najzgodnejši zadnji rok (EDF) ali najmanj časa do konca je algoritem dinamičnega razporejanja, ki se uporablja v operacijskih sistemih v realnem času za umestitev procesov v prednostno čakalno vrsto. Kadar koli se zgodi dogodek razporejanja (naloga se konča, sprosti nova naloga itd.), Se v vrsti poišče postopek, ki je najbližji svojemu roku. Ta postopek je naslednji, ki je predviden za izvedbo.
+question:je edf res dinamični algoritem za razporejanje prioritet

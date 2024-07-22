@@ -5,9 +5,10 @@ import os
 
 from prompt_creation import *
 
-HT_DATA_DIR = "/ceph/hpc/data/st2311-ponj-users/slobench/SuperGLUE-HumanT/csv"
-MT_DATA_DIR = "/ceph/hpc/data/st2311-ponj-users/slobench/SuperGLUE-GoogleMT/csv"
-NLI_DATA_DIR = "/ceph/hpc/data/st2311-ponj-users/slobench/SI-NLI"
+DATA_DIR = "../data"
+HT_DATA_DIR = os.path.join(DATA_DIR, "SuperGLUE-HumanT", "csv")
+MT_DATA_DIR = os.path.join(DATA_DIR, "SuperGLUE-GoogleMT", "csv")
+NLI_DATA_DIR = os.path.join(DATA_DIR, "SI-NLI")
 
 
 class SloBenchDataLoader:

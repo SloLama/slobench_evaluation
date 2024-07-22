@@ -1,0 +1,4 @@
+hypothesis:Mike Tyson je leta 1964 ugriznil Holyfielda za uho.
+idx:48
+label:not_entailment
+premise:Boksarski sodnik je postal leta 1964, najbolj znan pa je bil po svoji odločitvi proti Mikeu Tysonu med bojem Holyfielda, ko je Tyson ugriznil Holyfielda za uho.

@@ -1,0 +1,345 @@
+version:1.1
+passage.text:Rastline zaznavajo tudi dnevni cikel svetlobe in teme. Ali veste, kako se rastline odzivajo na te spremembe? Nekatere rastline čez dan odprejo liste. V teh urah lahko rastlina zbira sončno svetlobo. Ponoči rastlina zapre liste, da prepreči izgubo vode. Številne rastline se odzovejo na spremembo dolžine dneva. Ko se dnevi krajšajo, se nekatere rastline odzovejo tako, da mirujejo. Mirovanje je, ko rastlina ustavi svojo rast. To počne, da bi preživel. Krajši dnevi označujejo prihod zime. Zima na večini območij pomeni izredno mraz. V zimskih mesecih je tudi zelo suho. Ko se približuje zima, se nekatere rastline odzovejo s spreminjanjem barve listov. Po spremembi barve odpadejo. To obdobje mirovanja pomaga drevesom. Omogoča jim preživetje hladne in suhe zime. Rastline želijo rasti le, ko so razmere prave.
+passage.questions.9.question:Zakaj lahko rastlina čez dan odpre liste?
+passage.questions.9.idx:4454.0
+passage.questions.9.answers.3.text:Za zbiranje sončne svetlobe
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:23525.0
+passage.questions.9.answers.2.text:Ujeti dežne kaplje
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:23524.0
+passage.questions.9.answers.1.text:Tako lahko spremenijo barvo
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:23523.0
+passage.questions.9.answers.0.text:Tako da lahko zbere več svetlobe
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:23522.0
+passage.questions.8.question:Zakaj nekatere rastline pozimi mirujejo?
+passage.questions.8.idx:4453.0
+passage.questions.8.answers.4.text:Da preživijo izredno hladne in suhe razmere
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:23521.0
+passage.questions.8.answers.3.text:Da preživijo zelo mokre zimske razmere
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:23520.0
+passage.questions.8.answers.2.text:Ker umira
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:23519.0
+passage.questions.8.answers.1.text:Omogoča jim preživetje hladne in suhe zime
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:23518.0
+passage.questions.8.answers.0.text:Tako da lahko preživi zimo
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:23517.0
+passage.questions.7.question:Na kakšna dva načina lahko sumimo, da je drevo mirulo?
+passage.questions.7.idx:4452.0
+passage.questions.7.answers.4.text:Listi so spremenili barvo in ustavijo svojo rast
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:23516.0
+passage.questions.7.answers.3.text:Hitreje raste in obrodi
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:23515.0
+passage.questions.7.answers.2.text:Njeni listi so spremenili barvo in odmre
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:23514.0
+passage.questions.7.answers.1.text:Listi dreves so morda spremenili barvo ali pa so listi odpadli
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23513.0
+passage.questions.7.answers.0.text:Njegova rast se je ustavila in listi so odpadli
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:23512.0
+passage.questions.6.question:Ali nekaterim rastlinam v zimskih mesecih odpade list?
+passage.questions.6.idx:4451.0
+passage.questions.6.answers.3.text:Nekatere rastline in drevesa v zimskih mesecih izgubijo liste
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:23511.0
+passage.questions.6.answers.2.text:Da
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23510.0
+passage.questions.6.answers.1.text:Vse rastline pozimi izgubijo liste
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:23509.0
+passage.questions.6.answers.0.text:Ne, odpadejo šele jeseni
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:23508.0
+passage.questions.5.question:Zakaj rastline ponoči zaprejo liste?
+passage.questions.5.idx:4450.0
+passage.questions.5.answers.3.text:Tako se ne izsušijo
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:23507.0
+passage.questions.5.answers.2.text:Da bi preprečili izgubo vode
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:23506.0
+passage.questions.5.answers.1.text:Ker sonca ni
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:23505.0
+passage.questions.5.answers.0.text:Tako ne umrejo v nočnem hladu
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:23504.0
+passage.questions.4.question:Kaj se zgodi s hitrostjo rasti pri nekaterih rastlinah, ko dnevi postanejo krajši?
+passage.questions.4.idx:4449.0
+passage.questions.4.answers.4.text:Stopnja rasti ostaja enaka kot pri daljših dneh
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:23503.0
+passage.questions.4.answers.3.text:Rastline ustavijo stopnjo rasti
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:23502.0
+passage.questions.4.answers.2.text:Mirovala bo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:23501.0
+passage.questions.4.answers.1.text:Pri nekaterih rastlinah se bo stopnja rasti upočasnila ali ustavila
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:23500.0
+passage.questions.4.answers.0.text:Rastlina lahko hitro zraste, preden začne zima
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:23499.0
+passage.questions.3.question:Kaj se zgodi z rastlinami, ko se približa zima?
+passage.questions.3.idx:4448.0
+passage.questions.3.answers.4.text:Rastline rastejo čim hitreje, da preživijo zimo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:23498.0
+passage.questions.3.answers.3.text:Rastline zaprejo liste, da preprečijo izgubo vode
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:23497.0
+passage.questions.3.answers.2.text:Listi nekaterih rastlin spremenijo barvo in nato odpadejo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:23496.0
+passage.questions.3.answers.1.text:Nekatere rastline mirujejo
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:23495.0
+passage.questions.3.answers.0.text:Ko se zima približuje, listi odpadejo in vstopijo v stanje mirovanja, ki jim omogoča preživeti hladne suhe zime
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:23494.0
+passage.questions.20.question:Zakaj je mirovanje koristno za rastline?
+passage.questions.20.idx:4465.0
+passage.questions.20.answers.4.text:Omogoča jim preživetje zime
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:23579.0
+passage.questions.20.answers.3.text:Omogoča jim preživetje hladne in suhe zime
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:23578.0
+passage.questions.20.answers.2.text:Omogoča jim rast le, kadar so razmere prave
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:23577.0
+passage.questions.20.answers.1.text:Mirovanje omogoča rastlinam, da zberejo več sončne svetlobe
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:23576.0
+passage.questions.20.answers.0.text:Mirovanje omogoča rastlinam, da rastejo v hladnem in suhem vremenu
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:23575.0
+passage.questions.2.question:Kaj pa je zimo, zaradi katere rastline težko preživijo?
+passage.questions.2.idx:4447.0
+passage.questions.2.answers.4.text:Zime so lahko zelo hladne in deževne
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:23493.0
+passage.questions.2.answers.3.text:Zime so lahko zelo hladne in suhe
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:23492.0
+passage.questions.2.answers.2.text:Pozimi so dnevi krajši, zelo je mraz in je tudi zelo suho
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:23491.0
+passage.questions.2.answers.1.text:Na večini območij zima ubije rastline in drevesa
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:23490.0
+passage.questions.2.answers.0.text:Zima na večini območij pomeni izjemno hladne in suhe razmere
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:23489.0
+passage.questions.19.question:Kaj se zgodi z rastlino v mirujočem stanju, da bi preživela?
+passage.questions.19.idx:4464.0
+passage.questions.19.answers.4.text:Rastlina bo umrla
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:23574.0
+passage.questions.19.answers.3.text:Njeni listi lahko spremenijo barvo in odpadejo, rast pa se lahko ustavi
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:23573.0
+passage.questions.19.answers.2.text:Rastlina zadrži rast
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:23572.0
+passage.questions.19.answers.1.text:Njeni listi rastejo hitreje, vendar rastlina neha rasti višje
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:23571.0
+passage.questions.19.answers.0.text:Neha rasti
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:23570.0
+passage.questions.18.question:Katere dve stvari se zgodijo z listi rastlin, ko se bliža zima?
+passage.questions.18.idx:4463.0
+passage.questions.18.answers.4.text:Listi rastlin postanejo vijoličasti in se posušijo
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:23569.0
+passage.questions.18.answers.3.text:Listi rastlin lahko po spremembi barve odpadejo
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:23568.0
+passage.questions.18.answers.2.text:Listi spremenijo barvo in nato odpadejo z rastline
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:23567.0
+passage.questions.18.answers.1.text:Rastlina lahko vzgoji več listov za pripravo na zimo
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:23566.0
+passage.questions.18.answers.0.text:Lahko spremenijo barvo in odpadejo
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:23565.0
+passage.questions.17.question:Ali je za preživetje rastlin potrebna ustavljena rast?
+passage.questions.17.idx:4462.0
+passage.questions.17.answers.4.text:Da, če bodo preživeli jesen
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:23564.0
+passage.questions.17.answers.3.text:Je za nekatere rastline
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:23563.0
+passage.questions.17.answers.2.text:Da
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:23562.0
+passage.questions.17.answers.1.text:Da, vse rastline in drevesa ustavijo svojo rast
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:23561.0
+passage.questions.17.answers.0.text:Nekatere rastline mirujejo, da bi preživele
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:23560.0
+passage.questions.16.question:Kako se odzivajo rastline, ko se spreminja dolžina dneva?
+passage.questions.16.idx:4461.0
+passage.questions.16.answers.4.text:Rastline lahko mirujejo
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:23559.0
+passage.questions.16.answers.3.text:Nekatere rastline se odzovejo tako, da mirujejo
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:23558.0
+passage.questions.16.answers.2.text:Nekatere rastline odmrejo
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:23557.0
+passage.questions.16.answers.1.text:Nekatere rastline ustavijo rast
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:23556.0
+passage.questions.16.answers.0.text:Sploh se ne odzovejo
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:23555.0
+passage.questions.15.question:Kakšna sta dva načina, kako se lahko nekatere rastline odzovejo na dnevne cikle?
+passage.questions.15.idx:4460.0
+passage.questions.15.answers.4.text:Nekatere rastline čez dan odprejo liste. Ponoči rastlina zapre liste
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:23554.0
+passage.questions.15.answers.3.text:Tako, da jim čez dan odprejo liste in jih ponoči zaprejo
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:23553.0
+passage.questions.15.answers.2.text:Rastlina lahko spremeni barvo listov in ustavi lastno rast
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:23552.0
+passage.questions.15.answers.1.text:Rastlina lahko ponoči odpre liste, da zbira mesečino in jih čez dan zapre, da prepreči izgubo vlage
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:23551.0
+passage.questions.15.answers.0.text:Rastlina lahko odpre liste, da čez dan zbira sončno svetlobo in jih ponoči zapre, da prepreči izgubo vode
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:23550.0
+passage.questions.14.question:Kdaj in zakaj rastline mirujejo?
+passage.questions.14.idx:4459.0
+passage.questions.14.answers.4.text:Ko se bliža poletje, da prihranimo energijo za nove liste
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:23549.0
+passage.questions.14.answers.3.text:Poleti, da preprečite ekstremne izgube vode
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:23548.0
+passage.questions.14.answers.2.text:To počnejo, ko se dnevi krajšajo, da bi preživeli
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:23547.0
+passage.questions.14.answers.1.text:Ko se dnevi krajšajo, jih hladna in suha zima ne ubije
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:23546.0
+passage.questions.14.answers.0.text:Ko se bliža zima, za preživetje ekstremnih hladnih in suhih zim
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:23545.0
+passage.questions.13.question:Kakšni so pravi pogoji za rast rastlin?
+passage.questions.13.idx:4458.0
+passage.questions.13.answers.4.text:Zelo suhe in vroče razmere
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:23544.0
+passage.questions.13.answers.3.text:Topli in vlažni pogoji
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:23543.0
+passage.questions.13.answers.2.text:Tam morata biti sončna svetloba in voda
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:23542.0
+passage.questions.13.answers.1.text:Dolgi dnevi, dovolj vlage in toplejša temperatura
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:23541.0
+passage.questions.13.answers.0.text:Nekoliko hladno in suho
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:23540.0
+passage.questions.12.question:Zakaj rastline čez dan odpirajo liste?
+passage.questions.12.idx:4457.0
+passage.questions.12.answers.4.text:Tako lahko dobijo čim več sončne svetlobe
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:23539.0
+passage.questions.12.answers.3.text:Za zbiranje vode
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:23538.0
+passage.questions.12.answers.2.text:Zaznajo dnevno svetlobo in odprejo listje, da nabirajo sončno svetlobo
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:23537.0
+passage.questions.12.answers.1.text:Tako se lahko posušijo
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:23536.0
+passage.questions.12.answers.0.text:Zbrati več sončne svetlobe
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:23535.0
+passage.questions.11.question:Kaj se zgodi z listi rastlin, potem ko spremenijo barvo, ko se bliža zima?
+passage.questions.11.idx:4456.0
+passage.questions.11.answers.3.text:Odpadejo
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:23534.0
+passage.questions.11.answers.2.text:Spet začnejo rasti
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:23533.0
+passage.questions.11.answers.1.text:Listi spet postanejo zeleni
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:23532.0
+passage.questions.11.answers.0.text:Listi lahko odpadejo, da lahko preživijo hladno in suho zimo
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:23531.0
+passage.questions.10.question:Kako se rastline odzivajo na spremembe svetlobnih razmer podnevi in ponoči?
+passage.questions.10.idx:4455.0
+passage.questions.10.answers.4.text:Njihovi listi podnevi spremenijo barvo, ponoči pa spet postanejo zeleni
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:23530.0
+passage.questions.10.answers.3.text:Odprite liste podnevi in jih zaprite ponoči
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:23529.0
+passage.questions.10.answers.2.text:Rastline podnevi odpirajo liste, da zbirajo sončno svetlobo, ponoči pa jih zapirajo, da preprečijo izgubo vode
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:23528.0
+passage.questions.10.answers.1.text:Čez dan zbirajo sončno svetlobo na odprtih listih, ponoči pa jih zapirajo, da preprečijo izgubo vode
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:23527.0
+passage.questions.10.answers.0.text:Rastline lahko podnevi zaprejo liste, da preprečijo pekoč občutek, ponoči pa jih odprejo za zbiranje vlage
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:23526.0
+passage.questions.1.question:Ali rastlina ustavi svojo rast, ko se dnevi podaljšajo ali ko se dnevi skrajšajo?
+passage.questions.1.idx:4446.0
+passage.questions.1.answers.3.text:Ko se dnevi podaljšajo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:23488.0
+passage.questions.1.answers.2.text:Ko se sončna svetloba čez dan poveča
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23487.0
+passage.questions.1.answers.1.text:Ko se dnevi krajšajo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:23486.0
+passage.questions.1.answers.0.text:Ko se dolžina sončne svetlobe čez dan zmanjša, se nič ne zgodi
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:23485.0
+passage.questions.0.question:Kaj naredijo nekatere rastline, ko se dnevi krajšajo?
+passage.questions.0.idx:4445
+passage.questions.0.answers.4.text:Nekatere rastline zaprejo liste, da ne zamrznejo
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:23484.0
+passage.questions.0.answers.3.text:Pojdite v počitek
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:23483.0
+passage.questions.0.answers.2.text:Listi spremenijo barvo in odpadejo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23482.0
+passage.questions.0.answers.1.text:Nekatere rastline mirujejo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:23481
+passage.questions.0.answers.0.text:Nekatere rastline shranjujejo čim več vode
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23480
+idx:389

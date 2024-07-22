@@ -1,0 +1,258 @@
+version:1.1
+passage.text:Glede na rekonstrukcijo radarja se je ameriška 77 ponovno pojavila kot primarni cilj radarskih merilnikov Indianapolis Center ob 9:05 vzhodno od zadnjega znanega položaja. Cilj je ostal v zračnem prostoru Indianapolis Center še šest minut, nato pa ob 9:10 prestopil v zahodni del zračnega prostora Washington Center. Medtem ko je center Indianapolis nadaljeval z iskanjem letala, sta dva upravitelja in kontrolor, odgovoren za ameriško 77, gledala proti zahodu in jugozahodu vzdolž predvidene poti leta, ne proti vzhodu, kamor je zdaj letelo letalo. Upravitelji drugim kontrolorjem v Indianapolis Center niso naročili, naj vklopijo svojo primarno radarsko pokritost, da se pridružijo iskanju ameriškega 77. Skratka, Indianapolis Center nikoli ni videl, da se let 77 obrne. Ko se je znova pojavilo v primarni radarski pokritosti, so krmilniki nehali iskati letalo, ker so mislili, da je strmoglavilo, ali pa so gledali proti zahodu. Čeprav je poveljniški center izvedel, da let 77 manjka, niti on niti sedež FAA okoliškim centrom nista izdala biltena z vsemi točkami, da bi iskali primarne radarske cilje. Američan 77 je 36 minut neopazno potoval na progi proti vzhodu proti Washingtonu DC. Ob 9:25 je poveljniški center FAA in sedež FAA vedel, da sta dve letali strmoglavili v Svetovni trgovinski center. Vedeli so, da je ameriški 77 izgubljen. Vsaj nekateri uradniki FAA v Boston Centru in regiji New England so vedeli, da je ugrabitelj na krovu ameriškega leta 11 rekel, &quot;da imamo nekaj letal.&quot; Zaskrbljenost glede varnosti drugih letal se je začela povečevati. Vodja poveljniškega centra Herndon je vprašal sedež FAA, ali želijo odrediti &quot;zemeljsko postajo po vsej državi&quot;. Medtem ko so o tem razpravljali vodstveni delavci na sedežu FAA, je poveljniški center naročil enega ob 9:25. Poveljniški center je še naprej iskal ameriškega 77. Ob 9:21 je svetoval objektu za nadzor terminala Dulles, Dulles pa je svoje kontrolorje pozval, naj poiščejo primarne cilje. Ob 9:32 so našli enega. Številni kontrolorji Dullesa so &quot;opazili primarni radarski cilj, ki je z visoko hitrostjo sledil vzhodu&quot;, in obvestili nacionalno letališče Reagan. Osebje FAA na letališčih Reagan National in Dulles je obvestilo tajno službo.
+passage.questions.9.question:Kako dolgo je American 77 ostal na radarju Indianapolis Center?
+passage.questions.9.idx:4637.0
+passage.questions.9.answers.6.text:6 minut
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:24511.0
+passage.questions.9.answers.5.text:Manj kot 10 minut
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:24510.0
+passage.questions.9.answers.4.text:Šest minut
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:24509.0
+passage.questions.9.answers.3.text:Nikoli
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:24508.0
+passage.questions.9.answers.2.text:Nikoli ni vstopil v radar Indianapolis Center
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:24507.0
+passage.questions.9.answers.1.text:36 minut
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:24506.0
+passage.questions.9.answers.0.text:Deset minut
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:24505.0
+passage.questions.8.question:Zakaj center Indianapolis ni opazil, da se je let 77 obrnil?
+passage.questions.8.idx:4636.0
+passage.questions.8.answers.6.text:Letalo je bilo vzhodno od pričakovanega položaja
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:24504.0
+passage.questions.8.answers.5.text:Upravitelji drugim kontrolorjem v Indianapolis Centru niso naročili, naj vklopijo svojo primarno radarsko pokritost, da se pridružijo iskanju ameriških 77
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:24503.0
+passage.questions.8.answers.4.text:Ker so jim rekli, naj se na to ne osredotočajo
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:24502.0
+passage.questions.8.answers.3.text:Radar poveljniškega centra ni deloval
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:24501.0
+passage.questions.8.answers.2.text:Ugrabitelji ugrabili radarsko pokritost
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:24500.0
+passage.questions.8.answers.1.text:Niso mogli najti leta 77
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:24499.0
+passage.questions.8.answers.0.text:Kontrolorji so gledali proti zahodu in jugozahodu
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:24498.0
+passage.questions.7.question:Kdaj se je vse to dogajalo
+passage.questions.7.idx:4635.0
+passage.questions.7.answers.4.text:9:05 9:10 9:21 9:25 9:32
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:24497.0
+passage.questions.7.answers.3.text:9:32
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:24496.0
+passage.questions.7.answers.2.text:9:45
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:24495.0
+passage.questions.7.answers.1.text:9:10
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:24494.0
+passage.questions.7.answers.0.text:8:45
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:24493.0
+passage.questions.6.question:Kateri cilj je ob 9:10 prestopil v zračni prostor Washington Centra?
+passage.questions.6.idx:4634.0
+passage.questions.6.answers.3.text:Letalo
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:24492.0
+passage.questions.6.answers.2.text:Ameriški let 77
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:24491.0
+passage.questions.6.answers.1.text:Helikopter
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:24490.0
+passage.questions.6.answers.0.text:Združeni 88
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:24489.0
+passage.questions.5.question:Kaj je povzročalo pomisleke glede varnosti drugih letal, ki so se začele vzpenjati?
+passage.questions.5.idx:4633.0
+passage.questions.5.answers.4.text:Vedeli so, da so izgubili ameriških 77, in vsaj nekateri uradniki FAA v Boston Center in New England Region so vedeli, da je ugrabitelj na ameriškem 11 rekel: &quot;imamo nekaj letal
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:24488.0
+passage.questions.5.answers.3.text:Slutnja
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:24487.0
+passage.questions.5.answers.2.text:Ugrabitelj na krovu
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:24486.0
+passage.questions.5.answers.1.text:Brez stika
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:24485.0
+passage.questions.5.answers.0.text:Imamo nekaj letal
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:24484.0
+passage.questions.4.question:Kaj so našli ob 9:32?
+passage.questions.4.idx:4632.0
+passage.questions.4.answers.5.text:Vodja, ki lahko naroči zemeljski postanek
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:24483.0
+passage.questions.4.answers.4.text:Najdeno 2
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:24482.0
+passage.questions.4.answers.3.text:Primarni radarski cilj, ki z visoko hitrostjo sledi vzhodu
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:24481.0
+passage.questions.4.answers.2.text:Primarni radarski cilj
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:24480.0
+passage.questions.4.answers.1.text:Vzrok okvare radarja
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:24479.0
+passage.questions.4.answers.0.text:Našel enega
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:24478.0
+passage.questions.3.question:Kateri uradniki so vedeli, da je na krovu hudodelec
+passage.questions.3.idx:4631.0
+passage.questions.3.answers.4.text:ATC
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:24477.0
+passage.questions.3.answers.3.text:CIA
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:24476.0
+passage.questions.3.answers.2.text:Nekateri uradniki FAA
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:24475.0
+passage.questions.3.answers.1.text:Uradniki
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:24474.0
+passage.questions.3.answers.0.text:Boston in Nova Anglija
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:24473.0
+passage.questions.2.question:Naprava za nadzor terminala Dulles in Dullesa so pozvali, naj njihovi krmilniki poiščejo primarne cilje in kdaj so jih našli?
+passage.questions.2.idx:4630.0
+passage.questions.2.answers.3.text:9:32
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:24472.0
+passage.questions.2.answers.2.text:Nekaj po 9:30
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:24471.0
+passage.questions.2.answers.1.text:9:21
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24470.0
+passage.questions.2.answers.0.text:Nekaj pred 9.30
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24469.0
+passage.questions.14.question:Katere zapovedi so iskali ameriški 77
+passage.questions.14.idx:4642.0
+passage.questions.14.answers.4.text:Poveljniški center Herndon
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:24535.0
+passage.questions.14.answers.3.text:Indianapolis
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:24534.0
+passage.questions.14.answers.2.text:Bostonski center
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:24533.0
+passage.questions.14.answers.1.text:Center Indianapolis
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:24532.0
+passage.questions.14.answers.0.text:Dulles
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:24531.0
+passage.questions.13.question:Kdo je obvestil tajno službo
+passage.questions.13.idx:4641.0
+passage.questions.13.answers.5.text:Osebje FAA v Dullesu
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:24530.0
+passage.questions.13.answers.4.text:Več Dullesovih krmilnikov
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:24529.0
+passage.questions.13.answers.3.text:Tajna služba
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:24528.0
+passage.questions.13.answers.2.text:Bostonski center
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:24527.0
+passage.questions.13.answers.1.text:Osebje FAA pri Reaganu
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:24526.0
+passage.questions.13.answers.0.text:Center Indianapolis
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:24525.0
+passage.questions.12.question:Kaj je bila ena od napak poleg iskanja kontrole zračnega prometa, zaradi katere je Amerika 77 letela 36 minut. neopazen?
+passage.questions.12.idx:4640.0
+passage.questions.12.answers.4.text:Pogledal v napačno smer
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:24524.0
+passage.questions.12.answers.3.text:Niti ta niti sedež FAA okoliškim centrom nista objavila biltena o vseh točkah, da bi iskala primarne radarske cilje
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:24523.0
+passage.questions.12.answers.2.text:Napačen kanal
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:24522.0
+passage.questions.12.answers.1.text:Napačna letalska družba
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:24521.0
+passage.questions.12.answers.0.text:Ni vklopil radarja
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:24520.0
+passage.questions.11.question:Kdaj je Dulles zaznal primarni cilj, ki jih je sprožil, da so opozorili nacionalno letališče Reagan?
+passage.questions.11.idx:4639.0
+passage.questions.11.answers.3.text:Ponoči
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:24519.0
+passage.questions.11.answers.2.text:Ob 9:32
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:24518.0
+passage.questions.11.answers.1.text:9:25
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:24517.0
+passage.questions.11.answers.0.text:Jutro
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:24516.0
+passage.questions.10.question:Kakšen cilj je ostal v zračnem prostoru Indianapolis Center, nato pa ob 9:10 prestopil v zahodni del zračnega prostora Washington Center.
+passage.questions.10.idx:4638.0
+passage.questions.10.answers.3.text:Let 77
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:24515.0
+passage.questions.10.answers.2.text:Američan 11
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:24514.0
+passage.questions.10.answers.1.text:Poveljniški center Herndon
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:24513.0
+passage.questions.10.answers.0.text:Ukazni center
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:24512.0
+passage.questions.1.question:Kaj so naročili v Komandnem centru ob 9:25?
+passage.questions.1.idx:4629.0
+passage.questions.1.answers.3.text:Ozemljitev
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:24468.0
+passage.questions.1.answers.2.text:Napad
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:24467.0
+passage.questions.1.answers.1.text:Odstopite
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:24466.0
+passage.questions.1.answers.0.text:&quot;Državna postaja na tleh&quot;.
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:24465.0
+passage.questions.0.question:Ob 9:25 so poveljniški center FAA in sedež FAA vedeli, da sta dve letali trčili v Svetovni trgovinski center in vedeli, kaj manjka?
+passage.questions.0.idx:4628
+passage.questions.0.answers.3.text:Let 77
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:24464.0
+passage.questions.0.answers.2.text:Primarni cilji
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:24463.0
+passage.questions.0.answers.1.text:Komunikacija z FAA
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:24462
+passage.questions.0.answers.0.text:Vsi podatki radarskega središča
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24461
+idx:409

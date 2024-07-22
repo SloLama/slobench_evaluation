@@ -1,0 +1,135 @@
+version:1.1
+passage.text:(CNN) - Nemški zbiralec umetnin Cornelius Gurlitt, ki mu je bila zaplenjena skoraj neprecenljiva zbirka, ker naj bi vsebovali kose, ki so jih nacisti izropali, je v torek umrl in mojstrovine prepustil švicarskemu muzeju. Dan po Gurlittovi smrti v 81. letu je Muzej lepih umetnosti Bern sporočil, da ga je Gurlitt imenoval &quot;svojega neomejenega in neoviranega edinega dediča&quot;. Novica je bila presenetljiva, so v muzeju sporočili v sredo, ker Gurlitt z njo nikoli ni imel nobene povezave. Direktorji muzeja so nad novicami navdušeni, so povedali v izjavi, vendar se zavedajo tudi, da so okoli zbirke odprta pravna in etična vprašanja. Gurlitt je bil operiran na srcu in je bil več tednov v bolnišnici, je dejal njegov predstavnik. Gurlitt je pritegnil pozornost sveta umetnosti, ko so nemški tožilci leta 2012 iz njegovega stanovanja v Münchnu zasegli več kot 1200 slik, vključno z deli Picassa in Matisseja. Zbirka je bila zasežena v okviru preiskave davčnih goljufij, potem pa so mislili, da so nekatere slike morda dela, ki so jih nacisti izropali. Prejšnji mesec je bil del zbirke vrnjen Gurlittu v okviru dogovora z nemškimi kulturnimi oblastmi in bavarskim ministrstvom za pravosodje. V skladu s sporazumom so mu bila vrnjena dela v lasti Gurlitta, ki niso bila sumljiva. Tiste, za katere sumijo, da so jih ukradli, bi morali varno pridržati, medtem ko delovna skupina preiskuje njihovo poreklo - in bodo vrnjeni njihovim prvotnim judovskim lastnikom ali njihovim potomcem, če bo trditev dokazana. Gurlittov predstavnik je dejal, da se s smrtjo zbiratelja umetnin preiskava zbirke ustavi. Sodišče, ki je vodilo preiskovalni postopek, bo v tem primeru delovalo kot zapuščinsko sodišče.
+passage.questions.8.question:Kateri švicarski muzej je Cornelius Gurlitt imenoval za svojega edinega dediča?
+passage.questions.8.idx:826.0
+passage.questions.8.answers.2.text:Muzej moderne umetnosti
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4167.0
+passage.questions.8.answers.1.text:Švicarski muzej
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4166.0
+passage.questions.8.answers.0.text:Muzej likovnih umetnosti Bern
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4165.0
+passage.questions.7.question:Zakaj so deli umetniške zbirke Gurlitt zasegli oblasti?
+passage.questions.7.idx:825.0
+passage.questions.7.answers.6.text:Ker so bili osumljeni ukradbe
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:4164.0
+passage.questions.7.answers.5.text:Ker naj bi vsebovali kose, ki so jih nacisti izropali
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:4163.0
+passage.questions.7.answers.4.text:Ker jih je vzel iz muzeja
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:4162.0
+passage.questions.7.answers.3.text:Darovati muzeju
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4161.0
+passage.questions.7.answers.2.text:Ker so jih morda nacisti izropali
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4160.0
+passage.questions.7.answers.1.text:Sumili so, da vsebuje dela, ki so jih nacisti izropali
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4159.0
+passage.questions.7.answers.0.text:V okviru preiskave davčnih goljufij
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4158.0
+passage.questions.6.question:Zakaj so nemški tožilci sprva iz Gurlittovega stanovanja zasegli več kot 1200 slik?
+passage.questions.6.idx:824.0
+passage.questions.6.answers.4.text:Ker naj bi vsebovali kose, ki so jih nacisti izropali
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:4157.0
+passage.questions.6.answers.3.text:Zbirka je bila zasežena v okviru preiskave davčnih goljufij
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:4156.0
+passage.questions.6.answers.2.text:Ker jih je podaril švicarskemu muzeju
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4155.0
+passage.questions.6.answers.1.text:Ker jih je ukradel iz muzeja
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4154.0
+passage.questions.6.answers.0.text:V okviru preiskave davčnih goljufij
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4153.0
+passage.questions.5.question:Kdo je bil nemški zbiralec umetnin, ki je bil operiran na srčni operaciji?
+passage.questions.5.idx:823.0
+passage.questions.5.answers.2.text:Cornelius Gurlitt
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4152.0
+passage.questions.5.answers.1.text:Yohan Klum
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4151.0
+passage.questions.5.answers.0.text:Bavarski minister za pravosodje
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4150.0
+passage.questions.4.question:Koliko je bil star kolekcionar umetnosti Cornelius Gurlitt, ko je umrl?
+passage.questions.4.idx:822.0
+passage.questions.4.answers.3.text:81
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4149.0
+passage.questions.4.answers.2.text:Star 80 let
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4148.0
+passage.questions.4.answers.1.text:80
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4147.0
+passage.questions.4.answers.0.text:V 81. letu starosti
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4146.0
+passage.questions.3.question:Katera od zaseženih umetnin so bila vrnjena nemškemu zbiratelju umetnin?
+passage.questions.3.idx:821.0
+passage.questions.3.answers.4.text:Dela v lasti Gurlitta, ki niso bila sumljiva
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:4145.0
+passage.questions.3.answers.3.text:Tisti v lasti Gurlitta, ki niso bili osumljeni
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4144.0
+passage.questions.3.answers.2.text:Tisti, ki niso sumljivi
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4143.0
+passage.questions.3.answers.1.text:Dela Picassa in Matissa
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4142.0
+passage.questions.3.answers.0.text:Dva od njih
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4141.0
+passage.questions.2.question:Je bila umetniška zbirka Gurlitt vrnjena po zaplembi?
+passage.questions.2.idx:820
+passage.questions.2.answers.4.text:Ne, podarjen je bil muzeju
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4140.0
+passage.questions.2.answers.3.text:Delno
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4139.0
+passage.questions.2.answers.2.text:Da
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4138.0
+passage.questions.2.answers.1.text:Ne
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:4137
+passage.questions.2.answers.0.text:Da, kot del dogovora z nemškimi kulturnimi oblastmi in bavarskim ministrstvom za pravosodje
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:4136
+passage.questions.1.question:Se bodo preiskave umetniške zbirke nadaljevale po smrti Corneliusa Gurlitta?
+passage.questions.1.idx:819
+passage.questions.1.answers.3.text:Pridržali naj bi jih, medtem ko delovna skupina preiskuje njihovo poreklo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4135.0
+passage.questions.1.answers.2.text:Z Gurlittovo smrtjo se preiskava zbirke ustavi
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4134.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:4133
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:4132
+passage.questions.0.question:Po mnenju Muzeja lepih umetnosti Bern je imel Cornelius Gurlitt kakršno koli povezavo z muzejem?
+passage.questions.0.idx:818
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4131
+passage.questions.0.answers.0.text:Nikoli
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4130
+idx:71

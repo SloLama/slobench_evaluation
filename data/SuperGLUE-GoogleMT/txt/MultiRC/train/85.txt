@@ -1,0 +1,220 @@
+version:1.1
+passage.text:Tekoča voda povzroča premikanje usedlin. Tekoča voda lahko razjeda kamenje in tla. Že ste se naučili, da se materiali lahko raztopijo v vodi. Z dovolj časa lahko celo kamenje raztopi voda. Ta postopek se dogaja zelo počasi. Za raztapljanje kamnine lahko traja več kot milijon let. Ni pomembno, kako velika je skala. Z dovolj časa jo lahko tekoča voda raztopi. Voda, ki se premika, ima tudi možnost premikanja majhnih koščkov kamenja in zemlje. Kako lahko voda premakne kamen? Ali ne rabi energije? Seveda voda dobi svojo energijo, ker se premika. Premikanje vode ima kinetično energijo. Stvari, ki imajo več energije, lahko naredijo več dela. Ko se voda neha premikati, ne bo imela več energije. Ne bo več mogel premikati kamnine in zemlje. Ko se to zgodi, se kamnina in tla usedeta na dno mirne vode. Znanstveniki temu postopku pravijo odlaganje.
+passage.questions.9.question:Ima gibljiva voda kinetično energijo?
+passage.questions.9.idx:1001.0
+passage.questions.9.answers.3.text:Da
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:5230.0
+passage.questions.9.answers.2.text:Ne, nima kinetične energije
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:5229.0
+passage.questions.9.answers.1.text:Premikanje vode ima kinetično energijo
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:5228.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5227.0
+passage.questions.8.question:Kaj povzroča tekoča voda?
+passage.questions.8.idx:1000.0
+passage.questions.8.answers.3.text:Tekoča voda povzroča premikanje usedlin
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:5226.0
+passage.questions.8.answers.2.text:Povzroča premikanje usedlin in lahko razjeda kamenje in tla
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:5225.0
+passage.questions.8.answers.1.text:Tekoča voda povzroča odlaganje kamnin
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:5224.0
+passage.questions.8.answers.0.text:Tekoča voda povzroči, da tok zavre
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:5223.0
+passage.questions.7.question:Ali je pomembno, kako velika je skala?
+passage.questions.7.idx:999.0
+passage.questions.7.answers.3.text:Da
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:5222.0
+passage.questions.7.answers.2.text:Kamnina mora biti majhna
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:5221.0
+passage.questions.7.answers.1.text:Ni pomembno, kako velika je skala
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:5220.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:5219.0
+passage.questions.6.question:Kaj se zgodi, ko se voda neha premikati?
+passage.questions.6.idx:998.0
+passage.questions.6.answers.3.text:Ko se voda neha premikati, ne bo imela več energije
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:5218.0
+passage.questions.6.answers.2.text:Ne bo imel energije in ne bo mogel več premikati kamnine in zemlje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:5217.0
+passage.questions.6.answers.1.text:Pridobiva energijo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:5216.0
+passage.questions.6.answers.0.text:Voda pridobi kinetično energijo
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:5215.0
+passage.questions.5.question:Kako se imenuje, ko se kamnina in tla usedeta na dno mirne vode?
+passage.questions.5.idx:997.0
+passage.questions.5.answers.3.text:Odlaganje postopka
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:5214.0
+passage.questions.5.answers.2.text:kinetična energija
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5213.0
+passage.questions.5.answers.1.text:Izguba energije
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:5212.0
+passage.questions.5.answers.0.text:Odlaganje
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5211.0
+passage.questions.4.question:Bi odlaganje ali premikanje določene kamnine vzelo več energije?
+passage.questions.4.idx:996.0
+passage.questions.4.answers.4.text:Premikanje kamnine bi zahtevalo več energije kot odlaganje kamnine
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:5210.0
+passage.questions.4.answers.3.text:Premikanje kamnine zahteva več energije
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:5209.0
+passage.questions.4.answers.2.text:Da
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:5208.0
+passage.questions.4.answers.1.text:Ne
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:5207.0
+passage.questions.4.answers.0.text:Odlaganje kamnin
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:5206.0
+passage.questions.3.question:Ali je potrebna energija, da voda premakne kamen?
+passage.questions.3.idx:995.0
+passage.questions.3.answers.3.text:Nobena voda nima energije
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:5205.0
+passage.questions.3.answers.2.text:Da
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:5204.0
+passage.questions.3.answers.1.text:Da, voda ima kinetično energijo
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:5203.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:5202.0
+passage.questions.2.question:Ali ima voda kinetično energijo?
+passage.questions.2.idx:994.0
+passage.questions.2.answers.4.text:Voda dobi svojo energijo, ker se giblje, voda pa ima kinetično energijo
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:5201.0
+passage.questions.2.answers.3.text:Da
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:5200.0
+passage.questions.2.answers.2.text:Mirna voda ima kinetično energijo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5199.0
+passage.questions.2.answers.1.text:Ne
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:5198.0
+passage.questions.2.answers.0.text:Premikanje vode ima kinetično energijo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:5197.0
+passage.questions.13.question:Koliko časa traja, da voda raztopi kamenje?
+passage.questions.13.idx:1005.0
+passage.questions.13.answers.4.text:Več kot milijon let
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:5249.0
+passage.questions.13.answers.3.text:Za raztapljanje kamnine lahko traja več kot milijon let
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:5248.0
+passage.questions.13.answers.2.text:Nekaj dni
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:5247.0
+passage.questions.13.answers.1.text:Raztapljanje kamnine lahko traja več kot milijon let, saj se postopek odvija zelo počasi
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:5246.0
+passage.questions.13.answers.0.text:Trajalo bo približno deset let
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:5245.0
+passage.questions.12.question:Kaj povzroča tekoča voda?
+passage.questions.12.idx:1004.0
+passage.questions.12.answers.4.text:Sediment za premikanje in erozija kamnin in tal
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:5244.0
+passage.questions.12.answers.3.text:Moč energije
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:5243.0
+passage.questions.12.answers.2.text:Tekoča voda povzroča premikanje usedlin. Tekoča voda lahko razjeda kamenje in tla
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:5242.0
+passage.questions.12.answers.1.text:Tekoča voda povzroča premikanje usedlin
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:5241.0
+passage.questions.12.answers.0.text:Tekoča voda lahko dvigne kamenje
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:5240.0
+passage.questions.11.question:Kako lahko voda premakne kamen?
+passage.questions.11.idx:1003.0
+passage.questions.11.answers.4.text:Voda, ki se premika, ima kinetično energijo, torej premika kamen z energijo
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:5239.0
+passage.questions.11.answers.3.text:Pljusak vode ob skali
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:5238.0
+passage.questions.11.answers.2.text:Energija
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:5237.0
+passage.questions.11.answers.1.text:Z uporabo površinske napetosti
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:5236.0
+passage.questions.11.answers.0.text:Po svoji potencialni energiji
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:5235.0
+passage.questions.10.question:Kako dolgo lahko traja, da voda raztopi kamen?
+passage.questions.10.idx:1002.0
+passage.questions.10.answers.3.text:Lahko bi trajalo več kot milijon let
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:5234.0
+passage.questions.10.answers.2.text:Za raztapljanje kamnine lahko traja več kot milijon let
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:5233.0
+passage.questions.10.answers.1.text:Približno deset let
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:5232.0
+passage.questions.10.answers.0.text:Nekaj dni
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:5231.0
+passage.questions.1.question:Zakaj lahko voda, ki se giblje več, opravi več dela kot voda, ki se giblje manj?
+passage.questions.1.idx:993.0
+passage.questions.1.answers.4.text:Voda, ki se giblje več, ima manj kinetične energije
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:5196.0
+passage.questions.1.answers.3.text:Voda, ki se bolj giblje, ima manj energije
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:5195.0
+passage.questions.1.answers.2.text:Voda, ki se giblje več, ima več kinetične energije
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:5194.0
+passage.questions.1.answers.1.text:Stvari, ki imajo več energije, lahko naredijo več dela
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:5193.0
+passage.questions.1.answers.0.text:Voda, ki se bolj giblje, ima več kinetične energije; stvari, ki imajo več energije, lahko naredijo več dela
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5192.0
+passage.questions.0.question:Kako se imenuje postopek, ko se voda ne more več premikati?
+passage.questions.0.idx:992
+passage.questions.0.answers.4.text:Premikanje vode
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:5191.0
+passage.questions.0.answers.3.text:Stoječa voda
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:5190.0
+passage.questions.0.answers.2.text:razpoloženje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:5189.0
+passage.questions.0.answers.1.text:Odlaganje
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5188
+passage.questions.0.answers.0.text:Izguba energije
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5187
+idx:85

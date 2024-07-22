@@ -1,0 +1,6 @@
+choice1:Kocka ledu se mi je prijela za prste.
+choice2:Kocka ledu je izginila.
+idx:350
+label:1
+premise:Kocko ledu sem spustil pod toplo vodo.
+question:effect

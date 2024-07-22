@@ -1,0 +1,319 @@
+version:1.1
+passage.text:Kako lahko opišete svojo lokacijo? Morda uporabite znani sistem. Lahko bi rekli: &quot;Živim na 1234 Main Street, Springfield, Ohio.&quot; Lahko bi tudi rekli: &#39;Živim takoj za osnovno šolo.&#39; Ta metoda uporablja šolo kot referenčno točko. Drug primer je, da sem na vogalu Maple Street in Main Street. Obe ulici sta lahko dobra referenca za vse, ki živijo v vašem mestu. Znanstveniki morajo biti sposobni natančno določiti značilnost, ki jo preučujejo. Znanstveniki uporabljajo poseben sistem za opis lokacij. Kot referenco uporabljajo zemljepisno širino in dolžino. Linije zemljepisne širine in dolžine tvorijo mrežo. Morda ste med grafikovanjem uporabljali mrežni sistem. Ta mreža je centrirana na referenčno točko. Ničelna širina je ekvator. Zemljepisne širine potekajo od vzhoda proti zahodu. Zemljo delijo od severa do juga. Dolžinske črte potekajo od severa proti jugu. Zemljo delijo od vzhoda do zahoda. Ničelna dolžina poteka skozi Greenwich v Angliji. Morda ste že slišali za izraz Greenwich Mean Time ali GMT. Sistem zemljepisne širine in dolžine dobro deluje pri predmetih, ki se ne premikajo.
+passage.questions.9.question:Zakaj znanstveniki uporabljajo zemljepisno širino in dolžino kot referenco?
+passage.questions.9.idx:325.0
+passage.questions.9.answers.6.text:Linije zemljepisne širine in dolžine tvorijo mrežo
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:1763.0
+passage.questions.9.answers.5.text:Da bi natančno določili funkcijo, ki jo preučujejo
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:1762.0
+passage.questions.9.answers.4.text:Zaradi pomanjkanja boljšega sistema
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:1761.0
+passage.questions.9.answers.3.text:Da dokažejo svojo trditev
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1760.0
+passage.questions.9.answers.2.text:Za hitrejše iskanje lokacij
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1759.0
+passage.questions.9.answers.1.text:Za opis lokacij
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:1758.0
+passage.questions.9.answers.0.text:Da bo križišče enostavno najti
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1757.0
+passage.questions.8.question:V katero smer potekajo zemljepisne širine in kaj delijo?
+passage.questions.8.idx:324.0
+passage.questions.8.answers.5.text:Zemljepisne širine potekajo od vzhoda proti zahodu, zemljepisne dolžine potekajo od severa proti jugu. Zemljo delijo
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:1756.0
+passage.questions.8.answers.4.text:Vzhod, zahod, sever jug
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:1755.0
+passage.questions.8.answers.3.text:Poteka navpično in deli sever in jug
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:1754.0
+passage.questions.8.answers.2.text:Poteka navpično in deli vzhod in zahod
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1753.0
+passage.questions.8.answers.1.text:So vzporedni in pravokotni na ekvator, delijo Zemljo
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1752.0
+passage.questions.8.answers.0.text:Poteka vodoravno in deli sever in jug
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1751.0
+passage.questions.7.question:Katera črta, ki teče od severa proti jugu, poteka skozi Greenwich v Angliji in je prav tako na ekvatorju?
+passage.questions.7.idx:323.0
+passage.questions.7.answers.3.text:Kozorog Tropic
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1750.0
+passage.questions.7.answers.2.text:Ekvator
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1749.0
+passage.questions.7.answers.1.text:Ničelna širina
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1748.0
+passage.questions.7.answers.0.text:Ničelna dolžina
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1747.0
+passage.questions.6.question:V katero smer bi lahko šli, če bi sledili črti ničelne dolžine?
+passage.questions.6.idx:322.0
+passage.questions.6.answers.1.text:Vzhod in zahod
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1746.0
+passage.questions.6.answers.0.text:Sever ali jug
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:1745.0
+passage.questions.5.question:Bi zemljepisna širina, ki poteka skozi angleški Greenwich, delila Zemljo od severa proti jugu ali od vzhoda proti zahodu?
+passage.questions.5.idx:321.0
+passage.questions.5.answers.3.text:Sever proti jugu
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1744.0
+passage.questions.5.answers.2.text:Sever proti jugu
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1743.0
+passage.questions.5.answers.1.text:Vzhod proti severu
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1742.0
+passage.questions.5.answers.0.text:Vzhod proti zahodu
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1741.0
+passage.questions.4.question:Kako se dolžinske in zemljepisne črte razlikujejo od ene in druge?
+passage.questions.4.idx:320.0
+passage.questions.4.answers.6.text:Latitude vodi dolžino, Longitude pa širino
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:1740.0
+passage.questions.4.answers.5.text:Zemljepisna širina je dvodimenzionalna, zemljepisna dolžina pa tridimenzionalna
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:1739.0
+passage.questions.4.answers.4.text:Zemljepisne širine potekajo od severa proti jugu, zemljepisne dolžine pa od vzhoda proti zahodu
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1738.0
+passage.questions.4.answers.3.text:Zemljepisna dolžina je daljša od zemljepisne širine
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1737.0
+passage.questions.4.answers.2.text:Zemljepisne širine potekajo od severa proti jugu, dolžinske črte pa od vzhoda proti zahodu
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1736.0
+passage.questions.4.answers.1.text:Vzdolžne črte potekajo od severa proti jugu, medtem ko vzdolžne črte potekajo od vzhoda proti zahodu
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1735.0
+passage.questions.4.answers.0.text:Zemljepisne širine potekajo od vzhoda proti zahodu, zemljepisna dolžina pa od severa proti jugu
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1734.0
+passage.questions.3.question:V katere smeri bi lahko šli, če bi sledili ekvatorju?
+passage.questions.3.idx:319.0
+passage.questions.3.answers.1.text:Vzhod ali zahod
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1733.0
+passage.questions.3.answers.0.text:Sever in jug
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1732.0
+passage.questions.2.question:Katere referenčne točke znanstveniki uporabljajo za opis lokacije?
+passage.questions.2.idx:318.0
+passage.questions.2.answers.6.text:Ekvator
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:1731.0
+passage.questions.2.answers.5.text:Dobro znani kraji
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:1730.0
+passage.questions.2.answers.4.text:Severni pol
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1729.0
+passage.questions.2.answers.3.text:Zemljepisna širina in dolžina na podlagi referenčne točke nič, ki je ekvator
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1728.0
+passage.questions.2.answers.2.text:Južni pol
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1727.0
+passage.questions.2.answers.1.text:Kot referenco uporabljajo zemljepisno širino in dolžino
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:1726.0
+passage.questions.2.answers.0.text:Zemljepisna širina in dolžina
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:1725.0
+passage.questions.16.question:V katero smer tečejo dolžinske črte in kaj si delijo?
+passage.questions.16.idx:332.0
+passage.questions.16.answers.6.text:Zemljepisne širine potekajo od vzhoda proti zahodu, zemljepisne dolžine potekajo od severa proti jugu. Zemljo delijo
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:1804.0
+passage.questions.16.answers.5.text:Tečejo vodoravno in delijo sever in jug
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:1803.0
+passage.questions.16.answers.4.text:Tecite navpično in delite sever in jug
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:1802.0
+passage.questions.16.answers.3.text:Sever jug vzhod zahod
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:1801.0
+passage.questions.16.answers.2.text:So vzporedni in pravokotni na ekvator, delijo Zemljo
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:1800.0
+passage.questions.16.answers.1.text:Tecite navpično in delite vzhod in zahod
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:1799.0
+passage.questions.16.answers.0.text:Tecite vodoravno in delite vzhod in zahod
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:1798.0
+passage.questions.15.question:Kateri načini poleg zemljepisne širine in dolžine ljudje opisujejo lokacijo?
+passage.questions.15.idx:331.0
+passage.questions.15.answers.7.text:Po polarnih koordinatah
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:1797.0
+passage.questions.15.answers.6.text:Glede na dobro znane lokacije
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:1796.0
+passage.questions.15.answers.5.text:Ulični prečni prerezi
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:1795.0
+passage.questions.15.answers.4.text:Telefonska številka
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:1794.0
+passage.questions.15.answers.3.text:Mejniki
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:1793.0
+passage.questions.15.answers.2.text:Polarna regija
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:1792.0
+passage.questions.15.answers.1.text:Naslov
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1791.0
+passage.questions.15.answers.0.text:Uporaba mejnika ali križišč kot referenčne točke
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:1790.0
+passage.questions.14.question:Na katera dva glavna načina znanstvenik deli Zemljo, da natančno določi njeno lokacijo?
+passage.questions.14.idx:330.0
+passage.questions.14.answers.5.text:Znanstvenik bi uporabil mrežni sistem, ki deli Zemljo na sever in jug ter vzhod na zahod
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:1789.0
+passage.questions.14.answers.4.text:Po mejniku
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:1788.0
+passage.questions.14.answers.3.text:Po ekvatorju
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:1787.0
+passage.questions.14.answers.2.text:Po ulici
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1786.0
+passage.questions.14.answers.1.text:Kot referenco uporabite zemljepisno širino in dolžino
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:1785.0
+passage.questions.14.answers.0.text:Uporabite znani sistem ali določite lokacijo glede na druge kraje
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1784.0
+passage.questions.13.question:Zemljepisne širine, ki potekajo od vzhoda do zahoda, delijo zemljo?
+passage.questions.13.idx:329.0
+passage.questions.13.answers.2.text:Sever proti jugu
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:1783.0
+passage.questions.13.answers.1.text:Jug proti zahodu
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1782.0
+passage.questions.13.answers.0.text:Vzhod proti zahodu
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1781.0
+passage.questions.12.question:Ali ekvator deli Zemljo od vzhoda proti zahodu ali od severa proti jugu?
+passage.questions.12.idx:328.0
+passage.questions.12.answers.1.text:Sever proti jugu
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1780.0
+passage.questions.12.answers.0.text:Vzhod na zahod
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1779.0
+passage.questions.11.question:Kakšna sta dva načina za opis iste lokacije?
+passage.questions.11.idx:327.0
+passage.questions.11.answers.7.text:Šolo uporablja kot referenčno točko - poseben mejnik
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:1778.0
+passage.questions.11.answers.6.text:Ekvator
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:1777.0
+passage.questions.11.answers.5.text:Obstaja samo en način opisa iste lokacije
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:1776.0
+passage.questions.11.answers.4.text:Spomin na imena ulic je lahko dobra referenca
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:1775.0
+passage.questions.11.answers.3.text:Zemljepisna dolžina
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:1774.0
+passage.questions.11.answers.2.text:Za opis lokacije bi lahko navedli križišča za trenutni položaj ali navedli celoten naslov ulice
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:1773.0
+passage.questions.11.answers.1.text:Zemljepisna širina
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:1772.0
+passage.questions.11.answers.0.text:Uporabite znani sistem ali določite lokacijo glede na druge kraje
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:1771.0
+passage.questions.10.question:Kaj pomeni GMT in kako je določen?
+passage.questions.10.idx:326.0
+passage.questions.10.answers.6.text:Srednja ekipa Grenlandije in jo določa nič stopinj zemljepisne širine
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:1770.0
+passage.questions.10.answers.5.text:Greenwichski srednji čas in je določen z ničelno dolžino teče skozi Greenwich v Angliji
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:1769.0
+passage.questions.10.answers.4.text:Odlična revija ure, določena s pregledi uporabnikov
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:1768.0
+passage.questions.10.answers.3.text:Odličen čas selitve in je določen glede na sezono
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1767.0
+passage.questions.10.answers.2.text:Greenwichski morski čas in ga določa sonce
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:1766.0
+passage.questions.10.answers.1.text:GMT pomeni Greenwichski srednji čas in je določen z lokacijo vzdolžnih črt
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:1765.0
+passage.questions.10.answers.0.text:Greenwichski srednji čas, ničelna dolžina teče skozi Greenwich v Angliji
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1764.0
+passage.questions.1.question:Kje se nahajata nič zemljepisne dolžine in širine?
+passage.questions.1.idx:317.0
+passage.questions.1.answers.6.text:Ekvator
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:1724.0
+passage.questions.1.answers.5.text:Severni pol in Antarktika
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1723.0
+passage.questions.1.answers.4.text:Ničelna dolžina teče skozi Greenwich v Angliji, medtem ko ničelna širina teče vzdolž ekvatorja
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:1722.0
+passage.questions.1.answers.3.text:Grenlandija
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:1721.0
+passage.questions.1.answers.2.text:Bruselj
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1720.0
+passage.questions.1.answers.1.text:Greenwich, Anglija
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:1719.0
+passage.questions.1.answers.0.text:Ekvator in Greenwich, Anglija
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:1718.0
+passage.questions.0.question:Kako znanstveniki opisujejo lokacije?
+passage.questions.0.idx:316
+passage.questions.0.answers.6.text:: Za referenco uporabljajo zemljepisno širino in dolžino
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:1717.0
+passage.questions.0.answers.5.text:Ulične referenčne točke
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1716.0
+passage.questions.0.answers.4.text:Galaxy mreže
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1715.0
+passage.questions.0.answers.3.text:Poseben sistem zemljepisne širine in dolžine
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1714.0
+passage.questions.0.answers.2.text:S sklicevanjem na druge znane kraje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1713.0
+passage.questions.0.answers.1.text:Referenčne točke mejnika
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1712
+passage.questions.0.answers.0.text:Zemljepisna širina in dolžina
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1711
+idx:28

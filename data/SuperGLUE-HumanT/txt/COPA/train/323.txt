@@ -1,0 +1,6 @@
+choice1:Pešec je prečkal cesto.
+choice2:Pešeč je čakal na pločniku.
+idx:323
+label:0
+premise:Avto se je ustavil na prehodu za pešce.
+question:effect

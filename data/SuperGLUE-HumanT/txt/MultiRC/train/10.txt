@@ -1,0 +1,259 @@
+version:1.1
+passage.text:Zakariya Essabar, ki je bil maroški državljan, se je v Nemčijo preselil leta 1997, v Hamburg pa leta 1998, kjer je študiral medicinsko tehnologijo. Kmalu po selitvi v Hamburg je Essabar v turški mošeji spoznal Binalshibha in ostale. Essabar se je relativno hitro radikaliziral, najverjetneje leta 1999, po pričevanjih pa je nekega znanca celo fizično prisilil, da postane bolj veren, si pusti rasti brado in prisili ženo, da se spreobrne v islam. Essabarjevi starši naj bi ga večkrat neuspešno poskusili odvrniti od takšnega načina življenja. Malo pred napadi 11. septembra naj bi odpotoval v Afganistan, da bi vodstvu Al-Kaide posredoval datum napada. Mounir el Motassadeq, še en Maročan, je v Nemčijo prispel leta 1993 in se dve leti pozneje preselil v Hamburg ter na Tehnični univerzi študiral za električnega inženirja. Priča je izjavila, da je Motassadeq rekel, da bi bil pripravljen ubiti tudi celo svojo družino, ko bi to zahtevala njegova vera. Eden Motassadeqovih sostanovalcev se spominja, da je ta Hitlerja označil za »dobrega moža« in prirejal filmske večere, na katerih so bili prikazani tudi Bin Ladnovi govori. Motassadeq je pozno leta 1999 pomagal prikriti, da je skupina iz Hamburga potovala v Afganistan. Abdelghani Mzoudi, prav tako Maročan, je v Nemčijo prispel poleti leta 1993, potem ko je diplomiral iz fizike in kemije. Mzoudi je študiral v Dortmundu, Bochumu in Münstru, preden se je leta 1995 preselil v Hamburg. Mzoudi se je opisal kot medlega muslimana, ko je bil doma v Maroku, vendar veliko bolj gorečega, ko je bil v Hamburgu.  Aprila 1996 sta Mzoudi in Motassadeq bila priči pri oblikovanju Attine oporoke. V času leta 1999 so Atta in pripadniki njegove skupine postajali vedno bolj radikalni in skrivnostni ter se pogovarjali zgolj v arabščini, da bi prikrili vsebino svojih pogovorov. Ko so štirje ključni člani hamburške celice pozneje istega leta iz Nemčije odpotovali v Afganistan, najverjetneje niso vedeli še ničesar o napadu z letalu; dokazi kažejo na to, da pred tem niso bili povezani z Al-Kaido. Priče so potrdile, da so njihove izjave nakazovale pripravljenost izvesti neke vrste napad proti ZDA. Skratka, bili so pravi kandidati za Bin Ladna, Atefa in KSM. Pot v Afganistan -- Razpoložljivi dokazi kažejo, da so se Atta, Binalshibh, Shehhi in Jarrah leta 1999 odločili, da se bodo v Čečeniji borili proti Rusom. 
+passage.questions.9.question:Kaj so trije primeri Mounirjevih in Motassadeqovih radikalnih prepričanj?
+passage.questions.9.idx:118.0
+passage.questions.9.answers.9.text:Pustiti si brado
+passage.questions.9.answers.9.label:1.0
+passage.questions.9.answers.9.idx:673.0
+passage.questions.9.answers.8.text:Molitev
+passage.questions.9.answers.8.label:0.0
+passage.questions.9.answers.8.idx:672.0
+passage.questions.9.answers.7.text:Fizično prisilil prijatelja, da sledi verskim prepričanjem
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:671.0
+passage.questions.9.answers.6.text:Bi ubil družino, ko bi to zahtevala vera
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:670.0
+passage.questions.9.answers.5.text:Žena se mora spreobrniti v islam
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:669.0
+passage.questions.9.answers.4.text:Post
+passage.questions.9.answers.4.label:0.0
+passage.questions.9.answers.4.idx:668.0
+passage.questions.9.answers.3.text:Rekel je, da bi ubil celo svojo družino, ko bi to zahtevala vera, občudoval je Hitlerja in organiziral filmske večere, kjer je predvajal Bin Ladnove govore?
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:667.0
+passage.questions.9.answers.2.text:Spreobrnitev v islam
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:666.0
+passage.questions.9.answers.1.text:Bi ubil družino zaradi verskih prepričanj
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:665.0
+passage.questions.9.answers.0.text:Želi živeti svobodno, izraža nevero
+passage.questions.9.answers.0.label:0.0
+passage.questions.9.answers.0.idx:664.0
+passage.questions.8.question:Ali sta Zakariya Essabar in Mounir el Motassadeq v času svojega bivanja v Nemčiji bila deležna visoke izobrazbe?
+passage.questions.8.idx:117.0
+passage.questions.8.answers.2.text:Da
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:663.0
+passage.questions.8.answers.1.text:Da. Zakariya Essabar je v Hamburgu študiral medicinsko tehnologijo, Mounir el Motassadeq pa elektrotehniko na Tehnični univerzi v Hamburgu.
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:662.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:0.0
+passage.questions.8.answers.0.idx:661.0
+passage.questions.7.question:Kdo so bili pripadniki hamburške celice?
+passage.questions.7.idx:116.0
+passage.questions.7.answers.9.text:Bin Laden
+passage.questions.7.answers.9.label:0.0
+passage.questions.7.answers.9.idx:660.0
+passage.questions.7.answers.8.text:Mounir el Motassadeq in Abdelghani Mzoudi
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:659.0
+passage.questions.7.answers.7.text:Atta
+passage.questions.7.answers.7.label:0.0
+passage.questions.7.answers.7.idx:658.0
+passage.questions.7.answers.6.text:Shehhi
+passage.questions.7.answers.6.label:0.0
+passage.questions.7.answers.6.idx:657.0
+passage.questions.7.answers.5.text:Atef
+passage.questions.7.answers.5.label:0.0
+passage.questions.7.answers.5.idx:656.0
+passage.questions.7.answers.4.text:Motassadeq, Binalshibh, Essabar, Mzoudi
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:655.0
+passage.questions.7.answers.3.text:Mzoudi
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:654.0
+passage.questions.7.answers.2.text:Abdelghani Mzoudi, Zakariya Essabar
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:653.0
+passage.questions.7.answers.1.text:Essabar
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:652.0
+passage.questions.7.answers.0.text:Motassadeq
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:651.0
+passage.questions.6.question:Ali so Zakariya Essabar, Mounir el Motassadeq in Abdelghani Mzoudi vsi iz Maroka?
+passage.questions.6.idx:115.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:650.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:0.0
+passage.questions.6.answers.0.idx:649.0
+passage.questions.5.question:Kdaj se je Essabar spoznal z Binalshibhom?
+passage.questions.5.idx:114.0
+passage.questions.5.answers.4.text:1998
+passage.questions.5.answers.4.label:1,0
+passage.questions.5.answers.4.idx:648.0
+passage.questions.5.answers.3.text:1999
+passage.questions.5.answers.3.label:0.0
+passage.questions.5.answers.3.idx:647.0
+passage.questions.5.answers.2.text:2001
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:646.0
+passage.questions.5.answers.1.text:1996
+passage.questions.5.answers.1.label:0.0
+passage.questions.5.answers.1.idx:645.0
+passage.questions.5.answers.0.text:1997
+passage.questions.5.answers.0.label:0.0
+passage.questions.5.answers.0.idx:644.0
+passage.questions.4.question:Kdo je pred napadi 11. septembra odpotoval v Afganistan ?
+passage.questions.4.idx:113.0
+passage.questions.4.answers.4.text:Zakariya Essabar
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:643.0
+passage.questions.4.answers.3.text:Zakariya
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:642.0
+passage.questions.4.answers.2.text:Osama Bin Laden
+passage.questions.4.answers.2.label:0.0
+passage.questions.4.answers.2.idx:641.0
+passage.questions.4.answers.1.text:Binalshibh
+passage.questions.4.answers.1.label:0.0
+passage.questions.4.answers.1.idx:640.0
+passage.questions.4.answers.0.text:Essabar
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:639.0
+passage.questions.3.question:Ali je Abdelghani Mzoudi prispel v  Hamburg pred Zakariyo Essabarjem?
+passage.questions.3.idx:112.0
+passage.questions.3.answers.2.text:Da. V Hamburg se je preselil leta 1995. Essabar je prispel leta 1998.
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:638.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:637.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0.0
+passage.questions.3.answers.0.idx:636.0
+passage.questions.2.question:Od kakšnega načina življenja so starši poskušali odvrniti Zakariya Essabarja?
+passage.questions.2.idx:111.0
+passage.questions.2.answers.6.text:Zmernega islama
+passage.questions.2.answers.6.label:0.0
+passage.questions.2.answers.6.idx:635.0
+passage.questions.2.answers.5.text:Budizma
+passage.questions.2.answers.5.label:0.0
+passage.questions.2.answers.5.idx:634.0
+passage.questions.2.answers.4.text:Liberalnega
+passage.questions.2.answers.4.label:0.0
+passage.questions.2.answers.4.idx:633.0
+passage.questions.2.answers.3.text:Islamskega ekstremizma
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:632.0
+passage.questions.2.answers.2.text:Radikalnega
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:631.0
+passage.questions.2.answers.1.text:Radikalnega islama
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:630.0
+passage.questions.2.answers.0.text:Verskega ekstremizma
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:629.0
+passage.questions.13.question:Kdo se je prej preselil v Nemčijo: Mounir el Motassadeq ali Zakariya Essabar?
+passage.questions.13.idx:122.0
+passage.questions.13.answers.3.text:Essabar
+passage.questions.13.answers.3.label:0.0
+passage.questions.13.answers.3.idx:693.0
+passage.questions.13.answers.2.text:Zakariya
+passage.questions.13.answers.2.label:0.0
+passage.questions.13.answers.2.idx:692.0
+passage.questions.13.answers.1.text:Mounir el Motassadeq
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:691.0
+passage.questions.13.answers.0.text:Motassadeq
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:690.0
+passage.questions.12.question:Kdo se je prej preselil v Nemčijo: Abdelghani Mzoudi ali Zakariya Essabar?
+passage.questions.12.idx:121.0
+passage.questions.12.answers.3.text:Essabar
+passage.questions.12.answers.3.label:0.0
+passage.questions.12.answers.3.idx:689.0
+passage.questions.12.answers.2.text:Mzoudi
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:688.0
+passage.questions.12.answers.1.text:Zakariya Essabar
+passage.questions.12.answers.1.label:0.0
+passage.questions.12.answers.1.idx:687.0
+passage.questions.12.answers.0.text:Abdelghani Mzoudi
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:686.0
+passage.questions.11.question:Kateri Maročani so v devetdesetih letih živeli v Nemčiji?
+passage.questions.11.idx:120.0
+passage.questions.11.answers.7.text:Bin Laden
+passage.questions.11.answers.7.label:0.0
+passage.questions.11.answers.7.idx:685.0
+passage.questions.11.answers.6.text:Zakariya in Mounir
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:684.0
+passage.questions.11.answers.5.text:Binalshibh, Essabar, Mzoudi
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:683.0
+passage.questions.11.answers.4.text:Atef
+passage.questions.11.answers.4.label:0.0
+passage.questions.11.answers.4.idx:682.0
+passage.questions.11.answers.3.text:Zakariya Essabar in Mounir el Motassadeq
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:681.0
+passage.questions.11.answers.2.text:Binalshibh
+passage.questions.11.answers.2.label:0.0
+passage.questions.11.answers.2.idx:680.0
+passage.questions.11.answers.1.text:Essabar
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:679.0
+passage.questions.11.answers.0.text:Motassadeq
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:678.0
+passage.questions.10.question:Kdo naj bi malo pred napadi 11. septembra odpotoval v Afganistan, da bi vodstvu Al-Kaide posredoval datum napada?
+passage.questions.10.idx:119.0
+passage.questions.10.answers.3.text:Essabar
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:677.0
+passage.questions.10.answers.2.text:Atta
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:676.0
+passage.questions.10.answers.1.text:Mzoudi
+passage.questions.10.answers.1.label:0.0
+passage.questions.10.answers.1.idx:675.0
+passage.questions.10.answers.0.text:Motassadeq
+passage.questions.10.answers.0.label:0.0
+passage.questions.10.answers.0.idx:674.0
+passage.questions.1.question:Kateri člani celice so bili Maročani?
+passage.questions.1.idx:110.0
+passage.questions.1.answers.7.text:Zakariya Essabar
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:628.0
+passage.questions.1.answers.6.text:Abdelghani Mzoudi in Motassadeq
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:627.0
+passage.questions.1.answers.5.text:Mounir el Motassadeq
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:626.0
+passage.questions.1.answers.4.text:Al-Kaida
+passage.questions.1.answers.4.label:0.0
+passage.questions.1.answers.4.idx:625.0
+passage.questions.1.answers.3.text:BinLaden
+passage.questions.1.answers.3.label:0.0
+passage.questions.1.answers.3.idx:624.0
+passage.questions.1.answers.2.text:Zakariya Essabar in Mounir el Motassadeq
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:623.0
+passage.questions.1.answers.1.text:Binalshibh
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:622.0
+passage.questions.1.answers.0.text:Abdelghani Mzoudi, Mounir el Motassadeq in Zakariya Essabar
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:621.0
+passage.questions.0.question:V kateri državi sta se spoznala Essabar in Binalshibh?
+passage.questions.0.idx:109
+passage.questions.0.answers.2.text:Turčiji
+passage.questions.0.answers.2.label:0.0
+passage.questions.0.answers.2.idx:620.0
+passage.questions.0.answers.1.text:Nemčiji
+passage.questions.0.answers.1.label:1
+passage.questions.0.answers.1.idx:619
+passage.questions.0.answers.0.text:Afganistanu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:618
+idx:10

@@ -1,0 +1,6 @@
+choice1:Bilo je pasterizirano.
+choice2:Shranila sem ga v hladilniku.
+idx:338
+label:1
+premise:Mleko je ostalo hladno.
+question:cause

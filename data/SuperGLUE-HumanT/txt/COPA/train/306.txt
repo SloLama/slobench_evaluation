@@ -1,0 +1,6 @@
+choice1:Poslali so jo v psihiatrično ustanovo.
+choice2:Hotela je postati psihiatrinja.
+idx:306
+label:0
+premise:Razglasili so jo za duševno bolno.
+question:effect

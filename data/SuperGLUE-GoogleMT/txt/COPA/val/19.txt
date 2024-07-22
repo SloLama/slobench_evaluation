@@ -1,0 +1,6 @@
+choice1:S prstom si je opekla opekač kruha.
+choice2:Na prst si je nadela diamantni prstan.
+idx:19
+label:0
+premise:Ženska je s prstom tekla pod mrzlo vodo.
+question:cause

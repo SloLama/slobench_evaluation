@@ -1,0 +1,86 @@
+version:1.1
+passage.text:Žuželka ima lahko eno od treh vrst sprememb v svojem življenju. Metamorfoza opisuje, kako se žuželke spreminjajo. Nekatere žuželke ne preživijo sprememb. Namesto tega so mladi videti kot majhne različice odraslih. Edina sprememba med mladimi in zrelimi je velikost. Druge vrste žuželk se spreminjajo v fizičnem videzu. Obstajata dve vrsti tovrstnih sprememb. Nekatere žuželke se med spremembo le malo spremenijo. Ta vrsta se imenuje nepopolna metamorfoza. Druge vrste žuželk doživljajo velike spremembe. Ko se rodijo, sploh niso videti kot odrasli. Ta vrsta sprememb se imenuje popolna metamorfoza. Pojavlja se pri najbolj primitivnih žuželkah. Novorojena žuželka je videti kot majhna različica odraslega. Nepopolne tri faze: jajčece, nimfa in odrasla oseba. Mladi, imenovani nimfe, običajno podobni odraslim. Rast se pojavi v fazi nimfe.
+passage.questions.3.question:Kako so videti mladiči žuželk, ki ne preživijo spremembe?
+passage.questions.3.idx:2962.0
+passage.questions.3.answers.6.text:Mladi so videti kot majhne različice odraslih
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:15725.0
+passage.questions.3.answers.5.text:Izgledajo kot majhne različice odraslih
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:15724.0
+passage.questions.3.answers.4.text:Manjši od nimf
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:15723.0
+passage.questions.3.answers.3.text:Kot druga žival
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:15722.0
+passage.questions.3.answers.2.text:Metamorfoza
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15721.0
+passage.questions.3.answers.1.text:Ne zgleda kot odrasla oseba
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15720.0
+passage.questions.3.answers.0.text:Podobno kot pri odraslih
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:15719.0
+passage.questions.2.question:Kako se imenuje, ko nekatere žuželke preživijo eno od treh vrst sprememb?
+passage.questions.2.idx:2961.0
+passage.questions.2.answers.4.text:Metamorfoza
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:15718.0
+passage.questions.2.answers.3.text:Nepopolna metamorfoza
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:15717.0
+passage.questions.2.answers.2.text:Molting
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:15716.0
+passage.questions.2.answers.1.text:Življenski krog
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:15715.0
+passage.questions.2.answers.0.text:Popolna metamorfoza
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15714.0
+passage.questions.1.question:Kako se imenuje, ko žuželka preživi večjo spremembo in ni videti tako kot ob rojstvu?
+passage.questions.1.idx:2960.0
+passage.questions.1.answers.4.text:Nadomestna metamorfoza
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:15713.0
+passage.questions.1.answers.3.text:Primitivne žuželke
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:15712.0
+passage.questions.1.answers.2.text:Nepopolna metamorfoza
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:15711.0
+passage.questions.1.answers.1.text:Nimfoidna metamorfoza
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15710.0
+passage.questions.1.answers.0.text:Popolna metamorfoza
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:15709.0
+passage.questions.0.question:Kaj se zgodi, ko gre žuželka skozi nepopolno metomorfozo?
+passage.questions.0.idx:2959
+passage.questions.0.answers.7.text:Izgledajo popolnoma enako kot odrasli kot takrat, ko se je rodil
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:15708.0
+passage.questions.0.answers.6.text:Izgleda kot majhna različica odraslega
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:15707.0
+passage.questions.0.answers.5.text:Tri stopnje: jajčece, nimfa in odrasla oseba
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:15706.0
+passage.questions.0.answers.4.text:Sledi štirim razvojnim stopnjam
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:15705.0
+passage.questions.0.answers.3.text:Pojavlja se pri najbolj primitivnih žuželkah
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:15704.0
+passage.questions.0.answers.2.text:Nekoliko spremembe
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15703.0
+passage.questions.0.answers.1.text:Spremenite le rahlo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:15702
+passage.questions.0.answers.0.text:Izgleda zelo različno od dojenčka do odraslega
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:15701
+idx:264

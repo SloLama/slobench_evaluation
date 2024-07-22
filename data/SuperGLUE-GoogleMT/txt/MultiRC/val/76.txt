@@ -1,0 +1,429 @@
+version:1.1
+passage.text:Hitrost je pomemben vidik gibanja. To je merilo, kako hitro ali počasi se nekaj premika. Za določanje hitrosti morate vedeti dve stvari. Najprej morate vedeti, kako daleč nekaj potuje. Drugič, vedeti morate, koliko časa traja tako daleč. Hitrost lahko izračunamo po tej formuli: hitrost = čas razdalje Znan primer je hitrost avtomobila. V ZDA je to običajno izraženo v miljah na uro. Pomislite na potovanje, ki ste ga vi in vaša družina opravili v avtu. Mogoče je potovanje preteklo 120 milj in trajalo 3 ure. Kakšna je bila hitrost avtomobilov? hitrost = 120 mi = 40 mi / h 3h Hitrost avtomobila je lahko izražena tudi v kilometrih na uro (km / h). Enota SI za hitrost je meter na sekundo (m / s). To je merska enota, ki bi jo uporabil znanstvenik.
+passage.questions.9.question:Kaj je enota za hitrost in kdo jo uporablja?
+passage.questions.9.idx:884.0
+passage.questions.9.answers.9.text:S
+passage.questions.9.answers.9.label:0,0
+passage.questions.9.answers.9.idx:4491.0
+passage.questions.9.answers.8.text:SI- znanstveniki
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:4490.0
+passage.questions.9.answers.7.text:km
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:4489.0
+passage.questions.9.answers.6.text:ZDA uporabljajo mi
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:4488.0
+passage.questions.9.answers.5.text:Znanstveniki uporabljajo m
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:4487.0
+passage.questions.9.answers.4.text:H uporabljajo ZDA
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:4486.0
+passage.questions.9.answers.3.text:Frekvenca - kinetični inženirji
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:4485.0
+passage.questions.9.answers.2.text:KPH - ZDA
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4484.0
+passage.questions.9.answers.1.text:Enota SI je meter na sekundo (m / s). Uporabljajo ga znanstveniki
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:4483.0
+passage.questions.9.answers.0.text:Ohmi - Znanstveniki
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4482.0
+passage.questions.8.question:Če bi se vaša družina odpravila z avtom, katere podatke bi potrebovali za določitev povprečne prevožene hitrosti?
+passage.questions.8.idx:883.0
+passage.questions.8.answers.6.text:Kako dolgo je trajalo
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:4481.0
+passage.questions.8.answers.5.text:Koliko kilometrov ste prevozili
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:4480.0
+passage.questions.8.answers.4.text:Kako daleč ste potovali in kako dolgo ste potrebovali
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:4479.0
+passage.questions.8.answers.3.text:Kako daleč ste šli in koliko sekund je trajalo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4478.0
+passage.questions.8.answers.2.text:Koliko metrov ste prevozili
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4477.0
+passage.questions.8.answers.1.text:Za določitev hitrosti avtomobilov potrebujete prevoženo razdaljo in čas, potreben za prevoz te razdalje
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4476.0
+passage.questions.8.answers.0.text:Koliko prevoženih kilometrov in kdaj ste prispeli
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4475.0
+passage.questions.7.question:Kako se izračuna hitrost?
+passage.questions.7.idx:882.0
+passage.questions.7.answers.7.text:Z znanstveno formulo
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:4474.0
+passage.questions.7.answers.6.text:Hitrost = časovno gibanje
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:4473.0
+passage.questions.7.answers.5.text:Hitrost = gibanje razdalje
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:4472.0
+passage.questions.7.answers.4.text:Kako daleč nekaj potuje
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:4471.0
+passage.questions.7.answers.3.text:Potrebujete razdaljo, ki jo je prepotoval predmet, deljeno s časom, potrebnim za pot
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:4470.0
+passage.questions.7.answers.2.text:Hitrost = razdalja skozi čas
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4469.0
+passage.questions.7.answers.1.text:Hitrost = gravitacija gibanja
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4468.0
+passage.questions.7.answers.0.text:Kako dolgo traja potovanje tako daleč
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4467.0
+passage.questions.6.question:Kateri dve stvari morate vedeti, da določite hitrost?
+passage.questions.6.idx:881.0
+passage.questions.6.answers.8.text:Kako daleč nekaj potuje in čas prihoda
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:4466.0
+passage.questions.6.answers.7.text:Čas
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:4465.0
+passage.questions.6.answers.6.text:Čas prihoda in kako dolgo je trajalo nekaj, da sem potoval tja
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:4464.0
+passage.questions.6.answers.5.text:Razdalja
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:4463.0
+passage.questions.6.answers.4.text:Čas prihoda in sončni zahod
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:4462.0
+passage.questions.6.answers.3.text:Kako daleč nekaj potuje
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:4461.0
+passage.questions.6.answers.2.text:Pri določanju hitrosti je treba vedeti, kako daleč je potoval predmet in koliko časa je trajalo
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:4460.0
+passage.questions.6.answers.1.text:Kako daleč nekaj potuje in kako dolgo traja, da se tako daleč prepotuje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:4459.0
+passage.questions.6.answers.0.text:Kako dolgo traja potovanje tako daleč
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4458.0
+passage.questions.5.question:Kako izračunate hitrost v ZDA?
+passage.questions.5.idx:880.0
+passage.questions.5.answers.7.text:km
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:4457.0
+passage.questions.5.answers.6.text:V kilometrih na uro
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:4456.0
+passage.questions.5.answers.5.text:čas na razdalji
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:4455.0
+passage.questions.5.answers.4.text:V metrih na sekundo
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4454.0
+passage.questions.5.answers.3.text:kilometrov na uro
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:4453.0
+passage.questions.5.answers.2.text:V litrih na sekundo
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4452.0
+passage.questions.5.answers.1.text:Mi
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4451.0
+passage.questions.5.answers.0.text:Hitrost = razdalja skozi čas
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4450.0
+passage.questions.4.question:Kakšna je formula za hitrost?
+passage.questions.4.idx:879.0
+passage.questions.4.answers.5.text:Hitrost = kinestetika na daljavo
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:4449.0
+passage.questions.4.answers.4.text:Hitrost = razdalja / čas
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:4448.0
+passage.questions.4.answers.3.text:Hitrost = razdalja
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4447.0
+passage.questions.4.answers.2.text:Hitrost = gravitacija razdalje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4446.0
+passage.questions.4.answers.1.text:Hitrost = časovno gibanje
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4445.0
+passage.questions.4.answers.0.text:Hitrost = čas razdalje
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4444.0
+passage.questions.3.question:V čem se razlikujejo ameriške meritve hitrosti in meritve, ki jih uporablja znanstvenik?
+passage.questions.3.idx:878.0
+passage.questions.3.answers.7.text:Znanstveniki izračunajo z enoto SI ali v metrih na sekundo, ki jih ZDA izračunajo s kilometri na uro
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:4443.0
+passage.questions.3.answers.6.text:Znanstveniki uporabljajo števce
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:4442.0
+passage.questions.3.answers.5.text:ZDA izračunajo z metri na uro, znanstveniki pa z metri na sekundo
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:4441.0
+passage.questions.3.answers.4.text:ZDA uporabljajo števce
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:4440.0
+passage.questions.3.answers.3.text:Znanstveniki izračunajo milje na uro, ZDA pa metre na uro
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:4439.0
+passage.questions.3.answers.2.text:ZDA hitrost merijo z miljami na uro, znanstvenik pa bi uporabil SI (mednarodno) mersko enoto metrov na sekundo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4438.0
+passage.questions.3.answers.1.text:ZDA uporabljajo milje
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4437.0
+passage.questions.3.answers.0.text:Znanstveniki uporabljajo kilometre
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4436.0
+passage.questions.2.question:Kaj je hitrost?
+passage.questions.2.idx:877
+passage.questions.2.answers.9.text:Kako hitro se nekaj premika v vesolju
+passage.questions.2.answers.9.label:0,0
+passage.questions.2.answers.9.idx:4431.0
+passage.questions.2.answers.8.text:Vidik gibanja je merilo, kako počasi ali hitro nekaj potuje
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:4430.0
+passage.questions.2.answers.7.text:Kako daleč nekaj potuje
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:4429.0
+passage.questions.2.answers.6.text:Sila gravitacije
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:4428.0
+passage.questions.2.answers.5.text:Ko se nekaj premakne
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:4427.0
+passage.questions.2.answers.4.text:Gravitacijsko vlečenje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4426.0
+passage.questions.2.answers.3.text:To je merilo, kako daleč je nekaj
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4425.0
+passage.questions.2.answers.2.text:Mera teže proti času
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4424.0
+passage.questions.2.answers.13.text:Vidik gibanja; merilo, kako hitro ali počasi se premika predmet
+passage.questions.2.answers.13.label:1.0
+passage.questions.2.answers.13.idx:4435.0
+passage.questions.2.answers.12.text:Mera gibanja
+passage.questions.2.answers.12.label:0,0
+passage.questions.2.answers.12.idx:4434.0
+passage.questions.2.answers.11.text:Merilo, kako hitro ali počasi se nekaj premika
+passage.questions.2.answers.11.label:1.0
+passage.questions.2.answers.11.idx:4433.0
+passage.questions.2.answers.10.text:To je merilo, kako hitro ali počasi se nekaj premika
+passage.questions.2.answers.10.label:1.0
+passage.questions.2.answers.10.idx:4432.0
+passage.questions.2.answers.1.text:Hitrost je pomemben vidik gibanja
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:4423
+passage.questions.2.answers.0.text:Kako dolgo traja potovanje tako daleč
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:4422
+passage.questions.14.question:Katere dve različni merski enoti lahko uporabimo za izražanje hitrosti?
+passage.questions.14.idx:889.0
+passage.questions.14.answers.8.text:Merilniki
+passage.questions.14.answers.8.label:0,0
+passage.questions.14.answers.8.idx:4534.0
+passage.questions.14.answers.7.text:Inches
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:4533.0
+passage.questions.14.answers.6.text:Milje
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:4532.0
+passage.questions.14.answers.5.text:MPH ali MMPS
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:4531.0
+passage.questions.14.answers.4.text:Dvorišča
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:4530.0
+passage.questions.14.answers.3.text:SI ali MMPH
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:4529.0
+passage.questions.14.answers.2.text:Milje na uro ali metri na sekundo
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:4528.0
+passage.questions.14.answers.1.text:SI ali MPH
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:4527.0
+passage.questions.14.answers.0.text:MPH
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:4526.0
+passage.questions.13.question:Katere različne meritve predstavljajo hitrost avtomobila?
+passage.questions.13.idx:888.0
+passage.questions.13.answers.9.text:MMPH
+passage.questions.13.answers.9.label:0,0
+passage.questions.13.answers.9.idx:4525.0
+passage.questions.13.answers.8.text:S
+passage.questions.13.answers.8.label:0,0
+passage.questions.13.answers.8.idx:4524.0
+passage.questions.13.answers.7.text:km
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:4523.0
+passage.questions.13.answers.6.text:MPH
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:4522.0
+passage.questions.13.answers.5.text:H
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:4521.0
+passage.questions.13.answers.4.text:SIMP
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:4520.0
+passage.questions.13.answers.3.text:Mi
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:4519.0
+passage.questions.13.answers.2.text:SI
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:4518.0
+passage.questions.13.answers.1.text:Milje na uro, kilometri na uro in enota SI za hitrost je meter na sekundo
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:4517.0
+passage.questions.13.answers.0.text:SIH
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:4516.0
+passage.questions.12.question:Kaj sta dve enoti hitrosti?
+passage.questions.12.idx:887.0
+passage.questions.12.answers.8.text:gospa
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:4515.0
+passage.questions.12.answers.7.text:km
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:4514.0
+passage.questions.12.answers.6.text:MPH in KPH
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:4513.0
+passage.questions.12.answers.5.text:SI in MPH
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:4512.0
+passage.questions.12.answers.4.text:SI in milje
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:4511.0
+passage.questions.12.answers.3.text:Števci na sekundo in kilometri na uro
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:4510.0
+passage.questions.12.answers.2.text:Mi
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:4509.0
+passage.questions.12.answers.1.text:SI in OHMS
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4508.0
+passage.questions.12.answers.0.text:kl
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:4507.0
+passage.questions.11.question:Kako bi izračunali hitrost potovanja, ki je dolga 120 milj in traja 3 ure?
+passage.questions.11.idx:886.0
+passage.questions.11.answers.7.text:Hitrost = 121 milj = 40 milj
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:4506.0
+passage.questions.11.answers.6.text:120, deljeno s 3 miljami na uro
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:4505.0
+passage.questions.11.answers.5.text:H 3h
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:4504.0
+passage.questions.11.answers.4.text:Hitrost = 40 mi / h 3h
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:4503.0
+passage.questions.11.answers.3.text:120 deljeno s 40 nobena enota
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4502.0
+passage.questions.11.answers.2.text:120 krat 40
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4501.0
+passage.questions.11.answers.1.text:120 krat 3
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4500.0
+passage.questions.11.answers.0.text:Hitrost = 120 milj = 40 milj
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4499.0
+passage.questions.10.question:Kako določite hitrost?
+passage.questions.10.idx:885.0
+passage.questions.10.answers.6.text:Množenje milj s časom
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:4498.0
+passage.questions.10.answers.5.text:Hitrost lahko izračunamo po tej formuli: hitrost = čas razdalje Znan primer je hitrost avtomobila
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:4497.0
+passage.questions.10.answers.4.text:Kako daleč nekaj potuje
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:4496.0
+passage.questions.10.answers.3.text:Množenje razdalje s časom
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:4495.0
+passage.questions.10.answers.2.text:Uporaba merilnika hitrosti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4494.0
+passage.questions.10.answers.1.text:Hitrost = čas razdalje
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:4493.0
+passage.questions.10.answers.0.text:Kako dolgo traja potovanje tako daleč
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4492.0
+passage.questions.1.question:Kako določimo hitrost?
+passage.questions.1.idx:876
+passage.questions.1.answers.7.text:Delitev km / h in razdalje
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:4421.0
+passage.questions.1.answers.6.text:Kako daleč nekaj potuje
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:4420.0
+passage.questions.1.answers.5.text:Kalkulator
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:4419.0
+passage.questions.1.answers.4.text:Množenje mph in razdalje
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:4418.0
+passage.questions.1.answers.3.text:Dodajanje mph in razdalje
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4417.0
+passage.questions.1.answers.2.text:Vedeti morate, kako daleč nekaj potuje in kako dolgo traja, da se tako daleč prepotuje
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4416.0
+passage.questions.1.answers.1.text:Hitrost = čas razdalje
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:4415
+passage.questions.1.answers.0.text:Kako dolgo traja potovanje tako daleč
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:4414
+passage.questions.0.question:Kaj so merila hitrosti?
+passage.questions.0.idx:875
+passage.questions.0.answers.9.text:Kilometer
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:4412.0
+passage.questions.0.answers.8.text:H
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:4411.0
+passage.questions.0.answers.7.text:Ohmi in SI
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:4410.0
+passage.questions.0.answers.6.text:V ZDA je to običajno izraženo v metrih na sekundo (m / s)
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:4409.0
+passage.questions.0.answers.5.text:V ZDA je to običajno izraženo v miljah na uro
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:4408.0
+passage.questions.0.answers.4.text:MPH
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:4407.0
+passage.questions.0.answers.3.text:Milje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4406.0
+passage.questions.0.answers.2.text:LPM in MPH
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4405.0
+passage.questions.0.answers.10.text:Km
+passage.questions.0.answers.10.label:0,0
+passage.questions.0.answers.10.idx:4413.0
+passage.questions.0.answers.1.text:Mi
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4404
+passage.questions.0.answers.0.text:KPH in LLH
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4403
+idx:76

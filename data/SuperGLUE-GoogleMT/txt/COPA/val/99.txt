@@ -1,0 +1,6 @@
+choice1:S prijateljico se je zapletla v pogovor.
+choice2:Prijateljici je rekla, naj jo pusti pri miru.
+idx:99
+label:1
+premise:Ženska je bila slabe volje.
+question:effect

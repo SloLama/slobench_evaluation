@@ -1,0 +1,366 @@
+version:1.1
+passage.text:Kitajski vplivi: Japonci so bili prisiljeni s Korejskega polotoka v šestem stoletju, vendar šele preden so Korejci sodišču Yamato zapuščali kopije svetih podob in spisov kitajskega budizma. Tako kot je krščanstvo v severno Evropo vneslo sredozemsko kulturo, je tudi budizem v japonsko družbo prinesel kitajsko kulturo. V sedmem in osmem stoletju so številni japonski menihi, učenjaki in umetniki nevarno potovali na zahod čez Japonsko morje, da bi preučevali kitajsko religijo, zgodovino, glasbo, literaturo in slikarstvo - kasneje pa so jih vrnili za nadaljnji razvoj na Japonskem. Izjemna osebnost tega časa je bil princ Šotoku, ki je leta 604 razvil &quot;sedemnajstčlensko ustavo&quot;, ki je kot temeljni zakon za narod opisal kodeks človeškega ravnanja in državne ideale. Vzpostavil je tudi odnose z dinastijo Sui na Kitajskem. Preko njega je japonsko cesarsko sodišče razvilo kitajske vzorce centralizirane vlade s formalno birokracijo osmih sodnih stopenj. Kitajski koledar je bil uporabljen za izračun leta ustanovitve Japonske s štetjem 1.260 let kitajskega kozmološkega cikla. Tako je 660 pr. N. Št. Še vedno uradni datum, ki se praznuje po vsej državi. Na tej zgodnji stopnji svoje zgodovine je Japonski (večinoma) le nominalno vladal cesar. Dejansko oblast je izvajala vojaško in ekonomsko najmočnejša družina. Sogaši so budizem promovirali kot nujno dovoljeno protiutež domači šintoistični religiji, skupaj z novimi kitajskimi običaji, da bi oslabili vpliv svojih bolj konzervativnih tekmecev. Toda leta 645 jih je izrinil Nakatomi Kamatari, ustanovitelj velikega klana Fujiwara, ki naj bi stotine let vodil japonske zadeve in cesarju zagotavljal ugledne svetovalce celo do 19. stoletja.
+passage.questions.9.question:Kateri deli kitajske kulture so bili vključeni v japonsko družbo?
+passage.questions.9.idx:4229.0
+passage.questions.9.answers.9.text:Šport in umetnost
+passage.questions.9.answers.9.label:0,0
+passage.questions.9.answers.9.idx:22502.0
+passage.questions.9.answers.8.text:Religija, zgodovina, glasba, literatura in slikarstvo
+passage.questions.9.answers.8.label:1.0
+passage.questions.9.answers.8.idx:22501.0
+passage.questions.9.answers.7.text:Glasba
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:22500.0
+passage.questions.9.answers.6.text:Zgodovina
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:22499.0
+passage.questions.9.answers.5.text:Shinto
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:22498.0
+passage.questions.9.answers.4.text:Religija
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:22497.0
+passage.questions.9.answers.3.text:Krščanstvo
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:22496.0
+passage.questions.9.answers.2.text:Kitajska religija, zgodovina, glasba, literatura in slikarstvo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:22495.0
+passage.questions.9.answers.13.text:Budizem
+passage.questions.9.answers.13.label:1.0
+passage.questions.9.answers.13.idx:22506.0
+passage.questions.9.answers.12.text:Literatura
+passage.questions.9.answers.12.label:1.0
+passage.questions.9.answers.12.idx:22505.0
+passage.questions.9.answers.11.text:Kitajski običaji
+passage.questions.9.answers.11.label:0,0
+passage.questions.9.answers.11.idx:22504.0
+passage.questions.9.answers.10.text:Svete podobe in spisi kitajskega budizma
+passage.questions.9.answers.10.label:1.0
+passage.questions.9.answers.10.idx:22503.0
+passage.questions.9.answers.1.text:Glasba, šport in ples
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:22494.0
+passage.questions.9.answers.0.text:Kitajski koledar
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:22493.0
+passage.questions.8.question:Kako je budizem v japonsko družbo prinesel kitajsko kulturo?
+passage.questions.8.idx:4228.0
+passage.questions.8.answers.5.text:Japonski menihi, učenjaki in umetniki so odšli na zahod na študij na Kitajsko, nato pa so se z naučenim vrnili na Japonsko
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:22492.0
+passage.questions.8.answers.4.text:Japonski menihi, učenjaki in umetniki so ga vrnili na Japonsko za nadaljnji razvoj
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:22491.0
+passage.questions.8.answers.3.text:Kitajski vzorci centralizirane vlade
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:22490.0
+passage.questions.8.answers.2.text:Kitajski zakoni
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:22489.0
+passage.questions.8.answers.1.text:Kristjani iz severne Evrope so na Japonsko prinesli budizem
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:22488.0
+passage.questions.8.answers.0.text:Kitajski koledarji
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:22487.0
+passage.questions.7.question:Kdo je pomagal vplivati na japonsko cesarsko sodišče pri razvoju kitajskih vzorcev centralizirane vlade?
+passage.questions.7.idx:4227.0
+passage.questions.7.answers.8.text:Princ Šotoku
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:22486.0
+passage.questions.7.answers.7.text:Izjemen lik sedmega in osmega stoletja
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:22485.0
+passage.questions.7.answers.6.text:Sui Fuijiwara
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:22484.0
+passage.questions.7.answers.5.text:Sogas
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:22483.0
+passage.questions.7.answers.4.text:Umetniki
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:22482.0
+passage.questions.7.answers.3.text:Klan Fujiwara
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:22481.0
+passage.questions.7.answers.2.text:Štipendisti
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:22480.0
+passage.questions.7.answers.1.text:Japonski menihi
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:22479.0
+passage.questions.7.answers.0.text:Nakatomi Kamatari
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:22478.0
+passage.questions.6.question:Koga je Nakatomi Kamatari izrinil iz oglasa 645?
+passage.questions.6.idx:4226.0
+passage.questions.6.answers.2.text:Klan Fujiwara
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:22477.0
+passage.questions.6.answers.1.text:Sogas
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:22476.0
+passage.questions.6.answers.0.text:Princ Šotoku
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:22475.0
+passage.questions.5.question:Religija, ki jo je na Japonsko prinesla Kitajska
+passage.questions.5.idx:4225.0
+passage.questions.5.answers.6.text:Taoizem
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:22474.0
+passage.questions.5.answers.5.text:Budizem
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:22473.0
+passage.questions.5.answers.4.text:Kitajski budizem
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:22472.0
+passage.questions.5.answers.3.text:Jainizem
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:22471.0
+passage.questions.5.answers.2.text:Shinto
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:22470.0
+passage.questions.5.answers.1.text:Krščanstvo
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:22469.0
+passage.questions.5.answers.0.text:Hinduizem
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:22468.0
+passage.questions.4.question:Kdo je pomagal japonskemu cesarskemu sodišču razviti kitajske vzorce centralizirane vlade?
+passage.questions.4.idx:4224.0
+passage.questions.4.answers.8.text:Princ Šotoku
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:22467.0
+passage.questions.4.answers.7.text:Izjemen lik sedmega in osmega stoletja
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:22466.0
+passage.questions.4.answers.6.text:Sui Fuijiwara
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:22465.0
+passage.questions.4.answers.5.text:Sogas
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:22464.0
+passage.questions.4.answers.4.text:Umetniki
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:22463.0
+passage.questions.4.answers.3.text:Klan Fujiwara
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:22462.0
+passage.questions.4.answers.2.text:Štipendisti
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:22461.0
+passage.questions.4.answers.1.text:Japonski menihi
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:22460.0
+passage.questions.4.answers.0.text:Nakatomi Kamatari
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:22459.0
+passage.questions.3.question:Kdo je bila ekonomsko najmočnejša družina v zgodnji zgodovini Japonske?
+passage.questions.3.idx:4223.0
+passage.questions.3.answers.6.text:Fujiwara
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:22458.0
+passage.questions.3.answers.5.text:Sobas
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:22457.0
+passage.questions.3.answers.4.text:Sogas
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:22456.0
+passage.questions.3.answers.3.text:Sonas
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:22455.0
+passage.questions.3.answers.2.text:Vojaško najmočnejša družina
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:22454.0
+passage.questions.3.answers.1.text:Klan Fujiwara
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22453.0
+passage.questions.3.answers.0.text:Dinastija Sui
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:22452.0
+passage.questions.2.question:Katero leto je znano kot leto ustanovitve Japonske?
+passage.questions.2.idx:4222.0
+passage.questions.2.answers.7.text:660 pr
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:22451.0
+passage.questions.2.answers.6.text:660 pr
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:22450.0
+passage.questions.2.answers.5.text:19. stoletje
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:22449.0
+passage.questions.2.answers.4.text:1260
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22448.0
+passage.questions.2.answers.3.text:604 AD
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:22447.0
+passage.questions.2.answers.2.text:1.260 pr
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22446.0
+passage.questions.2.answers.1.text:645 AD
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:22445.0
+passage.questions.2.answers.0.text:645 oglas
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:22444.0
+passage.questions.14.question:Katero leto je bila ustanovljena Japonska
+passage.questions.14.idx:4234.0
+passage.questions.14.answers.6.text:660 pr
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:22541.0
+passage.questions.14.answers.5.text:604 pr
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:22540.0
+passage.questions.14.answers.4.text:700 pr
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:22539.0
+passage.questions.14.answers.3.text:660 izmenični tok
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:22538.0
+passage.questions.14.answers.2.text:661
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:22537.0
+passage.questions.14.answers.1.text:7. stoletje
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:22536.0
+passage.questions.14.answers.0.text:604
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:22535.0
+passage.questions.13.question:Kdo je vzpostavil odnose z dinastijo Sui?
+passage.questions.13.idx:4233.0
+passage.questions.13.answers.2.text:Nakatomi Kamatari
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:22534.0
+passage.questions.13.answers.1.text:Princ Šotoku
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:22533.0
+passage.questions.13.answers.0.text:Koreja
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:22532.0
+passage.questions.12.question:Kateri japonski lik je vzpostavil odnose z dinastijo Sui?
+passage.questions.12.idx:4232.0
+passage.questions.12.answers.6.text:Sui
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:22531.0
+passage.questions.12.answers.5.text:Princ Šotoku
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:22530.0
+passage.questions.12.answers.4.text:Buda
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:22529.0
+passage.questions.12.answers.3.text:Tao
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:22528.0
+passage.questions.12.answers.2.text:Japonski princ
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:22527.0
+passage.questions.12.answers.1.text:Šotoku
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:22526.0
+passage.questions.12.answers.0.text:Nakatomi Kamatari
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:22525.0
+passage.questions.11.question:Kdo je vzpostavil odnose s kitajsko dinastijo Sui?
+passage.questions.11.idx:4231.0
+passage.questions.11.answers.8.text:Princ Šotoku
+passage.questions.11.answers.8.label:1.0
+passage.questions.11.answers.8.idx:22524.0
+passage.questions.11.answers.7.text:Izjemen lik sedmega in osmega stoletja
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:22523.0
+passage.questions.11.answers.6.text:Sui Fuijiwara
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:22522.0
+passage.questions.11.answers.5.text:Sogas
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:22521.0
+passage.questions.11.answers.4.text:Umetniki
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:22520.0
+passage.questions.11.answers.3.text:Klan Fujiwara
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:22519.0
+passage.questions.11.answers.2.text:Štipendisti
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:22518.0
+passage.questions.11.answers.1.text:Japonski menihi
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:22517.0
+passage.questions.11.answers.0.text:Nakatomi Kamatari
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:22516.0
+passage.questions.10.question:Kdo je vzpostavil odnose z dinastijo Sui na Kitajskem?
+passage.questions.10.idx:4230.0
+passage.questions.10.answers.8.text:Princ Šotoku
+passage.questions.10.answers.8.label:1.0
+passage.questions.10.answers.8.idx:22515.0
+passage.questions.10.answers.7.text:Izjemen lik sedmega in osmega stoletja
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:22514.0
+passage.questions.10.answers.6.text:Sui Fuijiwara
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:22513.0
+passage.questions.10.answers.5.text:Sogas
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:22512.0
+passage.questions.10.answers.4.text:Umetniki
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:22511.0
+passage.questions.10.answers.3.text:Klan Fujiwara
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:22510.0
+passage.questions.10.answers.2.text:Štipendisti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:22509.0
+passage.questions.10.answers.1.text:Japonski menihi
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:22508.0
+passage.questions.10.answers.0.text:Nakatomi Kamatari
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:22507.0
+passage.questions.1.question:Glavna država, ki je vplivala na Japonsko v regiji
+passage.questions.1.idx:4221.0
+passage.questions.1.answers.5.text:Filipini
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:22443.0
+passage.questions.1.answers.4.text:Hong Kong
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:22442.0
+passage.questions.1.answers.3.text:Kitajska
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:22441.0
+passage.questions.1.answers.2.text:Sredozemsko
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22440.0
+passage.questions.1.answers.1.text:Severna Evropa
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22439.0
+passage.questions.1.answers.0.text:Kitajski
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22438.0
+passage.questions.0.question:Koga je leta 645 našega štetja izrinil Nakatomi Kamatari?
+passage.questions.0.idx:4220
+passage.questions.0.answers.6.text:Princ Šotoku
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:22437.0
+passage.questions.0.answers.5.text:Kitajci
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:22436.0
+passage.questions.0.answers.4.text:Sogas
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:22435.0
+passage.questions.0.answers.3.text:Klan Sui
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:22434.0
+passage.questions.0.answers.2.text:Klan Fujiwara
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:22433.0
+passage.questions.0.answers.1.text:Budisti
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:22432
+passage.questions.0.answers.0.text:Shintos
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:22431
+idx:367

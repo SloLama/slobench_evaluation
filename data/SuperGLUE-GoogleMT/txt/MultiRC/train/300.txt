@@ -1,0 +1,302 @@
+version:1.1
+passage.text:Ko se zemlja očisti, se habitati izgubijo. Morda je dovoljeno za kmetijstvo. Uporablja se lahko tudi za gradnjo novih domov ali podjetij. V zadnjih 100 letih se je količina kmetijskih zemljišč skoraj podvojila. Zemljišča za pašo živine so se več kot podvojila. Veliko mokrišč je bilo izgubljenih tudi za kmetijstvo. ZDA so izgubile skoraj vse naravne prerije z visoko travo. Področja visoke goste trave so tako rekoč izginila. Ta območja zemlje so imela debelo rodovitno zemljo. Njihove trave so imele zelo globoke koreninske sisteme. Te globoke in debele korenine so zmanjšale količino erozije tal. V njih so bile tudi številne rastline in živali. Prerije so bile čudoviti kraji. Bili so dom pisanih rož, prerijskih psov in čred bizonov.
+passage.questions.9.question:Katere vrste živali so vsebovale prerije?
+passage.questions.9.idx:3421.0
+passage.questions.9.answers.7.text:Leta
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:18040.0
+passage.questions.9.answers.6.text:Prerijski psi
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:18039.0
+passage.questions.9.answers.5.text:Lame
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:18038.0
+passage.questions.9.answers.4.text:Prerijski psi in bizoni
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:18037.0
+passage.questions.9.answers.3.text:Prarie psi, bizoni
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:18036.0
+passage.questions.9.answers.2.text:Iguane, bik
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:18035.0
+passage.questions.9.answers.1.text:Črede bizonov
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:18034.0
+passage.questions.9.answers.0.text:Piščanci
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:18033.0
+passage.questions.8.question:Zakaj se zemljišče lahko očisti?
+passage.questions.8.idx:3420.0
+passage.questions.8.answers.7.text:Novo podjetje
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:18032.0
+passage.questions.8.answers.6.text:Kmetijstvo, računalniki
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:18031.0
+passage.questions.8.answers.5.text:100 let
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:18030.0
+passage.questions.8.answers.4.text:Kmetijstvo, gradbeništvo
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:18029.0
+passage.questions.8.answers.3.text:Kmetijstvo
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:18028.0
+passage.questions.8.answers.2.text:Novi domovi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:18027.0
+passage.questions.8.answers.1.text:Za zbiranje lesa
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:18026.0
+passage.questions.8.answers.0.text:Zemljišča se lahko očistijo za kmetijstvo ali se uporabijo za gradnjo novih domov ali podjetij
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:18025.0
+passage.questions.7.question:Kaj je živelo od prerij?
+passage.questions.7.idx:3419.0
+passage.questions.7.answers.7.text:Prerijski psi
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:18024.0
+passage.questions.7.answers.6.text:Prarie psi, bizoni, žerjavi
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:18023.0
+passage.questions.7.answers.5.text:Psi, bizoni
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:18022.0
+passage.questions.7.answers.4.text:Koreninski sistemi
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:18021.0
+passage.questions.7.answers.3.text:Pisane rože, prerijski psi in črede bizonov
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:18020.0
+passage.questions.7.answers.2.text:Rože, psi prarie, bizoni
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:18019.0
+passage.questions.7.answers.1.text:Ljudje
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:18018.0
+passage.questions.7.answers.0.text:Črede bizonov
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:18017.0
+passage.questions.6.question:Katere vrste zemljišč so bile izgubljene za kmetijstvo?
+passage.questions.6.idx:3418.0
+passage.questions.6.answers.7.text:Veliko mokrišč je bilo izgubljenih tudi za kmetijstvo
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:18016.0
+passage.questions.6.answers.6.text:Zemljišče, namenjeno mestom
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:18015.0
+passage.questions.6.answers.5.text:Ravna zemljišča
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:18014.0
+passage.questions.6.answers.4.text:Domov
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:18013.0
+passage.questions.6.answers.3.text:Travna zemljišča
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:18012.0
+passage.questions.6.answers.2.text:Mokrišča
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:18011.0
+passage.questions.6.answers.1.text:Mokra dežela in prerije
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:18010.0
+passage.questions.6.answers.0.text:Prerije
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:18009.0
+passage.questions.5.question:Zakaj očistimo zemljo?
+passage.questions.5.idx:3417.0
+passage.questions.5.answers.8.text:Za gradnjo novih domov ali podjetij
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:18008.0
+passage.questions.5.answers.7.text:Kmetijstvo, za zabavo, za tenis
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:18007.0
+passage.questions.5.answers.6.text:Za nova podjetja
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:18006.0
+passage.questions.5.answers.5.text:Za nove domove
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:18005.0
+passage.questions.5.answers.4.text:Kmetijstvo ter graditi nove domove in podjetja
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:18004.0
+passage.questions.5.answers.3.text:Prostor za prerijske pse
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:18003.0
+passage.questions.5.answers.2.text:Za kmetijstvo, gradbeništvo, pašo za živino
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:18002.0
+passage.questions.5.answers.1.text:Rastline
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:18001.0
+passage.questions.5.answers.0.text:Za kmetijstvo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:18000.0
+passage.questions.4.question:Kateri so razlogi, da je zemljišče očiščeno?
+passage.questions.4.idx:3416.0
+passage.questions.4.answers.6.text:Počiščena je za potrebe kmetijskih potreb ali za gradnjo domov in podjetij
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:17999.0
+passage.questions.4.answers.5.text:Kmetijstvo, razvoj
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:17998.0
+passage.questions.4.answers.4.text:Povečajte zemljo za črede bizonov
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:17997.0
+passage.questions.4.answers.3.text:Psi
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:17996.0
+passage.questions.4.answers.2.text:Kmetijstvo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:17995.0
+passage.questions.4.answers.1.text:Novi domovi
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17994.0
+passage.questions.4.answers.0.text:Nova podjetja
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:17993.0
+passage.questions.3.question:Kako lahko izgubimo habitate?
+passage.questions.3.idx:3415.0
+passage.questions.3.answers.6.text:ubiti
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:17992.0
+passage.questions.3.answers.5.text:Če poravnamo zemljo
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:17991.0
+passage.questions.3.answers.4.text:Onesnaženje, ljudje
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:17990.0
+passage.questions.3.answers.3.text:Zemljišča so očiščena za kmetijstvo, domove, pašo živine
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:17989.0
+passage.questions.3.answers.2.text:Lahko jih očistite
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:17988.0
+passage.questions.3.answers.1.text:Čiščenje zemljišč
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:17987.0
+passage.questions.3.answers.0.text:ubila invazivna visoka trava
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:17986.0
+passage.questions.2.question:Kateri kraji so nekoč domovi za pisane rože, prerijske pse in črede bizonov, za katere so dovoljeni novi domovi in podjetja?
+passage.questions.2.idx:3414.0
+passage.questions.2.answers.3.text:Prerije
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:17985.0
+passage.questions.2.answers.2.text:Visoke travne prerije
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:17984.0
+passage.questions.2.answers.1.text:Mokrišča
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:17983.0
+passage.questions.2.answers.0.text:Ravnine
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:17982.0
+passage.questions.12.question:Kaj je zmanjšalo količino erozije tal v travi?
+passage.questions.12.idx:3424.0
+passage.questions.12.answers.6.text:Trave z globokim koreninskim sistemom
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:18060.0
+passage.questions.12.answers.5.text:Globok koreninski sistem trave
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:18059.0
+passage.questions.12.answers.4.text:Živali
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:18058.0
+passage.questions.12.answers.3.text:Prarie psi
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:18057.0
+passage.questions.12.answers.2.text:Plitke korenine
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:18056.0
+passage.questions.12.answers.1.text:Globoke korenine
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:18055.0
+passage.questions.12.answers.0.text:Globoke in debele korenine
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:18054.0
+passage.questions.11.question:Kaj je v zadnjih 100 letih naredila čiščenje zemljišč za kmetijstvo in govedo?
+passage.questions.11.idx:3423.0
+passage.questions.11.answers.4.text:Zraslo je
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:18053.0
+passage.questions.11.answers.3.text:Zmanjšala se je
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:18052.0
+passage.questions.11.answers.2.text:Ima dvojno količino uporabljene zemlje
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:18051.0
+passage.questions.11.answers.1.text:Količina uporabljene zemlje je potrojila
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:18050.0
+passage.questions.11.answers.0.text:Količina zemljišč, uporabljenih za oba, se je skoraj podvojila
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:18049.0
+passage.questions.10.question:Katere so prednosti prerij z visoko travo?
+passage.questions.10.idx:3422.0
+passage.questions.10.answers.7.text:Rodovitna zemlja
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:18048.0
+passage.questions.10.answers.6.text:Dom številnih rastlin in živali
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:18047.0
+passage.questions.10.answers.5.text:Imajo debelo rodovitno zemljo z globoko zakoreninjeno travo, ki pomaga preprečevati erozijo tal in so dom številnim živalim in rastlinam.
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:18046.0
+passage.questions.10.answers.4.text:Prostor za pašo živali
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:18045.0
+passage.questions.10.answers.3.text:Preprečite erozijo
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:18044.0
+passage.questions.10.answers.2.text:Manj erozije
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:18043.0
+passage.questions.10.answers.1.text:Naj dežela izgleda lepo
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:18042.0
+passage.questions.10.answers.0.text:Gradnja stavb
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:18041.0
+passage.questions.1.question:Kakšne možnosti prinaša izguba habitata zaradi čiščenja zemljišč?
+passage.questions.1.idx:3413.0
+passage.questions.1.answers.4.text:Zemljišče za prerijske pse
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:17981.0
+passage.questions.1.answers.3.text:Imamo več prostora za pašo živine
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:17980.0
+passage.questions.1.answers.2.text:Nato se lahko uporablja za kmetijstvo, domove ali podjetja
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:17979.0
+passage.questions.1.answers.1.text:Kmetijska zemljišča
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:17978.0
+passage.questions.1.answers.0.text:Več ljudi lahko pleše naokoli
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:17977.0
+passage.questions.0.question:Koliko je v zadnjih 100 letih zrasla kmetijska jasa in kako se uporablja?
+passage.questions.0.idx:3412
+passage.questions.0.answers.6.text:Hranjenje ljudi se je skoraj podvojilo; uporablja se za kmetijske namene
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:17976.0
+passage.questions.0.answers.5.text:V zadnjih 100 letih se je kmetijska poseka podvojila in se uporablja za pašo goveda
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:17975.0
+passage.questions.0.answers.4.text:Potrošila se je in se uporablja za govedo
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:17974.0
+passage.questions.0.answers.3.text:Paša živine
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:17973.0
+passage.questions.0.answers.2.text:Prodaja zemljišče
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:17972.0
+passage.questions.0.answers.1.text:Trikrat
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:17971
+passage.questions.0.answers.0.text:Podvojeno
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:17970
+idx:300

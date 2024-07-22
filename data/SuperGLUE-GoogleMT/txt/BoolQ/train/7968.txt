@@ -1,0 +1,4 @@
+idx:7968
+label:True
+passage:Kolektivno izčrpni dogodki - en primer dogodka, ki je kolektivno izčrpen in se medsebojno izključuje, je metanje kovanca. Rezultat mora biti bodisi glave ali repi ali p (glave ali repi) = 1, zato so rezultati kolektivno izčrpni. Ko pride do glave, repov ne more biti, ali p (glave in repi) = 0, zato se tudi rezultati medsebojno izključujejo.
+question:če se dogodka a in b medsebojno izključujeta, ali sta tudi kolektivno izčrpna

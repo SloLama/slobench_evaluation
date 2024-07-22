@@ -1,0 +1,129 @@
+version:1.1
+passage.text:Moskva (CNN) - Potapljači so končali iskanje ruske križarke, ki je minuli konec tedna potonila z izgubo številnih življenj, so v petek za CNN sporočili z ministrstva za izredne razmere Uradno število žrtev je doseglo 114 - med njimi 66 žensk, 28 otrok in 20 moških, so sporočili z ministrstva. Teles 15 ljudi še vedno pogrešajo. V nedeljo nesreče je bilo v &quot;Bolgariji&quot; 208 ljudi, od katerih so jih 79 rešili. Potapljači so pregledali vse predele čolna, so sporočili z ministrstva, zdaj pa iščejo več trupel okoli čolna tudi po toku reke Volge, kamor bi jih lahko odnesel tok. Območje, kjer se nadaljujejo iskalna prizadevanja, se je povečalo na 200 kilometrov od kraja dogodka, je na petkovem srečanju dejal ruski minister za promet Igor Levitin. V teku so priprave za dvig križarke z dna reke v prihodnjih dneh. Na poti do kraja nesreče sta dva velika ladijska dvigala, eno iz Moskve in drugo iz Volgograda, ki bosta uporabljeni za dviganje. &quot;Ministrstvo za izredne razmere smo prosili, naj na kraju zadrži 23 potapljačev, ki bodo še naprej iskali trupla tudi med dvigom,&quot; je dejal Levitin. Sredi tedna so za pomoč pri iskanju pripeljali specialne vojaške potapljače. Štirje ljudje so obtoženi zaradi potopitve ladje, ki so jo ruski mediji označili za najbolj uničujočo rečno nesrečo v zgodovini države.
+passage.questions.5.question:Kakšne so priprave na izterjavo ladje?
+passage.questions.5.idx:1471.0
+passage.questions.5.answers.6.text:Pripeljejo se oceanografi, ki določijo, kaj je treba storiti
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:7692.0
+passage.questions.5.answers.5.text:Pripeljejo posadko za razstreljevanje
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:7691.0
+passage.questions.5.answers.4.text:Pripelje se posadka za kopanje
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:7690.0
+passage.questions.5.answers.3.text:V teku so priprave za dvig križarke z dna reke v prihodnjih dneh
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:7689.0
+passage.questions.5.answers.2.text:Za dvig ladje z dna reke bosta pripeljana dva velika ladijska žerjava, eden iz Moskve in Volgograd.
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:7688.0
+passage.questions.5.answers.1.text:Za pomoč pri dviganju je 23 potapljačev
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:7687.0
+passage.questions.5.answers.0.text:Za dvig ladje pripeljejo čolne
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:7686.0
+passage.questions.4.question:Kdo je bil pripeljan za pomoč pri iskanju
+passage.questions.4.idx:1470.0
+passage.questions.4.answers.5.text:Narodna garda
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:7685.0
+passage.questions.4.answers.4.text:Poklicni olimpijski plavalci
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:7684.0
+passage.questions.4.answers.3.text:Strokovni vojaški potapljači
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:7683.0
+passage.questions.4.answers.2.text:Žerjavi za čolne
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:7682.0
+passage.questions.4.answers.1.text:Pripeljali so specialne vojaške potapljače
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:7681.0
+passage.questions.4.answers.0.text:Vojaške okrepitve
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:7680.0
+passage.questions.3.question:Koliko ljudi je bilo obtoženih?
+passage.questions.3.idx:1469.0
+passage.questions.3.answers.5.text:3.
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:7679.0
+passage.questions.3.answers.4.text:2.
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:7678.0
+passage.questions.3.answers.3.text:Nihče
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:7677.0
+passage.questions.3.answers.2.text:Obtožene so bile 4 osebe
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:7676.0
+passage.questions.3.answers.1.text:4.
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:7675.0
+passage.questions.3.answers.0.text:Obtožene so bile 3 osebe
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7674.0
+passage.questions.2.question:Koliko uradnih žrtev je bilo doseženih?
+passage.questions.2.idx:1468.0
+passage.questions.2.answers.5.text:28.
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:7673.0
+passage.questions.2.answers.4.text:20.
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:7672.0
+passage.questions.2.answers.3.text:Število smrtnih žrtev je doseglo 208
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:7671.0
+passage.questions.2.answers.2.text:Uradno število žrtev je 114
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:7670.0
+passage.questions.2.answers.1.text:Bilo je 114
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:7669.0
+passage.questions.2.answers.0.text:66
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:7668.0
+passage.questions.1.question:Koliko ljudi lahko štejemo po preiskavi ladje?
+passage.questions.1.idx:1467.0
+passage.questions.1.answers.5.text:28.
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:7667.0
+passage.questions.1.answers.4.text:Upoštevati je mogoče 114 mrtvih in 79 preživelih
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:7666.0
+passage.questions.1.answers.3.text:20.
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:7665.0
+passage.questions.1.answers.2.text:79 je mogoče upoštevati
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:7664.0
+passage.questions.1.answers.1.text:66
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:7663.0
+passage.questions.1.answers.0.text:193
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:7662.0
+passage.questions.0.question:Kaj so iskali potapljači?
+passage.questions.0.idx:1466
+passage.questions.0.answers.6.text:Jedrska bojna glava
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:7661.0
+passage.questions.0.answers.5.text:Iščejo križarko
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:7660.0
+passage.questions.0.answers.4.text:Iščejo ljudi, ki so bili na potovalni ladji, ki je potonila
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:7659.0
+passage.questions.0.answers.3.text:Križarka
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:7658.0
+passage.questions.0.answers.2.text:Artefakti
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:7657.0
+passage.questions.0.answers.1.text:Potopljeni zaklad
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7656
+passage.questions.0.answers.0.text:Teles pogrešanih ljudi
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:7655
+idx:127

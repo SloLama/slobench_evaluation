@@ -1,0 +1,165 @@
+version:1.1
+passage.text:(CNN) - Fotograf, ki je posnel posnetke nekdanje pakistanske premierke Benazir Bhutto nekaj trenutkov pred njenim atentatom v četrtek, je za CNN dejal, da je bil &quot;presenečen&quot;, ko je videla, kako se je dvignila skozi strešno okno svojega vozila, da bi po govoru pomahala pristašem. Fotograf Getty Images John Moore je ujel Benazir Bhutto, kako maha, nekaj trenutkov preden je zaslišal strel. &quot;Pritekel sem, se približal, kolikor sem se približal, naredil nekaj njenih slik, kako je mahala množici,&quot; je v telefonskem intervjuju iz četrtka iz Islamabada v telefonskem intervjuju CNN-jeve CNN.com Live v intervjuju za CNN-jevo spletno novico CNN.com Live povedal vodilni fotograf Getty Images John Moore. , Pakistan. &quot;Potem pa je nenadoma zazvonilo nekaj strelov in ona se je spustila, spustila se je skozi sončno streho,&quot; je dejal. &quot;In ravno v tistem trenutku sem dvignil kamero in zgodila se je eksplozija. ... In potem je seveda nastal kaos.&quot; Oglejte si, kako Moore opisuje Bhuttove zadnje trenutke. »Moore je dejal, da je bil približno 20 metrov stran od Bhuttovega vozila, ko je fotografiral. Bhutto so prepeljali v Splošno bolnišnico Rawalpindi, kjer je bila razglašena za mrtvo. Moore je dejal, da je zgodbo Bhutto spremljal od njene oktobrske vrnitve v Pakistan. Bil je navzoč 19. oktobra, ko je v terorističnem napadu na njeno povorko v Karačiju umrlo 136 ljudi. Moore je dejal, da so po napadu &quot;shodi bili zelo majhni,&quot; zaradi visoke varnosti. Vendar je bil rallypindijski shod predhodno napovedan, je opazil. &quot;Kdor je načrtoval ta napad - imel je čas, da je vse pravilno načrtoval, in rezultati ste videli danes,&quot; je dejal. Kot je dejal, je bilo na shodu Rawalpindi, ki je potekal na parkirišču, med 5000 in 8000. &quot;Vsi [novičarski mediji] smo pričakovali, da bo napolnjen ... toda tam je bilo manj ljudi, kot jih je večina pričakovala,&quot; je dejal. &quot;Ko sem se pogovarjal s številnimi ljudmi, so rekli, da se ljudje bojijo priti ven iz preprostega razloga, ker so se vsi spomnili, kaj se je zgodilo v Karačiju.&quot; Moore je dejal, da sam pričakuje, da bi po poboju v Karačiju lahko prišlo do novega napada. Rekel je, da se je držal stran od vrat v parku Rawalpindi, kjer je policija iskala ljudi, ker je sumil, da bo tam eksplodirala bomba.
+passage.questions.5.question:Zakaj je bilo manj ljudi, kot so pričakovali novinarji?
+passage.questions.5.idx:4833.0
+passage.questions.5.answers.8.text:Da so se ljudje samo bali priti ven
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:25838.0
+passage.questions.5.answers.7.text:Vsi so pričakovali, da bo napolnjen
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:25837.0
+passage.questions.5.answers.6.text:Potekalo je sredi delovnega dne
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:25836.0
+passage.questions.5.answers.5.text:Iz preprostega razloga, ker so se vsi spomnili, kaj se je zgodilo v Karačiju
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:25835.0
+passage.questions.5.answers.4.text:Bilo je manj ljudi
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:25834.0
+passage.questions.5.answers.3.text:Promet do prizorišča je bil oviran
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:25833.0
+passage.questions.5.answers.2.text:Tam, kot je pričakovala večina od nas
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:25832.0
+passage.questions.5.answers.1.text:Zaradi športnega dogodka
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:25831.0
+passage.questions.5.answers.0.text:Ljudje so se bali priti ven zaradi tega, kar se je zgodilo v Karačiju
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:25830.0
+passage.questions.4.question:Kateri datum je bil napad, zaradi katerega je Benazir zaradi varnostnih razlogov skrčil svoje shode?
+passage.questions.4.idx:4832.0
+passage.questions.4.answers.5.text:19. oktobra
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:25829.0
+passage.questions.4.answers.4.text:Četrtek
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25828.0
+passage.questions.4.answers.3.text:9. marec
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25827.0
+passage.questions.4.answers.2.text:9. oktober
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:25826.0
+passage.questions.4.answers.1.text:19. marec
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:25825.0
+passage.questions.4.answers.0.text:19. oktober
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:25824.0
+passage.questions.3.question:Ko je Moore pričakoval napad, kaj je storil kot odgovor na ta strah?
+passage.questions.3.idx:4831.0
+passage.questions.3.answers.9.text:20 metrov stran od Bhuttovega vozila
+passage.questions.3.answers.9.label:0,0
+passage.questions.3.answers.9.idx:25823.0
+passage.questions.3.answers.8.text:Izogibal se je visokim sedežem, ker bi se lahko v primeru eksplozije bombe sesulo
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:25822.0
+passage.questions.3.answers.7.text:Držal se je stran od vrat v parku Rawalpindi
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:25821.0
+passage.questions.3.answers.6.text:Rekel je, da se je držal stran od vrat
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:25820.0
+passage.questions.3.answers.5.text:Nosil je neprebojni jopič
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:25819.0
+passage.questions.3.answers.4.text:Iskali smo ljudi
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:25818.0
+passage.questions.3.answers.3.text:Bil je stran od vrat v parku Rawalpindi, kjer je policija iskala ljudi, ker je sumil, da bo tam eksplodirala bomba
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:25817.0
+passage.questions.3.answers.2.text:Policija
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:25816.0
+passage.questions.3.answers.1.text:Tja se je vozil s konvojem vojske
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25815.0
+passage.questions.3.answers.0.text:Bival v parku Rawalpindi
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25814.0
+passage.questions.2.question:Je bil Bhutto razglašen za mrtvega v Delhi&#39;s General Medical?
+passage.questions.2.idx:4830.0
+passage.questions.2.answers.6.text:Ne, v splošni bolnišnici Islamabad
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:25813.0
+passage.questions.2.answers.5.text:Ne - v Splošni bolnišnici Rawalpindi
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:25812.0
+passage.questions.2.answers.4.text:Da
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25811.0
+passage.questions.2.answers.3.text:Bhutto so prepeljali v Splošno bolnišnico Rawalpindi
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25810.0
+passage.questions.2.answers.2.text:Po zgodbi Bhutto
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25809.0
+passage.questions.2.answers.1.text:Kjer je bila razglašena za mrtvo
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25808.0
+passage.questions.2.answers.0.text:Ne v Splošni bolnišnici Karachi
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:25807.0
+passage.questions.1.question:Kaj je Moore počel nekaj trenutkov preden je bila ustreljena Benazir Bhutto?
+passage.questions.1.idx:4829.0
+passage.questions.1.answers.8.text:Narediti intervju pred kamero
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:25806.0
+passage.questions.1.answers.7.text:Fotografiranje Benazir Bhutto
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:25805.0
+passage.questions.1.answers.6.text:Vzel slike
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:25804.0
+passage.questions.1.answers.5.text:Telefonski razgovor
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:25803.0
+passage.questions.1.answers.4.text:Intervju z diplomatom
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:25802.0
+passage.questions.1.answers.3.text:Videti jo je, kako se dviguje skozi strešno okno svojega vozila in po govoru maha navijačem
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25801.0
+passage.questions.1.answers.2.text:Čakam na prihod predsednika vlade
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:25800.0
+passage.questions.1.answers.1.text:John Moore je ujel Benazir Bhutto, kako je mahala
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:25799.0
+passage.questions.1.answers.0.text:Posnel je slike nekdanje pakistanske premierke Benazir Bhutto
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:25798.0
+passage.questions.0.question:Kaj je atentatorjem dalo čas, da so pravilno načrtovali napad?
+passage.questions.0.idx:4828
+passage.questions.0.answers.8.text:Denar, da si vzamejo čas od službe
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:25797.0
+passage.questions.0.answers.7.text:Predhodno napoved rallypindijskega relija
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:25796.0
+passage.questions.0.answers.6.text:Dolžina relija
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:25795.0
+passage.questions.0.answers.5.text:Dvignil sem fotoaparat
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:25794.0
+passage.questions.0.answers.4.text:Čas med parado in shodom
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:25793.0
+passage.questions.0.answers.3.text:Reli Rawalpindi je bil predhodno napovedan
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:25792.0
+passage.questions.0.answers.2.text:&quot;Zbori so bili zelo majhni
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:25791.0
+passage.questions.0.answers.1.text:Imeli so čas, da so vse pravilno načrtovali
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25790
+passage.questions.0.answers.0.text:Zaradi visoke varnosti
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:25789
+idx:429

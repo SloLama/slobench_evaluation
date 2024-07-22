@@ -1,0 +1,6 @@
+choice1:Ženska si je postrigla lase.
+choice2:Ženska je nosila zapestnico.
+idx:65
+label:0
+premise:Moški je opazil, da je ženska videti drugače.
+question:cause

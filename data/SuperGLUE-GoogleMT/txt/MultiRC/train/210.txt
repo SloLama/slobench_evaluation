@@ -1,0 +1,417 @@
+version:1.1
+passage.text:Po bombardiranju veleposlaništva leta 1998 je ameriška vlada poskušala razviti jasnejšo sliko financ Bin Ladena. Ameriška medagencijska skupina je dvakrat, v letih 1999 in 2000, potovala v Savdsko Arabijo, da bi od Saudijcev dobila informacije o njihovem razumevanju teh financ. Skupina je na koncu ugotovila, da pogosto ponavljana trditev, da je Bin Laden iz svojega osebnega bogastva financiral Al Kaido, v resnici ni bila resnična. Uradniki so razvili novo teorijo: Al Kaida je denar dobivala drugje, ZDA pa so se morale osredotočiti na druge vire financiranja, kot so dobrodelne organizacije, bogati donatorji in finančni pospeševalci. Konec koncev, čeprav je obveščevalna skupnost temu vprašanju namenila več virov in ustvarila nekoliko več obveščevalnih podatkov, je bilo finančne transakcije Al Kaide še vedno težko ločiti med ogromnimi vsotami, ki se gibljejo v mednarodnem finančnem sistemu. CIA ni mogla najti ali motiti denarnih tokov Al Kaide. Osebje NSC je menilo, da je ena od možnih rešitev za te pomanjkljivosti v obveščevalni skupnosti ustanovitev centra za obveščevalno analizo, ki financira terorizem. Clarke se je zavzel za financiranje takega centra pri Ministrstvu za finance, vendar niti Ministrstvo za finance niti CIA nista bila pripravljena nameniti sredstev. Znotraj ZDA so različni terenski uradi FBI zbirali podatke o organizacijah, za katere se sumi, da zbirajo sredstva za Al Kaido ali druge teroristične skupine. Do 11. septembra so agenti FBI razumeli, da v ZDA delujejo ekstremistične organizacije, ki podpirajo globalno džihadistično gibanje in so močno povezane z Al Kaido. FBI je upravljal mrežo informatorjev, vodil elektronski nadzor in sprožil pomembne preiskave v številnih podružnicah, med drugim v New Yorku, Chicagu, Detroitu, San Diegu in Minneapolisu. Na nacionalni ravni pa FBI nikoli ni uporabil informacij za sistematično ali strateško razumevanje narave in obsega zbiranja sredstev Al Kaide. Zakladniški regulatorji, pa tudi ameriške finančne institucije, so bili na splošno osredotočeni na iskanje in odvračanje ali motenje obsežnih tokov ameriške valute, ki jih ustvarjajo trgovina z mamili in mednarodne prevare na visoki ravni. Obsežni škandali, kot je uporaba banke New York s strani ruskih pralcev denarja za premikanje milijonov dolarjev iz Rusije, so pritegnili pozornost ministrstva za finance in kongresa. Zakladnica pred 11. septembrom financiranja terorizma ni imela dovolj pomembnega, da bi ga v svoji nacionalni strategiji za pranje denarja omenila.
+passage.questions.9.question:Kateri ameriški agenciji ni uspelo povezati pik, ki so jih zbrale številne podružnice glede zbiranja sredstev al Queda?
+passage.questions.9.idx:2320.0
+passage.questions.9.answers.4.text:CIA
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:12243.0
+passage.questions.9.answers.3.text:FBI
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:12242.0
+passage.questions.9.answers.2.text:NSA
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:12241.0
+passage.questions.9.answers.1.text:Zakladnica
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:12240.0
+passage.questions.9.answers.0.text:Kongres
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:12239.0
+passage.questions.8.question:Na katere vrste dejavnosti se je osredotočilo ministrstvo za finance, medtem ko je pogrešalo ladjo za financiranje terorizma?
+passage.questions.8.idx:2319.0
+passage.questions.8.answers.9.text:Velika mednarodna prevara
+passage.questions.8.answers.9.label:1.0
+passage.questions.8.answers.9.idx:12238.0
+passage.questions.8.answers.8.text:Rusko pranje denarja
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:12237.0
+passage.questions.8.answers.7.text:Trgovina z drogami
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:12236.0
+passage.questions.8.answers.6.text:Teroristične organizacije
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:12235.0
+passage.questions.8.answers.5.text:Trgovina z mamili, mednarodne prevare in rusko pranje denarja
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:12234.0
+passage.questions.8.answers.4.text:Mednarodne prevare
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:12233.0
+passage.questions.8.answers.3.text:Prevara z Wall Streeta
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:12232.0
+passage.questions.8.answers.2.text:Pranje denarja
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:12231.0
+passage.questions.8.answers.1.text:Kongresne prevare
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:12230.0
+passage.questions.8.answers.0.text:Financiranje terorizma
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:12229.0
+passage.questions.7.question:Za kakšen center je Clarke spodbujal financiranje?
+passage.questions.7.idx:2318.0
+passage.questions.7.answers.7.text:Center za zaslišanje
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:12228.0
+passage.questions.7.answers.6.text:Teroristična
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:12227.0
+passage.questions.7.answers.5.text:Center za analizo obveščevalnih podatkov o financiranju terorizma
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:12226.0
+passage.questions.7.answers.4.text:Center obveščevalnih analiz za financiranje terorizma z vsemi viri
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:12225.0
+passage.questions.7.answers.3.text:Financiranje
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:12224.0
+passage.questions.7.answers.2.text:Inteligenca
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:12223.0
+passage.questions.7.answers.1.text:Center za boj proti terorizmu
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:12222.0
+passage.questions.7.answers.0.text:Analiza
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:12221.0
+passage.questions.6.question:Kam je medagencijska skupina potovala v letih 1999 in 2000, da bi izvedela o financah Bin Ladena?
+passage.questions.6.idx:2317.0
+passage.questions.6.answers.6.text:srednji vzhod
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:12220.0
+passage.questions.6.answers.5.text:Sudan
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:12219.0
+passage.questions.6.answers.4.text:Vzhodna Evropa
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:12218.0
+passage.questions.6.answers.3.text:Savdska Arabija
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:12217.0
+passage.questions.6.answers.2.text:Rusija
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:12216.0
+passage.questions.6.answers.1.text:Afganistanu
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:12215.0
+passage.questions.6.answers.0.text:Iraku
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:12214.0
+passage.questions.5.question:Kaj je poskušala najti ameriška vlada v letih 1999 in 2000?
+passage.questions.5.idx:2316.0
+passage.questions.5.answers.7.text:Poiščite informacije od Saudijcev o njihovem razumevanju teh financ
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:12213.0
+passage.questions.5.answers.6.text:Trgovina z drogami
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:12212.0
+passage.questions.5.answers.5.text:Informacije o financah Bin Ladena
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:12211.0
+passage.questions.5.answers.4.text:Savdsko razumevanje financ
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:12210.0
+passage.questions.5.answers.3.text:Finance Bin Ladena
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:12209.0
+passage.questions.5.answers.2.text:Da bi našli bin obremenjenega
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:12208.0
+passage.questions.5.answers.1.text:Ameriške vladne agencije so poskušale najti finančna sredstva za terorizem
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:12207.0
+passage.questions.5.answers.0.text:Od kod je prihajal denar za Al Kaido
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:12206.0
+passage.questions.4.question:Katero vrsto centra si je Clarke prizadeval ustanoviti pred 11. septembrom za zbiranje informacij, povezanih s financiranjem terorizma?
+passage.questions.4.idx:2315.0
+passage.questions.4.answers.8.text:Center za preprečevanje pranja denarja
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:12205.0
+passage.questions.4.answers.7.text:Center za zaslišanje
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:12204.0
+passage.questions.4.answers.6.text:Financiranje
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:12203.0
+passage.questions.4.answers.5.text:Center obveščevalnih analiz za financiranje terorizma z vsemi viri
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:12202.0
+passage.questions.4.answers.4.text:Inteligenca
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:12201.0
+passage.questions.4.answers.3.text:Center za boj proti terorizmu
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:12200.0
+passage.questions.4.answers.2.text:Pranje denarja
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:12199.0
+passage.questions.4.answers.1.text:Proti pranju
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:12198.0
+passage.questions.4.answers.0.text:Analiza
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:12197.0
+passage.questions.3.question:Katere ameriške vladne agencije je bil Clark član?
+passage.questions.3.idx:2314.0
+passage.questions.3.answers.5.text:CIA
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:12196.0
+passage.questions.3.answers.4.text:Osebje NSC
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:12195.0
+passage.questions.3.answers.3.text:Clarke je bil uslužbenec agencije NSC
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:12194.0
+passage.questions.3.answers.2.text:Zakladnica
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12193.0
+passage.questions.3.answers.1.text:Informacije niso zagotovljene
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:12192.0
+passage.questions.3.answers.0.text:NSC
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:12191.0
+passage.questions.2.question:Kdo je bil na nasprotnih straneh ideje o ustanovitvi obveščevalnega analitičnega centra za financiranje terorizma iz vseh virov?
+passage.questions.2.idx:2313.0
+passage.questions.2.answers.9.text:CIA
+passage.questions.2.answers.9.label:0,0
+passage.questions.2.answers.9.idx:12190.0
+passage.questions.2.answers.8.text:FBI
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:12189.0
+passage.questions.2.answers.7.text:Bank of New York
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:12188.0
+passage.questions.2.answers.6.text:Predsednik
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:12187.0
+passage.questions.2.answers.5.text:Vlada
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:12186.0
+passage.questions.2.answers.4.text:NSC
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:12185.0
+passage.questions.2.answers.3.text:Zakladnica
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:12184.0
+passage.questions.2.answers.2.text:Zakladnica
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12183.0
+passage.questions.2.answers.1.text:Kongres
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12182.0
+passage.questions.2.answers.0.text:Za to so bili uslužbenci Clarkea in NSC, finančna sredstva in CIA pa nista bila pripravljena nameniti sredstev
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:12181.0
+passage.questions.14.question:Kje so bile odprte terenske pisarne za preiskovanje financiranja Al Kaide?
+passage.questions.14.idx:2325.0
+passage.questions.14.answers.9.text:Los Angeles
+passage.questions.14.answers.9.label:0,0
+passage.questions.14.answers.9.idx:12287.0
+passage.questions.14.answers.8.text:Chicago
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:12286.0
+passage.questions.14.answers.7.text:New York, Chicago, Detroit, San Diego in Minneapolis
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:12285.0
+passage.questions.14.answers.6.text:Cincinnati
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:12284.0
+passage.questions.14.answers.5.text:San Diego
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:12283.0
+passage.questions.14.answers.4.text:Minneapoilis
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:12282.0
+passage.questions.14.answers.3.text:Boston
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:12281.0
+passage.questions.14.answers.2.text:Združene države
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:12280.0
+passage.questions.14.answers.14.text:Saudova Arabija
+passage.questions.14.answers.14.label:0,0
+passage.questions.14.answers.14.idx:12292.0
+passage.questions.14.answers.13.text:San Deigo
+passage.questions.14.answers.13.label:1.0
+passage.questions.14.answers.13.idx:12291.0
+passage.questions.14.answers.12.text:Amerika
+passage.questions.14.answers.12.label:0,0
+passage.questions.14.answers.12.idx:12290.0
+passage.questions.14.answers.11.text:Washington DC
+passage.questions.14.answers.11.label:0,0
+passage.questions.14.answers.11.idx:12289.0
+passage.questions.14.answers.10.text:New York
+passage.questions.14.answers.10.label:1.0
+passage.questions.14.answers.10.idx:12288.0
+passage.questions.14.answers.1.text:Minneapolis
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:12279.0
+passage.questions.14.answers.0.text:Detroit
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:12278.0
+passage.questions.13.question:Kaj je Clarke poskušal najti z ustvarjanjem centra za analizo obveščevalnih podatkov?
+passage.questions.13.idx:2324.0
+passage.questions.13.answers.7.text:Da bi motili denarne tokove Al Kaide
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:12277.0
+passage.questions.13.answers.6.text:Dokazi o trgovini z mamili
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:12276.0
+passage.questions.13.answers.5.text:Različne organizacije zbirajo sredstva za Al Kaido
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:12275.0
+passage.questions.13.answers.4.text:Kako je bin laden premikal svoj denar
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:12274.0
+passage.questions.13.answers.3.text:Iskanje ljudi, ki premikajo sredstva za Al Kaido
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:12273.0
+passage.questions.13.answers.2.text:Da ločimo transakcije Al Kaide
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:12272.0
+passage.questions.13.answers.1.text:Clark je iskal vire financiranja terorizma
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:12271.0
+passage.questions.13.answers.0.text:Kjer je al quaeda financirala svoje operacije
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:12270.0
+passage.questions.12.question:Kateri različni možni viri financiranja Bin Ladena so bili upoštevani?
+passage.questions.12.idx:2323.0
+passage.questions.12.answers.9.text:ZN
+passage.questions.12.answers.9.label:0,0
+passage.questions.12.answers.9.idx:12269.0
+passage.questions.12.answers.8.text:Vlada
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:12268.0
+passage.questions.12.answers.7.text:Evropske vlade
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:12267.0
+passage.questions.12.answers.6.text:Bin Laden
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:12266.0
+passage.questions.12.answers.5.text:Dobrodelne organizacije
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:12265.0
+passage.questions.12.answers.4.text:Premožni donatorji
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:12264.0
+passage.questions.12.answers.3.text:Politiki
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:12263.0
+passage.questions.12.answers.2.text:Rusija
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:12262.0
+passage.questions.12.answers.1.text:Osebno bogastvo Bin Ladena, dobrodelne organizacije, bogati donatorji in finančni pospeševalci
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:12261.0
+passage.questions.12.answers.0.text:Finančni pospeševalci
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:12260.0
+passage.questions.11.question:Zakaj je FBI vodil elektronski nadzor in uporabljal obveščevalce v večjih ameriških mestih?
+passage.questions.11.idx:2322.0
+passage.questions.11.answers.7.text:Zbrati informacije o pranju denarja v Rusiji
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:12259.0
+passage.questions.11.answers.6.text:Poiskati organizacije s povezavami Al Kaide
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:12258.0
+passage.questions.11.answers.5.text:Agenti FBI so razumeli, da znotraj ZDA delujejo ekstremistične organizacije
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:12257.0
+passage.questions.11.answers.4.text:FBI je menil, da je bin obremenjen v ZDA
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:12256.0
+passage.questions.11.answers.3.text:Zbrati informacije o zbiranju sredstev Al Kaide
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:12255.0
+passage.questions.11.answers.2.text:Da bi našli bogate darovalce
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:12254.0
+passage.questions.11.answers.1.text:FBI je iskal finančno financiranje Al Kaide
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:12253.0
+passage.questions.11.answers.0.text:Zbiranje informacij o denarnih tokovih Al Kaide
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:12252.0
+passage.questions.10.question:Katere vladne agencije so sodelovale pri sledenju finančnih sredstev za Al Kaido?
+passage.questions.10.idx:2321.0
+passage.questions.10.answers.7.text:CIA
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:12251.0
+passage.questions.10.answers.6.text:NSC, CIA in FBI so preiskovali finančne vezi z Al Kaido
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:12250.0
+passage.questions.10.answers.5.text:FBI
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:12249.0
+passage.questions.10.answers.4.text:Zakladnica
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:12248.0
+passage.questions.10.answers.3.text:NCS
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:12247.0
+passage.questions.10.answers.2.text:Nsc in CIA
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:12246.0
+passage.questions.10.answers.1.text:CIA
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:12245.0
+passage.questions.10.answers.0.text:FBI in NSC
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:12244.0
+passage.questions.1.question:Kaj je preprečilo, da bi ameriška vlada ustavila Bin Ladenov tok denarja?
+passage.questions.1.idx:2312.0
+passage.questions.1.answers.9.text:Niso se jim zdeli dovolj pomembni, temveč so se osredotočili na pranje denarja zaradi trgovine z mamili
+passage.questions.1.answers.9.label:1.0
+passage.questions.1.answers.9.idx:12180.0
+passage.questions.1.answers.8.text:Niso imeli dovolj sredstev
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:12179.0
+passage.questions.1.answers.7.text:Strategija
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:12178.0
+passage.questions.1.answers.6.text:Pranje
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:12177.0
+passage.questions.1.answers.5.text:Politika
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:12176.0
+passage.questions.1.answers.4.text:Niso mogli najti nobenih informacij
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:12175.0
+passage.questions.1.answers.3.text:Niso se osredotočili na mednarodne probleme
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:12174.0
+passage.questions.1.answers.2.text:Savdska Arabija jim tega ni dovolila
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12173.0
+passage.questions.1.answers.1.text:Preiskava
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:12172.0
+passage.questions.1.answers.0.text:Potreben je za oblikovanje jasnejše slike financ Bin Ladena, vendar ni mogel ugotoviti, od kod prihaja vir denarja. Konec koncev, čeprav je obveščevalna skupnost temu vprašanju namenila več virov in ustvarila nekoliko več obveščevalnih podatkov, je še vedno težko ločiti finančne transakcije Al Kaide med velikimi zneski, ki se gibljejo v mednarodnem finančnem sistemu.
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:12171.0
+passage.questions.0.question:Katera ameriška agencija ni mogla najti ali ustaviti denarnega toka al Queade in tudi ni bila pripravljena nameniti sredstev za obveščevalni analitični center za financiranje terorizma iz vseh virov?
+passage.questions.0.idx:2311
+passage.questions.0.answers.5.text:Centcom
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:12170.0
+passage.questions.0.answers.4.text:NSA
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:12169.0
+passage.questions.0.answers.3.text:FBI
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:12168.0
+passage.questions.0.answers.2.text:Zakladnica
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:12167.0
+passage.questions.0.answers.1.text:CIA
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12166
+passage.questions.0.answers.0.text:NSC
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:12165
+idx:210

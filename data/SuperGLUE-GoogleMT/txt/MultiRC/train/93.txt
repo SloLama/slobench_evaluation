@@ -1,0 +1,270 @@
+version:1.1
+passage.text:(CNN) - Krščanska evangeličanska skupina je v četrtek sporočila, da je bila biblijska šola, ki jo podpira ameriški evangelist Franklin Graham, uničena v zadnjem bombnem napadu na Južni Kordofan, z nafto bogato sudansko provinco, ki meji na novo ustanovljeno neodvisno državo Južnega Sudana. Po poročanju Samaritan&#39;s Purse, Grahamove krščanske humanitarne skupine, ki podpira šolo, je bilo v sredo na tem območju najmanj osem bomb spuščenih v sredo. Dve bombi sta pristali znotraj zgradbe, ki se nahaja v regiji Nuba, in uničili dve stavbi Heiban Bible College in vžgali travne požare po celotnem območju, poroča skupina. &quot;Čudež je bil, da ni bil nihče ranjen,&quot; so še zapisali v izjavi. Graham, ki je mednarodno skupnost pozval, naj odstrani letalske zmogljivosti Sudana in vzpostavi območje prepovedi letenja v regiji, je v četrtek v izjavi dejal, da za stavko krivi sudanske zračne sile. Od avgusta so uničene vsaj štiri cerkve, so sporočili iz skupine. &quot;Zelo smo zaskrbljeni za dobro počutje in življenje prebivalcev Južnega Kordofana in obsojamo bombardiranje cerkva in krščanskih objektov,&quot; je dodal Graham, sin slovitega velečasnega Billyja Grahama. Združeni narodi so poročali, da je od avgusta lani več kot 78.000 ljudi pobegnilo iz držav Južnega Kordofana in Modrega Nila. Sudanska vlada naj bi se na upor odzvala z izvajanjem trajnih zračnih napadov z uporabo ruskih bombnikov Antonov, ki so vzbudili zaskrbljenost zaradi civilnih žrtev. Desetletja državljanske vojne med severom in jugom, ki je stala kar dva milijona življenj, so se leta 2005 formalno končale z mirovno pogodbo, ki so jo posredovale ZDA.
+passage.questions.9.question:V kateri sudanski državi se nahajajo gore Nuba?
+passage.questions.9.idx:1114.0
+passage.questions.9.answers.2.text:Severni Sudan
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:5686.0
+passage.questions.9.answers.1.text:Južni Kordofan
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:5685.0
+passage.questions.9.answers.0.text:Južni Sudan
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5684.0
+passage.questions.8.question:Kako je ime organizacije, ki podpira biblijsko šolo?
+passage.questions.8.idx:1113.0
+passage.questions.8.answers.4.text:Samaritanina torbica,
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:5683.0
+passage.questions.8.answers.3.text:Ameriški evangelist Franklin Graham
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:5682.0
+passage.questions.8.answers.2.text:Uno
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:5681.0
+passage.questions.8.answers.1.text:Ruski bombniki
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:5680.0
+passage.questions.8.answers.0.text:Predsednik
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:5679.0
+passage.questions.7.question:Koliko ljudi je bilo ranjenih v biblijski šoli, ki je bila uničena med bombardiranjem?
+passage.questions.7.idx:1112.0
+passage.questions.7.answers.4.text:Nobenega
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:5678.0
+passage.questions.7.answers.3.text:0
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:5677.0
+passage.questions.7.answers.2.text:2 milijona
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:5676.0
+passage.questions.7.answers.1.text:V šoli ni bilo poškodovanih
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:5675.0
+passage.questions.7.answers.0.text:100
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:5674.0
+passage.questions.6.question:Kakšna šola je bila uničena v gorah Nuba v južnem Kordofanu?
+passage.questions.6.idx:1111.0
+passage.questions.6.answers.3.text:Heiban Bible College
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:5673.0
+passage.questions.6.answers.2.text:Glasbena šola
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:5672.0
+passage.questions.6.answers.1.text:Vojaško taborišče
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:5671.0
+passage.questions.6.answers.0.text:Biblijska šola
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:5670.0
+passage.questions.5.question:Kaj so uničile bombe?
+passage.questions.5.idx:1110.0
+passage.questions.5.answers.4.text:Avto
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:5669.0
+passage.questions.5.answers.3.text:Chirch
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:5668.0
+passage.questions.5.answers.2.text:Letala
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5667.0
+passage.questions.5.answers.1.text:Ljudje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:5666.0
+passage.questions.5.answers.0.text:Šola
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5665.0
+passage.questions.4.question:Kateri tipi letal so bacili bombe na Heiban Bible College?
+passage.questions.4.idx:1109.0
+passage.questions.4.answers.2.text:Izdelali smo zračna plovila
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:5664.0
+passage.questions.4.answers.1.text:Ruski bombniki Antonov
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:5663.0
+passage.questions.4.answers.0.text:Sudan zrakoplov
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:5662.0
+passage.questions.3.question:Katero vero so te cerkve častile?
+passage.questions.3.idx:1108.0
+passage.questions.3.answers.4.text:Bili so evangeličanski
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:5661.0
+passage.questions.3.answers.3.text:Musliman
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:5660.0
+passage.questions.3.answers.2.text:Christian
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:5659.0
+passage.questions.3.answers.1.text:Hindujski
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:5658.0
+passage.questions.3.answers.0.text:Budistični
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:5657.0
+passage.questions.2.question:Koga je Franklin Graham krivil za bombe, ki so uničile biblijsko šolo?
+passage.questions.2.idx:1107.0
+passage.questions.2.answers.2.text:ZDA
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5656.0
+passage.questions.2.answers.1.text:Sudanske zračne sile
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:5655.0
+passage.questions.2.answers.0.text:Ruski bombniki
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5654.0
+passage.questions.17.question:Kdaj je bila sklenjena pogodba?
+passage.questions.17.idx:1122.0
+passage.questions.17.answers.3.text:Leta 2005
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:5721.0
+passage.questions.17.answers.2.text:2006
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:5720.0
+passage.questions.17.answers.1.text:2007
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:5719.0
+passage.questions.17.answers.0.text:2004
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:5718.0
+passage.questions.16.question:Kam so padle bombe?
+passage.questions.16.idx:1121.0
+passage.questions.16.answers.3.text:V južnem Kordofanu, sudanska provinca
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:5717.0
+passage.questions.16.answers.2.text:Južni Kordofan
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:5716.0
+passage.questions.16.answers.1.text:Južni Sudan
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:5715.0
+passage.questions.16.answers.0.text:ZDA
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:5714.0
+passage.questions.15.question:Kje je bilo mesto bombardiranja?
+passage.questions.15.idx:1120.0
+passage.questions.15.answers.3.text:Severni Sudan
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:5713.0
+passage.questions.15.answers.2.text:Južni Sudan
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:5712.0
+passage.questions.15.answers.1.text:Gore Nuba
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:5711.0
+passage.questions.15.answers.0.text:Južni Korofan
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:5710.0
+passage.questions.14.question:Kakšen je bil odziv sudanske vlade na oboroženi upor, ki se je zgodil avgusta lani?
+passage.questions.14.idx:1119.0
+passage.questions.14.answers.3.text:Prepovedana komunikacija
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:5709.0
+passage.questions.14.answers.2.text:Mirovna pogodba
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:5708.0
+passage.questions.14.answers.1.text:Trajni zračni napadi
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:5707.0
+passage.questions.14.answers.0.text:Zračni napadi
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:5706.0
+passage.questions.13.question:Kaj je spodbudilo Franklina Grahama, da je pozval mednarodno skupnost, naj odstrani letala Sudana in vzpostavi območje prepovedi letenja?
+passage.questions.13.idx:1118.0
+passage.questions.13.answers.3.text:Bombardiranje Franklina Grahama je podprlo biblijsko šolo
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:5705.0
+passage.questions.13.answers.2.text:Praznuje
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:5704.0
+passage.questions.13.answers.1.text:ZDA
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:5703.0
+passage.questions.13.answers.0.text:Sudanske zračne sile
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:5702.0
+passage.questions.12.question:Katera skupina je poročala, da so bile od avgusta uničene štiri cerkve?
+passage.questions.12.idx:1117.0
+passage.questions.12.answers.3.text:Samaritanina torbica
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:5701.0
+passage.questions.12.answers.2.text:Nas gov
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:5700.0
+passage.questions.12.answers.1.text:Evangelist Franklin Graham
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:5699.0
+passage.questions.12.answers.0.text:Sudanska vlada
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:5698.0
+passage.questions.11.question:Kdo je v Južnem Kordofanu odvrgel vsaj osem bomb?
+passage.questions.11.idx:1116.0
+passage.questions.11.answers.3.text:Severni Sudan
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:5697.0
+passage.questions.11.answers.2.text:ZDA
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:5696.0
+passage.questions.11.answers.1.text:Sudansko zračno letalstvo
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:5695.0
+passage.questions.11.answers.0.text:Prijatelji
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:5694.0
+passage.questions.10.question:Koliko od osmih padlih bomb jih je zadelo v biblijski šoli?
+passage.questions.10.idx:1115.0
+passage.questions.10.answers.6.text:Dve bombi sta pristali znotraj zgradbe
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:5693.0
+passage.questions.10.answers.5.text:3.
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:5692.0
+passage.questions.10.answers.4.text:Dva
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:5691.0
+passage.questions.10.answers.3.text:2.
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:5690.0
+passage.questions.10.answers.2.text:1.
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:5689.0
+passage.questions.10.answers.1.text:5.
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:5688.0
+passage.questions.10.answers.0.text:8.
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:5687.0
+passage.questions.1.question:Kakšen čudež se je zgodil, ko sta bili dve stavbi Heiban Bible College uničeni med zadnjim bombnim napadom, ki je prizadel Južni Kordofan?
+passage.questions.1.idx:1106.0
+passage.questions.1.answers.4.text:2 milijona mrtvih
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:5653.0
+passage.questions.1.answers.3.text:Brez poškodb
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:5652.0
+passage.questions.1.answers.2.text:Zavedite se
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5651.0
+passage.questions.1.answers.1.text:Uničeno celo mesto
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:5650.0
+passage.questions.1.answers.0.text:Nihče ni bil poškodovan
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5649.0
+passage.questions.0.question:Koliko stavb Heibanove biblijske fakultete je bilo uničenih?
+passage.questions.0.idx:1105
+passage.questions.0.answers.3.text:3.
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:5648.0
+passage.questions.0.answers.2.text:0
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:5647.0
+passage.questions.0.answers.1.text:4.
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5646
+passage.questions.0.answers.0.text:2.
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:5645
+idx:93

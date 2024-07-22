@@ -1,0 +1,276 @@
+version:1.1
+passage.text:(CNN) - Ko je iranski predsednik Mahmud Ahmadinedžad prejšnji mesec obiskal Generalno skupščino OZN v New Yorku, je bil spet v središču pozornosti Iran. In resnično, iranski predsednik je za zahodne medije podal pravičen delež provokativnih izjav. Toda medtem ko so Ahmadinedžadovi živosrebrni zvoki pritegnili pozornost naših medijev, se je v Iranu nadaljevala usklajena strategija proti ženskemu gibanju. Na predvečer prihoda Ahmadinedžada v New York je ugledna mlada zagovornica človekovih pravic Shiva Nazar Ahari prejela težko kazen šestih let zapora zaradi obtožb, med katerimi je tudi nejasen zločin &quot;vodenje vojne proti Bogu&quot; - primeren ulov - vse kaznivo dejanje za vsakogar, ki kritizira režim in njegovo stanje na področju človekovih pravic. Ni mogoče zanikati - iranske ženske so imele slabo leto. Nazar Ahari se pridružuje vedno večjemu številu drugih aktivistk za pravice žensk, ki so v zaporu zaradi večjega kaznivega dejanja kot njihov poskus boja za pravice žensk. Hengameh Shahidi, Alieh Eghdam Doust, Bahareh Hedayat in Mahdiyeh Golrou so bili poslani v zloglasni teheranski zapor Evin zaradi namišljenih obtožb, povezanih z njihovim aktivizmom. Medtem ko se Nobelova nagrajenka za mir Shirin Ebadi, verjetno najbolj mednarodno priznana iranska aktivistka za pravice žensk, še vedno ne more varno vrniti v svojo državo, vlada na aretacijo in zapor usmerja tiste, ki so z njo povezani, vključno z njeno odvetnico Nasrin Sotoudeh in njeno nekdanjo pomočnico Jinous Sobhani. Od spornih volitev leta 2009 in z njimi povezanih vladnih zatiranj celotnega reformnega gibanja je vlada vse bolj usmerjena v ženske aktivistke. Razlogi za to presegajo mizoginistično naravo iranskega verskega vodstva. Bolj je to del namerne in preračunane strategije iranskih oblasti, da udarijo v središče največje ranljivosti režima - notranje legitimnosti s svojimi ljudmi. Oglejte si več mnenjskih člankov CNN.com Iranska vlada priznava in se boji širše moči aktivistk, ki so že več kot desetletje na prvem robu reform v Iranu. Približno lahko potegnemo analogijo med gibanjem žensk v Iranu z gibanjem verskih skupin v Burmi ali Tibetu ali delavskimi gibanji &quot;solidarnosti&quot; v nekdanjem vzhodnem bloku in z njimi povezano delavsko-rimskokatoliško solidarnost na Poljskem - vse se sprva zavzemajo za svobode določene skupine, vendar so izzvale vladne strahove zaradi njihove preobrazbene moči za spodbujanje širšega napredka na področju človekovih pravic. Medtem ko se zunanji svet občasno odzove na najbolj močne manifestacije iranske represije nad ženskami - na primer na mednarodno obsodbo, povezano s Sakineh Mohammadi Ashtiani, iransko vdovo, obsojeno na kamenjanje zaradi obtožb domnevnega prešuštva - ti dogodki so pogosto predstavljeni preprosto kot posledica arhaičnega stališča režima o spolu.
+passage.questions.9.question:Kdo je prišel v New York zvečer, ko je bil Nazar Ahari obsojen?
+passage.questions.9.idx:2019.0
+passage.questions.9.answers.3.text:Shirin Ebadi
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:10557.0
+passage.questions.9.answers.2.text:Mahmoud Ahmadinejad, iranski predsednik
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:10556.0
+passage.questions.9.answers.1.text:Iranski predsednik
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:10555.0
+passage.questions.9.answers.0.text:Mahmud Ahmadinedžad
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:10554.0
+passage.questions.8.question:Kaj se je dogajalo v Iranu?
+passage.questions.8.idx:2018.0
+passage.questions.8.answers.3.text:Praznovanje Norouza
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:10553.0
+passage.questions.8.answers.2.text:Usklajena strategija proti ženskemu gibanju
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:10552.0
+passage.questions.8.answers.1.text:Vojna proti Bogu
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:10551.0
+passage.questions.8.answers.0.text:Aktivisti za pravice žensk niso bili v zaporu zaradi večjega kaznivega dejanja kot njihov poskus boja za pravice žensk
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:10550.0
+passage.questions.7.question:Ko je iranski predsednik Mahmud Ahmadinedžad dajal provokativne izjave, kje je bil na obisku v New Yorku?
+passage.questions.7.idx:2017.0
+passage.questions.7.answers.2.text:Skupščina OZN
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:10549.0
+passage.questions.7.answers.1.text:Zapor Evin
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:10548.0
+passage.questions.7.answers.0.text:Generalna skupščina OZN
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:10547.0
+passage.questions.6.question:Kako je ime osebi, ki je za zahodne medije dala pravičen delež provokativnih izjav?
+passage.questions.6.idx:2016.0
+passage.questions.6.answers.1.text:Shirin Ebadi
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:10546.0
+passage.questions.6.answers.0.text:Mahmud Ahmadinedžad
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:10545.0
+passage.questions.5.question:Kje je bil predsednik Mahmud Ahmadinedžad, ko se je v Iranu nadaljevala usklajena strategija proti ženskemu gibanju?
+passage.questions.5.idx:2015.0
+passage.questions.5.answers.2.text:Zapor Evin
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:10544.0
+passage.questions.5.answers.1.text:Generalna skupščina OZN
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:10543.0
+passage.questions.5.answers.0.text:New York
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:10542.0
+passage.questions.4.question:Česa se iranska vlada boji in zakaj?
+passage.questions.4.idx:2014.0
+passage.questions.4.answers.2.text:Ugledna mlada zagovornica človekovih pravic je bila obsojena na šest let zapora
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:10541.0
+passage.questions.4.answers.1.text:Aktivistke na fronti in njihova preobrazbena moč za spodbujanje širšega napredka na področju človekovih pravic
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:10540.0
+passage.questions.4.answers.0.text:Širša moč aktivistk, ki so že več kot desetletje v ospredju reform v Iranu
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:10539.0
+passage.questions.3.question:Kdo je prejšnji mesec obiskal Generalno skupščino OZN?
+passage.questions.3.idx:2013.0
+passage.questions.3.answers.2.text:Iranski predsednik Mahmud Ahmadinedžad
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:10538.0
+passage.questions.3.answers.1.text:Nazar Ahari
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:10537.0
+passage.questions.3.answers.0.text:Mahmud Ahmadinedžad
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:10536.0
+passage.questions.20.question:Kako so imena nekaterih zapornic, ki so jih obtožile, da so ženske aktivistke?
+passage.questions.20.idx:2030.0
+passage.questions.20.answers.6.text:Shirin Ebadi
+passage.questions.20.answers.6.label:1.0
+passage.questions.20.answers.6.idx:10596.0
+passage.questions.20.answers.5.text:Nazar Ahari
+passage.questions.20.answers.5.label:1.0
+passage.questions.20.answers.5.idx:10595.0
+passage.questions.20.answers.4.text:Mahdiyeh Golrou
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:10594.0
+passage.questions.20.answers.3.text:Bahareh Hedayat
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:10593.0
+passage.questions.20.answers.2.text:Alieh Eghdam Doust
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:10592.0
+passage.questions.20.answers.1.text:Hengameh Shahidi
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:10591.0
+passage.questions.20.answers.0.text:Mahmud Ahmadinedžad
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:10590.0
+passage.questions.2.question:Kdo je prejel zaporno kazen na predvečer prihoda Ahmadinedžada v New York?
+passage.questions.2.idx:2012.0
+passage.questions.2.answers.2.text:Šiva Nazar Ahari, mlada zagovornica človekovih pravic, je bila obsojena na šest let zapora
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:10535.0
+passage.questions.2.answers.1.text:Nazar Ahari
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:10534.0
+passage.questions.2.answers.0.text:Mahmud Ahmadinedžad
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:10533.0
+passage.questions.19.question:Kako se iranski predsednik pogovarja z zahodnimi mediji?
+passage.questions.19.idx:2029.0
+passage.questions.19.answers.2.text:Daje provokativne izjave in živo srečo
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:10589.0
+passage.questions.19.answers.1.text:Pravičen delež provokativnih izjav
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:10588.0
+passage.questions.19.answers.0.text:Lepo
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:10587.0
+passage.questions.18.question:Ali je iranska vlada za ali proti aktivistkam?
+passage.questions.18.idx:2028.0
+passage.questions.18.answers.2.text:Ljubezen ženske dejavnosti
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:10586.0
+passage.questions.18.answers.1.text:Proti
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:10585.0
+passage.questions.18.answers.0.text:Proti ženskim dejavnostim
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:10584.0
+passage.questions.17.question:Koliko žensk je navedenih v odstavku?
+passage.questions.17.idx:2027.0
+passage.questions.17.answers.4.text:Štiri
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:10583.0
+passage.questions.17.answers.3.text:7.
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:10582.0
+passage.questions.17.answers.2.text:Devet žensk
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:10581.0
+passage.questions.17.answers.1.text:9.
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:10580.0
+passage.questions.17.answers.0.text:4.
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:10579.0
+passage.questions.16.question:Kaj se je nadaljevalo v Iranu, medtem ko je predsednik Mahmud Ahmadinedžad obiskal Generalno skupščino OZN v New Yorku?
+passage.questions.16.idx:2026.0
+passage.questions.16.answers.1.text:Strategija proti ženskemu gibanju
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:10578.0
+passage.questions.16.answers.0.text:Generalna skupščina OZN
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:10577.0
+passage.questions.15.question:Kako je ime predsednika, ki je provokativne izjave za medije?
+passage.questions.15.idx:2025.0
+passage.questions.15.answers.1.text:Shirin Ebadi
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:10576.0
+passage.questions.15.answers.0.text:Mahmud Ahmadinedžad
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:10575.0
+passage.questions.14.question:Kdo je imenovan za provokativne izjave zahodnim medijem?
+passage.questions.14.idx:2024.0
+passage.questions.14.answers.2.text:Jinous Sobhani
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:10574.0
+passage.questions.14.answers.1.text:Iranski predsednik
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:10573.0
+passage.questions.14.answers.0.text:Mahmud Ahmadinedžad
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:10572.0
+passage.questions.13.question:Kateri so razlogi, da vlada usmerja ženske aktivistke?
+passage.questions.13.idx:2023.0
+passage.questions.13.answers.2.text:Ugledna mlada zagovornica človekovih pravic je bila obsojena na šest let zapora
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:10571.0
+passage.questions.13.answers.1.text:Da bi napadli največjo ranljivost - notranjo legitimnost svojih ljudi
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:10570.0
+passage.questions.13.answers.0.text:Ženomrznost iranskega verskega vodstva
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:10569.0
+passage.questions.12.question:Kakšna je bila usklajena strategija proti ženskemu gibanju?
+passage.questions.12.idx:2022.0
+passage.questions.12.answers.2.text:Ugledna mlada zagovornica človekovih pravic je bila obsojena na šest let zapora
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:10568.0
+passage.questions.12.answers.1.text:Shiva Nazar je bil obsojen na 6 let zapora
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:10567.0
+passage.questions.12.answers.0.text:Ženomrznost iranskega verskega vodstva
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:10566.0
+passage.questions.11.question:Zakaj je bil Shiva Nazar Ahari zaprt?
+passage.questions.11.idx:2021.0
+passage.questions.11.answers.2.text:Zaprli so jo zaradi obtožb, med katerimi je tudi nejasen zločin &quot;vodenje vojne proti Bogu&quot;
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:10565.0
+passage.questions.11.answers.1.text:rants je pritegnil pozornost naših medijev
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:10564.0
+passage.questions.11.answers.0.text:Domnevno prešuštvo
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:10563.0
+passage.questions.10.question:Koga so poslali v zloglasni teheranski zapor Evin?
+passage.questions.10.idx:2020.0
+passage.questions.10.answers.4.text:Mahdiyeh Golrou
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:10562.0
+passage.questions.10.answers.3.text:Bahareh Hedayat
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:10561.0
+passage.questions.10.answers.2.text:Alieh Eghdam Doust
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:10560.0
+passage.questions.10.answers.1.text:Hengameh Shahidi
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:10559.0
+passage.questions.10.answers.0.text:Mahmud Ahmadinedžad
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:10558.0
+passage.questions.1.question:Kako se imenuje pet žensk, ki so odšle v zapor zaradi večjega kaznivega dejanja kot njihov poskus boja za pravice žensk?
+passage.questions.1.idx:2011.0
+passage.questions.1.answers.6.text:Mahdiyeh Golrou
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:10532.0
+passage.questions.1.answers.5.text:Bahareh Hedayat
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:10531.0
+passage.questions.1.answers.4.text:Mahmud Ahmadinedžad
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:10530.0
+passage.questions.1.answers.3.text:Alieh Eghdam Doust
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:10529.0
+passage.questions.1.answers.2.text:Hengameh Shahidi
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:10528.0
+passage.questions.1.answers.1.text:Nazar Ahari
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:10527.0
+passage.questions.1.answers.0.text:Nazar Ahari, Hengameh Shahidi, Alieh Eghdam Doust, Bahareh Hedayat, Mahdiyeh Golrou
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10526.0
+passage.questions.0.question:Kaj je razlog, da je iranska vlada od leta 2009 vse bolj usmerjena v reformno gibanje aktivistk?
+passage.questions.0.idx:2010
+passage.questions.0.answers.5.text:Članki o mnenju CNN.com
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:10525.0
+passage.questions.0.answers.4.text:vladna represija
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:10524.0
+passage.questions.0.answers.3.text:več kot desetletje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:10523.0
+passage.questions.0.answers.2.text:Dejavnosti žensk
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:10522.0
+passage.questions.0.answers.1.text:Ženomrznost iranskega verskega vodstva
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:10521
+passage.questions.0.answers.0.text:Ker želijo iranske oblasti udariti v središče največje ranljivosti režima - notranje legitimnosti s svojimi ljudmi
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:10520
+idx:183

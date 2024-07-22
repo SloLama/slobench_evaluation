@@ -1,0 +1,345 @@
+version:1.1
+passage.text:Hurlburt Field, Florida (CNN) - Letalo CV-22 Osprey se je v sredo strmoglavilo med rutinsko vadbeno misijo severno od Navarre na Floridi in na njem poškodovalo pet članov posadke, je dejal vojaški uradnik. Nesreča se je zgodila okoli 18.45 na območju Eglin Hurlburt Field, je povedala Amy Nicholson, vodja javnih služb na letališču. Pet poškodovanih članov posadke so odpeljali v območno bolnišnico, je dejal Nicholson. Obseg njihovih poškodb ni bil takoj znan. Vzrok nesreče je v preiskavi, je dejala. Osprey je bil dodeljen 1. krilu za posebne operacije, so sporočili iz letalskih sil. Letalo z nagibnim rotorjem lahko leti kot letalo in pristane kot helikopter. Vojska je začela razvijati Osprey leta 1982, čeprav je bil program skoraj ukinjen leta 1989, ko ga je takratni obrambni minister Dick Cheney hotel preklicati zaradi stroškov baloniranja. Postavljala so se vprašanja o varnosti Ospreya po dveh nesrečah, med njimi leta 1992 v letalski bazi Marine Corps v Virginiji, ki je ubila posadko. Konec leta 2000 je marinski korpus po dveh nesrečah prizemlil floto Osprey - eno v Arizoni, ki je ubila štiri člane posadke in 15 potnikov, in drugo v Severni Karolini, ki je ubila posadko. Ospreyu je bila naročena prenova, ki je letala nadaljevala leta 2002. Letalske sile so začele uporabljati Ospreys leta 2008 po preizkusu letala leta 2006. Prvič so jih marinci v Iraku napotili leta 2007 po 18 letih in razvoju 20 milijard dolarjev.
+passage.questions.9.question:V koliko državah so v skladu s člankom nesreče Ospreya povzročile smrt?
+passage.questions.9.idx:490.0
+passage.questions.9.answers.2.text:3.
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2512.0
+passage.questions.9.answers.1.text:4.
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2511.0
+passage.questions.9.answers.0.text:2.
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2510.0
+passage.questions.8.question:V katerih državah je Osprey strmoglavil?
+passage.questions.8.idx:489.0
+passage.questions.8.answers.9.text:Severna Karolina
+passage.questions.8.answers.9.label:1.0
+passage.questions.8.answers.9.idx:2509.0
+passage.questions.8.answers.8.text:Arizono
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:2508.0
+passage.questions.8.answers.7.text:Virginia
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:2507.0
+passage.questions.8.answers.6.text:Florida
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:2506.0
+passage.questions.8.answers.5.text:Nebraska
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:2505.0
+passage.questions.8.answers.4.text:Mehika
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:2504.0
+passage.questions.8.answers.3.text:Združene države
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:2503.0
+passage.questions.8.answers.2.text:Katera koli država
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2502.0
+passage.questions.8.answers.1.text:Teksas
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2501.0
+passage.questions.8.answers.0.text:Kalifornija
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2500.0
+passage.questions.7.question:Koliko ljudi je umrlo zaradi nesreče v Navarri, FL in v Arizoni skupaj?
+passage.questions.7.idx:488.0
+passage.questions.7.answers.5.text:20.
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:2499.0
+passage.questions.7.answers.4.text:64
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:2498.0
+passage.questions.7.answers.3.text:25.
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2497.0
+passage.questions.7.answers.2.text:21.
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:2496.0
+passage.questions.7.answers.1.text:15.
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2495.0
+passage.questions.7.answers.0.text:19.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:2494.0
+passage.questions.6.question:Amy Nicholson je povedala, kje se je zgodila nesreča ob 18.45?
+passage.questions.6.idx:487.0
+passage.questions.6.answers.3.text:Arizono
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2493.0
+passage.questions.6.answers.2.text:Severna Karolina
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2492.0
+passage.questions.6.answers.1.text:Florida
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:2491.0
+passage.questions.6.answers.0.text:Območje Eglin v predelu Hurlburt Field
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2490.0
+passage.questions.5.question:Ali je res, da je bila zadnja nesreča Ospreya na Floridi najbolj usodna nesreča Ospreya?
+passage.questions.5.idx:486.0
+passage.questions.5.answers.3.text:Arizona je bila bolj usodna
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2489.0
+passage.questions.5.answers.2.text:Florida
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2488.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2487.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2486.0
+passage.questions.4.question:Ali so marinci ali letalstvo najprej uporabili Osprey?
+passage.questions.4.idx:485.0
+passage.questions.4.answers.1.text:Marinci
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2485.0
+passage.questions.4.answers.0.text:Letalstvo
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2484.0
+passage.questions.3.question:Kdaj se je zgodila nesreča, v kateri je bilo pet ranjenih?
+passage.questions.3.idx:484.0
+passage.questions.3.answers.3.text:18.45
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2483.0
+passage.questions.3.answers.2.text:CV-22
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2482.0
+passage.questions.3.answers.1.text:20.45
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2481.0
+passage.questions.3.answers.0.text:7:00
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2480.0
+passage.questions.20.question:V koliko nesrečah je bil udeležen CV-22?
+passage.questions.20.idx:501.0
+passage.questions.20.answers.2.text:6.
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:2564.0
+passage.questions.20.answers.1.text:4.
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:2563.0
+passage.questions.20.answers.0.text:5.
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:2562.0
+passage.questions.2.question:Koliko članov posadke je bilo poškodovanih v nesreči letala Osprey v sredo?
+passage.questions.2.idx:483
+passage.questions.2.answers.3.text:6.
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2479.0
+passage.questions.2.answers.2.text:23.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2478.0
+passage.questions.2.answers.1.text:15.
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:2477
+passage.questions.2.answers.0.text:5.
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2476
+passage.questions.19.question:Koliko je bilo poškodovanih v nesreči na polju Hurlburt in iz katere enote?
+passage.questions.19.idx:500.0
+passage.questions.19.answers.4.text:7, 1. krilo za posebne operacije
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:2561.0
+passage.questions.19.answers.3.text:Marinci
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:2560.0
+passage.questions.19.answers.2.text:5, 1. krilo za posebne operacije
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:2559.0
+passage.questions.19.answers.1.text:5, 2. krilo za posebne operacije
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:2558.0
+passage.questions.19.answers.0.text:6, 1. krilo za posebne operacije
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:2557.0
+passage.questions.18.question:Je bila to prva nesreča, ki jo je imel Osprey?
+passage.questions.18.idx:499.0
+passage.questions.18.answers.3.text:Še ena nesreča leta 1992
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:2556.0
+passage.questions.18.answers.2.text:Ne. Bilo je že več drugih
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:2555.0
+passage.questions.18.answers.1.text:Da
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:2554.0
+passage.questions.18.answers.0.text:Ne
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:2553.0
+passage.questions.17.question:Katere veje oboroženih sil uporabljajo Ospreys?
+passage.questions.17.idx:498.0
+passage.questions.17.answers.4.text:Marine Corps
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:2552.0
+passage.questions.17.answers.3.text:Letalstvo
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:2551.0
+passage.questions.17.answers.2.text:Mornarica
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:2550.0
+passage.questions.17.answers.1.text:Zračne sile, marinci
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:2549.0
+passage.questions.17.answers.0.text:Vojska
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:2548.0
+passage.questions.16.question:Koliko let je minilo med začetkom razvoja Ospreya in usodno nesrečo Ospreya v Virginiji?
+passage.questions.16.idx:497.0
+passage.questions.16.answers.4.text:3.
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:2547.0
+passage.questions.16.answers.3.text:10 let
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:2546.0
+passage.questions.16.answers.2.text:100 let
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:2545.0
+passage.questions.16.answers.1.text:5.
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:2544.0
+passage.questions.16.answers.0.text:4.
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:2543.0
+passage.questions.15.question:Kdaj je bil proračun CV-22 postavljen pod vprašaj in kakšen je skupni skupni razvoj?
+passage.questions.15.idx:496.0
+passage.questions.15.answers.6.text:2000
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:2542.0
+passage.questions.15.answers.5.text:1992
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:2541.0
+passage.questions.15.answers.4.text:1989 in 200 milijonov dolarjev
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:2540.0
+passage.questions.15.answers.3.text:2002 in 20 milijonov dolarjev
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:2539.0
+passage.questions.15.answers.2.text:1989 in 22 milijonov dolarjev
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2538.0
+passage.questions.15.answers.1.text:1989 in 20 milijonov dolarjev
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:2537.0
+passage.questions.15.answers.0.text:10 tisoč dolarjev
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:2536.0
+passage.questions.14.question:Ko so marinci napotili Osprey, kako dolgo je bil v razvoju?
+passage.questions.14.idx:495.0
+passage.questions.14.answers.3.text:7 let
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:2535.0
+passage.questions.14.answers.2.text:25 let
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:2534.0
+passage.questions.14.answers.1.text:2 leti
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:2533.0
+passage.questions.14.answers.0.text:18 let
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:2532.0
+passage.questions.13.question:Kdaj so bile operacije Osprey ustavljene in ponovno zagnane?
+passage.questions.13.idx:494.0
+passage.questions.13.answers.6.text:2007 in 2008
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:2531.0
+passage.questions.13.answers.5.text:1989 in 2002
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:2530.0
+passage.questions.13.answers.4.text:1998
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:2529.0
+passage.questions.13.answers.3.text:2000
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:2528.0
+passage.questions.13.answers.2.text:Ustavljeno 2000 ponovno zagnano 2002
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:2527.0
+passage.questions.13.answers.1.text:Ustavljeno 2002 ponovno zagnano 2002
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:2526.0
+passage.questions.13.answers.0.text:Ustavljeno 2000 ponovno zagnano 2000
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:2525.0
+passage.questions.12.question:Koliko denarja je bilo porabljenega za razvoj od trenutka, ko je vojska začela razvijati Osprey leta 1982, in ko ga je vojska prvič uporabila?
+passage.questions.12.idx:493.0
+passage.questions.12.answers.3.text:19 tisoč dolarjev
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:2524.0
+passage.questions.12.answers.2.text:20 milijonov
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2523.0
+passage.questions.12.answers.1.text:2007
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:2522.0
+passage.questions.12.answers.0.text:20 milijard dolarjev
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:2521.0
+passage.questions.11.question:Kateremu krilu v zračnih silah je bilo dodeljeno letalo z nagibnim rotorjem?
+passage.questions.11.idx:492.0
+passage.questions.11.answers.3.text:1. posebne operacije
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:2520.0
+passage.questions.11.answers.2.text:Prvo krilo za posebne operacije
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:2519.0
+passage.questions.11.answers.1.text:Levo krilo
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2518.0
+passage.questions.11.answers.0.text:2. krilo za posebne operacije
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2517.0
+passage.questions.10.question:Koliko časa je trajalo, da so letalske sile uporabile Ospreys, potem ko so jih marinci napotili v Irak?
+passage.questions.10.idx:491.0
+passage.questions.10.answers.3.text:4 leta
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2516.0
+passage.questions.10.answers.2.text:2 leti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2515.0
+passage.questions.10.answers.1.text:1 leto
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:2514.0
+passage.questions.10.answers.0.text:Eno leto
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:2513.0
+passage.questions.1.question:Kateri razlogi so morda povzročili, da se Osprey odpravi?
+passage.questions.1.idx:482
+passage.questions.1.answers.4.text:Stroški balona
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:2475.0
+passage.questions.1.answers.3.text:Letalstvo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2474.0
+passage.questions.1.answers.2.text:razvoj Ospreya leta 1982
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2473.0
+passage.questions.1.answers.1.text:Varnostna vprašanja
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2472
+passage.questions.1.answers.0.text:Vsa vprašanja glede stroškov in varnosti
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2471
+passage.questions.0.question:Koliko časa je trajalo, da so letalske sile začele uporabljati letalo, potem ko je Osprey leta 2002 nadaljeval letenje?
+passage.questions.0.idx:481
+passage.questions.0.answers.5.text:2 leti
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:2470.0
+passage.questions.0.answers.4.text:3 mesece
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2469.0
+passage.questions.0.answers.3.text:4 leta
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2468.0
+passage.questions.0.answers.2.text:8 let
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2467.0
+passage.questions.0.answers.1.text:6 let
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2466
+passage.questions.0.answers.0.text:12 let
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2465
+idx:43

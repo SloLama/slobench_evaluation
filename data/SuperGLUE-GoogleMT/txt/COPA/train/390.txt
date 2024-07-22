@@ -1,0 +1,6 @@
+choice1:Njegova prodaja je zaostajala.
+choice2:Obnovil je najem.
+idx:390
+label:0
+premise:Trgovina na drobno se je zaprla.
+question:cause

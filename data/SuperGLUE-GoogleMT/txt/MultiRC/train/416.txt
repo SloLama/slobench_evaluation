@@ -1,0 +1,602 @@
+version:1.1
+passage.text:Catherine V. &quot;Ginny&quot; Kilgore iz Oxforda, odvetnica pri podeželskih pravnih službah v Severnem Mississippiju, je bila priznana za svojo predanost služenju ubogim. Kilgore, ki skrbi za zagotavljanje pravnih storitev invalidom in starejšim v 39 okrožjih severnega Mississippija, je prejel nagrado za javno službo Univerze v Mississippiju 2002. Nagrado so nedavno razglasili na večerji, ki je bila v čast Kilgoreju in jo je gostil dekan pravne fakultete Samuel M. Davis, ki ji je podelil vgravirano plaketo. &quot;Ginny Kilgore je javna uslužbenka v pravem pomenu besede,&quot; je dejal Davis. &quot;Njen izbor nadaljuje tradicijo te nagrade, ko prizna tiste, ki so delali v jarkih, z malo ali nič nadomestila, vendar z velikim strokovnim in osebnim zadovoljstvom, ko pomaga doseči pravičnost in enakost do tistih, ki jih najbolj potrebujejo.&quot; &quot;Ta nagrada mi pomeni zelo veliko,&quot; je dejal Kilgore in pokazal na druge tako počaščene. &quot;Delo tistih, ki so nagrado prejeli pred mano, je bilo tako pomembno; počutim se zelo počaščeno.&quot; Potem ko je diplomiral in magistriral iz izobraževanja in nekaj let poučeval, se je Kilgore vpisal na pravno fakulteto UM. Po diplomi leta 1975 je vstopila v zasebno odvetniško prakso v Oxfordu in se leta 1978 pridružila NMRLS. Od takrat si je zaslužila napredovanja od generalnega odvetnika, višjega odvetnika, nato direktorja Sveta za staranje. Od leta 1990 je delala v upravni pravni enoti in razvoju virov ter je vodila projekt Elder Law, ki služi severni polovici države. Je tudi izredna profesorica na civilni pravni kliniki UM pravne fakultete. Podobno funkcijo je imela pred nekaj leti v šolski odvetniški kliniki. Kilgore pravi, da je našla svojo nišo. &quot;Vedno sem mislil, da je pomembno, da delam, da pomagam ljudem. Resnično uživam. Vprašanja, s katerimi sem se ukvarjal v preteklih letih, so bila na strani, da ljudem pomagam ohranjati osnove življenja - dom, zdravstvena nega , službe in družina. &quot; Pravi, da se je njena želja po služenju drugim sprožila že zgodaj, ko je odraščala v domu z enim od staršev, saj se je zavedala, da se je njena ovdovela mati soočala z določenimi izzivi, ko je v javni šoli in na fakulteti podpirala svoje štiri otroke.
+passage.questions.9.question:V katerih dveh klinikah pravne fakultete UM je delala Ginny Kilgore?
+passage.questions.9.idx:4722.0
+passage.questions.9.answers.8.text:Odvetniška klinika
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:25072.0
+passage.questions.9.answers.7.text:Kazensko pravo
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:25071.0
+passage.questions.9.answers.6.text:Kazenskopravna klinika
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:25070.0
+passage.questions.9.answers.5.text:Delala je kot izredna profesorica na civilni in starejši pravni kliniki
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:25069.0
+passage.questions.9.answers.4.text:Zakon o stečaju
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:25068.0
+passage.questions.9.answers.3.text:Starejše pravo in civilno pravo
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:25067.0
+passage.questions.9.answers.2.text:Otroška pravna klinika
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:25066.0
+passage.questions.9.answers.1.text:Poslovno pravo
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:25065.0
+passage.questions.9.answers.0.text:Klinika za civilno pravo, Odvetniška klinika za starejše
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:25064.0
+passage.questions.8.question:Katero nagrado so razglasili na večerji v čast Kilgoreju?
+passage.questions.8.idx:4721.0
+passage.questions.8.answers.7.text:Nobelova nagrada za mir
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:25063.0
+passage.questions.8.answers.6.text:Nagrada za javno službo Univerze v Mississippiju leta 2005
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:25062.0
+passage.questions.8.answers.5.text:Nagrada pravne službe Univerze v Mississippiju za javno službo 2002
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:25061.0
+passage.questions.8.answers.4.text:Helmuth-James-von-Moltke-Preis
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:25060.0
+passage.questions.8.answers.3.text:Nagrada pravne službe Univerze v Mississippiju za javno službo 2010
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:25059.0
+passage.questions.8.answers.2.text:Nagrada za javno službo Univerze v Severnem Mississippiju iz leta 2003
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:25058.0
+passage.questions.8.answers.1.text:Brandeisova medalja
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:25057.0
+passage.questions.8.answers.0.text:Nagrada Yorke
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:25056.0
+passage.questions.7.question:V katerih delih pravne fakultete UM je delala?
+passage.questions.7.idx:4720.0
+passage.questions.7.answers.8.text:Kazensko pravo
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:25055.0
+passage.questions.7.answers.7.text:Starejša pravna klinika in civilnopravna klinika
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:25054.0
+passage.questions.7.answers.6.text:Kazenskopravna klinika
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:25053.0
+passage.questions.7.answers.5.text:Klinika za civilno pravo
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:25052.0
+passage.questions.7.answers.4.text:Pravna klinika za človekove pravice
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:25051.0
+passage.questions.7.answers.3.text:Enota za upravno pravo in razvoj virov, klinika za državljansko pravo in klinika za starejše
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:25050.0
+passage.questions.7.answers.2.text:Zakon o stečaju
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:25049.0
+passage.questions.7.answers.1.text:Arbitražna pravna klinika
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:25048.0
+passage.questions.7.answers.0.text:Poslovno pravo
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:25047.0
+passage.questions.6.question:Kje je delala Catherine V. &quot;Ginny&quot; Kilgore?
+passage.questions.6.idx:4719.0
+passage.questions.6.answers.9.text:Južni Mississippi
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:25044.0
+passage.questions.6.answers.8.text:Mississippi
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:25043.0
+passage.questions.6.answers.7.text:40 severnih okrožij Mississippija
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:25042.0
+passage.questions.6.answers.6.text:Maine
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:25041.0
+passage.questions.6.answers.5.text:Florida
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:25040.0
+passage.questions.6.answers.4.text:Pravni center Maryland
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:25039.0
+passage.questions.6.answers.3.text:Kalifornija
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:25038.0
+passage.questions.6.answers.2.text:Delala je v enoti za upravno pravo in razvoj virov ter na pravni fakulteti UM na Civilni kliniki
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:25037.0
+passage.questions.6.answers.11.text:Zasebna pravna praksa v Oxfordu
+passage.questions.6.answers.11.label:1.0
+passage.questions.6.answers.11.idx:25046.0
+passage.questions.6.answers.10.text:39 severnih okrožij Mississippija
+passage.questions.6.answers.10.label:1.0
+passage.questions.6.answers.10.idx:25045.0
+passage.questions.6.answers.1.text:Severni Mississippi
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:25036.0
+passage.questions.6.answers.0.text:Oxford
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:25035.0
+passage.questions.5.question:Kaj je storila &quot;Ginny&quot; Kilgore iz Oxforda?
+passage.questions.5.idx:4718.0
+passage.questions.5.answers.9.text:Zelo uspešen tožilec
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:25034.0
+passage.questions.5.answers.8.text:Versees, ki nudi pravne storitve invalidom in starejšim v 39 okrožjih severnega Mississippija
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:25033.0
+passage.questions.5.answers.7.text:Pravni trener v pravnem centru Mississippi
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:25032.0
+passage.questions.5.answers.6.text:Zelo uspešen obrambni odvetnik
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:25031.0
+passage.questions.5.answers.5.text:Državljansko pravo
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:25030.0
+passage.questions.5.answers.4.text:Diplomiral na pravni fakulteti UM
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:25029.0
+passage.questions.5.answers.3.text:Vrhovni sodnik pravnega sistema v Montani
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:25028.0
+passage.questions.5.answers.2.text:Diplomiral na pravni fakulteti UM
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:25027.0
+passage.questions.5.answers.1.text:Pomaga ubogim ljudem, starejšim in invalidom v severnem Mississippiju
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:25026.0
+passage.questions.5.answers.0.text:Poslovno pravo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:25025.0
+passage.questions.4.question:Kje je leta 1975 diplomiral Kilgore?
+passage.questions.4.idx:4717.0
+passage.questions.4.answers.9.text:Univerza v Mississippiju
+passage.questions.4.answers.9.label:1.0
+passage.questions.4.answers.9.idx:25024.0
+passage.questions.4.answers.8.text:Harvard
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:25023.0
+passage.questions.4.answers.7.text:Pravna fakulteta UM
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:25022.0
+passage.questions.4.answers.6.text:MIT
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:25021.0
+passage.questions.4.answers.5.text:LSU
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:25020.0
+passage.questions.4.answers.4.text:Yale
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25019.0
+passage.questions.4.answers.3.text:Univerza v Oxfordu
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25018.0
+passage.questions.4.answers.2.text:Pravna šola TM
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:25017.0
+passage.questions.4.answers.1.text:UM
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:25016.0
+passage.questions.4.answers.0.text:Oxford
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:25015.0
+passage.questions.3.question:Koliko časa je minilo od trenutka, ko je Kilgore diplomirala, do začetka dela v enoti za upravno pravo in razvoj virov.
+passage.questions.3.idx:4716.0
+passage.questions.3.answers.9.text:10 let
+passage.questions.3.answers.9.label:0,0
+passage.questions.3.answers.9.idx:25013.0
+passage.questions.3.answers.8.text:1.
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:25012.0
+passage.questions.3.answers.7.text:6 let
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:25011.0
+passage.questions.3.answers.6.text:10.
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:25010.0
+passage.questions.3.answers.5.text:5.
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:25009.0
+passage.questions.3.answers.4.text:12 let
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:25008.0
+passage.questions.3.answers.3.text:Petnajst let
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:25007.0
+passage.questions.3.answers.2.text:5 let
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:25006.0
+passage.questions.3.answers.10.text:15 let
+passage.questions.3.answers.10.label:1.0
+passage.questions.3.answers.10.idx:25014.0
+passage.questions.3.answers.1.text:15 let je leta 1975 diplomirala in leta 1990 začela delati
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:25005.0
+passage.questions.3.answers.0.text:4.
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25004.0
+passage.questions.2.question:Katera nagrada, za katero je Kilgore rekla, da ji pomeni &quot;veliko&quot;?
+passage.questions.2.idx:4715.0
+passage.questions.2.answers.7.text:Oxfordova pravna nagrada
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:25003.0
+passage.questions.2.answers.6.text:Kraljevi svetovalec v severnem Mississippiju
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:25002.0
+passage.questions.2.answers.5.text:Odvetnik leta v Mississippiju
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:25001.0
+passage.questions.2.answers.4.text:Nobelova nagrada za mir
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25000.0
+passage.questions.2.answers.3.text:Nagrada pravne službe Univerze v Mississippiju za javno službo 2002
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:24999.0
+passage.questions.2.answers.2.text:Helmuth-James-von-Moltke-Preis
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:24998.0
+passage.questions.2.answers.1.text:Brandeisova medalja
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24997.0
+passage.questions.2.answers.0.text:Nagrada Yorke
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24996.0
+passage.questions.18.question:Kako Kilgore občuti njeno delo
+passage.questions.18.idx:4731.0
+passage.questions.18.answers.9.text:Zdi se ji, da je našla svojo nišo, da je to pomembno delo, in pravi, da v tem uživa
+passage.questions.18.answers.9.label:1.0
+passage.questions.18.answers.9.idx:25160.0
+passage.questions.18.answers.8.text:Razočaran
+passage.questions.18.answers.8.label:0,0
+passage.questions.18.answers.8.idx:25159.0
+passage.questions.18.answers.7.text:Počaščen
+passage.questions.18.answers.7.label:1.0
+passage.questions.18.answers.7.idx:25158.0
+passage.questions.18.answers.6.text:Všeč ji je
+passage.questions.18.answers.6.label:1.0
+passage.questions.18.answers.6.idx:25157.0
+passage.questions.18.answers.5.text:Ponosen
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:25156.0
+passage.questions.18.answers.4.text:To je samo služba
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:25155.0
+passage.questions.18.answers.3.text:Njej je dolgočasno
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:25154.0
+passage.questions.18.answers.2.text:Sramota
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:25153.0
+passage.questions.18.answers.10.text:Obžalujem
+passage.questions.18.answers.10.label:0,0
+passage.questions.18.answers.10.idx:25161.0
+passage.questions.18.answers.1.text:Ona uživa
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:25152.0
+passage.questions.18.answers.0.text:To sovraži
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:25151.0
+passage.questions.17.question:Katero leto je Kilgore diplomiral na pravni fakulteti?
+passage.questions.17.idx:4730.0
+passage.questions.17.answers.6.text:1976
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:25150.0
+passage.questions.17.answers.5.text:1973
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:25149.0
+passage.questions.17.answers.4.text:1972
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:25148.0
+passage.questions.17.answers.3.text:1970
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:25147.0
+passage.questions.17.answers.2.text:1977
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:25146.0
+passage.questions.17.answers.1.text:1974
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:25145.0
+passage.questions.17.answers.0.text:1975
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:25144.0
+passage.questions.16.question:Kje je Kilgore po dodiplomskem in podiplomskem študiju obiskovala pravno fakulteto?
+passage.questions.16.idx:4729.0
+passage.questions.16.answers.9.text:Pravna šola VM
+passage.questions.16.answers.9.label:0,0
+passage.questions.16.answers.9.idx:25143.0
+passage.questions.16.answers.8.text:Univerza v Mississippiju
+passage.questions.16.answers.8.label:1.0
+passage.questions.16.answers.8.idx:25142.0
+passage.questions.16.answers.7.text:Pravna šola MM
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:25141.0
+passage.questions.16.answers.6.text:Harvard
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:25140.0
+passage.questions.16.answers.5.text:Pravna šola v Oxfordu
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:25139.0
+passage.questions.16.answers.4.text:MIT
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:25138.0
+passage.questions.16.answers.3.text:LSU
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:25137.0
+passage.questions.16.answers.2.text:Yale
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:25136.0
+passage.questions.16.answers.1.text:Pravna šola UM
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:25135.0
+passage.questions.16.answers.0.text:UM
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:25134.0
+passage.questions.15.question:Kdo je vstopil v zasebno pravno prakso v Oxfordu in se leta 1978 pridružil NMRLS?
+passage.questions.15.idx:4728.0
+passage.questions.15.answers.9.text:Cathy
+passage.questions.15.answers.9.label:0,0
+passage.questions.15.answers.9.idx:25132.0
+passage.questions.15.answers.8.text:George Bush
+passage.questions.15.answers.8.label:0,0
+passage.questions.15.answers.8.idx:25131.0
+passage.questions.15.answers.7.text:Michelle Obama
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:25130.0
+passage.questions.15.answers.6.text:Kellly
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:25129.0
+passage.questions.15.answers.5.text:Katarine iz Oxforda
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:25128.0
+passage.questions.15.answers.4.text:Cathy P. &quot;Mini&quot; Menon
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:25127.0
+passage.questions.15.answers.3.text:Catherine V. &quot;Ginny&quot; Kilgore
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:25126.0
+passage.questions.15.answers.2.text:Donald Trump
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:25125.0
+passage.questions.15.answers.10.text:Kilgore
+passage.questions.15.answers.10.label:1.0
+passage.questions.15.answers.10.idx:25133.0
+passage.questions.15.answers.1.text:barack Obama
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:25124.0
+passage.questions.15.answers.0.text:Catherine Kilgore
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:25123.0
+passage.questions.14.question:Kaj je Ginny Kilgore prejela na večerji kot priznanje za delo z malo ali nič nadomestila prebivalcem v 39 okrožjih severnega Mississippija?
+passage.questions.14.idx:4727.0
+passage.questions.14.answers.8.text:Nagrada za javno službo Univerze v Mississippiju 2012
+passage.questions.14.answers.8.label:0,0
+passage.questions.14.answers.8.idx:25122.0
+passage.questions.14.answers.7.text:Nobelova nagrada za mir
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:25121.0
+passage.questions.14.answers.6.text:Nagrada za javno službo Univerze v Mississippiju 2002
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:25120.0
+passage.questions.14.answers.5.text:Nagrada za javno službo Univerze v Severnem Mississippiju 2002
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:25119.0
+passage.questions.14.answers.4.text:Nagrada za javno službo Univerze v Mississippiju leta 2005
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:25118.0
+passage.questions.14.answers.3.text:Helmuth-James-von-Moltke-Preis
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:25117.0
+passage.questions.14.answers.2.text:Dobila je vgravirano plaketo
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:25116.0
+passage.questions.14.answers.1.text:Brandeisova medalja
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:25115.0
+passage.questions.14.answers.0.text:Nagrada Yorke
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:25114.0
+passage.questions.13.question:Catherine V Ginny Kilgore je odvetnica, ki ponuja pravne storitve v kateri državi?
+passage.questions.13.idx:4726.0
+passage.questions.13.answers.8.text:Michigan
+passage.questions.13.answers.8.label:0,0
+passage.questions.13.answers.8.idx:25113.0
+passage.questions.13.answers.7.text:Louisiana
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:25112.0
+passage.questions.13.answers.6.text:Mississippi
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:25111.0
+passage.questions.13.answers.5.text:Alabama
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:25110.0
+passage.questions.13.answers.4.text:Georgia
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:25109.0
+passage.questions.13.answers.3.text:Arkansas
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:25108.0
+passage.questions.13.answers.2.text:Montana
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:25107.0
+passage.questions.13.answers.1.text:Florida
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:25106.0
+passage.questions.13.answers.0.text:Severni Mississippi
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:25105.0
+passage.questions.12.question:Kje je Kilgorejeva niša?
+passage.questions.12.idx:4725.0
+passage.questions.12.answers.9.text:Kazensko pravo
+passage.questions.12.answers.9.label:0,0
+passage.questions.12.answers.9.idx:25103.0
+passage.questions.12.answers.8.text:Izobraževanje odvetnikov
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:25102.0
+passage.questions.12.answers.7.text:Pravna fakulteta UM
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:25101.0
+passage.questions.12.answers.6.text:Zakon o državljanskih pravicah
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:25100.0
+passage.questions.12.answers.5.text:Odvetniška klinika za starejše
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:25099.0
+passage.questions.12.answers.4.text:Arbitraža
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:25098.0
+passage.questions.12.answers.3.text:Zakon o stečaju
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:25097.0
+passage.questions.12.answers.2.text:Pravo
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:25096.0
+passage.questions.12.answers.10.text:Korporacijsko pravo
+passage.questions.12.answers.10.label:0,0
+passage.questions.12.answers.10.idx:25104.0
+passage.questions.12.answers.1.text:Kazenskega pravosodja
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:25095.0
+passage.questions.12.answers.0.text:Pravne storitve za invalide in starejše
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:25094.0
+passage.questions.11.question:Koliko let je Ginny v času predstavitve delala za NMRLS?
+passage.questions.11.idx:4724.0
+passage.questions.11.answers.9.text:27.
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:25091.0
+passage.questions.11.answers.8.text:20.
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:25090.0
+passage.questions.11.answers.7.text:15 let
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:25089.0
+passage.questions.11.answers.6.text:10 let
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:25088.0
+passage.questions.11.answers.5.text:42
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:25087.0
+passage.questions.11.answers.4.text:Dvainštirideset let
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:25086.0
+passage.questions.11.answers.3.text:42 let
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:25085.0
+passage.questions.11.answers.2.text:24.
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:25084.0
+passage.questions.11.answers.11.text:20 let
+passage.questions.11.answers.11.label:0,0
+passage.questions.11.answers.11.idx:25093.0
+passage.questions.11.answers.10.text:30.
+passage.questions.11.answers.10.label:0,0
+passage.questions.11.answers.10.idx:25092.0
+passage.questions.11.answers.1.text:50 let
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:25083.0
+passage.questions.11.answers.0.text:Nagrado je dobila leta 2002, z NMRLS pa leta 1978, torej 24 let
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:25082.0
+passage.questions.10.question:Kateri dve ločeni poklici sta imeli Ginny?
+passage.questions.10.idx:4723.0
+passage.questions.10.answers.8.text:Nepremičnine in odvetnik
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:25081.0
+passage.questions.10.answers.7.text:Pravne storitve za mlade in zdrave
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:25080.0
+passage.questions.10.answers.6.text:Univerzitetni profesor in pravnik
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:25079.0
+passage.questions.10.answers.5.text:Učitelj in zdravnik
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:25078.0
+passage.questions.10.answers.4.text:Priseljevalne storitve za invalide in starejše
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:25077.0
+passage.questions.10.answers.3.text:Zdravnik in pravnik
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:25076.0
+passage.questions.10.answers.2.text:Pravne storitve za invalide in starejše
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:25075.0
+passage.questions.10.answers.1.text:Ginny je bila učiteljica, preden je postala odvetnica
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:25074.0
+passage.questions.10.answers.0.text:Pravni izzivi obsojencev in beguncev
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:25073.0
+passage.questions.1.question:Kaj Ginny Kilgore opisuje kot štiri življenjske osnove in ali uživa pomagati ljudem, da jih pridobijo?
+passage.questions.1.idx:4714.0
+passage.questions.1.answers.9.text:V odstavku navaja, da v svojem delu resnično uživa, dom, zdravstvo, služba in družina pa štejejo za osnovo
+passage.questions.1.answers.9.label:1.0
+passage.questions.1.answers.9.idx:24993.0
+passage.questions.1.answers.8.text:Potovanja, denar, uspeh in slava
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:24992.0
+passage.questions.1.answers.7.text:Službe
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:24991.0
+passage.questions.1.answers.6.text:Hrana, bogastvo, slava in uspeh in ne
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:24990.0
+passage.questions.1.answers.5.text:Domov
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:24989.0
+passage.questions.1.answers.4.text:Rekreacija
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:24988.0
+passage.questions.1.answers.3.text:Družina
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:24987.0
+passage.questions.1.answers.2.text:Svoboda
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:24986.0
+passage.questions.1.answers.11.text:Zabavno
+passage.questions.1.answers.11.label:0,0
+passage.questions.1.answers.11.idx:24995.0
+passage.questions.1.answers.10.text:Dom, zdravstvo, službe in družina in ja
+passage.questions.1.answers.10.label:1.0
+passage.questions.1.answers.10.idx:24994.0
+passage.questions.1.answers.1.text:Skrb za zdravje
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:24985.0
+passage.questions.1.answers.0.text:Družina, denar, kariera in slava
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:24984.0
+passage.questions.0.question:Kako je ime nagrade, ki Kilgoreju veliko pomeni?
+passage.questions.0.idx:4713
+passage.questions.0.answers.8.text:Nagrada za javno službo Univerze v Mississippiju 2012
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:24983.0
+passage.questions.0.answers.7.text:Nagrada za javno službo 2002
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:24982.0
+passage.questions.0.answers.6.text:Nobelova nagrada za mir
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:24981.0
+passage.questions.0.answers.5.text:Nagrada za javno službo Univerze v Mississippiju leta 2005
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:24980.0
+passage.questions.0.answers.4.text:Nagrada pravne službe Univerze v Mississippiju za javno službo 2002
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:24979.0
+passage.questions.0.answers.3.text:Helmuth-James-von-Moltke-Preis
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:24978.0
+passage.questions.0.answers.2.text:Nagrada za pravno fakulteto Univerze v Montani 2002
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:24977.0
+passage.questions.0.answers.1.text:Brandeisova medalja
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:24976
+passage.questions.0.answers.0.text:Nagrada Yorke
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24975
+idx:416

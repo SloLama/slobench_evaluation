@@ -1,0 +1,6 @@
+﻿choice1:Lastnik ga je peljal v avtopralnico.
+choice2:Lastnik ga je dal prebarvati.
+idx:227
+label:0
+premise:Avto je bil videti umazan.
+question:effect

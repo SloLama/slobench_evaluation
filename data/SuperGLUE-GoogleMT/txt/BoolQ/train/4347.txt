@@ -1,0 +1,4 @@
+idx:4347
+label:False
+passage:Brezžični prehod - brezžični prehod usmerja pakete iz brezžičnega LAN-a v drugo omrežje, žično ali brezžično omrežje WAN. Lahko se izvaja kot programska ali strojna oprema ali kombinacija obeh. Brezžični prehodi združujejo funkcije brezžične dostopne točke, usmerjevalnika in pogosto ponujajo tudi funkcije požarnega zidu. Ponujajo funkcionalnost prevajanja omrežnih naslovov (NAT), tako da lahko več uporabnikov uporablja internet z enim javnim IP-jem. Deluje tudi kot protokol za dinamično konfiguracijo gostitelja (DHCP), da samodejno dodeli IP-je napravam, povezanim v omrežje.
+question:je brezžični prehod enak usmerjevalniku

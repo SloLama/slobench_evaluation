@@ -1,0 +1,6 @@
+choice1:Družina ga je pozvala, naj opusti kajenje.
+choice2:Bil je zasvojen z nikotinom.
+idx:76
+label:1
+premise:Moški si je zaželel cigarete.
+question:cause

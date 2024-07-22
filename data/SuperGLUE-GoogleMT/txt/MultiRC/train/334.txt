@@ -1,0 +1,107 @@
+version:1.1
+passage.text:Guverner Roy Barnes, ki je bil prejšnji mesec poražen zaradi ponovne izvolitve, je v torek sporočil, da bo prvih šest mesecev brez funkcije preživel kot neplačani odvetnik pri društvu za pravno pomoč v Atlanti, kjer bo zastopal revne ljudi. &quot;Nekega dne bom verjetno opravil kakšno pravno delo, za katerega bom zaračunal lep honorar - vsaj upam, da obstajajo tisti, ki so še vedno pripravljeni plačati,&quot; je dejal novinarjem. &quot;Toda za zdaj mislim, da je pomembno, da izpolnjujem svojo dolžnost odvetnika, da pomagam tistim, ki jih najbolj potrebujejo, govorim v prid tistim, ki ne morejo govoriti sam zase, in zagovarjam tiste, katerih življenje in preživetje je od tega odvisno,&quot; je dejal . Prejšnji guvernerji so šli v prestižne odvetniške pisarne, se pridružili upravnim odborom podjetij ali se vrnili v uspešna podjetja. &quot;Mislim, da še nikoli nisem slišal, da bi kdo to počel,&quot; je dejala profesorica politologije z univerze Emory Merle Black. &quot;Če bo dejansko zastopal posameznike za to organizacijo, bodo dobili odlično zastopanje. Tam boste dobili nekaj močnih pravnih mišic,&quot; je dejal gospod Black. G. Barnes je dejal, da že ima svoj prvi primer, vendar ni hotel povedati, za kaj gre. Atlanta Legal Aid zagotavlja javne storitve revnim ljudem v petih okrožjih Atlante. G. Barnes je dejal, da upa, da bo poslal sporočilo drugim odvetnikom. &quot;Ta privilegij za opravljanje odvetništva je ravno to - to je privilegij. In to ima stroške in priložen je račun. Kot pravniki smo odgovorni, da zagotovimo, da ima vsakdo, ne glede na to, ali si ga lahko privošči ali ne, kakovostno zastopanje. In če tega ne počnemo, potem nismo veliko poklic, &quot;je dejal. Steven Gottlieb, izvršni direktor društva, je dejal: &quot;Ne predstavljam si ničesar, kar bi lahko bilo boljše, kot če bi guverner države v svojem prvem dejanju kot zasebnik obljubil šest mesecev svojega časa, da bi zastopal revne ljudi.
+passage.questions.9.question:Kaj je po izgubi na ponovnih volitvah rekel, da bo naredil Roy Barnes?
+passage.questions.9.idx:3841.0
+passage.questions.9.answers.1.text:Prvi primer že ima, vendar ne bi rekel, za kaj gre
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:20378.0
+passage.questions.9.answers.0.text:Prvih šest mesecev bo preživel brez službe kot neplačani odvetnik pri društvu za pravno pomoč v Atlanti, kjer bo zastopal revne ljudi
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:20377.0
+passage.questions.8.question:Kaj Roy Barnes misli o privilegiju opravljanja odvetništva?
+passage.questions.8.idx:3840.0
+passage.questions.8.answers.2.text:To ni nekakšna privilegiranost
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:20376.0
+passage.questions.8.answers.1.text:Da to ni privilegij, ki nosi stroške in gre za račun
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:20375.0
+passage.questions.8.answers.0.text:Ta privilegij za odvetništvo je ravno to - to je privilegij
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:20374.0
+passage.questions.7.question:So prejšnji guvernerji po odhodu s funkcije ubrali isto pot kot Barnes?
+passage.questions.7.idx:3839.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:20373.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:20372.0
+passage.questions.6.question:V čem se izbira kariere guvernerja Roya Barnesa razlikuje od prejšnjih guvernerjev?
+passage.questions.6.idx:3838.0
+passage.questions.6.answers.2.text:Dela brezplačno v društvu za pravno pomoč, ne pa se pridružuje prestižni odvetniški pisarni ali podjetju
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:20371.0
+passage.questions.6.answers.1.text:Prejšnji guvernerji sodelujejo z Royem Barnesom
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:20370.0
+passage.questions.6.answers.0.text:Prejšnji guvernerji so šli v prestižne odvetniške pisarne, se pridružili upravnim odborom podjetij ali se vrnili v uspešna podjetja
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:20369.0
+passage.questions.5.question:Ali vlada Barnes meni, da so vsi ljudje upravičeni do dobrih odvetnikov, ne glede na njihovo plačilno sposobnost?
+passage.questions.5.idx:3837.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:20368.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:20367.0
+passage.questions.4.question:Kaj si Merle Black misli o odločitvi gospoda Barnesa, da bo delal za društvo za pravno pomoč Atlanta?
+passage.questions.4.idx:3836.0
+passage.questions.4.answers.2.text:Mislim, da še nikoli nisem slišal, da bi kdo to počel
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:20366.0
+passage.questions.4.answers.1.text:Mislim, da sem to že velikokrat slišal
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:20365.0
+passage.questions.4.answers.0.text:Da še nikoli niso slišali za prejšnjega guvernerja in da bodo dobili nekaj močnih pravnih mišic
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:20364.0
+passage.questions.3.question:Ali bo vadil v odvetniški pisarni z visoko ceno?
+passage.questions.3.idx:3835.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:20363.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:20362.0
+passage.questions.2.question:Zakaj guverner Roy Barnes po svojem položaju poklanja svoj čas?
+passage.questions.2.idx:3834.0
+passage.questions.2.answers.2.text:Nekega dne bom verjetno opravil kakšno pravno delo, za katerega bom zaračunal lep honorar - vsaj upam, da obstajajo tisti, ki so še vedno pripravljeni plačati
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:20361.0
+passage.questions.2.answers.1.text:Samo zaradi informacij
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:20360.0
+passage.questions.2.answers.0.text:Drugim odvetnikom želi poslati sporočilo, da ima vsakdo pravico svetovati in pomagati tistim, ki jih potrebujejo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:20359.0
+passage.questions.1.question:Zakaj se je gospod Barnes odločil za delo pri društvu za pravno pomoč Atlanta?
+passage.questions.1.idx:3833.0
+passage.questions.1.answers.3.text:Pravo je privledge
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:20358.0
+passage.questions.1.answers.2.text:Upal je, da bo poslal sporočilo drugim odvetnikom
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:20357.0
+passage.questions.1.answers.1.text:Da pošlje sporočilo drugim odvetnikom in ker meni, da imajo vsi kakovostno zastopanje
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:20356.0
+passage.questions.1.answers.0.text:Ni upal, da bo poslal sporočilo drugim odvetnikom
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:20355.0
+passage.questions.0.question:Kje se je Roy Barnes odločil delati prvih 6 mesecev in kaj počne?
+passage.questions.0.idx:3832
+passage.questions.0.answers.3.text:Pred ponovnimi volitvami
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:20354.0
+passage.questions.0.answers.2.text:Pomagajte revnim ljudem
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:20353.0
+passage.questions.0.answers.1.text:Društvo za pravno pomoč Atlanta zagotavlja revne ljudi v petih okrožjih Atlante
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:20352
+passage.questions.0.answers.0.text:Društvo za pravno pomoč v Atlanti
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:20351
+idx:334

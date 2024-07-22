@@ -1,0 +1,6 @@
+choice1:Prodajalec je premalo zaračunal stranki.
+choice2:Prodajalec je bil nesramen do stranke.
+idx:9
+label:1
+premise:Stranka se je pritožila vodji trgovine.
+question:cause

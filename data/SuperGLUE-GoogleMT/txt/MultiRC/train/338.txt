@@ -1,0 +1,392 @@
+version:1.1
+passage.text:Predstavljajte si, da stojite na kmetijskem polju v osrednjem Illinoisu. Zemljišče je tako ravno, da ga lahko vidite kilometre in kilometre. Na jasen dan boste morda videli silos za žito 20 kilometrov stran. Morda si mislite, da je tukaj vsekakor ravno. Če se vozite sto milj proti jugu, se pokrajina spremeni. V južnem Illinoisu so valoviti griči. Zakaj mislite, da je to? Kaj bi lahko povzročilo te funkcije? Ni velikih rek, ki bi lahko erodirale in odložile ta material. Tla so sposobna podpirati travo in drevesa, zato je erozija vetra ne bi mogla pojasniti. Če želite odgovoriti na vprašanje, se morate vrniti 12.000 let nazaj. Pred približno 12.000 leti je velikanski ledeni pokrov pokrival večji del Srednjega zahoda ZDA. Springfield v Illinoisu je pokril več kot kilometer ledu. Težko si je predstavljati kilometer debelo ploščo ledu. Ogromen ledeni pokrov, imenovan ledenik, je povzročil značilnosti današnjega kopnega. Kam so izginili ledeniki? Kje jih lahko vidite danes? Ledeniki so množice tekočega ledu.
+passage.questions.9.question:Kako se geografija osrednjega Illinoisa razlikuje od južnega Illinoisa?
+passage.questions.9.idx:3889.0
+passage.questions.9.answers.5.text:Springfield v Illinoisu je pokril več kot kilometer ledu
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:20635.0
+passage.questions.9.answers.4.text:Srednji Illinois je položen, južni Illinois pa gore
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:20634.0
+passage.questions.9.answers.3.text:Osrednji Illinois je zelo položen, medtem ko ima južni Illinois valovite griče
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:20633.0
+passage.questions.9.answers.2.text:Osrednji Illinois ima valovite hribe, Južni Illinois pa je položen
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:20632.0
+passage.questions.9.answers.1.text:V južnem Illinoisu so valoviti griči. in v osrednjem Illinoisu je zemljišče ravno
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:20631.0
+passage.questions.9.answers.0.text:Osrednji Illinois ima skalne pečine, Južni Illinois pa je položen
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:20630.0
+passage.questions.8.question:Kako dolgo nazaj je Springfield v Illinoisu pokrival več kot kilometer ledu?
+passage.questions.8.idx:3888.0
+passage.questions.8.answers.4.text:Pred 20 leti
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:20629.0
+passage.questions.8.answers.3.text:Pred 120 leti
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:20628.0
+passage.questions.8.answers.2.text:11.000 let
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:20627.0
+passage.questions.8.answers.1.text:Pred 1200 leti
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:20626.0
+passage.questions.8.answers.0.text:Pred približno 12.000 leti
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:20625.0
+passage.questions.7.question:V čem se pokrajina v južnem Illinoisu razlikuje od pokrajine v osrednjem Illinoisu?
+passage.questions.7.idx:3887.0
+passage.questions.7.answers.6.text:Južni Illinois je planota, osrednji Illinois pa je položen
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:20624.0
+passage.questions.7.answers.5.text:Pokrajina na jugu se ponaša z griči, ki se spreminjajo le 100 milj od ravnine
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:20623.0
+passage.questions.7.answers.4.text:Južni Illinois ima skalne pečine, Central Illinois ima valovite hribe
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:20622.0
+passage.questions.7.answers.3.text:Južni Illinois ima gore, Srednji Illinois pa je položen
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:20621.0
+passage.questions.7.answers.2.text:V južnem Illinoisu so valoviti griči. in v osrednjem Illinoisu je zemljišče ravno
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:20620.0
+passage.questions.7.answers.1.text:Južni Illinois ima hribe, Central Illinois je položen
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:20619.0
+passage.questions.7.answers.0.text:Pred približno 12.000 leti je velikanski ledeni pokrov pokrival večji del Srednjega zahoda ZDA
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:20618.0
+passage.questions.6.question:Kje ni velikih rek, ki bi lahko erodirale in odložile ta material?
+passage.questions.6.idx:3886.0
+passage.questions.6.answers.3.text:Kmetijsko polje
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:20617.0
+passage.questions.6.answers.2.text:Južni Illinois
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:20616.0
+passage.questions.6.answers.1.text:Silos za zrnje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:20615.0
+passage.questions.6.answers.0.text:Osrednji Illinois
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:20614.0
+passage.questions.5.question:Katere značilnosti so povzročili ledeniki v Illinoisu?
+passage.questions.5.idx:3885.0
+passage.questions.5.answers.7.text:Gore
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:20613.0
+passage.questions.5.answers.6.text:Ravno zemljišče
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:20612.0
+passage.questions.5.answers.5.text:Sposoben je podpirati travo in drevesa
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:20611.0
+passage.questions.5.answers.4.text:Jame
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:20610.0
+passage.questions.5.answers.3.text:Planote
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:20609.0
+passage.questions.5.answers.2.text:Hribi
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:20608.0
+passage.questions.5.answers.1.text:Valjani griči
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:20607.0
+passage.questions.5.answers.0.text:Kilometer ledu
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:20606.0
+passage.questions.4.question:Kako veliki so bili ledeniki?
+passage.questions.4.idx:3884.0
+passage.questions.4.answers.6.text:20 milj
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:20605.0
+passage.questions.4.answers.5.text:1 miljo debel in pokriva Srednji zahod
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:20604.0
+passage.questions.4.answers.4.text:20 milj široko
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:20603.0
+passage.questions.4.answers.3.text:Eno miljo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:20602.0
+passage.questions.4.answers.2.text:20 milj debela
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:20601.0
+passage.questions.4.answers.1.text:Kilometer debel in je pokrival večji del srednjega zahoda
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:20600.0
+passage.questions.4.answers.0.text:12.000 milj
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:20599.0
+passage.questions.3.question:Kakšna je razlika med osrednjim in južnim Illinoisom?
+passage.questions.3.idx:3883.0
+passage.questions.3.answers.5.text:Springfield v Illinoisu je pokril več kot kilometer ledu
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:20598.0
+passage.questions.3.answers.4.text:Osrednji Illinois je večinoma položen, južni Illinois pa ima valovite griče
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:20597.0
+passage.questions.3.answers.3.text:Osrednji Illinois ima gore, južni Illinois pa je položen
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:20596.0
+passage.questions.3.answers.2.text:V osrednjem Illinoisu je kopno tako ravno, da ga lahko vidite kilometre in kilometre. V južnem Illinoisu so hribi
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:20595.0
+passage.questions.3.answers.1.text:Osrednji Illinois ima valovite hribe, Južni Illinois pa je položen
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:20594.0
+passage.questions.3.answers.0.text:Osrednji Illinois ima skalne pečine, Južni Illinois pa je položen
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:20593.0
+passage.questions.2.question:Kaj ni moglo povzročiti erozije?
+passage.questions.2.idx:3882.0
+passage.questions.2.answers.7.text:Velika reka
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:20592.0
+passage.questions.2.answers.6.text:Erozija ne bi mogla biti zaradi vetra ali rek
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:20591.0
+passage.questions.2.answers.5.text:Jezera
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:20590.0
+passage.questions.2.answers.4.text:Ogromna ledena plošča je pokrivala večji del Srednjega zahoda ZDA
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:20589.0
+passage.questions.2.answers.3.text:Ledeniki
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:20588.0
+passage.questions.2.answers.2.text:Plazovi
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:20587.0
+passage.questions.2.answers.1.text:Tla so sposobna podpirati travo in drevje, zato je erozija vetra ne bi mogla pojasniti
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:20586.0
+passage.questions.2.answers.0.text:Veter
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:20585.0
+passage.questions.18.question:Kakšna je pokrajina na kmetijskih zemljiščih v Illinoisu?
+passage.questions.18.idx:3898.0
+passage.questions.18.answers.5.text:Jame
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:20689.0
+passage.questions.18.answers.4.text:Ravno, tako ravno, da lahko vidite silos za žito 20 kilometrov stran
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:20688.0
+passage.questions.18.answers.3.text:Obstajajo valoviti griči
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:20687.0
+passage.questions.18.answers.2.text:Zemljišče je tako ravno, da ga lahko vidite kilometre in kilometre
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:20686.0
+passage.questions.18.answers.1.text:Stanovanje
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:20685.0
+passage.questions.18.answers.0.text:Doline
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:20684.0
+passage.questions.17.question:Zakaj ima Springfield svoje značilnosti?
+passage.questions.17.idx:3897.0
+passage.questions.17.answers.6.text:Ledenik
+passage.questions.17.answers.6.label:1.0
+passage.questions.17.answers.6.idx:20683.0
+passage.questions.17.answers.5.text:Masivna ledena plošča, imenovana ledenik, je povzročila značilnosti na kopnem
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:20682.0
+passage.questions.17.answers.4.text:Že zdavnaj ga je pokrival kilometer debel list ledu
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:20681.0
+passage.questions.17.answers.3.text:Rečna erozija
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:20680.0
+passage.questions.17.answers.2.text:Erozija tornada
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:20679.0
+passage.questions.17.answers.1.text:Tla so sposobna podpirati travo in drevje, zato je erozija vetra ne bi mogla pojasniti
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:20678.0
+passage.questions.17.answers.0.text:Erozija vetra
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:20677.0
+passage.questions.16.question:Kaj je pokrivalo Illinois pred 12,00 leti?
+passage.questions.16.idx:3896.0
+passage.questions.16.answers.6.text:Pečine
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:20676.0
+passage.questions.16.answers.5.text:Ledenik
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:20675.0
+passage.questions.16.answers.4.text:Ogromna ledena plošča
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:20674.0
+passage.questions.16.answers.3.text:Ledena plošča, debela najmanj 1 miljo, ki se je raztezala po Srednjem zahodu
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:20673.0
+passage.questions.16.answers.2.text:Silos za zrnje
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:20672.0
+passage.questions.16.answers.1.text:Reka
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:20671.0
+passage.questions.16.answers.0.text:Jezero
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:20670.0
+passage.questions.15.question:Kaj verjetno ni povzročilo sprememb v pokrajini v osrednjem Illinoisu?
+passage.questions.15.idx:3895.0
+passage.questions.15.answers.7.text:Ledeniki so množice tekočega ledu
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:20669.0
+passage.questions.15.answers.6.text:Erozija vetra ali vode
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:20668.0
+passage.questions.15.answers.5.text:Dež
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:20667.0
+passage.questions.15.answers.4.text:Ledeniki
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:20666.0
+passage.questions.15.answers.3.text:Rečna erozija
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:20665.0
+passage.questions.15.answers.2.text:Ni velikih rek, ki bi lahko erodirale in odložile ta material
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:20664.0
+passage.questions.15.answers.1.text:Tornadi
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:20663.0
+passage.questions.15.answers.0.text:Erozija vetra
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:20662.0
+passage.questions.14.question:Kje bi lahko videli silos za žito, ko bi v jasnih dneh stal na kmetijskem polju?
+passage.questions.14.idx:3894.0
+passage.questions.14.answers.5.text:Srednji zahod ZDA
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:20661.0
+passage.questions.14.answers.4.text:Osrednji Illinois
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:20660.0
+passage.questions.14.answers.3.text:Južni Illinois
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:20659.0
+passage.questions.14.answers.2.text:Zahodni Illinois
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:20658.0
+passage.questions.14.answers.1.text:Springfield
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:20657.0
+passage.questions.14.answers.0.text:Kmetijsko polje v Springfieldu
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:20656.0
+passage.questions.13.question:V katerem delu Illinoisa bi lahko videli silos za žito, ki je oddaljen 20 kilometrov?
+passage.questions.13.idx:3893.0
+passage.questions.13.answers.3.text:Severni Illinois
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:20655.0
+passage.questions.13.answers.2.text:Južni Illinois
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:20654.0
+passage.questions.13.answers.1.text:Springfield
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:20653.0
+passage.questions.13.answers.0.text:Osrednji Illinois
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:20652.0
+passage.questions.12.question:Kaj so ledeniki in kakšen vpliv imajo na kopno?
+passage.questions.12.idx:3892.0
+passage.questions.12.answers.6.text:Velika reka, ki razjeda tla
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:20651.0
+passage.questions.12.answers.5.text:Velika snežna bankina, ki razjeda tla
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:20650.0
+passage.questions.12.answers.4.text:Ledenik so velike ledene plošče, ki lahko povzročijo opazne značilnosti na kopnem, kot so ravnine ali gričevje
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:20649.0
+passage.questions.12.answers.3.text:Ledeniki so množice tekočega ledu
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:20648.0
+passage.questions.12.answers.2.text:Velik snežni breg, ki spreminja pokrajino
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:20647.0
+passage.questions.12.answers.1.text:Masivna ledena plošča, imenovana ledenik, je povzročila značilnosti na kopnem
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:20646.0
+passage.questions.12.answers.0.text:Masivna ledena plošča, ki povzroča spremembe v pokrajini
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:20645.0
+passage.questions.11.question:Erozija vode in vetra se imenuje geografske značilnosti v Illinoisu. Pravilno ali napačno?
+passage.questions.11.idx:3891.0
+passage.questions.11.answers.1.text:Lažno
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:20644.0
+passage.questions.11.answers.0.text:Prav
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:20643.0
+passage.questions.10.question:Pred koliko časa so območje pokrivali ledeniki?
+passage.questions.10.idx:3890.0
+passage.questions.10.answers.6.text:20 let
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:20642.0
+passage.questions.10.answers.5.text:13.000 let
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:20641.0
+passage.questions.10.answers.4.text:12.000 let
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:20640.0
+passage.questions.10.answers.3.text:120 let
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:20639.0
+passage.questions.10.answers.2.text:1.200 let
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:20638.0
+passage.questions.10.answers.1.text:12.000.000 let
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:20637.0
+passage.questions.10.answers.0.text:Pred približno 12.000 leti
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:20636.0
+passage.questions.1.question:Kaj se zgodi, ko se peljete proti jugu?
+passage.questions.1.idx:3881.0
+passage.questions.1.answers.5.text:Kmetijskih polj ni
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:20584.0
+passage.questions.1.answers.4.text:Zemljišče je ravno
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:20583.0
+passage.questions.1.answers.3.text:Tam so skalne pečine
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:20582.0
+passage.questions.1.answers.2.text:Pokrajina se spreminja
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:20581.0
+passage.questions.1.answers.1.text:Zemljišče je tako ravno, da ga lahko vidite kilometre in kilometre
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:20580.0
+passage.questions.1.answers.0.text:Pokrajina se spreminja v hribe
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:20579.0
+passage.questions.0.question:Kakšen teren najdemo južno od osrednjega Illinoisa?
+passage.questions.0.idx:3880
+passage.questions.0.answers.5.text:Pečine
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:20578.0
+passage.questions.0.answers.4.text:Ravno zemljišče
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:20577.0
+passage.questions.0.answers.3.text:Sposoben je podpirati travo in drevesa
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:20576.0
+passage.questions.0.answers.2.text:Obstajajo valoviti griči
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:20575.0
+passage.questions.0.answers.1.text:Kamnita zemlja
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:20574
+passage.questions.0.answers.0.text:Hribi
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:20573
+idx:338

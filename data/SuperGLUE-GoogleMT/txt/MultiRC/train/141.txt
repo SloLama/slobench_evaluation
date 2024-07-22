@@ -1,0 +1,58 @@
+version:1.1
+passage.text:Tocqueville je menil, da je osvojitev Alžirije pomembna iz dveh razlogov: prvič, njegovo razumevanje mednarodnih razmer in položaja Francije v svetu, in drugič, spremembe v francoski družbi. Tocqueville je verjel, da bosta vojna in kolonizacija &quot;povrnili nacionalni ponos, ogrožen&quot;, je menil s &quot;postopnim mehčanjem družbenih običajev&quot; v srednjem sloju. Njihov okus po &quot;materialnih užitkih&quot; se je razširil po celotni družbi in ji dal &quot;primer šibkosti in egoizma&quot;. Tocqueville je, pozdravljajoč metode generala Bugeauda, šel tako daleč, da je trdil, da je &quot;vojna v Afriki znanost. Vsi poznajo njena pravila in vsak jih lahko uporablja s skoraj popolno gotovostjo uspeha. Ena največjih storitev, ki jo je imel feldmaršal Bugeaud je poskrbel, da je njegova država to novo znanost razširila, izpopolnila in ozavestila. &quot; Tocqueville se je zavzel za rasno segregacijo v Alžiriji z dvema ločenima zakonodajama, eno za evropske koloniste in drugo za arabsko prebivalstvo. Tak dvotirni dogovor bi bil v celoti uresničen z odlokom Cremieux iz leta 1870 in Zakonikom o avtohtonostih, ki je francosko državljanstvo razširilo na evropske naseljence in alžirske Jude, medtem ko bi muslimanske Alžire veljalo muslimansko pravo in omejilo na drugorazredno državljanstvo.
+passage.questions.4.question:Kaj je Tocqueville verjel, da se širi in skozi katero družbo se širi?
+passage.questions.4.idx:1606.0
+passage.questions.4.answers.2.text:Njihov okus po &quot;materialnih užitkih&quot;
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8339.0
+passage.questions.4.answers.1.text:Smrtonosni virus
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8338.0
+passage.questions.4.answers.0.text:Francoski okus za materialne užitke
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:8337.0
+passage.questions.3.question:Za kaj se je Tocqueville zavzemal, da je začelo veljati leta 1870?
+passage.questions.3.idx:1605.0
+passage.questions.3.answers.2.text:Rasno ločevanje
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:8336.0
+passage.questions.3.answers.1.text:Ta nova znanost
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8335.0
+passage.questions.3.answers.0.text:Rasna segregacija v Alžiriji
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:8334.0
+passage.questions.2.question:Katero znanost je feldmaršal Bugeaud pooblaščen za širjenje in izpopolnjevanje?
+passage.questions.2.idx:1604.0
+passage.questions.2.answers.2.text:Kolonizacija
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8333.0
+passage.questions.2.answers.1.text:Znanost o vojni
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:8332.0
+passage.questions.2.answers.0.text:Vojna v Afriki
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8331.0
+passage.questions.1.question:Kaj je Tocqueville verjel, da bo povrnil nacionalni ponos v Franciji?
+passage.questions.1.idx:1603.0
+passage.questions.1.answers.2.text:Spremembe v francoski družbi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8330.0
+passage.questions.1.answers.1.text:Vojna in kolonizacija
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8329.0
+passage.questions.1.answers.0.text:Osvajanje in kolonizacija Alžirije
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:8328.0
+passage.questions.0.question:Zakaj je Tocqueville zaploskal metodam generala Bugeauda?
+passage.questions.0.idx:1602
+passage.questions.0.answers.2.text:Z njim se je strinjal
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:8327.0
+passage.questions.0.answers.1.text:Bila sta prijatelja
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:8326
+passage.questions.0.answers.0.text:Tocqeuville je verjel, da vsi poznajo vojna pravila in da se lahko pravila uporabljajo s skoraj določenim uspehom
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8325
+idx:141

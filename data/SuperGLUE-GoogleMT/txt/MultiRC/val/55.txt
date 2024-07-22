@@ -1,0 +1,95 @@
+version:1.1
+passage.text:Aleksander II (rusko: Aleksander II Nikolajevič, tr. Aleksander II Nikolajevič; IPA: [aljI&#39;ksandr fta&#39;roj njIka&#39;lajIvjItc]; 29. april [OS 17. aprila] 1818 v Moskvi - 13. marec [OS 1. marec] 1881 v Saint Petersburg) je bil ruski cesar od 2. marca 1855 do njegovega atentata leta 1881. Bil je tudi poljski kralj in finski veliki vojvoda. Aleksander je bil najuspešnejši ruski reformator od Petra Velikega. Njegov najpomembnejši dosežek je bila emancipacija podložnikov leta 1861, zaradi česar je postal znan kot Aleksander Osvoboditelj (rusko: Aleksander Osvoboditel &#39;, tr. Aleksander Osvoboditel; IPA: [aljI&#39;ksandr asv @ ba&#39;djitjIlj]). Car je bil odgovoren za številne druge reforme, vključno z reorganizacijo pravosodnega sistema, ustanovitvijo izvoljenih lokalnih sodnikov, odpravo smrtne kazni, spodbujanjem lokalne samouprave prek sistema zemstva, uvedbo univerzalne vojaške službe, ukinitvijo nekaterih plemiških privilegijev in spodbujanjem univerze. Kljub tem reformam je v času njegove vladavine njegova brutalna tajna policija, znana pod imenom Tretji odsek, poslala na tisoče disidentov v izgnanstvo v Sibirijo. V zunanji politiki je Aleksander leta 1867 prodal Aljasko ZDA, saj se je bal, da bo oddaljena kolonija padla v britanske roke, če bo prišlo do nove vojne. Iskal je mir, se oddaljil od vojaške Francije, ko je leta 1871 padel Napoleon III, in se leta 1872 pridružil Nemčiji in Avstriji v Ligi treh cesarjev, ki je stabilizirala evropske razmere. Kljub sicer pacifistični zunanji politiki je v letih 1877–78 s Turčijo vodil kratko vojno, nadaljeval širitev v Sibirijo in na Kavkaz ter osvojil Turkestan. Čeprav je bil razočaran nad rezultati berlinskega kongresa leta 1878, je Aleksander spoštoval ta dogovor. Med njegovimi največjimi domačimi izzivi je bila vstaja na Poljskem leta 1863, na katero je odgovoril tako, da je tej deželi odvzel ločeno ustavo in jo vključil neposredno v Rusijo. Aleksander je predlagal dodatne parlamentarne reforme, da bi preprečil porast nastajajočih revolucionarnih in anarhističnih gibanj, ko je bil leta 1881 umorjen.
+passage.questions.3.question:Koliko let po koncu vojne s Turčijo je bil umorjen Aleksander II?
+passage.questions.3.idx:659.0
+passage.questions.3.answers.8.text:Umorjen je bil tri leta po vojni s Turčijo
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:3324.0
+passage.questions.3.answers.7.text:3.
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:3323.0
+passage.questions.3.answers.6.text:1881
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:3322.0
+passage.questions.3.answers.5.text:Bil je umorjen 4 leta po vojni s Turčijo
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:3321.0
+passage.questions.3.answers.4.text:10.
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3320.0
+passage.questions.3.answers.3.text:5.
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3319.0
+passage.questions.3.answers.2.text:1878
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3318.0
+passage.questions.3.answers.1.text:Umorjen je bil 3-4 leta po vojni s Turčijo
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3317.0
+passage.questions.3.answers.0.text:Tri leta
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3316.0
+passage.questions.2.question:Zakaj Aleksandra II imenujejo Aleksander Osvoboditel?
+passage.questions.2.idx:658
+passage.questions.2.answers.6.text:Ker je zajel Poljsko
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:3315.0
+passage.questions.2.answers.5.text:Ker je bil znan kot Aleksander Osvoboditelj
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:3314.0
+passage.questions.2.answers.4.text:Emancipiral je podložnike
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:3313.0
+passage.questions.2.answers.3.text:Bil je kot Peter Veliki
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3312.0
+passage.questions.2.answers.2.text:Za njegovo emancipacijo podložnikov
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:3311.0
+passage.questions.2.answers.1.text:Aleksander je Aljasko prodal ZDA
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3310
+passage.questions.2.answers.0.text:Aleksander Osvoboditel je bil znan zaradi emancipacije podložnikov leta 1861
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3309
+passage.questions.1.question:Koliko let je bil Aleksander II., Ko je osvobodil podložnike?
+passage.questions.1.idx:657
+passage.questions.1.answers.6.text:52
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:3308.0
+passage.questions.1.answers.5.text:63
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:3307.0
+passage.questions.1.answers.4.text:43
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:3306.0
+passage.questions.1.answers.3.text:Star je bil 6 let
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3305.0
+passage.questions.1.answers.2.text:61
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3304.0
+passage.questions.1.answers.1.text:22.
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3303
+passage.questions.1.answers.0.text:Star je bil 43 let
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:3302
+passage.questions.0.question:Katere naslove je imel Aleksander II?
+passage.questions.0.idx:656
+passage.questions.0.answers.4.text:Aleksander Osvoboditelj
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3301.0
+passage.questions.0.answers.3.text:Veliki finski vojvoda in ruski kralj
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3300.0
+passage.questions.0.answers.2.text:Ruski cesar, poljski kralj in veliki vojvoda Finske
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3299.0
+passage.questions.0.answers.1.text:Ruski cesar in Aleksander Osvoboditel
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3298
+passage.questions.0.answers.0.text:Poljski kralj in veliki vojvoda finski
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3297
+idx:55

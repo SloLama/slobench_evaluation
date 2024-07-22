@@ -1,0 +1,368 @@
+version:1.1
+passage.text:Najzgodnejši znaki ljudi na Jamajki so ostanki Arawaka, ameriške družbe, ki je nastala na severni obali Južne Amerike. Aravaška ljudstva so se preselila na različne karibske otoke in prispela na Jamajko v začetku osmega stoletja. Bili so mirni in so živeli v kmetovanju. Za meso so gojili prašiče in jedli iguano, oba doma na otoku. Bili so zelo usposobljeni za takšne ročne dejavnosti, kot so slama in tkanje. Pravzaprav je bila viseča mreža ameriški izum, ki ostaja pri nas še danes; gre za predmet, ki bolj kot kateri koli drug vzbuja podobo toplega sončnega dne na tropskem otoku. Arawak je pustil zapuščino slik v krajih, kot so Runaway Caves blizu zaliva Discovery, drobci keramike, najdeni v njihovih naseljih blizu Nueve Seville in španskega mesta, pa so malo prispevali k našemu znanju o njih. Ugotovljeno je bilo več kot 200 najdišč v Arawaku in rečeno je, da je ob prihodu Špancev na Jamajko na otoku živelo približno 100 000 Arawakov. Jamajko so poimenovali &quot;Xaymaca&quot; (&quot;dežela lesa in vode&quot;). Kolumb in prihod Evropejcev Kolumb je prvič prispel na Jamajko 5. maja 1494 v zaliv Discovery, kjer je zdaj majhen park v njegovo čast. Ostal je le nekaj dni, a se je leta 1502 vrnil in tu pristal, ko so ladje njegove flote postale neuporabne; v zalivu St. Ann&#39;s je čakal na pomoč, ki je prispela s Kube. Po Kolumbovi smrti leta 1505 je Jamajka postala last njegovega sina Diega, ki je don Guana de Esquivela poslal na otok kot guverner. Esquivel je prispel leta 1510 in ustvaril bazo, imenovano Nueva Sevilla, blizu zaliva St. Ann, iz katere je upal, da bo koloniziral preostali del otoka. Španci so si takoj začeli podrejati prebivalstvo Arawaka, ki je veliko umrlo pod jarmom zatiranja in bolezni, ki jih prenašajo Evropejci. Številni so se raje samomorili, kot da bi živeli življenje, ki so jim ga ustvarili Španci. Nahajališče Nueva Sevilla se je izkazalo za nezdravo in na njem komarji. Leta 1534 so Španci ustanovili Villa de la Vega, danes znano kot Špansko mesto. Reja prašičev je bila glavna poklicna naloga teh zgodnjih naseljencev, vendar so sadili tudi sladkorni trs in druge pridelke, ki so zahtevali veliko število delavcev. Število Arawakov je že močno padlo, zato so Španci začeli uvažati sužnje iz Afrike za obdelavo zemlje; prvi Afričani so prispeli leta 1517.
+passage.questions.9.question:Je bil prihod Evropejcev pozitiven razvoj Arawakov?
+passage.questions.9.idx:387.0
+passage.questions.9.answers.3.text:Kuba
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:2108.0
+passage.questions.9.answers.2.text:Naselje
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:2107.0
+passage.questions.9.answers.1.text:Da
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2106.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:2105.0
+passage.questions.8.question:Pojasnite upadanje števila Arawakov in odziv Španije na ta upad.
+passage.questions.8.idx:386.0
+passage.questions.8.answers.4.text:Številni Arawak so umrli, medtem ko so jih zatirali Španci in ko jim ni bilo dovolj, da bi postali sužnji, so Španci sužnje uvozili iz Afrike
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:2104.0
+passage.questions.8.answers.3.text:Kmetijstvo in tkanje, vrnitev v Villa de la Vega
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:2103.0
+passage.questions.8.answers.2.text:Bolezen in samomor, pripeljali sužnje iz Afrike
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:2102.0
+passage.questions.8.answers.1.text:V pristanišču so čakali prašičereja in sladkorni trs
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2101.0
+passage.questions.8.answers.0.text:To povzroča njihov izjemen uvoz Špancev iz Afrike
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2100.0
+passage.questions.7.question:Na katerem otoku so našli lončke keramike Arawak?
+passage.questions.7.idx:385.0
+passage.questions.7.answers.3.text:Jamajka
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:2099.0
+passage.questions.7.answers.2.text:Esquivel
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:2098.0
+passage.questions.7.answers.1.text:Južna Amerika
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2097.0
+passage.questions.7.answers.0.text:Nueva Sevilla
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2096.0
+passage.questions.6.question:Kakšno meso so uživali tako Arawak kot evropski naseljenci Jamajke?
+passage.questions.6.idx:384.0
+passage.questions.6.answers.3.text:Prašič
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:2095.0
+passage.questions.6.answers.2.text:Nezdravo
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2094.0
+passage.questions.6.answers.1.text:Iguana
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2093.0
+passage.questions.6.answers.0.text:Komar
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2092.0
+passage.questions.5.question:Približno koliko let so Američani živeli na Jamajki, preden so španski uvozili sužnje iz Afrike?
+passage.questions.5.idx:383.0
+passage.questions.5.answers.5.text:800
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:2091.0
+passage.questions.5.answers.4.text:1517
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:2090.0
+passage.questions.5.answers.3.text:7177
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2089.0
+passage.questions.5.answers.2.text:Približno 7 stoletij
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:2088.0
+passage.questions.5.answers.1.text:1534
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2087.0
+passage.questions.5.answers.0.text:717
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2086.0
+passage.questions.4.question:Kdo je Jamajko imenoval &quot;Xaymaca&quot; (&quot;dežela lesa in vode&quot;)?
+passage.questions.4.idx:382.0
+passage.questions.4.answers.5.text:Naseljenci
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:2085.0
+passage.questions.4.answers.4.text:Arawak
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2084.0
+passage.questions.4.answers.3.text:španski
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2083.0
+passage.questions.4.answers.2.text:AmerIndian
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2082.0
+passage.questions.4.answers.1.text:Kolumb
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2081.0
+passage.questions.4.answers.0.text:Jamajka
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2080.0
+passage.questions.3.question:Kdaj so ljudje Arawak prvič prispeli na Jamajko?
+passage.questions.3.idx:381.0
+passage.questions.3.answers.7.text:Vlada
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:2079.0
+passage.questions.3.answers.6.text:1517
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:2078.0
+passage.questions.3.answers.5.text:Začetek osmega stoletja
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:2077.0
+passage.questions.3.answers.4.text:Osmo stoletje
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:2076.0
+passage.questions.3.answers.3.text:Podpora
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2075.0
+passage.questions.3.answers.2.text:1534
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2074.0
+passage.questions.3.answers.1.text:1505
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2073.0
+passage.questions.3.answers.0.text:Prispeli so na začetku osmega stoletja
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2072.0
+passage.questions.2.question:Navedite nekaj stvari, ki jih je Arawak jedel in izumil.
+passage.questions.2.idx:380.0
+passage.questions.2.answers.6.text:Uvoz sužnjev
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:2071.0
+passage.questions.2.answers.5.text:Sladkorni trs
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2070.0
+passage.questions.2.answers.4.text:Jedli so prašiča in iguano ter izumili visečo mrežo
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:2069.0
+passage.questions.2.answers.3.text:Bolezen
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2068.0
+passage.questions.2.answers.2.text:Prašiči
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2067.0
+passage.questions.2.answers.1.text:Iguana
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:2066.0
+passage.questions.2.answers.0.text:Viseča mreža
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:2065.0
+passage.questions.18.question:Kakšen je bil odziv velikega števila Arawakov na špansko zatiranje?
+passage.questions.18.idx:396.0
+passage.questions.18.answers.5.text:Arawak je takoj začel podrejati špansko prebivalstvo
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:2160.0
+passage.questions.18.answers.4.text:Sladkorni trs
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:2159.0
+passage.questions.18.answers.3.text:Kmetijstvo
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:2158.0
+passage.questions.18.answers.2.text:Mnogi izmed njih so se raje samomorili kot živeli pod špansko vladavino
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:2157.0
+passage.questions.18.answers.1.text:Samomor
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:2156.0
+passage.questions.18.answers.0.text:Reja prašičev
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:2155.0
+passage.questions.17.question:Katero delovno intenzivno poljščino so pridelali španski uvozniki sužnjev?
+passage.questions.17.idx:395.0
+passage.questions.17.answers.3.text:Sladkorni trs
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:2154.0
+passage.questions.17.answers.2.text:Slama
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:2153.0
+passage.questions.17.answers.1.text:Prašiči
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:2152.0
+passage.questions.17.answers.0.text:Slash-and-burn
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:2151.0
+passage.questions.16.question:So po prihodu Esquivala Španci ostali v Nuevi Sevilli?
+passage.questions.16.idx:394.0
+passage.questions.16.answers.4.text:Naseljeno v zalivu St. Ann&#39;s
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:2150.0
+passage.questions.16.answers.3.text:Preseljeno v Villa de la Vega
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:2149.0
+passage.questions.16.answers.2.text:Da
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:2148.0
+passage.questions.16.answers.1.text:Ne
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:2147.0
+passage.questions.16.answers.0.text:Ne, iz Nueve Seville so se zaradi komarjev in nezdravih razmer preselili v Villa de la Vega
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:2146.0
+passage.questions.15.question:V čem je bil Arawak odličen pred prihodom Evropejcev?
+passage.questions.15.idx:393.0
+passage.questions.15.answers.4.text:Slama
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:2145.0
+passage.questions.15.answers.3.text:Tkanje
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:2144.0
+passage.questions.15.answers.2.text:Gojenje sladkornega trsa
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2143.0
+passage.questions.15.answers.1.text:Odlikovali so se s slamo, tkanjem in kmetovanjem, nekaj slik pa so pustili
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:2142.0
+passage.questions.15.answers.0.text:Delavci
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:2141.0
+passage.questions.14.question:Koliko Američanov naj bi živelo v deželi &quot;dežele lesa in vode&quot;, ko je prišel Kolumb?
+passage.questions.14.idx:392.0
+passage.questions.14.answers.5.text:200
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:2140.0
+passage.questions.14.answers.4.text:100.000
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:2139.0
+passage.questions.14.answers.3.text:1517
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:2138.0
+passage.questions.14.answers.2.text:1494
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:2137.0
+passage.questions.14.answers.1.text:Sto tisoč
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:2136.0
+passage.questions.14.answers.0.text:200 lokacij Arawak
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:2135.0
+passage.questions.13.question:Katera skupina ljudi je bila visoko usposobljena za tkanje in slamljenje?
+passage.questions.13.idx:391.0
+passage.questions.13.answers.5.text:Naseljenci
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:2134.0
+passage.questions.13.answers.4.text:Arawak
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:2133.0
+passage.questions.13.answers.3.text:španski
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:2132.0
+passage.questions.13.answers.2.text:AmerIndian
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:2131.0
+passage.questions.13.answers.1.text:Sužnji
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:2130.0
+passage.questions.13.answers.0.text:Američani, vključno z ljudstvom Arawak
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:2129.0
+passage.questions.12.question:Približno koliko let so bili Arawak na Jamajki pred prihodom Evropejcev?
+passage.questions.12.idx:390.0
+passage.questions.12.answers.5.text:594
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:2128.0
+passage.questions.12.answers.4.text:Približno 800
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:2127.0
+passage.questions.12.answers.3.text:Približno 6 stoletij
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:2126.0
+passage.questions.12.answers.2.text:1501
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2125.0
+passage.questions.12.answers.1.text:8 stoletja
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2124.0
+passage.questions.12.answers.0.text:917
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2123.0
+passage.questions.11.question:Katere poljščine bi prisilili ljudi, ki so jih odpeljali iz Afrike, k delu?
+passage.questions.11.idx:389.0
+passage.questions.11.answers.5.text:Sladkorni trs in druge poljščine, ki so zahtevale veliko število delavcev
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:2122.0
+passage.questions.11.answers.4.text:Prijavljen za ZDA
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:2121.0
+passage.questions.11.answers.3.text:Slama
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:2120.0
+passage.questions.11.answers.2.text:Prašiči
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2119.0
+passage.questions.11.answers.1.text:Špansko mesto
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2118.0
+passage.questions.11.answers.0.text:Sladkorni trs in druge poljščine
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:2117.0
+passage.questions.10.question:Kateri so trije vzroki za upad prebivalstva Arawaka?
+passage.questions.10.idx:388.0
+passage.questions.10.answers.7.text:Kmetijstvo
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:2116.0
+passage.questions.10.answers.6.text:Samomor
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:2115.0
+passage.questions.10.answers.5.text:Zatiranje s strani španskih, evropskih bolezni in samomorov
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:2114.0
+passage.questions.10.answers.4.text:Komarji
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:2113.0
+passage.questions.10.answers.3.text:Reja
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2112.0
+passage.questions.10.answers.2.text:Bolezen
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:2111.0
+passage.questions.10.answers.1.text:Zatiranje
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:2110.0
+passage.questions.10.answers.0.text:Zavedite se
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2109.0
+passage.questions.1.question:Na kakšen način je bil prihod Evropejcev na Jamajko slab za prebivalce Arawaka?
+passage.questions.1.idx:379.0
+passage.questions.1.answers.7.text:Samomor
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:2064.0
+passage.questions.1.answers.6.text:Evropejci so uvedli suženjstvo in bolezni. Mnogi Arawaki so storili samomor. Njihovo prebivalstvo se je zmanjšalo
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:2063.0
+passage.questions.1.answers.5.text:Reja prašičev
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2062.0
+passage.questions.1.answers.4.text:Zatiranje
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:2061.0
+passage.questions.1.answers.3.text:Čakanje v pristanišču
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2060.0
+passage.questions.1.answers.2.text:Baza, imenovana Nueva Sevilla
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2059.0
+passage.questions.1.answers.1.text:Podrejeno prebivalstvo Arawaka
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:2058.0
+passage.questions.1.answers.0.text:Smrt zaradi bolezni
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:2057.0
+passage.questions.0.question:Kdo je v zalivu St. Ann čakal na pomoč s Kube, ko so njegove ladje postale neuporabne?
+passage.questions.0.idx:378
+passage.questions.0.answers.4.text:Arawak
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2056.0
+passage.questions.0.answers.3.text:Ladje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2055.0
+passage.questions.0.answers.2.text:Kolumb
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2054.0
+passage.questions.0.answers.1.text:Don Juan de Esquivel
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2053
+passage.questions.0.answers.0.text:Afričani
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2052
+idx:33

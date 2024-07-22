@@ -1,0 +1,267 @@
+version:1.1
+passage.text:Njena kariera se je začela pred več kot 20 leti v garaži za južno kuhinjo katoliškega delavca v Los Angelesu. Živela je s štipendijo v višini 3 dolarjev na teden, ki jo je zapravila za najlonke in avtobusno vozovnico. Njena odvetniška praksa je narasla do organizacije, ki je v svojih primerih zoper slumlorje iz LA prinesla milijone dolarjev odškodnine, revnim družinam pa je omogočila, da ustanovijo fakultete in kupijo domove. V vseh teh letih ni nikoli izgubila primera. Ko je odstopila, je imela čas opaziti, kaj se dogaja na področju zakona o revščini. &quot;S šokom sem ugotovila, da je delo resnično razpadlo in da smo izgubili celo generacijo odvetnikov v javnem interesu,&quot; je dejala. &quot;Od gospodarske žrtve, kakršna je bila v mojih časih, je postala ekonomska nezmožnost. ... Ves sistem je v bistvu propadel.&quot; Mintie je začela spraševati tudi o medicinskem področju. Skoraj vsaka oseba, ki vstopi v brezplačno zdravstveno kliniko, se po njenih besedah sooča s pravnimi težavami, kot sta deložacija ali izguba prejemkov iz socialne varnosti. Številne njene stranke so imele zdravstvene težave zaradi bivanja v barakarskih naseljih, kot so ščurki v ušesnih kanalih in mrzlica podgan, ki je smrtna bolezen, ki še posebej prizadene otroke. Mintie je opazila, da zdravstveni delavci diplomirajo z neverjetnimi dolgovi in si tudi ne morejo privoščiti dela z revnimi. Njeno delo je opazila Oprah Winfrey, ki jo je povabila v televizijsko oddajo 26. marca 2001. Mintie je od Oprah&#39;s Angel Network, neprofitne organizacije, ki denar dodeljuje tistim, ki pomagajo drugim, prejela 100.000 dolarjev nagrade &quot;Uporabi svoje življenje&quot;. Mintie je dejala, da je ves denar prejel njen prejemnik - nobenega niso porabili za režijo. Do pomladi ji bo zmanjkalo sredstev. Poskuša pridobiti verske organizacije, da sponzorirajo prejemnike. Je sekularna organizacija, ki pa je zrasla iz Mintiejevega verskega prepričanja.
+passage.questions.9.question:V katerem mestu je delala?
+passage.questions.9.idx:928.0
+passage.questions.9.answers.5.text:Los Feliz
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:4721.0
+passage.questions.9.answers.4.text:Dallas
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:4720.0
+passage.questions.9.answers.3.text:Los Altos
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:4719.0
+passage.questions.9.answers.2.text:Los Angeles
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:4718.0
+passage.questions.9.answers.1.text:San Diego
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4717.0
+passage.questions.9.answers.0.text:Teksas
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4716.0
+passage.questions.8.question:Na kaj Mintie pravi, da gre od ekonomske žrtve do ekonomske nemožnosti?
+passage.questions.8.idx:927.0
+passage.questions.8.answers.4.text:Delo je resnično razpadlo in izgubili smo celo generacijo odvetnikov v javnem interesu,
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:4715.0
+passage.questions.8.answers.3.text:Da ji bo do pomladi zmanjkalo sredstev
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4714.0
+passage.questions.8.answers.2.text:Poraba denarja
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4713.0
+passage.questions.8.answers.1.text:Njena odvetniška praksa
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4712.0
+passage.questions.8.answers.0.text:Kaj se je dogajalo s področjem zakona o revščini
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4711.0
+passage.questions.7.question:Komu je dala ves denar?
+passage.questions.7.idx:926.0
+passage.questions.7.answers.6.text:Ljudje, ki so to potrebovali
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:4710.0
+passage.questions.7.answers.5.text:Prijatelji
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:4709.0
+passage.questions.7.answers.4.text:Oprah&#39;s Angel Network
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:4708.0
+passage.questions.7.answers.3.text:Njeno podjetje
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4707.0
+passage.questions.7.answers.2.text:Vsak človek
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4706.0
+passage.questions.7.answers.1.text:Brezdomci in revni
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4705.0
+passage.questions.7.answers.0.text:Novi zdravniki
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4704.0
+passage.questions.6.question:Zakaj išče verske sponzorje?
+passage.questions.6.idx:925.0
+passage.questions.6.answers.3.text:Do pomladi ji bo zmanjkalo sredstev
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:4703.0
+passage.questions.6.answers.2.text:Že prej je delala v verskih organizacijah
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4702.0
+passage.questions.6.answers.1.text:Ker je globoko predana svoji veri
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4701.0
+passage.questions.6.answers.0.text:Ima več sredstev
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4700.0
+passage.questions.5.question:Kje se je začela njena milijonska organizacija?
+passage.questions.5.idx:924.0
+passage.questions.5.answers.5.text:Začelo se je po tem, ko je dobila nagrado Oprah Winfrey
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:4699.0
+passage.questions.5.answers.4.text:V garaži
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4698.0
+passage.questions.5.answers.3.text:Koreja
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4697.0
+passage.questions.5.answers.2.text:Los Angeles
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4696.0
+passage.questions.5.answers.1.text:Začelo se je za narodno kuhinjo v Los Angelesu
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4695.0
+passage.questions.5.answers.0.text:Florida
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4694.0
+passage.questions.4.question:Koliko let je Mintie šla, ne da bi izgubila primer?
+passage.questions.4.idx:923.0
+passage.questions.4.answers.2.text:Manj kot 20 let
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4693.0
+passage.questions.4.answers.1.text:2 leti
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4692.0
+passage.questions.4.answers.0.text:20 let
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4691.0
+passage.questions.3.question:Kakšno kariero je Mintie začel pred 20 leti v Los Angelesu?
+passage.questions.3.idx:922.0
+passage.questions.3.answers.2.text:Njena dobrodelna organizacija
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:4690.0
+passage.questions.3.answers.1.text:Slika
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4689.0
+passage.questions.3.answers.0.text:Njena odvetniška praksa
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4688.0
+passage.questions.2.question:Kdo je svojo kariero začel pred 20 leti?
+passage.questions.2.idx:921
+passage.questions.2.answers.2.text:Oprah Winfrey
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4687.0
+passage.questions.2.answers.1.text:Mintie
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:4686
+passage.questions.2.answers.0.text:Katoliški delavec
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:4685
+passage.questions.14.question:Koliko denarja je šlo prejemnikom?
+passage.questions.14.idx:933.0
+passage.questions.14.answers.3.text:Ves denar, ki ga je dobila od nagrade za življenjsko nagrado, je šel prejemnikom
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:4751.0
+passage.questions.14.answers.2.text:Del denarja je bil porabljen za režijske stroške, preostanek pa prejemniki
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:4750.0
+passage.questions.14.answers.1.text:100 dolarjev
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:4749.0
+passage.questions.14.answers.0.text:100.000 dolarjev
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:4748.0
+passage.questions.13.question:Za kaj je Mintie uporabila nagrado &quot;Uporabi svoje življenje&quot;?
+passage.questions.13.idx:932.0
+passage.questions.13.answers.3.text:Z njim je pokrivala režijske stroške
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:4747.0
+passage.questions.13.answers.2.text:Uporabila ga je za svoje prejemnike
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:4746.0
+passage.questions.13.answers.1.text:Ves denar so dobili njeni prejemniki
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:4745.0
+passage.questions.13.answers.0.text:Zapravila ga je sama
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:4744.0
+passage.questions.12.question:Zakaj ji bo zmanjkalo sredstev?
+passage.questions.12.idx:931.0
+passage.questions.12.answers.8.text:Odšel pri nekaterih prejemnikih
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:4743.0
+passage.questions.12.answers.7.text:Ne piše
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:4742.0
+passage.questions.12.answers.6.text:Nobena ni bila porabljena za režijske stroške
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:4741.0
+passage.questions.12.answers.5.text:Ukradeno je bilo
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:4740.0
+passage.questions.12.answers.4.text:Podarila jih je svojim prejemnikom
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:4739.0
+passage.questions.12.answers.3.text:Ni želela povedati, zakaj
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:4738.0
+passage.questions.12.answers.2.text:Vsi odšli do prejemnikov
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:4737.0
+passage.questions.12.answers.1.text:Zapravila ga je za režijo
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4736.0
+passage.questions.12.answers.0.text:Porabljeno za režijo
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:4735.0
+passage.questions.11.question:Koga prosi za pomoč pri financiranju njene neprofitne organizacije?
+passage.questions.11.idx:930.0
+passage.questions.11.answers.7.text:Verske organizacije
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:4734.0
+passage.questions.11.answers.6.text:Ljudje vere
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:4733.0
+passage.questions.11.answers.5.text:Posvetne organizacije
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:4732.0
+passage.questions.11.answers.4.text:Oprah Winfrey
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:4731.0
+passage.questions.11.answers.3.text:Ljudje z denarjem
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4730.0
+passage.questions.11.answers.2.text:Športne ekipe
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4729.0
+passage.questions.11.answers.1.text:Verske organizacije
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:4728.0
+passage.questions.11.answers.0.text:Bogati ljudje
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4727.0
+passage.questions.10.question:Kaj je bilo ponujeno Mintie marca 2001?
+passage.questions.10.idx:929.0
+passage.questions.10.answers.4.text:Mintie je od Oprah&#39;s Angel Network, neprofitne organizacije, ki denar dodeljuje tistim, ki pomagajo drugim, prejela 100.000 dolarjev nagrade &quot;Uporabi svoje življenje&quot;
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:4726.0
+passage.questions.10.answers.3.text:100.000 dolarjev nagrade &quot;Uporabi svoje življenje&quot; Oprah&#39;s Angel Network
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:4725.0
+passage.questions.10.answers.2.text:Mintie je izgubila primer
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4724.0
+passage.questions.10.answers.1.text:Nagrada 100.000 dolarjev
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:4723.0
+passage.questions.10.answers.0.text:Intervju z Oprah Winfrey
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:4722.0
+passage.questions.1.question:Koliko primerov je izgubila?
+passage.questions.1.idx:920
+passage.questions.1.answers.6.text:Nobenega
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:4684.0
+passage.questions.1.answers.5.text:0
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:4683.0
+passage.questions.1.answers.4.text:Več
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:4682.0
+passage.questions.1.answers.3.text:Pol
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4681.0
+passage.questions.1.answers.2.text:Deset
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4680.0
+passage.questions.1.answers.1.text:Izgubil pet primerov
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:4679
+passage.questions.1.answers.0.text:Nikoli nisem izgubil primera
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:4678
+passage.questions.0.question:Čigava kariera se je začela pred več kot 20 leti v garaži za narodno kuhinjo katoliškega delavca?
+passage.questions.0.idx:919
+passage.questions.0.answers.3.text:Korejski delavec
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4677.0
+passage.questions.0.answers.2.text:Oprah Winfrey
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4676.0
+passage.questions.0.answers.1.text:Mintie
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4675
+passage.questions.0.answers.0.text:Adam
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4674
+idx:80

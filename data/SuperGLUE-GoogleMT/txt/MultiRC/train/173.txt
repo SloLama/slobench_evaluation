@@ -1,0 +1,75 @@
+version:1.1
+passage.text:(CNN) - Pustili vam bomo, da končate, toda The Muppets imajo najboljši Instagram račun vseh časov. Vir je bil predstavljen pred dobrim mesecem dni v okviru promocijske promocije njihovega prihajajočega filma &quot;Muppets Most Wanted&quot;. Toda med hitrimi plakati in oglasi za film, ki je nadaljevanje uspešnice &quot;The Muppets&quot; iz leta 2011 z Jasonom Segelom, se skrivajo iznajdljivi &quot;selfije&quot; iz ekipe Muppets. Pravzaprav je bila prva objava sramežljiv posnetek Kermit, Miss Piggy in Gonzo s filtrom v polnem učinku: in selfiji so od tam postali bolj prikupni - in bolj smešni - zdaj imamo dokaze o času, ko je žival počila v na Čaši v kopalnici. In vemo, kaj Gonzo počne po težkem dnevu kaskaderstva. &quot;Gonzo si je danes privoščil masažo, da bi poskušal rešiti vse svoje kaskaderske zvijače. Tudi čudaki potrebujejo razvajanje. #Bougielife #yolo,&quot; se glasi napis na tej sliki: Krhki, a ljubeznivi kritiki Muppetov, Statler in Waldorf, so se še vedno trudim, da bi naredil popoln selfi - &quot;To je najbolj moden kalkulator, kar smo jih kdaj videli!&quot; slišali so jih govoriti, ko je bila posneta fotografija - medtem ko je Rowlf očitno kralj samoportretov. Od švedskega kuharja do zlega alter ega gospodične Piggy, so se vsi začeli fotografirati v prvi osebi. Edini ljudje, ki na računu opazno manjkajo, so Muppetovi človeški soigralci v filmu &quot;Muppets Most Wanted&quot;, kot so Tina Fey, Ty Burrell in Ricky Gervais. Kot pri prvem filmu &quot;Muppets&quot;, v katerem so igrali tudi Amy Adams, Chris Cooper in Rashida Jones, ima tudi nadaljevanje &quot;Muppets&quot; obilo človeške zvezdne moči. Poleg Feya in Gervaisa ima &quot;Muppets Most Wanted&quot; še nastope Toma Hiddlestona, Salme Hayek, Stanleyja Tuccija in Lady Gage.
+passage.questions.2.question:S čim se zdravi Gonzo po težkem dnevu kaskaderstva?
+passage.questions.2.idx:1920.0
+passage.questions.2.answers.7.text:Naredi si toplo kopel
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:10039.0
+passage.questions.2.answers.6.text:Danes si je privoščil masažo, da bi poskušal rešiti vse svoje kaskaderske kinke
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:10038.0
+passage.questions.2.answers.5.text:Ali se razteza
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:10037.0
+passage.questions.2.answers.4.text:Dobra knjiga
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:10036.0
+passage.questions.2.answers.3.text:Razvajanje
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:10035.0
+passage.questions.2.answers.2.text:Moderni kalkulator
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:10034.0
+passage.questions.2.answers.1.text:Poje galono sladoleda
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:10033.0
+passage.questions.2.answers.0.text:Masaža
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:10032.0
+passage.questions.1.question:Iz katerega filma so selfiji Kermit, Miss Piggy in Gonzo?
+passage.questions.1.idx:1919.0
+passage.questions.1.answers.6.text:&quot;Muppets Most Wanted.&quot;
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:10031.0
+passage.questions.1.answers.5.text:Lutke v Hollywoodu
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:10030.0
+passage.questions.1.answers.4.text:Veliki lutkovni kapar
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:10029.0
+passage.questions.1.answers.3.text:Zaljubljene lutke
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10028.0
+passage.questions.1.answers.2.text:Lutke
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:10027.0
+passage.questions.1.answers.1.text:Film o lutkah
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:10026.0
+passage.questions.1.answers.0.text:Otok Muppet Treasure
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:10025.0
+passage.questions.0.question:Kdo velja za čudaka v igralski zasedbi &quot;Muppets Most Wanted&quot;?
+passage.questions.0.idx:1918
+passage.questions.0.answers.6.text:Žival
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:10024.0
+passage.questions.0.answers.5.text:Rowlf
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:10023.0
+passage.questions.0.answers.4.text:Gospodična Piggie
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:10022.0
+passage.questions.0.answers.3.text:Kermit
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:10021.0
+passage.questions.0.answers.2.text:Gonzo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:10020.0
+passage.questions.0.answers.1.text:Gospa Piggy
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:10019
+passage.questions.0.answers.0.text:Daisy
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:10018
+idx:173

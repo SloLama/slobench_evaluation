@@ -1,0 +1,432 @@
+version:1.1
+passage.text:Zlata doba Španije: Pod Ferdinandom in Isabello je bila Španija dramatično preobražena. Leta 1492 je kraljevi par vodil končno osvojitev Mavrov in odkritje Novega sveta, vključno z velikim bogastvom, ki ga je prinesel Španiji. Španija je cvetela v zlati dobi, stoletju španske gospodarske in politične prevlade v mednarodnih zadevah, ki jo je spremljala umetnost in literatura. Ferdinand in Isabella sta bila dovršena Španca, zavezana širitvi krone. Nasprotno pa se je njihov vnuk, ki je leta 1516 prevzel prestol, rodil v Flandriji leta 1500, Charles I pa se je komaj izrazil v španščini. Prvi izmed Habsburžanov je svojo spremstvo spakiral z burgundskimi in flamskimi plemiči. Kmalu po prihodu v Španijo je mladenič podedoval naslov svetega rimskega cesarja, saj ga je Karol V. zaradi krone zadrževal stran od kraljevskih rezidenc Toledo, Segovia, Valladolid in Madrid. Medtem ko je bil monarh odsoten na enem izmed številnih službenih potovanj, so njegovi vse bolj nezadovoljni podložniki burno protestirali. Upor komunistov ali meščanov je izbruhnil v številnih španskih mestih, vključno z Madridom. Uporniki so zasedli alcázar, ki je bil do tedaj preurejen v kraljevo palačo. Upor je bil ukinen in njegovi voditelji usmrčeni, vendar je kralj dobil sporočilo. Nato je poskušal več pozornosti nameniti svoji španski volilni enoti.
+passage.questions.9.question:Zakaj so bili Španci nezadovoljni z vnukom Ferdinanda in Isabelle, Karlom V?
+passage.questions.9.idx:797.0
+passage.questions.9.answers.8.text:Zanje ni bil pozoren
+passage.questions.9.answers.8.label:1.0
+passage.questions.9.answers.8.idx:4008.0
+passage.questions.9.answers.7.text:Na službenih potovanjih je bil prepogosto odsoten iz Španije
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:4007.0
+passage.questions.9.answers.6.text:Ker je malo pozornosti posvečal svoji španski volilni enoti
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:4006.0
+passage.questions.9.answers.5.text:Charles V se je rodil v Flandriji leta 1500 in se je komaj izrazil v španščini. Ko je leta 1516 prevzel prestol, je svojo spremstvo napolnil z burgundskimi in flamskimi plemiči.
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:4005.0
+passage.questions.9.answers.4.text:Zaseden je bil z vso njihovo hrano
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:4004.0
+passage.questions.9.answers.3.text:Ker se je kralj osamil v kraljevski rezidenci v Madridu
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:4003.0
+passage.questions.9.answers.2.text:Ker se je kralj osamil v kraljevi rezidenci Toledo
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4002.0
+passage.questions.9.answers.1.text:Naslov je spremenil v sveto rimski cesar
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4001.0
+passage.questions.9.answers.0.text:Madridu je dovolil upor
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4000.0
+passage.questions.8.question:Kdo so stari starši Karla I?
+passage.questions.8.idx:796.0
+passage.questions.8.answers.5.text:William in Kate
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:3999.0
+passage.questions.8.answers.4.text:Vladarji Španije
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:3998.0
+passage.questions.8.answers.3.text:Hasburžani
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:3997.0
+passage.questions.8.answers.2.text:Neznani stari starši
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3996.0
+passage.questions.8.answers.1.text:Ferdinand in Isabella
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3995.0
+passage.questions.8.answers.0.text:Charles in Isabella
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3994.0
+passage.questions.7.question:Kakšen je bil izid upora proti Karlu V?
+passage.questions.7.idx:795.0
+passage.questions.7.answers.9.text:Uporniki so bili usmrčeni
+passage.questions.7.answers.9.label:1.0
+passage.questions.7.answers.9.idx:3992.0
+passage.questions.7.answers.8.text:Več pozornosti je posvečal svojim podložnikom
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:3991.0
+passage.questions.7.answers.7.text:Naučil se je bolj paziti na svoje volivce
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:3990.0
+passage.questions.7.answers.6.text:Končala se je španska zlata doba
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:3989.0
+passage.questions.7.answers.5.text:Uporniki so bili zaprti v alcazarju
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3988.0
+passage.questions.7.answers.4.text:Ni jedel toliko
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:3987.0
+passage.questions.7.answers.3.text:Uporniki so zasedli Alcazar, ki je bil preurejen v kraljevo palačo, vendar je bil upor ukinen in njegovi voditelji usmrčeni
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3986.0
+passage.questions.7.answers.2.text:Usmrtitev njenih voditeljev in kralj, ki je pozneje poskušal več pozornosti nameniti svoji španski volilni enoti
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3985.0
+passage.questions.7.answers.10.text:Izguba Nove Španije
+passage.questions.7.answers.10.label:0,0
+passage.questions.7.answers.10.idx:3993.0
+passage.questions.7.answers.1.text:Ukinitev vstaje in usmrtitev njihovih voditeljev
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3984.0
+passage.questions.7.answers.0.text:Kraljevo izgnanstvo v Flandrijo
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3983.0
+passage.questions.6.question:Kdo so bili monarhi v zlati dobi Španije?
+passage.questions.6.idx:794.0
+passage.questions.6.answers.7.text:Mavri
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:3982.0
+passage.questions.6.answers.6.text:Madrid
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:3981.0
+passage.questions.6.answers.5.text:Ferdinand in Isabella ter njun vnuk Karel I
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:3980.0
+passage.questions.6.answers.4.text:Kraljevski par Ferdinand in Isabella sta bila monarha v času španske zlate dobe
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:3979.0
+passage.questions.6.answers.3.text:Sveti rimski cesar in Karel V.
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3978.0
+passage.questions.6.answers.2.text:Comuneros
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3977.0
+passage.questions.6.answers.1.text:Ferdinand in Isabella
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3976.0
+passage.questions.6.answers.0.text:Charles in Isabella
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3975.0
+passage.questions.5.question:Kakšne spremembe je doživela Španija v času zlate dobe Ferdinanda in Isabelle?
+passage.questions.5.idx:793.0
+passage.questions.5.answers.9.text:Španija je cvetela v zlati dobi, stoletju španske gospodarske in politične nadvlade v mednarodnih zadevah, ki jo je spremljala umetnost in literatura
+passage.questions.5.answers.9.label:1.0
+passage.questions.5.answers.9.idx:3973.0
+passage.questions.5.answers.8.text:Končno osvajanje Mavrov in odkritje Novega sveta je začelo stoletje španske gospodarske in politične nadvlade v mednarodnih zadevah
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:3972.0
+passage.questions.5.answers.7.text:Razširilo se je
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:3971.0
+passage.questions.5.answers.6.text:Odkrit je bil Novi svet
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:3970.0
+passage.questions.5.answers.5.text:Postopna degradacija gospodarstva
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:3969.0
+passage.questions.5.answers.4.text:Comuneros se upira
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3968.0
+passage.questions.5.answers.3.text:Umetnost in literatura sta cveteli
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3967.0
+passage.questions.5.answers.2.text:Monarhijo so uporniki uspešno strmoglavili
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3966.0
+passage.questions.5.answers.10.text:Krono so prevzeli Burgundi in Flamanci
+passage.questions.5.answers.10.label:0,0
+passage.questions.5.answers.10.idx:3974.0
+passage.questions.5.answers.1.text:Končno osvajanje Mavrov in odkritje Novega sveta
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3965.0
+passage.questions.5.answers.0.text:Bogastvo se je povečalo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3964.0
+passage.questions.4.question:V spremstvu katerega španskega monarha so bili burgundski in flamski plemiči?
+passage.questions.4.idx:792.0
+passage.questions.4.answers.5.text:Habsburžani
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:3963.0
+passage.questions.4.answers.4.text:Charles I
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:3962.0
+passage.questions.4.answers.3.text:Karel V.
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3961.0
+passage.questions.4.answers.2.text:Isabella
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3960.0
+passage.questions.4.answers.1.text:Barje
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3959.0
+passage.questions.4.answers.0.text:Ferdinands
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3958.0
+passage.questions.3.question:S kakšno težavo se je srečal Charles, ko je zasedel prestol?
+passage.questions.3.idx:791.0
+passage.questions.3.answers.8.text:Osvajanje Burgundcev
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:3957.0
+passage.questions.3.answers.7.text:Njegovi čedalje bolj nezadovoljni podložniki so v uporu komunerov burno protestirali
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:3956.0
+passage.questions.3.answers.6.text:Komaj se je izrazil v španščini
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:3955.0
+passage.questions.3.answers.5.text:Treba strmoglaviti Ferdinanda in Isabello
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:3954.0
+passage.questions.3.answers.4.text:Vojna na Flandriji
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3953.0
+passage.questions.3.answers.3.text:Charles I se je rodil na Flandriji in se je komaj izrazil v španščini, kar je privedlo do ločitve med njim in ljudstvom
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:3952.0
+passage.questions.3.answers.2.text:Ni imel mandata
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3951.0
+passage.questions.3.answers.1.text:Ne morem govoriti jezika
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3950.0
+passage.questions.3.answers.0.text:Smrt njegovih staršev
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3949.0
+passage.questions.2.question:Kateri dogodek je Karlu V. dal nesporno sporočilo, da mora več pozornosti nameniti svoji španski volilni enoti?
+passage.questions.2.idx:790
+passage.questions.2.answers.8.text:Upor
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:3948.0
+passage.questions.2.answers.7.text:Upor komunerosov
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:3947.0
+passage.questions.2.answers.6.text:Prodaja
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:3946.0
+passage.questions.2.answers.5.text:Vojna v Toledu
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:3945.0
+passage.questions.2.answers.4.text:Spremil je spremstvo z burgundskimi in flamskimi plemiči
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3944.0
+passage.questions.2.answers.3.text:Medtem ko je bil Karel V odsoten na enem izmed številnih službenih potovanj, je v številnih španskih mestih, vključno z Madridom, izbruhnil upor vedno bolj nezadovoljnih meščanov.
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3943.0
+passage.questions.2.answers.2.text:Comuneros se upira z uporniki, ki zasedajo alcÃzar
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:3942.0
+passage.questions.2.answers.1.text:Vstaja upornikov je prevzela alcazar
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:3941
+passage.questions.2.answers.0.text:Vstaja burgundskih in flamskih plemičev
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:3940
+passage.questions.17.question:Kakšen naslov je vnuk Karla I podedoval po prihodu v Španijo?
+passage.questions.17.idx:805.0
+passage.questions.17.answers.5.text:Karel V.
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:4057.0
+passage.questions.17.answers.4.text:Karel II
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:4056.0
+passage.questions.17.answers.3.text:Karel IV
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:4055.0
+passage.questions.17.answers.2.text:Karel III
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:4054.0
+passage.questions.17.answers.1.text:Španski kralj
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:4053.0
+passage.questions.17.answers.0.text:Sveti rimski cesar
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:4052.0
+passage.questions.16.question:Kaj je prisililo Karla V., da je več pozornosti posvetil španski volilni enoti?
+passage.questions.16.idx:804.0
+passage.questions.16.answers.7.text:Brez zastopanja
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:4051.0
+passage.questions.16.answers.6.text:Davčni upor
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:4050.0
+passage.questions.16.answers.5.text:Lakota
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:4049.0
+passage.questions.16.answers.4.text:Vstaja upornikov
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:4048.0
+passage.questions.16.answers.3.text:Uporniki niso bili zadovoljni s Karlom V.
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:4047.0
+passage.questions.16.answers.2.text:Vojna z Anglijo
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:4046.0
+passage.questions.16.answers.1.text:Vstaja
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:4045.0
+passage.questions.16.answers.0.text:Upor komunerov, ki so zasedli alcázar (kraljevo palačo)
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:4044.0
+passage.questions.15.question:Kdo so bili stari starši posameznika, ki je leta 1516 zasedel prestol?
+passage.questions.15.idx:803.0
+passage.questions.15.answers.6.text:Mavri
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:4043.0
+passage.questions.15.answers.5.text:Burgundski in flamski plemiči
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:4042.0
+passage.questions.15.answers.4.text:Moorjeva kraljeva družina
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:4041.0
+passage.questions.15.answers.3.text:Vizigoti
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:4040.0
+passage.questions.15.answers.2.text:Donnie in Marie
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:4039.0
+passage.questions.15.answers.1.text:Toledo in Segovia
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:4038.0
+passage.questions.15.answers.0.text:Ferdinand in Isabella
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:4037.0
+passage.questions.14.question:V katerem letu sta Ferdinand in Isabella začela voditi Španijo?
+passage.questions.14.idx:802.0
+passage.questions.14.answers.4.text:Nikoli
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:4036.0
+passage.questions.14.answers.3.text:1500
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:4035.0
+passage.questions.14.answers.2.text:1492
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:4034.0
+passage.questions.14.answers.1.text:1520
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:4033.0
+passage.questions.14.answers.0.text:1516
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:4032.0
+passage.questions.13.question:Kdo je bil kraljevski par, ki je vodil končno osvojitev Mavrov in odkritje Novega sveta?
+passage.questions.13.idx:801.0
+passage.questions.13.answers.5.text:Burgundski in flamski plemiči
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:4031.0
+passage.questions.13.answers.4.text:Ferdinand in Elizabeta
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:4030.0
+passage.questions.13.answers.3.text:Sveti rimski cesar in Karel V.
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:4029.0
+passage.questions.13.answers.2.text:Donnie in Marie
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:4028.0
+passage.questions.13.answers.1.text:Ferdinand in Isabella
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:4027.0
+passage.questions.13.answers.0.text:Charles in Isabella
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:4026.0
+passage.questions.12.question:Pod čigavo vladavino se je zgodil upor komunerov v Madridu?
+passage.questions.12.idx:800.0
+passage.questions.12.answers.4.text:Charles I
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:4025.0
+passage.questions.12.answers.3.text:Karel V.
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:4024.0
+passage.questions.12.answers.2.text:Isabella
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:4023.0
+passage.questions.12.answers.1.text:Ferdinand
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4022.0
+passage.questions.12.answers.0.text:Sveti rimski cesar
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:4021.0
+passage.questions.11.question:Kje se je rodil Karel V.
+passage.questions.11.idx:799.0
+passage.questions.11.answers.5.text:Anglija
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:4020.0
+passage.questions.11.answers.4.text:V Flandriji
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:4019.0
+passage.questions.11.answers.3.text:1530
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4018.0
+passage.questions.11.answers.2.text:Španija
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4017.0
+passage.questions.11.answers.1.text:1520
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4016.0
+passage.questions.11.answers.0.text:1516
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4015.0
+passage.questions.10.question:Kdo je njegovo spremstvo spakiral z burgundskimi in flamskimi plemiči?
+passage.questions.10.idx:798.0
+passage.questions.10.answers.5.text:Mavri
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:4014.0
+passage.questions.10.answers.4.text:Karel V.
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:4013.0
+passage.questions.10.answers.3.text:Flandrija
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:4012.0
+passage.questions.10.answers.2.text:Sveti rimski cesar
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:4011.0
+passage.questions.10.answers.1.text:Ferdinand
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4010.0
+passage.questions.10.answers.0.text:Ferdinand in Isabella
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:4009.0
+passage.questions.1.question:Pod čigavim vodstvom je zacvetela Španija?
+passage.questions.1.idx:789
+passage.questions.1.answers.3.text:Charles I
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3939.0
+passage.questions.1.answers.2.text:Carlos V
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3938.0
+passage.questions.1.answers.1.text:Kolumb
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3937
+passage.questions.1.answers.0.text:Ferdinand in Isabella
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:3936
+passage.questions.0.question:Kaj je prineslo veliko bogastvo v 100-letni zlati dobi Španije?
+passage.questions.0.idx:788
+passage.questions.0.answers.8.text:Končno osvajanje Mavrov
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:3935.0
+passage.questions.0.answers.7.text:Čudi umetnosti in literature
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:3934.0
+passage.questions.0.answers.6.text:Zajem kraljeve rezidence v Toledu
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:3933.0
+passage.questions.0.answers.5.text:Odkrivanje novega sveta
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:3932.0
+passage.questions.0.answers.4.text:Končno osvajanje Mavrov in odkritje Novega sveta je pripeljalo do španske prevlade v ekonomiji in mednarodni politiki
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:3931.0
+passage.questions.0.answers.3.text:Kolumb
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3930.0
+passage.questions.0.answers.2.text:Končno osvajanje Mavrov in odkritje Novega sveta,
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3929.0
+passage.questions.0.answers.1.text:Osvajanje flamskih plemičev
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3928
+passage.questions.0.answers.0.text:Odkritje novega sveta
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3927
+idx:69

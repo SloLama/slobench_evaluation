@@ -1,0 +1,208 @@
+version:1.1
+passage.text:Greta je s starejšim bratom Tonyem stekla v kot. V žepu je imel denar za tovornjak s sladoledom in bila je zelo vesela. Tovornjak s sladoledom je bil zelo dolgo parkiran ob robniku in čakal na otroke. Voznik tovornjaka sladoleda je menil, da po sladoled ne prihaja več otrok, zato se je začel umakniti z robnika, ko so prišli v kot. Vpili so. Zakričali so: &quot;Stop! Stop!&quot; in skočil gor in dol na stranski sprehod in ga poskušal doseči. Voznik tovornjaka jih je zagledal, jim pomahal in se nasmehnil, umaknil nazaj do robnika in odprl svoj tovornjak, da so lahko videli vse, kar je imel na prodaj. Bili so tako navdušeni. Videli so nekaj novih priboljškov. Tony je hotel poskusiti nekaj novega. Dobil je sladoledne slaščice s čokoladnim sladoledom in oreščki. Skoraj je dobil snežni stožec. Greta si je ogledala vse, kar je imel tovornjak s sladoledom. Videla je sladkarije, korčke za sladoled, snežnike in vse ostalo. Vse je bilo videti tako dobro. Toda po ogledu vsega je želela dobiti sladoledni sendvič. Dobila je sendvič s sladoledom. Zagrizla je vanj in se nasmehnila. Okus je bil tako dober. Počutila se je tako srečno. Tudi njen brat Tony je bil srečen. Ugriznil je sladoledne slaščice in se zarežal. S svojim sladoledom so hodili domov in mami pripovedovali, kako blizu so bili, da sladoleda sploh niso dobili. Njuna mama je bila vesela, da se je tovornjak ustavil zanje. Povedala je, da so imeli veliko srečo, da so prišli do robnika, preden je tovornjak s sladoledom odšel.
+passage.questions.9.question:Kdo je vpil, naj se tovornjak ustavi?
+passage.questions.9.idx:460.0
+passage.questions.9.answers.3.text:Greta in Tony
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:2443.0
+passage.questions.9.answers.2.text:Voznik tovornjaka
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:2442.0
+passage.questions.9.answers.1.text:Mati Gretas
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2441.0
+passage.questions.9.answers.0.text:Greta in njen brat
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:2440.0
+passage.questions.8.question:Kolikokrat so morali vozniku sladolednega tovornjaka povedati, naj se ustavi?
+passage.questions.8.idx:459.0
+passage.questions.8.answers.2.text:Trikrat
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2439.0
+passage.questions.8.answers.1.text:Enkrat
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2438.0
+passage.questions.8.answers.0.text:Dvakrat
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:2437.0
+passage.questions.7.question:Kdo je izbral sladoledni sendvič?
+passage.questions.7.idx:458.0
+passage.questions.7.answers.2.text:Greta
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2436.0
+passage.questions.7.answers.1.text:Tovornjak za sladoled
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2435.0
+passage.questions.7.answers.0.text:Brat Gretas
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2434.0
+passage.questions.6.question:Kaj je na koncu dobila Greta iz tovornjaka s sladoledom, potem ko je vse pogledala?
+passage.questions.6.idx:457.0
+passage.questions.6.answers.2.text:Sladkarije
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2433.0
+passage.questions.6.answers.1.text:Sladoledni sendvič
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:2432.0
+passage.questions.6.answers.0.text:Po pregledu vseh možnosti je dobila sendvič s sladoledom
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2431.0
+passage.questions.5.question:Kje je bil tovornjak s sladoledom, do katerega je tekla Greta?
+passage.questions.5.idx:456.0
+passage.questions.5.answers.2.text:Parkirano ob robniku
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2430.0
+passage.questions.5.answers.1.text:Na vogalu
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2429.0
+passage.questions.5.answers.0.text:Vožnja
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2428.0
+passage.questions.4.question:Za kaj je imel starejši brat Greta denar?
+passage.questions.4.idx:455.0
+passage.questions.4.answers.3.text:Sladkarije
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2427.0
+passage.questions.4.answers.2.text:V kot s starejšim bratom Tonyjem
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2426.0
+passage.questions.4.answers.1.text:Sladoled
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2425.0
+passage.questions.4.answers.0.text:Gretin starejši brat je imel denar za tovornjak s sladoledom
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2424.0
+passage.questions.3.question:Kateri predmet sta videla Greta in Tony, da je enako?
+passage.questions.3.idx:454.0
+passage.questions.3.answers.3.text:Sladkarije
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2423.0
+passage.questions.3.answers.2.text:Snežni stožec
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2422.0
+passage.questions.3.answers.1.text:Leta
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2421.0
+passage.questions.3.answers.0.text:Skoči in kriči nehaj
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2420.0
+passage.questions.2.question:Kaj sta Greta in Tony storila, da sta pritegnila pozornost voznika sladolednega tovornjaka?
+passage.questions.2.idx:453.0
+passage.questions.2.answers.3.text:Ko so prišli v kot, se je začel umakniti z robnika
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2419.0
+passage.questions.2.answers.2.text:Mahnil proti tovornjaku
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2418.0
+passage.questions.2.answers.1.text:Skočil gor in dol in zavpil stop
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:2417.0
+passage.questions.2.answers.0.text:Vriskali so: &quot;Stop&quot; in skočili gor in dol po pločniku
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:2416.0
+passage.questions.16.question:Zakaj je tekla Greta?
+passage.questions.16.idx:467.0
+passage.questions.16.answers.2.text:Da pridem domov
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:2465.0
+passage.questions.16.answers.1.text:Ker je tovornjak s sladoledom odhajal
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:2464.0
+passage.questions.16.answers.0.text:Tekla je s svojim bratom Tonyjem, ki je imel denar za tovornjak s sladoledom
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:2463.0
+passage.questions.15.question:Kako sta se počutila Greta in Tony, ko sta si kupila priboljške iz tovornjaka s sladoledom?
+passage.questions.15.idx:466.0
+passage.questions.15.answers.2.text:Brez posebnih čustev
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2462.0
+passage.questions.15.answers.1.text:Bili so žalostni
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:2461.0
+passage.questions.15.answers.0.text:Oba sta bila srečna
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:2460.0
+passage.questions.14.question:Kdo je imel denar za sladoled?
+passage.questions.14.idx:465.0
+passage.questions.14.answers.3.text:Tony
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:2459.0
+passage.questions.14.answers.2.text:Greta
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:2458.0
+passage.questions.14.answers.1.text:Brat Greta
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:2457.0
+passage.questions.14.answers.0.text:Študenti
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:2456.0
+passage.questions.13.question:Kaj je Greta kupila s čigavim denarjem?
+passage.questions.13.idx:464.0
+passage.questions.13.answers.2.text:Sladoled z bratom kupi denar
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:2455.0
+passage.questions.13.answers.1.text:Sendvič s sladoledom s Tonyjevim denarjem
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:2454.0
+passage.questions.13.answers.0.text:Hrana z lastnim denarjem
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:2453.0
+passage.questions.12.question:Sta bila oba Tony in Greta srečna, ko sta dobila sladoled?
+passage.questions.12.idx:463.0
+passage.questions.12.answers.2.text:Ja, oba sta bila srečna
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:2452.0
+passage.questions.12.answers.1.text:ja so bili
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2451.0
+passage.questions.12.answers.0.text:Ne, niso bili
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2450.0
+passage.questions.11.question:Kaj sta Greta in Tony dobila od tovornjaka s sladoledom?
+passage.questions.11.idx:462.0
+passage.questions.11.answers.2.text:Sladkarije
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2449.0
+passage.questions.11.answers.1.text:Sladoled v kornetu in sendvič s sladoledom
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:2448.0
+passage.questions.11.answers.0.text:Tony je dobil sladoledne slaščice s čokoladnim sladoledom in oreščki, Greta pa sladoledni sendvič
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2447.0
+passage.questions.10.question:Kakšne poslastice sta kupila Greta in Tony od tovornjaka s sladoledom?
+passage.questions.10.idx:461.0
+passage.questions.10.answers.2.text:Sladkarije
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2446.0
+passage.questions.10.answers.1.text:Sendvič s slaščicami in sladoledom
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:2445.0
+passage.questions.10.answers.0.text:Sladoledne sunde in sladoledni sendvič
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:2444.0
+passage.questions.1.question:Kaj sta Greta in Tony storila, da bi pritegnila pozornost voznikov sladoleda?
+passage.questions.1.idx:452.0
+passage.questions.1.answers.2.text:Mahni proti tovornjaku
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2415.0
+passage.questions.1.answers.1.text:Vpili so, zakričali in skakali gor in dol po pločniku
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:2414.0
+passage.questions.1.answers.0.text:Skoči in kriči nehaj
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:2413.0
+passage.questions.0.question:Je Tony poskusil kaj novega?
+passage.questions.0.idx:451
+passage.questions.0.answers.3.text:Dobil je suhice s čokoladnim sladoledom in oreščki
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2412.0
+passage.questions.0.answers.2.text:Da, sladoledne slaščice
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2411.0
+passage.questions.0.answers.1.text:Dobil je sendvič
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2410
+passage.questions.0.answers.0.text:Ne, nadaljeval je s tem, kar je že imel.
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2409
+idx:38

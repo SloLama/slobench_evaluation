@@ -1,0 +1,130 @@
+version:1.1
+passage.text: Te zmedene besede so končno dale uvid v razlog za njeno stisko in kesanje.  Tudi najbolj krepostna kristjanka si ne bi toliko očitala in se tako poniževala, pa čeprav bi jo obtožili veliko hujšega greha kot skrivne uporabe poživil, ki so zemeljska vzporednica marsovskega »čarnija«.  Sicer pa si Marsovec nikoli ne bi zastrupil krvi in omamil možganov s kakršnokoli obliko alkohola.   Njihovi opiati vplivajo na vrsto, ki je odvisna od telesnega miru, ki je bolj kot čutnemu vznemirjenju predana čutnemu užitku ter lucidni miselni kontemplaciji; občutek spokojne radosti je njihovemu značaju vsaj toliko prijeten, kot so Turku prijetni sanjavi prividi, ki jih povzroča hašiš, Malajcu razvneta norost, ki jo povzroča bhang, ali Severnoevropejcu divje vznemirjenje, ki ga  vzbujata holandski gin ali konjak.   Podobno kot razkošje opijanja v Evropi, pa je na Marsu uživanje teh drog dovoljeno le enemu spolu, zaradi predsodkov in družbenih pravil pa strogo prepovedano drugemu.  Ženska, ki jo ujamejo pri uživanju »čarnija«, je osramočena v isti meri, kot bi bila evropska matrona, ki bi jo zasačili pri kajenju cigar in pitju žganic; njen gospod in gospodar bi jo zagotovo skrbno poučil o njeni krivdi. 
+passage.questions.7.question:Kako se imenuje droga, ki jo uporabljajo na Marsu?
+passage.questions.7.idx:168.0
+passage.questions.7.answers.5.text:»čarni« 
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:945.0
+passage.questions.7.answers.4.text:Opiati
+passage.questions.7.answers.4.label:0.0
+passage.questions.7.answers.4.idx:944.0
+passage.questions.7.answers.3.text:Evropa
+passage.questions.7.answers.3.label:0.0
+passage.questions.7.answers.3.idx:943.0
+passage.questions.7.answers.2.text:Prividi
+passage.questions.7.answers.2.label:0.0
+passage.questions.7.answers.2.idx:942.0
+passage.questions.7.answers.1.text:-čarni-
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:941.0
+passage.questions.7.answers.0.text:Čarni
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:940.0
+passage.questions.6.question:Kako se počuti, ker je uživala drogo?
+passage.questions.6.idx:167.0
+passage.questions.6.answers.4.text:Srečno
+passage.questions.6.answers.4.label:0.0
+passage.questions.6.answers.4.idx:939.0
+passage.questions.6.answers.3.text:Vznemirjeno, skesano in osramočeno
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:938.0
+passage.questions.6.answers.2.text:Slabo
+passage.questions.6.answers.2.label:0.0
+passage.questions.6.answers.2.idx:937.0
+passage.questions.6.answers.1.text:Krivo
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:936.0
+passage.questions.6.answers.0.text:Dobro
+passage.questions.6.answers.0.label:0.0
+passage.questions.6.answers.0.idx:935.0
+passage.questions.5.question:S čim primerjajo drogo »čarni«?
+passage.questions.5.idx:166.0
+passage.questions.5.answers.5.text:Konjakom
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:934.0
+passage.questions.5.answers.4.text:Mirom
+passage.questions.5.answers.4.label:0.0
+passage.questions.5.answers.4.idx:933.0
+passage.questions.5.answers.3.text:Sramoto
+passage.questions.5.answers.3.label:0.0
+passage.questions.5.answers.3.idx:932.0
+passage.questions.5.answers.2.text:Žganicami
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:931.0
+passage.questions.5.answers.1.text:S hašišem pri Turku, z bhangom pri Malajcu, z divjim vznemirjenjem, ki ga pri Severnoevropejcu vzbujata holandski gin ali konjak
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:930.0
+passage.questions.5.answers.0.text:Strupom
+passage.questions.5.answers.0.label:0.0
+passage.questions.5.answers.0.idx:929.0
+passage.questions.4.question:Kateri rasi pripada?
+passage.questions.4.idx:165.0
+passage.questions.4.answers.3.text:Britanski
+passage.questions.4.answers.3.label:0.0
+passage.questions.4.answers.3.idx:928.0
+passage.questions.4.answers.2.text:Evropejski
+passage.questions.4.answers.2.label:0.0
+passage.questions.4.answers.2.idx:927.0
+passage.questions.4.answers.1.text:Marsovski
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:926.0
+passage.questions.4.answers.0.text:Marsovski
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:925.0
+passage.questions.3.question:Kaj je bilo razkošje opijanja v Evropi?
+passage.questions.3.idx:164.0
+passage.questions.3.answers.5.text:Bhang
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:924.0
+passage.questions.3.answers.4.text:Samo za moške
+passage.questions.3.answers.4.label:0.0
+passage.questions.3.answers.4.idx:923.0
+passage.questions.3.answers.3.text:Alkohol
+passage.questions.3.answers.3.label:0.0
+passage.questions.3.answers.3.idx:922.0
+passage.questions.3.answers.2.text:Hašiš
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:921.0
+passage.questions.3.answers.1.text:Za vse
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:920.0
+passage.questions.3.answers.0.text:Konjak ali holandski gin
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:919.0
+passage.questions.2.question:Ali je ženskam prepovedano uživati »čarni«?
+passage.questions.2.idx:163.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:918.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0.0
+passage.questions.2.answers.0.idx:917.0
+passage.questions.1.question:Od česa so odvisni Marsovci?
+passage.questions.1.idx:162.0
+passage.questions.1.answers.3.text:Občutka spokojne radosti, ki je njihovemu značaju vsaj toliko prijeten
+passage.questions.1.answers.3.label:0.0
+passage.questions.1.answers.3.idx:916.0
+passage.questions.1.answers.2.text:Opiatov
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:915.0
+passage.questions.1.answers.1.text:Marihuane
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:914.0
+passage.questions.1.answers.0.text:Alkohola
+passage.questions.1.answers.0.label:0.0
+passage.questions.1.answers.0.idx:913.0
+passage.questions.0.question:Katera poživila skrivno uporabljajo Marsovke in ženske?
+passage.questions.0.idx:161
+passage.questions.0.answers.3.text:Opiate
+passage.questions.0.answers.3.label:0.0
+passage.questions.0.answers.3.idx:912.0
+passage.questions.0.answers.2.text:»čarni«
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:911.0
+passage.questions.0.answers.1.text:Alkohol
+passage.questions.0.answers.1.label:1
+passage.questions.0.answers.1.idx:910
+passage.questions.0.answers.0.text:Čarni
+passage.questions.0.answers.0.label:1
+passage.questions.0.answers.0.idx:909
+idx:14

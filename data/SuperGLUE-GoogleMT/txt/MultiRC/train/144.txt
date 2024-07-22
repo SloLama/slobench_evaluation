@@ -1,0 +1,310 @@
+version:1.1
+passage.text:Ste že kdaj pogledali globus? Da so celine videti kot ogromna sestavljanka. Severna Amerika je videti, kot da bi se lahko prilegala Evropi. Rob Južne Amerike se ujema z Afriko. Znanstveniki so opazili te iste značilnosti. Zaradi njih so začeli spraševati. Želeli so vedeti, ali so te celine povezane? Če je odgovor pritrdilen, kako se lahko nekaj tako velikega premakne tako daleč? Kaj bi lahko imelo dovolj sile, da bi premaknilo tako velikansko skalno ploščo? Ali obstajajo drugi dokazi, ki bi lahko namigovali na pretekle položaje celin? Kako nam lahko odgovori na ta vprašanja pomagajo? Znanstvenik z imenom Alfred Wegener je imel ta ista vprašanja. Wegener si ogleduje skale na obeh straneh Atlantskega oceana. Opazil je, da sta istega tipa in starosti. Menil je, da so se skale morale oblikovati ena ob drugi. Predlagal je, da bi se skale nato oddaljile. En del je šel s Severno Ameriko. Drugi del je ostal pri Evropi.
+passage.questions.9.question:Katere značilnosti so znanstveniki opazili
+passage.questions.9.idx:1635.0
+passage.questions.9.answers.7.text:Zdi se, da se robovi celin ujemajo
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:8477.0
+passage.questions.9.answers.6.text:Namestitev kamnin
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:8476.0
+passage.questions.9.answers.5.text:Severna Amerika je videti, kot da bi se lahko prilegala Evropi. Rob Južne Amerike se ujema z Afriko
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:8475.0
+passage.questions.9.answers.4.text:Celine so bile enake
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:8474.0
+passage.questions.9.answers.3.text:Severna Amerika ob Evropi
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:8473.0
+passage.questions.9.answers.2.text:Ogromna plošča dela
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:8472.0
+passage.questions.9.answers.1.text:Da so celine videti kot ogromna sestavljanka
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:8471.0
+passage.questions.9.answers.0.text:Robovi Južne Amerike se ujemajo z Afriko
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:8470.0
+passage.questions.8.question:Katere dele je Wegener rekel, da so se sloni kamnin enake velikosti in starosti oblikovali, ko so se oddaljili?
+passage.questions.8.idx:1634.0
+passage.questions.8.answers.6.text:Afriko
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:8469.0
+passage.questions.8.answers.5.text:Južna Amerika
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:8468.0
+passage.questions.8.answers.4.text:Obe strani Atlantskega oceana
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:8467.0
+passage.questions.8.answers.3.text:En del je šel s Severno Ameriko. Drugi del je ostal v Evropi
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:8466.0
+passage.questions.8.answers.2.text:Evropi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:8465.0
+passage.questions.8.answers.1.text:Vzporedno
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:8464.0
+passage.questions.8.answers.0.text:Severna Amerika
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:8463.0
+passage.questions.7.question:Kateri sta bili iste vrste in starosti
+passage.questions.7.idx:1633.0
+passage.questions.7.answers.3.text:Kamnine
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:8462.0
+passage.questions.7.answers.2.text:Ribe
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8461.0
+passage.questions.7.answers.1.text:Kamnine na obeh straneh Atlantskega oceana
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:8460.0
+passage.questions.7.answers.0.text:Strani
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:8459.0
+passage.questions.6.question:Če dobro pogledate globus, kako izgledajo celine?
+passage.questions.6.idx:1632.0
+passage.questions.6.answers.4.text:Ogromna sestavljanka
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:8458.0
+passage.questions.6.answers.3.text:Videl
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:8457.0
+passage.questions.6.answers.2.text:Fotografija
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8456.0
+passage.questions.6.answers.1.text:Lahko se prilega
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:8455.0
+passage.questions.6.answers.0.text:Ogromna sestavljanka
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:8454.0
+passage.questions.5.question:Kdo je mislil, da so skale morale nastajati ena ob drugi
+passage.questions.5.idx:1631.0
+passage.questions.5.answers.4.text:Alfred Wegener
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:8453.0
+passage.questions.5.answers.3.text:Wegener
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:8452.0
+passage.questions.5.answers.2.text:Raziskovalec
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:8451.0
+passage.questions.5.answers.1.text:Tom Michaels
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8450.0
+passage.questions.5.answers.0.text:Evropi
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:8449.0
+passage.questions.4.question:Katere štiri celine iz odstavka izgledajo, kot da so povezane kot sestavljanka?
+passage.questions.4.idx:1630.0
+passage.questions.4.answers.9.text:Celine
+passage.questions.4.answers.9.label:0,0
+passage.questions.4.answers.9.idx:8447.0
+passage.questions.4.answers.8.text:Uganka
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:8446.0
+passage.questions.4.answers.7.text:Južna Amerika
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:8445.0
+passage.questions.4.answers.6.text:Severna Amerika, Evropa, Južna Amerika, Afrika
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:8444.0
+passage.questions.4.answers.5.text:Avstralija
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:8443.0
+passage.questions.4.answers.4.text:Kanada
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:8442.0
+passage.questions.4.answers.3.text:Atlantski ocean
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:8441.0
+passage.questions.4.answers.2.text:Evropi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8440.0
+passage.questions.4.answers.10.text:Afriko
+passage.questions.4.answers.10.label:1.0
+passage.questions.4.answers.10.idx:8448.0
+passage.questions.4.answers.1.text:Vbodna žaga
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8439.0
+passage.questions.4.answers.0.text:Severna Amerika
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:8438.0
+passage.questions.3.question:Wagner je predlagal, da bi se kamenje oddaljilo v katero smer?
+passage.questions.3.idx:1629.0
+passage.questions.3.answers.6.text:Afrika in Evropa
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:8437.0
+passage.questions.3.answers.5.text:Afriko
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:8436.0
+passage.questions.3.answers.4.text:Vzhod in zahod
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:8435.0
+passage.questions.3.answers.3.text:Proti Severni Ameriki
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:8434.0
+passage.questions.3.answers.2.text:En del je šel s Severno Ameriko, drugi del pa z Evropo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:8433.0
+passage.questions.3.answers.1.text:Jug
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8432.0
+passage.questions.3.answers.0.text:Zahod v Severno Ameriko in vzhod v Evropo
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:8431.0
+passage.questions.2.question:Kateri znanstvenik je opazil, da so kamnine na obeh straneh Atlantskega oceana enake?
+passage.questions.2.idx:1628.0
+passage.questions.2.answers.5.text:Alfred Wegener
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:8430.0
+passage.questions.2.answers.4.text:Znanstvenik
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:8429.0
+passage.questions.2.answers.3.text:Wegener
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:8428.0
+passage.questions.2.answers.2.text:Alfred
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:8427.0
+passage.questions.2.answers.1.text:Afriški znanstvenik
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8426.0
+passage.questions.2.answers.0.text:James Williams
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8425.0
+passage.questions.13.question:Kako bi se sestavili celice, podobne celinam?
+passage.questions.13.idx:1639.0
+passage.questions.13.answers.4.text:Evropa ustreza Afriki, Južna Amerika pa Evropi
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:8504.0
+passage.questions.13.answers.3.text:Severna Amerika je videti, kot da bi se lahko prilegala Evropi. Rob Južne Amerike se ujema z Afriko
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:8503.0
+passage.questions.13.answers.2.text:Evropa in Atlantski ocean
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:8502.0
+passage.questions.13.answers.1.text:Severna Amrerica ob Evropi
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:8501.0
+passage.questions.13.answers.0.text:Premaknite celine
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:8500.0
+passage.questions.12.question:Kaj je šlo v Severno Ameriko
+passage.questions.12.idx:1638.0
+passage.questions.12.answers.6.text:En del kamnin, ki so nastajali drug ob drugem
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:8499.0
+passage.questions.12.answers.5.text:Afriko
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:8498.0
+passage.questions.12.answers.4.text:En del skale
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:8497.0
+passage.questions.12.answers.3.text:Atlantski ocean
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:8496.0
+passage.questions.12.answers.2.text:Evropi
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:8495.0
+passage.questions.12.answers.1.text:Ptice
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:8494.0
+passage.questions.12.answers.0.text:Kamnine
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:8493.0
+passage.questions.11.question:Predlagal je, da bi se kamni oblikovali drug ob drugem in nato kam odnesli?
+passage.questions.11.idx:1637.0
+passage.questions.11.answers.7.text:Narazen
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:8492.0
+passage.questions.11.answers.6.text:Afriko
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:8491.0
+passage.questions.11.answers.5.text:En del s Severno Ameriko, drugi del pa z Evropo
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:8490.0
+passage.questions.11.answers.4.text:Skupaj
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:8489.0
+passage.questions.11.answers.3.text:Atlantski ocean
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:8488.0
+passage.questions.11.answers.2.text:Evropi
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:8487.0
+passage.questions.11.answers.1.text:Severna Amerika in Evropa
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:8486.0
+passage.questions.11.answers.0.text:Severna Amerika
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:8485.0
+passage.questions.10.question:Zakaj Wegener predlaga, da so celine videti kot ogromna sestavljanka?
+passage.questions.10.idx:1636.0
+passage.questions.10.answers.6.text:Vrsta in starost
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:8484.0
+passage.questions.10.answers.5.text:Severna Amerika je videti, kot da bi se lahko prilegala Evropi
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:8483.0
+passage.questions.10.answers.4.text:So pisane
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:8482.0
+passage.questions.10.answers.3.text:Premaknite celine
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:8481.0
+passage.questions.10.answers.2.text:Menil je, da so se skale morale oblikovati ena ob drugi. Predlagal je, da bi se skale nato oddaljile
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:8480.0
+passage.questions.10.answers.1.text:Rob Južne Amerike se ujema z Afriko
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:8479.0
+passage.questions.10.answers.0.text:Videti je, kot da bi se lahko prilegali drug drugemu
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:8478.0
+passage.questions.1.question:Kdo je opazil, da so kamnine na obeh straneh Atlantskega oceana iste vrste in starosti?
+passage.questions.1.idx:1627.0
+passage.questions.1.answers.5.text:Alfred Wegener
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:8424.0
+passage.questions.1.answers.4.text:Znanstvenik
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:8423.0
+passage.questions.1.answers.3.text:Evropi
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:8422.0
+passage.questions.1.answers.2.text:Tom Smith
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8421.0
+passage.questions.1.answers.1.text:Severna Amerika
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8420.0
+passage.questions.1.answers.0.text:Predlagatelj
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8419.0
+passage.questions.0.question:Kaj je ostalo v Evropi
+passage.questions.0.idx:1626
+passage.questions.0.answers.6.text:Afriko
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:8418.0
+passage.questions.0.answers.5.text:Drugi del kamnin, ki so nastajali drug ob drugem
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:8417.0
+passage.questions.0.answers.4.text:Celina
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:8416.0
+passage.questions.0.answers.3.text:Drugi del skale
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:8415.0
+passage.questions.0.answers.2.text:Rože
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8414.0
+passage.questions.0.answers.1.text:Atlantski ocean
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:8413
+passage.questions.0.answers.0.text:Kamnine
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8412
+idx:144

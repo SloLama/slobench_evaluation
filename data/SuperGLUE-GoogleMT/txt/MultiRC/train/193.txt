@@ -1,0 +1,276 @@
+version:1.1
+passage.text:Elaan je napoved vojne proti terorju, ki so ga sprožili ganglordi. Zgodba se vrti okoli pokončnega in načelnega policista ACP Ramakanta Chaudharyja, katerega najstarejši sin Vikas je ubit v vnaprej načrtovani nesreči. Toda AKP ne more odkriti krivcev zaradi pomanjkanja veljavnih dokazov. Posledično so AKP, njegova žena Revati in mlajši sin Vishal žalostni zaradi izgube mladega Vikasa. Medtem ko vzdušje v mestu že izkrivljajo grozodejstva ganglordov Baba Khan in Manna Shetty, ki uživata podporo nekaterih brezvestnih policijskih uslužbencev, se AKP zaveže, da bo neusmiljene gangsterje zagrizel v prah, ne da bi zakon vzel v svoje roke. Po drugi strani jezni Vishal, jezen mladenič, ne more prestati te krivice, ker policija ni prijela morilcev njegovega brata, in molče zameri nedelovanju svojega očeta iz AKP pri obravnavi krivcev. Ideologija očeta in sina se spopadata - kar vodi v konflikt med vestnim očetom in nepremišljenim sinom. Edina, ki razume agonijo Vishala, je Mohini, hči glavnega policista Devkinandana Sharme. Pride dan, ko se Vishal sooči z Baba Khanom in Manno Shetty, kar vodi v napetost in krvave razmere za AKP, saj ganglordi grozijo z odstranitvijo AKP ter njegovo ženo Revati in sinom Vishalom.
+passage.questions.9.question:Čemu ganglordi grozijo državam AKP?
+passage.questions.9.idx:2160.0
+passage.questions.9.answers.4.text:Da bi ubil njegovega sina
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:11306.0
+passage.questions.9.answers.3.text:Za podaljšanje vladavine terorja
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:11305.0
+passage.questions.9.answers.2.text:Odpraviti AKP, njegovo ženo in sina
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:11304.0
+passage.questions.9.answers.1.text:Rekli so, da dobro odpravijo AKP ter njegovo ženo Revati in sina Vishala
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:11303.0
+passage.questions.9.answers.0.text:Grozi, da bo vzel njegovo ženo
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:11302.0
+passage.questions.8.question:Kdo je razumel spopad očeta in sina?
+passage.questions.8.idx:2159.0
+passage.questions.8.answers.4.text:Revati
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:11301.0
+passage.questions.8.answers.3.text:Mohini, hči glavnega policista Devkinandana Sharme
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:11300.0
+passage.questions.8.answers.2.text:Mohini
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:11299.0
+passage.questions.8.answers.1.text:Manna Shetty
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:11298.0
+passage.questions.8.answers.0.text:Devkinandan Sharma
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:11297.0
+passage.questions.7.question:Kako je ime ženi Ramakanta Chaudharyja?
+passage.questions.7.idx:2158.0
+passage.questions.7.answers.2.text:Mohini
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:11296.0
+passage.questions.7.answers.1.text:Manna Shetty
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:11295.0
+passage.questions.7.answers.0.text:Revati
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:11294.0
+passage.questions.6.question:Kako je ime Revatijevemu možu?
+passage.questions.6.idx:2157.0
+passage.questions.6.answers.4.text:AKP Ramakant Chaudhary
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:11293.0
+passage.questions.6.answers.3.text:Baba Khan
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:11292.0
+passage.questions.6.answers.2.text:Vikas
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:11291.0
+passage.questions.6.answers.1.text:Ramakant Chaudhary
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:11290.0
+passage.questions.6.answers.0.text:Manna Shetty
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:11289.0
+passage.questions.5.question:Kdo ima v tej zgodbi glavno vlogo pokončnega in načelnega policista?
+passage.questions.5.idx:2156.0
+passage.questions.5.answers.3.text:Ramakant Chaudhary
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:11288.0
+passage.questions.5.answers.2.text:AKP Ramakant Chaudhary
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:11287.0
+passage.questions.5.answers.1.text:Vishal
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:11286.0
+passage.questions.5.answers.0.text:Vikas
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:11285.0
+passage.questions.4.question:Zakaj se je Vishal soočil z ganglordi?
+passage.questions.4.idx:2155.0
+passage.questions.4.answers.4.text:Bil je samo nepremišljen
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:11284.0
+passage.questions.4.answers.3.text:Soočil se je z njimi, ker so ubili njegovega starejšega brata
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:11283.0
+passage.questions.4.answers.2.text:Govoril je naokoli
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:11282.0
+passage.questions.4.answers.1.text:Z njimi je hotel postati prijatelj
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11281.0
+passage.questions.4.answers.0.text:Želel je pravičnost za svojega brata
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:11280.0
+passage.questions.3.question:Hči glavnega policista razume agonijo mlajšega sina Ramakanta?
+passage.questions.3.idx:2154.0
+passage.questions.3.answers.3.text:Devkinandan Sharma
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:11279.0
+passage.questions.3.answers.2.text:Manna Shetty
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:11278.0
+passage.questions.3.answers.1.text:Revati
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:11277.0
+passage.questions.3.answers.0.text:Hči Devkinandan Sharma razume Vishalovo agonijo
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:11276.0
+passage.questions.2.question:Kako se imenujeta dve osebi, ki sta sprožili vladavino terorizma?
+passage.questions.2.idx:2153.0
+passage.questions.2.answers.4.text:Devkinandan in Sharma
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11275.0
+passage.questions.2.answers.3.text:Revati in Mohini
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:11274.0
+passage.questions.2.answers.2.text:Baba Kahn in Manna Shetty
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:11273.0
+passage.questions.2.answers.1.text:AKP Ramakant Chaudhary in Revati
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:11272.0
+passage.questions.2.answers.0.text:Baba Khan in Manna Shetty
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:11271.0
+passage.questions.17.question:Kako je bilo ime policistu, čigar sin je bil umorjen, in zakaj ni mogel prijeti krivcev?
+passage.questions.17.idx:2168.0
+passage.questions.17.answers.5.text:Ramakant in zakona ne bo vzel v svoje roke
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:11341.0
+passage.questions.17.answers.4.text:ACP Ramakant Chaudhary, ni imel nobenih dokazov
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:11340.0
+passage.questions.17.answers.3.text:Manna Shetty in ganglordi so premočni
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:11339.0
+passage.questions.17.answers.2.text:Verjel je, da tega niso storili
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:11338.0
+passage.questions.17.answers.1.text:Devkinandan in policija sta lena
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:11337.0
+passage.questions.17.answers.0.text:ACP Ramakant Chaudhary, ni imel nobenih veljavnih dokazov
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:11336.0
+passage.questions.16.question:Kdo ne more iskati krivcev v iskanju dokazov?
+passage.questions.16.idx:2167.0
+passage.questions.16.answers.4.text:AKP Ramakant Chaudhary
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:11335.0
+passage.questions.16.answers.3.text:Ramakant
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:11334.0
+passage.questions.16.answers.2.text:Vishal
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:11333.0
+passage.questions.16.answers.1.text:AKP
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:11332.0
+passage.questions.16.answers.0.text:Revati
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:11331.0
+passage.questions.15.question:Kako se imenujejo ganglordi, ki so napovedali Elaansko vojno?
+passage.questions.15.idx:2166.0
+passage.questions.15.answers.2.text:Baba Khan in Manna Shetty
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:11330.0
+passage.questions.15.answers.1.text:Baba in Khan
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:11329.0
+passage.questions.15.answers.0.text:Vikas in Vishal
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:11328.0
+passage.questions.14.question:Kako je bilo ime mlajšemu bratu žrtve umora?
+passage.questions.14.idx:2165.0
+passage.questions.14.answers.2.text:Vishal
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:11327.0
+passage.questions.14.answers.1.text:Revati
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:11326.0
+passage.questions.14.answers.0.text:Vikas
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:11325.0
+passage.questions.13.question:Kdo je bil sin AKP Ramakanta Chaudharyja, ki je bil umorjen v vojni?
+passage.questions.13.idx:2164.0
+passage.questions.13.answers.3.text:Ramakant Chaudhary
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:11324.0
+passage.questions.13.answers.2.text:Vishal
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:11323.0
+passage.questions.13.answers.1.text:Revati
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:11322.0
+passage.questions.13.answers.0.text:Vikas
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:11321.0
+passage.questions.12.question:Kako se imenujejo osebe, ki poosebljajo spopad očeta in sina?
+passage.questions.12.idx:2163.0
+passage.questions.12.answers.4.text:Vishal in Ramakant
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:11320.0
+passage.questions.12.answers.3.text:Vikas in Ramakant
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:11319.0
+passage.questions.12.answers.2.text:Ramakant Chaudhary in Vishal
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:11318.0
+passage.questions.12.answers.1.text:Devkinandan Sharma
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:11317.0
+passage.questions.12.answers.0.text:Vishal in Devkinandan
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:11316.0
+passage.questions.11.question:Za katerega od Ramakantovih sinov so govorili, da je &quot;nepremišljen?&quot;
+passage.questions.11.idx:2162.0
+passage.questions.11.answers.2.text:Nobenega
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:11315.0
+passage.questions.11.answers.1.text:Vishal
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:11314.0
+passage.questions.11.answers.0.text:Vikas
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:11313.0
+passage.questions.10.question:Zakaj se je Vishal razjezil?
+passage.questions.10.idx:2161.0
+passage.questions.10.answers.5.text:Bil je jezen, ker policija ni uspela ubiti morilcev njegovega brata
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:11312.0
+passage.questions.10.answers.4.text:Vikas je odšel v vojno
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:11311.0
+passage.questions.10.answers.3.text:Ker policija ni uspela prijeti morilcev njegovega brata
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:11310.0
+passage.questions.10.answers.2.text:Njegove ideologije se spopadajo z njegovim očetom
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:11309.0
+passage.questions.10.answers.1.text:Bil je jezen na očeta
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:11308.0
+passage.questions.10.answers.0.text:Policija ni uspela prijeti morilcev njegovega brata
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:11307.0
+passage.questions.1.question:Kako je ime materi Vikas?
+passage.questions.1.idx:2152.0
+passage.questions.1.answers.3.text:Mohini
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:11270.0
+passage.questions.1.answers.2.text:Devkinandan Sharma
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11269.0
+passage.questions.1.answers.1.text:Manna Shetty
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11268.0
+passage.questions.1.answers.0.text:Revati
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:11267.0
+passage.questions.0.question:Kdo je izvedel vnaprej načrtovano nesrečo proti Vikasu?
+passage.questions.0.idx:2151
+passage.questions.0.answers.3.text:Ramakant Chaudhary
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:11266.0
+passage.questions.0.answers.2.text:ACP in Revati
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11265.0
+passage.questions.0.answers.1.text:Baba Khan in Manna Shetty
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:11264
+passage.questions.0.answers.0.text:Gangsterja Baba Khan in Manna Shetty
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:11263
+idx:193

@@ -1,0 +1,129 @@
+version:1.1
+passage.text:Inšpektorji FEMA so bili v sredo spet v Kerrvilleu in pregledali nekaj poškodovanih domov. Po navedbah Lindsay je FEMA v Teksasu prejela že 44.000 zahtev za inšpekcijski pregled. Število posameznikov, ki iščejo olajšanje poplav po južnem Teksasu, se je v torek povečalo za več kot 1.000, kar je skupaj pomenilo 5.855, je dejal. FEMA je že razdelila 1,8 milijona dolarjev pomoči v obliki nujnih stanovanj. &quot;Postopek registracije poteka hitro,&quot; je dejala Lindsay in dodala, da je večina registracij trajala od 5 do 7 minut. Pomoč je na voljo tudi v lokalnem poglavju Rdečega križa, vendar se morajo žrtve poplav ločeno pogovarjati z Rdečim križem, da tudi od njih prejmejo pomoč. Daletta Andreas, izvršna direktorica oddelka Hill Country, je dejala, da je to poglavje prejelo ljudi, ki so mislili, da se pri registraciji pri FEMA ali za storitve čiščenja lokalnih skupin samodejno registrirajo za storitve Rdečega križa. To ni pravilno, je rekel Andreas. &quot;Vstopiti morajo in iti skozi naš razgovor,&quot; je dejala. Andreas je povedal, da je servisni center Rdečega križa, 333 Earl Garrett St., odprt vsak dan od 9h do 18h. Ljudje, ki iščejo pomoč, morajo predložiti osebne dokumente, ki dokazujejo, da prebivajo na tem območju. Člani teksaške odvetniške zbornice žrtvam poplav nudijo brezplačen pravni nasvet. Žrtve v okrožjih Teksasa, ki so razglasile zvezno nesrečo, lahko pokličejo (800) 504-7030 za pomoč pri osnovnih pravnih vprašanjih. Telefonska številka za brezplačno pravno pomoč, ki deluje v sodelovanju s teksaško pravno pomočjo in odvetniki prostovoljci iz vse države, bo na voljo od 8. do 20. ure od ponedeljka do četrtka in od 8. do 18. ure.
+passage.questions.5.question:Preko katere organizacije Lindsey registrira ljudi?
+passage.questions.5.idx:832.0
+passage.questions.5.answers.4.text:Hill Country
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:4205.0
+passage.questions.5.answers.3.text:rdeči križ
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4204.0
+passage.questions.5.answers.2.text:FEMA
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4203.0
+passage.questions.5.answers.1.text:HUD
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4202.0
+passage.questions.5.answers.0.text:Daletta Andreas
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4201.0
+passage.questions.4.question:Kaj naj ljudje prinesejo na razgovor?
+passage.questions.4.idx:831.0
+passage.questions.4.answers.6.text:Identifikacija
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:4200.0
+passage.questions.4.answers.5.text:Zavarovanje
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:4199.0
+passage.questions.4.answers.4.text:Rojstni list
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4198.0
+passage.questions.4.answers.3.text:Račun za porabo
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4197.0
+passage.questions.4.answers.2.text:Izpisek s kreditne kartice
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4196.0
+passage.questions.4.answers.1.text:Ugotovitev, da živijo na tem območju
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4195.0
+passage.questions.4.answers.0.text:ID
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4194.0
+passage.questions.3.question:Kakšna je razpoložljivost telefonske številke za brezplačno pravno pomoč?
+passage.questions.3.idx:830.0
+passage.questions.3.answers.6.text:Od 8.00 do 18.00 na dan
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:4193.0
+passage.questions.3.answers.5.text:Od ponedeljka do četrtka od 8.00 do 20.00 in od 8.00 do 18.00
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:4192.0
+passage.questions.3.answers.4.text:Od ponedeljka do četrtka od 8. do 20. ure
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:4191.0
+passage.questions.3.answers.3.text:24 ur na dan
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:4190.0
+passage.questions.3.answers.2.text:Od 8.00 do 20.00 na dan
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:4189.0
+passage.questions.3.answers.1.text:Od ponedeljka do četrtka od 8. do 20. ure
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4188.0
+passage.questions.3.answers.0.text:Opoldne do polnoči
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4187.0
+passage.questions.2.question:Kako se imenujeta dve organizaciji, ki sta žrtvam nesreč zagotavljali pomoč ali pomoč?
+passage.questions.2.idx:829
+passage.questions.2.answers.5.text:rdeči križ
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:4186.0
+passage.questions.2.answers.4.text:Rdeči križ in FEMA
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:4185.0
+passage.questions.2.answers.3.text:FEMA in Rdeči križ
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4184.0
+passage.questions.2.answers.2.text:FEMA
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4183.0
+passage.questions.2.answers.1.text:HUD
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:4182
+passage.questions.2.answers.0.text:Daletta Andreas
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:4181
+passage.questions.1.question:Zakaj so poškodovani domovi v Kerrvilleu?
+passage.questions.1.idx:828
+passage.questions.1.answers.6.text:Zaradi poplav v južnem Teksasu
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:4180.0
+passage.questions.1.answers.5.text:Poškodbe zaradi vode
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:4179.0
+passage.questions.1.answers.4.text:Poplave
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:4178.0
+passage.questions.1.answers.3.text:Požari
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4177.0
+passage.questions.1.answers.2.text:Orkan
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4176.0
+passage.questions.1.answers.1.text:Tornadi
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:4175
+passage.questions.1.answers.0.text:Poškodbe tajfuna
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:4174
+passage.questions.0.question:Kdo je rekel, da se je število posameznikov, ki iščejo olajšanje poplav po južnem Teksasu, v torek povečalo za več kot 1.000, kar je skupaj znašalo 5.855?
+passage.questions.0.idx:827
+passage.questions.0.answers.5.text:Roberts
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:4173.0
+passage.questions.0.answers.4.text:Bellingham
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4172.0
+passage.questions.0.answers.3.text:Fema inšpektor
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4171.0
+passage.questions.0.answers.2.text:rdeči križ
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4170.0
+passage.questions.0.answers.1.text:Fema
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4169
+passage.questions.0.answers.0.text:Lindsay
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4168
+idx:72

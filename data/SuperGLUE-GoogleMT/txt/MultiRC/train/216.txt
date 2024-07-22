@@ -1,0 +1,132 @@
+version:1.1
+passage.text:Cathy Wallace ni vedno vedela, kaj želi biti, ko odraste. Želela je pomagati ljudem, ni pa natančno vedela, kako. Predlog prijateljev je vzbudil njeno zanimanje. &quot;Ko sem študirala, sem mislila, da želim biti zdravnica,&quot; je dejala. &quot;Ugotovila sem, da tega ne želim početi, in se zanimala za psihologijo. Nisem vedela, kaj želim početi, toda vsi moji prijatelji so mislili, da bi moral iti v pravo, ker sem bil vedno na milo. Odločil sem se poskusi.&quot; Pred kratkim je Wallace prejel nagrado za izjemno žensko pravnico v javnem interesu. Nagrado je izglasoval in podelil ženski poslanski zbor Univerze v Zahodni Virginiji. 38-letna Wallace je Gastonijo poklicala domov od osmega leta, dokler ni leta 1983 končala srednjo šolo Hunter Huss. Njeni starši Carter Bond (66) in Carol Bond (59) še vedno prebivajo v Gastoniji. Od Hunterja Hussa je nadaljevala študij na univerzi Pfeiffer v Misenheimerju. Po diplomi iz Pfeifferja leta 1987, kjer je diplomirala iz biologije in psihologije, je leto in pol delala kot pravna tajnica pri odvetniku Louisu A. Bledsoeju mlajšem. &quot;Delo za Louisa Bledsoeja je bilo ključni trenutek,&quot; je dejala. &quot;Takrat sem se odločil, da grem v odvetniško prakso.&quot; Leta 1992 je diplomirala na univerzi v Arkansasu in svojo pravno pot začela v družbi Public Defender Corp. na Princetonu. Poučevala je tudi kazensko pravosodje na Bluefield College v Zahodni Virginiji. Wallace živi v Atenah, W. Va., Z možem Robom (37) in hčerkama Rachel (11) in Claire (5).
+passage.questions.5.question:Za katero nagrado je glasoval in jo Wallaceu podelil ženski poslanski zbor Univerze v Zahodni Virginiji?
+passage.questions.5.idx:2404.0
+passage.questions.5.answers.3.text:Nagrada za izjemno pravnico v javnem interesu
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:12732.0
+passage.questions.5.answers.2.text:Nagrada za izjemnega pravnika v javnem interesu
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:12731.0
+passage.questions.5.answers.1.text:Letna nagrada za ženske v vodstvu
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:12730.0
+passage.questions.5.answers.0.text:Nagrada za ugledne odvetnike iz Virginije
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:12729.0
+passage.questions.4.question:Kdo se je počutil, kot da želi pomagati ljudem, a ni natančno vedel, kako?
+passage.questions.4.idx:2403.0
+passage.questions.4.answers.3.text:Carter Bond
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:12728.0
+passage.questions.4.answers.2.text:Carol Bond
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:12727.0
+passage.questions.4.answers.1.text:Cathy Wallace
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:12726.0
+passage.questions.4.answers.0.text:Lovec Huss
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:12725.0
+passage.questions.3.question:Navedite tri kraje, kjer je gospa Wallace delala.
+passage.questions.3.idx:2402.0
+passage.questions.3.answers.9.text:Zakonska šola Univerze v Zahodni Virginiji
+passage.questions.3.answers.9.label:1.0
+passage.questions.3.answers.9.idx:12723.0
+passage.questions.3.answers.8.text:Odvetniška pisarna Louisa Bledsoeja mlajšega, Public Defender Corporation in Bluefield College
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:12722.0
+passage.questions.3.answers.7.text:Zobozdravniška pisarna
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:12721.0
+passage.questions.3.answers.6.text:Bluefield kolegij
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:12720.0
+passage.questions.3.answers.5.text:Odvetniška pisarna
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:12719.0
+passage.questions.3.answers.4.text:Public Defender Corp. v Princetonu, Blueford College in O&#39;Malley and Rourke Legal Firm
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:12718.0
+passage.questions.3.answers.3.text:Kmetija
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:12717.0
+passage.questions.3.answers.2.text:Pravno podjetje O&#39;Malley in Rourke, Public Defender Corp. v Princetonu in pravna šola Blue Ridge
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12716.0
+passage.questions.3.answers.10.text:Public Defender Corp. v Princetonu kot pravna tajnica odvetnika Louisa A. Bledsoeja mlajšega in Bluefield College v Zahodni Virginiji
+passage.questions.3.answers.10.label:1.0
+passage.questions.3.answers.10.idx:12724.0
+passage.questions.3.answers.1.text:Pravna šola Blue Ridge, Public Defender Corp. v Princetonu in državno okrožno državno tožilstvo v New Yorku
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:12715.0
+passage.questions.3.answers.0.text:Zdravnikova pisarna
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:12714.0
+passage.questions.2.question:Katere tri stopinje ima gospa Wallace?
+passage.questions.2.idx:2401.0
+passage.questions.2.answers.9.text:Pravo, biologija in psihologija
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:12713.0
+passage.questions.2.answers.8.text:Biologija
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:12712.0
+passage.questions.2.answers.7.text:Psihologija
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:12711.0
+passage.questions.2.answers.6.text:Poslovno
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:12710.0
+passage.questions.2.answers.5.text:Medicina, pravo in biologija
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:12709.0
+passage.questions.2.answers.4.text:Fotografija
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:12708.0
+passage.questions.2.answers.3.text:Psihologija, pravo in medicina
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:12707.0
+passage.questions.2.answers.2.text:Ima dve univerzitetni diplomi, eno psihologijo in drugo biologijo ter pravno fakulteto
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:12706.0
+passage.questions.2.answers.1.text:Pravo
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:12705.0
+passage.questions.2.answers.0.text:Medicina, biologija in pravo
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:12704.0
+passage.questions.1.question:Ko se je gospa Wallace prvič odločila, da želi pomagati ljudem, kaj želi storiti?
+passage.questions.1.idx:2400.0
+passage.questions.1.answers.4.text:Želel sem biti psiholog
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:12703.0
+passage.questions.1.answers.3.text:Želel sem biti medicinska sestra
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:12702.0
+passage.questions.1.answers.2.text:Želel biti socialni delavec
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12701.0
+passage.questions.1.answers.1.text:Biologinja
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:12700.0
+passage.questions.1.answers.0.text:Mislila je, da želi biti zdravnica
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:12699.0
+passage.questions.0.question:Kako je ime hčerki Carter Bond in Carol Bond?
+passage.questions.0.idx:2399
+passage.questions.0.answers.4.text:Cathy Rawlin
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:12698.0
+passage.questions.0.answers.3.text:Cathy Wallace
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:12697.0
+passage.questions.0.answers.2.text:Alice Bond
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:12696.0
+passage.questions.0.answers.1.text:Louis A. Bledsoe ml
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12695
+passage.questions.0.answers.0.text:Samantha Bond
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:12694
+idx:216

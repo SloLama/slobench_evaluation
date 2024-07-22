@@ -1,0 +1,4 @@
+idx:4310
+label:False
+passage:Zbirka podatkov v oblaku - Sodobne relacijske zbirke podatkov so pokazale slabo delovanje podatkovno intenzivnih sistemov, zato je bila ideja NoSQL uporabljena v sistemih za upravljanje baz podatkov za sisteme v oblaku. V shrambi, ki jo izvaja NoSQL, ni nobenih zahtev za sheme fiksnih tabel in se izogiba uporabi operacij združevanja. &quot;Podatkovne baze NoSQL so se izkazale za učinkovito vodoravno razširljivost, dobro zmogljivost in enostavnost sestavljanja v oblačne aplikacije.&quot;
+question:je sql tudi standardni vmesnik v rešitvah, ki temeljijo na oblaku

@@ -1,0 +1,6 @@
+choice1:Dogovoril se je za sestanek s pomembno stranko.
+choice2:Žena mu je kupila novo kravato.
+idx:23
+label:0
+premise:Mož se je oblekel v svojo najboljšo obleko.
+question:cause

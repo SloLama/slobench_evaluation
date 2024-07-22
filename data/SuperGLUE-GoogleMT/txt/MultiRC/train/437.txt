@@ -1,0 +1,174 @@
+version:1.1
+passage.text:Film je močna zgodba, ki govori o feminizmu in patriarhatu v srednjem razredu Indije. Posnet je v sedanjem in preteklem času in prikazuje življenja likov Mahenderja in Sudhe, ko sta živela skupaj in ločeno. Film se začne tako, da se Mahender spusti na železniško postajo in se napoti v čakalnico, ravno ko začne močno deževati. V čakalnici že sedi ženska Sudha. Ko ga zagleda, mu poskuša skriti obraz, kasneje pa se spopadeta. Mahender se uspešno ukvarja s fotografijo. Svojega dedka neizmerno spoštuje. Mimogrede je bil s Sudho zaročen pet let, vendar se je vedno izgovoril, da bi odložil svojo poroko. Vendar je tokrat njegov dedek določil poroko prvi teden naslednjega meseca. Sudhi razkrije, da ima afero z eno najbolj radikalnih predstavitev feminizma pri deklici z imenom Maya. Vrne se, da pove Mayi, toda Maya je izginila in mu pustila nekaj poezije. Mahender se nato poroči s Sudho in je povsem srečen, toda nenadna vrnitev Maje povzroči napetosti v njunem zakonskem življenju. Mahender Sudhi pogosto pripoveduje o vseh čudovitih, ljubečih in pristnih stvareh, ki jih je Maya storila v letih, ko sta živela skupaj. Kasneje Maya skuša storiti samomor, zaradi česar se Mahender nekaj tednov druži z njo. Sudha, ki ni vedela za Mayin poskus samomora in je zato verjela, da ji je Mahender nezvest, meni, da je bil njen zakon napaka, in sprašuje Mahenderja o njegovih namerah.
+passage.questions.9.question:Kdo ji poskuša skriti obraz?
+passage.questions.9.idx:4932.0
+passage.questions.9.answers.4.text:Sudha
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:26277.0
+passage.questions.9.answers.3.text:Ženska po imenu Sudha
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:26276.0
+passage.questions.9.answers.2.text:Maya
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:26275.0
+passage.questions.9.answers.1.text:Fotograf
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:26274.0
+passage.questions.9.answers.0.text:Ženska v čakalnici
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:26273.0
+passage.questions.8.question:Kako dolgo je bil Mahender zaročen s svojo ženo?
+passage.questions.8.idx:4931.0
+passage.questions.8.answers.3.text:5 let
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:26272.0
+passage.questions.8.answers.2.text:2 leti
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:26271.0
+passage.questions.8.answers.1.text:21.
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:26270.0
+passage.questions.8.answers.0.text:1 leto
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:26269.0
+passage.questions.7.question:Je Mahender poznal ženske, ki jih je spoznal na železniški postaji?
+passage.questions.7.idx:4930.0
+passage.questions.7.answers.2.text:Zaročena sta
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:26268.0
+passage.questions.7.answers.1.text:Z njo je poročen
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:26267.0
+passage.questions.7.answers.0.text:Da, zaročena sta bila že 5 let
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:26266.0
+passage.questions.6.question:Kako je ime moškemu, ki nastopa v filmu?
+passage.questions.6.idx:4929.0
+passage.questions.6.answers.2.text:Mahender
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:26265.0
+passage.questions.6.answers.1.text:Alex Mahender
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26264.0
+passage.questions.6.answers.0.text:Mahit
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:26263.0
+passage.questions.5.question:Kdo je določil datum poroke z ženo, za katero se Mahender poroči?
+passage.questions.5.idx:4928.0
+passage.questions.5.answers.2.text:Mahenderjev dedek
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:26262.0
+passage.questions.5.answers.1.text:Njegov dedek
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:26261.0
+passage.questions.5.answers.0.text:Maya
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:26260.0
+passage.questions.4.question:Kakšna je Mahenderjeva povezava z gospo, ki poskuša samomor?
+passage.questions.4.idx:4927.0
+passage.questions.4.answers.3.text:Imeli so afero
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:26259.0
+passage.questions.4.answers.2.text:On je njen oče
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:26258.0
+passage.questions.4.answers.1.text:Bil je njen ljubimec
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:26257.0
+passage.questions.4.answers.0.text:Ob policijski dolžnosti
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:26256.0
+passage.questions.3.question:Film se začne s katerima dvema likoma v čakalnici?
+passage.questions.3.idx:4926.0
+passage.questions.3.answers.3.text:Mahender in Sudha
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:26255.0
+passage.questions.3.answers.2.text:Mahender in Maya
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26254.0
+passage.questions.3.answers.1.text:Sudha in Maya
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:26253.0
+passage.questions.3.answers.0.text:Mahender in sudha
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:26252.0
+passage.questions.2.question:Koga Mahender sreča v čakalnici železniške postaje?
+passage.questions.2.idx:4925.0
+passage.questions.2.answers.3.text:Maya
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:26251.0
+passage.questions.2.answers.2.text:Njegova zaročenka
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:26250.0
+passage.questions.2.answers.1.text:Sudha
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:26249.0
+passage.questions.2.answers.0.text:Njegovo dekle
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:26248.0
+passage.questions.11.question:Kaj je Mahenderja potisnilo k preživljanju časa stran od Sudhe?
+passage.questions.11.idx:4934.0
+passage.questions.11.answers.4.text:Tara
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:26287.0
+passage.questions.11.answers.3.text:Mayin poskus samomora
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:26286.0
+passage.questions.11.answers.2.text:Maya
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:26285.0
+passage.questions.11.answers.1.text:Fotografska delavnica njegovega dedka
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:26284.0
+passage.questions.11.answers.0.text:Mayin poskus samomora
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:26283.0
+passage.questions.10.question:Zakaj Maya poskuša samomor?
+passage.questions.10.idx:4933.0
+passage.questions.10.answers.4.text:Razburjena je zaradi Mahenderjeve poroke
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:26282.0
+passage.questions.10.answers.3.text:vedoč o smrti mahenderjev
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:26281.0
+passage.questions.10.answers.2.text:vedeti o poroki mahender
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:26280.0
+passage.questions.10.answers.1.text:Izgubila je sposobnost pisanja poezije
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:26279.0
+passage.questions.10.answers.0.text:Zaljubljena je v Mahenderja
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:26278.0
+passage.questions.1.question:Kako sta imeni obeh žensk, s katerimi je Mahender vpleten?
+passage.questions.1.idx:4924.0
+passage.questions.1.answers.3.text:Lucinda in Sudha
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:26247.0
+passage.questions.1.answers.2.text:Maya in Sudha
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:26246.0
+passage.questions.1.answers.1.text:Sudha in Maya
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26245.0
+passage.questions.1.answers.0.text:Vineetha in tara
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26244.0
+passage.questions.0.question:Čigavo poroko si je uredil dedek?
+passage.questions.0.idx:4923
+passage.questions.0.answers.4.text:Mahender in Maya
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:26243.0
+passage.questions.0.answers.3.text:Mahender in Maya
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:26242.0
+passage.questions.0.answers.2.text:Sudha
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:26241.0
+passage.questions.0.answers.1.text:Mahenderjeva
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26240
+passage.questions.0.answers.0.text:Mahender in sudha
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:26239
+idx:437

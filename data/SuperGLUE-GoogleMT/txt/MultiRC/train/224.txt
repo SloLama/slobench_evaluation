@@ -1,0 +1,182 @@
+version:1.1
+passage.text:Francozi so že od nekdaj želeli vedeti, kaj pomeni biti Francoz. Njihova zgodovina je bila nenehno prizadevanje za nacionalno identiteto: konflikt med močno regionalno zvestobo in osrednjo oblastjo. Približno 2000 pr. N. Št. So keltska plemena - verjetno iz vzhodne Evrope - iskala bolj zelene pašnike na območjih, ki so danes Franche-Comté, Alzacija in Burgundija. Hkrati so migranti iz sredozemskih držav curljali na jug. Prva zabeležena poravnava je bila trgovska postaja, ki so jo postavili maloazijski Fokejski Grki v Massaliji (Marseilles) okoli 600 let pred našim štetjem, sledila pa so druga pristanišča v Hyèresu, Antibesu in Nici. Toda Grki so razvili le malo stikov z notranjostjo, razen malo trgovine z oljkami in vinom z Burgundskimi Kelti. Ko so njihov položaj ogrožali ligurski pirati na morju in bojevita plemena iz notranjosti, so trgovci iz Marseillea na pomoč poklicali Rim. Od Galije do Francije Leta 125 pr. N. Št. So začeli veljati Rimljani, osvojili &quot;galske barbare&quot; in postavili trdnjavo pri Aquae Sextiae (Aix-en-Provence). To novo utrdbo so izkoristili za ustanovitev province (danes Provansa), ki se razteza od Alp do Pirenejev, da bi zagotovili komunikacijo med Italijo in Španijo. Ko je bila ta pokrajina ogrožena zaradi novih napadov s severa, je sam prevzel Julij Cezar, ki je s 50 pr. N. Št. Osvojil praktično celo Galijo. Cezar je potegnil Galovo severovzhodno mejo na Ren ob današnji Belgiji in opozoril, da so germanska plemena čez reka - Franki (po katerih je poimenovana Francija), Alamani in Saki - bi vedno ogrožala varnost meje. Romanizacija Galije je poslala najbolj energične bojevnike, da branijo postojanke imperija, medtem ko so se njihove družine ustalile, da bi obdelovale zemljo ali gradile mesta, kot so Lyon, Orange, Arles in Nîmes, in prve velike avtoceste med njimi. Hkrati so trgovci ustvarili cvetočo trgovino z ostalim Rimskim cesarstvom. Tako se je vzpostavil vzorec kmečkega prebivalstva in meščanstva v Franciji. Krščanstvo je bilo v Galijo uvedeno v prvem stoletju
+passage.questions.9.question:Kakšno utrdbo so Grki uporabili za ustvarjanje Provincije (danes Provansa)?
+passage.questions.9.idx:2516.0
+passage.questions.9.answers.5.text:Ko so vdrli Rimljani
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:13307.0
+passage.questions.9.answers.4.text:Francija
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:13306.0
+passage.questions.9.answers.3.text:Ko so Rimljani vstopili in postavili trdnjavo pri Aquae Sextiae
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:13305.0
+passage.questions.9.answers.2.text:Trdnjava pri Aquae Sextiae (Aix-en-Provence)
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:13304.0
+passage.questions.9.answers.1.text:Massalia (Marseille)
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:13303.0
+passage.questions.9.answers.0.text:Aquae Sextiae (Aix-en-Provence)
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:13302.0
+passage.questions.8.question:Približno v katerem letu so keltska plemena iskala bolj zelene pašnike na območjih, ki so danes Franche-Comté, Alzacija in Burgundija?
+passage.questions.8.idx:2515.0
+passage.questions.8.answers.5.text:2000 € pr
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:13301.0
+passage.questions.8.answers.4.text:125 € pr
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:13300.0
+passage.questions.8.answers.3.text:2000 pr
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:13299.0
+passage.questions.8.answers.2.text:200ad
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:13298.0
+passage.questions.8.answers.1.text:2000 pr
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:13297.0
+passage.questions.8.answers.0.text:50 pr
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:13296.0
+passage.questions.7.question:Kje so bila prva naselja v Franciji?
+passage.questions.7.idx:2514.0
+passage.questions.7.answers.4.text:Lepo
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:13295.0
+passage.questions.7.answers.3.text:Provincia (zdaj Provence)
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:13294.0
+passage.questions.7.answers.2.text:angleščina
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:13293.0
+passage.questions.7.answers.1.text:MarÂseilles
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:13292.0
+passage.questions.7.answers.0.text:Massalia (Marseille)
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:13291.0
+passage.questions.6.question:V katerem letu so Rimljani potovali iz Guala v Francijo?
+passage.questions.6.idx:2513.0
+passage.questions.6.answers.5.text:125 € pr
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:13290.0
+passage.questions.6.answers.4.text:50 € pr
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:13289.0
+passage.questions.6.answers.3.text:125 pr
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:13288.0
+passage.questions.6.answers.2.text:50ac
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:13287.0
+passage.questions.6.answers.1.text:50bc
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:13286.0
+passage.questions.6.answers.0.text:50 pr
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:13285.0
+passage.questions.5.question:Kaj se je dogajalo v Franciji približno leta 2000 pred našim štetjem?
+passage.questions.5.idx:2512.0
+passage.questions.5.answers.5.text:Keltska plemena - verjetno iz vzhodne Evrope - so iskala bolj zelene pašnike na območjih, ki so zdaj Franche-Comté, Alzacija in Burgundija.
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:13284.0
+passage.questions.5.answers.4.text:Rimljani so stopili v veljavo, osvojili &quot;galske barbare&quot; in postavili trdnjavo pri Aquae Sextiae (Aix-en-Provence)
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:13283.0
+passage.questions.5.answers.3.text:Vstopila so keltska plemena
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:13282.0
+passage.questions.5.answers.2.text:Revščina
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:13281.0
+passage.questions.5.answers.1.text:Marseille je bil poravnan
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:13280.0
+passage.questions.5.answers.0.text:Keltska plemena - verjetno iz vzhodne Evrope so prihajala v Franche-Comté, Alzacijo in Burgundijo. , migranti iz sredozemskih držav pa so se cedili na jug
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:13279.0
+passage.questions.4.question:Kdaj so Rimljani postavili trdnjavo v Aquae Sextiae (Aix-en-Provence)?
+passage.questions.4.idx:2511.0
+passage.questions.4.answers.4.text:125 € pr
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:13278.0
+passage.questions.4.answers.3.text:1999
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:13277.0
+passage.questions.4.answers.2.text:125 pr
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:13276.0
+passage.questions.4.answers.1.text:50 € pr
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:13275.0
+passage.questions.4.answers.0.text:50 pr
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:13274.0
+passage.questions.3.question:Katero naselje je bilo prvo, Marseille ali Nica?
+passage.questions.3.idx:2510.0
+passage.questions.3.answers.2.text:Lepo
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:13273.0
+passage.questions.3.answers.1.text:Massalia (Marseille) okoli 600 pr
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:13272.0
+passage.questions.3.answers.0.text:Marseille
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:13271.0
+passage.questions.2.question:Kako je bil vzpostavljen vzorec za kmečko in buržoazijsko Francijo?
+passage.questions.2.idx:2509.0
+passage.questions.2.answers.4.text:Ko so vdrli Rimljani
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:13270.0
+passage.questions.2.answers.3.text:Romanizacija Galije je poslala najbolj energične bojevnike, da branijo postojanke imperija, medtem ko so se njihove družine ustalile, da bi obdelovale zemljo ali gradile mesta, kot so Lyon, Orange, Arles in Nîmes, in prve velike avtoceste med njimi. Hkrati so trgovci ustvarili cvetočo trgovino z ostalim Rimskim cesarstvom
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:13269.0
+passage.questions.2.answers.2.text:Uvedeno je bilo krščanstvo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:13268.0
+passage.questions.2.answers.1.text:angleščina
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:13267.0
+passage.questions.2.answers.0.text:Trgovci so z rimskim imperijem vzpostavili uspešno trgovino
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13266.0
+passage.questions.1.question:Kateri sta bili prvi dve naselji Rimljanov?
+passage.questions.1.idx:2508.0
+passage.questions.1.answers.4.text:Massalia (Marseilles) in Provincia (zdaj Provence)
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:13265.0
+passage.questions.1.answers.3.text:Italija
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13264.0
+passage.questions.1.answers.2.text:Aquae Sextiae (Aix-en-Provence) in Provincia (zdaj Provence)
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:13263.0
+passage.questions.1.answers.1.text:V Aquae Sextiae in Provincia
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:13262.0
+passage.questions.1.answers.0.text:V Marseillesu in Nici
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13261.0
+passage.questions.0.question:Katere skupine so se okoli leta 2000 pred našim štetjem naselile v Franciji?
+passage.questions.0.idx:2507
+passage.questions.0.answers.5.text:Rimljani
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:13260.0
+passage.questions.0.answers.4.text:Keltska plemena in priseljenci iz Sredozemlja
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:13259.0
+passage.questions.0.answers.3.text:Antibes
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:13258.0
+passage.questions.0.answers.2.text:Keltska plemena
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:13257.0
+passage.questions.0.answers.1.text:angleščina
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13256
+passage.questions.0.answers.0.text:Keltska plemena - verjetno iz vzhodne Evrope in migranti iz sredozemskih držav
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:13255
+idx:224

@@ -1,0 +1,6 @@
+choice1:Njen prijatelj je pozabil prinesti kosilo.
+choice2:Na kosilu je poleg nje sedela njena prijateljica.
+idx:341
+label:0
+premise:Kosilo je delilo kosilo s prijateljico.
+question:cause

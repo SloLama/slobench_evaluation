@@ -1,0 +1,6 @@
+choice1:Pacient je tožil zdravnika zaradi malomarnosti.
+choice2:Pacient je zdravniku razkril zaupne podatke.
+idx:8
+label:0
+premise:Zdravnik je napačno diagnosticiral pacienta.
+question:effect

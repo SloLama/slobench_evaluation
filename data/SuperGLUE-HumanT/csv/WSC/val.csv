@@ -1,0 +1,105 @@
+idx,text,span1_index,span1_text,span2_index,span2_text,label
+0,"Bernard, ki vladnemu uslužbencu ni povedal, da je bil star manj kot 21 let, ko je vložil zahtevek za lastništvo zemlje, ni menil, da je storil kaj nepoštenega. Kljub temu bi lahko kdorkoli , ki je vedel, da je bil star 19 let, spodbijal njegovo lastništvo.",32,kdorkoli,44,njegovo,False
+1,"Gospod Moncrieff je obiskal Chesterjevo razkošno njujorško stanovanje, misleč, da pripada njegovemu sinu, Edwardu. Posledično se je gospod Moncrieff odločil odpovedati Edwardovo preživnino, saj je bil prepričan, da ne potrebuje več njegove finančne pomoči.",0,Gospod Moncrieff,31,njegove,True
+2,"Želel sem naslikati sliko sadovnjaka, z limonami na limonovcih , vendar se zdijo bolj kot žarnice.",8,limonovcih,11,se zdijo,False
+3,"Še vedno do takrat je Larry očetu pomagal pri njegovem delu. Vendar mu zdaj ni mogel pomagati, saj je oče rekel, da njegov šef pri železniški družbi v pisarni ne želi nikogar drugega razen njega.",5,Larry,22,njegov,False
+4,"Ker je bil Chester odvisen od strica Vernona, se res ni mogel poročiti brez njegove privolitve.",3,Chester,14,njegove,False
+5,"Velika krogla je treščila naravnost skozi mizo , saj je bila iz stiroporja.",6,mizo,9,je bila,True
+6,"Pot do reke je bila zaprta, zato je nismo mogli uporabljati.",0,Pot,7,je,True
+7,"Medtem ko sta Nancy in Ellen preštevali srebrnino, je gospa Smith pohitela po stopnicah navzgor. Čez nekaj minut se je vrnila in že sam pogled na njen prizadeti obraz je dekletoma dal vedeti, da dragocenega zemljevida ni bilo več.",5,Ellen,26,njen,False
+8,"Medtem v gozdu sloni kličejo in vsevprek iščejo Arthurja in Celeste in njuni mami sta zelo zaskrbljeni. Medtem ko leti čez mesto, ju k sreči vidi stari marabu in se hitro vrne, da bi predal novico.",12,njuni mami,22,ju,False
+9,Uporabnik je vstopil v banko in zabodel enega od uslužbencev. Nemudoma so ga odpeljali v bolnico.,0,Uporabnik,12,ga,False
+10,"Jane je dala Joan sladkarije, ker je bila lačna.",0,Jane,6,je bila,False
+11,"Želel sem naslikati sliko sadovnjaka, z limonami na limonovcih, vendar se zdijo bolj kot žarnice.",6,limonami,10,se zdijo,True
+12,"Alice je v salonu brisala prah in poskušala najti gumb, ki ga je skrila mama . Danes ni bilo časa, da bi si ogledovala stare slike v svojem najljubšem foto albumu. Danes je morala iskati gumb, zato je album položila na stol, ne da bi ga sploh odprla.",14,mama,27,svojem,False
+13,"Larry, plašen najstnik, z ovdovelo mamo živi v brooklynskem naselju za reveže. Larryjevega očeta, ki je bil vodja tolpe, so ustrelili; očetov učenec, Antonio, vzame Larryja pod svoje krilo in ga hitro izuči za tihotapca drog.",23,Antonio,27,svoje,True
+14,"Alice je v salonu brisala prah in poskušala najti gumb, ki ga je skrila mama. Danes ni bilo časa, da bi si ogledovala stare slike v svojem najljubšem foto albumu. Danes je morala iskati gumb, zato je album položila na stol, ne da bi ga sploh odprla.",40,stol,44,ga,False
+15,"Larry, plašen najstnik, z ovdovelo mamo živi v brooklynskem naselju za reveže. Larryjevega očeta, ki je bil vodja tolpe, so ustrelili; očetov učenec, Antonio, vzame Larryja pod svoje krilo in ga hitro izuči za tihotapca drog.",0,Larry,27,svoje,False
+16,"Alice je v salonu brisala prah in poskušala najti gumb, ki ga je skrila mama. Danes ni bilo časa, da bi si ogledovala stare slike v svojem najljubšem foto albumu. Danes je morala iskati gumb, zato je album položila na stol, ne da bi ga sploh odprla.",3,salonu,44,ga,False
+17,"Gospod Moncrieff je obiskal Chesterjevo razkošno njujorško stanovanje, misleč, da pripada njegovemu sinu, Edwardu. Posledično se je gospod Moncrieff odločil odpovedati Edwardovo preživnino, saj je bil prepričan, da ne potrebuje več njegove finančne pomoči.",13,Edwardu,28,ne potrebuje,True
+18,"Fred je gledal TV, medtem ko je George šel ven po nakupih. Čez eno uro se je vrnil .",0,Fred,15,se je vrnil,False
+19,"Medtem v gozdu sloni kličejo in vsevprek iščejo Arthurja in Celeste in njuni mami sta zelo zaskrbljeni. Medtem ko leti čez mesto, ju k sreči vidi stari marabu in se hitro vrne, da bi predal novico.",8,Arthurja in Celeste,22,ju,True
+20,"Ker je bil Chester odvisen od strica Vernona, se res ni mogel poročiti brez njegove privolitve.",3,Chester,11,mogel,True
+21,"Jane je dala Joan sladkarije, ker ni bila lačna.",3,Joan,6,ni bila,False
+22,"Še vedno do takrat je Larry očetu pomagal pri njegovem delu. Vendar mu zdaj ni mogel pomagati, saj je oče rekel, da njegov šef pri železniški družbi v pisarni ne želi nikogar drugega razen njega.",6,očetu,15,mogel,False
+23,"Velika krogla je treščila naravnost skozi mizo , saj je bila iz jekla.",6,mizo,9,je bila,False
+24,"Larry, plašen najstnik, z ovdovelo mamo živi v brooklynskem naselju za reveže. Larryjevega očeta, ki je bil vodja tolpe, so ustrelili; očetov učenec, Antonio, vzame Larryja pod svoje krilo in ga hitro izuči za tihotapca drog.",12,Larryjevega očeta,27,svoje,False
+25,"Zelo zadovoljen s svojimi nakupi in z občutkom, da je izjemno eleganten, Babar stopi k fotografu , da posname njegovo sliko.",15,fotografu,3,svojimi,False
+26,"Še vedno do takrat je Larry očetu pomagal pri njegovem delu. Vendar mu zdaj ni mogel pomagati, saj je oče rekel, da njegov šef pri železniški družbi v pisarni ne želi nikogar drugega razen njega.",6,očetu,12,mu,True
+27,"Gospod Moncrieff je obiskal Chesterjevo razkošno njujorško stanovanje, misleč, da pripada njegovemu sinu, Edwardu. Posledično se je gospod Moncrieff odločil odpovedati Edwardovo preživnino, saj je bil prepričan, da ne potrebuje več njegove finančne pomoči.",13,Edwardu,31,njegove,False
+28,"Pot do reke je bila zaprta, zato je nismo mogli uporabljati.",2,reke,7,je,False
+29,Vsem so bili zelo všeč ovseni piškoti ; le redkim so bili všeč piškoti s koščki čokolade. Naslednjič jih moramo narediti več.,5,ovseni piškoti,18,jih,True
+30,"Konjski hlev je bil zelo prostoren, s štirimi velikimi boksi; na dvorišče se je odpiralo visoko okno na tečajih, ki ga je naredilo prijetnega in zračnega.",0,Konjski hlev,20,ga,True
+31,"Oče je pogledal obraze otrok, ki so bili zdaj zelo zmedeni in žalostni. Kot da ni bilo dovolj že to, da so prikrajšani za toliko reči, zato ker si jih ni mogel privoščiti.",3,obraze,21,so prikrajšani,False
+32,"Joev stric ga še vedno premaga pri tenisu, čeprav je 30 let starejši.",0,Joev,9,je,False
+33,"Vsak dan po kosilu je g. Schmidt za daljši čas zadremal. Mark mu je pustil spati eno uro, potem ga je zbudil, oštel in ga spravil k delu. Želel je, da konča z delom, saj je bilo njegovo delo čudovito.",11,Mark,37,njegovo,False
+34,"Oče je pogledal obraze otrok, ki so bili zdaj zelo zmedeni in žalostni. Kot da ni bilo dovolj že to, da so prikrajšani za toliko reči, zato ker si jih ni mogel privoščiti.",3,obraze,29,jih,False
+35,"Gospod Moncrieff je obiskal Chesterjevo razkošno njujorško stanovanje, misleč, da pripada njegovemu sinu, Edwardu. Posledično se je gospod Moncrieff odločil odpovedati Edwardovo preživnino, saj je bil prepričan, da ne potrebuje več njegove finančne pomoči.",4,Chesterjevo,28,ne potrebuje,False
+36,"Oče je pogledal obraze otrok, ki so bili zdaj zelo zmedeni in žalostni. Kot da ni bilo dovolj že to, da so prikrajšani za toliko reči , zato ker si jih ni mogel privoščiti.",25,reči,30,jih,True
+37,"Sam in Amy sta strastno zaljubljena, vendar sta Amyjina starša s tem nezadovoljna, saj sta snoba.",8,Amyjina starša,14,sta,True
+38,"Moški so imeli pravico, da njihovi sinovi delajo za njih, dokler niso dopolnili 21 let.",0,Moški,11,niso dopolnili,False
+39,"Pot do reke je bila zaprta, zato je nismo mogli doseči.",0,Pot,7,je,False
+40,"Gospod Moncrieff je obiskal Chesterjevo razkošno njujorško stanovanje, misleč, da pripada njegovemu sinu, Edwardu. Posledično se je gospod Moncrieff odločil odpovedati Edwardovo preživnino, saj je bil prepričan, da ne potrebuje več njegove finančne pomoči.",0,Gospod Moncrieff,28,ne potrebuje,False
+41,"Fred je gledal TV, medtem ko je George šel ven po nakupih. Čez eno uro je vstal .",0,Fred,15,je vstal,True
+42,"Ko so se končno malo pomirili in prispeli domov, je gospod Farley pospravil čarobni kamenček v jeklen sef . Nekega dne ga bodo morda želeli uporabiti, ampak zaenkrat si res niso mogli želeti nič drugega.",17,sef,21,ga,False
+43,"Še vedno do takrat je Larry očetu pomagal pri njegovem delu. Vendar mu zdaj ni mogel pomagati, saj je oče rekel, da njegov šef pri železniški družbi v pisarni ne želi nikogar drugega razen njega.",5,Larry,15,mogel,True
+44,"Medtem v gozdu sloni kličejo in vsevprek iščejo Arthurja in Celeste in njuni mami sta zelo zaskrbljeni. Medtem ko leti čez mesto, ju k sreči vidi stari marabu in se hitro vrne, da bi predal novico.",3,sloni,12,njuni,False
+45,"Želel sem naslikati sliko sadovnjaka, z limonami na limonovcih, vendar se zdijo bolj kot žarnice.",6,limonami,10,se zdijo,True
+46,"Jane je dala Joan sladkarije, ker je bila lačna.",3,Joan,6,je bila,True
+47,"Ker je bil Chester odvisen od strica Vernona , se res ni mogel poročiti brez njegove privolitve.",6,strica Vernona,15,njegove,True
+48,"Bernard, ki vladnemu uslužbencu ni povedal, da je bil star manj kot 21 let, ko je vložil zahtevek za lastništvo zemlje, ni menil, da je storil kaj nepoštenega. Kljub temu bi lahko kdorkoli, ki je vedel, da je bil star 19 let, spodbijal njegovo lastništvo.",0,Bernard,21,ni menil,True
+49,"Oče je pogledal obraze otrok , ki so bili zdaj zelo zmedeni in žalostni. Kot da ni bilo dovolj že to, da so prikrajšani za toliko reči, zato ker si jih ni mogel privoščiti.",4,otrok,30,jih,False
+50,"Bill je napol prazen krožnik podal Johnu , ker je bil sit.",6,Johnu,9,je bil,False
+51,"Medtem ko jo je potrepljala po hrbtu, se je ženska nasmehnila deklici.",9,ženska,2,jo,False
+52,"Fred je gledal TV, medtem ko je George šel ven po nakupih. Čez eno uro je vstal .",7,George,15,je vstal,False
+53,"Nekega dne je Dick nadlegoval žrebeta in ni vedel, da je gospodar v sosednjem polju; a ta je bil tam in opazoval, kaj se dogaja; v trenutku je skočil čez živo mejo in Dicka zagrabil za roko ter ga udaril tako močno, da je zavpil od bolečine in presenečenja.",3,Dick,27,je skočil,False
+54,"Jane je dala Joan sladkarije, ker ni bila lačna.",0,Jane,6,ni bila,True
+55,"Alice je v salonu brisala prah in poskušala najti gumb, ki ga je skrila mama. Danes ni bilo časa, da bi si ogledovala stare slike v svojem najljubšem foto albumu. Danes je morala iskati gumb, zato je album položila na stol, ne da bi ga sploh odprla.",9,gumb,44,ga,False
+56,"Sam in Amy sta strastno zaljubljena, vendar sta Amyjina starša s tem nezadovoljna, saj sta stara petnajst let.",8,Amyjina starša,14,sta,False
+57,Lastniki trgovin so ostali v mestu in vodili svoje prodajalne ter živeli v sobah za njimi .,9,prodajalne,15,njimi,True
+58,"Bernard, ki vladnemu uslužbencu ni povedal, da je bil star manj kot 21 let, ko je vložil zahtevek za lastništvo zemlje, ni menil, da je storil kaj nepoštenega. Kljub temu bi lahko kdorkoli, ki je vedel, da je bil star 19 let, spodbijal njegovo lastništvo.",2,vladnemu uslužbencu,7,je bil,False
+59,"Velika krogla je treščila naravnost skozi mizo, saj je bila iz stiroporja.",0,Velika krogla,8,je bila,False
+60,"Sam in Amy sta strastno zaljubljena, vendar sta Amyjina starša s tem nezadovoljna, saj sta snoba.",0,Sam in Amy,14,sta,False
+61,"Potem je oče ugotovil, koliko je moški dolgoval trgovini; k temu je dodal še vsoto, ki jo je mož dolgoval kuhinji. Ta seštevek je potem odštel od možakarjevega zaslužka in mu napisal ček.",6,moški,25,odštel,False
+62,"Gospod Moncrieff je obiskal Chesterjevo razkošno njujorško stanovanje, misleč, da pripada njegovemu sinu, Edwardu. Posledično se je gospod Moncrieff odločil odpovedati Edwardovo preživnino, saj je bil prepričan, da ne potrebuje več njegove finančne pomoči.",4,Chesterjevo,31,njegove,False
+63,"Joev stric ga še vedno premaga pri tenisu, čeprav je 30 let starejši.",0,Joev stric,9,je,True
+64,"Nekega dne je Dick nadlegoval žrebeta in ni vedel, da je gospodar v sosednjem polju; a ta je bil tam in opazoval, kaj se dogaja; v trenutku je skočil čez živo mejo in Dicka zagrabil za roko ter ga udaril tako močno, da je zavpil od bolečine in presenečenja.",11,gospodar,27,je skočil,True
+65,"Medtem v gozdu sloni kličejo in vsevprek iščejo Arthurja in Celeste in njuni mami sta zelo zaskrbljeni. Medtem ko leti čez mesto, ju k sreči vidi stari marabu in se hitro vrne, da bi predal novico.",3,sloni,22,ju,False
+66,"Nekega dne je Dick nadlegoval žrebeta in ni vedel, da je gospodar v sosednjem polju; a ta je bil tam in opazoval, kaj se dogaja; v trenutku je skočil čez živo mejo in Dicka zagrabil za roko ter ga udaril tako močno, da je zavpil od bolečine in presenečenja.",11,gospodar,43,je zavpil,False
+67,"Bernard, ki vladnemu uslužbencu ni povedal, da je bil star manj kot 21 let, ko je vložil zahtevek za lastništvo zemlje, ni menil, da je storil kaj nepoštenega. Kljub temu bi lahko kdorkoli, ki je vedel, da je bil star 19 let, spodbijal njegovo lastništvo.",0,Bernard,7,je bil,True
+68,"Konjski hlev je bil zelo prostoren, s štirimi velikimi boksi; na dvorišče se je odpiralo visoko okno na tečajih, ki ga je naredilo prijetnega in zračnega.",11,dvorišče,20,ga,False
+69,"Še vedno do takrat je Larry očetu pomagal pri njegovem delu. Vendar mu zdaj ni mogel pomagati, saj je oče rekel, da njegov šef pri železniški družbi v pisarni ne želi nikogar drugega razen njega.",5,Larry,12,mu,False
+70,"Joev stric ga še vedno premaga pri tenisu, čeprav je 30 let mlajši.",0,Joev stric,9,je,False
+71,"Konjski hlev je bil zelo prostoren, s štirimi velikimi boksi; na dvorišče se je odpiralo visoko okno na tečajih, ki ga je naredilo prijetnega in zračnega.",16,okno,20,ga,False
+72,"Velika krogla je treščila naravnost skozi mizo, saj je bila iz jekla.",0,Velika krogla,8,je bila,True
+73,"Nekega dne je Dick nadlegoval žrebeta in ni vedel, da je gospodar v sosednjem polju; a ta je bil tam in opazoval, kaj se dogaja; v trenutku je skočil čez živo mejo in Dicka zagrabil za roko ter ga udaril tako močno, da je zavpil od bolečine in presenečenja.",11,gospodar,17,je bil,True
+74,"Alice je v salonu brisala prah in poskušala najti gumb, ki ga je skrila mama . Danes ni bilo časa, da bi si ogledovala stare slike v svojem najljubšem foto albumu. Danes je morala iskati gumb, zato je album položila na stol, ne da bi ga sploh odprla.",14,mama,33,morala,False
+75,"Nekega dne je Dick nadlegoval žrebeta in ni vedel, da je gospodar v sosednjem polju; a ta je bil tam in opazoval, kaj se dogaja; v trenutku je skočil čez živo mejo in Dicka zagrabil za roko ter ga udaril tako močno, da je zavpil od bolečine in presenečenja.",3,Dick,38,ga,True
+76,"Fred je gledal TV, medtem ko je George šel ven po nakupih. Čez eno uro se je vrnil .",7,George,15,se je vrnil,True
+77,"Oče je pogledal obraze otrok , ki so bili zdaj zelo zmedeni in žalostni. Kot da ni bilo dovolj že to, da so prikrajšani za toliko reči, zato ker si jih ni mogel privoščiti.",4,otrok,22,so prikrajšani,True
+78,"Joev stric ga še vedno premaga pri tenisu, čeprav je 30 let mlajši.",0,Joev,9,je,True
+79,"Nekega dne je Dick nadlegoval žrebeta in ni vedel, da je gospodar v sosednjem polju; a ta je bil tam in opazoval, kaj se dogaja; v trenutku je skočil čez živo mejo in Dicka zagrabil za roko ter ga udaril tako močno, da je zavpil od bolečine in presenečenja.",11,gospodar,38,ga,False
+80,"Ker je bil Chester odvisen od strica Vernona , se res ni mogel poročiti brez njegove privolitve.",6,strica Vernona,13,poročiti,False
+81,Vsem so bili zelo všeč ovseni piškoti ; le redkim so bili všeč piškoti s koščki čokolade. Naslednjič jih moramo narediti manj.,5,ovseni piškoti,18,jih,False
+82,"Medtem ko sta Nancy in Ellen preštevali srebrnino, je gospa Smith pohitela po stopnicah navzgor. Čez nekaj minut se je vrnila in že sam pogled na njen prizadeti obraz je dekletoma dal vedeti, da dragocenega zemljevida ni bilo več.",3,Nancy,26,njen,False
+83,"Gospod Taylor je bil jezljive narave, njegovo splošno prepričanje pa je bilo, da je David ubog bedak in da so načrti, ki si jih je izmislil on, le še en dokaz njegove prirojene neumnosti.",0,Gospod Taylor,31,njegove,False
+84,Lastniki trgovin so ostali v mestu in vodili svoje prodajalne ter živeli v sobah za njimi .,13,sobah,15,njimi,False
+85,"Bernard, ki vladnemu uslužbencu ni povedal, da je bil star manj kot 21 let, ko je vložil zahtevek za lastništvo zemlje, ni menil, da je storil kaj nepoštenega. Kljub temu bi lahko kdorkoli, ki je vedel, da je bil star 19 let, spodbijal njegovo lastništvo.",2,vladnemu uslužbencu,24,je storil,False
+86,"Nekega dne je Dick nadlegoval žrebeta in ni vedel, da je gospodar v sosednjem polju; a ta je bil tam in opazoval, kaj se dogaja; v trenutku je skočil čez živo mejo in Dicka zagrabil za roko ter ga udaril tako močno, da je zavpil od bolečine in presenečenja.",3,Dick,17,je bil,False
+87,"Pot do reke je bila zaprta, zato je nismo mogli doseči.",2,reke,7,je,True
+88,"Bernard, ki vladnemu uslužbencu ni povedal, da je bil star manj kot 21 let, ko je vložil zahtevek za lastništvo zemlje, ni menil, da je storil kaj nepoštenega. Kljub temu bi lahko kdorkoli, ki je vedel, da je bil star 19 let, spodbijal njegovo lastništvo.",2,vladnemu uslužbencu,43,njegovo,False
+89,Vsem so bili zelo všeč ovseni piškoti; le redkim so bili všeč piškoti s koščki čokolade . Naslednjič jih moramo narediti več.,12,piškoti s koščki čokolade,18,jih,False
+90,"Alice je v salonu brisala prah in poskušala najti gumb, ki ga je skrila mama. Danes ni bilo časa, da bi si ogledovala stare slike v svojem najljubšem foto albumu . Danes je morala iskati gumb, zato je album položila na stol, ne da bi ga sploh odprla.",29,albumu,45,ga,True
+91,"Zelo zadovoljen s svojimi nakupi in z občutkom, da je izjemno eleganten, Babar stopi k fotografu , da posname njegovo sliko.",15,fotografu,19,njegovo,False
+92,"Vsak dan po kosilu je g. Schmidt za daljši čas zadremal. Mark mu je pustil spati eno uro, potem ga je zbudil, oštel in ga spravil k delu. Želel je , da konča z delom, saj je bilo njegovo delo čudovito.",11,Mark,28,Želel je,True
+93,"Nekega dne je Dick nadlegoval žrebeta in ni vedel, da je gospodar v sosednjem polju; a ta je bil tam in opazoval, kaj se dogaja; v trenutku je skočil čez živo mejo in Dicka zagrabil za roko ter ga udaril tako močno, da je zavpil od bolečine in presenečenja.",3,Dick,17,je bil,False
+94,"Vsak dan po kosilu je g. Schmidt za daljši čas zadremal. Mark mu je pustil spati eno uro, potem ga je zbudil, oštel in ga spravil k delu. Želel je , da konča z delom, saj je bilo njegovo delo čudovito.",5,g. Schmidt,28,Želel je,False
+95,"Medtem v gozdu sloni kličejo in vsevprek iščejo Arthurja in Celeste in njuni mami sta zelo zaskrbljeni. Medtem ko leti čez mesto, ju k sreči vidi stari marabu in se hitro vrne, da bi predal novico.",13,mami,12,njuni,False
+96,Uporabnik je vstopil v banko in zabodel enega od uslužbencev. Nemudoma so ga odpeljali na policijsko postajo.,0,Uporabnik,12,ga,True
+97,"Želel sem naslikati sliko sadovnjaka, z limonami na limonovcih , vendar se zdijo bolj kot žarnice.",8,limonovcih,11,se zdijo,False
+98,Lastniki trgovin so ostali v mestu in vodili svoje prodajalne ter živeli v sobah za njimi .,0,Lastniki trgovin,15,njimi,False
+99,"Vsak dan po kosilu je g. Schmidt za daljši čas zadremal. Mark mu je pustil spati eno uro, potem ga je zbudil, oštel in ga spravil k delu. Želel je, da konča z delom, saj je bilo njegovo delo čudovito.",5,g. Schmidt,37,njegovo,True
+100,"Bill je napol prazen krožnik podal Johnu, ker je bil lačen.",0,Bill,8,je bil,False
+101,"Medtem v gozdu sloni kličejo in vsevprek iščejo Arthurja in Celeste in njuni mami sta zelo zaskrbljeni. Medtem ko leti čez mesto, ju k sreči vidi stari marabu in se hitro vrne, da bi predal novico.",8,Arthurja in Celeste,12,njuni,True
+102,"Še vedno do takrat je Larry očetu pomagal pri njegovem delu. Vendar mu zdaj ni mogel pomagati, saj je oče rekel, da njegov šef pri železniški družbi v pisarni ne želi nikogar drugega razen njega.",6,očetu,22,njegov,True
+103,"Sam in Amy sta strastno zaljubljena, vendar sta Amyjina starša s tem nezadovoljna, saj sta stara petnajst let.",0,Sam in Amy,14,sta,True

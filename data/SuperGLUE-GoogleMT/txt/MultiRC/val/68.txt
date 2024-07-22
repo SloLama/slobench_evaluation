@@ -1,0 +1,234 @@
+version:1.1
+passage.text:Bin Laden je začel dajati diatribe proti ZDA, preden je zapustil Savdsko Arabijo. Tako je nadaljeval tudi po prihodu v Sudan. V začetku leta 1992 je vodstvo Al Kaide izdalo fetvo s pozivom k džihadu proti zahodni &quot;okupaciji&quot; islamskih dežel. Jezik je bil posebej izpostavil ameriške sile za napad, jezik pa je bil podoben tistemu, ki se bo pojavil v javni fetvi Bin Ladena avgusta 1996. V naslednjih tednih je Bin Laden pogosto ponavljal predavanje o nujnosti odrezanja &quot;glave kači&quot;. V tistem času je bil Bin Laden dobro znan in visoko osebnost med islamističnimi skrajneži, zlasti tistimi v Egiptu, na Arabskem polotoku in v mejni regiji med Afganistanom in Pakistanom. Kljub temu je bil le eden izmed mnogih raznolikih terorističnih baronov. Nekateri Bin Ladnovi bližnji tovariši so bili bolj vrstniki kot podrejeni. Na primer, Usama Asmurai, znan tudi kot Wali Khan, je v začetku osemdesetih delal z Bin Ladnom in mu pomagal na Filipinih in v Tadžikistanu. V mreži je bil tudi egiptovski duhovni vodnik s sedežem v New Jerseyju, slepi šejk, ki ga je občudoval Bin Laden. Med simpatičnimi vrstniki v Afganistanu je bilo nekaj vojskovodij, ki so se še borili za oblast, in Abu Zubaydah, ki je pomagal upravljati priljubljeno teroristično taborišče za trening blizu meje s Pakistanom. Bili so tudi brezkoreninski, a izkušeni operativci, kot sta Ramzi Yousef in Khalid Sheikh Mohammed, ki - čeprav ne nujno formalni člani organizacije nekoga drugega - potujejo po svetu in se pridružujejo projektom, ki jih podpira Bin Laden, slepi Šejk ali njihovi sodelavci. Ko bi zdaj analizirali teroristične programe, ki jih izvajajo člani te mreže, bi bilo zavajajoče, če bi v teh zgodnjih letih prepogosto uporabljali oznako &quot;operacije Al Kaide&quot;. Vendar bi bilo zavajajoče tudi prezreti pomen teh povezav. In v tej mreži je izstopal dnevni red Bin Ladena. Medtem ko so bile njegove zavezniške islamistične skupine osredotočene na lokalne bitke, na primer v Egiptu, Alžiriji, Bosni ali Čečeniji, se je Bin Laden osredotočil na napad na &quot;daljnega sovražnika&quot; - ZDA. Po napotitvi ameriških vojakov v Somalijo konec leta 1992 so voditelji Al Kaide oblikovali fetvo, ki je zahtevala njihovo deložacijo. Decembra so bombe eksplodirale v dveh hotelih v Adenu, kjer so se ameriške čete rutinsko ustavile na poti v Somalijo, pri čemer sta umrla dva, Američanov pa ni bilo.
+passage.questions.9.question:Kako so voditelji AL Kaide govorili o prihodu ameriških sil v Somalijo?
+passage.questions.9.idx:785.0
+passage.questions.9.answers.4.text:Oblikovali so mrežo
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:3912.0
+passage.questions.9.answers.3.text:V svoj hotel pošljejo samomorilce
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:3911.0
+passage.questions.9.answers.2.text:Dve njihovi bombi sta eksplodirali tam, kjer so se ameriške čete ustavile.
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3910.0
+passage.questions.9.answers.1.text:Bombardirana sta bila dva hotela v Adenu
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3909.0
+passage.questions.9.answers.0.text:Oblikovali so fetvo
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3908.0
+passage.questions.8.question:Kam je šel Bin Laden po odhodu iz Savdske Arabije
+passage.questions.8.idx:784.0
+passage.questions.8.answers.7.text:Iraku
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:3907.0
+passage.questions.8.answers.6.text:ZDA
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:3906.0
+passage.questions.8.answers.5.text:Iran
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:3905.0
+passage.questions.8.answers.4.text:zahod
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:3904.0
+passage.questions.8.answers.3.text:Savdska Arabija
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:3903.0
+passage.questions.8.answers.2.text:Egipt
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3902.0
+passage.questions.8.answers.1.text:Somalija
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:3901.0
+passage.questions.8.answers.0.text:Sudan
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:3900.0
+passage.questions.7.question:Na koga se nanaša Bin Laden, ko se sklicuje na &quot;glavo kače&quot;?
+passage.questions.7.idx:783.0
+passage.questions.7.answers.7.text:Sudan
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:3899.0
+passage.questions.7.answers.6.text:Iraku
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:3898.0
+passage.questions.7.answers.5.text:Iran
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3897.0
+passage.questions.7.answers.4.text:al kaida
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:3896.0
+passage.questions.7.answers.3.text:Savdska Arabija
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:3895.0
+passage.questions.7.answers.2.text:Somalija
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3894.0
+passage.questions.7.answers.1.text:ZDA
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3893.0
+passage.questions.7.answers.0.text:Ameriške sile
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3892.0
+passage.questions.6.question:Navedite državo, v kateri so bile razporejene ameriške čete, in mesto, kjer je Al Kaida postavila dve bombi.
+passage.questions.6.idx:782.0
+passage.questions.6.answers.6.text:Sudan
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:3891.0
+passage.questions.6.answers.5.text:Iraku
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:3890.0
+passage.questions.6.answers.4.text:ZDA
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:3889.0
+passage.questions.6.answers.3.text:Iran
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3888.0
+passage.questions.6.answers.2.text:zahod
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3887.0
+passage.questions.6.answers.1.text:Savdska Arabija
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:3886.0
+passage.questions.6.answers.0.text:Somalija
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:3885.0
+passage.questions.5.question:Kako sta bili imeni in kraji dveh vrstnikov bin Ladina?
+passage.questions.5.idx:781.0
+passage.questions.5.answers.3.text:Slepi šeik - Sudan
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3884.0
+passage.questions.5.answers.2.text:Usama Asmurai - Egipt
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3883.0
+passage.questions.5.answers.1.text:Usama Asmurai - Filipini
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3882.0
+passage.questions.5.answers.0.text:Slepi šeik - New Jersey
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3881.0
+passage.questions.4.question:V katerem letu je izšla Bin Ladenova Fatwa, ki je vsebovala besedilo, ki ga je prvotno izdala katera skupina štiri leta prej?
+passage.questions.4.idx:780.0
+passage.questions.4.answers.3.text:Fetva se je pojavila leta 1992 in njeno besedilo je bilo podobno besedilu kaide nekaj let prej
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3880.0
+passage.questions.4.answers.2.text:Fetva je bila izdana leta 1995 in je bila podobna tistim ameriškega zunanjega ministrstva
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3879.0
+passage.questions.4.answers.1.text:1996 in al Quaeda
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3878.0
+passage.questions.4.answers.0.text:Fetva leta 1996 in njeno besedilo je bilo podobno tistemu iz Kaide nekaj let prej
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3877.0
+passage.questions.3.question:Na katerih dveh lokacijah je Bin Laden dostavljal diatribe?
+passage.questions.3.idx:779.0
+passage.questions.3.answers.8.text:Iraku
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:3876.0
+passage.questions.3.answers.7.text:ZDA
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:3875.0
+passage.questions.3.answers.6.text:Iran
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:3874.0
+passage.questions.3.answers.5.text:zahod
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:3873.0
+passage.questions.3.answers.4.text:Egipt
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3872.0
+passage.questions.3.answers.3.text:Arabskem polotoku
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3871.0
+passage.questions.3.answers.2.text:Somalija
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3870.0
+passage.questions.3.answers.1.text:Sudan
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3869.0
+passage.questions.3.answers.0.text:Savdska Arabija
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3868.0
+passage.questions.2.question:Je bil Bin Laden edini teroristični vodja?
+passage.questions.2.idx:778
+passage.questions.2.answers.2.text:Ja mogoče
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3867.0
+passage.questions.2.answers.1.text:Ne
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:3866
+passage.questions.2.answers.0.text:Bin Laden je bil eden izmed mnogih terorističnih barov.
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3865
+passage.questions.11.question:Kdo je veljal za vrstnike Bin Ladena?
+passage.questions.11.idx:787.0
+passage.questions.11.answers.6.text:Ameriške čete
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:3926.0
+passage.questions.11.answers.5.text:Gluhi šeik
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:3925.0
+passage.questions.11.answers.4.text:Abu Zubaydah
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:3924.0
+passage.questions.11.answers.3.text:slepi šejk
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:3923.0
+passage.questions.11.answers.2.text:Wali Khan
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:3922.0
+passage.questions.11.answers.1.text:Usama Asmurai
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:3921.0
+passage.questions.11.answers.0.text:Egipčanski duhovni vodnik
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:3920.0
+passage.questions.10.question:V čem se je program Bin Ladna razlikoval od vrstnikov?
+passage.questions.10.idx:786.0
+passage.questions.10.answers.6.text:Bil je dobro znan med islamskimi teroristi
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:3919.0
+passage.questions.10.answers.5.text:Bil je iz Savdske Arabije
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:3918.0
+passage.questions.10.answers.4.text:Bin Laden se je osredotočil na napad na sovražnike, kot sta Egipt in Bosna
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:3917.0
+passage.questions.10.answers.3.text:Bin Laden se je osredotočil na napad na ZDA
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3916.0
+passage.questions.10.answers.2.text:Njegov dnevni red je izstopal
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:3915.0
+passage.questions.10.answers.1.text:Osredotočil se je na daljnega sovražnika
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:3914.0
+passage.questions.10.answers.0.text:Bin Laden se je osredotočil na zahodne sovražnike, njegovi vrstniki pa na lokalne bitke
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3913.0
+passage.questions.1.question:Je Bin Laden po prihodu v Sudan ustavil dostavo diatrib v ZDA?
+passage.questions.1.idx:777
+passage.questions.1.answers.3.text:Mogoče
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3864.0
+passage.questions.1.answers.2.text:Ne
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3863.0
+passage.questions.1.answers.1.text:Bin Laden je po prihodu v Sudan še naprej dobavljal diatribe ZDA.
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:3862
+passage.questions.1.answers.0.text:Ne, to je storil, preden je zapustil Savdsko Arabijo.
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3861
+passage.questions.0.question:Je bil Usama Asmurai eden od Bin Ladenovih podrejenih?
+passage.questions.0.idx:776
+passage.questions.0.answers.2.text:Mogoče
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3860.0
+passage.questions.0.answers.1.text:Ne
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3859
+passage.questions.0.answers.0.text:Bil je eden od vrstnikov Bin Ladena.
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3858
+idx:68

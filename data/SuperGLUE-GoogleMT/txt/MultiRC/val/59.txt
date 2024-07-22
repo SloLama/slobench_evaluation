@@ -1,0 +1,266 @@
+version:1.1
+passage.text:Oh ne! Vaša mlajša sestra je pravkar pomešala vse vaše LEGO dele. Zdaj jih morate vse vrniti v prvotne kategorije. Kako boste to storili? Razvrstite jih po velikosti in obliki, dokler se ne vrnejo na svoje mesto na pladnju. Kaj bi po vašem mnenju lahko imenovali nered, ki ga je ustvarila mlajša sestra? Tako je, to je mešanica. Na srečo je šlo za fizično spremembo in naredila je preprosto mešanico. Lahko jih ločite po vrstnem redu. Še dobro, da jih ni vrgla v kamin. To bi povzročilo kemično spremembo, saj so se vsi stopili. Če bi se vaši LEGO stopili, ne bi imeli sreče za gradnjo naslednjega velikega projekta.
+passage.questions.9.question:Kaj je mešanica?
+passage.questions.9.idx:711.0
+passage.questions.9.answers.4.text:Kemična sprememba iz LEGO, ki se talijo
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:3542.0
+passage.questions.9.answers.3.text:LEGO-ji se topijo v kaminu
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:3541.0
+passage.questions.9.answers.2.text:Različna velikost in oblika LEGO delov
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3540.0
+passage.questions.9.answers.1.text:Mešanje elementov različnih velikosti, oblike ali drugih značilnosti
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3539.0
+passage.questions.9.answers.0.text:Nered, ki ga je naredila tvoja sestra
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3538.0
+passage.questions.8.question:Kaj je treba v tem odlomku razvrstiti po velikosti in obliki?
+passage.questions.8.idx:710.0
+passage.questions.8.answers.3.text:LEGO deli
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:3537.0
+passage.questions.8.answers.2.text:Stopljeni kosi
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3536.0
+passage.questions.8.answers.1.text:Vaši LEGO-ji
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3535.0
+passage.questions.8.answers.0.text:Stopljeni deli LEGO
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3534.0
+passage.questions.7.question:Kakšno spremembo bi povzročilo metanje LEGO-jev v kamin?
+passage.questions.7.idx:709.0
+passage.questions.7.answers.3.text:Kemična sprememba
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3533.0
+passage.questions.7.answers.2.text:Preprosta sprememba z mešanico oblik
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3532.0
+passage.questions.7.answers.1.text:Fizična sprememba
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:3531.0
+passage.questions.7.answers.0.text:Talilna kemijska sprememba
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3530.0
+passage.questions.6.question:Kaj bi lahko storila vaša sestra, da bi povzročila kemične spremembe v sistemu LEGOS?
+passage.questions.6.idx:708.0
+passage.questions.6.answers.4.text:Vrgel jih je v kamin
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:3529.0
+passage.questions.6.answers.3.text:Naredil nered z njimi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3528.0
+passage.questions.6.answers.2.text:Vrzi jih v kamin
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:3527.0
+passage.questions.6.answers.1.text:Stopili so jih
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3526.0
+passage.questions.6.answers.0.text:Mešali smo jih skupaj
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3525.0
+passage.questions.5.question:Kaj bi bila nepovratna mešanica?
+passage.questions.5.idx:707.0
+passage.questions.5.answers.4.text:Vrgel jih je v kamin
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:3524.0
+passage.questions.5.answers.3.text:Mešanje oblik skupaj
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3523.0
+passage.questions.5.answers.2.text:Taljenje jih
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3522.0
+passage.questions.5.answers.1.text:Vrzitev Legosa v kamin bi povzročila kemične spremembe, saj so se vsi stopili
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3521.0
+passage.questions.5.answers.0.text:Mešamo jih skupaj
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3520.0
+passage.questions.4.question:Kaj je preprosta mešanica?
+passage.questions.4.idx:706.0
+passage.questions.4.answers.4.text:Deli LEGO-jev, ki jih je pomešala vaša sestra
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:3519.0
+passage.questions.4.answers.3.text:Nered, ki ga je naredila tvoja sestra
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3518.0
+passage.questions.4.answers.2.text:Samo fizična sprememba, ki jo je mogoče spraviti nazaj v prvotno stanje
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3517.0
+passage.questions.4.answers.1.text:LEGOS v kaminu
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3516.0
+passage.questions.4.answers.0.text:Taljeni LEGO koščki
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3515.0
+passage.questions.3.question:Zakaj morate svoje LEGO-je razvrstiti in spraviti v pladenj?
+passage.questions.3.idx:705.0
+passage.questions.3.answers.4.text:Zmešali ste jih skupaj
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3514.0
+passage.questions.3.answers.3.text:Vaša mlajša sestra jih je vse pomešala
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:3513.0
+passage.questions.3.answers.2.text:Mešali so jih skupaj
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:3512.0
+passage.questions.3.answers.1.text:Spustili ste jih blizu kamina
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3511.0
+passage.questions.3.answers.0.text:Vaša sestra jih je pomešala
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3510.0
+passage.questions.2.question:Zakaj je sreča, da si sestra pravkar naredila preprosto mešanico?
+passage.questions.2.idx:704
+passage.questions.2.answers.4.text:Lahko jih ločite po vrstnem redu
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:3509.0
+passage.questions.2.answers.3.text:Ker jih lahko spravite nazaj v red
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3508.0
+passage.questions.2.answers.2.text:Potrebujete jih za projekt
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3507.0
+passage.questions.2.answers.1.text:Projekt imate predvidoma jutri
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3506
+passage.questions.2.answers.0.text:Če jih potrebujete za naslednji projekt
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3505
+passage.questions.15.question:Zakaj je zmešnjava, ki jo je tvoja sestra naredila z LEGO-ji?
+passage.questions.15.idx:717.0
+passage.questions.15.answers.4.text:Šlo je za fizično spremembo in jih boste lahko spravili v red
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:3571.0
+passage.questions.15.answers.3.text:Mešale so se različne barve
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:3570.0
+passage.questions.15.answers.2.text:Različni LEGO-ji se mešajo skupaj
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:3569.0
+passage.questions.15.answers.1.text:Mešali so se različne oblike in velikosti
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:3568.0
+passage.questions.15.answers.0.text:Kemikalije smo mešali skupaj
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:3567.0
+passage.questions.14.question:Kaj je ustvarila tvoja sestra, kako se temu reče?
+passage.questions.14.idx:716.0
+passage.questions.14.answers.3.text:Kemična sprememba
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:3566.0
+passage.questions.14.answers.2.text:Kamin
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:3565.0
+passage.questions.14.answers.1.text:Preprosta mešanica
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:3564.0
+passage.questions.14.answers.0.text:Mešanica
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:3563.0
+passage.questions.13.question:Kaj morate vrniti v prvotne kategorije
+passage.questions.13.idx:715.0
+passage.questions.13.answers.4.text:LEGOS
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:3562.0
+passage.questions.13.answers.3.text:LEGO-ji vaše sestre
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:3561.0
+passage.questions.13.answers.2.text:Kemikalije
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:3560.0
+passage.questions.13.answers.1.text:LEGO deli
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3559.0
+passage.questions.13.answers.0.text:Različna velikost in oblika LEGO-jev
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:3558.0
+passage.questions.12.question:Kdo je v tem odlomku ustvaril mešanico?
+passage.questions.12.idx:714.0
+passage.questions.12.answers.4.text:Vaš brat ali sestra
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:3557.0
+passage.questions.12.answers.3.text:Tvoja sestra
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:3556.0
+passage.questions.12.answers.2.text:Tvoja mlajša sestra
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:3555.0
+passage.questions.12.answers.1.text:Vaš bratranec
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:3554.0
+passage.questions.12.answers.0.text:Ti
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:3553.0
+passage.questions.11.question:Kakšna sprememba bi se zgodila, če bi vaša sestra vrgla vaše LEGO-je v kamin?
+passage.questions.11.idx:713.0
+passage.questions.11.answers.4.text:Kemična sprememba
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:3552.0
+passage.questions.11.answers.3.text:To bi bila kemična sprememba, ker bi se stopili skupaj
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:3551.0
+passage.questions.11.answers.2.text:Preprosta sprememba
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:3550.0
+passage.questions.11.answers.1.text:Kemična sprememba taljenih delov LEGO
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:3549.0
+passage.questions.11.answers.0.text:Fizična sprememba
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3548.0
+passage.questions.10.question:Zakaj je Legos mešanje reverzibilen?
+passage.questions.10.idx:712.0
+passage.questions.10.answers.4.text:Ker niso bili stopljeni
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:3547.0
+passage.questions.10.answers.3.text:Ker imajo različne oblike in velikosti
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3546.0
+passage.questions.10.answers.2.text:Le nekateri so bili pomešani
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3545.0
+passage.questions.10.answers.1.text:Ker so jih ločile barve
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3544.0
+passage.questions.10.answers.0.text:Na srečo je šlo za fizično spremembo in pravkar je naredila preprosto zmes, tako da jih lahko ločite nazaj v red
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3543.0
+passage.questions.1.question:Kako imenujete postopek razvrščanja stvari po velikosti in obliki?
+passage.questions.1.idx:703
+passage.questions.1.answers.4.text:Priprava mešanice z LEGO-ji
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3504.0
+passage.questions.1.answers.3.text:Ločuje jih in spravi nazaj v red
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3503.0
+passage.questions.1.answers.2.text:Uvrstiti v kategorije
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3502.0
+passage.questions.1.answers.1.text:Vrnitev v prvotne kategorije
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:3501
+passage.questions.1.answers.0.text:Kemična sprememba z LEGOS-om
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3500
+passage.questions.0.question:Kaj se zgodi, ko se vaši deli LEGO pomešajo?
+passage.questions.0.idx:702
+passage.questions.0.answers.4.text:Postanejo stopljeni
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3499.0
+passage.questions.0.answers.3.text:Vse morate vrniti v prvotne kategorije, tako da jih razvrstite po velikosti in obliki, dokler se ne vrnejo na svoje mesto v pladnju
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3498.0
+passage.questions.0.answers.2.text:Razvrstitev bodo morali vrniti na svoje mesto
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3497.0
+passage.questions.0.answers.1.text:Ustvarijo preprosto zmes
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3496
+passage.questions.0.answers.0.text:Metati jih bo treba v kamin
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3495
+idx:59

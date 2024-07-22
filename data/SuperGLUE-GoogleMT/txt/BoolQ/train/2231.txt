@@ -1,0 +1,4 @@
+idx:2231
+label:True
+passage:Konstruktor (objektno usmerjeno programiranje) - C ++ omogoča več konstruktorjev. Drugi konstruktorji morajo imeti drugačne parametre. Poleg tega morajo konstruktorji, ki vsebujejo parametre, ki imajo privzete vrednosti, upoštevati omejitev, da niso vsi parametri privzeti. To je situacija, ki je pomembna samo, če obstaja privzeti konstruktor. Konstruktor osnovnega razreda (ali osnovnih razredov) lahko pokliče tudi izpeljani razred. Funkcije konstruktorja niso podedovane in na njihove naslove ni mogoče sklicevati. Ko je potrebna dodelitev pomnilnika, se implicitno pokličeta operaterja new in delete.
+question:lahko imate več konstruktorjev v razredu c ++

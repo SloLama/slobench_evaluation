@@ -1,0 +1,188 @@
+version:1.1
+passage.text:Mojster Charlie Mascarenhas in njegov sokrivec Riya sta eden največjih parov tatov v Indiji. Ruska mafija je Charliejevega prijatelja Raja ubila. Na pogrebu Raja njegova žena Charlieju izroči CD z informacijami o prenosu zlata z vlakom iz Rusije v Romunijo. Charlie se odloči oropati vlak s pomočjo zaprtega Dona in umetnika Victorja Braganze. Za rop se jim pridruži skupina kriminalcev. V skupino spadajo Spider, ki je heker svetovnega razreda, strokovnjak za eksplozive Bilal Bashir, umetnik protetikov za ličenje Sunny in iluzionist Ronnie. Charlie ima tudi afero z Victorjevo hčerko Naino, ki ne ve nič o svojem očetu in Charliejevem kriminalnem delovanju. Skupina oblikuje načrt za čim krajšo oropanje ruskega vlaka. Spider vdre v ruski satelitski sistem in Ronnie s svojo iluzijo prevari vojake, ki varujejo zlato, medtem ko ostali člani ekipe zlato prenesejo z vlaka. Rop je bil uspešno izveden, vendar med praznovanjem Spiderja dvojno prečka bando in poskuša pobegniti z vsem zlatom. Spiderja ustavi Ronnie, ki ga nato večkrat ustrelijo Spider-jevi morilci. Skupino preganjajo morilci, Ronnie in Riya pa ubijejo. Charlie, Bilal in Sunny uspejo pobegniti, potem ko je Spider lokacijo razstrelil in z zlatom pobegnil. Charlie pokliče Victorja, da mu pove o izdaji, a Naina presliši pogovor. Hkrati pajkovi morilci vdrejo v hišo in ubijejo Victorja.
+passage.questions.9.question:Kaj je Sunny najel za ropanje?
+passage.questions.9.idx:4048.0
+passage.questions.9.answers.3.text:Ruska mafija
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:21468.0
+passage.questions.9.answers.2.text:Stanovanje
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:21467.0
+passage.questions.9.answers.1.text:Rajin pogreb
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:21466.0
+passage.questions.9.answers.0.text:Vlak
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:21465.0
+passage.questions.8.question:Kaj se zgodi, ko Spider dvakrat prečka tolpo?
+passage.questions.8.idx:4047.0
+passage.questions.8.answers.3.text:Streljajo ga
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:21464.0
+passage.questions.8.answers.2.text:Pajek beži z zlatom. Ronnieja in Riya ubijejo Spider-jevi atentatorji
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:21463.0
+passage.questions.8.answers.1.text:Poskuša pobegniti z vsem zlatom
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:21462.0
+passage.questions.8.answers.0.text:S svojo iluzijo je prevaral vojake, ki so varovali zlato
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:21461.0
+passage.questions.7.question:Kako Spiderjeva izdaja vpliva na Naino?
+passage.questions.7.idx:4046.0
+passage.questions.7.answers.6.text:Naina je pajekova šefica
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:21460.0
+passage.questions.7.answers.5.text:Spider je zaljubljen v Naino
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:21459.0
+passage.questions.7.answers.4.text:Njen oče je umorjen
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:21458.0
+passage.questions.7.answers.3.text:Zaide v težave
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:21457.0
+passage.questions.7.answers.2.text:Njenega očeta Victorja ubijejo morilci. Prav tako izve, da sta njen oče in Charlie kriminalec
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:21456.0
+passage.questions.7.answers.1.text:Spider ima afero z Naino
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:21455.0
+passage.questions.7.answers.0.text:Spider bo ubil njenega očeta
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:21454.0
+passage.questions.6.question:Kdaj je Ronnie ustavil pajka?
+passage.questions.6.idx:4045.0
+passage.questions.6.answers.4.text:Ko je skušal zbežati z vsem zlatom
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:21453.0
+passage.questions.6.answers.3.text:Na zabavi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:21452.0
+passage.questions.6.answers.2.text:Ko dvakrat prečka tolpo in poskuša pobegniti z vsem zlatom
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:21451.0
+passage.questions.6.answers.1.text:Ko Spider dvojno prečka bando in poskuša pobegniti z zlatom
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:21450.0
+passage.questions.6.answers.0.text:Med izvrševanjem ropa
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:21449.0
+passage.questions.5.question:Kdo sestavi ekipo, ki oropa vlak?
+passage.questions.5.idx:4044.0
+passage.questions.5.answers.6.text:Charlie
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:21448.0
+passage.questions.5.answers.5.text:Ronnie
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:21447.0
+passage.questions.5.answers.4.text:Ruska mafija
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:21446.0
+passage.questions.5.answers.3.text:Victor
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:21445.0
+passage.questions.5.answers.2.text:Don
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:21444.0
+passage.questions.5.answers.1.text:Charlie in Victor Braganza sta za rop najela skupino kriminalcev
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:21443.0
+passage.questions.5.answers.0.text:Raj
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21442.0
+passage.questions.4.question:Kdo najame ekipo kriminalcev, da se jim pridruži pri ropu?
+passage.questions.4.idx:4043.0
+passage.questions.4.answers.6.text:Charlie
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:21441.0
+passage.questions.4.answers.5.text:Ronnie
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:21440.0
+passage.questions.4.answers.4.text:Ruska mafija
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:21439.0
+passage.questions.4.answers.3.text:Charlie, Don in Victor
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:21438.0
+passage.questions.4.answers.2.text:Victor
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:21437.0
+passage.questions.4.answers.1.text:Don
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21436.0
+passage.questions.4.answers.0.text:Raj
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:21435.0
+passage.questions.3.question:Kakšna je naloga osebe, ki jo večkrat ustrelijo Spider-jevi morilci?
+passage.questions.3.idx:4042.0
+passage.questions.3.answers.3.text:Prodajalec
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:21434.0
+passage.questions.3.answers.2.text:Iluzionist
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:21433.0
+passage.questions.3.answers.1.text:Strokovnjak za eksplozive
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:21432.0
+passage.questions.3.answers.0.text:Umetnik protetičnih ličil
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:21431.0
+passage.questions.2.question:Kako se priimek osebe, ki jo Charlie pokliče, da pove o izdaji?
+passage.questions.2.idx:4041.0
+passage.questions.2.answers.4.text:Bašir
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:21430.0
+passage.questions.2.answers.3.text:Ronnie
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:21429.0
+passage.questions.2.answers.2.text:Braganza
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:21428.0
+passage.questions.2.answers.1.text:Victor
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:21427.0
+passage.questions.2.answers.0.text:Mascarenhas
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21426.0
+passage.questions.1.question:Kdo poskuša ustaviti hekerja svetovnega razreda in ga ubijejo?
+passage.questions.1.idx:4040.0
+passage.questions.1.answers.6.text:Riya
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:21425.0
+passage.questions.1.answers.5.text:Ronnie
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:21424.0
+passage.questions.1.answers.4.text:Ruska mafija
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:21423.0
+passage.questions.1.answers.3.text:Victor
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21422.0
+passage.questions.1.answers.2.text:Don
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:21421.0
+passage.questions.1.answers.1.text:Sončno
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21420.0
+passage.questions.1.answers.0.text:Raj
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:21419.0
+passage.questions.0.question:Kaj je Spider najet za oropanje?
+passage.questions.0.idx:4039
+passage.questions.0.answers.4.text:Da se jim pridružijo pri ropu
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:21418.0
+passage.questions.0.answers.3.text:Da vdre v hišo in ubije Victorja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:21417.0
+passage.questions.0.answers.2.text:Vlak
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:21416.0
+passage.questions.0.answers.1.text:Avto
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21415
+passage.questions.0.answers.0.text:Kot strokovnjak za eksplozive
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:21414
+idx:351

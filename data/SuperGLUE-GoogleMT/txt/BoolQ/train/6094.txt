@@ -1,0 +1,4 @@
+idx:6094
+label:False
+passage:Interval zaupanja - Omeniti velja, da interval zaupanja za parameter ni enak območju sprejemljivosti testa za ta parameter, kot se včasih misli. Interval zaupanja je del prostora parametrov, medtem ko je območje sprejemanja del vzorčnega prostora. Iz istega razloga stopnja zaupanja ni enaka dopolnilni verjetnosti stopnje pomembnosti.
+question:je stopnja pomembnosti enaka intervalu zaupanja

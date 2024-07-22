@@ -1,0 +1,388 @@
+version:1.1
+passage.text:Tim je imel vedno rdeče kolo. Prihajala je njegova rojstnodnevna zabava in upal je, da mu bodo starši končno priskrbeli kolo. Ko so na zabavo prišli njegovi prijatelji, je bil Tim zelo zaskrbljen, da ne bo dobil kolesa. Ogledal si je vsa darila in nobeno se jim ni zdelo dovolj veliko, da bi imelo v sebi kolo. Tim je bil žalosten. Ko je prišel čas za odpiranje daril, jih je odprl eno za drugo. Prvo darilo ni bilo kolo. Drugo darilo ni bilo kolo. Tretje prisotno je bilo največje. Tim je vedel, če bo kolo v katerem od daril, bo v tej škatli. Tim jo je odprl in notri ni bilo kolesa. Tako kot se je Tim trudil, da ni videti preveč razburjen, je njegov oče prinesel največje darilo od vseh. Njegov oče je ves čas skrival darilo. Tim ga je odprl in njegovo novo kolo je bilo v škatli. Tim je skupaj z očetovo pomočjo sestavil kolo.
+passage.questions.9.question:Kdo je omenjen na rojstnodnevni zabavi?
+passage.questions.9.idx:4096.0
+passage.questions.9.answers.6.text:Tim, njegovi prijatelji in njegov oče
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:21759.0
+passage.questions.9.answers.5.text:Učitelji
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:21758.0
+passage.questions.9.answers.4.text:Prijatelji
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:21757.0
+passage.questions.9.answers.3.text:Tim, njegov oče
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:21756.0
+passage.questions.9.answers.2.text:Oba starša
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:21755.0
+passage.questions.9.answers.1.text:Klovn, prijatelji
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:21754.0
+passage.questions.9.answers.0.text:Sosedi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:21753.0
+passage.questions.8.question:Koliko daril je Tim odprl, preden je odprl kolo?
+passage.questions.8.idx:4095.0
+passage.questions.8.answers.3.text:3.
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:21752.0
+passage.questions.8.answers.2.text:6.
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:21751.0
+passage.questions.8.answers.1.text:Štiri
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:21750.0
+passage.questions.8.answers.0.text:Manj kot štiri
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:21749.0
+passage.questions.7.question:Kaj je skrival Timov oče?
+passage.questions.7.idx:4094.0
+passage.questions.7.answers.3.text:Druga prisotnost
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:21748.0
+passage.questions.7.answers.2.text:Rdeče kolo
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:21747.0
+passage.questions.7.answers.1.text:Kolo
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:21746.0
+passage.questions.7.answers.0.text:Največje darilo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:21745.0
+passage.questions.6.question:Kje je bilo kolo?
+passage.questions.6.idx:4093.0
+passage.questions.6.answers.6.text:V smeti
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:21744.0
+passage.questions.6.answers.5.text:V škatli, ki jo je skrival oče
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:21743.0
+passage.questions.6.answers.4.text:V 1. sedanjosti
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:21742.0
+passage.questions.6.answers.3.text:V skriti sedanjosti
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:21741.0
+passage.questions.6.answers.2.text:V 2. sedanjosti
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:21740.0
+passage.questions.6.answers.1.text:Njegov oče je to skrival
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:21739.0
+passage.questions.6.answers.0.text:V zadnji sedanjosti
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:21738.0
+passage.questions.5.question:Kaj je Tim želel za darilo in ali ga je dobil?
+passage.questions.5.idx:4092.0
+passage.questions.5.answers.5.text:Želel je kolo in ga je dobil
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:21737.0
+passage.questions.5.answers.4.text:Tim je za darilo želel rdeče kolo in ja, prejel ga je
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:21736.0
+passage.questions.5.answers.3.text:Da
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:21735.0
+passage.questions.5.answers.2.text:Ne
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:21734.0
+passage.questions.5.answers.1.text:Želel je avto in ga ni dobil
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:21733.0
+passage.questions.5.answers.0.text:Škatla
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21732.0
+passage.questions.4.question:Kje je bila škatla s kolesom?
+passage.questions.4.idx:4091.0
+passage.questions.4.answers.6.text:Sedenje zunaj
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:21731.0
+passage.questions.4.answers.5.text:Pospravi
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:21730.0
+passage.questions.4.answers.4.text:Njegov oče je skrival škatlo s kolesom
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:21729.0
+passage.questions.4.answers.3.text:Poleg prvega prisotnega
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:21728.0
+passage.questions.4.answers.2.text:Njegov oče je to skrival
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:21727.0
+passage.questions.4.answers.1.text:Bila je največja škatla
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21726.0
+passage.questions.4.answers.0.text:Skrito
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:21725.0
+passage.questions.3.question:Kdo je bil na zabavi Tims, razen Tima?
+passage.questions.3.idx:4090.0
+passage.questions.3.answers.5.text:Tims starši in njegovi prijatelji
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:21724.0
+passage.questions.3.answers.4.text:Učitelji
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:21723.0
+passage.questions.3.answers.3.text:Prijatelji
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:21722.0
+passage.questions.3.answers.2.text:Njegovi starši
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:21721.0
+passage.questions.3.answers.1.text:Njegov stric
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:21720.0
+passage.questions.3.answers.0.text:Sosedi
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:21719.0
+passage.questions.2.question:Je Tim sestavljal kolo z očetom pred ali po prihodu gostov na zabavo?
+passage.questions.2.idx:4089.0
+passage.questions.2.answers.3.text:Po
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:21718.0
+passage.questions.2.answers.2.text:Prej
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:21717.0
+passage.questions.2.answers.1.text:Gostje so bili tam
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:21716.0
+passage.questions.2.answers.0.text:Gostov še ni bilo
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21715.0
+passage.questions.19.question:Na katerem dogodku je bil Tim, ko je končno dobil kolo?
+passage.questions.19.idx:4106.0
+passage.questions.19.answers.5.text:Njegova rojstnodnevna zabava
+passage.questions.19.answers.5.label:1.0
+passage.questions.19.answers.5.idx:21819.0
+passage.questions.19.answers.4.text:Rojstni dan
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:21818.0
+passage.questions.19.answers.3.text:Božič
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:21817.0
+passage.questions.19.answers.2.text:Zajtrk
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:21816.0
+passage.questions.19.answers.1.text:Diploma
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:21815.0
+passage.questions.19.answers.0.text:Njegova zabava
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:21814.0
+passage.questions.18.question:Kakšna čustva je imel Tim, preden je odprl darila?
+passage.questions.18.idx:4105.0
+passage.questions.18.answers.6.text:Srečno
+passage.questions.18.answers.6.label:0,0
+passage.questions.18.answers.6.idx:21813.0
+passage.questions.18.answers.5.text:Žalost, skrb
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:21812.0
+passage.questions.18.answers.4.text:Zaskrbljen
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:21811.0
+passage.questions.18.answers.3.text:Bil je žalosten, zaskrbljen in razburjen
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:21810.0
+passage.questions.18.answers.2.text:Žalostno
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:21809.0
+passage.questions.18.answers.1.text:Navdušen, vesel
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:21808.0
+passage.questions.18.answers.0.text:Navdušen
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:21807.0
+passage.questions.17.question:Koliko daril je Tim odprl, preden je dobil kolo?
+passage.questions.17.idx:4104.0
+passage.questions.17.answers.4.text:3.
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:21806.0
+passage.questions.17.answers.3.text:Tri
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:21805.0
+passage.questions.17.answers.2.text:Manj kot 4
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:21804.0
+passage.questions.17.answers.1.text:6.
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:21803.0
+passage.questions.17.answers.0.text:Ena
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:21802.0
+passage.questions.16.question:Zakaj je bil Tim žalosten?
+passage.questions.16.idx:4103.0
+passage.questions.16.answers.6.text:Skrbelo ga je, da kolesa ne bo dobil, in nobena škatla ni bila videti dovolj velika, da bi bila želeno kolo
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:21801.0
+passage.questions.16.answers.5.text:Želel je torto
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:21800.0
+passage.questions.16.answers.4.text:Darila so bila majhna
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:21799.0
+passage.questions.16.answers.3.text:Mislil je, da ni dobil kolesa
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:21798.0
+passage.questions.16.answers.2.text:Kolo je bilo napačne barve
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:21797.0
+passage.questions.16.answers.1.text:Očeta ni bilo tam
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:21796.0
+passage.questions.16.answers.0.text:Nobeno darilo ni izgledalo kot kolo
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:21795.0
+passage.questions.15.question:Kako se je počutil Tim, preden je začel odpirati darila?
+passage.questions.15.idx:4102.0
+passage.questions.15.answers.4.text:Srečno
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:21794.0
+passage.questions.15.answers.3.text:Zaskrbljen
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:21793.0
+passage.questions.15.answers.2.text:Tesnobno
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:21792.0
+passage.questions.15.answers.1.text:Žalostno
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:21791.0
+passage.questions.15.answers.0.text:Navdušen
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:21790.0
+passage.questions.14.question:Koliko daril je Tim odprl, preden je njegov oče prinesel kolo?
+passage.questions.14.idx:4101.0
+passage.questions.14.answers.3.text:3.
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:21789.0
+passage.questions.14.answers.2.text:6.
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:21788.0
+passage.questions.14.answers.1.text:Manj kot štiri
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:21787.0
+passage.questions.14.answers.0.text:Ena
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:21786.0
+passage.questions.13.question:Zakaj je bil Tim navdušen za svoj rojstni dan?
+passage.questions.13.idx:4100.0
+passage.questions.13.answers.6.text:Pričakovana dobra sedanjost
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:21785.0
+passage.questions.13.answers.5.text:Zabava
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:21784.0
+passage.questions.13.answers.4.text:Želel je rdeče kolo
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:21783.0
+passage.questions.13.answers.3.text:Dan
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:21782.0
+passage.questions.13.answers.2.text:Vedno si je želel rdeče kolo, enega pa naj bi ga prejel na svoj rojstni dan
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:21781.0
+passage.questions.13.answers.1.text:Iščem kolo
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:21780.0
+passage.questions.13.answers.0.text:Želel je videti svoje prijatelje
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:21779.0
+passage.questions.12.question:Za kaj je bila zabava Tims in kdo mu je podaril največje darilo?
+passage.questions.12.idx:4099.0
+passage.questions.12.answers.6.text:Njegova zabava je bila za njegov rojstni dan, oče mu je podaril največje darilo
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:21778.0
+passage.questions.12.answers.5.text:Rojstni dan
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:21777.0
+passage.questions.12.answers.4.text:Božič
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:21776.0
+passage.questions.12.answers.3.text:Oče
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:21775.0
+passage.questions.12.answers.2.text:Njegova zabava je bila maturantska, babica mu je podarila največje darilo
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:21774.0
+passage.questions.12.answers.1.text:Tims je rojstni dan in njegov oče je imel največje darilo
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:21773.0
+passage.questions.12.answers.0.text:Božiček
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:21772.0
+passage.questions.11.question:Kdaj je Tim zaskrbel in zakaj?
+passage.questions.11.idx:4098.0
+passage.questions.11.answers.6.text:Skrito darilo je bilo kolo
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:21771.0
+passage.questions.11.answers.5.text:Nisem hotel kolesa
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:21770.0
+passage.questions.11.answers.4.text:Želel sem kolo
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:21769.0
+passage.questions.11.answers.3.text:1. darilo ni kolo
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:21768.0
+passage.questions.11.answers.2.text:Na igrišču
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:21767.0
+passage.questions.11.answers.1.text:Na zabavi, ko ni videl kolesa
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:21766.0
+passage.questions.11.answers.0.text:Ko so prispeli njegovi prijatelji in nobeno darilo ni bilo videti dovolj veliko za kolo
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:21765.0
+passage.questions.10.question:Kateri dar, ki ga je Tim odprl, je bil največji in je bilo kolo notri?
+passage.questions.10.idx:4097.0
+passage.questions.10.answers.4.text:Največje darilo je bilo kolo
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:21764.0
+passage.questions.10.answers.3.text:Ne
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:21763.0
+passage.questions.10.answers.2.text:Prva prisotnost
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:21762.0
+passage.questions.10.answers.1.text:Tretjega navzočega in kolesa ni bilo tam
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:21761.0
+passage.questions.10.answers.0.text:Največje darilo ni bilo kolo
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:21760.0
+passage.questions.1.question:Kako se je počutil Tim, ko je odpiral darila?
+passage.questions.1.idx:4088.0
+passage.questions.1.answers.5.text:Bil je žalosten in razburjen
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:21714.0
+passage.questions.1.answers.4.text:Srečno
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:21713.0
+passage.questions.1.answers.3.text:Izpolnjeno
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21712.0
+passage.questions.1.answers.2.text:Razburjen
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:21711.0
+passage.questions.1.answers.1.text:Razočaran
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:21710.0
+passage.questions.1.answers.0.text:Žalostno
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21709.0
+passage.questions.0.question:Je bilo kolo v največji od prvih treh škatel?
+passage.questions.0.idx:4087
+passage.questions.0.answers.3.text:V četrtem polju
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:21708.0
+passage.questions.0.answers.2.text:Da
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:21707.0
+passage.questions.0.answers.1.text:V prvem polju
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21706
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21705
+idx:356

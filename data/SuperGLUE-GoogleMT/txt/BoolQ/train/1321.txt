@@ -1,0 +1,4 @@
+idx:1321
+label:True
+passage:Funkcija gostote verjetnosti - v natančnejšem smislu se PDF uporablja za določanje verjetnosti naključne spremenljivke, ki spada v določeno območje vrednosti, v nasprotju s prevzemom katere koli vrednosti. Ta verjetnost je podana z integralom PDF-ja te spremenljivke v tem obsegu - to je s površino pod funkcijo gostote, vendar nad vodoravno osjo in med najnižjo in največjo vrednostjo območja. Funkcija gostote verjetnosti je povsod nenegativna in je njen integral po celotnem prostoru enak ena.
+question:površina pod celotno funkcijo gostote verjetnosti je enaka 1

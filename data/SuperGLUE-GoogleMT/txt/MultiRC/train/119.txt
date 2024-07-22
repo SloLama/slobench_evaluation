@@ -1,0 +1,50 @@
+version:1.1
+passage.text:Ali bi morali kraji na enaki razdalji od ekvatorja imeti enako podnebje? Morda bi si mislili, da bi morali. Na žalost ne bi bilo prav, če bi to mislili. Podnebne vrste se razlikujejo zaradi drugih dejavnikov, poleg oddaljenosti od ekvatorja. Kaj so torej ti dejavniki? Kako lahko tako močno vplivajo na lokalno podnebje? Ti dejavniki so zelo pomembni. Lahko se vprašate, ali so veliki kot avto. Pomisli več. So večje od hiše? Pomisli več. So večje od nogometnega stadiona? Še vedno niste blizu. Govorimo o gorah in oceanih. So velike značilnosti in veliki dejavniki. Oceani in gore igrajo ogromno vlogo v podnebjih po vsem svetu. To lahko vidite na zgornji sliki. Le eden od teh dejavnikov je zemljepisna širina ali oddaljenost od ekvatorja.
+passage.questions.0.question:Navedite vsaj en dejavnik podnebja
+passage.questions.0.idx:1392
+passage.questions.0.answers.9.text:Gore, ocean, zemljepisna dolžina, zemljepisna širina
+passage.questions.0.answers.9.label:1.0
+passage.questions.0.answers.9.idx:7307.0
+passage.questions.0.answers.8.text:Moutains
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:7306.0
+passage.questions.0.answers.7.text:Zvezde
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:7305.0
+passage.questions.0.answers.6.text:Oddaljenost od ekvatorja
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:7304.0
+passage.questions.0.answers.5.text:Sezona
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:7303.0
+passage.questions.0.answers.4.text:Zemljepisna dolžina
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:7302.0
+passage.questions.0.answers.3.text:Zemljepisna širina
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:7301.0
+passage.questions.0.answers.2.text:Dolžina dneva
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:7300.0
+passage.questions.0.answers.14.text:Enako podnebje
+passage.questions.0.answers.14.label:0,0
+passage.questions.0.answers.14.idx:7312.0
+passage.questions.0.answers.13.text:Nogometni stadioni
+passage.questions.0.answers.13.label:0,0
+passage.questions.0.answers.13.idx:7311.0
+passage.questions.0.answers.12.text:Gore
+passage.questions.0.answers.12.label:1.0
+passage.questions.0.answers.12.idx:7310.0
+passage.questions.0.answers.11.text:Številke
+passage.questions.0.answers.11.label:0,0
+passage.questions.0.answers.11.idx:7309.0
+passage.questions.0.answers.10.text:Avtomobili
+passage.questions.0.answers.10.label:0,0
+passage.questions.0.answers.10.idx:7308.0
+passage.questions.0.answers.1.text:Hiše
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7299
+passage.questions.0.answers.0.text:Oceani
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:7298
+idx:119

@@ -1,0 +1,144 @@
+version:1.1
+passage.text:Pred ustanovitvijo Ljudske republike je bila stopnja nepismenosti v Albaniji kar 85-odstotna. Šol je bilo med prvo in drugo svetovno vojno malo. Ko je bila leta 1945 ustanovljena Ljudska republika, je stranka dala prednost izbrisu nepismenosti. V okviru obsežne družabne kampanje je bil kdorkoli med 12. in 40. letom, ki ni znal brati ali pisati, pooblaščen za učenje pouka. Do leta 1955 je bila nepismenost med odraslim prebivalstvom Albanije tako rekoč odpravljena. Danes je splošna stopnja pismenosti v Albaniji 98,7%; stopnja pismenosti moških je 99,2%, stopnja pismenosti žensk pa 98,3%. Z velikimi premiki prebivalstva v devetdesetih letih na urbana območja se je tudi izobraževanje spremenilo. Univerza v Tirani je najstarejša univerza v Albaniji, ki je bila ustanovljena oktobra 1957.
+passage.questions.9.question:Koliko časa je Ljudska republika dejansko odpravila nepismenost odraslih v Albaniji?
+passage.questions.9.idx:4442.0
+passage.questions.9.answers.3.text:&quot;10 let&quot;
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:23471.0
+passage.questions.9.answers.2.text:Skoraj 11 let
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:23470.0
+passage.questions.9.answers.1.text:1955
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:23469.0
+passage.questions.9.answers.0.text:5 let
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:23468.0
+passage.questions.8.question:V katerem letu je bila stopnja nepismenosti v Albaniji 85-odstotna?
+passage.questions.8.idx:4441.0
+passage.questions.8.answers.3.text:1990
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:23467.0
+passage.questions.8.answers.2.text:1940
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:23466.0
+passage.questions.8.answers.1.text:1955
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:23465.0
+passage.questions.8.answers.0.text:Pred letom 1945
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:23464.0
+passage.questions.7.question:Ali je bilo v Albaniji pred ustanovitvijo Ljudske republike katera univerza?
+passage.questions.7.idx:4440.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:23463.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:23462.0
+passage.questions.6.question:Katero leto je bila ljudska republika?
+passage.questions.6.idx:4439.0
+passage.questions.6.answers.2.text:1945
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23461.0
+passage.questions.6.answers.1.text:1990
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:23460.0
+passage.questions.6.answers.0.text:1955
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:23459.0
+passage.questions.5.question:Katera stranka je določila, da mora nepismena oseba med 12. in 40. letom obiskovati pouk, da bi tako uničila pismenost?
+passage.questions.5.idx:4438.0
+passage.questions.5.answers.1.text:Socialna kampanja
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:23458.0
+passage.questions.5.answers.0.text:Ljudska republika
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:23457.0
+passage.questions.4.question:Pomanjkanje šol v Albaniji med prvo svetovno vojno in drugo svetovno vojno je prispevalo k temu, da je stopnja nepismenosti v Albaniji dosegla toliko kot odstotek?
+passage.questions.4.idx:4437.0
+passage.questions.4.answers.3.text:98,3%
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:23456.0
+passage.questions.4.answers.2.text:99,2%
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:23455.0
+passage.questions.4.answers.1.text:98,7%
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:23454.0
+passage.questions.4.answers.0.text:85%
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:23453.0
+passage.questions.3.question:Kdaj je bila med odraslim prebivalstvom Albanije praktično odpravljena nepismenost?
+passage.questions.3.idx:4436.0
+passage.questions.3.answers.2.text:1957
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:23452.0
+passage.questions.3.answers.1.text:1955
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:23451.0
+passage.questions.3.answers.0.text:Devetdeseta leta
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:23450.0
+passage.questions.2.question:Je bila socialna kampanja, ki jo je razvila Ljudska republika Albanija, uspešna pri zniževanju stopnje nepismenosti med odraslimi?
+passage.questions.2.idx:4435.0
+passage.questions.2.answers.2.text:Da
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:23449.0
+passage.questions.2.answers.1.text:Mogoče
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:23448.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:23447.0
+passage.questions.11.question:Kdo je odredil, da se ljudje v Albaniji, stari od 12 do 40 let, ki ne znajo brati ali pisati, udeležujejo pouka, da bi se učili?
+passage.questions.11.idx:4444.0
+passage.questions.11.answers.4.text:Ljudska republika
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:23479.0
+passage.questions.11.answers.3.text:Obsežna družabna kampanja
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:23478.0
+passage.questions.11.answers.2.text:Albanija
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:23477.0
+passage.questions.11.answers.1.text:Univerza v Tirani
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:23476.0
+passage.questions.11.answers.0.text:&quot;Ljudska republika Albanija&quot;
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:23475.0
+passage.questions.10.question:Katera je najstarejša univerza v Albaniji?
+passage.questions.10.idx:4443.0
+passage.questions.10.answers.2.text:Ljudska republika
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:23474.0
+passage.questions.10.answers.1.text:Univerza v Tirani
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:23473.0
+passage.questions.10.answers.0.text:Univerza v Albaniji
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:23472.0
+passage.questions.1.question:Katera šola je bila ustanovljena po pomanjkanju prve in druge svetovne vojne?
+passage.questions.1.idx:4434.0
+passage.questions.1.answers.3.text:Nepismenost Albanije
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:23446.0
+passage.questions.1.answers.2.text:Univerza v Tirani
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:23445.0
+passage.questions.1.answers.1.text:Šola za opismenjevanje
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:23444.0
+passage.questions.1.answers.0.text:Ljudska republika
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:23443.0
+passage.questions.0.question:Ali je bila najstarejša univerza v Albaniji, ustanovljena pred ali po nepismenosti, med odraslim prebivalstvom Albanije tako rekoč izločena?
+passage.questions.0.idx:4433
+passage.questions.0.answers.1.text:Po
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:23442
+passage.questions.0.answers.0.text:Prej
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23441
+idx:388

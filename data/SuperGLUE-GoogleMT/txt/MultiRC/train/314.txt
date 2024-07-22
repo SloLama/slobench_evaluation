@@ -1,0 +1,63 @@
+version:1.1
+passage.text:Če bi rekel, da ji je obraz padel, bi škodilo Tashi in literaturi. (Dovolite mi, da se prepustim samim sebi, tako kot umirajočemu - ko prepričam svojega umarja, da dovoli brisanje, bo še en Bernardo Flynn, tisti, ki ne pozna več Tashe Cortez ali Vege IV, kot je prebral tukaj. ) Njene obrvi so se združile, zbrale čudovito kožo karamelovih barv okoli oči in pokazale vzorec za starke na čelu. Spodnja ustnica (malenkost preozka za obraz, morda edina fizična napaka) se je rahlo potisnila naprej, ko je začela govoriti. Ujela se je, neskončno potisnila čeljust nazaj na svoje mesto in rekla: &quot;Ti ni všeč?&quot; Smejal sem se. Kaj lahko storim? Ploskal sem jo po rami in pokazal, da se ji ne smejem. &quot;Všeč mi je? Sovražim jo, preziram, gnušam se! Je hudomušna, brez milosti, domišljava - hiša je žalitev okusa in inteligence. Kupil bi jo, da bi jo uničil, vendar nisem tako dobrosrčen. lahko pa ga najame. &quot; Mislim, da je slišala šele zadnje besede mojega govora. &quot;Ti boš?&quot; &quot;To me zabava. Pokažite mi in potem se bom odločil.&quot; &quot;Seveda, señor Flynn.&quot; &quot;In nehajte me klicati&quot; señor &quot;. Niti Los Mundos ni tako vljuden. Pokličite me Bernardo.&quot;
+passage.questions.5.question:Zakaj Bernardo prezira hišo?
+passage.questions.5.idx:3573.0
+passage.questions.5.answers.2.text:Je hudomušen, brez milosti in domišljav
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:18987.0
+passage.questions.5.answers.1.text:To je grdo
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:18986.0
+passage.questions.5.answers.0.text:Je hudomušen, brez milosti, pretenciozen -
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:18985.0
+passage.questions.4.question:Ali lahko Tasha, ko se ulovi, v celoti potisne čeljust nazaj na svoje mesto?
+passage.questions.4.idx:3572.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:18984.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:18983.0
+passage.questions.3.question:Kdo se Bernarda ne obrača kot señor?
+passage.questions.3.idx:3571.0
+passage.questions.3.answers.2.text:Mojster
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:18982.0
+passage.questions.3.answers.1.text:Los Mundos
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:18981.0
+passage.questions.3.answers.0.text:Tasha
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18980.0
+passage.questions.2.question:Kakšen je Bernardov priimek?
+passage.questions.2.idx:3570.0
+passage.questions.2.answers.1.text:Smith
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:18979.0
+passage.questions.2.answers.0.text:Flynn
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:18978.0
+passage.questions.1.question:Čigava spodnja ustnica je bila preozka za njen obraz?
+passage.questions.1.idx:3569.0
+passage.questions.1.answers.2.text:Tasha
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18977.0
+passage.questions.1.answers.1.text:Tasha
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:18976.0
+passage.questions.1.answers.0.text:Bernardo
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18975.0
+passage.questions.0.question:Kaj mora storiti Bernardo, preden se lahko odloči, ali bo hišo najel?
+passage.questions.0.idx:3568
+passage.questions.0.answers.2.text:Pogovori se z njegovo ženo
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:18974.0
+passage.questions.0.answers.1.text:Sprehodite se in se oglejte naokoli
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:18973
+passage.questions.0.answers.0.text:Bodite razstavljeni
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:18972
+idx:314

@@ -1,0 +1,290 @@
+version:1.1
+passage.text:Družina Creed se preseli v nov dom, blizu ceste, kjer tovornjakarji pogosto vozijo nevarno. Spoprijateljili so se s sosedo Judom Crandall, ki jim je povedala o bližnjem pokopališču hišnih ljubljenčkov, ki je bilo zgrajeno na indijanskih pokopališčih in se govori, da je strašilo. Pozneje Louis Creed, ki dela na univerzi Maine v zdravstvenem centru Orono, zdravi Victorja Pascowa, ki ga je udaril tovornjak in utrpel ogromne poškodbe glave. Pascow umre, potem ko je zgrabil Louisa, ga nagovoril po imenu in izrekel skrivnostno sporočilo. Obljublja tudi, da bo &quot;prišel k njemu&quot;. Tisto noč, v na videz sanjah, Victor obišče Louisa in ga opozori na grobišče onstran pokopališča hišnih ljubljenčkov. Louis se zbudi in ugotovi, da so noge prekrite z umazanijo. Church, mačko v lasti Louisove hčerke Ellie, ubije tovornjak na cesti pred njihovo hišo, medtem ko so Rachel, Ellie in Gage v Chicagu. Jud odpelje Louisa na starodavno indijansko pokopališče Micmac onstran pokopališča hišnih ljubljenčkov, ki so ga prej obiskali, in pokoplje mačko. Cerkev je spet oživljena, vendar je zlobna lupina samega sebe. Napada Louisa in zadiši po razpadu. Louis vpraša, ali je bila oseba kdaj pokopana na terenu. Jud odgovarja: »Kristus na svojem prestolu, št. . In kdo bi? &#39;&#39; Nekje kasneje je na isti cesti tovornjaka umoril Louisov sin Gage. Louis razmišlja o pokopu Gageja v grobišču. Jud ga poskuša odvrniti od tega in mu pripoveduje o mladeniču iz mesta Timmyju Batermanu, ki je umrl med drugo svetovno vojno.
+passage.questions.9.question:Kdo je družina Creed?
+passage.questions.9.idx:4863.0
+passage.questions.9.answers.3.text:Cerkev in Victor
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:25962.0
+passage.questions.9.answers.2.text:Louis, Rachel, Ellie in Gage
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:25961.0
+passage.questions.9.answers.1.text:Louis, Rachel, Elies in Gage
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:25960.0
+passage.questions.9.answers.0.text:Timmy in Jud
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:25959.0
+passage.questions.8.question:Kakšne so bile govorice o pokopališču hišnih ljubljenčkov, na katere je Victor opozoril Louisa?
+passage.questions.8.idx:4862.0
+passage.questions.8.answers.5.text:Leta
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:25958.0
+passage.questions.8.answers.4.text:Da je bilo polno psov
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:25957.0
+passage.questions.8.answers.3.text:Igra
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:25956.0
+passage.questions.8.answers.2.text:Da je bilo v bližini indijansko pokopališče
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:25955.0
+passage.questions.8.answers.1.text:Tista Jud je bila tam pokopana
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:25954.0
+passage.questions.8.answers.0.text:Straši
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:25953.0
+passage.questions.7.question:Kolikokrat je bilo omenjeno strašilo indijsko zemljišče?
+passage.questions.7.idx:4861.0
+passage.questions.7.answers.2.text:Tri
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:25952.0
+passage.questions.7.answers.1.text:Pet
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:25951.0
+passage.questions.7.answers.0.text:4.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:25950.0
+passage.questions.6.question:Katere ljudi pobijejo tovornjaki?
+passage.questions.6.idx:4860.0
+passage.questions.6.answers.4.text:Victor in Gage
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:25949.0
+passage.questions.6.answers.3.text:Elie in Gage
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:25948.0
+passage.questions.6.answers.2.text:Victor Pascow in Jud Crandal
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:25947.0
+passage.questions.6.answers.1.text:Victor Pascow in Gage
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:25946.0
+passage.questions.6.answers.0.text:Predsednik
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:25945.0
+passage.questions.5.question:Kako je ime mačke, ki je bila pokopana?
+passage.questions.5.idx:4859.0
+passage.questions.5.answers.4.text:Hughes
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:25944.0
+passage.questions.5.answers.3.text:Chruch
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:25943.0
+passage.questions.5.answers.2.text:Cerkev
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:25942.0
+passage.questions.5.answers.1.text:Victor
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:25941.0
+passage.questions.5.answers.0.text:Tace
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:25940.0
+passage.questions.4.question:Kdo so člani družine Creed?
+passage.questions.4.idx:4858.0
+passage.questions.4.answers.4.text:Louis, Rachel, Ellie in Gage
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:25939.0
+passage.questions.4.answers.3.text:Victor in Louis
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25938.0
+passage.questions.4.answers.2.text:Church in Louis
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:25937.0
+passage.questions.4.answers.1.text:Plenilec
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:25936.0
+passage.questions.4.answers.0.text:Louis, Rachel, Elies in Gage
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:25935.0
+passage.questions.3.question:Kaj se zgodi z Elliejevo mačko po umoru in pokopu?
+passage.questions.3.idx:4857.0
+passage.questions.3.answers.3.text:Cerkev oživi
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:25934.0
+passage.questions.3.answers.2.text:Oživljeno je
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25933.0
+passage.questions.3.answers.1.text:Victorja ubije
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25932.0
+passage.questions.3.answers.0.text:Ukrade ga Jud
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25931.0
+passage.questions.2.question:Koliko moških je omenjenih?
+passage.questions.2.idx:4856.0
+passage.questions.2.answers.2.text:Tri
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25930.0
+passage.questions.2.answers.1.text:Pet
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:25929.0
+passage.questions.2.answers.0.text:5.
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:25928.0
+passage.questions.18.question:Koga je na nevarni cesti blizu družinske hiše Creed udaril tovornjak?
+passage.questions.18.idx:4872.0
+passage.questions.18.answers.5.text:Gage
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:26002.0
+passage.questions.18.answers.4.text:Jud
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:26001.0
+passage.questions.18.answers.3.text:Elie
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:26000.0
+passage.questions.18.answers.2.text:Prijatelji
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:25999.0
+passage.questions.18.answers.1.text:Cerkev
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:25998.0
+passage.questions.18.answers.0.text:Victor Pascow
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:25997.0
+passage.questions.17.question:Kako se imenuje družina, ki se je preselila v nov dom s sosedo Jud?
+passage.questions.17.idx:4871.0
+passage.questions.17.answers.3.text:Cerkev
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:25996.0
+passage.questions.17.answers.2.text:Sosed
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:25995.0
+passage.questions.17.answers.1.text:Creed
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:25994.0
+passage.questions.17.answers.0.text:Victor
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:25993.0
+passage.questions.16.question:Kakšno sporočilo je dal Victor, ko je Louisu rekel, da bo prišel k njemu po smrti?
+passage.questions.16.idx:4870.0
+passage.questions.16.answers.4.text:Zapisek
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:25992.0
+passage.questions.16.answers.3.text:Kristjani
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:25991.0
+passage.questions.16.answers.2.text:Morsejeva abeceda
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:25990.0
+passage.questions.16.answers.1.text:Crytpic
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:25989.0
+passage.questions.16.answers.0.text:Kriptično
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:25988.0
+passage.questions.15.question:Kdo ali kaj napada očeta Creeda?
+passage.questions.15.idx:4869.0
+passage.questions.15.answers.3.text:Cerkev
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:25987.0
+passage.questions.15.answers.2.text:Mačka Elllie, Church
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:25986.0
+passage.questions.15.answers.1.text:Gage
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:25985.0
+passage.questions.15.answers.0.text:Jud
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:25984.0
+passage.questions.14.question:Katere države so v zgodbi poimenovane?
+passage.questions.14.idx:4868.0
+passage.questions.14.answers.3.text:Montana
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:25983.0
+passage.questions.14.answers.2.text:Maine in Chicago
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:25982.0
+passage.questions.14.answers.1.text:Mississippi in Maryland
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:25981.0
+passage.questions.14.answers.0.text:Maine
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:25980.0
+passage.questions.13.question:Koga je zadel tovornjak?
+passage.questions.13.idx:4867.0
+passage.questions.13.answers.4.text:Jud Crandal
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:25979.0
+passage.questions.13.answers.3.text:Victor in Gage
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:25978.0
+passage.questions.13.answers.2.text:Louis Creed
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:25977.0
+passage.questions.13.answers.1.text:Družina Creed
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:25976.0
+passage.questions.13.answers.0.text:Victor Pascow
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:25975.0
+passage.questions.12.question:Kje je Gage ubil tovornjak?
+passage.questions.12.idx:4866.0
+passage.questions.12.answers.3.text:Na poti
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:25974.0
+passage.questions.12.answers.2.text:Na dvorišču
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:25973.0
+passage.questions.12.answers.1.text:Na cesti pred domom Creed
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:25972.0
+passage.questions.12.answers.0.text:V njegovi hiši
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:25971.0
+passage.questions.11.question:Kakšno interakcijo imata Louis in Victor?
+passage.questions.11.idx:4865.0
+passage.questions.11.answers.4.text:Victor s svojim tovornjakom udari Louisa
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:25970.0
+passage.questions.11.answers.3.text:Louis je Victorja zdravil zaradi poškodb; Victor kasneje Ludvika opozori na pokopališče
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:25969.0
+passage.questions.11.answers.2.text:Ko Victor umre, zgrabi Louisa in mu reče, da mu bo &quot;prišel&quot;
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:25968.0
+passage.questions.11.answers.1.text:Borita se na pokopališču
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:25967.0
+passage.questions.11.answers.0.text:Louis udari Victorja s tovornjakom in si utrpi ogromne poškodbe glave
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:25966.0
+passage.questions.10.question:Koliko tovornih nesreč je bilo v prehodu?
+passage.questions.10.idx:4864.0
+passage.questions.10.answers.2.text:Tri
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:25965.0
+passage.questions.10.answers.1.text:3.
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:25964.0
+passage.questions.10.answers.0.text:Pet
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:25963.0
+passage.questions.1.question:Kaj se zgodi s Cerkvijo?
+passage.questions.1.idx:4855.0
+passage.questions.1.answers.4.text:ubil tovornjak
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:25927.0
+passage.questions.1.answers.3.text:Gage ga je ubil
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25926.0
+passage.questions.1.answers.2.text:Ubil ga je tovornjak, pokopan na pokopališču in se vrnil, da bi napadel Louisa
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25925.0
+passage.questions.1.answers.1.text:Vrnjeno v življenje
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:25924.0
+passage.questions.1.answers.0.text:Odseli se v Maine
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:25923.0
+passage.questions.0.question:So ljudje pokopani na pokopališču?
+passage.questions.0.idx:4854
+passage.questions.0.answers.2.text:V zgodbi ni pokopališča
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:25922.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25921
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:25920
+idx:432

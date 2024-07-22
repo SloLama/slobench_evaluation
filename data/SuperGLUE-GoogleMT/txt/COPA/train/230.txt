@@ -1,0 +1,6 @@
+choice1:Papir se je razrezal.
+choice2:Papir se je zavil.
+idx:230
+label:0
+premise:Deklica je škarje nanesla na papir.
+question:effect

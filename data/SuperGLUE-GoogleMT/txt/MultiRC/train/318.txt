@@ -1,0 +1,313 @@
+version:1.1
+passage.text:Kako bi bilo videti vesolje brez gravitacije? Ne bi imel planetov in zvezd. Tako je izgledalo, ko je bilo mlado. Ko je bilo vesolje mlado, je bil samo plin in prah. Iz tega plina in prahu je narejeno vse, kar zdaj vidimo. Kako so zvezde in planeti nastali samo iz plina in prahu? Odgovor je gravitacija. Ista gravitacija, ki vas zadržuje na Zemlji. Ista sila, zaradi katere se vam svinčnik odvali z mize. Ista sila, zaradi katere pade na tla. Nevidna sila gravitacije je povzročila, da so se delci prahu in plinov potegnili skupaj. Ta sila je tista, ki je tvorila vse predmete v našem sončnem sistemu. Ta sila je tvorila najmanjše lune. Oblikovalo je tudi naše Sonce. Ta sila je povzročila, da se je oblikoval več kot le naš sončni sistem. Povzročila je nastanek vseh drugih sončnih sistemov. Povzročila je nastanek vseh galaksij vesolja.
+passage.questions.9.question:Kako bi bilo videti vesolje brez gravitacije?
+passage.questions.9.idx:3622.0
+passage.questions.9.answers.7.text:Bilo je s planeti in zvezdami
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:19249.0
+passage.questions.9.answers.6.text:Tako kot zdaj
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:19248.0
+passage.questions.9.answers.5.text:Nobenih planetov
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:19247.0
+passage.questions.9.answers.4.text:Ne bi bilo planetov ali zvezd
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:19246.0
+passage.questions.9.answers.3.text:Bila sta samo plin in prah
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:19245.0
+passage.questions.9.answers.2.text:V vesolju bi bilo manj predmetov
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:19244.0
+passage.questions.9.answers.1.text:Brez zvezd
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:19243.0
+passage.questions.9.answers.0.text:Brez galaksij
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:19242.0
+passage.questions.8.question:Kaj gravitacija naredi vesolju?
+passage.questions.8.idx:3621.0
+passage.questions.8.answers.5.text:Ustvari zvezde in planete iz prahu in plinov tako, da jih povleče skupaj
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:19241.0
+passage.questions.8.answers.4.text:Predmete ločuje narazen
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:19240.0
+passage.questions.8.answers.3.text:Tvori plin in prah
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:19239.0
+passage.questions.8.answers.2.text:Pomaga pri oblikovanju hrane in vode
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:19238.0
+passage.questions.8.answers.1.text:Vleče predmete skupaj
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:19237.0
+passage.questions.8.answers.0.text:Pomaga pri oblikovanju zvezd in planetov
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:19236.0
+passage.questions.7.question:Brez gravitacije vesolje ne bi bilo nič drugega kot?
+passage.questions.7.idx:3620.0
+passage.questions.7.answers.3.text:Nič
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:19235.0
+passage.questions.7.answers.2.text:Planeti in zvezde
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:19234.0
+passage.questions.7.answers.1.text:Plin in prah
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:19233.0
+passage.questions.7.answers.0.text:Vesolje
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19232.0
+passage.questions.6.question:Kakšna sila povzroči, da vaš svinčnik pade na tla in oblikuje tudi vsak predmet v vesolju?
+passage.questions.6.idx:3619.0
+passage.questions.6.answers.3.text:Inercija
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:19231.0
+passage.questions.6.answers.2.text:Gravitacija
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:19230.0
+passage.questions.6.answers.1.text:Mehanska sila
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:19229.0
+passage.questions.6.answers.0.text:Centrifugalna sila
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:19228.0
+passage.questions.5.question:Kaj gravitacija počne na Zemlji?
+passage.questions.5.idx:3618.0
+passage.questions.5.answers.6.text:Predmeti se odmikajo drug od drugega
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:19227.0
+passage.questions.5.answers.5.text:Gravitacija nas zadržuje na Zemlji
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:19226.0
+passage.questions.5.answers.4.text:Pomaga pri pripravi hrane
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:19225.0
+passage.questions.5.answers.3.text:Zaradi tega so se predmeti vlekli proti zemlji
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:19224.0
+passage.questions.5.answers.2.text:Drži vas na Zemlji, povzroči, da se svinčniki odvalijo od mize in udarijo o tla
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19223.0
+passage.questions.5.answers.1.text:Nič
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:19222.0
+passage.questions.5.answers.0.text:Drži vas na zemlji
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:19221.0
+passage.questions.4.question:Katera sila je tvorila vse predmete v sončnem sistemu?
+passage.questions.4.idx:3617.0
+passage.questions.4.answers.3.text:Inercija
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:19220.0
+passage.questions.4.answers.2.text:Gravitacija
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19219.0
+passage.questions.4.answers.1.text:Mehanska sila
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:19218.0
+passage.questions.4.answers.0.text:Centrifugalna sila
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:19217.0
+passage.questions.3.question:Kaj je gravitacija oblikovala v našem vesolju?
+passage.questions.3.idx:3616.0
+passage.questions.3.answers.5.text:Galaksije, sončni sistemi in sonce
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:19216.0
+passage.questions.3.answers.4.text:Plin in prah
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:19215.0
+passage.questions.3.answers.3.text:Črne luknje
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:19214.0
+passage.questions.3.answers.2.text:Zvezde, planeti in galksije
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19213.0
+passage.questions.3.answers.1.text:Zvezde in planeti
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:19212.0
+passage.questions.3.answers.0.text:Entropija
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:19211.0
+passage.questions.2.question:Je gravitacija povzročila nastanek več kot enega sončnega sistema?
+passage.questions.2.idx:3615.0
+passage.questions.2.answers.1.text:Nihče ne ve
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19210.0
+passage.questions.2.answers.0.text:Da
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:19209.0
+passage.questions.16.question:Kaj je ustvarilo sonce in luno?
+passage.questions.16.idx:3629.0
+passage.questions.16.answers.4.text:Plin in prah
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:19289.0
+passage.questions.16.answers.3.text:Zvezde
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:19288.0
+passage.questions.16.answers.2.text:Galxies
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:19287.0
+passage.questions.16.answers.1.text:Gravitacija je oblikovala najmanjše lune, oblikovala je tudi Sonce
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:19286.0
+passage.questions.16.answers.0.text:Gravitacija
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:19285.0
+passage.questions.15.question:Kako je nastalo vesolje?
+passage.questions.15.idx:3628.0
+passage.questions.15.answers.5.text:S svetlobo zvezd
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:19284.0
+passage.questions.15.answers.4.text:Po črnih luknjah
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:19283.0
+passage.questions.15.answers.3.text:Iz hrane in vode
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:19282.0
+passage.questions.15.answers.2.text:Izdelana je bila iz gravitacije, ki deluje na plin in prah
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:19281.0
+passage.questions.15.answers.1.text:Sila gravitacije je povzročila, da sta se plin in prah vlekla skupaj
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:19280.0
+passage.questions.15.answers.0.text:Iz tega plina in prahu z uporabo gravitacije
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:19279.0
+passage.questions.14.question:Kaj je oblikovala gravitacija?
+passage.questions.14.idx:3627.0
+passage.questions.14.answers.6.text:Prah in delci plina
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:19278.0
+passage.questions.14.answers.5.text:Svetloba
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:19277.0
+passage.questions.14.answers.4.text:Zvezde
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:19276.0
+passage.questions.14.answers.3.text:Planeti
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:19275.0
+passage.questions.14.answers.2.text:Vesolje
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:19274.0
+passage.questions.14.answers.1.text:Voda in hrana
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:19273.0
+passage.questions.14.answers.0.text:Gravitacija je oblikovala vse predmete v našem osončju, najmanjše lune in Sonce
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:19272.0
+passage.questions.13.question:Kakšna sila povzroči, da se svinčniki odvalijo z vaše mize in padejo na tla?
+passage.questions.13.idx:3626.0
+passage.questions.13.answers.3.text:Je valjaste oblike
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:19271.0
+passage.questions.13.answers.2.text:Gravitacija
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:19270.0
+passage.questions.13.answers.1.text:Mehanska sila
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:19269.0
+passage.questions.13.answers.0.text:Centrifugalna sila
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:19268.0
+passage.questions.12.question:Kako bi bilo vesolje videti brez gravitacije, ko je bilo mlado?
+passage.questions.12.idx:3625.0
+passage.questions.12.answers.6.text:Delci plina in prahu
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:19267.0
+passage.questions.12.answers.5.text:Planeti in zvezde
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:19266.0
+passage.questions.12.answers.4.text:Zvezd in planetov bi bilo več
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:19265.0
+passage.questions.12.answers.3.text:Planetov bi bilo manj
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:19264.0
+passage.questions.12.answers.2.text:Ne bi bilo planetov ali zvezd in samo prah in plini
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:19263.0
+passage.questions.12.answers.1.text:Videti bi bilo tako kot zdaj
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:19262.0
+passage.questions.12.answers.0.text:Nobenih planetov, zvezd ali galaz
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:19261.0
+passage.questions.11.question:Gravitacija je potegnila prah in delce plina, da nastanejo?
+passage.questions.11.idx:3624.0
+passage.questions.11.answers.4.text:Planeti in zvezde
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:19260.0
+passage.questions.11.answers.3.text:Asteroidi
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:19259.0
+passage.questions.11.answers.2.text:Nič
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:19258.0
+passage.questions.11.answers.1.text:Hrana in voda
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:19257.0
+passage.questions.11.answers.0.text:Vse galaksije vesolja
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:19256.0
+passage.questions.10.question:Kakšno vlogo je imela gravitacija pri ustvarjanju vesolja?
+passage.questions.10.idx:3623.0
+passage.questions.10.answers.5.text:Pomagal je pri nastajanju zvezd in planetov
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:19255.0
+passage.questions.10.answers.4.text:Pomagal je pri nastajanju prahu in plinov
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:19254.0
+passage.questions.10.answers.3.text:Oblikoval je planete, zvezde in galaksije
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:19253.0
+passage.questions.10.answers.2.text:Ni obstajala do nastanka vesolja
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:19252.0
+passage.questions.10.answers.1.text:Ni igrala nobene vloge
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:19251.0
+passage.questions.10.answers.0.text:Povzročila je nastanek vseh drugih sončnih sistemov. Povzročila je nastanek vseh galaksij vesolja
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:19250.0
+passage.questions.1.question:Katere stvari počne gravitacija?
+passage.questions.1.idx:3614.0
+passage.questions.1.answers.6.text:Drži vas na zemlji
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:19208.0
+passage.questions.1.answers.5.text:Vaš svinčnik se odvali z mize
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:19207.0
+passage.questions.1.answers.4.text:Gravitacija vas zadržuje na Zemlji. povzroči, da se vam svinčnik odvali z mize. povzroči, da pade na tla
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:19206.0
+passage.questions.1.answers.3.text:Uniči planete in zvezde
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:19205.0
+passage.questions.1.answers.2.text:Gravitacija vas zadrži na zemlji in povzroči, da vam se svinčnik odvali z mize
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:19204.0
+passage.questions.1.answers.1.text:Povzroča plin in prah
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:19203.0
+passage.questions.1.answers.0.text:Kuha hrano in tvori vodo
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:19202.0
+passage.questions.0.question:Je vesolje vedno imelo sonce?
+passage.questions.0.idx:3613
+passage.questions.0.answers.3.text:Ne, vesolje ni imelo planetov ali zvezd, le plin in prah, iz katerih je bilo ustvarjeno Sonce
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:19201.0
+passage.questions.0.answers.2.text:Prišlo je pred vesoljem
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:19200.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19199
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:19198
+idx:318

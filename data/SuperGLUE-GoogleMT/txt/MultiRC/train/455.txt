@@ -1,0 +1,112 @@
+version:1.1
+passage.text:(CNN) - Po poročanju ministrstva za pravosodje je porota zveznega sodišča na Floridi obsodila sedem ljudi zaradi sodelovanja v globalnem podjetju za trgovino z otroško pornografijo. Porotniki so sedmo sredo obsodili več obtožb izkoriščanja otrok, pornografije in oviranja sodstva. Člani organizacije so prek internetnih skupin izmenjevali in delili &quot;nezakonite slike in video posnetke, ki prikazujejo otroke pred puberteto, vključno z malčki, ki so se ukvarjali z različnimi spolnimi in sadističnimi dejanji,&quot; so dejali tožilci. Obtožnica, vložena v zadevi, je podrobno komunicirala med člani skupine, ko so zamenjali slike in jih komentirali. &quot;Zahvaljujem se vam in vsem ostalim, ki skupaj tvorijo to največjo skupino pedonov, ki so se kdaj zbrale na enem mestu,&quot; je Freeman zapisal v odgovor na eno objavo v skladu z obtožnico. In objava Castlemana, navedena v obtožnici, se glasi: &quot;Hvala vsem za čudovito gradivo, ki je bilo objavljeno.&quot; Med 50 pričami, ki so pričale na sojenju, je bil avstralski policist, ki se je v skupino vdrl avgusta 2006. Poroti je povedal, da je skupina trdila več kot 400.000 slik in video posnetkov spolne zlorabe otrok, preden so jih organi pregona razstavili, piše v izjavi ministrstva za pravosodje. Vsakemu obdolžencu grozi kazen 20 let dosmrtnega zapora, denarne kazni in možnost nadzorovane izpustitve do konca življenja, so sporočile oblasti. Sedmerica bo obsojena 14. aprila. Med šestdnevnim sojenjem so dokazi pokazali, da je sedem sodelovalo pri &quot;dobro organizirani hudodelski združbi, katere namen je bil v dvoletnem obdobju razširjati slike spolnega zlorabljanja otrok. &quot; &quot;To je bilo obsežno mednarodno podjetje za trgovino z ljudmi, ki je uporabljalo sofisticirano računalniško tehnologijo šifriranja in tehnike izmenjave datotek,&quot; je v izjavi dejal Matthew Friedrich, vršilec dolžnosti pomočnika državnega tožilca. Sedem obtoženih je bil James Freeman iz plaže Santa Rosa na Floridi; Gary Lakey iz Andersona v Indiani; Marvin Lambert iz Indianapolisa, Indiana; Neville McGarity iz Medine v Teksasu; Warren Mumpower iz Spokane, Washington; Daniel Castleman iz Lubbocka v Teksasu; in Ronald White iz Burlingtona v Severni Karolini, poroča Ministrstvo za pravosodje.
+passage.questions.4.question:Kakšen stavek se bo soočil David Castleman iz Lubbocka v Teksasu?
+passage.questions.4.idx:5130.0
+passage.questions.4.answers.7.text:Obsodba na 20 let dosmrtnega zapora
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:27242.0
+passage.questions.4.answers.6.text:20 let do zapora, denarne kazni in možnost nadzorovane izpustitve
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:27241.0
+passage.questions.4.answers.5.text:Življenjska kazen
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:27240.0
+passage.questions.4.answers.4.text:Smrtna kazen ali dosmrtna kazen
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:27239.0
+passage.questions.4.answers.3.text:Globe in možnost nadzorovanega izpuščanja do konca življenja
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:27238.0
+passage.questions.4.answers.2.text:30 do 40 let zapora in denarne kazni
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:27237.0
+passage.questions.4.answers.1.text:20 let do zapora, denarne kazni in možnost nadzorovanega izpuščanja do konca življenja
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:27236.0
+passage.questions.4.answers.0.text:Obsodba na smrt
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:27235.0
+passage.questions.3.question:Kdo je poroti povedal, da je skupina prodala več kot 400.000 slik in video posnetkov spolne zlorabe otrok?
+passage.questions.3.idx:5129.0
+passage.questions.3.answers.4.text:Mathew Friedrich
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:27234.0
+passage.questions.3.answers.3.text:Sedem obtoženih
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:27233.0
+passage.questions.3.answers.2.text:Avstralski policist
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:27232.0
+passage.questions.3.answers.1.text:Castleman
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:27231.0
+passage.questions.3.answers.0.text:Ministrstvo za pravosodje
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:27230.0
+passage.questions.2.question:Zvezno sodišče na Floridi je obsodilo 7 ljudi zaradi sodelovanja v globalnem podjetju za trgovino z otroško pornografijo, kdaj bodo obsojeni?
+passage.questions.2.idx:5128.0
+passage.questions.2.answers.5.text:Avgusta 2006
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:27229.0
+passage.questions.2.answers.4.text:20. decembra
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:27228.0
+passage.questions.2.answers.3.text:V naslednjem letu
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:27227.0
+passage.questions.2.answers.2.text:5. novembra
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:27226.0
+passage.questions.2.answers.1.text:14. aprila
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:27225.0
+passage.questions.2.answers.0.text:Ne bodo obsojeni
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:27224.0
+passage.questions.1.question:Kdaj bo obsojen Daniel Castleman iz Lubbocka v Teksasu?
+passage.questions.1.idx:5127.0
+passage.questions.1.answers.5.text:Avgusta 2006
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:27223.0
+passage.questions.1.answers.4.text:20. decembra
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:27222.0
+passage.questions.1.answers.3.text:V naslednjem letu
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:27221.0
+passage.questions.1.answers.2.text:6. junija
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:27220.0
+passage.questions.1.answers.1.text:Ne bo obsojen
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:27219.0
+passage.questions.1.answers.0.text:14. aprila
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:27218.0
+passage.questions.0.question:Kakšna obtožba zvezne sodišča na Floridi je v več točkah obsodila 7 ljudi?
+passage.questions.0.idx:5126
+passage.questions.0.answers.7.text:Za mednarodno trgovino z uporabo šifriranih računalnikov
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:27217.0
+passage.questions.0.answers.6.text:Izkoriščanje otrok
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:27216.0
+passage.questions.0.answers.5.text:Eve dražila
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:27215.0
+passage.questions.0.answers.4.text:Omejevanje pravice
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:27214.0
+passage.questions.0.answers.3.text:Kraja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:27213.0
+passage.questions.0.answers.2.text:Pornografija
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:27212.0
+passage.questions.0.answers.1.text:Za spolno zlorabo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:27211
+passage.questions.0.answers.0.text:O zamenjavi nezakonitih slik in video posnetkov v spletu za dobiček
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:27210
+idx:455

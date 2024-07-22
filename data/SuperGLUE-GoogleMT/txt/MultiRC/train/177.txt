@@ -1,0 +1,54 @@
+version:1.1
+passage.text:Kamninske plasti se raztezajo bočno ali vstran. Pokrivajo lahko zelo velika območja. To še posebej velja, če so nastale na dnu starodavnih morij. Morja so zelo velika vodna območja. Sčasoma se na morskem dnu nalaga usedlina. Pokriti bodo z enakimi vrstami materiala. Ko se kamni oblikujejo iz tega sedimenta, bodo vse iste vrste. Kamenje se lahko premika nad vodo, ko se premikajo Zemljine plošče. Reke lahko sčasoma tečejo čez to območje. Reka se bo zarezala v skalo in jo razjedala. Plasti izpostavljene kamnine na obeh straneh reke se bodo še vedno ujemale. Poglejte Veliki kanjon na sliki 2.27. To je dober primer bočne kontinuitete. Na nasprotnih straneh kanjona lahko jasno vidite iste skalne plasti. Hkrati so se nalagale ustrezne plasti kamnin. So iste starosti.
+passage.questions.2.question:Kdaj je večja verjetnost, da bodo plasti kamnin pokrivale večje površine?
+passage.questions.2.idx:1956.0
+passage.questions.2.answers.5.text:ko kamenje pade
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:10198.0
+passage.questions.2.answers.4.text:Ko čez območje tečejo reke
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:10197.0
+passage.questions.2.answers.3.text:Ko nastajajo kamnine
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:10196.0
+passage.questions.2.answers.2.text:ko ni ničesar, kar bi oviralo njihovo rast
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:10195.0
+passage.questions.2.answers.1.text:Če so nastali na dnu morja
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:10194.0
+passage.questions.2.answers.0.text:ko nastanejo na dnu starodavnih morij
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:10193.0
+passage.questions.1.question:Kaj se sčasoma lahko zgodi, ko se med premikanjem zemeljskih plošč silijo kamni nad vodo?
+passage.questions.1.idx:1955.0
+passage.questions.1.answers.4.text:ljudje se bodo naselili na skali
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:10192.0
+passage.questions.1.answers.3.text:prišel bo hrup
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10191.0
+passage.questions.1.answers.2.text:Reka se bo zarezala v skalo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:10190.0
+passage.questions.1.answers.1.text:reke bodo razjedale skalo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:10189.0
+passage.questions.1.answers.0.text:Reke lahko sčasoma tečejo čez to območje
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10188.0
+passage.questions.0.question:Kaj je Grand Canyon dober primer?
+passage.questions.0.idx:1954
+passage.questions.0.answers.3.text:morja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:10187.0
+passage.questions.0.answers.2.text:Reke
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10186.0
+passage.questions.0.answers.1.text:Starodavna morja
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:10185
+passage.questions.0.answers.0.text:bočna kontinuiteta
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:10184
+idx:177

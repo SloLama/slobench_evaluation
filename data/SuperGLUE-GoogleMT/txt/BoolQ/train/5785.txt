@@ -1,0 +1,4 @@
+idx:5785
+label:True
+passage:Diferenciabilna funkcija - Če je f v točki x diferenciabilen, mora biti tudi f neprekinjen v x. Zlasti mora biti katera koli diferencirana funkcija neprekinjena na vsaki točki svoje domene. Nasprotno ne velja: zvezne funkcije ni treba razlikovati. Na primer, funkcija z upogibom, trnom ali navpično tangento je lahko neprekinjena, vendar je na mestu anomalije ni mogoče razlikovati.
+question:če je funkcija neprekinjena, je v tistem trenutku diferenciabilna

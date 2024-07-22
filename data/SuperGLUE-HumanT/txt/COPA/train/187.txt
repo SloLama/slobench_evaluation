@@ -1,0 +1,6 @@
+choice1:Z računalnika je izbrisala stare datoteke.
+choice2:Na računalnik je naložila novo programsko opremo.
+idx:187
+label:1
+premise:Nadgradila je strojno opremo na svojem računalniku.
+question:effect

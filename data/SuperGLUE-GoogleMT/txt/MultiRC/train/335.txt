@@ -1,0 +1,279 @@
+version:1.1
+passage.text:Preveč sem spil, priznam, čeprav smo vsi. Nekako sva se z Tasho začela prepirati, kako vreden je solevgrajski jazz, tako nepomembna tema, kot si lahko predstavljam. Študirala jo je v šoli, zato se je menila kot strokovnjakinja. Nekoč sem imel soseda, ki ga je igral nenehno, glasno in slabo, zato sem mislil, da ga bolje poznam. Malaquez je poskušal posredovati, vendar sem videl, da stoji na strani Tashe. Torej, mislim, da je tudi ona. Tema se je preusmerila iz glasbe v Tashovo obsedenost s slavo, nedvomno s skokom, ki sem ga naredil. Ni ji preostalo drugega, kot da je sledila. (Tega se prav zdaj ne spominjam, niti mi je vseeno. Tisti, ki so resnično radovedni, lahko pogledajo zadnje dejanje &quot;Ujetih trenutkov.&quot;) Spomnim se, da sem z značilnim taktom predlagal, naj Emilu doda njen majhen seznam glavnih dosežkov. Malaquez je osramočeno pogledal stran. Tasha me je pogledala, kot da bi rekla: &quot;Bom.&quot; Rekla je: &quot;Žal mi te je, Nardo. Emila bom videla domov.&quot; &quot;Da,&quot; sem rekel, &quot;Naredi to,&quot; in me ni zanimalo, kaj je storila ali zakaj. Emil je vprašal: &quot;Si v redu?&quot; Zamrmljal sem nekaj, kar si je verjetno razlagal kot privolitev. Oba sta stopila do Emilovega doma, medtem ko sem opazovala škrlatno mesečino, ki se je valila na oddaljenih valovih. Zgrožen nad Tasho, bolj pa nad samim seboj, sem končno spoznal, da se ne bo vrnila tisto noč, in šel v Spalni flamingo, da se napijem spat. Ko sem se zjutraj zbudila, ni prišla domov.
+passage.questions.9.question:Kje se domneva, da je Tasha prenočila?
+passage.questions.9.idx:3851.0
+passage.questions.9.answers.3.text:Pri Uspavanem flamingu
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:20422.0
+passage.questions.9.answers.2.text:Pri Malaquezovem domu
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:20421.0
+passage.questions.9.answers.1.text:Pri Emilu doma
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:20420.0
+passage.questions.9.answers.0.text:Z Nardom
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:20419.0
+passage.questions.8.question:Zakaj se je Nardo mislil kot strokovnjak za jazz Solevgard?
+passage.questions.8.idx:3850.0
+passage.questions.8.answers.3.text:Ni se menil za strokovnjaka
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:20418.0
+passage.questions.8.answers.2.text:Učil se ga je v šoli
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:20417.0
+passage.questions.8.answers.1.text:Igral ga je nenehno, glasno in slabo
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:20416.0
+passage.questions.8.answers.0.text:Nekoč je imel soseda, ki ga je igral nenehno, glasno in slabo
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:20415.0
+passage.questions.7.question:Kaj je Nardov sosed igral nenehno, glasno in slabo?
+passage.questions.7.idx:3849.0
+passage.questions.7.answers.3.text:Soul glasba
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:20414.0
+passage.questions.7.answers.2.text:Narodnozabavna glasba
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:20413.0
+passage.questions.7.answers.1.text:Jazz Solevgrad
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:20412.0
+passage.questions.7.answers.0.text:Bobni
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:20411.0
+passage.questions.6.question:Zakaj se Nardo s težavo spominja teh dogodkov?
+passage.questions.6.idx:3848.0
+passage.questions.6.answers.4.text:Preveč je pil
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:20410.0
+passage.questions.6.answers.3.text:Slab spomin ima
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:20409.0
+passage.questions.6.answers.2.text:Tam ga ni bilo in je samo pripovedovalec
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:20408.0
+passage.questions.6.answers.1.text:Bil je pijan
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:20407.0
+passage.questions.6.answers.0.text:Bilo je zelo dolgo nazaj
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:20406.0
+passage.questions.5.question:Kdo naj bi se po mnenju Narda zavzel za Taso?
+passage.questions.5.idx:3847.0
+passage.questions.5.answers.3.text:Nardo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:20405.0
+passage.questions.5.answers.2.text:Malaquez
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:20404.0
+passage.questions.5.answers.1.text:Emil
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:20403.0
+passage.questions.5.answers.0.text:Nihče
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:20402.0
+passage.questions.4.question:Kaj je sosed pripovedovalec nenehno glasno in slabo igral?
+passage.questions.4.idx:3846.0
+passage.questions.4.answers.4.text:Leta
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:20401.0
+passage.questions.4.answers.3.text:Bobni
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:20400.0
+passage.questions.4.answers.2.text:Etnična glasba
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:20399.0
+passage.questions.4.answers.1.text:Jazz Solevgrad
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:20398.0
+passage.questions.4.answers.0.text:R&#39;n&#39;B
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:20397.0
+passage.questions.3.question:Zakaj se je Tasha prepirala glede vrednosti solevgraškega jazza
+passage.questions.3.idx:3845.0
+passage.questions.3.answers.4.text:Bila je pijana in se je imela za strokovnjaka
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:20396.0
+passage.questions.3.answers.3.text:Bila je edina oseba, ki ni bila pijana in je želela razložiti
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:20395.0
+passage.questions.3.answers.2.text:Učila se je v šoli
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:20394.0
+passage.questions.3.answers.1.text:Igrala je solevgraški jazz
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:20393.0
+passage.questions.3.answers.0.text:Glede tega se ni prepirala
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:20392.0
+passage.questions.2.question:Kaj je Tasha študirala v šoli?
+passage.questions.2.idx:3844.0
+passage.questions.2.answers.2.text:V šolo ni hodila
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:20391.0
+passage.questions.2.answers.1.text:Psihologija
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:20390.0
+passage.questions.2.answers.0.text:Jazz Solevgrad
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:20389.0
+passage.questions.17.question:Kaj Nardo privoli v Tasho?
+passage.questions.17.idx:3859.0
+passage.questions.17.answers.4.text:Pojdi domov k Emilu
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:20458.0
+passage.questions.17.answers.3.text:Videti Emila domov
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:20457.0
+passage.questions.17.answers.2.text:Pojdi z njim do Uspavanega flaminga
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:20456.0
+passage.questions.17.answers.1.text:Emila dodajte na njen seznam glavnih dosežkov
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:20455.0
+passage.questions.17.answers.0.text:Nehajte obsedati s slavo
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:20454.0
+passage.questions.16.question:Kako se imenuje oseba, s katero se je prepirala Tasha?
+passage.questions.16.idx:3858.0
+passage.questions.16.answers.2.text:Nardo
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:20453.0
+passage.questions.16.answers.1.text:Emil
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:20452.0
+passage.questions.16.answers.0.text:Malaquez
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:20451.0
+passage.questions.15.question:Kateri predmet je Tasha študirala v šoli?
+passage.questions.15.idx:3857.0
+passage.questions.15.answers.3.text:Matematika
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:20450.0
+passage.questions.15.answers.2.text:Psihologija
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:20449.0
+passage.questions.15.answers.1.text:Jazz Solevgrad
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:20448.0
+passage.questions.15.answers.0.text:Sociologija
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:20447.0
+passage.questions.14.question:Na katero temo je Tasha mislila, da je strokovnjakinja, ker jo je študirala v šoli?
+passage.questions.14.idx:3856.0
+passage.questions.14.answers.4.text:Slava
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:20446.0
+passage.questions.14.answers.3.text:Obsedenost
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:20445.0
+passage.questions.14.answers.2.text:Nepomembna tema
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:20444.0
+passage.questions.14.answers.1.text:Jazz Solevgrad
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:20443.0
+passage.questions.14.answers.0.text:Predstava &quot;Ujeti trenutki&quot;
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:20442.0
+passage.questions.13.question:Kateri temi razprave Nardo meni, da je bila Tasha dolžna slediti?
+passage.questions.13.idx:3855.0
+passage.questions.13.answers.3.text:Njena obsedenost s slavo
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:20441.0
+passage.questions.13.answers.2.text:Njena ideja, da je strokovnjakinja za solegrajski jazz
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:20440.0
+passage.questions.13.answers.1.text:Jaz Solevgrad
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:20439.0
+passage.questions.13.answers.0.text:Njegov sosed, ki je nenehno in glasno igral jazz
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:20438.0
+passage.questions.12.question:Zakaj sta se pripovedovalec in Tasha spopadla zaradi jamskega Solevgrada?
+passage.questions.12.idx:3854.0
+passage.questions.12.answers.4.text:Oba imata zelo rada solevgrajski jazz
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:20437.0
+passage.questions.12.answers.3.text:Oba sta v šoli študirala jazz Solevgrad
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:20436.0
+passage.questions.12.answers.2.text:Oba sta bila pijana in oba sta se imela za strokovnjaka
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:20435.0
+passage.questions.12.answers.1.text:Oba igrata solevgraški jazz
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:20434.0
+passage.questions.12.answers.0.text:Tasha je mislila, da ve več o tem, ker jo je preučevala, pripovedovalec pa je mislil, da vedo več, ker jo je igral sosed
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:20433.0
+passage.questions.11.question:Zakaj se je druga oseba prepirala glede vrednosti jazza Solevgrad
+passage.questions.11.idx:3853.0
+passage.questions.11.answers.4.text:Bil je pijan in se je imel za strokovnjaka
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:20432.0
+passage.questions.11.answers.3.text:Oboževal je solevgrajski jazz
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:20431.0
+passage.questions.11.answers.2.text:V šoli je študiral jazz Solevgrad
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:20430.0
+passage.questions.11.answers.1.text:Igral je jazz Solevgrad
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:20429.0
+passage.questions.11.answers.0.text:Ta oseba je imela soseda, ki jo je vedno igral
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:20428.0
+passage.questions.10.question:Zakaj se je Tasha zdela strokovnjakinja za jazz Solevgrad?
+passage.questions.10.idx:3852.0
+passage.questions.10.answers.4.text:Ker je študirala v šoli
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:20427.0
+passage.questions.10.answers.3.text:Ker je imela rada svojo šolo
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:20426.0
+passage.questions.10.answers.2.text:Bila je pijana, sicer ni imela pojma, kaj je to
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:20425.0
+passage.questions.10.answers.1.text:Njen sosed jo je igral nenehno, glasno in slabo
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:20424.0
+passage.questions.10.answers.0.text:Oboževala je solevgrajski jazz
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:20423.0
+passage.questions.1.question:Kaj je Nardo mislil, da ve bolje?
+passage.questions.1.idx:3843.0
+passage.questions.1.answers.4.text:Psihologija
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:20388.0
+passage.questions.1.answers.3.text:Slava
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:20387.0
+passage.questions.1.answers.2.text:Tasha
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:20386.0
+passage.questions.1.answers.1.text:Jazz Solevgrad
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:20385.0
+passage.questions.1.answers.0.text:Plenilec
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:20384.0
+passage.questions.0.question:Zakaj pripovedovalka trdi, da se &quot;ničesar od tega dobro ne spomni&quot;?
+passage.questions.0.idx:3842
+passage.questions.0.answers.4.text:Piti so imeli preveč
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:20383.0
+passage.questions.0.answers.3.text:Slab spomin ima
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:20382.0
+passage.questions.0.answers.2.text:Tisto noč je bil pijan
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:20381.0
+passage.questions.0.answers.1.text:Nekdo mu je povedal, kaj se je zgodilo, in tiste noči ga dejansko ni bilo tam
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:20380
+passage.questions.0.answers.0.text:Bilo je zelo dolgo nazaj
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:20379
+idx:335

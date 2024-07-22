@@ -1,0 +1,112 @@
+version:1.1
+passage.text:Ko je Aleksander uničil Tir, je večina mest na poti v Egipt hitro kapitulirala. Kasnejša tradicija je zabeležila njegov vstop v Jeruzalem: po Jožefu Jožefu je Aleksanderu pokazala Danielovo prerokbo, verjetno 8. poglavje, v katerem je opisan mogočni grški kralj, ki bo osvojil Perzijsko cesarstvo. Prizanesel je Jeruzalemu in potisnil na jug v Egipt. Vendar je Aleksander v Gazi naletel na odpor. Trdnjava je bila močno utrjena in zgrajena na hribu, kar je zahtevalo obleganje. Ko so mu &quot;njegovi inženirji opozorili, da zaradi višine gomile to ne bi bilo mogoče ... je to Aleksanda še toliko bolj spodbudilo k poskusu&quot;. Po treh neuspešnih napadih je trdnjava padla, vendar šele preden je Aleksander dobil hudo ransko rano. Tako kot v Tiru so bili moški vojaških let pod mečem, ženske in otroci pa prodani v suženjstvo. Aleksander je kasneje leta 332 pr. N. Št. Napredoval proti Egiptu, kjer je veljal za osvoboditelja. Bil je razglašen za sin božanstva Amuna v Oracle Oasis of Siwa v libijski puščavi. Odslej je Aleksander Zevsa-Amona pogosto označeval za svojega pravega očeta, po njegovi smrti pa ga je valuta prikazovala okrašenega z ovnovim rogom kot simbol njegove božanskosti. Med bivanjem v Egiptu je ustanovil Aleksandrijo po Egiptu, ki bo po njegovi smrti postala uspešna prestolnica Ptolemejskega kraljestva.
+passage.questions.9.question:Koliko napadov je bilo potrebnih za zavzetje trdnjave?
+passage.questions.9.idx:4265.0
+passage.questions.9.answers.3.text:3 neuspešni napadi, četrti je bil uspeh
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:22690.0
+passage.questions.9.answers.2.text:3.
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:22689.0
+passage.questions.9.answers.1.text:6.
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:22688.0
+passage.questions.9.answers.0.text:2.
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:22687.0
+passage.questions.8.question:Kdo je prizanesel Jeruzalemu in potisnil na jug v Egipt?
+passage.questions.8.idx:4264.0
+passage.questions.8.answers.1.text:Aleksander
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:22686.0
+passage.questions.8.answers.0.text:Amun
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:22685.0
+passage.questions.7.question:Zakaj se je Aleksander po padcu srečal z Gazo?
+passage.questions.7.idx:4263.0
+passage.questions.7.answers.2.text:Bil je predan kralju
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:22684.0
+passage.questions.7.answers.1.text:Na rami se je hudo ranil
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:22683.0
+passage.questions.7.answers.0.text:Trdnjava je bila močno utrjena in zgrajena na hribu
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:22682.0
+passage.questions.6.question:Kaj je imel Aleksander, ko je napadel Egipt?
+passage.questions.6.idx:4262.0
+passage.questions.6.answers.1.text:Osvoboditelj
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:22681.0
+passage.questions.6.answers.0.text:Borec
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:22680.0
+passage.questions.5.question:Koga je najprej napadel? Pnevmatika ali Egipt?
+passage.questions.5.idx:4261.0
+passage.questions.5.answers.1.text:Pnevmatika
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:22679.0
+passage.questions.5.answers.0.text:Egipt
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:22678.0
+passage.questions.4.question:Kateri del Egipta je naletel na odpor?
+passage.questions.4.idx:4260.0
+passage.questions.4.answers.1.text:Gaza
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:22677.0
+passage.questions.4.answers.0.text:Jeruzalem
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:22676.0
+passage.questions.3.question:Kaj je v Egiptu ustanovil Aleksander med svojim bivanjem?
+passage.questions.3.idx:4259.0
+passage.questions.3.answers.2.text:Aleksandrija po Egiptu
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:22675.0
+passage.questions.3.answers.1.text:Sfinga
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22674.0
+passage.questions.3.answers.0.text:Aleksandrija z Egiptom, ki bo po njegovi smrti postala uspešna prestolnica Ptolemejskega kraljestva
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:22673.0
+passage.questions.2.question:Katero knjigo je Aleksander pokazal Aleksandru?
+passage.questions.2.idx:4258.0
+passage.questions.2.answers.1.text:Zevsova knjiga -Amon
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:22672.0
+passage.questions.2.answers.0.text:Knjiga Danielove prerokbe
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:22671.0
+passage.questions.10.question:Kaj se je zgodilo z usodo prebivalcev Tira?
+passage.questions.10.idx:4266.0
+passage.questions.10.answers.2.text:Ko so bili moški v vojaški dobi, so jih položili pod meč, ženske in otroke pa prodali v suženjstvo
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:22693.0
+passage.questions.10.answers.1.text:Moški v meč, ženske in otroci pa v suženjstvo
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:22692.0
+passage.questions.10.answers.0.text:Moške so odpeljali v vojsko, ženske pa v harem
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:22691.0
+passage.questions.1.question:Kaj je povzročilo odpor v Gazi?
+passage.questions.1.idx:4257.0
+passage.questions.1.answers.2.text:Trdnjava je bila močno utrjena in zgrajena na hribu, kar je zahtevalo obleganje
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:22670.0
+passage.questions.1.answers.1.text:Reka in kanali
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22669.0
+passage.questions.1.answers.0.text:Močno utrjena in zgrajena trdnjava na hribu
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22668.0
+passage.questions.0.question:Kaj se je zgodilo z državljani Gaze?
+passage.questions.0.idx:4256
+passage.questions.0.answers.2.text:Moške so postavili pod meč, ženske in otroke pa prodali v suženjstvo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:22667.0
+passage.questions.0.answers.1.text:Moške in ženske so ubijali, otroke pa prizanašali
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:22666
+passage.questions.0.answers.0.text:Moški vojaške starosti so bili pod mečem, ženske in otroci pa prodani v suženjstvo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22665
+idx:371

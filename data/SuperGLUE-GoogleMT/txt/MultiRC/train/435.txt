@@ -1,0 +1,220 @@
+version:1.1
+passage.text:Ko se hrana potiska naprej, se prebavi. Prebava je postopek razgradnje hrane na hranila. Obstajata dve vrsti prebave: mehanska in kemična. Mehanska prebava se zgodi, ko velike kose pretvorimo v manjše. Morda ni presenetljivo, da se to zgodi, ko žvečite hrano. Ko hrano pogoltnete, nekaj od tega opravi tudi želodec. Kemična prebava se zgodi, ko se hrana razgradi na koristne hranilne snovi. To je kemični postopek, ki se začne, ko začnete žvečiti hrano. Slina v ustih začne ta postopek. Ko enkrat pogoltnete, kislina v želodcu dodatno razgradi hrano. Iz želodca se hrana premakne v tanko črevo. V tankem črevesju deluje še en niz kemikalij. Ali si presenečen? Večino dela opravi vaše tanko črevo in ne želodec!
+passage.questions.9.question:Kaj je prebava?
+passage.questions.9.idx:4910.0
+passage.questions.9.answers.6.text:Kislina v želodcu še dodatno razgrajuje hrano
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:26158.0
+passage.questions.9.answers.5.text:Ta postopek začne slina v ustih
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:26157.0
+passage.questions.9.answers.4.text:Je postopek razgradnje hrane na hranila
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:26156.0
+passage.questions.9.answers.3.text:Hrana izgine
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:26155.0
+passage.questions.9.answers.2.text:Proces razgradnje tankega črevesa na hranila z mehanskimi in kemičnimi sredstvi
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:26154.0
+passage.questions.9.answers.1.text:Hrana se razgradi na koristna hranila
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:26153.0
+passage.questions.9.answers.0.text:Kemična reakcija
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:26152.0
+passage.questions.8.question:Kaj je mehanska prebava?
+passage.questions.8.idx:4909.0
+passage.questions.8.answers.6.text:Veliki kosi se spremenijo v manjše
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:26151.0
+passage.questions.8.answers.5.text:Uporaba kemikalij za razgradnjo živil
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:26150.0
+passage.questions.8.answers.4.text:Pojavi se, ko velike kose pretvorimo v manjše
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:26149.0
+passage.questions.8.answers.3.text:Majhni kosi se spremenijo v manjše kose
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:26148.0
+passage.questions.8.answers.2.text:Kemična reakcija
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:26147.0
+passage.questions.8.answers.1.text:Pojavi se, ko velike kose pretvorimo v manjše glave, ki jih naredimo z žvečenjem
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:26146.0
+passage.questions.8.answers.0.text:Za jesti uporabite cev
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:26145.0
+passage.questions.7.question:Na kateri točki se začne kemična prebava?
+passage.questions.7.idx:4908.0
+passage.questions.7.answers.6.text:Ko žvečite hrano
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:26144.0
+passage.questions.7.answers.5.text:Ko vstopi v želodec
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:26143.0
+passage.questions.7.answers.4.text:Ko vstopi v usta
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:26142.0
+passage.questions.7.answers.3.text:Ko začnete žvečiti
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:26141.0
+passage.questions.7.answers.2.text:Ko vaše tanko črevo začne žvečiti hrano
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:26140.0
+passage.questions.7.answers.1.text:Ko vstopi v tanko črevo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:26139.0
+passage.questions.7.answers.0.text:Ko hrano pogoltnete
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:26138.0
+passage.questions.6.question:Ali je kislina, ki razgrajuje hrano v želodcu, primer mehanske ali kemične prebave?
+passage.questions.6.idx:4907.0
+passage.questions.6.answers.2.text:Kemična prebava
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:26137.0
+passage.questions.6.answers.1.text:Nobenega
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26136.0
+passage.questions.6.answers.0.text:Mehanska prebava
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:26135.0
+passage.questions.5.question:Kam se prehranjujejo živila iz želodca?
+passage.questions.5.idx:4906.0
+passage.questions.5.answers.5.text:Tanko črevo
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:26134.0
+passage.questions.5.answers.4.text:Debelo črevo
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:26133.0
+passage.questions.5.answers.3.text:Tanko črevo
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:26132.0
+passage.questions.5.answers.2.text:Jetra
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:26131.0
+passage.questions.5.answers.1.text:Črevesje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:26130.0
+passage.questions.5.answers.0.text:Danke
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:26129.0
+passage.questions.4.question:Kaj vključuje mehanska prebava?
+passage.questions.4.idx:4905.0
+passage.questions.4.answers.4.text:Pljuvanje hrane
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:26128.0
+passage.questions.4.answers.3.text:Veliki kosi se spremenijo v manjše
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:26127.0
+passage.questions.4.answers.2.text:Mehanska prebava se zgodi, ko velike kose spremenimo v manjše, to se zgodi, ko hrano prežvečite
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:26126.0
+passage.questions.4.answers.1.text:Ko se hrana razgradi na koristna hranila
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:26125.0
+passage.questions.4.answers.0.text:Škrtanje zob
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:26124.0
+passage.questions.3.question:Kateri organi pomagajo prebavi?
+passage.questions.3.idx:4904.0
+passage.questions.3.answers.5.text:Slina
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:26123.0
+passage.questions.3.answers.4.text:prebavo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:26122.0
+passage.questions.3.answers.3.text:Jezik
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:26121.0
+passage.questions.3.answers.2.text:Usta
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:26120.0
+passage.questions.3.answers.1.text:Tanko črevo
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26119.0
+passage.questions.3.answers.0.text:Želodec
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:26118.0
+passage.questions.2.question:Kaj v ustih začne postopek kemične prebave?
+passage.questions.2.idx:4903.0
+passage.questions.2.answers.3.text:Dlesni
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:26117.0
+passage.questions.2.answers.2.text:Slina
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:26116.0
+passage.questions.2.answers.1.text:Zobje
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26115.0
+passage.questions.2.answers.0.text:Jezik
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:26114.0
+passage.questions.10.question:Kaj je kemična prebava in kje se pojavlja?
+passage.questions.10.idx:4911.0
+passage.questions.10.answers.8.text:Ko se veliki kosi hrane zmanjšajo na majhne koščke v ustih
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:26167.0
+passage.questions.10.answers.7.text:Veliki kosi se spremenijo v manjše
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:26166.0
+passage.questions.10.answers.6.text:Pojavi se v ustih
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:26165.0
+passage.questions.10.answers.5.text:Pojavi se, ko se hrana razgradi na koristna hranila v ustih, želodcu in tankem črevesju
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:26164.0
+passage.questions.10.answers.4.text:Ko se kisik loči od zraka, ki ga dihamo, v pljučih
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:26163.0
+passage.questions.10.answers.3.text:Ko se ostanki hrane izločijo iz telesa, prebavne poti
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:26162.0
+passage.questions.10.answers.2.text:Pojavi se, ko se hrana razgradi na koristna hranila, pojavi se v želodcu in ustih
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:26161.0
+passage.questions.10.answers.1.text:Hrana se razgradi na koristna hranila
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:26160.0
+passage.questions.10.answers.0.text:Pojavi se v želodcu
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:26159.0
+passage.questions.1.question:Katere telesne tekočine pomagajo pri prebavi?
+passage.questions.1.idx:4902.0
+passage.questions.1.answers.6.text:Slina in kislina v želodcu
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:26113.0
+passage.questions.1.answers.5.text:Slinava kislina
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:26112.0
+passage.questions.1.answers.4.text:Kri
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:26111.0
+passage.questions.1.answers.3.text:Slina in kri v krvi
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:26110.0
+passage.questions.1.answers.2.text:Slina, želodčna kislina, kemikalije tankega črevesa
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:26109.0
+passage.questions.1.answers.1.text:Slina in želodčna kislina
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:26108.0
+passage.questions.1.answers.0.text:Dihalna tekočina in slina
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26107.0
+passage.questions.0.question:Katera vrsta prebave se zgodi, ko žvečite hrano?
+passage.questions.0.idx:4901
+passage.questions.0.answers.3.text:Prebava v slini
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:26106.0
+passage.questions.0.answers.2.text:Kemična prebava
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:26105.0
+passage.questions.0.answers.1.text:Mehanska prebava
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26104
+passage.questions.0.answers.0.text:Molarna prebava
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:26103
+idx:435

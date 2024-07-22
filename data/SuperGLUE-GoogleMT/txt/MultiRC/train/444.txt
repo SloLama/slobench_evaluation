@@ -1,0 +1,99 @@
+version:1.1
+passage.text:Allan se je usedel za pisalno mizo in potegnil stol k sebi. Odprl je stranski predal, vzel je papir in črnilo. Ko je napolnil pero, je pogledal papir v oranžnem sijaju luči, postavljene nazaj v desni kot pisalne mize. Njegovo pero je metalo prepovedano črto senc, ki so se nagibale po strani, in odmevala črnila v temi, ki se je skrivala na robovih žarečega sijaja luči. Edina druga razsvetljava je prihajala iz močne mesečine, filtrirane skozi tanke veje in oblake, ki je oddajala svoj bledo sijaj na borove talne deske. Allan je odprl še eno stran, na tej je bilo od leve proti desni polno vrst črk. Vrstice črk so stopile v svoje oddelke v obliki orisa zgodbe: ohlapno, suho okostje pravljice je ležalo izpostavljeno pod njihovimi nogami in čakalo na kite, mišice in zardelo kožo. Allan je pregledal vojake, ki so bili vsi pripravljeni na izkrcanje, njihovo nalogo, da oblikujejo zgodbo o mladeniču, ki se vrača domov iz Življenja v tujini, da bi našel prijateljico iz otroštva nevesto, s čimer je razburil jabolčni voz svojega življenjskega načrta, pojasnil - seveda - ko je bil odsoten od nje, je imel najbolj rad. Čeprav je bil koncept preprost, je Allan mislil, da ima potencial. Poleg tega je bila javnosti všeč dobra, preprosta romanca. Morda bo to bolj prodajno, je pomislil in začel pisati. Pogledala sta se drug drugega, izgubljena v navdušenju nad ljubeznijo, ki je bila tako globoko v njihovih srcih, da je še nikoli prej niso videli. &quot;Kaj pa Roger?&quot; je vprašala, saj je vedela, da odgovor ni več pomemben.
+passage.questions.5.question:Katere korake je Allan naredil pred pisanjem?
+passage.questions.5.idx:5016.0
+passage.questions.5.answers.6.text:Sedel na svojo knjigo in napolnil svojo mizo
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:26645.0
+passage.questions.5.answers.5.text:Pojedel je malico in napolnil pero
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:26644.0
+passage.questions.5.answers.4.text:Napolnil je pero in dobil kup ovojnic
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:26643.0
+passage.questions.5.answers.3.text:Spraznil je pero
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:26642.0
+passage.questions.5.answers.2.text:Sedel je za pisalno mizo in si pero napolnil s črnilom
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:26641.0
+passage.questions.5.answers.1.text:Sedel na pero in napolnil svojo knjigo
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:26640.0
+passage.questions.5.answers.0.text:Odstranil je pisalno mizo, se usedel za predal, napolnil papir, pero in črnilo, odprl pisalo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:26639.0
+passage.questions.4.question:Kateri stavki označujejo črke kot skupino vojaških mož?
+passage.questions.4.idx:5015.0
+passage.questions.4.answers.5.text:&quot;pripravljen za izkrcanje&quot;
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:26638.0
+passage.questions.4.answers.4.text:&quot;Allan je pregledal vojake&quot;
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:26637.0
+passage.questions.4.answers.3.text:&quot;razburil jabolčni voz svojega življenjskega načrta&quot;
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:26636.0
+passage.questions.4.answers.2.text:&quot;njegova prijateljica iz otroštva nevesta&quot;
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:26635.0
+passage.questions.4.answers.1.text:&quot;je bil zelo rad zunaj nje,&quot;
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:26634.0
+passage.questions.4.answers.0.text:&quot;Stopili v svoje oddelke&quot;
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:26633.0
+passage.questions.3.question:Katera dva svetlobna vira uporablja Allan za pisanje?
+passage.questions.3.idx:5014.0
+passage.questions.3.answers.4.text:Lanter in sveča
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:26632.0
+passage.questions.3.answers.3.text:Tajna služba
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:26631.0
+passage.questions.3.answers.2.text:Pen, njegovo črnilo in miza
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26630.0
+passage.questions.3.answers.1.text:Luč luči in mesečina
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26629.0
+passage.questions.3.answers.0.text:Dve luči
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:26628.0
+passage.questions.2.question:Omenjeni sta dve strani. Kaj je opisano z mešanimi metaforami, prvo ali drugo?
+passage.questions.2.idx:5013.0
+passage.questions.2.answers.1.text:Najprej
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26627.0
+passage.questions.2.answers.0.text:Drugič
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26626.0
+passage.questions.1.question:Na kateri strani papirja ima Allan pero?
+passage.questions.1.idx:5012.0
+passage.questions.1.answers.2.text:Levo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:26625.0
+passage.questions.1.answers.1.text:Odgovor ni naveden
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26624.0
+passage.questions.1.answers.0.text:Prav
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26623.0
+passage.questions.0.question:Poimenujte nekaj predmetov, ki naj bi bili v ali na Alanovi mizi
+passage.questions.0.idx:5011
+passage.questions.0.answers.4.text:svetilka
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:26622.0
+passage.questions.0.answers.3.text:Pisalo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:26621.0
+passage.questions.0.answers.2.text:Inkpot
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:26620.0
+passage.questions.0.answers.1.text:Svinčnik
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:26619
+passage.questions.0.answers.0.text:Radirka
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:26618
+idx:444

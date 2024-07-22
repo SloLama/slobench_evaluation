@@ -1,0 +1,6 @@
+choice1:Lastnik je pomagal strankam.
+choice2:Trgovina je bila v prenovi.
+idx:68
+label:1
+premise:Trgovina je bila zaprta.
+question:cause

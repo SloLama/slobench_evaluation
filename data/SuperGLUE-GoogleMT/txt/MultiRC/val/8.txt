@@ -1,0 +1,172 @@
+version:1.1
+passage.text:Albert Bandura OC (/ baen&#39;dU @ r @ /; rojen 4. decembra 1925) je psiholog, zaslužni profesor David Starr Jordan iz družbene znanosti v psihologiji na univerzi Stanford. Skoraj šest desetletij je bil odgovoren za prispevke na področju izobraževanja in na številnih področjih psihologije, vključno s socialno kognitivno teorijo, terapijo in psihologijo osebnosti, vplival pa je tudi na prehodu med biheviorizem in kognitivno psihologijo. Znan je kot začetnik teorije socialnega učenja in teoretičnega konstrukta samo-učinkovitosti, odgovoren pa je tudi za vplivni eksperiment lutke Bobo iz leta 1961. Teorija socialnega učenja je, kako se ljudje učijo z opazovanjem drugih. Primer teorije socialnega učenja bi bili učenci, ki posnemajo učitelja. Samoučinkovitost je &quot;Prepričanje v zmožnost organiziranja in izvajanja akcij, potrebnih za obvladovanje potencialnih situacij.&quot; Če parafraziram, samoučinkovitost je verjeti vase, da ukrepate. V eksperimentu z lutko Bobo je Albert Bandura preučeval agresijo in neagresijo pri otrocih. Raziskava leta 2002 je Banduro uvrstila na četrto mesto najpogosteje citiranih psihologov vseh časov, za BF Skinnerjem, Sigmundom Freudom in Jeanom Piagetom ter med najbolj citirane žive. Banduro na splošno opisujejo kot največjega živečega psihologa in kot enega najvplivnejših psihologov vseh časov. Leta 1974 je bil Bandura izvoljen za osemindvajsetega predsednika Ameriškega psihološkega združenja (APA). Bil je eden najmlajših volilnih predsednikov v zgodovini APA v starosti 48 let. Bandura je bil član odbora za znanstvene zadeve APA od leta 1968 do 1970 in je dobro znan kot član uredniškega odbora devetih revije za psihologijo, vključno z Journal of Personality and Social Psychology od leta 1963 do 1972. V starosti 82 let je Bandura prejel Grawemeyerjevo nagrado za psihologijo.
+passage.questions.9.question:Koliko je bil Bandura star, ko je bil četrti najpogosteje citiran psiholog vseh časov?
+passage.questions.9.idx:85.0
+passage.questions.9.answers.5.text:74
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:386.0
+passage.questions.9.answers.4.text:Sedemdeset Sevem
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:385.0
+passage.questions.9.answers.3.text:76
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:384.0
+passage.questions.9.answers.2.text:Štiriinsedemdeset
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:383.0
+passage.questions.9.answers.1.text:44
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:382.0
+passage.questions.9.answers.0.text:77
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:381.0
+passage.questions.8.question:V katerem letu je Albert Bandura preučeval agresijo in neagresijo pri otrocih?
+passage.questions.8.idx:84.0
+passage.questions.8.answers.2.text:2002
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:380.0
+passage.questions.8.answers.1.text:1961
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:379.0
+passage.questions.8.answers.0.text:1974
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:378.0
+passage.questions.7.question:V katerem letu je Bandura prejel Grawemeyerjevo nagrado za psihologijo.
+passage.questions.7.idx:83.0
+passage.questions.7.answers.3.text:2002
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:377.0
+passage.questions.7.answers.2.text:2000
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:376.0
+passage.questions.7.answers.1.text:2007
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:375.0
+passage.questions.7.answers.0.text:2010
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:374.0
+passage.questions.6.question:Kako je ime psihologu, ki je znan kot začetnik teorije socialnega učenja?
+passage.questions.6.idx:82.0
+passage.questions.6.answers.4.text:David Starr
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:373.0
+passage.questions.6.answers.3.text:Bandura
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:372.0
+passage.questions.6.answers.2.text:Albert Bandura
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:371.0
+passage.questions.6.answers.1.text:Skinner
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:370.0
+passage.questions.6.answers.0.text:Jordan
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:369.0
+passage.questions.5.question:Kdo je začetnik teorije socialnega učenja?
+passage.questions.5.idx:81.0
+passage.questions.5.answers.7.text:Albert Bandura OC
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:368.0
+passage.questions.5.answers.6.text:Albert Einstein
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:367.0
+passage.questions.5.answers.5.text:Bandura
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:366.0
+passage.questions.5.answers.4.text:David Starr
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:365.0
+passage.questions.5.answers.3.text:David Starr Jordan
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:364.0
+passage.questions.5.answers.2.text:Albert Bandura
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:363.0
+passage.questions.5.answers.1.text:Skinner
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:362.0
+passage.questions.5.answers.0.text:BF Skinner
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:361.0
+passage.questions.4.question:Koliko je bil Bandura star, ko je ustvaril poskus Bobo Doll?
+passage.questions.4.idx:80.0
+passage.questions.4.answers.4.text:42
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:360.0
+passage.questions.4.answers.3.text:36
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:359.0
+passage.questions.4.answers.2.text:Dvaindvajset
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:358.0
+passage.questions.4.answers.1.text:22.
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:357.0
+passage.questions.4.answers.0.text:Šestintrideset
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:356.0
+passage.questions.3.question:Katero leto je bil izvoljen najmlajši predsednik v APA?
+passage.questions.3.idx:79.0
+passage.questions.3.answers.3.text:1973
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:355.0
+passage.questions.3.answers.2.text:1970
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:354.0
+passage.questions.3.answers.1.text:1977
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:353.0
+passage.questions.3.answers.0.text:1974
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:352.0
+passage.questions.2.question:V katerem letu je Albert Bandura preučeval agresijo pri otrocih?
+passage.questions.2.idx:78
+passage.questions.2.answers.2.text:1961
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:351.0
+passage.questions.2.answers.1.text:1967
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:350
+passage.questions.2.answers.0.text:1964
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:349
+passage.questions.10.question:Kdaj je Bandura delala z otroki?
+passage.questions.10.idx:86.0
+passage.questions.10.answers.2.text:1961
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:389.0
+passage.questions.10.answers.1.text:1980
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:388.0
+passage.questions.10.answers.0.text:1942
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:387.0
+passage.questions.1.question:Za kateri vplivni eksperiment, izveden leta 1961, je odgovoren četrti najpogosteje omenjeni psiholog?
+passage.questions.1.idx:77
+passage.questions.1.answers.4.text:Poskus lutke Bobo
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:348.0
+passage.questions.1.answers.3.text:Lutka Bobo
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:347.0
+passage.questions.1.answers.2.text:Grawemeyerjeve izkušnje
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:346.0
+passage.questions.1.answers.1.text:Albert Bandura
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:345
+passage.questions.1.answers.0.text:Lutka Bobo
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:344
+passage.questions.0.question:Je bil eksperiment Bobo Doll uporabljen za razvoj teorije socialnega učenja?
+passage.questions.0.idx:76
+passage.questions.0.answers.2.text:Ne, lutka je bila uporabljena za preučevanje agresije
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:343.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:342
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:341
+idx:8

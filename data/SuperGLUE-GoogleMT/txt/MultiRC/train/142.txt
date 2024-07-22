@@ -1,0 +1,59 @@
+version:1.1
+passage.text:Albert Camus (francosko: [albeR kamy]; 7. november 1913 - 4. januar 1960) je bil francoski dobitnik Nobelove nagrade, novinar in filozof. Njegova stališča so prispevala k vzponu filozofije, znane kot absurdizem. V svojem eseju Upornik je zapisal, da je bilo vse življenje posvečeno nasprotovanju filozofiji nihilizma, medtem ko se je še vedno poglabljal v individualno svobodo. Camus se ni imel za eksistencialista, čeprav je bil v svojem življenju običajno uvrščen mednje. V intervjuju iz leta 1945 je Camus zavrnil kakršna koli ideološka združenja: &quot;Ne, nisem eksistencialist. Sartre in vedno sem presenečen, ko vidimo, da so naša imena povezana ...&quot;. Camus se je rodil v Alžiriji v družini Pied-Noir in je študiral na univerzi v Alžiru. Leta 1949 je Camus ustanovil Skupino za mednarodne zveze, da bi &quot;obtožil dve ideologiji, ki sta jo našli tako v ZSSR kot v ZDA&quot;.
+passage.questions.3.question:Kdaj in kje se je rodil Albert Camus?
+passage.questions.3.idx:1610.0
+passage.questions.3.answers.4.text:November
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:8355.0
+passage.questions.3.answers.3.text:7. novembra 1913 - Alžirija
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:8354.0
+passage.questions.3.answers.2.text:Rodil se je leta 1913 v Alžiriji
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:8353.0
+passage.questions.3.answers.1.text:4. januar 1960
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8352.0
+passage.questions.3.answers.0.text:4. julij 1955 - Alžirija
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8351.0
+passage.questions.2.question:Poimenujte Camusov esej, iz katerega je nastala miselna šola, imenovana absurdizem.
+passage.questions.2.idx:1609.0
+passage.questions.2.answers.2.text:Upornik
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:8350.0
+passage.questions.2.answers.1.text:Alkimist
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8349.0
+passage.questions.2.answers.0.text:Borec
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8348.0
+passage.questions.1.question:Poimenujte eksistencialističnega pisatelja, od katerega se je Camus ideološko distanciral.
+passage.questions.1.idx:1608.0
+passage.questions.1.answers.2.text:Godwin
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8347.0
+passage.questions.1.answers.1.text:Hemingway
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8346.0
+passage.questions.1.answers.0.text:Sartre
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:8345.0
+passage.questions.0.question:Katere sledi lahko ugotovimo, da je Camus verjel, da je nihilizem problem v ZDA in ZSSR?
+passage.questions.0.idx:1607
+passage.questions.0.answers.4.text:Camus je dejal, da je celo življenje obsojal nihilizem in dejal, da je ustanovil Skupino za mednarodne zveze, da bi &quot;obsodil dve ideologiji v ZSSR in ZDA&quot;
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:8344.0
+passage.questions.0.answers.3.text:Leta 1949 je Camus ustanovil Skupino za mednarodne zveze, da bi &quot;obsodil dve ideologiji v ZSSR in ZDA&quot;.
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:8343.0
+passage.questions.0.answers.2.text:Bil je eksistencialist
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8342.0
+passage.questions.0.answers.1.text:Bil je predan nihilizmu, medtem ko se je še vedno poglabljal v svobodo posameznika
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8341
+passage.questions.0.answers.0.text:Tako je povedal v intervjuju
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8340
+idx:142

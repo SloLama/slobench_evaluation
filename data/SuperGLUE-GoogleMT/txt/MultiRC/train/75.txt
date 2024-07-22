@@ -1,0 +1,94 @@
+version:1.1
+passage.text:Einstein je bil nezadovoljen s kvantno teorijo in mehaniko (prav teorijo, ki jo je pomagal ustvariti), kljub temu da so jo sprejeli drugi fiziki, in izjavil, da Bog &quot;ne igra na kocke&quot;. Einstein je še naprej ohranil svojo nevero v teorijo in jo neuspešno poskušal ovreči, dokler ni umrl v starosti 76 let. Leta 1917 je Einstein na vrhuncu svojega dela o relativnosti objavil članek v Physikalische Zeitschrift, ki je predlagal možnost spodbujanja fizični proces, ki omogoča maser in laser. Ta članek je pokazal, da bi bili statistični podatki o absorpciji in oddajanju svetlobe skladni s Planckovim zakonom o distribuciji le, če bi se emisija svetlobe v način z n fotoni statistično povečala v primerjavi z oddajanjem svetlobe v prazen način. Ta članek je imel velik vpliv na kasnejši razvoj kvantne mehanike, ker je bil prvi članek, ki je pokazal, da ima statistika atomskih prehodov preproste zakone. Einstein je odkril delo Louisa de Broglieja in podprl njegove ideje, ki so bile sprva sprejete skeptično. V drugem pomembnem članku iz te dobe je Einstein podal valovno enačbo za de Brogliejeve valove, za katero je Einstein predlagal, da je Hamilton-Jacobijeva enačba mehanike. Ta članek bi navdihnil Schrodingerjevo delo leta 1926.
+passage.questions.7.question:Koga je Einstein odkril, kar bo kasneje navdihnilo Schrodingerjevo delo?
+passage.questions.7.idx:878.0
+passage.questions.7.answers.2.text:Louis de Broglie
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4552.0
+passage.questions.7.answers.1.text:Deska
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4551.0
+passage.questions.7.answers.0.text:Schrodinger
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4550.0
+passage.questions.6.question:Katera enačba je dobila navdih za Schrodingerjevo delo?
+passage.questions.6.idx:877.0
+passage.questions.6.answers.3.text:Hamilton-Jacobova enačba mehanike
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:4549.0
+passage.questions.6.answers.2.text:Einsteinova enačba
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4548.0
+passage.questions.6.answers.1.text:Enačba De Broglie
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4547.0
+passage.questions.6.answers.0.text:Hamilton-Jacobijeva enačba
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4546.0
+passage.questions.5.question:Einstein je še naprej ohranil svojo nevero v katero teorijo?
+passage.questions.5.idx:876.0
+passage.questions.5.answers.2.text:Schrodingerjeva teorija
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4545.0
+passage.questions.5.answers.1.text:Kvantna teorija
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4544.0
+passage.questions.5.answers.0.text:De Brogliejeva teorija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4543.0
+passage.questions.4.question:Kaj je bil prispevek, ki je vplival na razvoj kvantne mehanike?
+passage.questions.4.idx:875.0
+passage.questions.4.answers.3.text:Članek v Physikalische Zeitschrift
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:4542.0
+passage.questions.4.answers.2.text:Physikalische Zeitschrift
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4541.0
+passage.questions.4.answers.1.text:Statistika absorpcije in emisije svetlobe
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4540.0
+passage.questions.4.answers.0.text:Schrodingerjevo delo iz leta 1926
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4539.0
+passage.questions.3.question:Kaj je Einstein po odkritju dela Louisa de Broglieja dal za de Brogliejeve valove?
+passage.questions.3.idx:874.0
+passage.questions.3.answers.1.text:Valovna enačba
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4538.0
+passage.questions.3.answers.0.text:Hamilton-Jacobijeva enačba
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4537.0
+passage.questions.2.question:Kdaj je Einstein objavil članek, ki je bil usklajen s Planckovim zakonom o distribuciji
+passage.questions.2.idx:873.0
+passage.questions.2.answers.2.text:1926
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4536.0
+passage.questions.2.answers.1.text:1917
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:4535.0
+passage.questions.2.answers.0.text:Vrhunec njegovega dela o relativnosti, 1917
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4534.0
+passage.questions.1.question:Kaj je Einstein objavil v tem, da je prikazal statistiko absorpcije in predlagal možnost spodbujenega sevanja?
+passage.questions.1.idx:872.0
+passage.questions.1.answers.2.text:Članek v Physikalische Zeitschrift
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4533.0
+passage.questions.1.answers.1.text:Physikalische Zeitschrift
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:4532.0
+passage.questions.1.answers.0.text:Schrodingerjevo delo iz leta 1926
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:4531.0
+passage.questions.0.question:Bi Einstein živel, da bi ovrgel teorijo, pri kateri je imel svojo vlogo?
+passage.questions.0.idx:871
+passage.questions.0.answers.2.text:Da
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4530.0
+passage.questions.0.answers.1.text:Mogoče
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4529
+passage.questions.0.answers.0.text:Ne, umrl je pri 76 letih, ne da bi zanikal kvantno teorijo in mehaniko
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4528
+idx:75

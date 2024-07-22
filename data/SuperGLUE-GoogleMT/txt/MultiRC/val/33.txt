@@ -1,0 +1,149 @@
+version:1.1
+passage.text:Skupina raziskovalcev v oddaljeni postojanki na džungli ugotovi, da domačini vadijo vudu in črno magijo. Po umoru lokalnega duhovnika začne voodoo prekletstvo dvigovati mrtve, da se v povračilo hranijo z živimi. Raziskovalce na otoku ubijejo na novo vstali zombiji, razen Jenny, hčerke znanstvenega para. Pobegne, zaščitena s čarobno ogrlico, ki ji jo je dala mama tik pred smrtjo. Leta kasneje se kot odrasla oseba vrne s skupino plačancev, da bi razkrila, kaj se je zgodilo njenim staršem. Kmalu po prihodu na otok motor njihovega čolna umre in jih nasedne. Medtem drugje na otoku trio pohodnikov odkrije jamo, isto jamo, ki vodi do podzemnega templja, kjer je nastalo prvotno prekletstvo. Po nenamernem oživitvi prekletstva se mrtvi spet vrnejo, da bi ubili vsakogar, ki vstopi na njihov otok. Najemniki naletijo na svojega prvega zombija, ki poškoduje člana ekipe. Kmalu se jim pridruži Chuck, edini preživeli pohodnik, ki se zateče v ostanke zdravstvenih prostorov starih raziskovalnih ustanov. Oboroženi z orožjem, ki ga je za seboj pustila že davno mrtva raziskovalna skupina, stojijo, ko mrtvi znova vstanejo. Vsak za drugim so ranjeni ali ubiti, od katerih se eden žrtvuje, da bi razstrelil zdravstveno ustanovo in svoje novo preminule člane ekipe. Jenny in Chuck pobegneta, ostala sta edina preživela. Še enkrat naletijo na jamo, kjer se pojavijo in napadejo zombiji.
+passage.questions.9.question:Kdo se s skupino plačancev vrne na otok?
+passage.questions.9.idx:409.0
+passage.questions.9.answers.1.text:Jenny
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:2072.0
+passage.questions.9.answers.0.text:Chuck
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2071.0
+passage.questions.8.question:Zakaj Jenny ni ubil zombi?
+passage.questions.8.idx:408.0
+passage.questions.8.answers.3.text:Zaščiten je bil s čarobno ogrlico, ki ji jo je dala mama tik pred smrtjo
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:2070.0
+passage.questions.8.answers.2.text:Pobegne
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:2069.0
+passage.questions.8.answers.1.text:Imela je začarano ogrlico
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:2068.0
+passage.questions.8.answers.0.text:Je hči znanstvenega para
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2067.0
+passage.questions.7.question:Kam se plačanci odpravijo zaščititi po srečanju s svojim prvim zombijem?
+passage.questions.7.idx:407.0
+passage.questions.7.answers.2.text:Do ostankov starih raziskovalnih ustanov medicinske četrti
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2066.0
+passage.questions.7.answers.1.text:Zavetijo se v ostankih starih zdravstvenih prostorov raziskovalnih ustanov
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:2065.0
+passage.questions.7.answers.0.text:Jama
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2064.0
+passage.questions.6.question:Kdo je nasedel na otoku?
+passage.questions.6.idx:406.0
+passage.questions.6.answers.3.text:Jenny in plačanci
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:2063.0
+passage.questions.6.answers.2.text:Jenny, trio pohodnikov in skupina plačancev
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:2062.0
+passage.questions.6.answers.1.text:Zombiji
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2061.0
+passage.questions.6.answers.0.text:Droga
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2060.0
+passage.questions.5.question:Zakaj se Jenny lahko zombiji izognejo smrti?
+passage.questions.5.idx:405.0
+passage.questions.5.answers.2.text:Zaščiten je bil s čarobno ogrlico, ki ji jo je dala mama tik pred smrtjo
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:2059.0
+passage.questions.5.answers.1.text:Jenny in Chuck pobegneta, ostala sta edina preživela
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2058.0
+passage.questions.5.answers.0.text:Zaščiten je s čarobno ogrlico, ki ji jo je podarila mama
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2057.0
+passage.questions.4.question:Kdo se oboroži proti zombijem?
+passage.questions.4.idx:404.0
+passage.questions.4.answers.3.text:Pohodniki
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2056.0
+passage.questions.4.answers.2.text:Obramba
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2055.0
+passage.questions.4.answers.1.text:Chuck, Jenny in plačanci
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2054.0
+passage.questions.4.answers.0.text:Jenny, plačanci, in Chuck
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2053.0
+passage.questions.3.question:Kakšno obliko prevoza Jenny leta kasneje doseže oddaljeni džunglski otok?
+passage.questions.3.idx:403.0
+passage.questions.3.answers.2.text:Šarm ogrlice
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2052.0
+passage.questions.3.answers.1.text:Čoln
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:2051.0
+passage.questions.3.answers.0.text:Pohodništvo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2050.0
+passage.questions.2.question:Kaj se je zgodilo potem, ko sta Jenny in Chuck pobegnila?
+passage.questions.2.idx:402
+passage.questions.2.answers.2.text:Zombiji so znova napadli
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2049.0
+passage.questions.2.answers.1.text:Še enkrat naletijo na jamo, kjer se pojavijo in napadejo zombiji
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:2048
+passage.questions.2.answers.0.text:Oborožijo se z orožjem, ki ga je za seboj pustila že davno mrtva raziskovalna skupina
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:2047
+passage.questions.12.question:Kdo ubije lokalnega duhovnika?
+passage.questions.12.idx:412.0
+passage.questions.12.answers.2.text:Domačini
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2080.0
+passage.questions.12.answers.1.text:Raziskovalci
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2079.0
+passage.questions.12.answers.0.text:Skupina raziskovalcev
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:2078.0
+passage.questions.11.question:Kako se imenujejo umrli, ki se v povračilo hranijo z živimi?
+passage.questions.11.idx:411.0
+passage.questions.11.answers.2.text:Bojna glava
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2077.0
+passage.questions.11.answers.1.text:Zombiji
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:2076.0
+passage.questions.11.answers.0.text:Domačini
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2075.0
+passage.questions.10.question:Komu mama daje čar?
+passage.questions.10.idx:410.0
+passage.questions.10.answers.1.text:Jenny
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:2074.0
+passage.questions.10.answers.0.text:Chuck
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2073.0
+passage.questions.1.question:Kolikokrat Chuck naleti na jamo, v kateri je prvotno nastalo prekletstvo vuduja?
+passage.questions.1.idx:401
+passage.questions.1.answers.2.text:Dvakrat naleti na jamo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2046.0
+passage.questions.1.answers.1.text:Enkrat
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2045
+passage.questions.1.answers.0.text:Dvakrat
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2044
+passage.questions.0.question:Kje je Chuck našel orožje?
+passage.questions.0.idx:400
+passage.questions.0.answers.2.text:Stari raziskovalni prostori v zdravstvenih prostorih
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2043.0
+passage.questions.0.answers.1.text:Orožje je za seboj pustila že davno mrtva raziskovalna skupina
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2042
+passage.questions.0.answers.0.text:Iz prejšnje raziskovalne skupine
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2041
+idx:33

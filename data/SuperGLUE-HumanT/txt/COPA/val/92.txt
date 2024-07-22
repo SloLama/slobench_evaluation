@@ -1,0 +1,6 @@
+choice1:Bočno je parkiral na cesti.
+choice2:V parkirni uri je zmanjkalo denarja.
+idx:92
+label:1
+premise:Mož je dobil parkirno kazen.
+question:cause

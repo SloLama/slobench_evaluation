@@ -1,0 +1,180 @@
+version:1.1
+passage.text:V ljudskem umu se zgodovina Hongkonga, ki je zahodnjakom dolgo vstopna pot na Kitajsko, začne leta 1841 z britansko okupacijo ozemlja. Vendar bi bilo napačno zavreči dolgo zgodovino same regije. Danes si arheologi prizadevajo razkriti preteklost Hongkonga, ki se razteza že tisoče let nazaj. V preteklost si lahko ogledate 1.600 let star grobni obok muzeja Lei Cheng Uk na kopnem severno od Kowloona. Leta 1992, ko se je začela gradnja letališča na mestu Chek Lap Kok, je bila odkrita 2000 let stara vas Pak Mong, skupaj z artefakti, ki so kazali na prefinjeno podeželsko družbo. Še starejše najdišče iz kamene dobe je bilo na otoku Lamma odkrito leta 1996. Medtem ko je Hong Kong v zgodnjih dneh ostajal relativno zaledje, se je bližnji Guangzhou (kanton) razvijal v veliko trgovsko mesto s povezavami v Indiji in na Bližnjem vzhodu. Do leta 900 so hongkonški otoki postali brlog za pirate, ki plenijo na ladji v delti reke Pearl River in povzročajo močan glavobol rastočemu Guangzhouu; majhne skupine piratov so še vedno delovale v zgodnjih letih 20. stoletja. Vmes so celinsko območje naselili prihajajoči, &quot;pet velikih klanov&quot;: Tang, Hau, Pang, Liu in Man. Najprej je prispel klan Tang, ki je ustanovil številne obzidane vasi na novih ozemljih, ki obstajajo še danes. Obiščete lahko Kat Hing Wai in Lo Wai, vasici s še vedno nedotaknjenimi zidovi. V bližini Lo Wai je predniška dvorana Tang Chung Ling, zgrajena v 16. stoletju, ki je še vedno središče klanskih dejavnosti. Prvi Evropejci, ki so prispeli v delto reke Biser, so bili Portugalci, ki so se leta 1557 naselili v Macau in nekaj stoletij imeli monopol na trgovino med Azijo, Evropo in Južno Ameriko. Ko se je Macau razvil v največje vzhodno pristanišče, je postal tudi baza za jezuitske misijonarje; pozneje je bilo zatočišče preganjanih japonskih kristjanov. Čeprav krščanstvo na Kitajskem ni bilo velikega uspeha, je napredovalo lokalno, kar danes dokazujejo številne katoliške cerkve v zgodovinskem središču Macaa. Mešani zakoni z lokalnimi Kitajci so ustvarili skupnost Macanese, katere kulturo še vedno lahko vidimo v arhitekturi in kuhinji Macaa.
+passage.questions.9.question:Koliko let je minilo med naselji Portugalcev in Britancev v Hongkongu?
+passage.questions.9.idx:2048.0
+passage.questions.9.answers.3.text:Približno 300 let
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:10694.0
+passage.questions.9.answers.2.text:284 let
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:10693.0
+passage.questions.9.answers.1.text:Nekaj stoletij
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:10692.0
+passage.questions.9.answers.0.text:Približno stoletje
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:10691.0
+passage.questions.8.question:V 900-ih letih je današnji kanton zajel kakšno nevarnost?
+passage.questions.8.idx:2047.0
+passage.questions.8.answers.2.text:Hlapne vode
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:10690.0
+passage.questions.8.answers.1.text:Pirati
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:10689.0
+passage.questions.8.answers.0.text:Glavobol
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:10688.0
+passage.questions.7.question:Čigava misijonska prizadevanja so povzročila širjenje katolištva v Macau?
+passage.questions.7.idx:2046.0
+passage.questions.7.answers.6.text:Jezuiti
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:10687.0
+passage.questions.7.answers.5.text:Krščanski kitajski
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:10686.0
+passage.questions.7.answers.4.text:Kristjani
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:10685.0
+passage.questions.7.answers.3.text:Američani
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:10684.0
+passage.questions.7.answers.2.text:Britanska okupacija
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:10683.0
+passage.questions.7.answers.1.text:Evropejci
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:10682.0
+passage.questions.7.answers.0.text:Največje pristanišče
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:10681.0
+passage.questions.6.question:Kateri narod je bil odgovoren za jezuitske misijonarje, ki so delali v Macau?
+passage.questions.6.idx:2045.0
+passage.questions.6.answers.4.text:Portugalska
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:10680.0
+passage.questions.6.answers.3.text:Portugalci
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:10679.0
+passage.questions.6.answers.2.text:Južnoafričani
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:10678.0
+passage.questions.6.answers.1.text:Azijci
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:10677.0
+passage.questions.6.answers.0.text:Britanci
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:10676.0
+passage.questions.5.question:Mešanica obeh ras je opažena pri Macancih v Macau?
+passage.questions.5.idx:2044.0
+passage.questions.5.answers.2.text:Kitajski
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:10675.0
+passage.questions.5.answers.1.text:Britanski
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:10674.0
+passage.questions.5.answers.0.text:Portugalščina
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:10673.0
+passage.questions.4.question:Kje so Britanci prvi Evropejci, ki so naselili delto reke Pearl in Hong Kong?
+passage.questions.4.idx:2043.0
+passage.questions.4.answers.2.text:Mogoče
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:10672.0
+passage.questions.4.answers.1.text:Noben Portugalec se ni prvi naselil v regiji
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:10671.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:10670.0
+passage.questions.3.question:Kaj se je istočasno zgodilo v 900AD?
+passage.questions.3.idx:2042.0
+passage.questions.3.answers.5.text:Zemljišče se je naseljevalo
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:10669.0
+passage.questions.3.answers.4.text:Portugalci prevzamejo zemljo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:10668.0
+passage.questions.3.answers.3.text:Zasedba piratov Hongkonga in naseljevanje celinske Kitajske s strani &quot;petih velikih klanov&quot;
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:10667.0
+passage.questions.3.answers.2.text:Britanci zapustijo deželo Kitajcem
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:10666.0
+passage.questions.3.answers.1.text:Pirati, ki plenijo ladijski promet
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:10665.0
+passage.questions.3.answers.0.text:Zasedba Kitajske s strani piratov in naseljevanje Hongkonga s strani &quot;petih velikih klanov&quot;
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:10664.0
+passage.questions.2.question:Zakaj so imeli kantonski trgovci težave v delti Biserne reke?
+passage.questions.2.idx:2041.0
+passage.questions.2.answers.3.text:Ker je bila voda preveč nevarna
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:10663.0
+passage.questions.2.answers.2.text:Hongkongški otoki so postali brlog piratov
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:10662.0
+passage.questions.2.answers.1.text:Ker je bila voda pre plitve
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:10661.0
+passage.questions.2.answers.0.text:Zaradi piratov
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:10660.0
+passage.questions.11.question:Kako so na Macau vplivali Portugalci, ki so se tam naselili?
+passage.questions.11.idx:2050.0
+passage.questions.11.answers.2.text:Mešani zakoni z lokalnimi Kitajci so ustvarili Macanese, katerega kulturo je še vedno mogoče videti v arhitekturi in kulinariki Macaa, poleg gradnje katoliških cerkva v Macau in širjenja krščanstva
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:10703.0
+passage.questions.11.answers.1.text:Populariziralo je krščanstvo
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:10702.0
+passage.questions.11.answers.0.text:Ustvarilo je sovraštvo do evropskih držav
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:10701.0
+passage.questions.10.question:Na katerih dveh nedotaknjenih mestih je mogoče videti obzidana mesta celinskega klana?
+passage.questions.10.idx:2049.0
+passage.questions.10.answers.5.text:Klan Tang
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:10700.0
+passage.questions.10.answers.4.text:Klan Hau
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:10699.0
+passage.questions.10.answers.3.text:Kat Hing Wai
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:10698.0
+passage.questions.10.answers.2.text:Dvorana prednikov Tang Chung Ling
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:10697.0
+passage.questions.10.answers.1.text:Lo Wai
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:10696.0
+passage.questions.10.answers.0.text:Kat Hing Wai in Lo Wai
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:10695.0
+passage.questions.1.question:Kdo so bili prvi Evropejci, ki so nadzorovali največje vzhodno pristanišče?
+passage.questions.1.idx:2040.0
+passage.questions.1.answers.3.text:Britanci
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10659.0
+passage.questions.1.answers.2.text:Azijci
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:10658.0
+passage.questions.1.answers.1.text:Južnoafričani
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:10657.0
+passage.questions.1.answers.0.text:Portugalci
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10656.0
+passage.questions.0.question:Kako se je Guangzhou tako hitro razvijal in kako je to vplivalo v prvih dneh?
+passage.questions.0.idx:2039
+passage.questions.0.answers.2.text:S čudovitim vremenom
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10655.0
+passage.questions.0.answers.1.text:S trgovskimi povezavami v Indiji in na Bližnjem vzhodu ter s pirati, ki plenijo ladijski promet in pretok blaga
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:10654
+passage.questions.0.answers.0.text:Z izvozom številnih izdelkov v druge države
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:10653
+idx:185

@@ -1,0 +1,629 @@
+version:1.1
+passage.text:Bin Laden naj bi se o operacijah letal s KSM in Atefom pogovarjal na sestankih spomladi 1999 v kompleksu al Matar blizu Kandaharja. Prvotni koncept KSM o uporabi enega od ugrabljenih letal za medijsko izjavo je bil opuščen, toda Bin Laden je menil, da je osnovna ideja izvedljiva. Bin Laden, Atef in KSM so razvili začetni seznam ciljev. Sem so spadali Bela hiša, ameriški Kapitol, Pentagon in Svetovni trgovinski center. Po navedbah KSM je Bin Laden hotel uničiti Belo hišo in Pentagon, KSM je hotel udariti na Svetovni trgovinski center in vsi so želeli udariti na Kapitol. Nihče drug ni sodeloval pri začetnem izboru tarč. Bin Laden je kmalu izbral tudi štiri posameznike, ki bodo služili kot samomorilci: Khalid al Mihdhar, Nawaf al Hazmi, Khallad in Abu Bara al Yemeni. Med srečanji al Matarja je Bin Laden povedal KSM, da sta Mihdhar in Hazmi tako nestrpno sodelovala v operaciji proti ZDA, da sta že dobila vizume za ZDA. KSM navaja, da so to storili sami po samomoru prijatelja Azzama (Nashirijevega bratranca) pri bombardiranju v Nairobiju. KSM jih ni spoznal. Njegovo edino vodilo Bin Ladena je bilo, da naj bi se sčasoma odpravila v ZDA na šolanje pilotov. Hazmi in Mihdhar sta bila savdska državljana, rojena v Meki. Tako kot drugi v tej začetni skupini izbrancev so bili že izkušeni mudžahedini. Skupaj sta potovala v Bosno v skupini, ki je leta 1995 odpotovala na Balkan. Ko sta bila Hazmi in Mihdhar v začetku leta 1999 dodeljena letalski operaciji, sta že večkrat obiskala Afganistan. Khallad je bil še en veteran mudžahid, tako kot večina njegove družine. Oče je bil zaradi ekstremističnih stališč izgnan iz Jemna. Khallad je odraščal v Savdski Arabiji, kjer je njegov oče poznal Bin Ladena, Abdullaha Azzama in Omarja Abdela Rahmana (&quot;slepi šejk&quot;).
+passage.questions.9.question:Bin Laden, KSM in Atef so sestavili začetni seznam ciljev, toda kateri prvotni koncept KSM je bil odstranjen?
+passage.questions.9.idx:2472.0
+passage.questions.9.answers.4.text:Uničenje Kapitola
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:13064.0
+passage.questions.9.answers.3.text:Uporaba medijev za njihovo pomoč
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:13063.0
+passage.questions.9.answers.2.text:Medijsko izjavo z enim od ugrabljenih letal
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:13062.0
+passage.questions.9.answers.1.text:Medijska izjava
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:13061.0
+passage.questions.9.answers.0.text:Uporaba načrta za zrušitev interneta
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:13060.0
+passage.questions.8.question:Ali so se izbranci Bin Ladena poznali?
+passage.questions.8.idx:2471.0
+passage.questions.8.answers.2.text:Ni določeno
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:13059.0
+passage.questions.8.answers.1.text:Da, odpotovali so v Bosno, da bi se borili na Balkanu, skupaj pa so odpotovali tudi v Afganistan
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:13058.0
+passage.questions.8.answers.0.text:Da
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:13057.0
+passage.questions.7.question:Ali je bila Bela hiša na prvotnem seznamu tarč, ki so jih razvili KSM, Atef in Bin Laden?
+passage.questions.7.idx:2470.0
+passage.questions.7.answers.2.text:Da
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:13056.0
+passage.questions.7.answers.1.text:Ne, samo Pentagon in ameriški Kapitol
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:13055.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:13054.0
+passage.questions.6.question:Kdo je sodeloval pri začetnem izboru ciljev?
+passage.questions.6.idx:2469.0
+passage.questions.6.answers.6.text:Atef in KSM
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:13053.0
+passage.questions.6.answers.5.text:KSM, Yemini in Nashiri
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:13052.0
+passage.questions.6.answers.4.text:Bin Laden, Atef in KSM
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:13051.0
+passage.questions.6.answers.3.text:Mihdhar in Hazmi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:13050.0
+passage.questions.6.answers.2.text:Bin Laden in Atef
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:13049.0
+passage.questions.6.answers.1.text:Azzam in Bin Laden
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:13048.0
+passage.questions.6.answers.0.text:Bin Laden, Atef, KSM
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:13047.0
+passage.questions.5.question:Komu je Bin Laden predlagal, naj gre v ZDA na šolanje pilotov?
+passage.questions.5.idx:2468.0
+passage.questions.5.answers.7.text:KSM in Hazmi
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:13046.0
+passage.questions.5.answers.6.text:Bin Laden
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:13045.0
+passage.questions.5.answers.5.text:Nashirijev bratranec
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:13044.0
+passage.questions.5.answers.4.text:Mihdhar in Hazmi
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:13043.0
+passage.questions.5.answers.3.text:Atef
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:13042.0
+passage.questions.5.answers.2.text:Slepi šejk
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:13041.0
+passage.questions.5.answers.1.text:Hazmi in Mihdhar
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:13040.0
+passage.questions.5.answers.0.text:Omar Abdel Rahman
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:13039.0
+passage.questions.4.question:Čigavega očeta so izgnali iz Jemna zaradi ekstremističnih stališč?
+passage.questions.4.idx:2467.0
+passage.questions.4.answers.7.text:Ladinova
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:13038.0
+passage.questions.4.answers.6.text:Khalid al Mihdhar
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:13037.0
+passage.questions.4.answers.5.text:Nashirijev bratranec
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:13036.0
+passage.questions.4.answers.4.text:Nawaf al Hazmi
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:13035.0
+passage.questions.4.answers.3.text:Khallad&#39;s
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:13034.0
+passage.questions.4.answers.2.text:Slepi šejk
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:13033.0
+passage.questions.4.answers.1.text:Omar Abdel Rahman
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:13032.0
+passage.questions.4.answers.0.text:Khallad
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:13031.0
+passage.questions.30.question:So bili izbranci za napad izkušeni v vojskovanju / terorizmu?
+passage.questions.30.idx:2493.0
+passage.questions.30.answers.2.text:Ni določeno
+passage.questions.30.answers.2.label:0,0
+passage.questions.30.answers.2.idx:13191.0
+passage.questions.30.answers.1.text:Da, vsi izbranci so bili nekdanji mudžahedini, podobno kot Khallad
+passage.questions.30.answers.1.label:1.0
+passage.questions.30.answers.1.idx:13190.0
+passage.questions.30.answers.0.text:Da
+passage.questions.30.answers.0.label:1.0
+passage.questions.30.answers.0.idx:13189.0
+passage.questions.3.question:Kdo sta bila dva, za katera je Bin Laden rekel, da morata KSM iti v ZDA na pilotsko šolo?
+passage.questions.3.idx:2466.0
+passage.questions.3.answers.6.text:Hazmi in Khallad
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:13030.0
+passage.questions.3.answers.5.text:Mihdhar in Jemeni
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:13029.0
+passage.questions.3.answers.4.text:Jemenski in Nashiri
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:13028.0
+passage.questions.3.answers.3.text:Mihdhar in Hazmi
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:13027.0
+passage.questions.3.answers.2.text:Bin Laden in Azzam
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:13026.0
+passage.questions.3.answers.1.text:Khallad in Abu Bara al Yemeni
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13025.0
+passage.questions.3.answers.0.text:Hazmi in Mihdhar
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:13024.0
+passage.questions.29.question:Kdo se je odločil za ameriške vizume, potem ko je njihov prijatelj pri bombardiranju v Nairobiju storil samomor?
+passage.questions.29.idx:2492.0
+passage.questions.29.answers.7.text:Khallad in Mihdhar
+passage.questions.29.answers.7.label:0,0
+passage.questions.29.answers.7.idx:13188.0
+passage.questions.29.answers.6.text:Abu Bara al Jemeni
+passage.questions.29.answers.6.label:0,0
+passage.questions.29.answers.6.idx:13187.0
+passage.questions.29.answers.5.text:Nashirijev bratranec
+passage.questions.29.answers.5.label:0,0
+passage.questions.29.answers.5.idx:13186.0
+passage.questions.29.answers.4.text:Mihdhar in Hazmi
+passage.questions.29.answers.4.label:1.0
+passage.questions.29.answers.4.idx:13185.0
+passage.questions.29.answers.3.text:Omar Abdel Rahman
+passage.questions.29.answers.3.label:0,0
+passage.questions.29.answers.3.idx:13184.0
+passage.questions.29.answers.2.text:Azzam
+passage.questions.29.answers.2.label:0,0
+passage.questions.29.answers.2.idx:13183.0
+passage.questions.29.answers.1.text:Khallad
+passage.questions.29.answers.1.label:0,0
+passage.questions.29.answers.1.idx:13182.0
+passage.questions.29.answers.0.text:Khalid al Mihdhar in Nawaf al Hazmi
+passage.questions.29.answers.0.label:1.0
+passage.questions.29.answers.0.idx:13181.0
+passage.questions.28.question:Katera druga stavba je bila na seznamu tarč poleg ameriškega Kapitola, Pentagona in Svetovnega trgovinskega centra?
+passage.questions.28.idx:2491.0
+passage.questions.28.answers.5.text:Bela hiša
+passage.questions.28.answers.5.label:1.0
+passage.questions.28.answers.5.idx:13180.0
+passage.questions.28.answers.4.text:Washingtonski spomenik
+passage.questions.28.answers.4.label:0,0
+passage.questions.28.answers.4.idx:13179.0
+passage.questions.28.answers.3.text:Empire State Building
+passage.questions.28.answers.3.label:0,0
+passage.questions.28.answers.3.idx:13178.0
+passage.questions.28.answers.2.text:Sedež Cie
+passage.questions.28.answers.2.label:0,0
+passage.questions.28.answers.2.idx:13177.0
+passage.questions.28.answers.1.text:Kip svobode
+passage.questions.28.answers.1.label:0,0
+passage.questions.28.answers.1.idx:13176.0
+passage.questions.28.answers.0.text:Ameriški Emabassy
+passage.questions.28.answers.0.label:0,0
+passage.questions.28.answers.0.idx:13175.0
+passage.questions.27.question:Katere dve samomorilci je Bin Laden priporočil, naj se odpravijo v ZDA na šolanje pilotov?
+passage.questions.27.idx:2490.0
+passage.questions.27.answers.8.text:Abu Bara al Jemeni
+passage.questions.27.answers.8.label:0,0
+passage.questions.27.answers.8.idx:13174.0
+passage.questions.27.answers.7.text:Nashirijev bratranec
+passage.questions.27.answers.7.label:0,0
+passage.questions.27.answers.7.idx:13173.0
+passage.questions.27.answers.6.text:Nawaf al Hazmi
+passage.questions.27.answers.6.label:1.0
+passage.questions.27.answers.6.idx:13172.0
+passage.questions.27.answers.5.text:Khallad in Hazmi
+passage.questions.27.answers.5.label:0,0
+passage.questions.27.answers.5.idx:13171.0
+passage.questions.27.answers.4.text:Mihdhar in Hazmi
+passage.questions.27.answers.4.label:1.0
+passage.questions.27.answers.4.idx:13170.0
+passage.questions.27.answers.3.text:Omar Abdel Rahman
+passage.questions.27.answers.3.label:0,0
+passage.questions.27.answers.3.idx:13169.0
+passage.questions.27.answers.2.text:Azzam
+passage.questions.27.answers.2.label:0,0
+passage.questions.27.answers.2.idx:13168.0
+passage.questions.27.answers.1.text:Khallad
+passage.questions.27.answers.1.label:0,0
+passage.questions.27.answers.1.idx:13167.0
+passage.questions.27.answers.0.text:Khalid al Mihdhar in Nawaf al Hazmi
+passage.questions.27.answers.0.label:1.0
+passage.questions.27.answers.0.idx:13166.0
+passage.questions.26.question:Koga je Bin Laden naročil KSM, naj ga pošlje v ZDA na šolanje pilotov?
+passage.questions.26.idx:2489.0
+passage.questions.26.answers.7.text:Midhar in Khallad
+passage.questions.26.answers.7.label:0,0
+passage.questions.26.answers.7.idx:13165.0
+passage.questions.26.answers.6.text:Abu Bara al Jemeni
+passage.questions.26.answers.6.label:0,0
+passage.questions.26.answers.6.idx:13164.0
+passage.questions.26.answers.5.text:Nashirijev bratranec
+passage.questions.26.answers.5.label:0,0
+passage.questions.26.answers.5.idx:13163.0
+passage.questions.26.answers.4.text:Mihdhar in Hazmi
+passage.questions.26.answers.4.label:1.0
+passage.questions.26.answers.4.idx:13162.0
+passage.questions.26.answers.3.text:Omar Abdel Rahman
+passage.questions.26.answers.3.label:0,0
+passage.questions.26.answers.3.idx:13161.0
+passage.questions.26.answers.2.text:Azzam
+passage.questions.26.answers.2.label:0,0
+passage.questions.26.answers.2.idx:13160.0
+passage.questions.26.answers.1.text:Khallad
+passage.questions.26.answers.1.label:0,0
+passage.questions.26.answers.1.idx:13159.0
+passage.questions.26.answers.0.text:Khalid al Mihdhar in Nawaf al Hazmi
+passage.questions.26.answers.0.label:1.0
+passage.questions.26.answers.0.idx:13158.0
+passage.questions.25.question:Koliko ljudi je sodelovalo pri izbiri ciljev za uničenje z letalom?
+passage.questions.25.idx:2488.0
+passage.questions.25.answers.5.text:3.
+passage.questions.25.answers.5.label:1.0
+passage.questions.25.answers.5.idx:13157.0
+passage.questions.25.answers.4.text:Štiri
+passage.questions.25.answers.4.label:0,0
+passage.questions.25.answers.4.idx:13156.0
+passage.questions.25.answers.3.text:2.
+passage.questions.25.answers.3.label:1.0
+passage.questions.25.answers.3.idx:13155.0
+passage.questions.25.answers.2.text:Samo Bin Laden
+passage.questions.25.answers.2.label:0,0
+passage.questions.25.answers.2.idx:13154.0
+passage.questions.25.answers.1.text:5.
+passage.questions.25.answers.1.label:0,0
+passage.questions.25.answers.1.idx:13153.0
+passage.questions.25.answers.0.text:4.
+passage.questions.25.answers.0.label:0,0
+passage.questions.25.answers.0.idx:13152.0
+passage.questions.24.question:Kako se je imenovalo srečanje, na katerem je Bin Laden povedal KSM o štirih posameznikih, ki jih je izbral za samomorilce?
+passage.questions.24.idx:2487.0
+passage.questions.24.answers.5.text:Kandaharjevi sestanki
+passage.questions.24.answers.5.label:0,0
+passage.questions.24.answers.5.idx:13151.0
+passage.questions.24.answers.4.text:Sestanki Al Matar
+passage.questions.24.answers.4.label:1.0
+passage.questions.24.answers.4.idx:13150.0
+passage.questions.24.answers.3.text:Kandahar
+passage.questions.24.answers.3.label:0,0
+passage.questions.24.answers.3.idx:13149.0
+passage.questions.24.answers.2.text:Sestanki Al Kaide
+passage.questions.24.answers.2.label:0,0
+passage.questions.24.answers.2.idx:13148.0
+passage.questions.24.answers.1.text:Al Matar
+passage.questions.24.answers.1.label:1.0
+passage.questions.24.answers.1.idx:13147.0
+passage.questions.24.answers.0.text:Bombardni sestanki
+passage.questions.24.answers.0.label:0,0
+passage.questions.24.answers.0.idx:13146.0
+passage.questions.23.question:Kakšen je bil začetni seznam ciljev?
+passage.questions.23.idx:2486.0
+passage.questions.23.answers.6.text:Bela hiša, ameriški Kapitol, Pentagon in Svetovni trgovinski center
+passage.questions.23.answers.6.label:1.0
+passage.questions.23.answers.6.idx:13145.0
+passage.questions.23.answers.5.text:Kip svobode, hollywoodski znak in predsednikova hiša
+passage.questions.23.answers.5.label:0,0
+passage.questions.23.answers.5.idx:13144.0
+passage.questions.23.answers.4.text:Kapitol, Bela hiša
+passage.questions.23.answers.4.label:0,0
+passage.questions.23.answers.4.idx:13143.0
+passage.questions.23.answers.3.text:Ameriško veleposlaništvo in sedež Cie
+passage.questions.23.answers.3.label:0,0
+passage.questions.23.answers.3.idx:13142.0
+passage.questions.23.answers.2.text:Kapitol, Bela hiša, Pentagon, Svetovni trgovinski center
+passage.questions.23.answers.2.label:1.0
+passage.questions.23.answers.2.idx:13141.0
+passage.questions.23.answers.1.text:Bela hiša, Kapital, Pentagon in Svetovni trgovinski center
+passage.questions.23.answers.1.label:1.0
+passage.questions.23.answers.1.idx:13140.0
+passage.questions.23.answers.0.text:Pentagon, Svetovno trgovinsko središče
+passage.questions.23.answers.0.label:0,0
+passage.questions.23.answers.0.idx:13139.0
+passage.questions.22.question:Kje so odraščali štirje samomorilci?
+passage.questions.22.idx:2485.0
+passage.questions.22.answers.4.text:Balkanu
+passage.questions.22.answers.4.label:0,0
+passage.questions.22.answers.4.idx:13138.0
+passage.questions.22.answers.3.text:Nairobi
+passage.questions.22.answers.3.label:0,0
+passage.questions.22.answers.3.idx:13137.0
+passage.questions.22.answers.2.text:Jemnu
+passage.questions.22.answers.2.label:0,0
+passage.questions.22.answers.2.idx:13136.0
+passage.questions.22.answers.1.text:Savdska Arabija
+passage.questions.22.answers.1.label:1.0
+passage.questions.22.answers.1.idx:13135.0
+passage.questions.22.answers.0.text:Afganistanu
+passage.questions.22.answers.0.label:0,0
+passage.questions.22.answers.0.idx:13134.0
+passage.questions.21.question:Kdo je poleg Bin Ladena, KSM in Atefa še sodeloval pri razpravi o začetnem izboru tarč?
+passage.questions.21.idx:2484.0
+passage.questions.21.answers.5.text:Hazmi
+passage.questions.21.answers.5.label:0,0
+passage.questions.21.answers.5.idx:13133.0
+passage.questions.21.answers.4.text:Mihdhar
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:13132.0
+passage.questions.21.answers.3.text:Nashiri
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:13131.0
+passage.questions.21.answers.2.text:Jemenski
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:13130.0
+passage.questions.21.answers.1.text:Azzam
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:13129.0
+passage.questions.21.answers.0.text:Nihče drug
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:13128.0
+passage.questions.20.question:Kateri od štirih posameznikov, ki jih je izbral Bin Laden, so bili savdski nacionalisti?
+passage.questions.20.idx:2483.0
+passage.questions.20.answers.5.text:Bin Laden in Nashiri
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:13127.0
+passage.questions.20.answers.4.text:Jemenski in Azzam
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:13126.0
+passage.questions.20.answers.3.text:Samo Hazmi in Mihdhar
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:13125.0
+passage.questions.20.answers.2.text:Khallad in Abu Bara al Yemeni
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:13124.0
+passage.questions.20.answers.1.text:Hazmi in Mihdhar
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:13123.0
+passage.questions.20.answers.0.text:Vse
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:13122.0
+passage.questions.2.question:S kom so se Bin Laden in KSM pogovarjali o ugrabitvah letal, da bi dali izjavo za medije?
+passage.questions.2.idx:2465.0
+passage.questions.2.answers.4.text:Hazmi
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:13023.0
+passage.questions.2.answers.3.text:Nihče
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13022.0
+passage.questions.2.answers.2.text:Nashiri
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:13021.0
+passage.questions.2.answers.1.text:Atef
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13020.0
+passage.questions.2.answers.0.text:Azzam
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:13019.0
+passage.questions.19.question:So bili storilci z istega območja?
+passage.questions.19.idx:2482.0
+passage.questions.19.answers.2.text:Iz besedila ni jasno
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:13121.0
+passage.questions.19.answers.1.text:Da, Hazmi in Mihdhar sta bila državljana Savdske republike skupaj z Bin Ladenom. Na tem območju je odraščal tudi Khallad
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:13120.0
+passage.questions.19.answers.0.text:Da
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:13119.0
+passage.questions.18.question:Kaj sta Mihdhar in Hazmi dobila po samomoru Azzama?
+passage.questions.18.idx:2481.0
+passage.questions.18.answers.4.text:Pridobite ameriške vizume
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:13118.0
+passage.questions.18.answers.3.text:Ameriško državljanstvo
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:13117.0
+passage.questions.18.answers.2.text:Načrti
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:13116.0
+passage.questions.18.answers.1.text:Pridobite pilotsko usposabljanje
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:13115.0
+passage.questions.18.answers.0.text:Medalje
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:13114.0
+passage.questions.17.question:Bin Laden je izbral štiri za samomorilce in katera dva sta že imela vizum za ZDA?
+passage.questions.17.idx:2480.0
+passage.questions.17.answers.6.text:Hazmi in Jemeni
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:13113.0
+passage.questions.17.answers.5.text:Mihdhar in Hazmi
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:13112.0
+passage.questions.17.answers.4.text:Azzam in Nashiri
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:13111.0
+passage.questions.17.answers.3.text:Khallad in Abu Bara al Yemeni
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:13110.0
+passage.questions.17.answers.2.text:Khalid al Mihdhar in Nawaf al Hazmi
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:13109.0
+passage.questions.17.answers.1.text:Bin Laden in Jemeni
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:13108.0
+passage.questions.17.answers.0.text:Mihdhar in Khallad
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:13107.0
+passage.questions.16.question:Čigavega očeta so izgnali iz Jemna zaradi njegovih ekstremističnih pogledov?
+passage.questions.16.idx:2479.0
+passage.questions.16.answers.7.text:Khalid al Mihdhar
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:13106.0
+passage.questions.16.answers.6.text:Hazmi&#39;s
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:13105.0
+passage.questions.16.answers.5.text:Nashirijev bratranec
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:13104.0
+passage.questions.16.answers.4.text:Nawaf al Hazmi
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:13103.0
+passage.questions.16.answers.3.text:Khallad&#39;s
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:13102.0
+passage.questions.16.answers.2.text:Slepi šejk
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:13101.0
+passage.questions.16.answers.1.text:Omar Abdel Rahman
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:13100.0
+passage.questions.16.answers.0.text:Khallad
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:13099.0
+passage.questions.15.question:Čigavega očeta so pregnali iz Jemna?
+passage.questions.15.idx:2478.0
+passage.questions.15.answers.7.text:Khalid al Mihdhar
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:13098.0
+passage.questions.15.answers.6.text:KSM
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:13097.0
+passage.questions.15.answers.5.text:Nashirijev bratranec
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:13096.0
+passage.questions.15.answers.4.text:Nawaf al Hazmi
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:13095.0
+passage.questions.15.answers.3.text:Khallad&#39;s
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:13094.0
+passage.questions.15.answers.2.text:Slepi šejk
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:13093.0
+passage.questions.15.answers.1.text:Omar Abdel Rahman
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:13092.0
+passage.questions.15.answers.0.text:Khallad
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:13091.0
+passage.questions.14.question:Ali so štirje bombniki vedeli, kaj je bilo v ozadju?
+passage.questions.14.idx:2477.0
+passage.questions.14.answers.2.text:Vse
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:13090.0
+passage.questions.14.answers.1.text:Samo Atef
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:13089.0
+passage.questions.14.answers.0.text:Ne
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:13088.0
+passage.questions.13.question:So bili štirje samomorilci izkušeni piloti?
+passage.questions.13.idx:2476.0
+passage.questions.13.answers.1.text:Da, že izšolan v ZDA
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:13087.0
+passage.questions.13.answers.0.text:Da
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:13086.0
+passage.questions.12.question:Kaj so bili cilji 11. septembra in kdo jih je odločil?
+passage.questions.12.idx:2475.0
+passage.questions.12.answers.9.text:Bela hiša
+passage.questions.12.answers.9.label:1.0
+passage.questions.12.answers.9.idx:13082.0
+passage.questions.12.answers.8.text:Abu Bara al Jemeni
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:13081.0
+passage.questions.12.answers.7.text:Nawaf al Hazmi
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:13080.0
+passage.questions.12.answers.6.text:Savdski
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:13079.0
+passage.questions.12.answers.5.text:Bela hiša, ameriški Kapitol, Pentagon in Svetovni trgovinski center, Bin Laden, Atef in KSM
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:13078.0
+passage.questions.12.answers.4.text:Kompleks al Matar
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:13077.0
+passage.questions.12.answers.3.text:Meka
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:13076.0
+passage.questions.12.answers.2.text:Bin Laden je hotel uničiti Belo hišo in Pentagon, KSM je hotel napasti Svetovni trgovinski center in vsi 3 krivci so hoteli napasti prestolnico
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:13075.0
+passage.questions.12.answers.12.text:Bosna
+passage.questions.12.answers.12.label:0,0
+passage.questions.12.answers.12.idx:13085.0
+passage.questions.12.answers.11.text:Washington, Kalifornija, Bela hiša, ameriški kapital, Bin Laden
+passage.questions.12.answers.11.label:0,0
+passage.questions.12.answers.11.idx:13084.0
+passage.questions.12.answers.10.text:Nairobi
+passage.questions.12.answers.10.label:0,0
+passage.questions.12.answers.10.idx:13083.0
+passage.questions.12.answers.1.text:Kandahar
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:13074.0
+passage.questions.12.answers.0.text:Khallad
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:13073.0
+passage.questions.11.question:Bin Laden, KSM in Atef so bili vključeni v prvotno izbiro ciljev, ali so bili to edini udeleženi?
+passage.questions.11.idx:2474.0
+passage.questions.11.answers.4.text:Ne, tudi Hazmi je bil
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:13072.0
+passage.questions.11.answers.3.text:Ne, tudi Jemen je bil
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:13071.0
+passage.questions.11.answers.2.text:Da
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:13070.0
+passage.questions.11.answers.1.text:Ne
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:13069.0
+passage.questions.11.answers.0.text:Bin Laden, KSM in Atef so bili edini, ki so sodelovali pri začetni izbiri ciljev
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:13068.0
+passage.questions.10.question:So bili navdušeni nad izvajanjem tega načrta?
+passage.questions.10.idx:2473.0
+passage.questions.10.answers.2.text:Ne, prestrašili so se
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:13067.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:13066.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:13065.0
+passage.questions.1.question:Katere so bile štiri začetne tarče, ki so jih razvili Bin Laden, Atef in KSM?
+passage.questions.1.idx:2464.0
+passage.questions.1.answers.8.text:Bosna
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:13018.0
+passage.questions.1.answers.7.text:Bela hiša, ameriški Kapitol, Pentagon in Washington DC
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:13017.0
+passage.questions.1.answers.6.text:Nairobi
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:13016.0
+passage.questions.1.answers.5.text:Savdski
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:13015.0
+passage.questions.1.answers.4.text:Bela hiša, ameriški Kapitol, Pentagon in Svetovni trgovinski center
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:13014.0
+passage.questions.1.answers.3.text:Kompleks al Matar
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13013.0
+passage.questions.1.answers.2.text:Meka
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:13012.0
+passage.questions.1.answers.1.text:Ameriški Kapitol
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:13011.0
+passage.questions.1.answers.0.text:Kandahar
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13010.0
+passage.questions.0.question:Kje sta Mihdhar in Hazmi postala izkušena mudžahedina?
+passage.questions.0.idx:2463
+passage.questions.0.answers.5.text:Bosna
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:13009.0
+passage.questions.0.answers.4.text:Nairobi
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:13008.0
+passage.questions.0.answers.3.text:Jemnu
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:13007.0
+passage.questions.0.answers.2.text:Savdski
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13006.0
+passage.questions.0.answers.1.text:Meka
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13005
+passage.questions.0.answers.0.text:Afganistanu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13004
+idx:222

@@ -1,0 +1,213 @@
+version:1.1
+passage.text:Višje vodstvo Cie je videlo težave tudi z oboroženim Predatorjem, težave, ki so jih bili Clarke ter celo Black in Allen nagnjeni k zmanjšanju. Eden (ki je veljal tudi za izvidniške polete) je bil denar. Predator je stal približno 3 milijone dolarjev. Če bi CIA letela s plenilci zaradi lastnega izvidništva ali prikritega ukrepanja, bi si jih morda lahko sposodila pri letalskih silah, ni pa bilo jasno, da bi letalstvo krilo stroške, če bi vozilo padlo. Namestnik obrambnega ministra Wolfowitz je zavzel stališče, da mora CIA to plačati; CIA se ni strinjala. Drugič, zlasti Tenet se je spraševal, ali naj kot direktor centralne obveščevalne službe upravlja z oboroženim Predatorjem. &quot;To je bila nova podlaga,&quot; nam je povedal. Tenet je označil ključna vprašanja: Kaj je veriga poveljevanja? Kdo posname strel? Ali ameriškim voditeljem to ustreza CIA, ki je zunaj običajnega vojaškega poveljevanja in nadzora? Charlie Allen nam je povedal, da sta, ko so o teh vprašanjih razpravljali na Cia, on in izvršni direktor agencije AB &quot;Buzzy&quot; Krongard povedala, da bo eden od njiju z veseljem pritisnil na sprožilec, toda Tenet je bil zgrožen in jim rekel, da za to niso imeli pooblastila, on pa tudi ne. Tretjič, bojna glava Hellfire, ki jo je nosil Predator, je potrebovala delo. Zgrajena je bila za udarjanje tankov in ne ljudi. Zasnovan je bil tako, da je eksplodiral na drugačen način, in že takrat je bil treba ciljati z izjemno natančnostjo. V konfiguraciji, ki so jo do leta 2001 načrtovale zračne sile, Predatorjeva raketa ne bi mogla zadeti premikajočega se vozila. Uradniki Bele hiše so videli posnetek Predatorja o &quot;človeku v belem&quot;. 11. julija je Hadley poskušal pohiteti s pripravo oboroženega sistema. McLaughlinu, Wolfowitzu in podpredsedniku Združenih načelnikov Richardu Myersu je naročil, da najkasneje do 1. septembra napotijo plenilce, ki so lahko oboroženi.
+passage.questions.9.question:Zakaj je bojna glava Hellfire, ki jo je nosil Predator, potrebovala delo?
+passage.questions.9.idx:4027.0
+passage.questions.9.answers.4.text:Nošen
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:21355.0
+passage.questions.9.answers.3.text:Zasnovan je bil tako, da je zadel ljudi in ne tanke
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:21354.0
+passage.questions.9.answers.2.text:Zasnovan je bil tako, da je hitrejši
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:21353.0
+passage.questions.9.answers.1.text:Ni mogel zadeti premikajočih se ciljev. Ustvarjen je bil za udarjanje tankov, ne ljudi
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:21352.0
+passage.questions.9.answers.0.text:Peklenski ogenj
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:21351.0
+passage.questions.8.question:Kakšne težave je višje vodstvo Cie videlo z oboroženim plenilcem?
+passage.questions.8.idx:4026.0
+passage.questions.8.answers.3.text:Denar in čas
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:21350.0
+passage.questions.8.answers.2.text:CIA glej s
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:21349.0
+passage.questions.8.answers.1.text:Denar in ali naj to upravljajo
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:21348.0
+passage.questions.8.answers.0.text:Višje vodstvo Cie je videlo tri glavne težave, eno je bil denar, druga pa je bila, da nihče v CIA dejansko ni bil usposobljen za upravljanje naprave, končno pa je orožje potrebovalo delo v okviru Cie
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:21347.0
+passage.questions.7.question:Zakaj je bojna glava Hellfire potrebovala delo?
+passage.questions.7.idx:4025.0
+passage.questions.7.answers.3.text:Bojna glava
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:21346.0
+passage.questions.7.answers.2.text:Zgrajena je bila za udarjanje tankov in ne ljudi
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:21345.0
+passage.questions.7.answers.1.text:Zasnovan je bil za uničenje tankov in ga je bilo treba na novo zasnovati, da bo eksplodiral na drugačen način, in je bil konfiguriran za natančne udarce na premikajoča se vozila
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:21344.0
+passage.questions.7.answers.0.text:Napačno je delovalo
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:21343.0
+passage.questions.6.question:Koliko težav je imelo vodstvo Cie pri uporabi oboroženega Predatorja?
+passage.questions.6.idx:4024.0
+passage.questions.6.answers.1.text:3.
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:21342.0
+passage.questions.6.answers.0.text:5.
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:21341.0
+passage.questions.5.question:Koliko mesecev je Hadley pričakoval, da bo treba oborožiti Predatorja, potem ko je julija začel hiteti?
+passage.questions.5.idx:4023.0
+passage.questions.5.answers.2.text:Približno 2,5 meseca
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:21340.0
+passage.questions.5.answers.1.text:6 mesecev
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:21339.0
+passage.questions.5.answers.0.text:2 meseca
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:21338.0
+passage.questions.4.question:Katera ključna vprašanja je imel direktor obveščevalne službe o delovanju Predatorja s strani Cie?
+passage.questions.4.idx:4022.0
+passage.questions.4.answers.4.text:Vprašanja direktorjev so bila: &quot;Kaj je veriga poveljevanja?&quot;, &quot;Kdo strelja?&quot; In &quot;Ali so ameriški voditelji zadovoljni s tem, da je CIA zunaj običajnega vojaškega poveljevanja in nadzora?&quot;
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:21337.0
+passage.questions.4.answers.3.text:Vsak od njih bi z veseljem pritisnil na sprožilec, toda Tenet je bil zgrožen in jim rekel, da za to nimajo nobenih pooblastil, niti on
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:21336.0
+passage.questions.4.answers.2.text:Delovanje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:21335.0
+passage.questions.4.answers.1.text:Direktor obveščevalne službe
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21334.0
+passage.questions.4.answers.0.text:Kdo je imel denar za financiranje tega podjetja?
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:21333.0
+passage.questions.3.question:Zakaj je obstajala skrb zaradi &quot;verige poveljevanja&quot;?
+passage.questions.3.idx:4021.0
+passage.questions.3.answers.2.text:Tega klica ni hotel opraviti
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:21332.0
+passage.questions.3.answers.1.text:Kdo bi imel nadzor nad Predatorjem? Ali ameriškim voditeljem ustreza CIA, ki je zunaj običajnega vojaškega poveljevanja in nadzora?
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:21331.0
+passage.questions.3.answers.0.text:Obstajali so pomisleki glede izstopa izven običajnega vojaškega poveljevanja in nadzora
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:21330.0
+passage.questions.2.question:Zakaj je bilo višje vodstvo tako zaskrbljeno zaradi stroškov Predatorja?
+passage.questions.2.idx:4020.0
+passage.questions.2.answers.4.text:Zaskrbljen
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:21329.0
+passage.questions.2.answers.3.text:Šlo je za 3 milijone dolarjev
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:21328.0
+passage.questions.2.answers.2.text:Predraga je stala 4 milijarde
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:21327.0
+passage.questions.2.answers.1.text:Zaskrbeli so jih, ker je Predator stal približno 3 milijone dolarjev, obrambni minister pa je menil, da bi morala CIA, če bi plenilec padel, plačati
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:21326.0
+passage.questions.2.answers.0.text:Upravljanje
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21325.0
+passage.questions.14.question:Namestnik obrambnega ministra Wolfowitz je menil, da bi morala CIA za kaj plačati 3 milijone?
+passage.questions.14.idx:4032.0
+passage.questions.14.answers.3.text:Plenilec
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:21376.0
+passage.questions.14.answers.2.text:Nov čoln
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:21375.0
+passage.questions.14.answers.1.text:Obramba
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:21374.0
+passage.questions.14.answers.0.text:Verjel
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:21373.0
+passage.questions.13.question:Kakšno delo je potrebovala bojna glava Hellfire, ki jo je nosil Predator?
+passage.questions.13.idx:4031.0
+passage.questions.13.answers.4.text:E Predator potreba
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:21372.0
+passage.questions.13.answers.3.text:Zasnovan je bil tako, da zadeva tanke in ne ljudi, zato ga je bilo treba preoblikovati, da bo eksplodiral na drugačen način
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:21371.0
+passage.questions.13.answers.2.text:Zgrajena je bila za udarjanje tankov in ne ljudi
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:21370.0
+passage.questions.13.answers.1.text:Hellfire bojna glava
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:21369.0
+passage.questions.13.answers.0.text:Zgrajena je bila za udarjanje ljudi in ne tankov
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:21368.0
+passage.questions.12.question:Zakaj je CIA želela, da Airforce plača, če je Predator padel?
+passage.questions.12.idx:4030.0
+passage.questions.12.answers.3.text:Če bi CIA letela s plenilci zaradi lastnega izvidništva ali prikrite akcije, bi si jih morda lahko sposodila pri letalskih silah, vendar ni bilo jasno, da bi letalstvo krilo stroške, če bi vozilo padlo
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:21367.0
+passage.questions.12.answers.2.text:Plenilec
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:21366.0
+passage.questions.12.answers.1.text:Niso hoteli plačati
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:21365.0
+passage.questions.12.answers.0.text:Ker so bili last letalskih sil in so bili stroški Predatorja preveliki
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:21364.0
+passage.questions.11.question:Kaj je bila prva težava višjega vodstva Cie z oboroženim Predatorjem?
+passage.questions.11.idx:4029.0
+passage.questions.11.answers.3.text:Pojavili so se pomisleki, ali je to izvedljivo
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:21363.0
+passage.questions.11.answers.2.text:Obstajali so pomisleki, kdo bo nosil stroške
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:21362.0
+passage.questions.11.answers.1.text:Plenilec
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:21361.0
+passage.questions.11.answers.0.text:Cena
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:21360.0
+passage.questions.10.question:Za kaj CIA ni hotela plačati?
+passage.questions.10.idx:4028.0
+passage.questions.10.answers.3.text:Plenilec
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:21359.0
+passage.questions.10.answers.2.text:Plačati za
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:21358.0
+passage.questions.10.answers.1.text:Več tankov
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:21357.0
+passage.questions.10.answers.0.text:Stroški Predatorja, ki je padel / je bil uničen
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:21356.0
+passage.questions.1.question:Zakaj je bil Tenet zgrožen?
+passage.questions.1.idx:4019.0
+passage.questions.1.answers.3.text:Tenet ni hotel biti tisti, ki bi klical
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21324.0
+passage.questions.1.answers.2.text:Zgrožen
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:21323.0
+passage.questions.1.answers.1.text:Tenet je bil zgrožen, rekoč jim, da za to nimajo pooblastila, on pa tudi ne
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:21322.0
+passage.questions.1.answers.0.text:Ker se je to dogajalo zunaj običajnega vojaškega poveljevanja in nadzora, in menil je, da nimajo zahtevanih pooblastil
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21321.0
+passage.questions.0.question:Kakšen časovni okvir si je Hadley določil za pripravo oborožene rakete?
+passage.questions.0.idx:4018
+passage.questions.0.answers.3.text:Priprava
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:21320.0
+passage.questions.0.answers.2.text:Zasnovan je bil tako, da je eksplodiral na drugačen način, in že takrat je bil treba ciljati z izjemno natančnostjo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:21319.0
+passage.questions.0.answers.1.text:Julija 2011 je McLaughlinu, Wolfowitzu in podpredsedniku Združenih načelnikov Richardu Myersu naročil, najkasneje do 1. septembra napotijo plenilce, ki jih je mogoče oborožiti.
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:21318
+passage.questions.0.answers.0.text:Treba ga je bilo zasuti, da bo eksplodiral na tarči
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:21317
+idx:349

@@ -1,0 +1,6 @@
+﻿choice1:Stvari so padle z voza.
+choice2:Kolesa voza so zapeljala naprej.
+idx:75
+label:1
+premise:Porinil sem voz.
+question:effect

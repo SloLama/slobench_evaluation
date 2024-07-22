@@ -1,0 +1,6 @@
+choice1:Bilo je veliko praznih miz.
+choice2:V restavraciji je bila gneča.
+idx:84
+label:1
+premise:Storitev v restavraciji je bila počasna.
+question:cause

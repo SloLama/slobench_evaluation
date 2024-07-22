@@ -1,0 +1,312 @@
+version:1.1
+passage.text:Agencije se sklicujejo Ko so izvedeli, da je drugo letalo udarilo v Svetovni trgovinski center, so nam povedali skoraj vsi v Beli hiši, takoj so vedeli, da to ni nesreča. Tajna služba je sprožila številne varnostne izboljšave okoli kompleksa Bele hiše. Uradniki, ki so izdali ta ukaz, niso vedeli, da je prišlo do dodatnih ugrabljenih letal ali da je eno takšno letalo na poti v Washington. Ti ukrepi so bili previdnostni ukrepi zaradi stavk v New Yorku. Telekonference FAA in Bele hiše. FAA, Bela hiša in obrambno ministrstvo so pred 9.30 sprožili večagencijsko telekonferenco. Ker nobena od teh telekonferenc - vsaj pred 10:00 - ni vključevala pravih uradnikov tako FAA kot obrambnega ministrstva, nobenemu ni uspelo smiselno uskladiti odziva vojske in FAA na ugrabitve. Okoli 9:20 je varnostno osebje na sedežu FAA vzpostavilo ugrabitveno telekonferenco z več agencijami, vključno z obrambnim ministrstvom. Uradnik NMCC, ki je sodeloval, nam je povedal, da so klic spremljali le občasno, ker so bile informacije občasne, malo koristne in obstajajo še druge pomembne naloge. Tudi vodja telekonference FAA se je spomnil, da je vojska sodelovala le na kratko, preden je bil zadet Pentagon. Oba posameznika sta se strinjala, da telekonferenca ni imela nobene vloge pri usklajevanju odziva na napade 11. septembra. Vršilec dolžnosti namestnika upravnika Belger je bil razočaran, ko je pozneje zjutraj izvedel, da vojska ni bila na klicu. V Beli hiši je videokonferenco iz Situacijske sobe vodil Richard Clarke, posebni pomočnik predsednika, ki je že dolgo sodeloval v protiterorizmu. Dnevniki kažejo, da se je začelo ob 9:25 in vključevalo CIA; FBI; oddelki za državo, pravosodje in obrambo; FAA; in zavetišče Bele hiše. FAA in CIA sta se pridružili ob 9:40. Prva tema, o kateri so govorili v videotelefonski konferenci v Beli hiši - približno ob 9:40, je bila fizična varnost predsednika, Bele hiše in zveznih agencij. Takoj zatem so poročali, da je letalo zadelo Pentagon. Nismo našli nobenega dokaza, da bi udeleženci videokonference imeli kakršne koli predhodne informacije, da je bil ameriški 77 ugrabljen in da gre neposredno proti Washingtonu.
+passage.questions.9.question:Kdo je potrdil, da telekonferenca ni pomembna za usklajevanje odziva na napad?
+passage.questions.9.idx:3278.0
+passage.questions.9.answers.3.text:CIA in FBI
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:17315.0
+passage.questions.9.answers.2.text:DOJ in FBI
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:17314.0
+passage.questions.9.answers.1.text:Vodja NMCC in FAA
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:17313.0
+passage.questions.9.answers.0.text:Vodja FAA in častnik NMCC
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:17312.0
+passage.questions.8.question:Koliko minut je preteklo, preden se je FAA pridružil videotelefonskemu klicu, ki ga je vodil Richard Clarke?
+passage.questions.8.idx:3277.0
+passage.questions.8.answers.4.text:45 minut
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:17311.0
+passage.questions.8.answers.3.text:Atta-jeve osebnosti
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:17310.0
+passage.questions.8.answers.2.text:15 minut
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:17309.0
+passage.questions.8.answers.1.text:9:25
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:17308.0
+passage.questions.8.answers.0.text:1 uro
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:17307.0
+passage.questions.7.question:Zakaj je Belgerja motilo, da vojska ni bila na jutranjem klicu?
+passage.questions.7.idx:3276.0
+passage.questions.7.answers.3.text:Nujni so bili, da so ustvarili odziv na terorizem
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:17306.0
+passage.questions.7.answers.2.text:Oba posameznika sta se strinjala, da telekonferenca ni imela nobene vloge pri usklajevanju odziva na napade 11. septembra
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:17305.0
+passage.questions.7.answers.1.text:Menili so, da informacije niso pomembne
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:17304.0
+passage.questions.7.answers.0.text:Niso vedeli, da se je drugo letalo odpravilo v DC
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:17303.0
+passage.questions.6.question:Kakšen je bil začetni odziv tajne službe na drugo letalo, ki je zadelo WTC?
+passage.questions.6.idx:3275.0
+passage.questions.6.answers.4.text:Da to ni bilo naključno
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:17302.0
+passage.questions.6.answers.3.text:Vlada
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:17301.0
+passage.questions.6.answers.2.text:Vzdrževanje predsednika na varnem
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:17300.0
+passage.questions.6.answers.1.text:Ugrabljenih letal je bilo več
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:17299.0
+passage.questions.6.answers.0.text:Po Beli hiši so sprožili številne varnostne izboljšave
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:17298.0
+passage.questions.5.question:Kdaj se je v situaciji v Beli hiši začela telekonferenca Richarda Clarka?
+passage.questions.5.idx:3274.0
+passage.questions.5.answers.2.text:9:25
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:17297.0
+passage.questions.5.answers.1.text:10:00
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:17296.0
+passage.questions.5.answers.0.text:9:40
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:17295.0
+passage.questions.4.question:Katere agencije so sodelovale pri videotelefonski konferenci, ki jo je iz Situacijske sobe vodil Richard Clarke?
+passage.questions.4.idx:3273.0
+passage.questions.4.answers.3.text:FAA in CIA
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:17294.0
+passage.questions.4.answers.2.text:CIA, FAA, FBI
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:17293.0
+passage.questions.4.answers.1.text:CIA; FBI; oddelki za državo, pravosodje in obrambo; FAA; zavetišče Bele hiše in CIA
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17292.0
+passage.questions.4.answers.0.text:Ministrstva za državo, pravosodje in obrambo
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:17291.0
+passage.questions.3.question:Zakaj telekonference FAA in Bele hiše niso uspele ustaviti letala, da bi zadelo Pentagon?
+passage.questions.3.idx:3272.0
+passage.questions.3.answers.3.text:FAA se je pridružila šele ob 9:40
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:17290.0
+passage.questions.3.answers.2.text:Niso vedeli za drugo letalo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:17289.0
+passage.questions.3.answers.1.text:Vključenih je bilo premalo pravilnih oddelkov
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:17288.0
+passage.questions.3.answers.0.text:Ker so razpravljali o previdnostnih ukrepih, nismo našli dokazov, da bi imeli udeleženci videotelefonske zveze kakršne koli predhodne informacije, da je bil ameriški 77 ugrabljen in da gre neposredno proti Washingtonu. Uradniki, ki so izdali ta ukaz, niso vedeli, da je prišlo do dodatnih ugrabljenih letal ali da je eno takšno letalo na poti v Washington
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:17287.0
+passage.questions.20.question:Telekonferenca v situacijski sobi je ugotovila, katera prva tema bo?
+passage.questions.20.idx:3289.0
+passage.questions.20.answers.3.text:Načrtovanje povračilnih ukrepov
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:17365.0
+passage.questions.20.answers.2.text:Fizična varnost predsednika, Bele hiše in zveznih agencij
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:17364.0
+passage.questions.20.answers.1.text:Lokacija in varnost predsednikov
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:17363.0
+passage.questions.20.answers.0.text:Iskanje letal
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:17362.0
+passage.questions.2.question:Je med konferenčnim klicem Bele hiše sploh prišlo do stavke na Pentagon?
+passage.questions.2.idx:3271.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:17286.0
+passage.questions.2.answers.0.text:O drugem letalu ni bilo podatkov
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:17285.0
+passage.questions.19.question:Katera dva človeka sta se strinjala, da telekonferenca ni imela nobene vloge pri usklajevanju odziva na napade 11. septembra?
+passage.questions.19.idx:3288.0
+passage.questions.19.answers.3.text:NMCC in upravitelj FAA
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:17361.0
+passage.questions.19.answers.2.text:FAA in tajna služba
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:17360.0
+passage.questions.19.answers.1.text:Uradnik NMCC in uradnik FAA
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:17359.0
+passage.questions.19.answers.0.text:FBI in CIA
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:17358.0
+passage.questions.18.question:Česa se tajna služba ni zavedala, ko je prvič postavila previdnostne ukrepe okoli kompleksa Bele hiše?
+passage.questions.18.idx:3287.0
+passage.questions.18.answers.3.text:Da je bilo drugo letalo na poti v Washington
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:17357.0
+passage.questions.18.answers.2.text:Da to ni bila nesreča
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:17356.0
+passage.questions.18.answers.1.text:Niso vedeli, da je bilo dodatno letalo namenjeno v Washington
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:17355.0
+passage.questions.18.answers.0.text:Da so bila letala ugrabljena
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:17354.0
+passage.questions.17.question:Pri čem sta začeli sodelovati CIA in FAA ob 9:40?
+passage.questions.17.idx:3286.0
+passage.questions.17.answers.4.text:Tajna služba
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:17353.0
+passage.questions.17.answers.3.text:Video telekonferenca Situacijska soba
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:17352.0
+passage.questions.17.answers.2.text:Telekonferenca glede letala
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:17351.0
+passage.questions.17.answers.1.text:Varnostni načrt za predsednika
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:17350.0
+passage.questions.17.answers.0.text:Ura kave
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:17349.0
+passage.questions.16.question:Kdaj sta se FAA in CIA pridružili videotelefonski konferenci?
+passage.questions.16.idx:3285.0
+passage.questions.16.answers.4.text:9:40
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:17348.0
+passage.questions.16.answers.3.text:Potem ko se je telekonferenca že začela
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:17347.0
+passage.questions.16.answers.2.text:Pridružila sta se ob 9:40
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:17346.0
+passage.questions.16.answers.1.text:10:00 dopoldan
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:17345.0
+passage.questions.16.answers.0.text:Potem ko je letalo zadelo peterokotnik
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:17344.0
+passage.questions.15.question:Kaj je povzročilo, da je tajna služba povečala varnost okolice kompleksa Bele hiše?
+passage.questions.15.idx:3284.0
+passage.questions.15.answers.3.text:Stavke v New Yorku
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:17343.0
+passage.questions.15.answers.2.text:Naročila tajnih služb
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:17342.0
+passage.questions.15.answers.1.text:Letalo napade Svetovni trgovinski center
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:17341.0
+passage.questions.15.answers.0.text:Informacije o letalih
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:17340.0
+passage.questions.14.question:Iz katerega razloga telekonferenca ob 9:20, ki jo je vzpostavila FAA, ni bila koristna?
+passage.questions.14.idx:3283.0
+passage.questions.14.answers.4.text:Informacije so bile občasne
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:17339.0
+passage.questions.14.answers.3.text:Vključenih premalo agencij
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:17338.0
+passage.questions.14.answers.2.text:Informacije so bile občasne in malo koristne, vojska pa je bila le na kratko vključena
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:17337.0
+passage.questions.14.answers.1.text:Opraviti so morale pomembnejše naloge
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:17336.0
+passage.questions.14.answers.0.text:Uradniki
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:17335.0
+passage.questions.13.question:Kdaj je tajna služba sprožila varnostne izboljšave okoli Bele hiše?
+passage.questions.13.idx:3282.0
+passage.questions.13.answers.4.text:Ko jim je FAA rekla
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:17334.0
+passage.questions.13.answers.3.text:9:40, ko se je začela telekonferenca
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:17333.0
+passage.questions.13.answers.2.text:Ko se je pokazalo, da ni šlo za nesrečo
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:17332.0
+passage.questions.13.answers.1.text:Potem ko je drugo letalo zadelo Svetovni trgovinski center
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:17331.0
+passage.questions.13.answers.0.text:Potem ko je drugo letalo zadelo stolpe svetovne trgovine
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:17330.0
+passage.questions.12.question:Katera udeleženca sta se strinjala, da ugrabljena telekonferenca ni imela nobene vloge pri usklajevanju odziva na napade 11. septembra?
+passage.questions.12.idx:3281.0
+passage.questions.12.answers.4.text:FBI
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:17329.0
+passage.questions.12.answers.3.text:FAA manager in fmcc manager
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:17328.0
+passage.questions.12.answers.2.text:Uradnik NMCC in vodja FAA
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:17327.0
+passage.questions.12.answers.1.text:CIA
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:17326.0
+passage.questions.12.answers.0.text:Uradniki
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:17325.0
+passage.questions.11.question:Zakaj uradniki FAA in obrambnega ministrstva med konferenčnim klicem na sedežu FAA ob 9:20 niso mogli uskladiti vojaškega odziva?
+passage.questions.11.idx:3280.0
+passage.questions.11.answers.3.text:Nihče ni imel pravih uradnikov na klicih pred 10. uro zjutraj
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:17324.0
+passage.questions.11.answers.2.text:Niso bili pravi uradniki
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:17323.0
+passage.questions.11.answers.1.text:Niso vedeli, da se drugo letalo odpravlja v DC
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:17322.0
+passage.questions.11.answers.0.text:Menili so, da informacije niso pomembne
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:17321.0
+passage.questions.10.question:Kaj je motiviralo tajno službo za povečanje varnosti Bele hiše?
+passage.questions.10.idx:3279.0
+passage.questions.10.answers.4.text:Bin Laden
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:17320.0
+passage.questions.10.answers.3.text:Ugrabljena letala
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:17319.0
+passage.questions.10.answers.2.text:Naročila FAA
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:17318.0
+passage.questions.10.answers.1.text:Stavke v New Yorku
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:17317.0
+passage.questions.10.answers.0.text:Stavke v New Yorku
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:17316.0
+passage.questions.1.question:Je CIA sodelovala v razpravi o varnosti ameriškega predsednika?
+passage.questions.1.idx:3270.0
+passage.questions.1.answers.3.text:Ne, odgovorna je bila tajna služba
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:17284.0
+passage.questions.1.answers.2.text:Ne, niso bili zaskrbljeni
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:17283.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:17282.0
+passage.questions.1.answers.0.text:Da ob 9:40
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:17281.0
+passage.questions.0.question:Kdaj se je začela videokonferenca v situacijski sobi?
+passage.questions.0.idx:3269
+passage.questions.0.answers.3.text:10:00 dopoldan
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:17280.0
+passage.questions.0.answers.2.text:9: 25a
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:17279.0
+passage.questions.0.answers.1.text:9:25
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:17278
+passage.questions.0.answers.0.text:9:40
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:17277
+idx:288

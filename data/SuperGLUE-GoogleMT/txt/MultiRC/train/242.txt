@@ -1,0 +1,206 @@
+version:1.1
+passage.text:Naravne vire potrebujemo za skoraj vse, kar počnemo. Potrebujemo jih za hrano in oblačila, za gradbene materiale in energijo. Potrebujemo jih celo za zabavo. V tabeli 2.1 so primeri uporabe naravnih virov. Si lahko omislite druge načine, kako uporabljamo naravne vire? Uporaba vozil Viri Guma za pnevmatike iz gumijastih dreves Jekleni okvirji in drugi kovinski deli iz mineralov, kot je železo Primer železove rude Elektronika Plastični kovčki iz naftnih derivatov Stekleni zasloni iz mineralov, kot je svinčeva ruda Uporaba Domovi Viri Žeblji iz mineralov, kot je železo Les iz dreves Primer smrekovega lesa Nakit Dragi kamni, kot so diamanti Minerali, kot so srebrna srebrna ruda Hrana Sončna svetloba, voda in tla Minerali, kot so semena koruznega fosforja v tleh Oblačila Volna iz ovac Bombaž iz rastlin bombaža Rekreacija Voda za čolnarjenje in plavanje Gozdovi za pohodništvo in kampiranje borovega gozda Nekateri naravni viri so obnovljivi. Drugi niso. Delno je odvisno od tega, kako jih uporabljamo.
+passage.questions.9.question:So naravni viri obnovljivi?
+passage.questions.9.idx:2690.0
+passage.questions.9.answers.2.text:Nekateri so, nekateri ne, odvisno od tega, kako jih uporabljamo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:14251.0
+passage.questions.9.answers.1.text:Nenehno
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:14250.0
+passage.questions.9.answers.0.text:Nekateri niso
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:14249.0
+passage.questions.8.question:Za kaj so potrebni naravni viri?
+passage.questions.8.idx:2689.0
+passage.questions.8.answers.7.text:Zabavno
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:14248.0
+passage.questions.8.answers.6.text:Kurjenje požarov
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:14247.0
+passage.questions.8.answers.5.text:Hrana
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:14246.0
+passage.questions.8.answers.4.text:Energija
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:14245.0
+passage.questions.8.answers.3.text:Sreča
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:14244.0
+passage.questions.8.answers.2.text:Zavetje
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:14243.0
+passage.questions.8.answers.1.text:Potrebni so za hrano in oblačila, za gradbeni material in energijo ter za zabavo
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:14242.0
+passage.questions.8.answers.0.text:Oblačila
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:14241.0
+passage.questions.7.question:Kako nam lahko naravni viri pomagajo pri zabavi?
+passage.questions.7.idx:2688.0
+passage.questions.7.answers.6.text:Voda za čolnarjenje in plavanje Gozdovi za pohodništvo in kampiranje borovega gozda
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:14240.0
+passage.questions.7.answers.5.text:Kampiranje
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:14239.0
+passage.questions.7.answers.4.text:Služenje denarja
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:14238.0
+passage.questions.7.answers.3.text:Iz njih lahko izdelujemo izdelke, ki se uporabljajo za zabavo
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:14237.0
+passage.questions.7.answers.2.text:Čolnarjenje
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:14236.0
+passage.questions.7.answers.1.text:Voda za pohodništvo in plavanje; Gozdovi za plavanje.
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14235.0
+passage.questions.7.answers.0.text:Lahko se uporablja za lažje življenje
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:14234.0
+passage.questions.6.question:Katere naravne vire lahko uporabimo kot gradbeni material?
+passage.questions.6.idx:2687.0
+passage.questions.6.answers.6.text:Guma, les, jeklena kovina, baker, ruda, srebro
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:14233.0
+passage.questions.6.answers.5.text:Svinčeva ruda
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:14232.0
+passage.questions.6.answers.4.text:Nohti
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:14231.0
+passage.questions.6.answers.3.text:Minerali
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:14230.0
+passage.questions.6.answers.2.text:Drevesa
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:14229.0
+passage.questions.6.answers.1.text:Guma
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:14228.0
+passage.questions.6.answers.0.text:Morske školjke
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:14227.0
+passage.questions.5.question:Katere so še rabe naravnih virov?
+passage.questions.5.idx:2686.0
+passage.questions.5.answers.7.text:Goreča guma
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:14226.0
+passage.questions.5.answers.6.text:Izdelava nakita
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:14225.0
+passage.questions.5.answers.5.text:Glasba
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:14224.0
+passage.questions.5.answers.4.text:Umetnost
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:14223.0
+passage.questions.5.answers.3.text:Guma za pnevmatike iz gumijastih dreves in jeklenih okvirjev ter drugi kovinski deli iz mineralov, kot je železo
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:14222.0
+passage.questions.5.answers.2.text:Izdelava gume
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:14221.0
+passage.questions.5.answers.1.text:Gradbeni materiali
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:14220.0
+passage.questions.5.answers.0.text:Oblačila
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14219.0
+passage.questions.4.question:Kateri so nekateri osnovni razlogi, da potrebujemo naravne vire?
+passage.questions.4.idx:2685.0
+passage.questions.4.answers.8.text:Zabava
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:14218.0
+passage.questions.4.answers.7.text:Hrana
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:14217.0
+passage.questions.4.answers.6.text:ZABAVNO
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:14216.0
+passage.questions.4.answers.5.text:Za raziskovanje vesolja
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:14215.0
+passage.questions.4.answers.4.text:Energija
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:14214.0
+passage.questions.4.answers.3.text:Prekopavanje zemlje
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:14213.0
+passage.questions.4.answers.2.text:Močno gospodarstvo
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:14212.0
+passage.questions.4.answers.1.text:Hrana, oblačila, gradbeni materiali za energijo in celo za zabavo
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:14211.0
+passage.questions.4.answers.0.text:Oblačila
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14210.0
+passage.questions.3.question:Kaj potrebujemo za gradbeni material in energijo
+passage.questions.3.idx:2684.0
+passage.questions.3.answers.4.text:Naravni viri
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:14209.0
+passage.questions.3.answers.3.text:OLJE
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:14208.0
+passage.questions.3.answers.2.text:Naravni viri
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:14207.0
+passage.questions.3.answers.1.text:Minerali
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:14206.0
+passage.questions.3.answers.0.text:Premog
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:14205.0
+passage.questions.2.question:Kaj potrebujemo za hrano in oblačila
+passage.questions.2.idx:2683.0
+passage.questions.2.answers.4.text:Naravni viri
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:14204.0
+passage.questions.2.answers.3.text:Lovci
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:14203.0
+passage.questions.2.answers.2.text:Naravni viri
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:14202.0
+passage.questions.2.answers.1.text:Energija
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14201.0
+passage.questions.2.answers.0.text:Rastline
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:14200.0
+passage.questions.1.question:Nekateri naravni viri so obnovljivi, drugi ne, deloma odvisno od tega
+passage.questions.1.idx:2682.0
+passage.questions.1.answers.3.text:Koliko stanejo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:14199.0
+passage.questions.1.answers.2.text:Kako jih uporabljamo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:14198.0
+passage.questions.1.answers.1.text:Zrasli bodo spet
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:14197.0
+passage.questions.1.answers.0.text:Koliko jih obstaja
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:14196.0
+passage.questions.0.question:Kaj se moramo zabavati
+passage.questions.0.idx:2681
+passage.questions.0.answers.4.text:Naravni viri
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:14195.0
+passage.questions.0.answers.3.text:Vozila
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14194.0
+passage.questions.0.answers.2.text:Glasba
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:14193.0
+passage.questions.0.answers.1.text:Naravni viri
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:14192
+passage.questions.0.answers.0.text:Denar
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:14191
+idx:242

@@ -1,0 +1,6 @@
+choice1:Šole so jo izločile iz knjižničnega gradiva.
+choice2:Učitelji so zahtevali, da jo učenci preberejo.
+idx:110
+label:0
+premise:Knjiga je bila razglašena kot neprimerna za otroke.
+question:effect

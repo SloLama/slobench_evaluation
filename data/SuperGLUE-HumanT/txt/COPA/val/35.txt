@@ -1,0 +1,6 @@
+choice1:Poskusili so pridobiti priznanje.
+choice2:Iskali so nezakonite droge.
+idx:35
+label:1
+premise:Policija je preiskala storilčev avto.
+question:cause

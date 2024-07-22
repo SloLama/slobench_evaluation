@@ -1,0 +1,72 @@
+version:1.1
+passage.text:ZBIRANJE FOTOGRAFIJ dobiva novo rast, ko cene rastejo. Ta teden na dražbah postavljajo zapise o cenah. Pri Christie&#39;s se je folija z 21 grafikami iz serije &quot;Enakovrednosti&quot; Alfreda Stieglitza prodala za 396.000 ameriških dolarjev, plošča z enim lotom. Tudi druga dela presegajo ocene cen. Cene deloma odražajo razvoj tržne strukture, ki temelji na spremenljivkah, kot je število odtisov. Te informacije so bile včasih slabo dokumentirane in večinoma nezanesljive, pravi Beth Gates-Warren iz Sotheby&#39;s. &quot;Na trgu je končno nekakšen smisel,&quot; pravi. Korporacije in muzeji so med resnimi kupci, ki zagotavljajo večjo tržno stabilnost, pravi Robert Persky iz zbirke fotografij. &quot;Ko vidim, da odtisi gredo v roke institucij, vem, da se ne bodo več vrnili na trg.&quot; Najbolj povpraševanje: klasične fotografije mojstrov, kot sta Stieglitz in Man Ray. Toda veliko sodobnih del prinaša tudi &quot;veliko denarja&quot;, pravi Miles Barth iz Mednarodnega fotografskega centra.
+passage.questions.2.question:Kateri fotografi ta teden postavljajo rekorde cen dražb?
+passage.questions.2.idx:4372.0
+passage.questions.2.answers.5.text:Christie
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:23197.0
+passage.questions.2.answers.4.text:Man Ray in Alfred Stieglitz
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:23196.0
+passage.questions.2.answers.3.text:Beth Gates-Warren
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:23195.0
+passage.questions.2.answers.2.text:Robert Persky
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:23194.0
+passage.questions.2.answers.1.text:Človek Ray
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:23193.0
+passage.questions.2.answers.0.text:Alfred Stieglitz
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:23192.0
+passage.questions.1.question:Kateri subjekti ta teden postavljajo rekorde dražbenih cen?
+passage.questions.1.idx:4371.0
+passage.questions.1.answers.6.text:Slike
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:23191.0
+passage.questions.1.answers.5.text:Sotheby&#39;s
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:23190.0
+passage.questions.1.answers.4.text:Mednarodni fotografski center
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:23189.0
+passage.questions.1.answers.3.text:Fotografije
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:23188.0
+passage.questions.1.answers.2.text:Skulpture
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23187.0
+passage.questions.1.answers.1.text:Christie&#39;s
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:23186.0
+passage.questions.1.answers.0.text:Fotografski portfelj
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:23185.0
+passage.questions.0.question:Koliko odtisov Alfreda Stieglitza se je prodalo po rekordni ceni?
+passage.questions.0.idx:4370
+passage.questions.0.answers.7.text:21 odtisov
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:23184.0
+passage.questions.0.answers.6.text:Nobenega
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:23183.0
+passage.questions.0.answers.5.text:2.
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:23182.0
+passage.questions.0.answers.4.text:21.
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:23181.0
+passage.questions.0.answers.3.text:35
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:23180.0
+passage.questions.0.answers.2.text:Okoli 20
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23179.0
+passage.questions.0.answers.1.text:396
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:23178
+passage.questions.0.answers.0.text:12.
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23177
+idx:382

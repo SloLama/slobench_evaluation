@@ -1,0 +1,118 @@
+version:1.1
+passage.text:(CNN) - Ralph Mata je bil poročnik za notranje zadeve policijske uprave Miami-Dade in je delal v oddelku, ki preiskuje obtožbe o kršitvah policistov. Oblasti zunaj pisarne trdijo, da je 45-letni dolgoletni policist sodeloval z organizacijo za preprodajo mamil, da bi pomagal načrtovati načrt umora in dobiti orožje. Kazenska ovadba, razpečatena na ameriškem okrožnem sodišču v New Jerseyju v torek, Mata, znanega tudi kot &quot;The Milk Man&quot;, obtožuje, da je svojo vlogo policista pomagal organizaciji za preprodajo mamil v zameno za denar in darila, vključno z uro Rolex. Pritožba navaja, da se je Mata dogovarjal, da bo plačal dvema atentatorjema, da bi ubila konkurenčne trgovce z mamili. V pritožbi naj bi se morilci predstavljali kot policisti, ki bi pred streljanjem potegnili cilje nad njimi. &quot;Na koncu se je (organizacija) odločila, da ne bo nadaljevala s spletko o umoru, vendar je Mata vseeno prejel plačilo za organizacijo sestankov,&quot; so v izjavi zapisali zvezni tožilci. Pritožba navaja tudi, da je Mata s policijsko značko kupoval orožje za preprodajalce mamil. Po pritožbi je Mata nato na letališčih uporabljal stike za prevoz orožja v ročni prtljagi na potovanjih iz Miamija v Dominikansko republiko. V sodnih dokumentih, ki so jih objavili preiskovalci, ni navedeno imena organizacije za preprodajo mamil, s katero naj bi se Mata zarotil, vendar pravi, da je ta mamila uvažala mamila iz krajev, kot sta Ekvador in Dominikanska republika, tako da jih je skrivala &quot;v zabojnikih za pakiranje proizvodov, vključno z banane. &quot; Organizacija &quot;je v New Jerseyju in drugod distribuirala mamila,&quot; piše v pritožbi.
+passage.questions.7.question:V katere države so bila odposlana zdravila?
+passage.questions.7.idx:40.0
+passage.questions.7.answers.4.text:New Jersey
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:177.0
+passage.questions.7.answers.3.text:Kaliforniji in New Yorku
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:176.0
+passage.questions.7.answers.2.text:New York
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:175.0
+passage.questions.7.answers.1.text:Florida
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:174.0
+passage.questions.7.answers.0.text:New York
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:173.0
+passage.questions.6.question:Ali so preiskovalci razkrili ime organizacije, ki naj bi v New Jerseyju distribuirala mamila?
+passage.questions.6.idx:39.0
+passage.questions.6.answers.1.text:Imena niso navedli
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:172.0
+passage.questions.6.answers.0.text:Navedli so ime
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:171.0
+passage.questions.5.question:Kaj je Mata kupil preprodajalcem mamil z njegovo značko, čeprav zaplet o umoru ni šel naprej?
+passage.questions.5.idx:38.0
+passage.questions.5.answers.4.text:Plačilo
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:170.0
+passage.questions.5.answers.3.text:Orožje
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:169.0
+passage.questions.5.answers.2.text:Ugrabitelji
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:168.0
+passage.questions.5.answers.1.text:Droge
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:167.0
+passage.questions.5.answers.0.text:trgovci z mamili
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:166.0
+passage.questions.4.question:Na kateri izdelek je osredotočena preiskava?
+passage.questions.4.idx:37.0
+passage.questions.4.answers.4.text:Narkotiki
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:165.0
+passage.questions.4.answers.3.text:Pištole
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:164.0
+passage.questions.4.answers.2.text:Ljudje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:163.0
+passage.questions.4.answers.1.text:Droge
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:162.0
+passage.questions.4.answers.0.text:Amfetamini
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:161.0
+passage.questions.3.question:Ralph Mata je bil poročnik za notranje zadeve, ki ga obtožujejo, da je pomagal načrtovati umor in kaj dobiti?
+passage.questions.3.idx:36.0
+passage.questions.3.answers.3.text:&quot;Pištole&quot;
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:160.0
+passage.questions.3.answers.2.text:Plačilo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:159.0
+passage.questions.3.answers.1.text:Rolex ura
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:158.0
+passage.questions.3.answers.0.text:Denar
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:157.0
+passage.questions.2.question:Iz katere države je Mata poleg pomoči pri tihotapljenju orožja v Dominikansko republiko pomagal pri uvozu mamil?
+passage.questions.2.idx:35
+passage.questions.2.answers.4.text:Dominikanska republika
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:156.0
+passage.questions.2.answers.3.text:Ekvador
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:155.0
+passage.questions.2.answers.2.text:Mehika
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:154.0
+passage.questions.2.answers.1.text:Portoriko
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:153
+passage.questions.2.answers.0.text:Španija
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:152
+passage.questions.1.question:Kako je častnik?
+passage.questions.1.idx:34
+passage.questions.1.answers.3.text:Paul Doe
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:151.0
+passage.questions.1.answers.2.text:Ralph Mata
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:150.0
+passage.questions.1.answers.1.text:Človek mleka
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:149
+passage.questions.1.answers.0.text:Ralfi Matta
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:148
+passage.questions.0.question:&quot;Človek mleka&quot;, kot je znan tudi on, naj bi plačal dva napadalca, da bi koga ubil?
+passage.questions.0.idx:33
+passage.questions.0.answers.2.text:Policisti
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:147.0
+passage.questions.0.answers.1.text:&quot;Tekmujoči trgovci z mamili&quot;
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:146
+passage.questions.0.answers.0.text:Ugrabitelji
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:145
+idx:3

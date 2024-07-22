@@ -1,0 +1,4 @@
+idx:7803
+label:True
+passage:NP (kompleksnost) - V teoriji računske kompleksnosti je NP (nedeterministični polinomski čas) razred kompleksnosti, ki se uporablja za opis nekaterih vrst odločitvenih problemov. Neformalno je NP skupek vseh težav pri odločanju, za katere imajo primeri, kjer je odgovor &quot;da&quot;, učinkovito preverljive dokaze. Natančneje, ti dokazi morajo biti preverljivi z determinističnimi izračuni, ki jih je mogoče izvesti v polinomskem času.
+question:ali lahko probleme np rešimo v polinomskem času

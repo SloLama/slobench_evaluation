@@ -1,0 +1,4 @@
+idx:2021
+label:False
+passage:Kontrolna vsota - funkcije kontrolne vsote so povezane s funkcijami zgoščevanja, prstnimi odtisi, funkcijami randomizacije in kriptografskimi funkcijami zgoščevanja. Vendar ima vsak od teh konceptov različne aplikacije in s tem različne cilje oblikovanja. Na primer, funkcija, ki vrne začetek niza, lahko zagotovi zgoščevanje, primerno za nekatere aplikacije, vendar nikoli ne bo primerna kontrolna vsota. Kontrolne vsote se uporabljajo kot kriptografski primitivi v večjih algoritmih za preverjanje pristnosti. Za kriptografske sisteme s tema dvema specifičnima ciljema oblikovanja glejte HMAC.
+question:je kontrolna vsota, ki je enaka zgoščenki

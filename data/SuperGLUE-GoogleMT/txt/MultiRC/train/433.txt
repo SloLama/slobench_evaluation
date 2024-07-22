@@ -1,0 +1,174 @@
+version:1.1
+passage.text:Svetlobni žarki udarijo v odsevno površino. Nato se odražajo nazaj. Lahko predvidete kot odbojne svetlobe. Predstavljajte si, kako se žoga odbija od površine. Svetloba lahko stori isto. To pomeni, da ob predpostavki, da je površina sijoča. Kako torej vedeti, kam bo šla svetloba, potem ko bo udarila v sijočo površino? Odvisno od tega, kako svetloba sprva udari v svetleč predmet. Svetloba ne gre vedno naravnost proti površini. Zato se vsa svetloba ne odbije naravnost nazaj. Včasih lahko svetloba udari površino pod kotom. Kot, pod katerim udari na površino, nam pove, kako se bo odbil. Čeprav je svetloba drugačna od žoge, reagirajo na podoben način. Številni športi se zanašajo na znanje refleksije. Igralci bazena vedo veliko o razmišljanju. Zelo so previdni, ko udarijo v bazen. Potrebujejo ga, da gredo do določenega kraja. Vedejo, kako bo udaril ob bok mize za biljard.
+passage.questions.9.question:Kaj mora biti res, da uporabimo znanje refleksije za pomoč pri športu?
+passage.questions.9.idx:4882.0
+passage.questions.9.answers.3.text:Znanje trenja bi lahko pomagalo.
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:26044.0
+passage.questions.9.answers.2.text:Znanje o velikostih kroglic bi lahko pomagalo.
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:26043.0
+passage.questions.9.answers.1.text:Mehka in zamegljena površina lahko privede do dobrega odseva.
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:26042.0
+passage.questions.9.answers.0.text:Površina je na območju, ki se uporablja za presojo odseva, sijoča.
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:26041.0
+passage.questions.8.question:Kako znanje o refleksiji pomaga igralcem?
+passage.questions.8.idx:4881.0
+passage.questions.8.answers.4.text:Potrebujejo ga pred plavanjem v bazenu.
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:26040.0
+passage.questions.8.answers.3.text:Vedo, kako hitro naj udarijo žogo.
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:26039.0
+passage.questions.8.answers.2.text:lahko poznajo najboljši položaj za igranje
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:26038.0
+passage.questions.8.answers.1.text:Lahko vedo, pod kakšnim kotom bo žoga udarila ob bok mize za biljard
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:26037.0
+passage.questions.8.answers.0.text:Lahko predvidete kot odbojne svetlobe. Potrebujejo ga, da gredo do določenega kraja. Vedejo, kako bo udaril ob bok mize za biljard.
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:26036.0
+passage.questions.7.question:Kaj se lahko odbije od površine, podobne krogli?
+passage.questions.7.idx:4880.0
+passage.questions.7.answers.3.text:Sijajni predmeti
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:26035.0
+passage.questions.7.answers.2.text:Voda v bazenu
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:26034.0
+passage.questions.7.answers.1.text:Biljard
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:26033.0
+passage.questions.7.answers.0.text:Svetloba.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:26032.0
+passage.questions.6.question:Kateri šport se opira na znanje refleksije?
+passage.questions.6.idx:4879.0
+passage.questions.6.answers.3.text:Kopanje v bazenu
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:26031.0
+passage.questions.6.answers.2.text:košarka
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:26030.0
+passage.questions.6.answers.1.text:Plavanje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26029.0
+passage.questions.6.answers.0.text:Bazen
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:26028.0
+passage.questions.5.question:Kaj je potrebno, da se svetloba odbije od površine?
+passage.questions.5.idx:4878.0
+passage.questions.5.answers.3.text:Svetloba mora biti dovolj močna
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:26027.0
+passage.questions.5.answers.2.text:površina potrebuje veliko kotov
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:26026.0
+passage.questions.5.answers.1.text:Močna in trdna površina.
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:26025.0
+passage.questions.5.answers.0.text:Da je površina sijoča.
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:26024.0
+passage.questions.4.question:Katere informacije so koristne za združevanje igralcev, ko udarijo žogo?
+passage.questions.4.idx:4877.0
+passage.questions.4.answers.4.text:v nogometu morajo znati udariti žogo
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:26023.0
+passage.questions.4.answers.3.text:Vedeti morajo o plavanju.
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:26022.0
+passage.questions.4.answers.2.text:Znanje in potrpljenje, da na določenem mestu udarite v bilijar.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:26021.0
+passage.questions.4.answers.1.text:Poznavanje refleksije omogoča igralcu bazena, da udari žogo pod določenim kotom, da gre na določeno mesto.
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:26020.0
+passage.questions.4.answers.0.text:Vedeti morajo o razmišljanju
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:26019.0
+passage.questions.3.question:Kaj lahko kaže kot, ko svetloba udari na površino pod kotom?
+passage.questions.3.idx:4876.0
+passage.questions.3.answers.3.text:Piše, kako svetleč je predmet.
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:26018.0
+passage.questions.3.answers.2.text:koliko bo sijala luč
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26017.0
+passage.questions.3.answers.1.text:Kako se bo odbijala svetloba.
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26016.0
+passage.questions.3.answers.0.text:Kot lahko kaže, kako se bo svetloba odbijala od površine.
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:26015.0
+passage.questions.2.question:Kaj se zgodi, ko svetlobni žarki udarijo v odsevno površino?
+passage.questions.2.idx:4875.0
+passage.questions.2.answers.4.text:gredo skozi površje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:26014.0
+passage.questions.2.answers.3.text:Absorbirajo se
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:26013.0
+passage.questions.2.answers.2.text:ustavijo se na površju
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:26012.0
+passage.questions.2.answers.1.text:Svetlobni žarki se odbijajo nazaj.
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:26011.0
+passage.questions.2.answers.0.text:odražajo se nazaj.
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26010.0
+passage.questions.11.question:Kateri ljudje veliko vedo o razmišljanju?
+passage.questions.11.idx:4884.0
+passage.questions.11.answers.4.text:Plavalni igralci
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:26051.0
+passage.questions.11.answers.3.text:košarkarji
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:26050.0
+passage.questions.11.answers.2.text:Vsi ljudje v športu.
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:26049.0
+passage.questions.11.answers.1.text:Ljudje, ki se ukvarjajo s številnimi športi.
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:26048.0
+passage.questions.11.answers.0.text:igralci bazena
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:26047.0
+passage.questions.10.question:Zakaj se vsa svetloba ne odbije naravnost nazaj, ko se odbije od površine?
+passage.questions.10.idx:4883.0
+passage.questions.10.answers.1.text:ker lahko svetloba po določenem času izgine
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:26046.0
+passage.questions.10.answers.0.text:Odvisno od tega, kako svetloba sprva udari v svetleč predmet. Svetloba ne gre vedno naravnost proti površini. Zato se vsa svetloba ne odbije naravnost nazaj.
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:26045.0
+passage.questions.1.question:Ali igralci bazena uporabljajo načela razmišljanja, da žoga pride na določeno mesto?
+passage.questions.1.idx:4874.0
+passage.questions.1.answers.2.text:Ne
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:26009.0
+passage.questions.1.answers.1.text:Čeprav vedo veliko razmišljanja, običajno ne uporabljajo načel ....
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:26008.0
+passage.questions.1.answers.0.text:Ja, imajo.
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:26007.0
+passage.questions.0.question:Kaj določa, kako se bo žoga odbila od površine?
+passage.questions.0.idx:4873
+passage.questions.0.answers.3.text:Razsvetljava
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:26006.0
+passage.questions.0.answers.2.text:Temperatura
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:26005.0
+passage.questions.0.answers.1.text:Sijajna površina.
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:26004
+passage.questions.0.answers.0.text:Kot, pod katerim trči na površino.
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:26003
+idx:433

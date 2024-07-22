@@ -1,0 +1,314 @@
+version:1.1
+passage.text:Zagotovo ste opazili visoke palice ob cesti. Ali veste, kaj je na vrhu teh polov? Tako je, žice, ki prenašajo električni tok. Te žice prenašajo električni tok v vaš dom. Kaj pa je električni tok? Električni tok je pravzaprav pretok elektronov. Morda se spomnite, da je elektron najbolj zunanji delček v atomu. Imajo negativni naboj. Elektrika je neprekinjen pretok teh delcev. Elektroni se lahko premikajo skozi žice. Njihovo hitrost je mogoče celo izmeriti. Enota SI za električni tok (ali hitrost) je amper (A). Amper se pogosto skrajša na amp. Električni tok lahko teče samo v eno smer ali pa lahko vztrajno vodi smer. Enosmerni tok (DC) teče samo v eno smer. Enosmerni tok se uporablja v napravah, kot so svetilke. Izmenični tok (AC) teče v dve smeri. To je vrsta toka, ki teče v vaš dom po žicah.
+passage.questions.9.question:Kje so žice, ki prenašajo električni tok do vašega doma?
+passage.questions.9.idx:4761.0
+passage.questions.9.answers.6.text:Pod palicami
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:25348.0
+passage.questions.9.answers.5.text:Neposredna domov
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:25347.0
+passage.questions.9.answers.4.text:Vrh polov
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:25346.0
+passage.questions.9.answers.3.text:RoadSide
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:25345.0
+passage.questions.9.answers.2.text:Znotraj polov
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:25344.0
+passage.questions.9.answers.1.text:Visoki drogovi ob cesti
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:25343.0
+passage.questions.9.answers.0.text:Na mizi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:25342.0
+passage.questions.8.question:Kakšni delci so v žicah na vrhu visokih stebrov ob cesti?
+passage.questions.8.idx:4760.0
+passage.questions.8.answers.5.text:Amper
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:25341.0
+passage.questions.8.answers.4.text:Elektroni
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:25340.0
+passage.questions.8.answers.3.text:Električni delci
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:25339.0
+passage.questions.8.answers.2.text:Električni tok
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:25338.0
+passage.questions.8.answers.1.text:Signal
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:25337.0
+passage.questions.8.answers.0.text:Čarobni delci
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:25336.0
+passage.questions.7.question:Koliko smeri teče tok v svetilki?
+passage.questions.7.idx:4759.0
+passage.questions.7.answers.6.text:Dva
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:25335.0
+passage.questions.7.answers.5.text:2.
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:25334.0
+passage.questions.7.answers.4.text:Dvosmerno
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:25333.0
+passage.questions.7.answers.3.text:1.
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:25332.0
+passage.questions.7.answers.2.text:Samo en
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:25331.0
+passage.questions.7.answers.1.text:Dve smeri
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:25330.0
+passage.questions.7.answers.0.text:Ena smer
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:25329.0
+passage.questions.6.question:V čem se izmenični tok razlikuje od enosmernega?
+passage.questions.6.idx:4758.0
+passage.questions.6.answers.7.text:Z nabojem delcev
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:25328.0
+passage.questions.6.answers.6.text:Dvosmerno
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:25327.0
+passage.questions.6.answers.5.text:Po smeri toka
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:25326.0
+passage.questions.6.answers.4.text:Enosmerni tok teče v eno smer. Izmenični tok teče v dve smeri
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:25325.0
+passage.questions.6.answers.3.text:Ena smer
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:25324.0
+passage.questions.6.answers.2.text:Izmenični tok lahko gre v dve smeri, neposredni samo v eno
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:25323.0
+passage.questions.6.answers.1.text:So enaki
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:25322.0
+passage.questions.6.answers.0.text:Dve smeri
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:25321.0
+passage.questions.5.question:Koliko smeri teče tok, ki prihaja po žicah v naše domove?
+passage.questions.5.idx:4757.0
+passage.questions.5.answers.5.text:Dva
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:25320.0
+passage.questions.5.answers.4.text:Samo ena smer
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:25319.0
+passage.questions.5.answers.3.text:2.
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:25318.0
+passage.questions.5.answers.2.text:1.
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:25317.0
+passage.questions.5.answers.1.text:Dve smeri
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:25316.0
+passage.questions.5.answers.0.text:Ena
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:25315.0
+passage.questions.4.question:Ali imajo elektroni pozitiven ali negativen naboj?
+passage.questions.4.idx:4756.0
+passage.questions.4.answers.3.text:Samo pozitivno
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25314.0
+passage.questions.4.answers.2.text:Da
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:25313.0
+passage.questions.4.answers.1.text:Samo negativno
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:25312.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:25311.0
+passage.questions.3.question:Kaj je elektrika neprekinjen pretok delcev v najbolj zunanjem delcu?
+passage.questions.3.idx:4755.0
+passage.questions.3.answers.4.text:Electron
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:25310.0
+passage.questions.3.answers.3.text:Elektroni
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:25309.0
+passage.questions.3.answers.2.text:Protona
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:25308.0
+passage.questions.3.answers.1.text:Atoma
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:25307.0
+passage.questions.3.answers.0.text:Nevtroni
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25306.0
+passage.questions.2.question:Kaj je Ampere?
+passage.questions.2.idx:4754.0
+passage.questions.2.answers.8.text:Je osnovna enota električnega toka
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:25305.0
+passage.questions.2.answers.7.text:Merjenje hitrosti elektronov
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:25304.0
+passage.questions.2.answers.6.text:Je osnovna enota električnega upora
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:25303.0
+passage.questions.2.answers.5.text:Enota toka SI
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:25302.0
+passage.questions.2.answers.4.text:DC
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25301.0
+passage.questions.2.answers.3.text:Hitrost toka
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:25300.0
+passage.questions.2.answers.2.text:SI enota električnega toka
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:25299.0
+passage.questions.2.answers.1.text:Naelektreni delci, ki povzročajo električni tok
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25298.0
+passage.questions.2.answers.0.text:AC
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:25297.0
+passage.questions.15.question:Kateri sta dve vrsti električnega toka?
+passage.questions.15.idx:4767.0
+passage.questions.15.answers.5.text:Izmenični in enosmerni tok
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:25383.0
+passage.questions.15.answers.4.text:Led Zeppelin in Metallica
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:25382.0
+passage.questions.15.answers.3.text:Enosmerni in izmenični tok
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:25381.0
+passage.questions.15.answers.2.text:AC in DC
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:25380.0
+passage.questions.15.answers.1.text:AD
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:25379.0
+passage.questions.15.answers.0.text:Elektroni in protoni
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:25378.0
+passage.questions.14.question:Električni tok je tok elektronov. Ali imajo elektroni negativni ali pozitivni naboj?
+passage.questions.14.idx:4766.0
+passage.questions.14.answers.5.text:Samo pozitivno
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:25377.0
+passage.questions.14.answers.4.text:Imajo pozitiven naboj
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:25376.0
+passage.questions.14.answers.3.text:Da
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:25375.0
+passage.questions.14.answers.2.text:Ne
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:25374.0
+passage.questions.14.answers.1.text:Imajo negativni naboj
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:25373.0
+passage.questions.14.answers.0.text:Samo negativno
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:25372.0
+passage.questions.13.question:Kakšen naboj ima elektron?
+passage.questions.13.idx:4765.0
+passage.questions.13.answers.4.text:Pozitivno
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:25371.0
+passage.questions.13.answers.3.text:Pozitiven nevtralen
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:25370.0
+passage.questions.13.answers.2.text:Negativno
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:25369.0
+passage.questions.13.answers.1.text:Negativni naboj
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:25368.0
+passage.questions.13.answers.0.text:Nevtralno
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:25367.0
+passage.questions.12.question:Kaj je na vrhu stebrov ob cesti?
+passage.questions.12.idx:4764.0
+passage.questions.12.answers.6.text:Električna žica
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:25366.0
+passage.questions.12.answers.5.text:Električne žice
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:25365.0
+passage.questions.12.answers.4.text:Kabli
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:25364.0
+passage.questions.12.answers.3.text:Čarobni spisi
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:25363.0
+passage.questions.12.answers.2.text:Cevi
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:25362.0
+passage.questions.12.answers.1.text:Žice
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:25361.0
+passage.questions.12.answers.0.text:Žice, ki prenašajo električni tok
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:25360.0
+passage.questions.11.question:Kje žice prenašajo električni tok?
+passage.questions.11.idx:4763.0
+passage.questions.11.answers.5.text:Mesto
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:25359.0
+passage.questions.11.answers.4.text:Domovi
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:25358.0
+passage.questions.11.answers.3.text:Na njihovem vrhu, v žicah
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:25357.0
+passage.questions.11.answers.2.text:Baterija
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:25356.0
+passage.questions.11.answers.1.text:V svoj dom
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:25355.0
+passage.questions.11.answers.0.text:Povsod
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:25354.0
+passage.questions.10.question:Kaj nastane, ko najbolj zunanji delci atoma tečejo?
+passage.questions.10.idx:4762.0
+passage.questions.10.answers.4.text:Elektroni
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:25353.0
+passage.questions.10.answers.3.text:Električni tok
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:25352.0
+passage.questions.10.answers.2.text:Čarovništvo
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:25351.0
+passage.questions.10.answers.1.text:Gravitacija
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:25350.0
+passage.questions.10.answers.0.text:Elektrika
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:25349.0
+passage.questions.1.question:Ali skozi žice teče električni tok na visokih palicah ob cesti?
+passage.questions.1.idx:4753.0
+passage.questions.1.answers.1.text:Ne, ne
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:25296.0
+passage.questions.1.answers.0.text:Da
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:25295.0
+passage.questions.0.question:Kakšen tok teče skozi vaš dom?
+passage.questions.0.idx:4752
+passage.questions.0.answers.3.text:Izmenični tok
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:25294.0
+passage.questions.0.answers.2.text:AC
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:25293.0
+passage.questions.0.answers.1.text:DC
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25292
+passage.questions.0.answers.0.text:Enosmerni tok
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:25291
+idx:422

@@ -1,0 +1,78 @@
+version:1.1
+passage.text:Guverner George Pataki je v odgovor na val javnega zgroženosti zaradi prvih načrtov za obnovo Spodnjega Manhattna poslal besedo, da je čas, da se vrnemo na risalno tablo. To je pravo sporočilo, poslano, medtem ko je še dovolj zgodaj, da naredimo nekaj konstruktivnega glede razočarajoče kakovosti dosedanjega dela. Zdi se, da je guverner, tako kot župan Michael Bloomberg, predan ustvarjanju boljše kombinacije načinov uporabe ničle in 24-urne skupnosti v središču Manhattna. Medtem ko bo premišljevanje načrtov nekoliko upočasnilo prvotni urnik obnove, ni treba zaustaviti napredka, če bo guverner še naprej pritiskal na Lower Manhattan Development Corp. in pristaniško upravo v New Yorku in New Jerseyju. New York si ne more privoščiti zevajoče luknje, ki se posmehuje mestu in njegovemu procesu obnove uničenega. Pataki je odkrito podvomil o zahtevi pristaniške uprave, naj kateri koli načrt za to lokacijo nadomesti vse pisarniške, hotelske in prodajne kvadrate, izgubljene v napadu 11. septembra. Ta specifikacija je bolj kot kar koli drugega omejila načrte na nerazlikovane možnosti, predstavljene pred dvema tednoma. . Ta pogajanja z zakupniki Svetovnega trgovinskega centra bi se morala začeti takoj. Odpiranje postopka drugim oblikovalcem, tako tu kot mednarodno, bo pomagalo ločiti ta urbanistični načrt od običajnega. Mesto mora tudi začeti odkrito razpravljati o tem, kaj se dogaja pod zemljo, zlasti s prometnim omrežjem. Na tej točki so se načrtovalci osredotočili na kratkoročno popravilo vodov PATH in podzemne železnice, v Washingtonu pa so kupili predloge srednjega obsega, ki bi lahko razpletli neurejeno mrežo podzemnih prog v središču mesta. V naslednjih nekaj tednih naj bi Lower Manhattan Development Corp. in pristaniška uprava ponudili nekaj večjih idej o tem, kako bolje povezati središče mesta s preostalo regijo. Spuščanje West Street ob strani Svetovnega trgovinskega centra in gradnja parka ali planote na vrhu je še ena možnost, ki je bila priljubljena pri tistih, ki pregledujejo prvih šest javnih predlogov. Toda to bi bilo drago in guverner, župan in njihovi prijatelji v Washingtonu bodo morali preučiti dolgoročne načine plačila računa. Patakijeve nedavne pripombe so znak, da razume, kako pomembna bo obnova Spodnjega Manhattna za njegovo lastno politično zapuščino. Zdaj mora nadaljevati z akcijo, da bo še naprej dokazoval, da njegova glavna skrb pripravlja najboljši možni načrt, in ne samo, da vprašanje zadrži šele po volitvah te jeseni.
+passage.questions.2.question:V čem je težava pri gradnji parka na spletnem mestu svetovnega trgovinskega centra
+passage.questions.2.idx:4742.0
+passage.questions.2.answers.7.text:Komisija za načrtovanje ne more dobiti soglasja
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:25229.0
+passage.questions.2.answers.6.text:Bilo bi drago
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:25228.0
+passage.questions.2.answers.5.text:Skrbi stran
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:25227.0
+passage.questions.2.answers.4.text:Družine to jezi
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25226.0
+passage.questions.2.answers.3.text:Ni varno
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25225.0
+passage.questions.2.answers.2.text:Spletno mesto je zložljivo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25224.0
+passage.questions.2.answers.1.text:Stroški
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:25223.0
+passage.questions.2.answers.0.text:Zahteve so vsi načrti za spletno mesto, ki nadomešča vse pisarniške, hotelske in maloprodajne kvadrate, izgubljene v napadu 11. septembra
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:25222.0
+passage.questions.1.question:Kaj je bila zevajoča luknja, ki se je posmehovala mestu?
+passage.questions.1.idx:4741.0
+passage.questions.1.answers.7.text:Razočaranje dela izvajalcev
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:25221.0
+passage.questions.1.answers.6.text:Vrzel v finančni pomoči
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:25220.0
+passage.questions.1.answers.5.text:Teroristični napad
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:25219.0
+passage.questions.1.answers.4.text:Tla nič od 11. septembra
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:25218.0
+passage.questions.1.answers.3.text:Spletno mesto
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25217.0
+passage.questions.1.answers.2.text:Bombardiranje
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:25216.0
+passage.questions.1.answers.1.text:Udar meteorja
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:25215.0
+passage.questions.1.answers.0.text:Centri svetovne trgovine padajo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:25214.0
+passage.questions.0.question:Kaj je rekel guverner George Pataki, da je čas, da se stori zaradi razočaranja javnosti nad razočarajočim delom pri obnovi Spodnjega Manhattna?
+passage.questions.0.idx:4740
+passage.questions.0.answers.6.text:Upokojite se
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:25213.0
+passage.questions.0.answers.5.text:Čaka nas delo
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:25212.0
+passage.questions.0.answers.4.text:Zmanjšati moramo stroške
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:25211.0
+passage.questions.0.answers.3.text:Čas je, da se vrnemo k risalni plošči
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:25210.0
+passage.questions.0.answers.2.text:Končno zmagamo v bitki
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:25209.0
+passage.questions.0.answers.1.text:Odložite
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25208
+passage.questions.0.answers.0.text:Vrnite se na risalno ploščo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:25207
+idx:419

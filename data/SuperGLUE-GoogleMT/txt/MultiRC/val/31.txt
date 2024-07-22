@@ -1,0 +1,281 @@
+version:1.1
+passage.text:V okrožju Butler je več kot 30 odvetnikov, ki se prostovoljno javijo v organizacijo, ki ponuja brezplačne pravne storitve za gospodinjstva z nizkimi dohodki ali starejša. Legal Services of Southern Missouri (LSSM) na tem področju služi 43 okrožjem in je namenjena zagotavljanju enakega dostopa do pravnih nasvetov in svetovanja vsem ljudem, ne glede na njihov dohodek. Od 43 okrožij v storitveni regiji LSSM ima okrožje Butler peto največ zadev v letu 2001 in tretje največje število odvetniških odborov. &quot;Odvetniki okrožja Butler so resnično stopili na pot, da bi nam pomagali zastopati revno prebivalstvo v tej državi,&quot; je dejala direktorica LSSM za razvoj Sharon Alexander. &quot;Lani smo imeli približno 400 primerov v okrožju Butler.&quot; LSSM financira Legal Services Corporation (LSC) - zasebna, neprofitna organizacija. LSSM, ki ga je ustanovil Kongres, prejema tudi sredstva od fundacije Missouri Lawyer Trust Account Foundation in lokalnih agencij za staranje. Toda LSSM odvetnikom, ki se prostovoljno ukvarjajo s svojim časom in spretnostmi, pripisuje zastopanje revnih in starejših za uspeh organizacije. Trenutno LSSM uporablja storitve 243 zasebnih odvetnikov, ki zagotovijo najmanj 20 ur pro bono ali dva primera pro bono na leto. &quot;V bistvu si prizadevamo zagotoviti enak dostop do pravnega varstva vsem ljudem - ne glede na njihov ekonomski položaj,&quot; je dejal član upravnega odbora LSSM in odvetnik prostovoljec Fred Hall. &quot;Če mož strme svojo ženo, ji zlomi čeljust ali roko - jo strašno zlorabi, ga bodo pobrali in zaprli v zapor. Toda upravičen je do javnega zagovornika ... Se vam ne zdi, da ima pravico imeti odvetnik, da bi od tega tipa dobil začasno prepoved približevanja? &quot; LSSM deluje kot odvetniška pisarna, vendar svojim strankam ne zaračunava provizije. Zaradi zveznih smernic LSSM ne sprejema primerov v zvezi s kazenskimi, post-kazenskimi ali občinskimi zadevami. Namesto tega odvetniki pro bono svetujejo pri zadevah, kot so zaščita žrtev zakoncev ali zlorabe otrok, zaščita posameznikov in družin pred izgubo stanovanja z nezakonito izselitvijo ali pomoč starejšim pri izpodbijanju zavrnitev zahtevkov Medicaid. &quot;En primer primera, ki smo ga nedavno obravnavali, je bil končan v Springfieldu,&quot; je dejal Alexander. &quot;Tam je bila starejša ženska, ki je imela na domu nekaj vodovodnih del, delo ni bilo v skladu s standardi in stroški so bili višji od tistih, ki bi jih morali biti ... pomagali smo ji lahko s programom pro bono. En domačin Springfieldov odvetnik se je prostovoljno javil za primer. &quot;
+passage.questions.9.question:Kdo financira pravne storitve južnega Missourija (LSSM)?
+passage.questions.9.idx:377.0
+passage.questions.9.answers.6.text:Vlada
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:1934.0
+passage.questions.9.answers.5.text:Zvezne smernice
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:1933.0
+passage.questions.9.answers.4.text:Fred Hall
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:1932.0
+passage.questions.9.answers.3.text:Korporacija za pravne storitve
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1931.0
+passage.questions.9.answers.2.text:Davčni zavezanci
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1930.0
+passage.questions.9.answers.1.text:Predsednik
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1929.0
+passage.questions.9.answers.0.text:&quot;The Legal Services Corporation (LSC), Missouri Lawyer Trust Account Foundation in lokalne agencije&quot;
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:1928.0
+passage.questions.8.question:Kako se je imenovalo okrožje, v katerem je odvetnik LSSM pomagal zastopati starejšo žensko, katere vodovodna dela niso bila v skladu s standardi?
+passage.questions.8.idx:376.0
+passage.questions.8.answers.4.text:Illinois
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:1927.0
+passage.questions.8.answers.3.text:Okrožje Butler
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1926.0
+passage.questions.8.answers.2.text:Chicago
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1925.0
+passage.questions.8.answers.1.text:St. Louis
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1924.0
+passage.questions.8.answers.0.text:Springfield
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1923.0
+passage.questions.7.question:Na katero stanje se sklicuje v tem odlomku?
+passage.questions.7.idx:375.0
+passage.questions.7.answers.4.text:Michigan
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:1922.0
+passage.questions.7.answers.3.text:Illinois
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1921.0
+passage.questions.7.answers.2.text:Srednji zahod
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1920.0
+passage.questions.7.answers.1.text:Chicago
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1919.0
+passage.questions.7.answers.0.text:Missouri
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1918.0
+passage.questions.6.question:Katera okrožja je imela lani 400 primerov in je imela tretje največje število odvetniških odborov?
+passage.questions.6.idx:374.0
+passage.questions.6.answers.1.text:Butler County
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1917.0
+passage.questions.6.answers.0.text:Springfield
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1916.0
+passage.questions.5.question:O kateri okrožju se govori v tem odlomku?
+passage.questions.5.idx:373.0
+passage.questions.5.answers.5.text:Illinois
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:1915.0
+passage.questions.5.answers.4.text:Peoria
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:1914.0
+passage.questions.5.answers.3.text:Okrožje Butler
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1913.0
+passage.questions.5.answers.2.text:Butler
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1912.0
+passage.questions.5.answers.1.text:St. Louis
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1911.0
+passage.questions.5.answers.0.text:Springfield
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1910.0
+passage.questions.4.question:Koliko okrožij ima LSSM?
+passage.questions.4.idx:372.0
+passage.questions.4.answers.5.text:243
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:1909.0
+passage.questions.4.answers.4.text:240
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1908.0
+passage.questions.4.answers.3.text:41
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1907.0
+passage.questions.4.answers.2.text:20.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1906.0
+passage.questions.4.answers.1.text:43
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1905.0
+passage.questions.4.answers.0.text:13.
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1904.0
+passage.questions.3.question:Kaj odvetniki v LSSM zaračunavajo strankam?
+passage.questions.3.idx:371.0
+passage.questions.3.answers.6.text:500 dolarjev
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:1903.0
+passage.questions.3.answers.5.text:Nič; pro bono
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:1902.0
+passage.questions.3.answers.4.text:25 dolarjev
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1901.0
+passage.questions.3.answers.3.text:Dovolj poceni, da bi lahko plačevali
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1900.0
+passage.questions.3.answers.2.text:Cena s popustom
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1899.0
+passage.questions.3.answers.1.text:1000 dolarjev
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1898.0
+passage.questions.3.answers.0.text:0 USD
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:1897.0
+passage.questions.2.question:Od kje je bil odvetnik, ki zadevo vodi brezplačno?
+passage.questions.2.idx:370
+passage.questions.2.answers.4.text:Vlada
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1896.0
+passage.questions.2.answers.3.text:St. Louis
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1895.0
+passage.questions.2.answers.2.text:Sodišče
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1894.0
+passage.questions.2.answers.1.text:Springfield
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:1893
+passage.questions.2.answers.0.text:Washington DC
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1892
+passage.questions.15.question:Kdo v Missouriju pripisuje odvetnikom, ki se prostovoljno ukvarjajo s časom in spretnostmi, da zastopajo revne?
+passage.questions.15.idx:383.0
+passage.questions.15.answers.2.text:Novice
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:1963.0
+passage.questions.15.answers.1.text:Odvetniki
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:1962.0
+passage.questions.15.answers.0.text:Lssm
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:1961.0
+passage.questions.14.question:Kdo financira organizacijo LSSM?
+passage.questions.14.idx:382.0
+passage.questions.14.answers.4.text:Vlada
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:1960.0
+passage.questions.14.answers.3.text:Corporation za pravne storitve (LSC), Missouri Lawyer Trust Account Foundation in lokalne agencije za staranje
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:1959.0
+passage.questions.14.answers.2.text:Korporacija za pravne storitve
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:1958.0
+passage.questions.14.answers.1.text:Davčni zavezanci
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1957.0
+passage.questions.14.answers.0.text:Predsednik
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1956.0
+passage.questions.13.question:Ali drži, da LSSM sprejema primere v zvezi s kaznivimi dejanji, zlorabami po kazni in zlorabo otrok?
+passage.questions.13.idx:381.0
+passage.questions.13.answers.3.text:Lažno
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:1955.0
+passage.questions.13.answers.2.text:Mogoče
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:1954.0
+passage.questions.13.answers.1.text:Ne
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:1953.0
+passage.questions.13.answers.0.text:Prav
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1952.0
+passage.questions.12.question:Katerim skupinam služi LSSM?
+passage.questions.12.idx:380.0
+passage.questions.12.answers.4.text:Odvetniki
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:1951.0
+passage.questions.12.answers.3.text:Prijatelji
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:1950.0
+passage.questions.12.answers.2.text:Kongresniki
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1949.0
+passage.questions.12.answers.1.text:Nizki dohodki in starejši
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1948.0
+passage.questions.12.answers.0.text:Bogati ljudje
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1947.0
+passage.questions.11.question:Kakšen je primer, ki ga je LSSM obravnaval pred kratkim in kje se je zgodil?
+passage.questions.11.idx:379.0
+passage.questions.11.answers.4.text:&quot;Starejša gospa je bila preveč obremenjena s svojim kleparskim delom v Springfieldu&quot;
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:1946.0
+passage.questions.11.answers.3.text:Kaznivec
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:1945.0
+passage.questions.11.answers.2.text:Post zločinec
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:1944.0
+passage.questions.11.answers.1.text:Zloraba otrok
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:1943.0
+passage.questions.11.answers.0.text:Ženska je opravila vodovodna dela. Delo ni bilo učinkovito in je bilo predrago. V Springfieldu
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:1942.0
+passage.questions.10.question:Koliko odvetnikov v okrožju Butler se javi?
+passage.questions.10.idx:378.0
+passage.questions.10.answers.6.text:243
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:1941.0
+passage.questions.10.answers.5.text:30.
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:1940.0
+passage.questions.10.answers.4.text:0
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:1939.0
+passage.questions.10.answers.3.text:43
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1938.0
+passage.questions.10.answers.2.text:2001
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:1937.0
+passage.questions.10.answers.1.text:500
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1936.0
+passage.questions.10.answers.0.text:250
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:1935.0
+passage.questions.1.question:Na katerem območju je bilo v letu 2001 obravnavano peto število zadev in koliko primerov lani?
+passage.questions.1.idx:369
+passage.questions.1.answers.3.text:Springfield; 200 primerov
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:1891.0
+passage.questions.1.answers.2.text:&quot;Butler County in lani so imeli približno 400 primerov&quot;
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1890.0
+passage.questions.1.answers.1.text:Okrožje Butler; in 400 primerov
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:1889
+passage.questions.1.answers.0.text:Springfield
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1888
+passage.questions.0.question:Kakšne so minimalne ure zasebnih odvetnikov pro bono LSSM in koliko so plačani?
+passage.questions.0.idx:368
+passage.questions.0.answers.5.text:&quot;20 ur in ne dobijo plačila, dobijo pa dobropise&quot;
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:1887.0
+passage.questions.0.answers.4.text:243 ur
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1886.0
+passage.questions.0.answers.3.text:43 ur
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:1885.0
+passage.questions.0.answers.2.text:30 ur 1000 USD
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1884.0
+passage.questions.0.answers.1.text:40 ur 300 USD
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1883
+passage.questions.0.answers.0.text:20 ur, 0 USD
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1882
+idx:31

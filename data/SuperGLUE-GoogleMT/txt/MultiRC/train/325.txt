@@ -1,0 +1,85 @@
+version:1.1
+passage.text:Danteuma ne iščite v Večnem mestu. V resnični dantejski obliki ga je leta 1938 ovirala politika. Ironično je, da je to zgradbo, ki je navdihnjena z literaturo, najlažje najti v obliki knjige. Ob branju te knjige sem se spomnil Goethejevega citata o zamrznjeni glasbi. Je Terragni poskušal zamrzniti Dantejev srednjeveški čudež pesmi? Vsekakor se hladna pesem zdi umetniško odbojna. V mislih so mi tudi neprijetne primerjave z jezerom Cocytus. Čeprav ne znam brati italijansko, lahko preberem nekaj nemškega. Po iskanju prvotnega citata sem ugotovil, da je izraz „zamrznjen“ problematičen (čeprav pogost) prevod Goethejevega originalnega „erstarrte“. Glagol &quot;erstarren&quot; pravilneje pomeni &quot;utrjevanje&quot; ali &quot;utrjevanje&quot;. To kaže na kemično reakcijo, pri kateri se pri preoblikovanju ni nujno ohladiti. Tudi prvotno delo ne more prinesti preprostega odmrzovanja. Kot kemična reakcija zahteva umetniški katalizator, muzo. Danteum dejansko ni fizični prevod pesmi. Terragni se je zdelo neprimerno Komedijo dobesedno prevesti v neliterarno delo. Danteum ne bi bil odrska postavitev, temveč je Terragni svoj dizajn ustvaril iz strukture Komedije, ne iz njenih zaključkov.
+passage.questions.7.question:O katerih dveh delih govori odlomek?
+passage.questions.7.idx:3712.0
+passage.questions.7.answers.1.text:Zamrznjeno
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:19697.0
+passage.questions.7.answers.0.text:Danteum in Terragni
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:19696.0
+passage.questions.6.question:Kakšno vrsto katalizatorja zahteva pesem?
+passage.questions.6.idx:3711.0
+passage.questions.6.answers.1.text:Muza
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:19695.0
+passage.questions.6.answers.0.text:Danteum
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:19694.0
+passage.questions.5.question:V kaj je Teragni prevedel komedijo?
+passage.questions.5.idx:3710.0
+passage.questions.5.answers.3.text:Kocit
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:19693.0
+passage.questions.5.answers.2.text:Scenska zasnova
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19692.0
+passage.questions.5.answers.1.text:Študenti
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:19691.0
+passage.questions.5.answers.0.text:Prevod Goethejevega izvirnika &#39;erstarrte.&#39; do zamrznjene
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:19690.0
+passage.questions.4.question:Kdo je ustvaril Danteum?
+passage.questions.4.idx:3709.0
+passage.questions.4.answers.2.text:Terragni
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:19689.0
+passage.questions.4.answers.1.text:Politika
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:19688.0
+passage.questions.4.answers.0.text:Dante
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:19687.0
+passage.questions.3.question:Goethejev izvirnik &quot;erstarrte&quot; je bolje prevesti v kaj?
+passage.questions.3.idx:3708.0
+passage.questions.3.answers.4.text:Dantean
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:19686.0
+passage.questions.3.answers.3.text:Zamrznjeno
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:19685.0
+passage.questions.3.answers.2.text:Droga
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:19684.0
+passage.questions.3.answers.1.text:Za strjevanje ali strjevanje
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:19683.0
+passage.questions.3.answers.0.text:Izvirnost
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:19682.0
+passage.questions.2.question:Je politika stala na poti gradnji katere stavbe v Večnem mestu?
+passage.questions.2.idx:3707.0
+passage.questions.2.answers.1.text:Kocit
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19681.0
+passage.questions.2.answers.0.text:Danteum
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:19680.0
+passage.questions.1.question:V katerem jeziku je Goethejev prvotni citat?
+passage.questions.1.idx:3706.0
+passage.questions.1.answers.1.text:Nemško
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:19679.0
+passage.questions.1.answers.0.text:Italijansko
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19678.0
+passage.questions.0.question:Katera beseda nakazuje kemijsko reakcijo s strjevanjem utrjevanja?
+passage.questions.0.idx:3705
+passage.questions.0.answers.1.text:Erstarren
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:19677
+passage.questions.0.answers.0.text:Kocit
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19676
+idx:325

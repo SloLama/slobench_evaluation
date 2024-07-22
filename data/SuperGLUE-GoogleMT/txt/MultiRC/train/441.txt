@@ -1,0 +1,250 @@
+version:1.1
+passage.text:Billy in Sally sta brat in sestra. Billy ima sedem, Sally pa osem. Njuna mama Deborah ima rada, da se Billy in Sally oblečeta v kostume in igrata igro, kjer se odzivata na telefon. Običajno, ko igrajo igro, Billy odgovori na telefon z visokim glasom, Sally pa s tihim glasom. Ob torkih Billy odgovori tiho, Sally pa glasno. Ob petkih Billy odgovori z visokim glasom, Sally pa s tihim glasom. Billy ima svetle lase. Sally ima rjave lase. Deborah ima blond lase, Billy in Sallyin oče Bob pa rjave lase. Reče jim, naj jedo solato vsakič, ko jih zagleda, tako da postanejo veliki in močni kot on. Deborah rada doda nekaj sladkorja s solato, tako da Billy in Sally vesta, kako je imeti sladek okus v njihovem življenju. Nekega dne, v sredo, Billy vrže nekaj solate v Sallyne lase. Deborah se zasmeje, vzame nekaj slame z njihove kmetije in jo da Billyju v lase. Billy in Sally živita na kmetiji. Imajo kozo z imenom Joey in raco z imenom Quack. S kozo se včasih igrajo, kjer ga preganjajo po kmetiji. Včasih se igrajo s Quackom, kjer mahajo Quacku in se smejijo. Odraščajo na kmetiji in imajo zabavno življenje.
+passage.questions.9.question:Kakšen glas uporablja Sally med igranjem?
+passage.questions.9.idx:4978.0
+passage.questions.9.answers.4.text:Globoko
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:26468.0
+passage.questions.9.answers.3.text:Visoko
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:26467.0
+passage.questions.9.answers.2.text:Tih
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:26466.0
+passage.questions.9.answers.1.text:Glasno
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:26465.0
+passage.questions.9.answers.0.text:V torek Sally uporablja glasen glas. V petek uporablja mehak glas
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:26464.0
+passage.questions.8.question:Kje živita Billy in Sally?
+passage.questions.8.idx:4977.0
+passage.questions.8.answers.1.text:Na kmetiji
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:26463.0
+passage.questions.8.answers.0.text:V mestu
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:26462.0
+passage.questions.7.question:Kdo pove Billyju in Sally, naj jedo solato, da odrasteta velika in močna?
+passage.questions.7.idx:4976.0
+passage.questions.7.answers.1.text:Deborah
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:26461.0
+passage.questions.7.answers.0.text:Bob
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:26460.0
+passage.questions.6.question:Kakšno igro igrata Billy in Sally, kjer se oblečeta?
+passage.questions.6.idx:4975.0
+passage.questions.6.answers.2.text:Sprejem na telefon
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:26459.0
+passage.questions.6.answers.1.text:Oznaka
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26458.0
+passage.questions.6.answers.0.text:Telefon
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:26457.0
+passage.questions.5.question:Kakšno igro se otroci radi igrajo z Joeyjem?
+passage.questions.5.idx:4974.0
+passage.questions.5.answers.1.text:Loviti ga po kmetiji
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:26456.0
+passage.questions.5.answers.0.text:Mahnite mu in se smejte
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:26455.0
+passage.questions.4.question:Kakšne barve las imajo vsi v družini Billyja in Sally?
+passage.questions.4.idx:4973.0
+passage.questions.4.answers.4.text:Blondinka
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:26454.0
+passage.questions.4.answers.3.text:Glasno
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:26453.0
+passage.questions.4.answers.2.text:rjav
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:26452.0
+passage.questions.4.answers.1.text:rdeča
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:26451.0
+passage.questions.4.answers.0.text:Velik in močan
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:26450.0
+passage.questions.3.question:Kakšno igro igrata Billy in Sally s svojo kozo?
+passage.questions.3.idx:4972.0
+passage.questions.3.answers.2.text:Mahajte in se smejte
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26449.0
+passage.questions.3.answers.1.text:lov
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26448.0
+passage.questions.3.answers.0.text:Lovite ga po kmetiji
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:26447.0
+passage.questions.2.question:Kateri otrok ima enako barvo las kot mati Deborah?
+passage.questions.2.idx:4971.0
+passage.questions.2.answers.1.text:Sally
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26446.0
+passage.questions.2.answers.0.text:Billy
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26445.0
+passage.questions.19.question:Kdo sta starša Billyja in Sally?
+passage.questions.19.idx:4988.0
+passage.questions.19.answers.4.text:Joey
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:26506.0
+passage.questions.19.answers.3.text:Deborah
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:26505.0
+passage.questions.19.answers.2.text:Sally
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:26504.0
+passage.questions.19.answers.1.text:Bob
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:26503.0
+passage.questions.19.answers.0.text:Billy
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:26502.0
+passage.questions.18.question:Koliko starejša je Sally kot njen brat?
+passage.questions.18.idx:4987.0
+passage.questions.18.answers.1.text:2 leti
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:26501.0
+passage.questions.18.answers.0.text:1 leto
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:26500.0
+passage.questions.17.question:Kakšne igre igrata Billy in Sally?
+passage.questions.17.idx:4986.0
+passage.questions.17.answers.6.text:Življenje na kmetiji
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:26499.0
+passage.questions.17.answers.5.text:Igrajo igro, ko lovijo kozo in se odzovejo na telefon.
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:26498.0
+passage.questions.17.answers.4.text:Billy vrže nekaj solate v Sallyne lase.
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:26497.0
+passage.questions.17.answers.3.text:Billy ima sedem, Sally pa osem.
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:26496.0
+passage.questions.17.answers.2.text:Imajo kozo z imenom Joey in raco z imenom Quack.
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:26495.0
+passage.questions.17.answers.1.text:Mahajo Quacku
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:26494.0
+passage.questions.17.answers.0.text:Sally ima rjave lase.
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:26493.0
+passage.questions.16.question:Koliko sta stara brat in sestra Billy in Sally?
+passage.questions.16.idx:4985.0
+passage.questions.16.answers.3.text:Billy ima osem
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:26492.0
+passage.questions.16.answers.2.text:Sally ima sedem
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:26491.0
+passage.questions.16.answers.1.text:Billy ima 7 let
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:26490.0
+passage.questions.16.answers.0.text:Sally ima 8 let
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:26489.0
+passage.questions.15.question:Živijo na kmetiji in imajo različne hišne ljubljenčke, kajne?
+passage.questions.15.idx:4984.0
+passage.questions.15.answers.4.text:Koza
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:26488.0
+passage.questions.15.answers.3.text:Krava
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:26487.0
+passage.questions.15.answers.2.text:Raca
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:26486.0
+passage.questions.15.answers.1.text:Kvak
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:26485.0
+passage.questions.15.answers.0.text:Kmetija
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:26484.0
+passage.questions.14.question:Kako je prvo ime najstarejšega otroka Deborah?
+passage.questions.14.idx:4983.0
+passage.questions.14.answers.1.text:Sally
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:26483.0
+passage.questions.14.answers.0.text:Billy
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:26482.0
+passage.questions.13.question:Kaj jesta Billy in Sally?
+passage.questions.13.idx:4982.0
+passage.questions.13.answers.3.text:Solata
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:26481.0
+passage.questions.13.answers.2.text:Raca
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:26480.0
+passage.questions.13.answers.1.text:Piščanec
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:26479.0
+passage.questions.13.answers.0.text:Solata in solata s sladkorjem
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:26478.0
+passage.questions.12.question:Kdo ima Billy enako barvo las kot?
+passage.questions.12.idx:4981.0
+passage.questions.12.answers.2.text:Njegova mama Deborah
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:26477.0
+passage.questions.12.answers.1.text:Deborah
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:26476.0
+passage.questions.12.answers.0.text:Bob
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:26475.0
+passage.questions.11.question:Kakšno igro se otroci radi igrajo z raco?
+passage.questions.11.idx:4980.0
+passage.questions.11.answers.2.text:Mahajo rački in se smejijo
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:26474.0
+passage.questions.11.answers.1.text:Mahnite mu in se smejte
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:26473.0
+passage.questions.11.answers.0.text:Lovite ga po kmetiji
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:26472.0
+passage.questions.10.question:Billy ima svetle lase kot kdo?
+passage.questions.10.idx:4979.0
+passage.questions.10.answers.2.text:Deborah
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:26471.0
+passage.questions.10.answers.1.text:Deborah, njegova mati
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:26470.0
+passage.questions.10.answers.0.text:Bob
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:26469.0
+passage.questions.1.question:Kakšno barvo las imajo bratje in sestre?
+passage.questions.1.idx:4970.0
+passage.questions.1.answers.4.text:Sally ima rdeče lase
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:26444.0
+passage.questions.1.answers.3.text:Billy ima rjave lase
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:26443.0
+passage.questions.1.answers.2.text:Sally ima rjave lase
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:26442.0
+passage.questions.1.answers.1.text:Billy ima svetle lase
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26441.0
+passage.questions.1.answers.0.text:Sally ima svetle lase
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26440.0
+passage.questions.0.question:Deborah ima svetle lase in kateri od njenih otrok ima svetle lase?
+passage.questions.0.idx:4969
+passage.questions.0.answers.1.text:Sally
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:26439
+passage.questions.0.answers.0.text:Billy
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:26438
+idx:441

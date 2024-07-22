@@ -1,0 +1,232 @@
+version:1.1
+passage.text:(CNN) - Japonski premier je priznal poraz na parlamentarnih volitvah v nedeljo, kar pomeni, da se je Liberalno-demokratska stranka vrnila na oblast in končala kratko vladavino razočarajoče demokratične japonske stranke. Premier Yoshihiko Noda se je zavezal, da bo odstopil s položaja predsednika stranke, potem ko so izstopne ankete pokazale razkošno izgubo pri glasovanju v spodnjem domu. Stranka, ki je bila nekoč v japonski politiki videti kot svež zrak, je veljala za vedno bolj neučinkovito. &quot;Dobili smo obžalovanja vreden rezultat,&quot; je dejal Noda. &quot;Rezultat je vse v politiki. Največja odgovornost je na meni. Nehal bom kot delno vodja DPJ.&quot; Ta poteza odpira pot vrnitvi na oblast nekdanjega premierja Shinza Abeja, sedanjega voditelja konservativno naklonjene Liberalno-demokratske stranke ali LDP. &quot;Japonci bodo natančno preučevali, ali lahko LDP izpolni njihova pričakovanja,&quot; je Abe povedal v intervjujih po glasovanju. LDP je državi skoraj neprekinjeno vladal od ustanovitve leta 1955, dokler je pred tremi leti DPJ ni prisilil z oblasti. Javna radiotelevizijska postaja NHK je sporočila, da sta LDP in njen koalicijski partner, nova stranka Komei, v 480-sedežnem spodnjem domu dobila najmanj 302 sedežev. Glavna podružnica CNN, TV Asahi, poroča, da je koalicija LDP / Komei pridobila vsaj 312 sedežev. Uradno štetje naj bi izšlo v ponedeljek. LDP podeduje težavno gospodarstvo, regionalne napetosti in vprašanja glede vloge Japonske v Aziji. &quot;Gospodarstvo je na dnu. To je naša prva misija, da ga obrnemo,&quot; je dejal Abe.
+passage.questions.9.question:Kakšna je razlika med TV Asahi in javno radiotelevizijo NHK glede števila sedežev, ki jih je do zdaj dobila koalicija LDP / Komei?
+passage.questions.9.idx:4484.0
+passage.questions.9.answers.5.text:Asahi, poroča LDP
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:23707.0
+passage.questions.9.answers.4.text:Komei koalicija je pridobila najmanj 312 sedežev, NHK pa pravi, da je stranka Komei dobila vsaj 302 sedežev
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:23706.0
+passage.questions.9.answers.3.text:Komei koalicija je pridobila najmanj 312 sedežev, NHK pa pravi, da je stranka Komei dobila vsaj 306 sedežev
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:23705.0
+passage.questions.9.answers.2.text:TV Asahi poroča o vsaj 302 pridobljenih sedežih, javna radiotelevizija NHK pa vsaj 312 pridobljenih sedežev
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:23704.0
+passage.questions.9.answers.1.text:Koalicija Komei je dobila najmanj 312 sedežev, NHK pa pravi, da je stranka Komei dobila vsaj 300 sedežev
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:23703.0
+passage.questions.9.answers.0.text:Koalicija Komei je dobila najmanj 308 sedežev, NHK pa pravi, da je stranka Komei dobila vsaj 302 sedežev
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:23702.0
+passage.questions.8.question:Kako so na Japonskem demokratično stranko sčasoma začeli obravnavati?
+passage.questions.8.idx:4483.0
+passage.questions.8.answers.6.text:DPJ
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:23701.0
+passage.questions.8.answers.5.text:NNLK
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:23700.0
+passage.questions.8.answers.4.text:Kot vedno bolj neučinkovit
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:23699.0
+passage.questions.8.answers.3.text:Progresivno
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:23698.0
+passage.questions.8.answers.2.text:Nekdanji LDP
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:23697.0
+passage.questions.8.answers.1.text:Proti konzervativni naklonjenosti
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:23696.0
+passage.questions.8.answers.0.text:Asahi zabava
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:23695.0
+passage.questions.7.question:Katero leto je bila ustanovljena Liberalno-demokratska stranka?
+passage.questions.7.idx:4482.0
+passage.questions.7.answers.4.text:1973
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:23694.0
+passage.questions.7.answers.3.text:1800
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:23693.0
+passage.questions.7.answers.2.text:1945
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:23692.0
+passage.questions.7.answers.1.text:1955
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23691.0
+passage.questions.7.answers.0.text:1954
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:23690.0
+passage.questions.6.question:Kaj se je obljubil premier Yoshihiko Noda po priznanju poraza na parlamentarnih volitvah
+passage.questions.6.idx:4481.0
+passage.questions.6.answers.6.text:Odstopiti s položaja predsednika stranke
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:23689.0
+passage.questions.6.answers.5.text:Obljubil, da bo odstopil s položaja predsednika stranke
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:23688.0
+passage.questions.6.answers.4.text:Obljuba, da se bo borila za ponovno izvolitev
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:23687.0
+passage.questions.6.answers.3.text:Obljubil, da bo obnovil prizadevanja za pomoč stranki
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:23686.0
+passage.questions.6.answers.2.text:Odstopite
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23685.0
+passage.questions.6.answers.1.text:Obljubil, da bo priznal svojo izgubo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:23684.0
+passage.questions.6.answers.0.text:Naročite vojaški kupe
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:23683.0
+passage.questions.5.question:Kdo je sedanji japonski premier?
+passage.questions.5.idx:4480.0
+passage.questions.5.answers.4.text:Premier Shinzo Abe
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:23682.0
+passage.questions.5.answers.3.text:Yoshihiko Noda
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:23681.0
+passage.questions.5.answers.2.text:Premierka Natashi Oguawa
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:23680.0
+passage.questions.5.answers.1.text:Shinzo Abe
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:23679.0
+passage.questions.5.answers.0.text:Premier Yoshihiko Noda
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:23678.0
+passage.questions.4.question:Kako se imenuje japonski premier, ki je priznal poraz na volitvah?
+passage.questions.4.idx:4479.0
+passage.questions.4.answers.5.text:Premier Shinzo Abe
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:23677.0
+passage.questions.4.answers.4.text:Yoshihiko Noda
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:23676.0
+passage.questions.4.answers.3.text:Komei
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:23675.0
+passage.questions.4.answers.2.text:Natashi Oguama
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:23674.0
+passage.questions.4.answers.1.text:Shinzo Abe
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:23673.0
+passage.questions.4.answers.0.text:Premier Yoshihiko Noda
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:23672.0
+passage.questions.3.question:Kdo je rekel, da bo prenehal z vodenja stranke DPJ?
+passage.questions.3.idx:4478.0
+passage.questions.3.answers.5.text:Premier Shinzo Abe
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:23671.0
+passage.questions.3.answers.4.text:Yoshihiko Noda
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:23670.0
+passage.questions.3.answers.3.text:Komei
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:23669.0
+passage.questions.3.answers.2.text:Shinzo Abe
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:23668.0
+passage.questions.3.answers.1.text:Natashi Oguawa
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:23667.0
+passage.questions.3.answers.0.text:Premier Yoshihiko Noda
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:23666.0
+passage.questions.2.question:Kdo je rekel, da je največja odgovornost na njem glede političnih rezultatov?
+passage.questions.2.idx:4477.0
+passage.questions.2.answers.6.text:Yoshihiko Noda
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:23665.0
+passage.questions.2.answers.5.text:Komei
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:23664.0
+passage.questions.2.answers.4.text:Natashi Ogauma
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:23663.0
+passage.questions.2.answers.3.text:Noda
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:23662.0
+passage.questions.2.answers.2.text:Shinzo Abe
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:23661.0
+passage.questions.2.answers.1.text:Premier Yoshihiko Noda
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:23660.0
+passage.questions.2.answers.0.text:Asahi
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:23659.0
+passage.questions.10.question:Kaj je prvo poslanstvo LDP?
+passage.questions.10.idx:4485.0
+passage.questions.10.answers.6.text:Obrnite se v težavno gospodarstvo, odpravite regionalne napetosti
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:23714.0
+passage.questions.10.answers.5.text:Za obračanje gospodarstva
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:23713.0
+passage.questions.10.answers.4.text:Da se obrne težavno gospodarstvo Japonske
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:23712.0
+passage.questions.10.answers.3.text:Odstopiti neodvisnost Japonske drugim azijskim državam
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:23711.0
+passage.questions.10.answers.2.text:Odpraviti trgovino z ljudmi
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:23710.0
+passage.questions.10.answers.1.text:Za boj proti kriminalu
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:23709.0
+passage.questions.10.answers.0.text:Za ustavitev tihotapljenja mamil
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:23708.0
+passage.questions.1.question:Ko sedanji premier odstopi s položaja vodje stranke, kdo se lahko vrne na oblast?
+passage.questions.1.idx:4476.0
+passage.questions.1.answers.6.text:Liberalno demokratska stranka
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:23658.0
+passage.questions.1.answers.5.text:Premier Shinzo Abe
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:23657.0
+passage.questions.1.answers.4.text:Yoshihiko Noda
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:23656.0
+passage.questions.1.answers.3.text:Komei
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:23655.0
+passage.questions.1.answers.2.text:Shinzo Abe
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:23654.0
+passage.questions.1.answers.1.text:Natashi Oguawa
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:23653.0
+passage.questions.1.answers.0.text:Asahi
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:23652.0
+passage.questions.0.question:Kaj po Abeju deduje LDP?
+passage.questions.0.idx:4475
+passage.questions.0.answers.5.text:Uporniški narod
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:23651.0
+passage.questions.0.answers.4.text:Velika depresija
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:23650.0
+passage.questions.0.answers.3.text:Težko gospodarstvo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:23649.0
+passage.questions.0.answers.2.text:Vojaško vojno območje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:23648.0
+passage.questions.0.answers.1.text:Jezna generacija
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:23647
+passage.questions.0.answers.0.text:Težko gospodarstvo, regionalne napetosti in vprašanja glede vloge Japonske v Aziji
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:23646
+idx:391

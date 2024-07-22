@@ -1,0 +1,6 @@
+choice1:Stranišče napolnjeno z vodo.
+choice2:Iz ustnika je tekla voda.
+idx:0
+label:1
+premise:Moški je odprl pipo.
+question:effect

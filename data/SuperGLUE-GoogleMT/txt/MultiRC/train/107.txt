@@ -1,0 +1,249 @@
+version:1.1
+passage.text:(CNN) - Tita Josepha &quot;TJ&quot; Jacksona, ki je bil v sredo imenovan za začasnega skrbnika treh otrok Michaela Jacksona, je njegov slavni stric navdihnil, da je s svojimi brati ustanovil pevsko skupino. TJ je bila zadolžena za otroke, ko je otrokova babica Katherine 15. julija odšla od doma in bo otroke opazovala med sodnimi postopki na kalifornijskem sodišču. 34-letni TJ Jackson je sin Tita Jacksona in pokojne Delores Martes Jackson. TJ in njegova starejša brata Taj in Taryll tvorita R&amp;B skupino 3T. Jackson je poročen s tremi otroki, fantom in dvema deklicama. Sodnik suspendira Katherine Jackson kot skrbnico otrok Michaela Jacksona V članku People iz leta 1995 je otroštvo bratov opisano kot normalno, kljub slavnemu očetu, stricu in tetam. Taj Jackson je za revijo dejal: &quot;Moja mama je poskrbela, da smo imeli resnično otroštvo, z rojstnodnevnimi zabavami, baseballom, družinskimi izleti in vsemi temi stvarmi.&quot; Bila sta blizu stricu Michaelu. &quot;Za nas je kot tretji starš,&quot; je Taj dejal Ljudem leta 1995. Sčasoma so se bratje odpravili na eno od njegovih turnej in se odločili, da bodo ustanovili pevsko skupino in svoj prvi album snemali leta 1994 v času materine smrti. Sprva so verjeli, da se je Delores Martes Jackson, ki se je ločila od Tita Jacksona leta 1993, utopila v bazenu, vendar je bil primer ponovno odprt, njeni sinovi pa so leta 1995 vložili tožbo zaradi neupravičene smrti zoper moškega, ki so ga obtožili umora. Tri leta kasneje je bil Donald Bohana obsojen zaradi umora druge stopnje in po poročanju revije People obsojen na 15 let dosmrtnega zapora.
+passage.questions.9.question:Koliko otrok je po tem dogodku v Titovem skrbništvu?
+passage.questions.9.idx:1271.0
+passage.questions.9.answers.4.text:6 otrok
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:6527.0
+passage.questions.9.answers.3.text:Tri sestre
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:6526.0
+passage.questions.9.answers.2.text:Dva otroka
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:6525.0
+passage.questions.9.answers.1.text:3 otroci
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:6524.0
+passage.questions.9.answers.0.text:4 otroci
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:6523.0
+passage.questions.8.question:Kdo je brat Tita Jacksona?
+passage.questions.8.idx:1270.0
+passage.questions.8.answers.6.text:Tiju
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:6522.0
+passage.questions.8.answers.5.text:Delores
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:6521.0
+passage.questions.8.answers.4.text:Michael
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:6520.0
+passage.questions.8.answers.3.text:Donald
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:6519.0
+passage.questions.8.answers.2.text:Taj
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:6518.0
+passage.questions.8.answers.1.text:Taryll
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:6517.0
+passage.questions.8.answers.0.text:Tito
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:6516.0
+passage.questions.7.question:Kdo so Tito Joseph &quot;TJ&quot; Jacksonovi starejši bratje in kakšno skupino so ustanovili?
+passage.questions.7.idx:1269.0
+passage.questions.7.answers.6.text:Taj &amp; Taryll - skupina R&amp;B
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:6515.0
+passage.questions.7.answers.5.text:Tito in Michael Jackson - skupina B&amp;G
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:6514.0
+passage.questions.7.answers.4.text:Tito &amp; Michael - Skupina B&amp;G
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:6513.0
+passage.questions.7.answers.3.text:To sta Taj in Taryll. Ustanovili so R&amp;B skupino 3T
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:6512.0
+passage.questions.7.answers.2.text:Taj Jackson &amp; Taryll Jackson - skupina za R&amp;B
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:6511.0
+passage.questions.7.answers.1.text:Taj in Taryll; 3T
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:6510.0
+passage.questions.7.answers.0.text:Taj in Michael; 2T
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:6509.0
+passage.questions.6.question:Kdo je umrl leta 1994?
+passage.questions.6.idx:1268.0
+passage.questions.6.answers.5.text:Tito Jackson
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:6508.0
+passage.questions.6.answers.4.text:Delores Martes Jackson
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:6507.0
+passage.questions.6.answers.3.text:Pevska skupina
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:6506.0
+passage.questions.6.answers.2.text:njihova mati
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:6505.0
+passage.questions.6.answers.1.text:Taryll Jackson
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:6504.0
+passage.questions.6.answers.0.text:Donald Bohana
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:6503.0
+passage.questions.5.question:Kdo je kot tretji starš?
+passage.questions.5.idx:1267.0
+passage.questions.5.answers.5.text:Donald
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:6502.0
+passage.questions.5.answers.4.text:Michael
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:6501.0
+passage.questions.5.answers.3.text:Taj
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:6500.0
+passage.questions.5.answers.2.text:Tito
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:6499.0
+passage.questions.5.answers.1.text:Stric Michael
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:6498.0
+passage.questions.5.answers.0.text:Katherine
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:6497.0
+passage.questions.4.question:Kdo je bil obsojen za umor in kako dolgo je bila kazen?
+passage.questions.4.idx:1266.0
+passage.questions.4.answers.6.text:Donald Bohana; 15 let
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:6496.0
+passage.questions.4.answers.5.text:Donald Bohana; 10 let
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:6495.0
+passage.questions.4.answers.4.text:Michael Jackson - 12 let zapora
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:6494.0
+passage.questions.4.answers.3.text:Donald Bohana je bil obsojen zaradi umora druge stopnje. Obsojen je bil na 15 let dosmrtnega zapora
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:6493.0
+passage.questions.4.answers.2.text:Tijo Jackson - 10 let zapora
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:6492.0
+passage.questions.4.answers.1.text:Donald Bohana - obsojen na 15 let zapora
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:6491.0
+passage.questions.4.answers.0.text:Donald Bohana - 15 let zapora
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:6490.0
+passage.questions.3.question:Kakšen je odnos TJ do Micheala Jacksona?
+passage.questions.3.idx:1265.0
+passage.questions.3.answers.6.text:Nečak
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:6489.0
+passage.questions.3.answers.5.text:Sin
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:6488.0
+passage.questions.3.answers.4.text:Michael je TJ-jev tretji starš
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:6487.0
+passage.questions.3.answers.3.text:Oče
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:6486.0
+passage.questions.3.answers.2.text:Michael je stric TJ-ja
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:6485.0
+passage.questions.3.answers.1.text:Mlajši brat
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6484.0
+passage.questions.3.answers.0.text:Starejši brat
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:6483.0
+passage.questions.2.question:Kdo je govoril za revijo?
+passage.questions.2.idx:1264.0
+passage.questions.2.answers.4.text:Taj Jackson
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:6482.0
+passage.questions.2.answers.3.text:Tito Jackson
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6481.0
+passage.questions.2.answers.2.text:Taj
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:6480.0
+passage.questions.2.answers.1.text:Delores Martes Jackson
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:6479.0
+passage.questions.2.answers.0.text:Tito
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6478.0
+passage.questions.11.question:Kdo so starši Tita, Taja in Tarylla?
+passage.questions.11.idx:1273.0
+passage.questions.11.answers.6.text:TT Jackson
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:6539.0
+passage.questions.11.answers.5.text:Taryll
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:6538.0
+passage.questions.11.answers.4.text:TJ
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:6537.0
+passage.questions.11.answers.3.text:Tito Jackson
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:6536.0
+passage.questions.11.answers.2.text:Michael Jackson
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:6535.0
+passage.questions.11.answers.1.text:Delores Marles Jackson
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:6534.0
+passage.questions.11.answers.0.text:Katherine
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:6533.0
+passage.questions.10.question:Kdo je mati Michaela Jacksona?
+passage.questions.10.idx:1272.0
+passage.questions.10.answers.4.text:TJ Katherine
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:6532.0
+passage.questions.10.answers.3.text:Katherine
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:6531.0
+passage.questions.10.answers.2.text:TJ Jackson
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:6530.0
+passage.questions.10.answers.1.text:Delores
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:6529.0
+passage.questions.10.answers.0.text:Katherine Jackson
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:6528.0
+passage.questions.1.question:Kako je ime TJ-jevi materi?
+passage.questions.1.idx:1263.0
+passage.questions.1.answers.4.text:Delores Martes Jackson
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:6477.0
+passage.questions.1.answers.3.text:Delores Katherine
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6476.0
+passage.questions.1.answers.2.text:Katherine
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:6475.0
+passage.questions.1.answers.1.text:Delores
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:6474.0
+passage.questions.1.answers.0.text:Katherine Jackson
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:6473.0
+passage.questions.0.question:Koliko otrok ima Michael Jackson in kdo je bil njihov začasni skrbnik?
+passage.questions.0.idx:1262
+passage.questions.0.answers.6.text:3 otroci - Michael Joseph
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:6472.0
+passage.questions.0.answers.5.text:2 otroka - Michael Morry Jackson
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:6471.0
+passage.questions.0.answers.4.text:3 otroci - Tito Joseph Jackson
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:6470.0
+passage.questions.0.answers.3.text:2; Taj Jackson
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:6469.0
+passage.questions.0.answers.2.text:Ima tri otroke. Njihov začasni skrbnik je bil Tito Joseph &quot;TJ&quot; Jackson
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:6468.0
+passage.questions.0.answers.1.text:3; Tito Joseph &quot;TJ&quot; Jackson
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:6467
+passage.questions.0.answers.0.text:2 otroka - Michael Jackson
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:6466
+idx:107

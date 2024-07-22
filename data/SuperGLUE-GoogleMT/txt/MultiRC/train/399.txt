@@ -1,0 +1,78 @@
+version:1.1
+passage.text:Po motenju zapleta v Amanu v Washingtonu ni ušel obvestilu, da je Hijazi živel v Kaliforniji in vozil taksi v Bostonu ter da je Deek naturaliziran ameriški državljan, ki je bil, kot je Berger spomnil na predsednika Clintona, v stiku s skrajneži tako v ZDA kot v tujini. Pred aretacijo Ressama Berger ni videl potrebe po javnem alarmiranju doma, čeprav je FBI vse terenske pisarne opozoril. Po aretaciji Ressama je FBI prosil za posebno število prisluhov brez primere. Tako Berger kot Tenet sta nam povedala, da imata vtis, da je bilo v času opozorila tisočletja obdelanih več zahtev za prisluškovanje po Zakonu o nadzoru tuje obveščevalne službe (FISA) kot kdaj koli prej. Naslednji dan je Berger, ko je pisal o aretaciji Ressama in povezavah s celico v Montrealu, predsednika obvestil, da bo FBI svetoval policiji v ZDA, naj okrepi dejavnosti, vendar se bo kljub temu poskušal izogniti neupravičenemu javnemu alarmu in poudaril, da vlada posebne informacije o načrtovanih napadih. Na srečanju majhne skupine ravnateljev 22. decembra je direktor FBI Louis Freeh uradnike iz uslužbencev NSC, Cie in pravosodja seznanil s prisluški in preiskavami znotraj ZDA, vključno z enoto iz Brooklyna, povezano z aretacijo Ressama, na videz nezanesljivega tujca. poročajo o možnih napadih na sedem ameriških mest, dva Alžirca, pridržana na kanadski meji, in preiskave v Montrealu, povezane z džihadistično celico. Ministrstvo za pravosodje je še isti dan objavilo izjavo. Clarkovo osebje je opozorilo: &quot;Tuje teroristične spalne celice so prisotne v ZDA in verjetni so napadi v ZDA.&quot; Clarke je Bergerja prosil, naj poskuša zagotoviti, da bodo domače agencije še naprej pozorne. &quot;Ali obstaja nevarnost za civilna letala?&quot; Je zapisal. Clarke je konec decembra ravnatelje tudi pozval, naj razpravljajo o poročilu tuje varnostne službe o načrtu Bin Ladena za postavitev bomb na čezatlantske polete. CSG se je sestajal vsak dan. Berger je dejal, da so se ravnatelji nenehno sestajali. Kasneje je Diana Dean, carinska inšpektorica, ki je Ressama napotila na sekundarni inšpekcijski pregled, na vprašanje, zakaj se je odločila, da bo Ressama stopila iz njegovega vozila, povedala, da gre za njeno &quot;usposabljanje in izkušnje&quot;. Zdi se, da povišan občutek pripravljenosti na nacionalni ravni pri pridržanju Ressama ni imel nobene vloge. Občutek javnega alarma se je vse bolj povečal. Prejšnje jordanske aretacije so bile objavljene v tisku, Ressamova aretacija pa je bila v božični sezoni objavljena v večernih oddajah mreže. FBI je bil med tisočletno krizo bolj komunikativen kot kdaj koli prej.
+passage.questions.2.question:Na kateri datum je prišlo opozorilo &quot;Tuje teroristične spalne celice so prisotne v ZDA in verjetni so napadi v ZDA.&quot; zgoditi se?
+passage.questions.2.idx:4565.0
+passage.questions.2.answers.7.text:1. januarja 2000
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:24115.0
+passage.questions.2.answers.6.text:22. decembra
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:24114.0
+passage.questions.2.answers.5.text:Po obdelavi nadzornih podatkov FEMA
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:24113.0
+passage.questions.2.answers.4.text:Istega dne je direktor FBI seznanil uradnike drugih agencij
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:24112.0
+passage.questions.2.answers.3.text:23. decembra
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:24111.0
+passage.questions.2.answers.2.text:22. decembra
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:24110.0
+passage.questions.2.answers.1.text:21. decembra
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24109.0
+passage.questions.2.answers.0.text:Božični dan
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24108.0
+passage.questions.1.question:Katere vrste zahtev za prisluškovanje so bile po Ressamovi aretaciji zahtevane?
+passage.questions.1.idx:4564.0
+passage.questions.1.answers.8.text:Prisluhi Cie
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:24107.0
+passage.questions.1.answers.7.text:Zahteve zakona o nadzoru tuje obveščevalne službe
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:24106.0
+passage.questions.1.answers.6.text:Zahteve za prisluškovanje FISA
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:24105.0
+passage.questions.1.answers.5.text:Kanadska prisluška
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:24104.0
+passage.questions.1.answers.4.text:Posebna prisluška
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:24103.0
+passage.questions.1.answers.3.text:Zahteve za prisluškovanje po Zakonu o nadzoru tuje obveščevalne službe (FISA)
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:24102.0
+passage.questions.1.answers.2.text:Prisluški FISA
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24101.0
+passage.questions.1.answers.1.text:Prisluški Agencije za nacionalno varnost
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:24100.0
+passage.questions.1.answers.0.text:Prisluški NSC
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:24099.0
+passage.questions.0.question:Je Clarkovo osebje del pravosodnega ministrstva?
+passage.questions.0.idx:4563
+passage.questions.0.answers.5.text:Clarkovo osebje je neodvisno od pravosodnega ministrstva
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:24098.0
+passage.questions.0.answers.4.text:Da
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:24097.0
+passage.questions.0.answers.3.text:Ne
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:24096.0
+passage.questions.0.answers.2.text:Ne, Clarkovo osebje poroča samo senatskemu obveščevalnemu odboru
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:24095.0
+passage.questions.0.answers.1.text:So pri FBI-ju
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:24094
+passage.questions.0.answers.0.text:Ne, CIA
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24093
+idx:399

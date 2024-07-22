@@ -1,0 +1,186 @@
+version:1.1
+passage.text:Oglejte si ta vlak na sliki 1.11. Izgleda zelo futuristično. Kaj opazite pri tem? Ste opazili, da vlak nima koles? Kako lahko vlak nima koles? Ne potrebuje koles. Pravzaprav plava ali lebdi tik nad progo. Vlaki to omogočajo magneti. To ni običajen vlak. To je maglev vlak. Beseda maglev pomeni magnetno levitacijo. Ker nima koles, ni trenja. Nekateri magneti držijo vlak navzgor. Drugi magneti se uporabljajo za premikanje vlaka naprej. Ta vlak lahko vozi zelo hitro. Hitrost lahko doseže do 480 kilometrov na uro! Magneti so kar kul. Kaj pravzaprav je magnet? Kako lahko izvaja tako silo?
+passage.questions.8.question:Ali lahko vlaki maglev potujejo z veliko hitrostjo?
+passage.questions.8.idx:4815.0
+passage.questions.8.answers.4.text:Da. Lahko gre hitro
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:25701.0
+passage.questions.8.answers.3.text:Vlaki Maglev so zelo hitri in lahko dosežejo hitrost do 300 milj na uro
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:25700.0
+passage.questions.8.answers.2.text:Da
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:25699.0
+passage.questions.8.answers.1.text:Da. Vlaki Maglev lahko potujejo z veliko hitrostjo do 300 milj na uro
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:25698.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:25697.0
+passage.questions.7.question:Kaj drži vlak gor in ga premika naprej?
+passage.questions.7.idx:4814.0
+passage.questions.7.answers.4.text:Zračni tlak
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:25696.0
+passage.questions.7.answers.3.text:Prevajanje
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:25695.0
+passage.questions.7.answers.2.text:Magneti
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:25694.0
+passage.questions.7.answers.1.text:Veter
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:25693.0
+passage.questions.7.answers.0.text:Vlak zadržujejo magneti, magneti pa pomagajo tudi pri premikanju vlaka naprej
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:25692.0
+passage.questions.6.question:Kako se vozi vlak?
+passage.questions.6.idx:4813.0
+passage.questions.6.answers.7.text:Zračni tlak
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:25691.0
+passage.questions.6.answers.6.text:Za premikanje naprej se uporabljajo magneti
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:25690.0
+passage.questions.6.answers.5.text:Vlak za premikanje uporablja magnete
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:25689.0
+passage.questions.6.answers.4.text:Prihodnost
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:25688.0
+passage.questions.6.answers.3.text:Magneti se uporabljajo za vzdrževanje vlaka in premikanje naprej s hitrostjo do 480 kilometrov na uro!
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:25687.0
+passage.questions.6.answers.2.text:Steam
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:25686.0
+passage.questions.6.answers.1.text:Premog
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:25685.0
+passage.questions.6.answers.0.text:Elektrika
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:25684.0
+passage.questions.5.question:Kaj opazite na sliki 1.11?
+passage.questions.5.idx:4812.0
+passage.questions.5.answers.6.text:Vlak nima koles
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:25683.0
+passage.questions.5.answers.5.text:Vlak je kot helikopter
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:25682.0
+passage.questions.5.answers.4.text:Slika 1.11 je vlak futurističnega videza, brez koles, ki levi nad tirnico
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:25681.0
+passage.questions.5.answers.3.text:Vlak za premikanje uporablja magnete
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:25680.0
+passage.questions.5.answers.2.text:Vlak gre nazaj
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:25679.0
+passage.questions.5.answers.1.text:Magneti
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:25678.0
+passage.questions.5.answers.0.text:Vlak nima vodnika
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:25677.0
+passage.questions.4.question:Kako vlak deluje brez koles?
+passage.questions.4.idx:4811.0
+passage.questions.4.answers.6.text:Z magneti lebdi nad vlakovnimi tiri
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:25676.0
+passage.questions.4.answers.5.text:Ima krila
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:25675.0
+passage.questions.4.answers.4.text:Vleče ga veter
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25674.0
+passage.questions.4.answers.3.text:Drži zračni tlak
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25673.0
+passage.questions.4.answers.2.text:Plava
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:25672.0
+passage.questions.4.answers.1.text:Magneti vlaku omogočajo lebdenje ali lebdenje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:25671.0
+passage.questions.4.answers.0.text:Dejansko plava ali lebdi tik nad tirnico z magneti
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:25670.0
+passage.questions.3.question:Kaj se na tem futurističnem vlaku zdi drugače?
+passage.questions.3.idx:4810.0
+passage.questions.3.answers.6.text:Nima koles
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:25669.0
+passage.questions.3.answers.5.text:Vlak nima koles
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:25668.0
+passage.questions.3.answers.4.text:Vlak nima stropa
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:25667.0
+passage.questions.3.answers.3.text:Vlak leti
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:25666.0
+passage.questions.3.answers.2.text:Vlak nima koles. Z magneti lebdi nad tirnicami
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25665.0
+passage.questions.3.answers.1.text:Brez koles
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25664.0
+passage.questions.3.answers.0.text:Vlak nima vodnika
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25663.0
+passage.questions.2.question:Kako magneti delujejo, da se maglev vlak premika?
+passage.questions.2.idx:4809.0
+passage.questions.2.answers.5.text:Magneti zadržujejo vlak in pomagajo levitirati vlak nad tiri
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:25662.0
+passage.questions.2.answers.4.text:Levitiranje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25661.0
+passage.questions.2.answers.3.text:Odbijajo se proti kovinski progi
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25660.0
+passage.questions.2.answers.2.text:Oddajajo valove energije
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25659.0
+passage.questions.2.answers.1.text:Pritisnejo proti gravitaciji
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25658.0
+passage.questions.2.answers.0.text:Nekateri magneti držijo vlak navzgor, drugi magneti pa se uporabljajo za premikanje vlaka naprej
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:25657.0
+passage.questions.1.question:Kaj opažate glede vlaka na sliki 1.11?
+passage.questions.1.idx:4808.0
+passage.questions.1.answers.6.text:Nima koles
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:25656.0
+passage.questions.1.answers.5.text:Vlak nima koles
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:25655.0
+passage.questions.1.answers.4.text:Je vijolična
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:25654.0
+passage.questions.1.answers.3.text:Da je videti zelo futuristično in nima koles
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:25653.0
+passage.questions.1.answers.2.text:Brez koles
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25652.0
+passage.questions.1.answers.1.text:Nima stropa
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:25651.0
+passage.questions.1.answers.0.text:Gre nazaj
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:25650.0
+passage.questions.0.question:Ali obstaja kakšen vlak, ki nima koles?
+passage.questions.0.idx:4807
+passage.questions.0.answers.2.text:Vlak maglev nima koles
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:25649.0
+passage.questions.0.answers.1.text:Da, futuristični vlak nima koles. Magnete uporabljajo za gibanje itd
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:25648
+passage.questions.0.answers.0.text:Da
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:25647
+idx:427

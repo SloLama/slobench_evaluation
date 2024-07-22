@@ -1,0 +1,210 @@
+version:1.1
+passage.text:Spet je prebral brzojavko. V obupu se je vrnil v kabino na dolge razdalje, vendar je našel progo še vedno v okvari in prišla je žica s podrobnostmi o škodi, ki jo je povzročila nevihta. Minilo bi nekaj dni, preden bi lahko vzpostavili komunikacijo. Iz sedeža ni prišlo do pomoči in iz besedila telegrama se je zdelo, da obstaja razlog, da niso navedli jasnih podrobnosti. Dobiti mora kopijo papirja. Nejevoljno je odšel v tiskarno in sporočil svoje opravke. G. Driggs mu je z veseljem dal papir - imel je nekaj prostora, čeprav je zelo redko odprl katero od svojih borz. Očitno gospodu Steadmanu ni nič slabe volje zaradi njegovega navadnega pogovora pred dvema tednoma. Z nekaj težavami ga je našel, z ovojem še nedotaknjenim. Bil je ohlapen ovoj, ki se je zlahka zdrsnil in vklopil. G. Steadman je neprevidno pripomnil, da je v njem uvodnik, na katerega je bil opozorjen, ko je gospod Driggs obrnil glavo in pomežiknil namišljenemu sokrivcu.
+passage.questions.9.question:Kaj je še imel ovoj?
+passage.questions.9.idx:307.0
+passage.questions.9.answers.3.text:Telegram
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1593.0
+passage.questions.9.answers.2.text:Kopalnica
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1592.0
+passage.questions.9.answers.1.text:Informacije
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1591.0
+passage.questions.9.answers.0.text:Papir
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:1590.0
+passage.questions.8.question:Se je zdelo, da se je gospod Driggs negativno odzval na naloge gospoda Steadmana?
+passage.questions.8.idx:306.0
+passage.questions.8.answers.2.text:Da
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1589.0
+passage.questions.8.answers.1.text:Verjetno ne
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1588.0
+passage.questions.8.answers.0.text:Ne, zdelo se je, da ni imel slabe volje in mu je z veseljem dal papir
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:1587.0
+passage.questions.7.question:Je prejel jasno sporočilo o nevihti?
+passage.questions.7.idx:305.0
+passage.questions.7.answers.3.text:Ne, ni, ker je bilo sporočilo, poslano prek žice, nejasno
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:1586.0
+passage.questions.7.answers.2.text:Mogoče
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1585.0
+passage.questions.7.answers.1.text:Malo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1584.0
+passage.questions.7.answers.0.text:Da
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:1583.0
+passage.questions.6.question:Kaj ni bilo v redu, kar bi trajalo več dni, da bi se spet povezali?
+passage.questions.6.idx:304.0
+passage.questions.6.answers.2.text:Telefoni
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1582.0
+passage.questions.6.answers.1.text:Telefon
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1581.0
+passage.questions.6.answers.0.text:Proga kabine
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:1580.0
+passage.questions.5.question:Kam je gospod Steadman odšel po papir?
+passage.questions.5.idx:303.0
+passage.questions.5.answers.3.text:Tiskarna
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1579.0
+passage.questions.5.answers.2.text:Njegov nalog
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1578.0
+passage.questions.5.answers.1.text:Specializirana trgovina
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1577.0
+passage.questions.5.answers.0.text:Trgovina z živili
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1576.0
+passage.questions.4.question:Kaj je imel gospod Driggs nekaj težav pri iskanju?
+passage.questions.4.idx:302.0
+passage.questions.4.answers.2.text:Papir
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1575.0
+passage.questions.4.answers.1.text:Denar, ki ga je dolžan gospodu Steadmanu
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1574.0
+passage.questions.4.answers.0.text:Informacije
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1573.0
+passage.questions.3.question:Zakaj je potreboval kopijo papirja?
+passage.questions.3.idx:301.0
+passage.questions.3.answers.3.text:Pomembne podrobnosti v opombi
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:1572.0
+passage.questions.3.answers.2.text:Morda ga bo pozneje potreboval
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1571.0
+passage.questions.3.answers.1.text:Da ga podarim prijatelju
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1570.0
+passage.questions.3.answers.0.text:Če želite prebrati uvodnik
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1569.0
+passage.questions.2.question:Kakšno je bilo stanje Steadmana, ko je odšel v Driggs?
+passage.questions.2.idx:300
+passage.questions.2.answers.1.text:V okvari
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:1568
+passage.questions.2.answers.0.text:Nepazljivo
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1567
+passage.questions.14.question:V kakšnem stanju je bil ovoj papirja, ki ga je gospod Driggs dal gospodu Steadmanu?
+passage.questions.14.idx:312.0
+passage.questions.14.answers.6.text:Umazano
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:1616.0
+passage.questions.14.answers.5.text:Zavitek je bil nedotaknjen in ohlapen
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:1615.0
+passage.questions.14.answers.4.text:Raztrgano
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:1614.0
+passage.questions.14.answers.3.text:Veseli
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:1613.0
+passage.questions.14.answers.2.text:Nepazljivo
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1612.0
+passage.questions.14.answers.1.text:Ni pokvarjen
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1611.0
+passage.questions.14.answers.0.text:Neradi
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1610.0
+passage.questions.13.question:Kdo gospodu Steadmanu ni dal slabe volje zaradi njegovega navadnega govora?
+passage.questions.13.idx:311.0
+passage.questions.13.answers.3.text:Glavni fant
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:1609.0
+passage.questions.13.answers.2.text:Gospod Steadman
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:1608.0
+passage.questions.13.answers.1.text:G. Driggs
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:1607.0
+passage.questions.13.answers.0.text:Oče gospoda Steadmana
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1606.0
+passage.questions.12.question:Po kakšnem opravku je šel v tiskarno?
+passage.questions.12.idx:310.0
+passage.questions.12.answers.4.text:Še en članek
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:1605.0
+passage.questions.12.answers.3.text:Da bi kaj natisnili
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:1604.0
+passage.questions.12.answers.2.text:Da bo to znano
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1603.0
+passage.questions.12.answers.1.text:Kopija papirja
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1602.0
+passage.questions.12.answers.0.text:Da dobim papir
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1601.0
+passage.questions.11.question:Kaj je imel gospod Driggs še vedno nedotaknjen okoli predmeta, ki ga je dobival za gospoda Steadmana?
+passage.questions.11.idx:309.0
+passage.questions.11.answers.2.text:Škatla
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:1600.0
+passage.questions.11.answers.1.text:Zavijalka
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:1599.0
+passage.questions.11.answers.0.text:Obloga
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:1598.0
+passage.questions.10.question:Kdo ni imel slabe volje glede njihovega pogovora pred dvema tednoma?
+passage.questions.10.idx:308.0
+passage.questions.10.answers.3.text:Drugi lik
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1597.0
+passage.questions.10.answers.2.text:G. Driggs
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:1596.0
+passage.questions.10.answers.1.text:Gospod Steadman
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1595.0
+passage.questions.10.answers.0.text:Papir
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:1594.0
+passage.questions.1.question:Kako se imenuje lik, ki je potreboval kopijo papirja?
+passage.questions.1.idx:299
+passage.questions.1.answers.2.text:Gospod Steadman
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1566.0
+passage.questions.1.answers.1.text:G. Driggs
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1565
+passage.questions.1.answers.0.text:Glavni lik
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1564
+passage.questions.0.question:Katere komunikacije ni bilo mogoče poslati?
+passage.questions.0.idx:298
+passage.questions.0.answers.5.text:Uvodnik, ki ga je napisal
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1563.0
+passage.questions.0.answers.4.text:Žica
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1562.0
+passage.questions.0.answers.3.text:Nevihta
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:1561.0
+passage.questions.0.answers.2.text:Telegram na dolge razdalje
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1560.0
+passage.questions.0.answers.1.text:Sedež
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1559
+passage.questions.0.answers.0.text:Osebno sporočilo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1558
+idx:26

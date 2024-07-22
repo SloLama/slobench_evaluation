@@ -1,0 +1,326 @@
+version:1.1
+passage.text:Zanašati se na žival, ki pride mimo, je tvegano. Roža bo morda morala dolgo čakati, da bodo prišle prave živali. Kaj pa, če človek nikoli ne pride dovolj blizu rože? Upanje, da bo pihal veter, je za rastlino tudi tvegano. Kaj če veter ne piha? Kaj pa, če cvetni prah, ki piha, ne pristane na drugem cvetu? Veter bi lahko cvetni prah odpihnil tudi nad ocean, kjer je zapravljen. Dajanje brezplačnega nektarja je drago. Ne uporabljamo dobro energije rastlin. Rastlina porabi veliko energije za proizvodnjo nektarja. Nekatere živali lahko nektar samo pijejo. V zameno ne smejo odnašati cvetnega prahu. Da bi izboljšale svoje možnosti, so rastline razvile posebne lastnosti. Na primer, razvili so načine, kako skriti nektar. Le nekatere živali so lahko pri rastlinah dobile skriti nektar. Te posebne živali bi lahko bolj verjetno obiskale le rože iste vrste. To je koristilo tudi nekaterim živalim. Živali so razvile tudi posebne lastnosti, da so prišle do nektarja.
+passage.questions.9.question:Kaj nekatere rastline privabijo živali, da jih obiščejo?
+passage.questions.9.idx:2355.0
+passage.questions.9.answers.4.text:Fotosinteza
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:12451.0
+passage.questions.9.answers.3.text:Skrite rože
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:12450.0
+passage.questions.9.answers.2.text:Prilagoditve
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:12449.0
+passage.questions.9.answers.1.text:Nektar
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:12448.0
+passage.questions.9.answers.0.text:Cvetni prah
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:12447.0
+passage.questions.8.question:Kako živali ogrožajo opraševanje?
+passage.questions.8.idx:2354.0
+passage.questions.8.answers.7.text:Gazijo rastline
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:12446.0
+passage.questions.8.answers.6.text:V zameno ne smejo odnašati cvetnega prahu
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:12445.0
+passage.questions.8.answers.5.text:Pijte nektar brez prenosa cvetnega prahu
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:12444.0
+passage.questions.8.answers.4.text:Živali samo jedo cvetni prah
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:12443.0
+passage.questions.8.answers.3.text:Lahko pijejo nektar ali v zameno ne odnašajo cvetnega prahu iz rastline
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:12442.0
+passage.questions.8.answers.2.text:Prilagodili so se
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:12441.0
+passage.questions.8.answers.1.text:Ne vzemite cvetnega prahu v drugo rastlino
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:12440.0
+passage.questions.8.answers.0.text:Blokirajo veter
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:12439.0
+passage.questions.7.question:Kaj je tvegano za rastlino z njenim nektarjem?
+passage.questions.7.idx:2353.0
+passage.questions.7.answers.6.text:To je drago
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:12438.0
+passage.questions.7.answers.5.text:Za njegovo izdelavo je treba vložiti veliko energije
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:12437.0
+passage.questions.7.answers.4.text:Morda se ne širi
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:12436.0
+passage.questions.7.answers.3.text:Prilagajanje novih lastnosti
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:12435.0
+passage.questions.7.answers.2.text:Zanašanje na žival, ki pride mimo
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:12434.0
+passage.questions.7.answers.1.text:Morda se bo posušilo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:12433.0
+passage.questions.7.answers.0.text:Čakanje na pihanje vetra v pravo smer ali čakanje, da pridejo prave živali, je lahko postopek opraševanja tvegano
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:12432.0
+passage.questions.6.question:Zakaj je tvegano, da cvet počaka na žival, ki pride mimo?
+passage.questions.6.idx:2352.0
+passage.questions.6.answers.8.text:Rastlinam se lahko izognejo, ko dežuje
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:12431.0
+passage.questions.6.answers.7.text:Živali obiščejo preveč rož
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:12430.0
+passage.questions.6.answers.6.text:Rastlino lahko poteptajo
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:12429.0
+passage.questions.6.answers.5.text:Živali s seboj ne vzamejo cvetnega prahu
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:12428.0
+passage.questions.6.answers.4.text:Žival morda ne pride mimo ali pa preprosto popije ves nektar
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:12427.0
+passage.questions.6.answers.3.text:Ne smejo prenašati cvetnega prahu v drugo rastlino
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:12426.0
+passage.questions.6.answers.2.text:Lahko rastlinam strgajo liste
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:12425.0
+passage.questions.6.answers.1.text:Lahko samo pijejo nektar
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:12424.0
+passage.questions.6.answers.0.text:Lahko ne odnesejo cvetnega prahu
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:12423.0
+passage.questions.5.question:Kakšne težave bi lahko nastale, če rastlina čaka, da ji veter pomaga?
+passage.questions.5.idx:2351.0
+passage.questions.5.answers.9.text:Cvetni prah ne pristane na drugem cvetu
+passage.questions.5.answers.9.label:1.0
+passage.questions.5.answers.9.idx:12422.0
+passage.questions.5.answers.8.text:Pih, ki piha, ne pristane na drugem cvetu
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:12421.0
+passage.questions.5.answers.7.text:Živali si tega ne bi želele
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:12420.0
+passage.questions.5.answers.6.text:Veter bi lahko cvetni prah odpihnil tudi nad ocean, kjer je zapravljen
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:12419.0
+passage.questions.5.answers.5.text:Pelod ne pristane na živali
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:12418.0
+passage.questions.5.answers.4.text:Veter morda ne bi pihal, cvetni prah, ki piha, ne pristane na drugem cvetu ali pa bi lahko cvetni prah odpihnil tudi nad ocean, kjer je zapravljen
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:12417.0
+passage.questions.5.answers.3.text:Lahko se posuši
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:12416.0
+passage.questions.5.answers.2.text:Veter ne piha
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:12415.0
+passage.questions.5.answers.1.text:Rastlina je lahko zdrobljena
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:12414.0
+passage.questions.5.answers.0.text:Polenatiranje oceana
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:12413.0
+passage.questions.4.question:Zakaj je dajanje brezplačnega nektarja drago?
+passage.questions.4.idx:2350.0
+passage.questions.4.answers.6.text:Rastlina porabi veliko energije za proizvodnjo nektarja
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:12412.0
+passage.questions.4.answers.5.text:Cvetni prah ne bo pristal tam, kjer želijo
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:12411.0
+passage.questions.4.answers.4.text:Rastlinska energija ne uporablja dobro in za izdelavo nektarja porabi veliko energije
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:12410.0
+passage.questions.4.answers.3.text:Ne uporabljamo dobro energije rastlin
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:12409.0
+passage.questions.4.answers.2.text:Nekatere živali ga preprosto pijejo
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:12408.0
+passage.questions.4.answers.1.text:Ker živali radi pijejo nektar
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:12407.0
+passage.questions.4.answers.0.text:Za zaslužek je potreben denar
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:12406.0
+passage.questions.3.question:Kaj lahko nekatere živali storijo z rastlino?
+passage.questions.3.idx:2349.0
+passage.questions.3.answers.6.text:Skrij cvetni prah
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:12405.0
+passage.questions.3.answers.5.text:ubiti ga
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:12404.0
+passage.questions.3.answers.4.text:Skrij nektar
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:12403.0
+passage.questions.3.answers.3.text:Nekatere živali lahko preprosto pijejo nektar in v zameno ne odnašajo cvetnega prahu
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:12402.0
+passage.questions.3.answers.2.text:Gazite ga
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12401.0
+passage.questions.3.answers.1.text:Zapravite
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:12400.0
+passage.questions.3.answers.0.text:Pijte nektar
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:12399.0
+passage.questions.2.question:Kaj je namen skritega nektarja?
+passage.questions.2.idx:2348.0
+passage.questions.2.answers.6.text:Da rastlina ostane vlažna
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:12398.0
+passage.questions.2.answers.5.text:Le nekatere živali so lahko prišle do rastlinskega skritega nektarja, ker je verjetno, da bodo te posebne živali obiskale le rože iste vrste
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:12397.0
+passage.questions.2.answers.4.text:Da bi živali ukradle celo rastlino
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:12396.0
+passage.questions.2.answers.3.text:Da ga živali ne poberejo živali, ki ne bodo pravilno širile cvetnega prahu
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:12395.0
+passage.questions.2.answers.2.text:Do nektarja smejo priti samo živali, ki bodo verjetno oprašile drugo rastlino
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:12394.0
+passage.questions.2.answers.1.text:Da bi nagajal živalim
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12393.0
+passage.questions.2.answers.0.text:Za širjenje cvetnega prahu
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:12392.0
+passage.questions.12.question:Katere lastnosti so se razvile v rastlinah za izboljšanje njihovih možnosti?
+passage.questions.12.idx:2358.0
+passage.questions.12.answers.8.text:Postali so strupeni
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:12473.0
+passage.questions.12.answers.7.text:Segreli so ga
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:12472.0
+passage.questions.12.answers.6.text:Značilnosti živali
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:12471.0
+passage.questions.12.answers.5.text:Posebne vrste
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:12470.0
+passage.questions.12.answers.4.text:Ogorčili so ga
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:12469.0
+passage.questions.12.answers.3.text:Načini, kako skriti nektar
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:12468.0
+passage.questions.12.answers.2.text:Sposobnost skrivanja nektarja
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:12467.0
+passage.questions.12.answers.1.text:Cvetni prah
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:12466.0
+passage.questions.12.answers.0.text:Razvili so načine, kako skriti nektar in le posebne živali so ga lahko dobile, te posebne živali pa bodo verjetno bolj verjetno obiskale le rože iste vrste
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:12465.0
+passage.questions.11.question:Je vsaka žival lahko dostopala do rastlinskega nektarja?
+passage.questions.11.idx:2357.0
+passage.questions.11.answers.3.text:Nobenega vprašanja; drugih možnosti ni
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:12464.0
+passage.questions.11.answers.2.text:Ne, le nekatere živali so lahko dobile nektar in razvile posebne lastnosti, da so to lahko storile
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:12463.0
+passage.questions.11.answers.1.text:Ne
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:12462.0
+passage.questions.11.answers.0.text:To je da
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:12461.0
+passage.questions.10.question:Kako rastline varujejo nektar?
+passage.questions.10.idx:2356.0
+passage.questions.10.answers.8.text:Zaradi njih je slabo
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:12460.0
+passage.questions.10.answers.7.text:Tako, da ga skrijete v druge rože
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:12459.0
+passage.questions.10.answers.6.text:Zaradi njih je strupena
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:12458.0
+passage.questions.10.answers.5.text:Naredijo grenko
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:12457.0
+passage.questions.10.answers.4.text:Z živalmi
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:12456.0
+passage.questions.10.answers.3.text:Na različne načine, vključno s skrivanjem
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:12455.0
+passage.questions.10.answers.2.text:Razvijajo posebne lastnosti
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:12454.0
+passage.questions.10.answers.1.text:Skrivajo nektar
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:12453.0
+passage.questions.10.answers.0.text:Razvili so načine, kako skriti nektar, do katerega so lahko prišle le nekatere živali
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:12452.0
+passage.questions.1.question:Kakšni so načini prenosa cvetnega prahu?
+passage.questions.1.idx:2347.0
+passage.questions.1.answers.8.text:Zanašanje na žival in upanje, da bo pihal veter
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:12391.0
+passage.questions.1.answers.7.text:Dež
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:12390.0
+passage.questions.1.answers.6.text:Prevajanje
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:12389.0
+passage.questions.1.answers.5.text:Pitje
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:12388.0
+passage.questions.1.answers.4.text:Živali, ki ga prenašajo
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:12387.0
+passage.questions.1.answers.3.text:Voda
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:12386.0
+passage.questions.1.answers.2.text:V nektarju
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12385.0
+passage.questions.1.answers.1.text:Veter
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:12384.0
+passage.questions.1.answers.0.text:Neposreden stik
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:12383.0
+passage.questions.0.question:Zakaj rastlina tvega, da upa, da bo pihal veter?
+passage.questions.0.idx:2346
+passage.questions.0.answers.7.text:Cvetni prah ne pristane na drugem cvetu
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:12382.0
+passage.questions.0.answers.6.text:Mogoče bo deževalo
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:12381.0
+passage.questions.0.answers.5.text:Lahko zapiha nad vodo, kjer je zapravljena
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:12380.0
+passage.questions.0.answers.4.text:Pihajoč veter povzroča, da rastline oddajajo nektar
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:12379.0
+passage.questions.0.answers.3.text:Lahko uniči cvetni prah
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:12378.0
+passage.questions.0.answers.2.text:Morda bo trajalo veliko energije
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:12377.0
+passage.questions.0.answers.1.text:Morda ne bi pihalo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:12376
+passage.questions.0.answers.0.text:Cvetni prah ne sme pristati na drugem cvetu ali pa ga lahko raznese nad ocean
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:12375
+idx:213

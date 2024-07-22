@@ -1,0 +1,108 @@
+version:1.1
+passage.text:&quot;Hobotnica&quot;, maskirani gospodar zločina, je nagnjen k hrambi države z valom groze. Začne s prevoznim sistemom in nato preide na industrijo. Zahteva priznanje železniških magnatov in drugih industrijskih kapitanov. Richard Wentworth, amaterski kriminolog, ki je prijazen do policije, je na skrivaj &quot;Pajek&quot;, zamaskiran vigilante, ki je enako odločen, da hobotnico in njegovo tolpo obriše z zemlje. Prijeten in nasmejan v civilnem življenju, je Wentworth pogosto neusmiljen kot Pajek in proti javnim sovražnikom, ki ga napadajo, natakne dve puški. Wentworth se tudi predstavlja kot prijazen Blinky McQuade iz podzemlja. Preoblečen v McQuadea, se Wentworth lahko infiltrira v tolpe na ravni najete pištole in redno spremlja načrte tolpe. Edini ljudje, ki poznajo druge identitete Wentwortha, so njegovi pomočniki Jackson in Ram Singh, njegov butler Jenkins in njegov zaročenec Nita. Octopus je bil hudobnec v samostojni celulozi, za katero je verjel, da jo je napisal Norvell Page, ki je napisal večino zgodb o The Spider pulp Popolnoma je oblečen v belo in ga le kdaj vidijo, da sedi na stolu. Za razliko od celuloze je Spider oblečen v lahek kostum s celotno dolžino, na njem pa so spletne oznake, ki spominjajo na Spidermanov kostum. Serija sledi standardni formuli prepirov, obračunov, Wentworthovih prijateljev, ki so bili ugrabljeni ob različnih časih in jih je treba rešiti. Vsako poglavje se konča s Pajkom ali njegovimi prijatelji v globokih težavah, ki jih je pogosto treba ubiti, učinek pa pokvari napovednik za naslednjo epizodo, ki jih prikaže v polnem zdravju in boju z zlikovci.
+passage.questions.5.question:Kdo poskuša zaustaviti hromi val terorja?
+passage.questions.5.idx:282.0
+passage.questions.5.answers.5.text:Ram Singh
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:1529.0
+passage.questions.5.answers.4.text:Norvell Page
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:1528.0
+passage.questions.5.answers.3.text:Richard Wentworth
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1527.0
+passage.questions.5.answers.2.text:Hobotnica
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1526.0
+passage.questions.5.answers.1.text:Pajek
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1525.0
+passage.questions.5.answers.0.text:Blinky McQuade
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:1524.0
+passage.questions.4.question:Kdo od magnatov in kapitanov zahteva priznanje?
+passage.questions.4.idx:281.0
+passage.questions.4.answers.3.text:Jenkins
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1523.0
+passage.questions.4.answers.2.text:Hobotnica
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1522.0
+passage.questions.4.answers.1.text:Pajek
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1521.0
+passage.questions.4.answers.0.text:Blinky McQuade
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1520.0
+passage.questions.3.question:Kateri lik je upodobljen tako, da nosi vso belo barvo in se je pojavil samo v eni kaši?
+passage.questions.3.idx:280.0
+passage.questions.3.answers.3.text:Hobotnica
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:1519.0
+passage.questions.3.answers.2.text:Norvel Page
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1518.0
+passage.questions.3.answers.1.text:Pajek
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1517.0
+passage.questions.3.answers.0.text:Blinky McQuade
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1516.0
+passage.questions.2.question:Kako je ime vigilante, ki se imenuje &quot;Pajek&quot; in &quot;Blinky McQuade&quot;?
+passage.questions.2.idx:279.0
+passage.questions.2.answers.6.text:Ram Singh
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:1515.0
+passage.questions.2.answers.5.text:Jenkins
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:1514.0
+passage.questions.2.answers.4.text:Jackson
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1513.0
+passage.questions.2.answers.3.text:Norvell Page
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1512.0
+passage.questions.2.answers.2.text:Richard Wentworth
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:1511.0
+passage.questions.2.answers.1.text:Wentworth
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:1510.0
+passage.questions.2.answers.0.text:Richard
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:1509.0
+passage.questions.1.question:Koga so kdaj videli le, da sedi na stolu?
+passage.questions.1.idx:278.0
+passage.questions.1.answers.3.text:Richard Wentworth
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:1508.0
+passage.questions.1.answers.2.text:Hobotnica
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1507.0
+passage.questions.1.answers.1.text:Pajek
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:1506.0
+passage.questions.1.answers.0.text:Blinky McQuade
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:1505.0
+passage.questions.0.question:S kakšnim nacionalnim sistemom je lopov &quot;Hobotnica&quot; začel svojo vladavino terorizma?
+passage.questions.0.idx:277
+passage.questions.0.answers.5.text:Kmetijski sistem
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1504.0
+passage.questions.0.answers.4.text:Servisni sistem
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1503.0
+passage.questions.0.answers.3.text:Transportni sistem
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1502.0
+passage.questions.0.answers.2.text:Policija
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1501.0
+passage.questions.0.answers.1.text:Prevoz
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:1500
+passage.questions.0.answers.0.text:Industrija
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1499
+idx:24

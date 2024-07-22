@@ -1,0 +1,4 @@
+idx:5304
+label:False
+passage:Senzor MAP - v motorje, ki uporabljajo senzor MAP, se običajno vbrizga gorivo. Tipalo absolutnega tlaka v kolektorju zagotavlja takojšnje informacije o tlaku v kolektorju elektronski krmilni enoti motorja (ECU). Podatki se uporabljajo za izračun gostote zraka in določanje masnega pretoka zraka motorja, ki nato določa potrebno merjenje goriva za optimalno zgorevanje (glej stehiometrijo) in vpliva na napredovanje ali zaviranje časa vžiga. Motor z vbrizgom goriva lahko alternativno uporabi senzor masnega pretoka zraka (MAF senzor) za zaznavanje pretoka sesalnega zraka. Tipična naravno polnjena konfiguracija motorja uporablja eno ali drugo, medtem ko prisilno indukcijski motorji običajno uporabljajo oboje; senzor MAF na predturbou sesalnega kanala in senzor MAP na polnilni cevi, ki vodi do telesa dušilke.
+question:je senzor masnega pretoka zraka enak senzorju zemljevida

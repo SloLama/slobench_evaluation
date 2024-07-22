@@ -1,0 +1,95 @@
+version:1.1
+passage.text:New York (CNN) - V sodnih dokumentih so trije obtoženi na zveznem sodišču v sredo priznali krivdo za zaroto, da bi prevarali odškodninsko organizacijo za holokavst iz 57,3 milijona dolarjev. Genrikh Kolontyrskiy, Moysey Kucher in Dora Kucher, vsi iz Brooklyna, so pomagali izdelati in obdelati nekaj tisoč prevarantskih prošenj za konferenco o judovskih materialnih zahtevkih proti Nemčiji, ki so v preiskavi. Organizacija, znana tudi kot Claims Conference, letno razdeli več kot 400 milijonov dolarjev iz sredstev, ki jih je nemška vlada zagotovila žrtvam holokavsta. &quot;Naša prizadevanja, da bi upoštevali vse posameznike, ki so sodelovali pri prevari organizacije, ki obstaja zgolj za pomoč žrtvam nacističnih grozodejstev, se nadaljujejo,&quot; je dejal Preet Bharara, ameriški tožilec za južno okrožje New Yorka. Obtoženci so pomagali pri goljufiji dveh skladov, ki jih je upravljala škodna konferenca, sklada Article 2 in Hardship Fund, v višini 45 milijonov USD oziroma 12,3 milijona USD, v skladu s sodnimi dokumenti. Sklad iz člena 2 mesečno plačuje približno 400 ameriških dolarjev žrtvam nacističnega preganjanja, ki zaslužijo manj kot 16.000 ameriških dolarjev letno in so vsaj 18 mesecev živeli v skrivanju ali lažni identiteti, piše v sporočilu za javnost ameriškega tožilstva. . Hardship Fund enkratno plača 3.500 ameriških dolarjev &quot;žrtvam nacističnega preganjanja, ki so evakuirale mesta, v katerih so živele in so bile prisiljene postati begunci.&quot; Kolontyrskiy, 80, je v skladu s sodnimi dokumenti zavestno obdeloval goljufive vloge za plačilo, medtem ko je bil zaposlen v skladu s členom 2. 66-letna Moysey Kucher in 58-letna Dora Kucher sta rekrutirala posameznika, da sta predložila osebne dokumente, ki so bili uporabljeni za pripravo goljufivih vlog za oba sklada v zameno za denar, izplačan lažnim prosilcem, v skladu s sodnimi dokumenti. Jesse Siegel, odvetnik Kolontyrskega, je dejal, da njegova stranka nikakor ni večji pobudnik, vendar prevzema odgovornost za svoja dejanja.
+passage.questions.3.question:Kako so se Genrikh Kolontyrskiy, Moysey Kucher in Dora Kucher pritožili na zveznem sodišču?
+passage.questions.3.idx:3166.0
+passage.questions.3.answers.5.text:Ni kriv
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:16699.0
+passage.questions.3.answers.4.text:Priznal nedolžen
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:16698.0
+passage.questions.3.answers.3.text:Priznajo krivdo
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:16697.0
+passage.questions.3.answers.2.text:Ni kriv
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:16696.0
+passage.questions.3.answers.1.text:Kriv
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:16695.0
+passage.questions.3.answers.0.text:Prosili so se za zavrnitev
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:16694.0
+passage.questions.2.question:Ko so Genrikh Kolontyrskiy, Moysey Kucher in Dora Kucher goljufijo oddali, iz katerih dveh organizacij je prišel njihov denar?
+passage.questions.2.idx:3165.0
+passage.questions.2.answers.5.text:Konferenca o zahtevkih in sklad iz člena 2
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:16693.0
+passage.questions.2.answers.4.text:Sklad iz člena 2
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:16692.0
+passage.questions.2.answers.3.text:Sklad iz člena 4 in Delovni sklad
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:16691.0
+passage.questions.2.answers.2.text:Hardship sklad
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:16690.0
+passage.questions.2.answers.1.text:Odškodninska konferenca in organizacija za odškodnino za holokavst
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:16689.0
+passage.questions.2.answers.0.text:Sklad iz člena 2 in Sklad za obstoj
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:16688.0
+passage.questions.1.question:V kateri državi je organizacija za odškodnino za holokavst, ki so jo vsi trije obtoženi ogoljufali?
+passage.questions.1.idx:3164.0
+passage.questions.1.answers.6.text:Nemčija
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:16687.0
+passage.questions.1.answers.5.text:Zvezna republika Nemčija
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:16686.0
+passage.questions.1.answers.4.text:Izrael
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:16685.0
+passage.questions.1.answers.3.text:ZDA
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:16684.0
+passage.questions.1.answers.2.text:Združene države
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:16683.0
+passage.questions.1.answers.1.text:ZDA
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:16682.0
+passage.questions.1.answers.0.text:Združene države Amerike
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:16681.0
+passage.questions.0.question:Kaj je vsebovalo gradivo?
+passage.questions.0.idx:3163
+passage.questions.0.answers.8.text:Prošnja za delo
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:16680.0
+passage.questions.0.answers.7.text:Sodni primer, v katerem se trije ljudje previdno sklicujejo na zaroto, da bi prevarali organizacijo za popravilo holokavsta
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:16679.0
+passage.questions.0.answers.6.text:Popravek holokavsta s strani Evrope
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:16678.0
+passage.questions.0.answers.5.text:Manj kot 3 osebe v sodni zadevi
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:16677.0
+passage.questions.0.answers.4.text:Na stotine goljufij
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:16676.0
+passage.questions.0.answers.3.text:Zahtevki proti Nemčiji
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:16675.0
+passage.questions.0.answers.2.text:Primer
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:16674.0
+passage.questions.0.answers.1.text:bančni izpiski
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:16673
+passage.questions.0.answers.0.text:Lažni dokumenti
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:16672
+idx:278

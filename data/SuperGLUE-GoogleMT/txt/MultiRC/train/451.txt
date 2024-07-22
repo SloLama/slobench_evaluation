@@ -1,0 +1,241 @@
+version:1.1
+passage.text:Je to žuželka ali žival? Polž je žival, tako kot jaz in ti. Tako je, tudi ti si žival. Ne, nisi videti kot polž. Imate nekaj skupnih stvari. Živali lahko razdelimo v številne skupine. Za te skupine se odločamo glede na njihove značilnosti. Vsem živalim je skupnih nekaj osnovnih značilnosti. To ne pomeni, da sta enaka. Imajo tudi veliko razlik. Na primer, polži so mehkužci in ne žuželke. Mehkužci imajo edinstven nabor lastnosti. Opazite veliko stopalo, ki mu omogoča premikanje. Da, ima samo eno nogo. Ste opazili dolge antene na glavi? Tu so oči polževih oči. So na koncu antene. Niso na glavi kot večina živali. Noga in oči so edinstvene lastnosti. Znanstveniki te lastnosti uporabljajo za razvrščanje živali v skupine.
+passage.questions.9.question:Kje so oči polžev?
+passage.questions.9.idx:5086.0
+passage.questions.9.answers.6.text:Pod njegovo lupino
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:27019.0
+passage.questions.9.answers.5.text:Na eni nogi
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:27018.0
+passage.questions.9.answers.4.text:Na glavi
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:27017.0
+passage.questions.9.answers.3.text:Na obrazu
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:27016.0
+passage.questions.9.answers.2.text:Dolge antene na glavi
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:27015.0
+passage.questions.9.answers.1.text:Na antenah
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:27014.0
+passage.questions.9.answers.0.text:Oči so v anteni na vrhu glave
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:27013.0
+passage.questions.8.question:Katere so edinstvene lastnosti polžev?
+passage.questions.8.idx:5085.0
+passage.questions.8.answers.7.text:Antena na glavi, kjer so njene oči
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:27012.0
+passage.questions.8.answers.6.text:Kot v peklu
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:27011.0
+passage.questions.8.answers.5.text:Majhna stopala, ki jih ne vidiš
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:27010.0
+passage.questions.8.answers.4.text:Imajo eno nogo in oči na antenah
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:27009.0
+passage.questions.8.answers.3.text:Stopalo in oko
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:27008.0
+passage.questions.8.answers.2.text:Veliko stopalo, ki mu omogoča premikanje
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:27007.0
+passage.questions.8.answers.1.text:Glava in noga
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:27006.0
+passage.questions.8.answers.0.text:Žleze, ki proizvajajo sluz
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:27005.0
+passage.questions.7.question:V čem se polži razlikujejo?
+passage.questions.7.idx:5084.0
+passage.questions.7.answers.6.text:Na glavi imajo eno nogo in oči na anteni
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:27004.0
+passage.questions.7.answers.5.text:Oči imajo na glavi
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:27003.0
+passage.questions.7.answers.4.text:Dihajo jim skozi kožo
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:27002.0
+passage.questions.7.answers.3.text:Tiho so
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:27001.0
+passage.questions.7.answers.2.text:Imajo edinstvena stopala in oči, oči pa niso na glavah kot večina živali
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:27000.0
+passage.questions.7.answers.1.text:So počasi
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:26999.0
+passage.questions.7.answers.0.text:Oči imajo na antenah
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:26998.0
+passage.questions.6.question:So polži žuželke?
+passage.questions.6.idx:5083.0
+passage.questions.6.answers.3.text:Da
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:26997.0
+passage.questions.6.answers.2.text:Na način govora
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:26996.0
+passage.questions.6.answers.1.text:Da, tudi oni so mehkužci
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26995.0
+passage.questions.6.answers.0.text:Ne niso. So mehkužci
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:26994.0
+passage.questions.5.question:S katero živaljo imate skupne stvari?
+passage.questions.5.idx:5082.0
+passage.questions.5.answers.5.text:Opice
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:26993.0
+passage.questions.5.answers.4.text:Morski psi
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:26992.0
+passage.questions.5.answers.3.text:Opice
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:26991.0
+passage.questions.5.answers.2.text:Levi
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:26990.0
+passage.questions.5.answers.1.text:Gorile
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:26989.0
+passage.questions.5.answers.0.text:Polž
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:26988.0
+passage.questions.4.question:Katero skupno značilnost imajo mehkužci in polži?
+passage.questions.4.idx:5081.0
+passage.questions.4.answers.7.text:Veliko stopalo, ki mu omogoča premikanje
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:26987.0
+passage.questions.4.answers.6.text:Ena velika noga
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:26986.0
+passage.questions.4.answers.5.text:Antene in velika noga
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:26985.0
+passage.questions.4.answers.4.text:Dolge antene na glavi, kjer so da
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:26984.0
+passage.questions.4.answers.3.text:Drobne sesalne noge
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:26983.0
+passage.questions.4.answers.2.text:Dva metra in glava
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:26982.0
+passage.questions.4.answers.1.text:Žleze, ki proizvajajo sluz
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:26981.0
+passage.questions.4.answers.0.text:Trda lupina
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:26980.0
+passage.questions.3.question:Kje so polžje oči?
+passage.questions.3.idx:5080.0
+passage.questions.3.answers.6.text:Na straneh glave
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:26979.0
+passage.questions.3.answers.5.text:Na eni nogi
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:26978.0
+passage.questions.3.answers.4.text:Na glavi
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:26977.0
+passage.questions.3.answers.3.text:Na antenah
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:26976.0
+passage.questions.3.answers.2.text:Na obrazu
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26975.0
+passage.questions.3.answers.1.text:Na anteni na vrhu glave
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26974.0
+passage.questions.3.answers.0.text:Na koncu njihovih anten
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:26973.0
+passage.questions.2.question:Kje se nahajajo polžje oči?
+passage.questions.2.idx:5079.0
+passage.questions.2.answers.6.text:Pod lupino
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:26972.0
+passage.questions.2.answers.5.text:Veliko stopalo
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:26971.0
+passage.questions.2.answers.4.text:Na koncu antene na glavah
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:26970.0
+passage.questions.2.answers.3.text:Na glavi
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:26969.0
+passage.questions.2.answers.2.text:Na obrazu
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:26968.0
+passage.questions.2.answers.1.text:Dolge antene na glavi
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:26967.0
+passage.questions.2.answers.0.text:Na antenah
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26966.0
+passage.questions.10.question:Koliko dodatkov polži uporabljajo za premikanje?
+passage.questions.10.idx:5087.0
+passage.questions.10.answers.2.text:Tri
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:27022.0
+passage.questions.10.answers.1.text:Polži uporabljajo eno nogo
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:27021.0
+passage.questions.10.answers.0.text:Ena
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:27020.0
+passage.questions.1.question:Navedite eno ugotovljeno razliko med polži in žuželkami.
+passage.questions.1.idx:5078.0
+passage.questions.1.answers.7.text:Polži imajo velike noge, žuželke pa ne
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:26965.0
+passage.questions.1.answers.6.text:Zvoki, ki jih oddajajo
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:26964.0
+passage.questions.1.answers.5.text:Polži imajo samo eno nogo
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:26963.0
+passage.questions.1.answers.4.text:Ima eno nogo, ki mu omogoča premikanje
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:26962.0
+passage.questions.1.answers.3.text:Ima eno nogo
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:26961.0
+passage.questions.1.answers.2.text:Polži imajo oči na antenah, žuželke pa na glavi
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:26960.0
+passage.questions.1.answers.1.text:Antena
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:26959.0
+passage.questions.1.answers.0.text:Žleze, ki proizvajajo sluz
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26958.0
+passage.questions.0.question:Kako se delijo živali?
+passage.questions.0.idx:5077
+passage.questions.0.answers.6.text:Ali dihajo v vodi ali na kopnem
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:26957.0
+passage.questions.0.answers.5.text:Razdeljeni so glede na velikost stopal
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:26956.0
+passage.questions.0.answers.4.text:Razdeljeni so v skupine glede na značilnosti
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:26955.0
+passage.questions.0.answers.3.text:V skupine glede na njihove značilnosti
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:26954.0
+passage.questions.0.answers.2.text:Tam razdeljeno glede na značilnosti
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:26953.0
+passage.questions.0.answers.1.text:Če se rodijo, živijo mladi
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:26952
+passage.questions.0.answers.0.text:Če hodijo ali letijo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:26951
+idx:451

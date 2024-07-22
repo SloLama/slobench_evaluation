@@ -1,0 +1,295 @@
+version:1.1
+passage.text:Vodila je pot v veselo šolsko učilnico, kjer so sedele velike deklice in punčke, ki so se zabavale v tihem dolgem nedeljskem popoldnevu. Ko je vstopila, je k njej priteklo več mlajših otrok, ki so se trdno držali za gube svoje črne navade in strmeli navzgor v neznance, medtem ko je razlagala, katera navodila je podala, sistem in red, ki vlada v vsakem oddelku. . Nazadnje je nagovorila še majhno deklico, staro le šest let, da je iz dolge tekoče tančice redovnice umaknila svoj mračen obraz in pokazala, kako hitro je lahko prebrala stavek, ki ga je sestra Winifred zapisala na tablo. Nato so poklicali druge in navedli primere njihovih dosežkov v preprosti aritmetiki in črkovanju. Otroci so se morali tisto viharno nedeljo zelo dolgočasiti sami s seboj, saj so na izpit vstopili s precej nenaravno željo. Dve starejši deklici sta recitirali, prikazani pa so bili tudi nekateri vzorci risbe in sestave. Občutljiva polt male nune se je zardela v precej rožnato rožnato roza, ko so njeni učenci osvojili polkovniške staromodne pohvale.
+passage.questions.9.question:Kateri dan v tednu je polkovnik pohvalil nuno?
+passage.questions.9.idx:557.0
+passage.questions.9.answers.3.text:Ponedeljek
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:2923.0
+passage.questions.9.answers.2.text:Drugi dan
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:2922.0
+passage.questions.9.answers.1.text:Nedelja
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:2921.0
+passage.questions.9.answers.0.text:Prvi dan
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:2920.0
+passage.questions.8.question:Kakšnega spola je bil eden od otrok, ki je pritekel k njej, ko je prišla?
+passage.questions.8.idx:556.0
+passage.questions.8.answers.3.text:Ženska
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:2919.0
+passage.questions.8.answers.2.text:Mlad fant
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2918.0
+passage.questions.8.answers.1.text:Dekle
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:2917.0
+passage.questions.8.answers.0.text:Moški
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2916.0
+passage.questions.7.question:Kje so otroci pritekli k redovnici in se držali njene navade?
+passage.questions.7.idx:555.0
+passage.questions.7.answers.2.text:Šolska učilnica
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2915.0
+passage.questions.7.answers.1.text:Za tablo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2914.0
+passage.questions.7.answers.0.text:V razredu
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:2913.0
+passage.questions.6.question:Kdo je obiskal učilnico?
+passage.questions.6.idx:554.0
+passage.questions.6.answers.3.text:Sestra Winnifred
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2912.0
+passage.questions.6.answers.2.text:Mala nuna
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2911.0
+passage.questions.6.answers.1.text:Neznanci
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:2910.0
+passage.questions.6.answers.0.text:Polkovnik
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2909.0
+passage.questions.5.question:Kateri dan v tednu se je nanjo obrnilo več mlajših otrok?
+passage.questions.5.idx:553.0
+passage.questions.5.answers.3.text:Ponedeljek
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2908.0
+passage.questions.5.answers.2.text:Tretji dan
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2907.0
+passage.questions.5.answers.1.text:Nedelja
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2906.0
+passage.questions.5.answers.0.text:Prvi dan
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2905.0
+passage.questions.4.question:Kje so tujci spoznali učitelja?
+passage.questions.4.idx:552.0
+passage.questions.4.answers.4.text:Ob vodnjaku
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:2904.0
+passage.questions.4.answers.3.text:V učilnici
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:2903.0
+passage.questions.4.answers.2.text:V samostanski dvorani
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2902.0
+passage.questions.4.answers.1.text:Pred tablo
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2901.0
+passage.questions.4.answers.0.text:Učilnica
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2900.0
+passage.questions.3.question:Je to javna šola ali verska šola?
+passage.questions.3.idx:551.0
+passage.questions.3.answers.2.text:Protestantski
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2899.0
+passage.questions.3.answers.1.text:Verski
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:2898.0
+passage.questions.3.answers.0.text:Katoliški
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2897.0
+passage.questions.2.question:Kakšno je vreme tistega nedeljskega popoldneva?
+passage.questions.2.idx:550.0
+passage.questions.2.answers.3.text:Mokro
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2896.0
+passage.questions.2.answers.2.text:Nevihtno
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2895.0
+passage.questions.2.answers.1.text:Prijetno
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:2894.0
+passage.questions.2.answers.0.text:Sončno
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:2893.0
+passage.questions.19.question:Vodila je pot v veselo šolsko učilnico, kdo je pritekel k njej, ko je vstopila?
+passage.questions.19.idx:567.0
+passage.questions.19.answers.4.text:Šestletna deklica
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:2966.0
+passage.questions.19.answers.3.text:Sestra Winifred
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:2965.0
+passage.questions.19.answers.2.text:Več mlajših otrok
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:2964.0
+passage.questions.19.answers.1.text:Mladi otroci
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:2963.0
+passage.questions.19.answers.0.text:Velika dekleta in deklice
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:2962.0
+passage.questions.18.question:Kaj se tam učenci naučijo?
+passage.questions.18.idx:566.0
+passage.questions.18.answers.4.text:Matematika in branje
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:2961.0
+passage.questions.18.answers.3.text:Branje in matematika
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:2960.0
+passage.questions.18.answers.2.text:Akademija
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:2959.0
+passage.questions.18.answers.1.text:Molitev
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:2958.0
+passage.questions.18.answers.0.text:Morala
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:2957.0
+passage.questions.17.question:Kdo je bil med neznanci v učilnici z nuno
+passage.questions.17.idx:565.0
+passage.questions.17.answers.2.text:Več mladih deklet
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:2956.0
+passage.questions.17.answers.1.text:Polkovnik
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:2955.0
+passage.questions.17.answers.0.text:Sestra Winifred
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:2954.0
+passage.questions.16.question:Kaj so zaklepile mlajše deklice, ko je nuna vstopila v učilnico?
+passage.questions.16.idx:564.0
+passage.questions.16.answers.4.text:Njena črna navada
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:2953.0
+passage.questions.16.answers.3.text:Vzdrževala se je trdno za gube svoje črne navade
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:2952.0
+passage.questions.16.answers.2.text:Njene gube
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:2951.0
+passage.questions.16.answers.1.text:Mala nuna
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:2950.0
+passage.questions.16.answers.0.text:Njene roke
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:2949.0
+passage.questions.15.question:Za kaj so bili prikazani primerki risbe?
+passage.questions.15.idx:563.0
+passage.questions.15.answers.2.text:Za osvojitev nagrade
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2948.0
+passage.questions.15.answers.1.text:Da bi naredil vtis na polkovnika
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:2947.0
+passage.questions.15.answers.0.text:Izpit
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:2946.0
+passage.questions.14.question:Kdaj je sestra Winifred svojim študentom dala izpit?
+passage.questions.14.idx:562.0
+passage.questions.14.answers.3.text:Po nevihti
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:2945.0
+passage.questions.14.answers.2.text:Popoldan
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:2944.0
+passage.questions.14.answers.1.text:Nedelja
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:2943.0
+passage.questions.14.answers.0.text:Zgodaj zjutraj
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:2942.0
+passage.questions.13.question:Za katere predmete so učenci pokazali svoje sposobnosti?
+passage.questions.13.idx:561.0
+passage.questions.13.answers.4.text:Pisava
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:2941.0
+passage.questions.13.answers.3.text:Zgodovina
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:2940.0
+passage.questions.13.answers.2.text:Branje, računanje, pisanje, črkovanje, pisanje in sestavljanje
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:2939.0
+passage.questions.13.answers.1.text:Algebra
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:2938.0
+passage.questions.13.answers.0.text:Branje
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:2937.0
+passage.questions.12.question:Kdo je vodil pot v šolsko učilnico?
+passage.questions.12.idx:560.0
+passage.questions.12.answers.3.text:Neznanci
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:2936.0
+passage.questions.12.answers.2.text:Mala nuna
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:2935.0
+passage.questions.12.answers.1.text:Polkovnik
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:2934.0
+passage.questions.12.answers.0.text:Učitelj
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:2933.0
+passage.questions.11.question:So ti učenci po starosti enaki?
+passage.questions.11.idx:559.0
+passage.questions.11.answers.3.text:Obstajajo velika in majhna dekleta
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:2932.0
+passage.questions.11.answers.2.text:So v istem razredu
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2931.0
+passage.questions.11.answers.1.text:Da
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2930.0
+passage.questions.11.answers.0.text:Ne
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:2929.0
+passage.questions.10.question:Kateri dan je nuna vstopila v učilnico z neznanci?
+passage.questions.10.idx:558.0
+passage.questions.10.answers.4.text:Nedelja
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:2928.0
+passage.questions.10.answers.3.text:Dan po nevihti
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2927.0
+passage.questions.10.answers.2.text:Ponedeljek
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2926.0
+passage.questions.10.answers.1.text:nedeljsko popoldne
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:2925.0
+passage.questions.10.answers.0.text:Dan nevihte
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:2924.0
+passage.questions.1.question:Kakšnega spola so bili otroci, ki so opravljali izpit?
+passage.questions.1.idx:549.0
+passage.questions.1.answers.4.text:Ženska
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:2892.0
+passage.questions.1.answers.3.text:Vse so bile dekleta
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:2891.0
+passage.questions.1.answers.2.text:Dekleta
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2890.0
+passage.questions.1.answers.1.text:Tam so bili fantje in deklice
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:2889.0
+passage.questions.1.answers.0.text:Oboje
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:2888.0
+passage.questions.0.question:Kaj je nuna v šolski učilnici razložila neznancem
+passage.questions.0.idx:548
+passage.questions.0.answers.4.text:Urnik poučevanja
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2887.0
+passage.questions.0.answers.3.text:Navodila dana
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2886.0
+passage.questions.0.answers.2.text:Vrsta navodil, sistem in vrstni red, ki vladajo v vsakem oddelku
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2885.0
+passage.questions.0.answers.1.text:Razporeditev sedežev
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2884
+passage.questions.0.answers.0.text:Vladajoči red
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2883
+idx:47

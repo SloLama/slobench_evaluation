@@ -1,0 +1,39 @@
+version:1.1
+passage.text:Ko je bil v Oxfordu, je bil dobro znan po tem, da je pod nekoliko okorno zunanjostjo skrival najvišje duhove katerega koli dodiplomskega študija. Nanj so gledali kot na najbolj fascinantnega izmed farcev. Zdi se, da se je tam odlikoval manj s pisanjem grških verzov, čeprav je bil v tem dober, kot pa s čudovitim raznolikim ognjemetom, ki ga je vztrajno puščal pod dekanskim oknom. Ta njegova domišljija je najprej pripeljala do njegove priljubljenosti, nato pa do nesrečne epizode, ko je bil poslan; kmalu zatem se je poročil zasebno, predvsem zato, da je staršem kot presenečenje poslal napoved svoje poroke v The Morning Post_. Nekateri ljudje so prišli po večerji - kajti tam bo malo _sauterie intime_, kot ga je imenovala gospa Mitchell, ki je govorila s svojim naglasom, tako grozljivo, da se je, kot je ugotovila Vincy, slišalo precej neprimerno. Edith je močno zabavljena opazovala, ko je videla, da sta resnično prisotna ena ali dve osebi, ki ga Mitchell še nikoli prej ni videl in ga zdaj seveda ni prepoznal, tako da je preobleka veljala za zmago. Nekaj resnično prijetnega je bilo v spoštovanju, ki ga je izkazoval nenavadno rumeni dami v rdečem, okrašeni z grdimi pravimi čipkami in čudovitimi umetnimi lasmi. Očitno je bila navdušena nad ruskim princem.
+passage.questions.2.question:Kaj je povzročilo, da so posameznika v stavku 4 &quot;poslali dol&quot;?
+passage.questions.2.idx:1824.0
+passage.questions.2.answers.2.text:Prižiganje ognjemeta pod Deanovim oknom
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9508.0
+passage.questions.2.answers.1.text:Čudovita raznolikost ognjemetov
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:9507.0
+passage.questions.2.answers.0.text:Poročena zasebno
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:9506.0
+passage.questions.1.question:Iz katere ustanove je bil &quot;poslan&quot; posameznik v stavku 4?
+passage.questions.1.idx:1823.0
+passage.questions.1.answers.3.text:Oxford
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:9505.0
+passage.questions.1.answers.2.text:Vincy
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:9504.0
+passage.questions.1.answers.1.text:Univerza v Oxfordu
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:9503.0
+passage.questions.1.answers.0.text:Mitchell
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9502.0
+passage.questions.0.question:Kako je ime ruskemu princu?
+passage.questions.0.idx:1822
+passage.questions.0.answers.2.text:Edith
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:9501.0
+passage.questions.0.answers.1.text:Vincy
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:9500
+passage.questions.0.answers.0.text:Mitchell
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:9499
+idx:163

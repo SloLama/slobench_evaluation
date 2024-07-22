@@ -1,0 +1,78 @@
+version:1.1
+passage.text:Moja starša, Kelly in Kelley, sta rekla, da je bil čas za družinske počitnice. Bili smo v velikih vozniških parkih, ki imajo hotele z velikimi bazeni. Letos so moji starši želeli narediti nekaj drugačnega. Vse so nas želeli odpeljati do gradu Elk River. Po veliko načrtovanja smo se odpravili na pot. Z bratom Kelseyjem sva tam uživala v dolgi vožnji z avtom. Ko smo prispeli, je bil grad videti veliko večji, kot smo si zamislili. Toliko je bilo videti in toliko narediti. Tam so bili bazen, kino in dvigalo, ki so nas peljali od tal do tal. Kakšen čaroben kraj! Bil sem tako navdušen, ker smo imeli celo družino! Počitnice smo preživeli v igri okoli ogromnega gradu in iskanju majhnih skrivnostnih krajev. Na zadnji strani ene omare je bila celo majhna soba. Z bratom Kelsey sva se ure igrala skrivalnice, gledala filme in plavala, dokler sonce ni zašlo. Žalostno je bilo, ko so se naše počitnice končno končale, vendar smo si ustvarili nekaj neverjetnih spominov. Nikoli ne bomo pozabili našega potovanja do gradu Elk River!
+passage.questions.2.question:Čigava ideja je bila, da gremo na grad Elk River?
+passage.questions.2.idx:3819.0
+passage.questions.2.answers.9.text:Moja starša, Kelly in Kelley
+passage.questions.2.answers.9.label:0,0
+passage.questions.2.answers.9.idx:20274.0
+passage.questions.2.answers.8.text:Starši
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:20273.0
+passage.questions.2.answers.7.text:Kelly in Kelley
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:20272.0
+passage.questions.2.answers.6.text:Pripovedovalec
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:20271.0
+passage.questions.2.answers.5.text:Kelsey
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:20270.0
+passage.questions.2.answers.4.text:Pripovedovalec in Kelsey
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:20269.0
+passage.questions.2.answers.3.text:Pripovedovalec
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:20268.0
+passage.questions.2.answers.2.text:Kelseyjeva
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:20267.0
+passage.questions.2.answers.1.text:Pripovedovalčeva starša
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:20266.0
+passage.questions.2.answers.0.text:Kelly in Kelley&#39;s
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:20265.0
+passage.questions.1.question:Smo se na gradu Elk River vozili z velikimi vožnjami?
+passage.questions.1.idx:3818.0
+passage.questions.1.answers.3.text:Grad je bil videti veliko večji, kot si je predstavljal
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:20264.0
+passage.questions.1.answers.2.text:Prejšnji dopust je imel velike vožnje
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:20263.0
+passage.questions.1.answers.1.text:Nekateri
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:20262.0
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:20261.0
+passage.questions.0.question:Čeprav so pripovedovalčevi starši želeli načrtovati drugačne kot običajno družinske počitnice, poimenujte vsaj eno stvar, ki je bila enaka preteklim počitnicam.
+passage.questions.0.idx:3817
+passage.questions.0.answers.8.text:Plavanje
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:20260.0
+passage.questions.0.answers.7.text:V gradu je bilo dvigalo
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:20259.0
+passage.questions.0.answers.6.text:Odhod v velike vozne parke
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:20258.0
+passage.questions.0.answers.5.text:Na preteklih počitnicah je bil tudi bazen
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:20257.0
+passage.questions.0.answers.4.text:Na gradu je bil bazen
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:20256.0
+passage.questions.0.answers.3.text:Skrivnostnih krajev je bilo več
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:20255.0
+passage.questions.0.answers.2.text:Dolga vožnja z avtom
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:20254.0
+passage.questions.0.answers.1.text:Odhod v kino
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:20253
+passage.questions.0.answers.0.text:Odhod na bazen
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:20252
+idx:332

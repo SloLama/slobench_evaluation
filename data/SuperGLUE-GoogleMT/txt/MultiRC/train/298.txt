@@ -1,0 +1,32 @@
+version:1.1
+passage.text:Skoraj je poletni čas. Pomlad je bila zelo dolga in zelo deževna. Zima je bila zelo topla in zelo dolga. Pozimi sneži padejo na tla. Pokriva vso travo. Pokriva vsa drevesa. Pokriva vse rože. Pozimi veverica odide spat. Veverica deluje celo poletje, da zbere dovolj hrane za zimo. Veverica nabira jagode. Veverica nabira borove storžke. Veverica spusti borove storžke z naše strehe in jih zvalja do svojega najljubšega skrivališča. Bum! Bum! Bum! Borovi storžki zvenijo tako glasno, ko padejo s strehe! Sneg se topi spomladi. V mesecu maju je na tleh na našem dvorišču. Junija je v gorah še sneg. Sneg v gorah je še do julija. Maja začne trava rasti. Junija cvetovi spet cvetijo. Julija se gremo kopati v jezero. Igramo se celo poletje. Ni nam treba hoditi v šolo. Za hrano nam ni treba nabirati borovih storžkov. Igramo se zunaj in kuhamo. Nismo veverice. Mi smo otroci. Mama nam poleti pripravi limonado. Mama nas pelje na plažo. Naša mama nam dovoli veliko tabornih ognjev. Naša mama kosi travnik. Zdaj je poletni čas in zdaj igramo 90 dni, vetrnica pa deluje 90 dni. Pozimi delamo in hodimo v šolo, veverica pa spi. Vesel sem, da je poletje in vesel sem, da sem človeški otrok in ne veverica. Vesel sem, da smo lahko budni skozi vse letne čase. Rada imam pomlad. Všeč mi je jesen. Všeč mi je zima. Moj najljubši čas je zagotovo poletje!
+passage.questions.0.question:Kaj je pokrivalo vso travo, drevesa in rože?
+passage.questions.0.idx:3394
+passage.questions.0.answers.8.text:Trava
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:17904.0
+passage.questions.0.answers.7.text:Rosa
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:17903.0
+passage.questions.0.answers.6.text:Sneg
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:17902.0
+passage.questions.0.answers.5.text:Zima
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:17901.0
+passage.questions.0.answers.4.text:Pomlad
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:17900.0
+passage.questions.0.answers.3.text:Rože
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:17899.0
+passage.questions.0.answers.2.text:Megla
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:17898.0
+passage.questions.0.answers.1.text:Sneg
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:17897
+passage.questions.0.answers.0.text:Zimske snežne padavine
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:17896
+idx:298

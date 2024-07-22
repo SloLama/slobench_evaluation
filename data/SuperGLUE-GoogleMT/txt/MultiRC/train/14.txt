@@ -1,0 +1,130 @@
+version:1.1
+passage.text:Te neskladne besede so vrgle prvi pogled na pomen njene stiske in spokornosti. Dvomim, da bi se najboljša ženska v tako imenovanem krščanstvu tako očitala in podcenila, če bi bila obsojena še hujšega greha od skrivne uporabe tistih poživil, za katere je &quot;čarni&quot; enakovreden boj. Noben marcialist ne bi sanjal, da bi mu zastrupil kri in možgane izkopal z alkoholom v kakršni koli obliki. Toda njihovi opiati vplivajo na raso, ki je odvisna od fizičnega počitka, čutnega užitka in ne čutnega navdušenja ter lucidnega intelektualnega razmišljanja, z občutkom spokojnega užitka, ki je nadvse okusen do njihovega temperamenta, kot sanjske iluzije hašiša do Turka, ostrega blaznost bhanga na Malajščino ali divje vznemirjenje žganja ali Ženeve na dirkah v Severni Evropi. Toda tako kot pri razkošju zastrupitve v Evropi je tudi na Marsu uživanje teh drog, ki je enemu spolu prosto dovoljeno, z mnenjem in domačimi pravili strogo prepovedano. Dama, odkrita pri uporabi &quot;charny&quot;, je tako sramotna kot evropska matrona, odkrita pri skrivnem uživanju žganih pijač in cigaret; in njen gospodar in gospodar skrbi, da se dovolj zaveda svoje krivde.
+passage.questions.7.question:Kako se imenuje zdravilo, ki se uporablja na Marsu?
+passage.questions.7.idx:168.0
+passage.questions.7.answers.5.text:&quot;čarni&quot;
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:945.0
+passage.questions.7.answers.4.text:Opiati
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:944.0
+passage.questions.7.answers.3.text:Evropi
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:943.0
+passage.questions.7.answers.2.text:Iluzije
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:942.0
+passage.questions.7.answers.1.text:-čaren-
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:941.0
+passage.questions.7.answers.0.text:Charny
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:940.0
+passage.questions.6.question:Kako se počuti ob jemanju zdravila?
+passage.questions.6.idx:167.0
+passage.questions.6.answers.4.text:Srečno
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:939.0
+passage.questions.6.answers.3.text:Stisnjen, spokorjen in osramočen
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:938.0
+passage.questions.6.answers.2.text:Slab
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:937.0
+passage.questions.6.answers.1.text:Kriv
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:936.0
+passage.questions.6.answers.0.text:Dobro
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:935.0
+passage.questions.5.question:Katere primerjave se uporabljajo za &quot;charny&quot; kot zdravilo?
+passage.questions.5.idx:166.0
+passage.questions.5.answers.5.text:Žganje
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:934.0
+passage.questions.5.answers.4.text:Počivaj
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:933.0
+passage.questions.5.answers.3.text:Sramota
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:932.0
+passage.questions.5.answers.2.text:Žgane pijače
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:931.0
+passage.questions.5.answers.1.text:Haschisch do Turka, močna norost bhanga do Malajca ali divje vznemirjenje žganja ali Ženeve do dirk v Severni Evropi
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:930.0
+passage.questions.5.answers.0.text:Strup
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:929.0
+passage.questions.4.question:Kakšen je njen rasni izvor?
+passage.questions.4.idx:165.0
+passage.questions.4.answers.3.text:Britanski
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:928.0
+passage.questions.4.answers.2.text:Evropski
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:927.0
+passage.questions.4.answers.1.text:Marsovsko
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:926.0
+passage.questions.4.answers.0.text:Marcialist
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:925.0
+passage.questions.3.question:Kakšna je bila luksuzna zastrupitev Evrope?
+passage.questions.3.idx:164.0
+passage.questions.3.answers.5.text:Bhang
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:924.0
+passage.questions.3.answers.4.text:Samo za moške
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:923.0
+passage.questions.3.answers.3.text:Alkohol
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:922.0
+passage.questions.3.answers.2.text:Haschisch
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:921.0
+passage.questions.3.answers.1.text:Za vsakogar
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:920.0
+passage.questions.3.answers.0.text:Žganje ali Ženeva
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:919.0
+passage.questions.2.question:Ali je &quot;charny&quot; prepovedan za ženske?
+passage.questions.2.idx:163.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:918.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:917.0
+passage.questions.1.question:Kaj so bili zasvojeni z marcialisti?
+passage.questions.1.idx:162.0
+passage.questions.1.answers.3.text:Občutek mirnega užitka kot nadvse okusen za njihov temperament
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:916.0
+passage.questions.1.answers.2.text:Opiati
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:915.0
+passage.questions.1.answers.1.text:Marihuana
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:914.0
+passage.questions.1.answers.0.text:Alkohol
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:913.0
+passage.questions.0.question:Skrivna uporaba kakšnih poživil je bila enakovreden boj za ženske?
+passage.questions.0.idx:161
+passage.questions.0.answers.3.text:Opiati
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:912.0
+passage.questions.0.answers.2.text:&quot;čarni&quot;
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:911.0
+passage.questions.0.answers.1.text:Alkohol
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:910
+passage.questions.0.answers.0.text:Charny
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:909
+idx:14

@@ -1,0 +1,6 @@
+choice1:Njeno kolo je sunkovito zavilo.
+choice2:Njeno kolo je pospešilo.
+idx:120
+label:1
+premise:Dekle se je s kolesom spustilo po hribu.
+question:effect

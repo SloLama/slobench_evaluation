@@ -1,0 +1,218 @@
+version:1.1
+passage.text:Lash je prodekan pravne fakultete univerze University of Southern California. Johnson je sodnik na kalifornijskem okrajnem pritožbenem sodišču v drugem okrožju. Lash in Johnson sta sopredsednika kalifornijske Komisije za dostop do pravnega varstva. Polno poročilo je dostopno na (www.calbar.org). V svoji večletni odisejadi po kalifornijskem pravnem sistemu se je Katherine, 35-letna samohranilka s tremi otroki, na vsakem koraku soočila z neuspehom. Potem ko je zapustila nasilnega moža, se je vselila v edino stanovanje, ki si ga je lahko privoščila, in v njem našla neuporabno stranišče, pokvarjeno pečico, podgane in ščurke ter balkon brez ograje, in sicer v četrtem nadstropju. Ni želela plačati najemnine, dokler njen najemodajalec ne dokonča popravil, ki jih ni želel opraviti, vendar pa so ji zato prekinili zdravstveno zavarovanje Medi-Cal, saj ni mogla predložiti potrdila o plačani najemnini. Izgubila je svoje zdravstveno zavarovanje in zavarovanje za otroke, kljub temu da je prediabetična in da so njeni otroci trpeli zaradi posledic podganjih ugrizov. Katherine se je po pomoč obrnila na sodišče. Na prvi obravnavi je sama predstavila svoj primer, vendar je izgubila pravico, da obnovi svoje Medi-Cal zavarovanje, zato ker ni imela pravih dokumentov o svojem najemniškem računu. Ko je na sodišču poskusila vložiti pritožbo zoper svojega najemodajalca, se ji je zdel proces tako zapleten, da se je vdala in šla domov. Po trditvah poročila »Pot do pravice: petletno poročilo o stanju dostopa do pravnega varstva«, ki ga je pripravila kalifornijska Komisija za dostop do pravnega varstva, je Katherine samo ena izmed 4,6 milijona revnih Kalifornijčanov, ki ne morejo nasloviti svojih osnovnih civilnopravnih potreb, ki zaobsegajo tako osnovne stvari, kot so stanovanjske pravice, zdravstvo, izobraževanje, zaposlovanje, varnost in prevoz. Kalifornija trpi za kritičnim pomanjkanjem pravnih storitev za revne, zato je nujno, kot je razvidno iz poročila, da se država poveže z zvezno vlado in z zasebnimi investitorji ter zagotovi vire, ki bodo vsem prebivalcem Kalifornije, ne glede na dohodke, omogočili enakopraven dostop do pravnega sistema. Naš pravni sistem temelji na predpostavki, da obe strani zastopajo odvetniki, ki so varuhi in vodniki skozi zapleten sistem, ki bi drugače mnogim ostal nedostopen. Na žalost pa si ravno najranljivejši člani družbe ne morejo privoščiti pravnih storitev. Kalifornija sicer ima razvejano mrežo organizacij, ki nudijo pravno pomoč in skušajo odgovoriti na potrebe revnih, vendar pa tudi te lahko zagotovijo le enega odvetnika na 10.000 revnih ljudi. Radi govorimo o »pravici za vse«, vendar pa so to le prazne besede, če si ne moreš privoščiti odvetnika. V svojem novem poročilu Komisija za dostop do pravnega varstva obravnava nekaj pomembnih korakov, ki bi vsem prebivalcem Kalifornije omogočili enakopraven dostop do pravnega sistema. 
+passage.questions.9.question:Zakaj je želela vložiti pritožbo zoper svojega najemodajalca?
+passage.questions.9.idx:142.0
+passage.questions.9.answers.4.text:Ker jo je nadlegoval
+passage.questions.9.answers.4.label:0.0
+passage.questions.9.answers.4.idx:819.0
+passage.questions.9.answers.3.text:Izgubila je zdravstveno zavarovanje
+passage.questions.9.answers.3.label:0.0
+passage.questions.9.answers.3.idx:818.0
+passage.questions.9.answers.2.text:Ni imela dovolj hrane
+passage.questions.9.answers.2.label:0.0
+passage.questions.9.answers.2.idx:817.0
+passage.questions.9.answers.1.text:Sosedje so povzročali hrup
+passage.questions.9.answers.1.label:0.0
+passage.questions.9.answers.1.idx:816.0
+passage.questions.9.answers.0.text:Ni želel opraviti popravil
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:815.0
+passage.questions.8.question:Zakaj se je Katherine vdala?
+passage.questions.8.idx:141.0
+passage.questions.8.answers.6.text:Ni imela dovolj denarja
+passage.questions.8.answers.6.label:0.0
+passage.questions.8.answers.6.idx:814.0
+passage.questions.8.answers.5.text:Morala je v službo
+passage.questions.8.answers.5.label:0.0
+passage.questions.8.answers.5.idx:813.0
+passage.questions.8.answers.4.text:Ni imela prevoza
+passage.questions.8.answers.4.label:0.0
+passage.questions.8.answers.4.idx:812.0
+passage.questions.8.answers.3.text:Ni prejela nobene pomoči in nenehno se je soočala z neuspehom
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:811.0
+passage.questions.8.answers.2.text:Postopek se ji je zdel zapleten.
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:810.0
+passage.questions.8.answers.1.text:Bila je utrujena
+passage.questions.8.answers.1.label:0.0
+passage.questions.8.answers.1.idx:809.0
+passage.questions.8.answers.0.text:Postopek je bil zapleten
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:808.0
+passage.questions.7.question:Zakaj je pravni sistem težaven za revne ljudi?
+passage.questions.7.idx:140.0
+passage.questions.7.answers.5.text:Ker je na 10.000 revnih ljudi na voljo samo en odvetnik
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:807.0
+passage.questions.7.answers.4.text:Ne morejo priti do informacij
+passage.questions.7.answers.4.label:0.0
+passage.questions.7.answers.4.idx:806.0
+passage.questions.7.answers.3.text:Ne morejo si privoščiti pravnih storitev
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:805.0
+passage.questions.7.answers.2.text:Nerazumljiv je
+passage.questions.7.answers.2.label:0.0
+passage.questions.7.answers.2.idx:804.0
+passage.questions.7.answers.1.text:Nimajo potrdil o plačani najemnini
+passage.questions.7.answers.1.label:0.0
+passage.questions.7.answers.1.idx:803.0
+passage.questions.7.answers.0.text:Zapleten je
+passage.questions.7.answers.0.label:0.0
+passage.questions.7.answers.0.idx:802.0
+passage.questions.6.question:Zakaj Katherine ni bila uspešna pri tem, ko je sama predstavila svoj primer?
+passage.questions.6.idx:139.0
+passage.questions.6.answers.6.text:Pravni sistem je bil preveč zapleten
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:801.0
+passage.questions.6.answers.5.text:Postopek se ji je zdel tako zapleten, da se je vdala
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:800.0
+passage.questions.6.answers.4.text:Ni imela avta
+passage.questions.6.answers.4.label:0.0
+passage.questions.6.answers.4.idx:799.0
+passage.questions.6.answers.3.text:Ni imela pravih dokumentov
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:798.0
+passage.questions.6.answers.2.text:Ni poznala primera
+passage.questions.6.answers.2.label:0.0
+passage.questions.6.answers.2.idx:797.0
+passage.questions.6.answers.1.text:Ni znala brati
+passage.questions.6.answers.1.label:0.0
+passage.questions.6.answers.1.idx:796.0
+passage.questions.6.answers.0.text:Ni imela denarja
+passage.questions.6.answers.0.label:0.0
+passage.questions.6.answers.0.idx:795.0
+passage.questions.5.question:Zakaj je Katherine sama predstavila primer, namesto da bi jo zastopal kdo drug?
+passage.questions.5.idx:138.0
+passage.questions.5.answers.6.text:Želela je zmagati
+passage.questions.5.answers.6.label:0.0
+passage.questions.5.answers.6.idx:794.0
+passage.questions.5.answers.5.text:Ni si mogla privoščiti zasebnega odvetnika, javnih virov pa je premalo
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:793.0
+passage.questions.5.answers.4.text:Ni si mogla privoščiti
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:792.0
+passage.questions.5.answers.3.text:Rada je imela pravo
+passage.questions.5.answers.3.label:0.0
+passage.questions.5.answers.3.idx:791.0
+passage.questions.5.answers.2.text:Študirala je pravo
+passage.questions.5.answers.2.label:0.0
+passage.questions.5.answers.2.idx:790.0
+passage.questions.5.answers.1.text:Ni si mogla privoščiti odvetnika
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:789.0
+passage.questions.5.answers.0.text:Lahko je pričala zase
+passage.questions.5.answers.0.label:0.0
+passage.questions.5.answers.0.idx:788.0
+passage.questions.4.question:Zaradi katerih popravil oz. težav Katherine ni želela plačati najemnine?
+passage.questions.4.idx:137.0
+passage.questions.4.answers.6.text:Katherine ni želela plačati najemnine, ker se ji je zdelo, da si zasluži nove talne obloge in mlinček za odpadke.
+passage.questions.4.answers.6.label:0.0
+passage.questions.4.answers.6.idx:787.0
+passage.questions.4.answers.5.text:Popravil, ki jih ne želel opraviti najemodajalec
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:786.0
+passage.questions.4.answers.4.text:Neuporabnega stranišča, pokvarjene pečice, podgan in ščurkov in balkona na četrtem nadstropju brez ograje
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:785.0
+passage.questions.4.answers.3.text:Katherine ni želela plačati najemnine zaradi neuporabnega stranišča, pokvarjene pečice, podgan in ščurkov in balkona na četrtem nadstropju brez ograje
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:784.0
+passage.questions.4.answers.2.text:Neuporabnega stranišča, pokvarjene pečice, podgan in ščurkov in balkona na četrtem nadstropju brez ograje
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:783.0
+passage.questions.4.answers.1.text:Podganjih ugrizov
+passage.questions.4.answers.1.label:0.0
+passage.questions.4.answers.1.idx:782.0
+passage.questions.4.answers.0.text:Težav z ogrevanjem stanovanja
+passage.questions.4.answers.0.label:0.0
+passage.questions.4.answers.0.idx:781.0
+passage.questions.3.question:Zakaj je Katherine poiskala pravno pomoč
+passage.questions.3.idx:136.0
+passage.questions.3.answers.6.text:Želela je tožiti najemodajalca
+passage.questions.3.answers.6.label:0.0
+passage.questions.3.answers.6.idx:780.0
+passage.questions.3.answers.5.text:Želela je obnoviti zavarovanje Medi-Cal
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:779.0
+passage.questions.3.answers.4.text:Zato, ker je izgubila zdravstveno zavarovanje
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:778.0
+passage.questions.3.answers.3.text:Storila je zločin
+passage.questions.3.answers.3.label:0.0
+passage.questions.3.answers.3.idx:777.0
+passage.questions.3.answers.2.text:Najemodajalec ji je vzel denar za najemnino
+passage.questions.3.answers.2.label:0.0
+passage.questions.3.answers.2.idx:776.0
+passage.questions.3.answers.1.text:Ni imela dovolj hrane
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:775.0
+passage.questions.3.answers.0.text:Stanovanje je imelo pokvarjeno opremo in zato, da znova dobi zdravstveno zavarovanje Medi-Cal
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:774.0
+passage.questions.2.question:Kakšen položaj imata sopredsednika kalifornijske Komisije za dostop do pravnega varstva?
+passage.questions.2.idx:135.0
+passage.questions.2.answers.6.text:Lash in Johnson sta sopredsednika kalifornijske Komisije za dostop do pravnega varstva
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:773.0
+passage.questions.2.answers.5.text:Sta partnerja v zasebni odvetniški firmi: Lash and Johnson, LLC
+passage.questions.2.answers.5.label:0.0
+passage.questions.2.answers.5.idx:772.0
+passage.questions.2.answers.4.text:Johnson je sodnik na kalifornijskem okrajnem pritožbenem sodišču v drugem okrožju.
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:771.0
+passage.questions.2.answers.3.text:Lash je prodekan pravne fakultete univerze University of Southern California, Johnson pa je sodnik na kalifornijskem okrajnem pritožbenem sodišču v drugem okrožju.
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:770.0
+passage.questions.2.answers.2.text:Lash je prodekan pravne fakultete univerze University of Southern California
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:769.0
+passage.questions.2.answers.1.text:Sta policista
+passage.questions.2.answers.1.label:0.0
+passage.questions.2.answers.1.idx:768.0
+passage.questions.2.answers.0.text:Sta solastnika odvetniške firme
+passage.questions.2.answers.0.label:0.0
+passage.questions.2.answers.0.idx:767.0
+passage.questions.1.question:Zakaj je Katherine sama predstavila primer in ni poiskala pravnih storitev?
+passage.questions.1.idx:134.0
+passage.questions.1.answers.6.text:Čutila je, da je sama šla skozi težave in je zato najbolje usposobljena, da jih predstavi sodišču
+passage.questions.1.answers.6.label:0.0
+passage.questions.1.answers.6.idx:766.0
+passage.questions.1.answers.5.text:Ni jih želela plačati
+passage.questions.1.answers.5.label:0.0
+passage.questions.1.answers.5.idx:765.0
+passage.questions.1.answers.4.text:Ni si jih mogla privoščiti
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:764.0
+passage.questions.1.answers.3.text:Ni si mogla privoščiti svojega odvetnika in ni dovolj odvetnikov, ki nudijo pravno pomoč, da bi lahko pomagali vsem
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:763.0
+passage.questions.1.answers.2.text:Ravno najranljivejši člani naše družbe si ne morejo privoščiti pravnih storitev.
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:762.0
+passage.questions.1.answers.1.text:Bila je zelo pametna
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:761.0
+passage.questions.1.answers.0.text:Ni si mogla privoščiti odvetnika, pravni sistem pa je preobremenjen, da bi ji lahko pomagal
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:760.0
+passage.questions.0.question:Zakaj Katherine ni imela pravih dokumentov o najemnini?
+passage.questions.0.idx:133
+passage.questions.0.answers.4.text:Zato, ker ni znala voditi papirjev
+passage.questions.0.answers.4.label:0.0
+passage.questions.0.answers.4.idx:759.0
+passage.questions.0.answers.3.text:Ker se je preselila
+passage.questions.0.answers.3.label:0.0
+passage.questions.0.answers.3.idx:758.0
+passage.questions.0.answers.2.text:Zato, ker jih najemodajalec ni dal
+passage.questions.0.answers.2.label:0.0
+passage.questions.0.answers.2.idx:757.0
+passage.questions.0.answers.1.text:Ker jih je izgubila
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:756
+passage.questions.0.answers.0.text:Zato, ker najemodajalcu ni plačala najemnine, ker ni želel opraviti popravil
+passage.questions.0.answers.0.label:1
+passage.questions.0.answers.0.idx:755
+idx:12

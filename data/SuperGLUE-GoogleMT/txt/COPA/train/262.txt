@@ -1,0 +1,6 @@
+choice1:Napadalec je moškega udaril v glavo.
+choice2:Napadalec je moškemu vzel denarnico.
+idx:262
+label:0
+premise:Moški je padel v nezavest.
+question:cause

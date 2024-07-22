@@ -1,0 +1,6 @@
+choice1:Odgovarjal je učitelju.
+choice2:Učitelj je ocenil njegovo domačo nalogo.
+idx:117
+label:0
+premise:Učenec je moral ostati v šoli po pouku.
+question:cause

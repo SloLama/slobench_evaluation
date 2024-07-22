@@ -1,0 +1,530 @@
+version:1.1
+passage.text:Svoje privržence večkrat poziva, naj sprejmejo mučeništvo, saj &quot;Stene zatiranja in poniževanja ni mogoče porušiti, razen v dežju krogel.&quot; Za tiste, ki hrepenijo po izgubljenem občutku reda v starejšem, mirnejšem svetu, ponuja svoj &quot;kalifat&quot; kot namišljeno alternativo današnji negotovosti. Za druge ponuja poenostavljene zarote, da razloži njihov svet. Bin Laden se močno zanaša tudi na egiptovskega pisatelja Sayyida Qutba. Član Muslimanske bratovščine, usmrčen leta 1966 zaradi obtožbe, da je poskušal zrušiti vlado, je Qutb mešal islamsko štipendijo z zelo površnim poznavanjem zahodne zgodovine in misli. Egiptovska vlada ga je konec 40. let poslala na študij v ZDA, Qutb pa se je vrnil z gnusom zahodne družbe in zgodovine. Zahodne dosežke je zavrnil kot povsem materialne in trdil, da zahodna družba nima &quot;ničesar, kar bi zadovoljilo lastno vest in upravičilo njen obstoj.&quot; Iz Qutbovih spisov izhajajo tri osnovne teme. Najprej je trdil, da je svet obkrožen z barbarstvom, razuzdanostjo in neverjem (pogoj, ki ga je imenoval jahiliyya, verski izraz v obdobju nevednosti pred razodetji preroku Mohamedu). Qutb je trdil, da lahko ljudje izbirajo le med islamom in jahilijo. Drugič, opozoril je, da je več ljudi, tudi muslimanov, bolj kot njegov pogled na islam privlačil džahilijo in njeno materialno udobje; jahiliyya bi torej lahko zmagal nad islamom. Tretjič, v tem, kar je Qutb zasnoval kot boj med Bogom in Satanom, ni nobene vmesne poti. Vsi muslimani - kot jih je opredelil - morajo zato v tem boju vzeti orožje. Vsak musliman, ki zavrača njegove ideje, je samo še en nevernik, vreden uničenja. Bin Laden se strinja s Qutbovim ostrim stališčem in dovoljuje njemu in njegovim privržencem, da celo izzvani množični umor racionalizirajo kot pravično obrambo oborožene vere. Številni Američani so se spraševali: &quot;Zakaj nas &#39;oni&#39; sovražijo?&quot; Nekateri se tudi vprašajo: &quot;Kaj lahko storimo, da ustavimo te napade?&quot; Bin Laden in Al Kaida sta odgovorila na obe vprašanji.
+passage.questions.9.question:Kdo je opozoril, da je več ljudi, tudi muslimanov, bolj kot njegov pogled na islam privlačil džahilijo in njeno materialno udobje
+passage.questions.9.idx:2277.0
+passage.questions.9.answers.6.text:Kvota
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:11974.0
+passage.questions.9.answers.5.text:Bin Laden
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:11973.0
+passage.questions.9.answers.4.text:Egipčanski pisatelj
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:11972.0
+passage.questions.9.answers.3.text:Jahiliyya
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:11971.0
+passage.questions.9.answers.2.text:Sayed Qtbo
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:11970.0
+passage.questions.9.answers.1.text:Sayyid Qutb
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:11969.0
+passage.questions.9.answers.0.text:Qutb
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:11968.0
+passage.questions.8.question:Kdo poziva svoje privržence, naj sprejmejo mučeništvo, saj &quot;Zidov zatiranja in poniževanja ni mogoče porušiti, razen v dežju krogel.&quot;
+passage.questions.8.idx:2276.0
+passage.questions.8.answers.4.text:Bin Laden
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:11967.0
+passage.questions.8.answers.3.text:Alah
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:11966.0
+passage.questions.8.answers.2.text:Biblija
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:11965.0
+passage.questions.8.answers.1.text:Celifat
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:11964.0
+passage.questions.8.answers.0.text:Qutb
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:11963.0
+passage.questions.7.question:Kaj Sayyid Qutb ponuja tistim, ki zagovarjajo njegova pisanja?
+passage.questions.7.idx:2275.0
+passage.questions.7.answers.4.text:Mučeništvo, njegov &quot;kalifat&quot; in poenostavljene zarote za razlago njihovega sveta
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:11962.0
+passage.questions.7.answers.3.text:Barbarstvo, razuzdanost in neverovanje
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:11961.0
+passage.questions.7.answers.2.text:&quot;Vsi muslimani - kot jih je opredelil - morajo zato v tem boju vzeti orožje.&quot;
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:11960.0
+passage.questions.7.answers.1.text:Masovni umor racionalizirajo s svojo vero
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:11959.0
+passage.questions.7.answers.0.text:Ponuja jim prijazno in mirno razlago islama
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:11958.0
+passage.questions.6.question:Katera dva vidika Bin Ladnovega sporočila privlačita privržence?
+passage.questions.6.idx:2274.0
+passage.questions.6.answers.9.text:Poenostavljene zarote za razlago njihovega sveta
+passage.questions.6.answers.9.label:1.0
+passage.questions.6.answers.9.idx:11957.0
+passage.questions.6.answers.8.text:Kalifat ponuja kot rešitev za tiste, ki hrepenijo po bolj mirnem svetu
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:11956.0
+passage.questions.6.answers.7.text:Uporablja teorije zarote
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:11955.0
+passage.questions.6.answers.6.text:Za svoje privržence ponuja denar
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:11954.0
+passage.questions.6.answers.5.text:Obljublja sveto božjo deželo
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:11953.0
+passage.questions.6.answers.4.text:Tistim, ki hrepenijo po izgubljenem občutku reda v starejšem, mirnejšem svetu, ponuja svoj &quot;kalifat&quot; kot namišljeno alternativo današnji negotovosti, drugim pa poenostavljene zarote, s katerimi razloži njihov svet
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:11952.0
+passage.questions.6.answers.3.text:Zamišljena alternativa današnji negotovosti
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:11951.0
+passage.questions.6.answers.2.text:Navidezna resničnost
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:11950.0
+passage.questions.6.answers.1.text:Obljublja uspeh in vzpon svojega kalifata
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:11949.0
+passage.questions.6.answers.0.text:Smrt prestopnikom
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:11948.0
+passage.questions.5.question:Kdo je trdil, da je svet obkrožen z barbarstvom, razuzdanostjo in neverjem
+passage.questions.5.idx:2273.0
+passage.questions.5.answers.6.text:Kvota
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:11947.0
+passage.questions.5.answers.5.text:Bin Laden
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:11946.0
+passage.questions.5.answers.4.text:Egipčanski pisatelj
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:11945.0
+passage.questions.5.answers.3.text:Jahiliyya
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:11944.0
+passage.questions.5.answers.2.text:Sayed Qtbo
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:11943.0
+passage.questions.5.answers.1.text:Sayyid Qutb
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:11942.0
+passage.questions.5.answers.0.text:Qutb
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:11941.0
+passage.questions.4.question:Kdo je rekel, da morajo vsi muslimani v tem boju vzeti orožje
+passage.questions.4.idx:2272.0
+passage.questions.4.answers.8.text:Kvota
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:11940.0
+passage.questions.4.answers.7.text:Bin Laden
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:11939.0
+passage.questions.4.answers.6.text:Egipčanski pisatelj
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:11938.0
+passage.questions.4.answers.5.text:Muslimani
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:11937.0
+passage.questions.4.answers.4.text:Jahiliyya
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:11936.0
+passage.questions.4.answers.3.text:Sayed Qtbo
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:11935.0
+passage.questions.4.answers.2.text:Sayyid Qutb
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:11934.0
+passage.questions.4.answers.1.text:Zahodnjaki
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11933.0
+passage.questions.4.answers.0.text:Qutb
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:11932.0
+passage.questions.3.question:Katere verske vere je sledil Sayyid Qutb?
+passage.questions.3.idx:2271.0
+passage.questions.3.answers.6.text:Zahodna ideologija
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:11931.0
+passage.questions.3.answers.5.text:Budizem
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:11930.0
+passage.questions.3.answers.4.text:Islamsko
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:11929.0
+passage.questions.3.answers.3.text:Musliman
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:11928.0
+passage.questions.3.answers.2.text:Egipčanski
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:11927.0
+passage.questions.3.answers.1.text:Islam
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:11926.0
+passage.questions.3.answers.0.text:Islamski nauki
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:11925.0
+passage.questions.21.question:Čigava štipendija zahodne dosežke zavrača kot povsem materialne?
+passage.questions.21.idx:2289.0
+passage.questions.21.answers.8.text:Kvota
+passage.questions.21.answers.8.label:0,0
+passage.questions.21.answers.8.idx:12060.0
+passage.questions.21.answers.7.text:Bin Laden
+passage.questions.21.answers.7.label:0,0
+passage.questions.21.answers.7.idx:12059.0
+passage.questions.21.answers.6.text:Egipčanski pisatelj
+passage.questions.21.answers.6.label:1.0
+passage.questions.21.answers.6.idx:12058.0
+passage.questions.21.answers.5.text:Muslimani
+passage.questions.21.answers.5.label:0,0
+passage.questions.21.answers.5.idx:12057.0
+passage.questions.21.answers.4.text:Jahiliyya
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:12056.0
+passage.questions.21.answers.3.text:Sayed Qtbo
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:12055.0
+passage.questions.21.answers.2.text:Sayyid Qutb
+passage.questions.21.answers.2.label:1.0
+passage.questions.21.answers.2.idx:12054.0
+passage.questions.21.answers.1.text:Zahodnjaki
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:12053.0
+passage.questions.21.answers.0.text:Qutb
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:12052.0
+passage.questions.20.question:Kdo vpraša, kaj lahko storimo, da zaustavimo te napade
+passage.questions.20.idx:2288.0
+passage.questions.20.answers.9.text:Egipčanski pisatelj
+passage.questions.20.answers.9.label:0,0
+passage.questions.20.answers.9.idx:12050.0
+passage.questions.20.answers.8.text:Muslimani
+passage.questions.20.answers.8.label:0,0
+passage.questions.20.answers.8.idx:12049.0
+passage.questions.20.answers.7.text:Armenci
+passage.questions.20.answers.7.label:0,0
+passage.questions.20.answers.7.idx:12048.0
+passage.questions.20.answers.6.text:Američani
+passage.questions.20.answers.6.label:1.0
+passage.questions.20.answers.6.idx:12047.0
+passage.questions.20.answers.5.text:Jahiliyya
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:12046.0
+passage.questions.20.answers.4.text:Kongresniki
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:12045.0
+passage.questions.20.answers.3.text:Sayyid Qutb
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:12044.0
+passage.questions.20.answers.2.text:Ameriški predsednik
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:12043.0
+passage.questions.20.answers.10.text:Bin Laden
+passage.questions.20.answers.10.label:0,0
+passage.questions.20.answers.10.idx:12051.0
+passage.questions.20.answers.1.text:Zahodnjaki
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:12042.0
+passage.questions.20.answers.0.text:Nekateri Američani
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:12041.0
+passage.questions.2.question:Kako Bin Laden in Qutb racionalizirata množični poboj in sovraštvo Američanov in nevernikov?
+passage.questions.2.idx:2270.0
+passage.questions.2.answers.6.text:Na izbiro sta samo dve religiji, islam in jahilliyya
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:11924.0
+passage.questions.2.answers.5.text:Vsi Američani so neumni
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:11923.0
+passage.questions.2.answers.4.text:Tako je rekel prerok Mohammed
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11922.0
+passage.questions.2.answers.3.text:Verjamejo, da se morajo vsi muslimani boriti proti nevernikom
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:11921.0
+passage.questions.2.answers.2.text:Vsi muslimani se morajo v pravični obrambi oborožene vere zavzeti za orožje, ki je vredno uničenja
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:11920.0
+passage.questions.2.answers.1.text:Tisti, ki ne delijo njegovih idej, so vredni uničenja
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:11919.0
+passage.questions.2.answers.0.text:Američani jim niso bili všeč
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:11918.0
+passage.questions.19.question:Kdo poziva svoje privržence, naj sprejmejo mučeništvo, saj &quot;Stene zatiranja in poniževanja ni mogoče porušiti, razen v dežju krogel.&quot;?
+passage.questions.19.idx:2287.0
+passage.questions.19.answers.6.text:Bin Laden
+passage.questions.19.answers.6.label:1.0
+passage.questions.19.answers.6.idx:12040.0
+passage.questions.19.answers.5.text:Egipčanski pisatelj
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:12039.0
+passage.questions.19.answers.4.text:Osama Bin Laden
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:12038.0
+passage.questions.19.answers.3.text:Osama
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:12037.0
+passage.questions.19.answers.2.text:Jahiliyya
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:12036.0
+passage.questions.19.answers.1.text:On
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:12035.0
+passage.questions.19.answers.0.text:Sayyid Qutb
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:12034.0
+passage.questions.18.question:Približno koliko časa je bil po študiju v ZDA usmrčen Sayyid Qutb?
+passage.questions.18.idx:2286.0
+passage.questions.18.answers.5.text:20 let
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:12033.0
+passage.questions.18.answers.4.text:Naslednji dan
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:12032.0
+passage.questions.18.answers.3.text:30 let
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:12031.0
+passage.questions.18.answers.2.text:26 let
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:12030.0
+passage.questions.18.answers.1.text:15 - 20 let
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:12029.0
+passage.questions.18.answers.0.text:16 let
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:12028.0
+passage.questions.17.question:V katerem boju se morajo po besedah Qutba vključiti vsi muslimani?
+passage.questions.17.idx:2285.0
+passage.questions.17.answers.5.text:Boj proti ateizmu
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:12027.0
+passage.questions.17.answers.4.text:Boj med Bogom in Satanom
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:12026.0
+passage.questions.17.answers.3.text:Boj islama proti jahiliji
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:12025.0
+passage.questions.17.answers.2.text:Boj med Bogom in Satanom
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:12024.0
+passage.questions.17.answers.1.text:Boj džahilije proti islamu
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:12023.0
+passage.questions.17.answers.0.text:Boj proti Ameriki
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:12022.0
+passage.questions.16.question:Kako je bilo ime in pomen pisatelja, na katerega se je Bin Laden močno zanašal in kako je pisatelj dosegel ta pogled?
+passage.questions.16.idx:2284.0
+passage.questions.16.answers.5.text:Sayyid Qutb, bil je član muslimanske bratovščine, ki je obiskal zahodno družbo in jo grozil, potem ko ga je egiptovska vlada konec 40-ih poslala na študij v ZDA
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:12021.0
+passage.questions.16.answers.4.text:Pisatelj je bil Sayyid Qutb, ki je to stališče dosegel iz Korana
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:12020.0
+passage.questions.16.answers.3.text:Al Queda
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:12019.0
+passage.questions.16.answers.2.text:Sayyid Qutb
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:12018.0
+passage.questions.16.answers.1.text:Prerok Mohamed
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:12017.0
+passage.questions.16.answers.0.text:Sayyid Qutb je bil pisatelj, na katerega se je zanašal Bin Laden, in ta pogled je dosegel s študijem v ZDA
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:12016.0
+passage.questions.15.question:Kdo je opozoril, da bi lahko jahiliyya torej zmagal nad islamom?
+passage.questions.15.idx:2283.0
+passage.questions.15.answers.5.text:Bin Laden
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:12015.0
+passage.questions.15.answers.4.text:Egipčanski pisatelj
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:12014.0
+passage.questions.15.answers.3.text:Osama Bin Laden
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:12013.0
+passage.questions.15.answers.2.text:Jahiliyya
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:12012.0
+passage.questions.15.answers.1.text:Sayyid Qutb
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:12011.0
+passage.questions.15.answers.0.text:Qutb
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:12010.0
+passage.questions.14.question:Katere so osnovne teme Qutbovih spisov?
+passage.questions.14.idx:2282.0
+passage.questions.14.answers.8.text:Treba je vzpostaviti mir med večkratniki in Zahodom
+passage.questions.14.answers.8.label:0,0
+passage.questions.14.answers.8.idx:12009.0
+passage.questions.14.answers.7.text:1. Svet je poln požrešnosti. 2. Jahiliyya je izraz za požrešnost. 3. Muslimani se morajo pridružiti njegovi stvari ali umreti
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:12008.0
+passage.questions.14.answers.6.text:1. Svet je obdan z džahilijo; Ljudje lahko izbirajo le med islamom in džahilijo. 2. Džahilijo privlači več ljudi kot islam, zato bi jahilija lahko zmagala nad islamom. 3. V boju med Bogom in Satanom ni sredine
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:12007.0
+passage.questions.14.answers.5.text:Vzhodna kultura je polna barbarstva
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:12006.0
+passage.questions.14.answers.4.text:Svet je poln jahilije
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:12005.0
+passage.questions.14.answers.3.text:Je sredina med džahilijo in islamom
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:12004.0
+passage.questions.14.answers.2.text:Svet je bil obkrožen z barbarstvom, razuzdanostjo in neverjem, da lahko ljudje izbirajo le med islamom in jahilijo, v tem, kar je Qutb zasnoval kot boj med Bogom in Satanom, pa ne obstaja nobena srednja pot.
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:12003.0
+passage.questions.14.answers.1.text:Ljudje moramo izbrati enega med islamom in nevero
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:12002.0
+passage.questions.14.answers.0.text:Med islamom in Jahillijo ni vmesne poti
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:12001.0
+passage.questions.13.question:Kako je polno ime člana Muslimanske bratovščine, ki je bil usmrčen leta 1966 zaradi obtožbe, da je poskušal zrušiti vlado?
+passage.questions.13.idx:2281.0
+passage.questions.13.answers.6.text:Bin Laden
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:12000.0
+passage.questions.13.answers.5.text:Egipčanski pisatelj
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:11999.0
+passage.questions.13.answers.4.text:Jahiliyya
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:11998.0
+passage.questions.13.answers.3.text:Egiptovski pisatelj Sayyid Qutb
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:11997.0
+passage.questions.13.answers.2.text:Sayyid Qutb
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:11996.0
+passage.questions.13.answers.1.text:Sayyid
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:11995.0
+passage.questions.13.answers.0.text:Qutb
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:11994.0
+passage.questions.12.question:Kako je Sayyid Qutb gledal na zahodno družbo?
+passage.questions.12.idx:2280.0
+passage.questions.12.answers.4.text:Na to je gledal kot na material
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:11993.0
+passage.questions.12.answers.3.text:Zahodne dosežke je zavrnil kot povsem materialne in trdil, da zahodna družba nima &quot;ničesar, kar bi zadovoljilo lastno vest in upravičilo njen obstoj.&quot;
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:11992.0
+passage.questions.12.answers.2.text:Grozil se je zahodne družbe
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:11991.0
+passage.questions.12.answers.1.text:Menil je, da bi morali vsi umreti
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:11990.0
+passage.questions.12.answers.0.text:Zanje se je zdel vreden uničenja
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:11989.0
+passage.questions.11.question:Katera vprašanja so se spraševala številna Američana?
+passage.questions.11.idx:2279.0
+passage.questions.11.answers.6.text:&quot;Zakaj nas sovražijo?&quot; in &quot;Kaj lahko storimo, da ustavimo te napade?&quot;
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:11988.0
+passage.questions.11.answers.5.text:Dva
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:11987.0
+passage.questions.11.answers.4.text:Ali se lahko vlada strmoglavi?
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:11986.0
+passage.questions.11.answers.3.text:Kaj lahko storimo, da ustavimo te napade?
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:11985.0
+passage.questions.11.answers.2.text:Zakaj nas sovražijo?
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:11984.0
+passage.questions.11.answers.1.text:Ali so množični poboji prav?
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:11983.0
+passage.questions.11.answers.0.text:Ena
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:11982.0
+passage.questions.10.question:Kdo je dal odgovore na vprašanja Američanov?
+passage.questions.10.idx:2278.0
+passage.questions.10.answers.6.text:Bin Laden
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:11981.0
+passage.questions.10.answers.5.text:Egipčanski pisatelj
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:11980.0
+passage.questions.10.answers.4.text:Al Kaida
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:11979.0
+passage.questions.10.answers.3.text:Jahiliyya
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:11978.0
+passage.questions.10.answers.2.text:Al Queda
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:11977.0
+passage.questions.10.answers.1.text:Bin Laden in Al Kaida
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:11976.0
+passage.questions.10.answers.0.text:Sayyid Qutb
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:11975.0
+passage.questions.1.question:Na avtorjeva vprašanja, na katera vprašanja Bin Laden in Al Quada odgovarjata Američanom?
+passage.questions.1.idx:2269.0
+passage.questions.1.answers.9.text:Zakaj se ne bi razumeli?
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:11917.0
+passage.questions.1.answers.8.text:&quot;Zakaj nas &#39;oni&#39; sovražijo?&quot; in &quot;Kaj lahko storimo, da ustavimo te napade?&quot;
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:11916.0
+passage.questions.1.answers.7.text:Zakaj nas sovražijo?
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:11915.0
+passage.questions.1.answers.6.text:&quot;Zakaj nas &#39;oni&#39; sovražijo?&quot;
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:11914.0
+passage.questions.1.answers.5.text:Kako jih lahko izničimo?
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:11913.0
+passage.questions.1.answers.4.text:V čem je smisel?
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11912.0
+passage.questions.1.answers.3.text:&quot;Kaj lahko storimo, da ustavimo te napade?&quot;
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:11911.0
+passage.questions.1.answers.2.text:Kako lahko začnemo pogovor?
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11910.0
+passage.questions.1.answers.1.text:Zakaj nas ne pustijo pri miru?
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11909.0
+passage.questions.1.answers.0.text:Zakaj so tako hudobni?
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:11908.0
+passage.questions.0.question:Kdo ponuja poenostavljene zarote, da razloži njihov svet
+passage.questions.0.idx:2268
+passage.questions.0.answers.7.text:Bin obremenjen
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:11907.0
+passage.questions.0.answers.6.text:Bin Laden
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:11906.0
+passage.questions.0.answers.5.text:Egipčanski pisatelj
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:11905.0
+passage.questions.0.answers.4.text:Osama Bin Laden
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:11904.0
+passage.questions.0.answers.3.text:Al Kaida
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:11903.0
+passage.questions.0.answers.2.text:Jahiliyya
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11902.0
+passage.questions.0.answers.1.text:Sayyid Qutb
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11901
+passage.questions.0.answers.0.text:Qutb
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:11900
+idx:204

@@ -1,0 +1,6 @@
+choice1:Sponka je padla z magneta.
+choice2:Sponka se je držala magneta.
+idx:356
+label:1
+premise:Magnet je privlačil sponko.
+question:effect

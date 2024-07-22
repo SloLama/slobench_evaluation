@@ -1,0 +1,6 @@
+choice1:Otroke je poslala v dnevno varstvo.
+choice2:Odrekla se je skrbništvu nad otroci.
+idx:380
+label:0
+premise:Mama je potrebovala pomoč pri varstvu otrok.
+question:effect

@@ -1,0 +1,133 @@
+version:1.1
+passage.text:Nasilna arena sodnih sporov zaradi nasilja v družini je tukaj postala nekoliko bolj volatilna, zdaj ko se je sodnik odločil, da bo dve ženski zaradi nespoštovanja sodišča zaradi vrnitve k moškim, ki jim je bilo ukazano, naj se jim izogibajo. &quot;Ne morete imeti v obe smeri,&quot; je dejala sodnica Megan Lake Thornton z okrožnega sodišča Fayette, ki je nedavno dvema ženskama izrekla globo v višini 100 in 200 ameriških dolarjev, ker sta prejeli zaščitne odredbe, s katerimi so partnerjem prepovedali stik z njimi, nato pa popustili in stopili v stik z moškimi. Sodnik Thornton je razsodil, da je odredba medsebojno zavezujoča, in jih moške navedla za zaničevanje. &quot;Kar zmeša me, ko se ljudje preprosto odločijo, da bodo storili, kar hočejo,&quot; je dejal sodnik Thornton, ki ima izkušnje v debelem poročilu o nasilju v družini, ki letno izda približno 30.000 nujnih zaščitnih odredb. Uradniki v Kentuckyju pravijo, da je v državi virtualna epidemija nasilnih odnosov. Sodba sodnika Thorntona je vznemirila zagovornike zlorabljenih žensk, ki se nameravajo nanjo pritožiti. Zagovorniki menijo, da ugotovitev presega obstoječo zakonodajo in je nerealna, ker se nekateri obnovljeni stiki pogosto izkažejo za neizogibne v primerih zlorabe družine, ki vključujejo ekonomsko in družinsko odvisnost ter druge zaplete v vsakdanjem življenju. Državni urad za nasilje v družini se je jasno strinjal in opozoril, da bi lahko sodba zlorabljene ženske oklevala, da bi svojo težavo postavila pred sodišča, ker se bojijo, da bodo kaznovane zaradi svojih težav. &quot;V resnici je enostavno reči, da nikoli ne smejo imeti stikov,&quot; je dejala Sherry Currens, izvršna direktorica združenja za nasilje v družini Kentucky, skupine za zagovorništvo in pravno zaščito. &quot;Govorimo pa o ljudeh v dolgotrajnih odnosih. Morda imajo skupne otroke. Precej težko je reči:&quot; Nikoli več ne govori. &quot; Ljudje imajo finančne težave. Mogoče imajo radi partnerja. To ni lahko. &quot; Toda sodnik Thornton je na sodišču izjavil: &quot;Ko so ti ukazi sprejeti, ne storite karkoli, kar želite, in jih ignorirate.&quot; Sodba je osupnila Cindro Walker, odvetnico obeh žensk, ki je zaposlena v pravni službi Central Kentucky, ki zastopa številne tisoče ubogih žensk, ujetih v nasilne odnose. &quot;Že več kot pet let sem na sodišču praktično vsak dan zaradi teh primerov zlorabe,&quot; je dejala gospa Walker, &quot;in še nikoli prej nisem imela žrtve, ki ji grozi zaničevanje.&quot;
+passage.questions.4.question:Kateri sta dva razloga, ki jih Sherry Currens daje ljudem, ki kršijo zaščitne odredbe?
+passage.questions.4.idx:1351.0
+passage.questions.4.answers.9.text:Otroci
+passage.questions.4.answers.9.label:1.0
+passage.questions.4.answers.9.idx:6996.0
+passage.questions.4.answers.8.text:Neumnost, seks
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:6995.0
+passage.questions.4.answers.7.text:Finance
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:6994.0
+passage.questions.4.answers.6.text:Zloraba
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:6993.0
+passage.questions.4.answers.5.text:Sodišče
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:6992.0
+passage.questions.4.answers.4.text:Otroci skupni
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:6991.0
+passage.questions.4.answers.3.text:Gospodarska in družinska odvisnost
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:6990.0
+passage.questions.4.answers.2.text:Finančne težave
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:6989.0
+passage.questions.4.answers.10.text:Čas
+passage.questions.4.answers.10.label:0,0
+passage.questions.4.answers.10.idx:6997.0
+passage.questions.4.answers.1.text:Šola
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:6988.0
+passage.questions.4.answers.0.text:Morda imajo skupne otroke in imajo radi partnerja
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:6987.0
+passage.questions.3.question:Kakšno kazen je sodnica Megan Lake Thornton izrekla strankam Cindre Walker?
+passage.questions.3.idx:1350.0
+passage.questions.3.answers.6.text:Oglobil jih je
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:6986.0
+passage.questions.3.answers.5.text:Navedli so jih zaradi zaničevanja
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:6985.0
+passage.questions.3.answers.4.text:Nepoštovanje sodišča
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:6984.0
+passage.questions.3.answers.3.text:Zapor
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:6983.0
+passage.questions.3.answers.2.text:Nepoštovanje sodišča in globa v višini 100 in 200 USD
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:6982.0
+passage.questions.3.answers.1.text:Da nikoli več ne spregovori
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6981.0
+passage.questions.3.answers.0.text:Zaščitni red
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:6980.0
+passage.questions.2.question:Na katero sodbo sodnika Thorntona se zavzemajo žene, ki jih tepejo in se nameravajo pritožiti?
+passage.questions.2.idx:1349.0
+passage.questions.2.answers.6.text:Sodba, s katero se dve ženski spoštujeta zaradi vrnitve k moškim, ki jim je bilo ukazano, da se jih držijo stran
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:6979.0
+passage.questions.2.answers.5.text:Cindra Walke
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:6978.0
+passage.questions.2.answers.4.text:Sodnik Thorton
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:6977.0
+passage.questions.2.answers.3.text:Da bi dva moška spoštovala sodišče, ker sta se vrnila k ženskam, ki jim je bilo ukazano, da se jih držijo stran
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6976.0
+passage.questions.2.answers.2.text:Da nikoli več ne spregovori
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:6975.0
+passage.questions.2.answers.1.text:Da so ta naročila medsebojno zavezujoča
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:6974.0
+passage.questions.2.answers.0.text:Da bi dve ženski spoštovali sodišče, ker sta se vrnili k moškim, ki jim je bilo ukazano, da se jih držijo stran
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:6973.0
+passage.questions.1.question:Kaj je sodnico Megan Lake Thornton spodbudilo k izjavi: &quot;Ne morete imeti v obe smeri.&quot;
+passage.questions.1.idx:1348.0
+passage.questions.1.answers.6.text:Dve ženski sta bili kaznovani
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:6972.0
+passage.questions.1.answers.5.text:Ženske so zahtevale omejitev, nato pa moške kontaktirale, potem ko so ignorirale ukaz
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:6971.0
+passage.questions.1.answers.4.text:Moški, ki so stopili v stik z njimi
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:6970.0
+passage.questions.1.answers.3.text:Dve ženski, ki sta se borili na sodišču
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6969.0
+passage.questions.1.answers.2.text:Za vrnitev k moškim, ki jim je bilo ukazano, naj se jih ne nahajajo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:6968.0
+passage.questions.1.answers.1.text:Pridobivanje zaščitnih odredb, ki partnerjem prepovedujejo stik z njimi, nato popuščanje in kontaktiranje moških
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:6967.0
+passage.questions.1.answers.0.text:Dve ženski sta se vrnili k moškim, ki jim je bilo ukazano, naj se jih ne nahajajo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:6966.0
+passage.questions.0.question:Za katero okrožje in zvezno državo dela sodnica Megan Lake Thornton?
+passage.questions.0.idx:1347
+passage.questions.0.answers.7.text:Lake Thorton
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:6965.0
+passage.questions.0.answers.6.text:Okrožno sodišče okrožja Fayette
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:6964.0
+passage.questions.0.answers.5.text:Okrožje Thorton v Teksasu
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:6963.0
+passage.questions.0.answers.4.text:Kentucky
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:6962.0
+passage.questions.0.answers.3.text:Okrožno okrožno sodišče Gains
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:6961.0
+passage.questions.0.answers.2.text:Okrožje Fayette, Kentucky
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:6960.0
+passage.questions.0.answers.1.text:Walker
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:6959
+passage.questions.0.answers.0.text:Okrožje Fayette
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:6958
+idx:114

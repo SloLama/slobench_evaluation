@@ -1,0 +1,84 @@
+version:1.1
+passage.text:Aleksander si je zaslužil epitet &quot;Veliki&quot; zaradi neprimerljivega uspeha vojaškega poveljnika. Nikoli ni izgubil bitke, kljub temu, da je bil običajno manjši. To je bilo posledica uporabe terena, taktike falange in konjenice, drzne strategije in močne zvestobe njegovih čet. Makedonsko falango, oboroženo s sariso, dolgo 6 metrov sulico, je Filip II razvil in izpopolnil s strogim treningom, Aleksander pa je njeno hitrost in okretnost v veliki meri uporabil proti večjim, a bolj raznolikim perzijskim silam. Aleksander je prav tako prepoznal potencial neenotnosti med svojo raznoliko vojsko, ki je uporabljala različne jezike in orožje. To je premagal z osebnim sodelovanjem v bitki na način makedonskega kralja. V svoji prvi bitki v Aziji pri Granicu je Aleksander uporabil le majhen del svojih sil, morda 13.000 pehote s 5.000 konjeniki, proti veliko večji perzijski sili 40.000. Aleksander je postavil falango v sredino, konjenico in lokostrelce na krilih, tako da se je njegova črta ujemala z dolžino perzijske konjeniške črte, približno 3 km (1,86 milje). Nasprotno pa je bila perzijska pehota nameščena za svojo konjenico. To je zagotovilo, da Aleksander ne bo obkrožen, medtem ko je imela njegova falanga, oborožena z dolgimi ščukami, precejšnjo prednost pred perzijskimi jamarji in kopji. Makedonske izgube so bile zanemarljive v primerjavi s perzijskimi. Pri Issusu leta 333 pr. N. Št., Ko se je prvič soočil z Dariusom, je uporabil isto napotitev in spet potisnila osrednjo falango. Aleksander je osebno vodil naboj v središču in preusmeril nasprotno vojsko. Ob odločilnem srečanju z Dariusom pri Gaugameli je Darius svoje vozove opremil s kosami na kolesih, da je razbil falango in svojo konjenico opremil s ščukami. Aleksander je uredil dvojno falango, pri čemer je središče napredovalo pod kotom, ločilo se je, ko so se vozovi podrli, in nato reformiralo. Napredovanje je bilo uspešno in je zrušilo središče Dariusa, zaradi česar je slednji znova pobegnil. Ko se je soočil z nasprotniki, ki so uporabljali neznane borbene tehnike, na primer v Srednji Aziji in Indiji, je Aleksander prilagodil svoje sile slogu nasprotnikov. Tako je v Bactriji in Sogdiani Aleksander uspešno uporabil metače kopja in lokostrelce, da bi preprečil premikanje ob strani, medtem ko je v sredini masiral svojo konjenico.
+passage.questions.5.question:Zakaj je Aleksander v prvi bitki v Aziji uporabil le majhen del svojih sil?
+passage.questions.5.idx:502.0
+passage.questions.5.answers.2.text:Število perzijskih sil je bilo majhno
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2588.0
+passage.questions.5.answers.1.text:Tako, da se je njegova črta ujemala z dolžino perzijske konjeniške črte in ne bi bila obdana
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2587.0
+passage.questions.5.answers.0.text:Aleksander je postavil falango v sredino, konjenico in lokostrelce na krilih, tako da se je njegova črta ujemala z dolžino perzijske konjeniške črte, kar je zagotovilo, da njegova vojska ne bo ob strani
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2586.0
+passage.questions.4.question:Kako je Aleksander premagal potencialno neenotnost v svoji raznoliki vojski?
+passage.questions.4.idx:501.0
+passage.questions.4.answers.3.text:Strogo usposabljanje
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2585.0
+passage.questions.4.answers.2.text:Tako da je bil osebno vpleten v bitko kot makedonski kralj
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2584.0
+passage.questions.4.answers.1.text:Drzna strategija
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2583.0
+passage.questions.4.answers.0.text:Morebitno neenotnost svoje raznolike vojske je premagal z osebnim vpletanjem v boj
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2582.0
+passage.questions.3.question:Zakaj je Aleksander veljal za vojaškega vodjo neprimerljivega uspeha?
+passage.questions.3.idx:500.0
+passage.questions.3.answers.4.text:Presežen sem
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2581.0
+passage.questions.3.answers.3.text:Njegove neprimerljive izgube kot vojaškega poveljnika
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2580.0
+passage.questions.3.answers.2.text:Nikoli ni izgubil bitke
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2579.0
+passage.questions.3.answers.1.text:Bil je res velik: dolg 6 metrov (20 čevljev)
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2578.0
+passage.questions.3.answers.0.text:Bil je oborožen s sarišo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2577.0
+passage.questions.2.question:Zakaj so Aleksandra imenovali Aleksander &quot;Veliki?&quot;
+passage.questions.2.idx:499.0
+passage.questions.2.answers.2.text:Zaradi njegovega neprimerljivega uspeha kot vojaškega poveljnika
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2576.0
+passage.questions.2.answers.1.text:Nikoli ni izgubil bitke
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:2575.0
+passage.questions.2.answers.0.text:Aleksander si je prislužil epiteto &quot;Veliki&quot;, ker nikoli ni izgubil bitke, kljub temu da je bil zaradi svojega spretnega strateškega udejstvovanja odštevan
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:2574.0
+passage.questions.1.question:Kako je Aleksander uporabil falango v bitki pri Granicu?
+passage.questions.1.idx:498.0
+passage.questions.1.answers.4.text:Oborožen s sarišo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2573.0
+passage.questions.1.answers.3.text:Bili so nameščeni za njegovo konjenico
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2572.0
+passage.questions.1.answers.2.text:Falango je postavil v središče bojne črte
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2571.0
+passage.questions.1.answers.1.text:Uporabil jih je le majhen del
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:2570.0
+passage.questions.1.answers.0.text:Uporabil jih je na krilih
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:2569.0
+passage.questions.0.question:Kako je Aleksander spremenil uporabo falange v bitki pri Gaugameli?
+passage.questions.0.idx:497
+passage.questions.0.answers.2.text:Opremil svojo konjenico s ščukami
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2568.0
+passage.questions.0.answers.1.text:Darij je svoje vozove opremil s kosami na kolesih, da je razbil falango
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2567
+passage.questions.0.answers.0.text:Uredi dvojno falango, ki je napredovala pod kotom
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2566
+idx:42

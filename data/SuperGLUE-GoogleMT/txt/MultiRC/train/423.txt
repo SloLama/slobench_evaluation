@@ -1,0 +1,288 @@
+version:1.1
+passage.text:Električni naboj je fizična lastnost. Pojavi se med delci ali predmeti. Zaradi njih se privlačijo ali odbijajo. Niti se jih ni treba dotikati. To je za razliko od običajnega potiskanja ali vlečenja, ki ga morda poznate. Ves električni naboj temelji na protonih in elektronih v atomih. Proton ima pozitiven električni naboj. Elektron ima negativni električni naboj. Sile na naelektrene predmete Večina atomov je električno uravnotežena. Imajo enako število pozitivnih in negativnih nabojev. Zato je število protonov enako številu elektronov. Nevtroni niso pomembni, saj nimajo naboja. Ko predmet izgubi nekaj elektronov, se pozitivno napolni. Zdaj je v atomu več protonov kot elektronov. Izgubljeni elektroni lahko ostanejo prosti. Lahko pa se pritrdijo na drug predmet. Novi objekt ima zdaj več elektronov kot protonov. Nato postane negativno nabit.
+passage.questions.8.question:Če delec izgubi nekaj svojih protonov, kakšen je naboj delca?
+passage.questions.8.idx:4776.0
+passage.questions.8.answers.9.text:Predmet lahko izgubi protone in je še vedno električno uravnotežen
+passage.questions.8.answers.9.label:0,0
+passage.questions.8.answers.9.idx:25471.0
+passage.questions.8.answers.8.text:Negativno zaračunano
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:25470.0
+passage.questions.8.answers.7.text:Če ima delec več elektronov kot protonov, ima negativni naboj
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:25469.0
+passage.questions.8.answers.6.text:Ko delec izgubi protone, postane negativno nabit
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:25468.0
+passage.questions.8.answers.5.text:Izgubljeni protoni se bodo pritrdili na drug delec
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:25467.0
+passage.questions.8.answers.4.text:Naložena je negativnost
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:25466.0
+passage.questions.8.answers.3.text:Negativno
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:25465.0
+passage.questions.8.answers.2.text:Ko delec izgubi nekaj svojih protonov, postane pozitiven
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:25464.0
+passage.questions.8.answers.10.text:Pozitivno napolnjen
+passage.questions.8.answers.10.label:0,0
+passage.questions.8.answers.10.idx:25472.0
+passage.questions.8.answers.1.text:Nevtralno
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:25463.0
+passage.questions.8.answers.0.text:Ko delec izgubi nekaj protonov, ima negativni naboj
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:25462.0
+passage.questions.7.question:Katera fizikalna lastnost povzroči, da se delci medsebojno privlačijo ali odbijajo?
+passage.questions.7.idx:4775.0
+passage.questions.7.answers.8.text:Fizična lastnost se pojavi med delci ali predmeti
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:25461.0
+passage.questions.7.answers.7.text:Električni naboj je fizikalna lastnost, zaradi katere se delci medsebojno privlačijo ali odbijajo
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:25460.0
+passage.questions.7.answers.6.text:Pozitiven naboj
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:25459.0
+passage.questions.7.answers.5.text:Električni naboj povzroči, da se delci medsebojno privlačijo ali odbijajo
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:25458.0
+passage.questions.7.answers.4.text:Električni naboj
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:25457.0
+passage.questions.7.answers.3.text:Protonski naboj
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:25456.0
+passage.questions.7.answers.2.text:Električni naboj
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:25455.0
+passage.questions.7.answers.1.text:Atomi povzročajo, da se delci privlačijo ali odbijajo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:25454.0
+passage.questions.7.answers.0.text:Nevtronski naboj povzroči, da se delci medsebojno privlačijo ali odbijajo
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:25453.0
+passage.questions.6.question:Katere fizikalne lastnosti se pojavijo med delci in predmeti?
+passage.questions.6.idx:4774.0
+passage.questions.6.answers.8.text:Električni naboj
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:25452.0
+passage.questions.6.answers.7.text:Električni naboj je fizikalna lastnost, ki se pojavi med delci in predmeti
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:25451.0
+passage.questions.6.answers.6.text:Električni naboj
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:25450.0
+passage.questions.6.answers.5.text:Protoni in elektroni
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:25449.0
+passage.questions.6.answers.4.text:Privlačnost in odbojnost
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:25448.0
+passage.questions.6.answers.3.text:Jedrski naboj med dvema predmetoma je fizična lastnost, ki se pojavi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:25447.0
+passage.questions.6.answers.2.text:Nevtroni
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:25446.0
+passage.questions.6.answers.1.text:Fizična lastnost delcev in predmetov je električni naboj
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:25445.0
+passage.questions.6.answers.0.text:Protonski naboj
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:25444.0
+passage.questions.5.question:Kaj povzroča, da se predmeti med seboj privlačijo ali odbijajo?
+passage.questions.5.idx:4773.0
+passage.questions.5.answers.9.text:Predmeti
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:25443.0
+passage.questions.5.answers.8.text:Elektronski naboj povzroči, da se predmeti med seboj privlačijo ali odbijajo
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:25442.0
+passage.questions.5.answers.7.text:Delci
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:25441.0
+passage.questions.5.answers.6.text:Električni naboj
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:25440.0
+passage.questions.5.answers.5.text:Električni naboj
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:25439.0
+passage.questions.5.answers.4.text:Protoni in elektroni
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:25438.0
+passage.questions.5.answers.3.text:Protoni
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:25437.0
+passage.questions.5.answers.2.text:Predmeti se med seboj privlačijo ali odbijajo zaradi fizičnega naboja
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:25436.0
+passage.questions.5.answers.1.text:Predmeti se privlačijo ali odbijajo zaradi števila nevtronov v njih
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:25435.0
+passage.questions.5.answers.0.text:Fizični naboj med njima
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:25434.0
+passage.questions.4.question:Kakšen naboj ima delec z več protoni kot elektroni?
+passage.questions.4.idx:4772.0
+passage.questions.4.answers.9.text:Delček z več protoni kot elektroni bo imel pozitiven naboj
+passage.questions.4.answers.9.label:1.0
+passage.questions.4.answers.9.idx:25432.0
+passage.questions.4.answers.8.text:Pozitivno je napolnjen
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:25431.0
+passage.questions.4.answers.7.text:Pozitiven naboj
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:25430.0
+passage.questions.4.answers.6.text:Delček z več protoni kot z elektroni ima negativni naboj
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:25429.0
+passage.questions.4.answers.5.text:Negativno
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:25428.0
+passage.questions.4.answers.4.text:Delček bo imel enako število protonov in elektronov
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25427.0
+passage.questions.4.answers.3.text:Atom z več protoni kot elektroni ima pozitiven naboj
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:25426.0
+passage.questions.4.answers.2.text:Protoni imajo pozitiven naboj
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:25425.0
+passage.questions.4.answers.10.text:Pozitivno
+passage.questions.4.answers.10.label:1.0
+passage.questions.4.answers.10.idx:25433.0
+passage.questions.4.answers.1.text:Negativni naboj
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:25424.0
+passage.questions.4.answers.0.text:Izgubljeni protoni lahko ostanejo prosti
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:25423.0
+passage.questions.3.question:Zakaj naboj predmeta postane pozitiven?
+passage.questions.3.idx:4771.0
+passage.questions.3.answers.9.text:Predmet se pozitivno napolni, ko izgubi nekaj elektronov
+passage.questions.3.answers.9.label:1.0
+passage.questions.3.answers.9.idx:25421.0
+passage.questions.3.answers.8.text:Ko se elektroni pritrdijo na drug predmet
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:25420.0
+passage.questions.3.answers.7.text:Elektroni so izgubljeni
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:25419.0
+passage.questions.3.answers.6.text:Ko ima predmet več protonov kot elektronov, postane pozitivno nabit
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:25418.0
+passage.questions.3.answers.5.text:Ker nevtroni nimajo naboja
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:25417.0
+passage.questions.3.answers.4.text:Ko je v atomu več protonov kot elektronov
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:25416.0
+passage.questions.3.answers.3.text:Ko ima objekt več elektronov kot protonov
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:25415.0
+passage.questions.3.answers.2.text:Ko predmet izgubi nekaj elektronov, postane pozitiven
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25414.0
+passage.questions.3.answers.10.text:Predmet se pozitivno napolni, ko ima več elektronov kot protonov
+passage.questions.3.answers.10.label:0,0
+passage.questions.3.answers.10.idx:25422.0
+passage.questions.3.answers.1.text:Ko predmet izgubi elektrone
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:25413.0
+passage.questions.3.answers.0.text:Zaradi več nevtronov bo predmet postal pozitivno nabit
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25412.0
+passage.questions.2.question:Kako bodo naraščajoči nevtroni vplivali na naboj delca?
+passage.questions.2.idx:4770.0
+passage.questions.2.answers.9.text:Povečanje nevtronov ne vpliva na naboj delcev
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:25411.0
+passage.questions.2.answers.8.text:Pridobivanje ali izguba nevtronov ne spremeni naboja delcev
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:25410.0
+passage.questions.2.answers.7.text:Pozitivno
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:25409.0
+passage.questions.2.answers.6.text:Nevtroni ne vplivajo na naboj delcev?
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:25408.0
+passage.questions.2.answers.5.text:Ni sprememb
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:25407.0
+passage.questions.2.answers.4.text:Povečanje nevtronov v delcu bo napolnilo še bolj nevtralno
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25406.0
+passage.questions.2.answers.3.text:Sploh ne
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:25405.0
+passage.questions.2.answers.2.text:Povečanje nevtronov bo ustvarilo negativni naboj
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25404.0
+passage.questions.2.answers.1.text:Povečanje nevtronov naredi naboj bolj pozitiven
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25403.0
+passage.questions.2.answers.0.text:Nevtroni niso pomembni, ker nimajo naboja
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:25402.0
+passage.questions.1.question:Kakšen naboj ima atom z več elektroni kot protoni?
+passage.questions.1.idx:4769.0
+passage.questions.1.answers.8.text:Atom z več elektroni kot protoni bo imel negativni naboj
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:25401.0
+passage.questions.1.answers.7.text:Elektronov in protonov se ni treba dotikati
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:25400.0
+passage.questions.1.answers.6.text:Pozitiven naboj
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:25399.0
+passage.questions.1.answers.5.text:Atom ne more imeti več elektronov kot protonov
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:25398.0
+passage.questions.1.answers.4.text:Elektroni imajo negativni naboj
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:25397.0
+passage.questions.1.answers.3.text:Atom z več elektroni kot protoni ima električni naboj
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25396.0
+passage.questions.1.answers.2.text:Negativno
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25395.0
+passage.questions.1.answers.1.text:Nevtralno
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:25394.0
+passage.questions.1.answers.0.text:Negativni naboj
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:25393.0
+passage.questions.0.question:Kakšen naboj ima proton?
+passage.questions.0.idx:4768
+passage.questions.0.answers.8.text:Proton ima pozitiven električni naboj
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:25392.0
+passage.questions.0.answers.7.text:Proton ima pozitiven naboj
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:25391.0
+passage.questions.0.answers.6.text:Proton ima pozitiven električni naboj
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:25390.0
+passage.questions.0.answers.5.text:Pozitivno
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:25389.0
+passage.questions.0.answers.4.text:Protoni niso pomembni, ker nimajo naboja
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:25388.0
+passage.questions.0.answers.3.text:Proton ima nevtralen naboj
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:25387.0
+passage.questions.0.answers.2.text:Nevtralno
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:25386.0
+passage.questions.0.answers.1.text:Proton ima negativni naboj
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25385
+passage.questions.0.answers.0.text:Negativni naboj
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:25384
+idx:423

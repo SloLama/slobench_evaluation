@@ -1,0 +1,271 @@
+version:1.1
+passage.text:Ta teden smo se pogostili s čedalje bolj znanim prizorom nekdanjega zvezdnika in provokatorja lige NBA Dennisa Rodmana, ki se je udeleževal prireditev v Pjongčangu v Severni Koreji. To je njegovo četrto potovanje v manj kot 12 mesecih. V torek je jezni Rodman v intervjuju za CNN naravnost iz Pjongčanga zagovarjal svoj obisk in v nekem trenutku voditelju &quot;New Day&quot; Chrisu Cuomoju odgovoril: &quot;Ne dam podgane, kaj hudiča mislite ...&quot; v odgovor na vprašanje o Kennethu Baeju, Američanu, pridržanem v Severni Koreji. Kdaj se bomo naveličali tega cirkusa? Če ne gledate kabelskih novic, boste morda pogrešali, da imajo mediji resnično radi take stvari. Nobena zgodba o Severni Koreji ni preveč čudna, da bi o njej ne poročali, tudi če ni resničnih informacij za razširjanje. Spomnimo se nedavnih govoric, da je bil stric Kim Jong Una usmrčen s hranjenjem lačnih psov, kar se je najverjetneje začelo kot satira na kitajskih družbenih omrežjih, o čemer pa so sprva poročali v medijih (CNN ni mogel potrditi in zgodbe ni poročal ). V medijskem diskurzu je Severna Koreja klasični sovražnik. Krivice, zmede in okvare režima Američanom zagotavljajo, da je njihova država ravno obratna: normalna, dobro delujoča, dežela miru in svobode. Toda Rodmanu dodajte še zgodbo o Severni Koreji, ki bo zagotovo prinesla privlačne naslove: Zgodba o čudnem ameriškem športniku gre v čudno državo je preveč enostavna, da je ne bi pokrili. Zdi se, da Rodman sam s svojimi obiski v Severni Koreji (in morda s plačo Paddy Power) uspeva najti čuden drobec. Čeprav ga pogosto opisujejo kot precej sramežljivega, je vedno rad izzival vrednote Srednje Amerike. Severna Koreja mu ponuja novo pot, ki bo v središču pozornosti. Najbolj pasiven igralec te tragikomedije je Rodmanova domovina, ZDA. Ameriško zunanje ministrstvo je uporabilo retorični ekvivalent osramočenega najstnika, katerega oče se je pojavil na plesu na maturantskem plesu. Nekaj v smislu &quot;to nima nič skupnega z nami&quot; je tisto, kar je State Department dejal ob vsakem Rodmanovem potovanju. Lansko zimo je State Department kritiziral Rodmanov čas, ko je sledil jedrskim poskusom in izstrelitvi rakete.
+passage.questions.9.question:Kakšen je bil odgovor Dennisa Rodmana, ko so ga vprašali o njegovem potovanju v zvezi z ameriškim zapornikom v Severni Koreji?
+passage.questions.9.idx:539.0
+passage.questions.9.answers.6.text:Retorični ekvivalent
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:2766.0
+passage.questions.9.answers.5.text:Bil je jezen in odgovoril z &quot;Ne dam podgane v rit&quot;
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:2765.0
+passage.questions.9.answers.4.text:Kdaj se bomo naveličali tega cirkusa?
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:2764.0
+passage.questions.9.answers.3.text:Ne narekuje mojih odločitev
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:2763.0
+passage.questions.9.answers.2.text:To je resnično žalostno stanje
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:2762.0
+passage.questions.9.answers.1.text:&quot;Ne dam podgane, kaj hudiča misliš ...&quot;
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:2761.0
+passage.questions.9.answers.0.text:Skrbi me, vendar je ne morem spremeniti
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2760.0
+passage.questions.8.question:Kam je Dennis Rodman v enem letu šel 4-krat?
+passage.questions.8.idx:538.0
+passage.questions.8.answers.7.text:Severna Koreja
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:2759.0
+passage.questions.8.answers.6.text:Sudan
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:2758.0
+passage.questions.8.answers.5.text:Amerika
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:2757.0
+passage.questions.8.answers.4.text:Pjongjang
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:2756.0
+passage.questions.8.answers.3.text:Kitajska
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:2755.0
+passage.questions.8.answers.2.text:Južna Koreja
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2754.0
+passage.questions.8.answers.1.text:ZDA
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2753.0
+passage.questions.8.answers.0.text:Državno ministrstvo
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2752.0
+passage.questions.7.question:Koliko potovanj je Dennis Rodman potoval v Severno Korejo v manj kot 12 mesecih?
+passage.questions.7.idx:537.0
+passage.questions.7.answers.7.text:3.
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:2751.0
+passage.questions.7.answers.6.text:Štiri
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:2750.0
+passage.questions.7.answers.5.text:2.
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:2749.0
+passage.questions.7.answers.4.text:Štirinajst
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:2748.0
+passage.questions.7.answers.3.text:Več kot štiri
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2747.0
+passage.questions.7.answers.2.text:1.
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:2746.0
+passage.questions.7.answers.1.text:4.
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:2745.0
+passage.questions.7.answers.0.text:12.
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2744.0
+passage.questions.6.question:Kdo je pasivni igralec v Rodmanovi tragikomediji, ko mu Severna Koreja daje pot do svojih norčij?
+passage.questions.6.idx:536.0
+passage.questions.6.answers.5.text:Severna Koreja
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:2743.0
+passage.questions.6.answers.4.text:Kim Jung Un
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:2742.0
+passage.questions.6.answers.3.text:Pjongjang
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2741.0
+passage.questions.6.answers.2.text:Južna Koreja
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2740.0
+passage.questions.6.answers.1.text:Združene države
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:2739.0
+passage.questions.6.answers.0.text:Kitajski
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2738.0
+passage.questions.5.question:Kako so mediji Severno Korejo prikazali kot klasičnega sovražnika?
+passage.questions.5.idx:535.0
+passage.questions.5.answers.7.text:Poročajo, da so režimske krivice, domislice in okvare Američanom pomirjujoče, da je njihova država ravno obratno.
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:2737.0
+passage.questions.5.answers.6.text:Jezni Rodman je branil svoj obisk
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:2736.0
+passage.questions.5.answers.5.text:S prikazom Amerike kot tako velike
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:2735.0
+passage.questions.5.answers.4.text:Prikazovanje režimskih krivic, domislic in motenj
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2734.0
+passage.questions.5.answers.3.text:Običajna, dobro delujoča, dežela miru in svobode
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2733.0
+passage.questions.5.answers.2.text:S prikazom, kako sta ZDA in Severna Koreja tako različni
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2732.0
+passage.questions.5.answers.1.text:Krivice, zmede in okvare režima Američanom zagotavljajo, da je njihova država ravno obratna: normalna, dobro delujoča, dežela miru in svobode
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2731.0
+passage.questions.5.answers.0.text:S prikazom, da je umoril stric voditelja
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2730.0
+passage.questions.4.question:Zakaj ZDA v zgodbi o Rodmanu in Severni Koreji veljajo za pasivnega igralca?
+passage.questions.4.idx:534.0
+passage.questions.4.answers.7.text:Zmede in motnje v delovanju Američanov pomirjajo
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:2729.0
+passage.questions.4.answers.6.text:Niso ga kritizirali
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:2728.0
+passage.questions.4.answers.5.text:Ameriško zunanje ministrstvo je uporabilo retorični ekvivalent osramočenega najstnika, katerega oče se je pojavil na plesu na maturantskem plesu. Nekaj v smislu &quot;to nima nič skupnega z nami&quot; je tisto, kar je State Department dejal ob vsakem Rodmanovem potovanju
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:2727.0
+passage.questions.4.answers.4.text:State Department je izjavil, da nima nič skupnega z ZDA
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2726.0
+passage.questions.4.answers.3.text:Podpirali so samo njegova potovanja
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2725.0
+passage.questions.4.answers.2.text:Nekaj v smislu &quot;to nima nič skupnega z nami&quot; je tisto, kar je State Department rekel ob vsakem Rodmanovem potovanju
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2724.0
+passage.questions.4.answers.1.text:Niso rekli ničesar
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2723.0
+passage.questions.4.answers.0.text:Vezani za privlačne naslove
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2722.0
+passage.questions.3.question:Kaj pravi State Department kot odziv na Rodmana?
+passage.questions.3.idx:533.0
+passage.questions.3.answers.8.text:Nezavestno je, da podpira turizem te države
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:2721.0
+passage.questions.3.answers.7.text:Delujejo nerodno in nakazujejo, da z njim nimajo nič skupnega
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:2720.0
+passage.questions.3.answers.6.text:Retorični ekvivalent plesu na maturantskem plesu
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:2719.0
+passage.questions.3.answers.5.text:Veseli smo, ko nas zastopa
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:2718.0
+passage.questions.3.answers.4.text:Uživa v zahtevnih vrednotah
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2717.0
+passage.questions.3.answers.3.text:Pomemben Smidgen
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2716.0
+passage.questions.3.answers.2.text:Kritiziran čas
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2715.0
+passage.questions.3.answers.1.text:Slabo nas je zastopal
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2714.0
+passage.questions.3.answers.0.text:&quot;to nima nič skupnega z nami&quot;, je State Department dejal ob vsakem Rodmanovem potovanju
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2713.0
+passage.questions.2.question:Dennis Roman, ki je v zadnjih 12 mesecih opravil štiri potovanja, se je pred kratkim udeležil prireditev v katerem mestu Severne Koreje?
+passage.questions.2.idx:532
+passage.questions.2.answers.4.text:Čudna država
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2712.0
+passage.questions.2.answers.3.text:ameriški
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2711.0
+passage.questions.2.answers.2.text:Pjongjang
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2710.0
+passage.questions.2.answers.1.text:Soule, Pyungala, Siagon
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:2709
+passage.questions.2.answers.0.text:Kitajski
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:2708
+passage.questions.10.question:Za katero žival se je govorilo, da je bil stric Kim Jong Una krmljen?
+passage.questions.10.idx:540.0
+passage.questions.10.answers.6.text:&quot;Psi&quot;
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:2773.0
+passage.questions.10.answers.5.text:Medvedi
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:2772.0
+passage.questions.10.answers.4.text:Lačni psi
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:2771.0
+passage.questions.10.answers.3.text:Levi
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2770.0
+passage.questions.10.answers.2.text:Tigri
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2769.0
+passage.questions.10.answers.1.text:Socialni mediji
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2768.0
+passage.questions.10.answers.0.text:Satira
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2767.0
+passage.questions.1.question:Kaj naredi zgodbo o Rodmanu v Severni Koreji opazno?
+passage.questions.1.idx:531
+passage.questions.1.answers.7.text:Mlajša generacija obožuje košarko v Severni Koreji
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:2707.0
+passage.questions.1.answers.6.text:Njegova čudna barva las pritegne pozornost
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:2706.0
+passage.questions.1.answers.5.text:Mediji se ponarejajo, da imajo radi take stvari
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2705.0
+passage.questions.1.answers.4.text:Ker je Severna Koreja ameriški klasični sovražnik in ko v zgodbo o Severni Koreji dodate še Rodmana, bo zagotovo pritegnila privlačne naslove: Zgodba o čudnem ameriškem športniku gre v čudno državo je preveč enostavna, da je ne bi pokrili
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:2704.0
+passage.questions.1.answers.3.text:Predstavnik svobode tam, kjer ga ni
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2703.0
+passage.questions.1.answers.2.text:Zgodba He Weird American Athlete Goes to Weird Country je preveč enostavna, da je ne bi pokrili
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2702.0
+passage.questions.1.answers.1.text:Čuden ameriški športnik gre v čudno državo
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:2701
+passage.questions.1.answers.0.text:Američan pridržan v Severni Koreji
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:2700
+passage.questions.0.question:Zakaj je Rodman tako priljubljen v novicah?
+passage.questions.0.idx:530
+passage.questions.0.answers.7.text:Paddy Power plača
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:2699.0
+passage.questions.0.answers.6.text:Rodman izziva tradicionalne vrednote, Severna Koreja pa pritegne pozornost medijev
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:2698.0
+passage.questions.0.answers.5.text:Jedrski poskus in izstrelitev rakete
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:2697.0
+passage.questions.0.answers.4.text:Z njegovim govorom ustvarja tip cirkusa, ki ga imajo mediji radi
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2696.0
+passage.questions.0.answers.3.text:Zgodba o čudnem ameriškem športniku gre v čudno državo je preveč enostavna, da je ne bi pokrili
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2695.0
+passage.questions.0.answers.2.text:Malo je drugih novic, ki bi jih morali pokriti
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2694.0
+passage.questions.0.answers.1.text:Mladi Severne Koreje imajo radi košarko
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2693
+passage.questions.0.answers.0.text:Severna Koreja je očarana nad njegovimi lasmi
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2692
+idx:46

@@ -1,0 +1,6 @@
+choice1:Fotograf je otrokovo fotografijo hitro posnel.
+choice2:Fotograf je hitro spremenil otrokovo pozo.
+idx:91
+label:0
+premise:Fotograf je otroka nasmejal.
+question:effect

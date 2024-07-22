@@ -1,0 +1,268 @@
+version:1.1
+passage.text:Dermis je notranja plast kože. Dermis ima krvne žile in živčne končiče. Živčni končiči pojasnjujejo, zakaj je vaša koža občutljiva. Zaznate bolečino, pritisk in temperaturo. Porežeš si prst in začne krvaveti. Kaj se je zgodilo? Če vam koža krvavi, to pomeni, da ste prerezali plast dermisa in poškodovali ožilje. Rez res boli. Boli zaradi živčnih končičev v tej kožni plasti. Dermis vsebuje tudi lasne mešičke in dve vrsti žlez. Lasni mešički so strukture, iz katerih izvirajo dlake. Vsak las raste iz folikla. Lasje prehajajo skozi povrhnjico. Nato se razširi nad površino kože. Oljne žleze proizvajajo oljno snov. Olje se izloča v lasne mešičke.
+passage.questions.9.question:Zakaj čutim pritisk, ko me nekdo pika?
+passage.questions.9.idx:1737.0
+passage.questions.9.answers.4.text:Dermis vsebuje živčne končiče, ki zaznavajo pritisk
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:9007.0
+passage.questions.9.answers.3.text:Ker preveč pritiska navzdol
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:9006.0
+passage.questions.9.answers.2.text:Dermis ima oljne žleze
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:9005.0
+passage.questions.9.answers.1.text:Ker ima dermis živčne končiče in čutim bolečino
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:9004.0
+passage.questions.9.answers.0.text:Ker imate živčne končiče
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:9003.0
+passage.questions.8.question:Zakaj prst krvavi, ko ga prerežete?
+passage.questions.8.idx:1736.0
+passage.questions.8.answers.4.text:Ker ima dermis krvne žile
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:9002.0
+passage.questions.8.answers.3.text:Lasni mešički
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:9001.0
+passage.questions.8.answers.2.text:Ker ste poškodovali krvno žilico
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:9000.0
+passage.questions.8.answers.1.text:Ker si odrezal prst
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:8999.0
+passage.questions.8.answers.0.text:Prerezali ste plast dermisa in poškodovali ožilje
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:8998.0
+passage.questions.7.question:Zakaj krvavim, ko se porežem?
+passage.questions.7.idx:1735.0
+passage.questions.7.answers.4.text:Ker si zadel krvno žilo
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:8997.0
+passage.questions.7.answers.3.text:Dermis vsebuje krvne žile, ki jih poškodujete, ko se porežete
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:8996.0
+passage.questions.7.answers.2.text:Ker kri prosto teče pod sjub
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8995.0
+passage.questions.7.answers.1.text:Ker sem prerezal plast dermisa in poškodoval žile
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:8994.0
+passage.questions.7.answers.0.text:Rez res boli
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:8993.0
+passage.questions.6.question:Kako ima koža dlake?
+passage.questions.6.idx:1734.0
+passage.questions.6.answers.4.text:Dermis vsebuje lasne mešičke, specializirane strukture, iz katerih izvirajo dlake, vsak posamezen las izhaja iz enega samega mešička, ki raste iz dermisa, da potisne svojo pot skozi povrhnjico
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:8992.0
+passage.questions.6.answers.3.text:Dermis ima živčne končiče
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:8991.0
+passage.questions.6.answers.2.text:Dermis vsebuje lasne mešičke, ki so strukture, iz katerih izvirajo dlake
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:8990.0
+passage.questions.6.answers.1.text:Dermis raste pod lasmi
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:8989.0
+passage.questions.6.answers.0.text:Lasje so na vrhu kože
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8988.0
+passage.questions.5.question:Katera vrsta žlez je v dermisu?
+passage.questions.5.idx:1733.0
+passage.questions.5.answers.2.text:Oljna žleza
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:8987.0
+passage.questions.5.answers.1.text:Temperaturna žleza
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8986.0
+passage.questions.5.answers.0.text:Povrhnjica
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:8985.0
+passage.questions.4.question:Zakaj je moja koža mastna?
+passage.questions.4.idx:1732.0
+passage.questions.4.answers.4.text:Ker dermis vsebuje oljne žleze, ki proizvajajo oljno snov
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:8984.0
+passage.questions.4.answers.3.text:Ker si ga polil z oljem
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:8983.0
+passage.questions.4.answers.2.text:Dermis vsebuje oljne žleze, ki sproščajo olje v lasne mešičke
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8982.0
+passage.questions.4.answers.1.text:Rez res boli
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8981.0
+passage.questions.4.answers.0.text:Ker so v koži oljne žleze
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:8980.0
+passage.questions.3.question:Zakaj je dermis zelo pomemben del vaše kože?
+passage.questions.3.idx:1731.0
+passage.questions.3.answers.4.text:Dermis ima krvne žile in živčne končiče
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:8979.0
+passage.questions.3.answers.3.text:Pomembno je, ker vam omogoča, da s kožo občutite razmere
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:8978.0
+passage.questions.3.answers.2.text:Ker imajo oljne žleze
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8977.0
+passage.questions.3.answers.1.text:Da vas greje
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8976.0
+passage.questions.3.answers.0.text:Ponuja zaščito
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:8975.0
+passage.questions.2.question:Kakšen je odnos las do usnjice?
+passage.questions.2.idx:1730.0
+passage.questions.2.answers.4.text:Dermis vsebuje lasne mešičke
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:8974.0
+passage.questions.2.answers.3.text:Dermis vsebuje oljne žleze
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:8973.0
+passage.questions.2.answers.2.text:Dermis vsebuje lasne mešičke, od koder izvirajo dlake
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:8972.0
+passage.questions.2.answers.1.text:Lasje rastejo iz usnjice
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:8971.0
+passage.questions.2.answers.0.text:Lasni mešički so na vrhu usnjice
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8970.0
+passage.questions.16.question:Kakšno zadnjo strukturo prehajajo lasje, preden se razširijo nad površino kože?
+passage.questions.16.idx:1744.0
+passage.questions.16.answers.4.text:Lasni mešiček
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:9037.0
+passage.questions.16.answers.3.text:Oljne žleze
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:9036.0
+passage.questions.16.answers.2.text:Povrhnjica
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:9035.0
+passage.questions.16.answers.1.text:Oljne žleze
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:9034.0
+passage.questions.16.answers.0.text:Lasje prehajajo skozi povrhnjico
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:9033.0
+passage.questions.15.question:Kakšna je sestava kože?
+passage.questions.15.idx:1743.0
+passage.questions.15.answers.4.text:Oljne žleze in lasni mešički
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:9032.0
+passage.questions.15.answers.3.text:Lasni mešički, oljne žleze
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:9031.0
+passage.questions.15.answers.2.text:Povrhnjica, usnja,
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:9030.0
+passage.questions.15.answers.1.text:Epidermis in dermis
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:9029.0
+passage.questions.15.answers.0.text:Ima notranjo plast, imenovano dermis, ta plast vsebuje krvne žile in živčne končiče, lasne mešičke in dve vrsti žlez
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:9028.0
+passage.questions.14.question:Imenuje se notranja plast kože, ki ima krvne žile in živčne končiče?
+passage.questions.14.idx:1742.0
+passage.questions.14.answers.2.text:Povrhnjica
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:9027.0
+passage.questions.14.answers.1.text:Dermis
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:9026.0
+passage.questions.14.answers.0.text:Dermis
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:9025.0
+passage.questions.13.question:Zakaj lahko dermis boli, ko se reže koža?
+passage.questions.13.idx:1741.0
+passage.questions.13.answers.3.text:Ker šibki ljudje čutijo bolečino
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:9024.0
+passage.questions.13.answers.2.text:Ker ima dermis tik pod njo živčne končiče
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:9023.0
+passage.questions.13.answers.1.text:Dermis vsebuje oljne žleze
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:9022.0
+passage.questions.13.answers.0.text:Dermis je notranja plast kože in ima živčne končiče
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:9021.0
+passage.questions.12.question:Kje zarez pravzaprav boli?
+passage.questions.12.idx:1740.0
+passage.questions.12.answers.4.text:Ker ste se hudo poškodovali
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:9020.0
+passage.questions.12.answers.3.text:Dermis
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:9019.0
+passage.questions.12.answers.2.text:Prst
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:9018.0
+passage.questions.12.answers.1.text:Povrhnjica
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:9017.0
+passage.questions.12.answers.0.text:Zaradi živčnih končičev pod usnjico
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:9016.0
+passage.questions.11.question:Zakaj rez res boli?
+passage.questions.11.idx:1739.0
+passage.questions.11.answers.3.text:Ker dermis vsebuje oljne žleze
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:9015.0
+passage.questions.11.answers.2.text:Zaradi živčnih končičev pod usnjico
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:9014.0
+passage.questions.11.answers.1.text:Ker si hudo škodujete
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:9013.0
+passage.questions.11.answers.0.text:Zaradi živčnih končičev v tej kožni plasti
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:9012.0
+passage.questions.10.question:Kaj se razteza nad površino kože?
+passage.questions.10.idx:1738.0
+passage.questions.10.answers.3.text:Lasje
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:9011.0
+passage.questions.10.answers.2.text:Povrhnjica
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:9010.0
+passage.questions.10.answers.1.text:Koža
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:9009.0
+passage.questions.10.answers.0.text:Lasje se raztezajo nad površino kože
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:9008.0
+passage.questions.1.question:Kako je dermis povezan z občutljivostjo kože?
+passage.questions.1.idx:1729.0
+passage.questions.1.answers.3.text:Tik pod usnjico so živčni končiči
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:8969.0
+passage.questions.1.answers.2.text:Ker Rez res boli
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8968.0
+passage.questions.1.answers.1.text:Ker ima dermis živčne končiče
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8967.0
+passage.questions.1.answers.0.text:Ker je občutljiv
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8966.0
+passage.questions.0.question:Zakaj boli, če bi si porezal prst?
+passage.questions.0.idx:1728
+passage.questions.0.answers.4.text:Boli zaradi živčnih končičev v plasti dermisa
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:8965.0
+passage.questions.0.answers.3.text:Oljne žleze
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:8964.0
+passage.questions.0.answers.2.text:Ker ima dermis živčne končiče
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:8963.0
+passage.questions.0.answers.1.text:Zaradi nikoli končanih
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8962
+passage.questions.0.answers.0.text:Ker si resno škodujete
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8961
+idx:155

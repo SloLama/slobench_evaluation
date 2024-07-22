@@ -1,0 +1,248 @@
+version:1.1
+passage.text:Včasih se skozi Zemljino senco premika polna Luna. To je Lunin mrk. Med popolnim Luninim mrkom Luna popolnoma potuje v Zemljini umbri. Med delnim Luninim mrkom v Zemljino umbra vstopi le del Lune. Ko Luna prehaja skozi zemeljsko penumbro, je mrk penumbra. Ker je Zemljina senca velika, Lunin mrk traja ure in ure. Kdor ima pogled na Luno, lahko vidi Lunin mrk. Za razliko od Sončevega mrka na Zemlji ne postane temno. Namesto tega se na Luni stemni. Delni Lunini mrki se pojavijo vsaj dvakrat na leto, vendar so popolni Lunini mrki manj pogosti. Luna med popolnim Luninim mrkom žari z dolgočasno rdečo barvo.
+passage.questions.9.question:Kaj se zgodi med Luninim mrkom?
+passage.questions.9.idx:2006.0
+passage.questions.9.answers.4.text:Polna Luna se premika skozi Zemljino senco
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:10500.0
+passage.questions.9.answers.3.text:Polna luna prehaja nad zemeljsko senco
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:10499.0
+passage.questions.9.answers.2.text:Pojemajoča luna prehaja nad zemeljsko senco
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:10498.0
+passage.questions.9.answers.1.text:Le del Lune vstopi v Zemljo umbr
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:10497.0
+passage.questions.9.answers.0.text:Ko Luna prehaja skozi zemeljsko penumbro, je mrk penumbra in ker je Zemljina senca velika, lunin mrk traja ure in ure.
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:10496.0
+passage.questions.8.question:Kakšna je razlika med popolnim Luninim mrkom in delnim Luninim mrkom?
+passage.questions.8.idx:2005.0
+passage.questions.8.answers.4.text:Med popolnim Luninim mrkom Luna v celoti potova v Zemljini umbri in le delno med Luninim mrkom.
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:10495.0
+passage.questions.8.answers.3.text:Skupaj - luna potuje popolnoma v Zemljini umbri, delno - le del Lune vstopi v Zemljino umbro
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:10494.0
+passage.questions.8.answers.2.text:Ali luna v celoti ali delno vstopi v zemeljsko umbro
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:10493.0
+passage.questions.8.answers.1.text:Včasih se skozi Zemljino senco premika polna Luna
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:10492.0
+passage.questions.8.answers.0.text:Razlika je v dolžini
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:10491.0
+passage.questions.7.question:Kakšna je razlika med Luninim mrkom in Sončnim mrkom?
+passage.questions.7.idx:2004.0
+passage.questions.7.answers.5.text:Lunin mrk traja ure in ure
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:10490.0
+passage.questions.7.answers.4.text:Sončni mrk je, ko luna prehaja skozi zemeljsko penumbro
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:10489.0
+passage.questions.7.answers.3.text:V Luninem mrku Luna potuje v Zemljini umbri. V mrku penumbra luna prehaja skozi zemeljsko penumbro
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:10488.0
+passage.questions.7.answers.2.text:Ko Luna prehaja skozi zemeljsko penumbro, je mrk penumbra
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:10487.0
+passage.questions.7.answers.1.text:Sončni mrk je, ko luna prehaja skozi zemeljsko umbro
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:10486.0
+passage.questions.7.answers.0.text:Ko se polna Luna premika skozi Zemljino senco, se to imenuje Lunin mrk
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:10485.0
+passage.questions.6.question:Kako se imenuje, ko se polna Luna premika skozi Zemljino senco?
+passage.questions.6.idx:2003.0
+passage.questions.6.answers.3.text:Lunin mrk
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:10484.0
+passage.questions.6.answers.2.text:Delni Lunin mrk
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:10483.0
+passage.questions.6.answers.1.text:Sončni mrk
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:10482.0
+passage.questions.6.answers.0.text:Sončni mrk
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:10481.0
+passage.questions.5.question:Kakšna je razlika med Sončevim in Luninim mrkom?
+passage.questions.5.idx:2002.0
+passage.questions.5.answers.7.text:Lunin mrk ne povzroči, da bi Zemlja zatemnila
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:10480.0
+passage.questions.5.answers.6.text:Lunin mrk traja ure in ure
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:10479.0
+passage.questions.5.answers.5.text:Sončni mrk razsvetli zemljo
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:10478.0
+passage.questions.5.answers.4.text:Na Luni se med Luninim mrkom stemni in ne na Zemlji
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:10477.0
+passage.questions.5.answers.3.text:Na Luninem mrku se na Zemlji ne zatemni, med sončnim pa
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:10476.0
+passage.questions.5.answers.2.text:Med sončnim mrkom se zemlja zatemni
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:10475.0
+passage.questions.5.answers.1.text:Za razliko od Sončevega mrka torej Lunin mrk na Zemlji ne postane temen. Namesto tega se na Luni stemni
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:10474.0
+passage.questions.5.answers.0.text:Lunin mrk zatemni zemljo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:10473.0
+passage.questions.4.question:Kaj je Lunin mrk?
+passage.questions.4.idx:2001.0
+passage.questions.4.answers.4.text:Polna Luna se premika skozi Zemljino senco
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:10472.0
+passage.questions.4.answers.3.text:Ko se luna premika skozi zemeljsko senco
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:10471.0
+passage.questions.4.answers.2.text:Ko celotna poteza preide skozi zemeljsko svetlo stran
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:10470.0
+passage.questions.4.answers.1.text:Luna v celoti potuje v Zemljini umbri
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:10469.0
+passage.questions.4.answers.0.text:Ko celoten premik preide skozi lunino senco
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:10468.0
+passage.questions.3.question:Kako se imenuje, ko se Luna popolnoma premakne skozi Zemljino senco?
+passage.questions.3.idx:2000.0
+passage.questions.3.answers.3.text:Delni Lunin mrk
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:10467.0
+passage.questions.3.answers.2.text:Lunin mrk
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:10466.0
+passage.questions.3.answers.1.text:Popoln Lunin mrk
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:10465.0
+passage.questions.3.answers.0.text:Sončni mrk
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:10464.0
+passage.questions.2.question:Kako pogosto se zgodi popoln Lunin mrk in kakšne barve je luna?
+passage.questions.2.idx:1999.0
+passage.questions.2.answers.6.text:Luna med popolnim Luninim mrkom žari z dolgočasno rdečo barvo in se zgodi manj kot trikrat na leto
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:10463.0
+passage.questions.2.answers.5.text:Svetlo rdeča
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:10462.0
+passage.questions.2.answers.4.text:Vsaj dvakrat na leto in luna je temna
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:10461.0
+passage.questions.2.answers.3.text:Dolgočasno rdeča
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:10460.0
+passage.questions.2.answers.2.text:Manj pogosto kot delni Lunin mrk, ki se zgodi vsaj dvakrat na leto in luna sveti dolgočasno rdeče
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:10459.0
+passage.questions.2.answers.1.text:Pogosteje
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:10458.0
+passage.questions.2.answers.0.text:Manj pogosto
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:10457.0
+passage.questions.12.question:Ali se med luninim mrkom zemlja ali luna potemni?
+passage.questions.12.idx:2009.0
+passage.questions.12.answers.3.text:Luna
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:10519.0
+passage.questions.12.answers.2.text:Na Zemlji se ne stemni
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:10518.0
+passage.questions.12.answers.1.text:Zemlja se temni
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:10517.0
+passage.questions.12.answers.0.text:Luna se temni
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:10516.0
+passage.questions.11.question:Kakšne vrste so Lunini mrki?
+passage.questions.11.idx:2008.0
+passage.questions.11.answers.8.text:Sončev mrk
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:10515.0
+passage.questions.11.answers.7.text:Penumbral
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:10514.0
+passage.questions.11.answers.6.text:Sončna
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:10513.0
+passage.questions.11.answers.5.text:Delno
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:10512.0
+passage.questions.11.answers.4.text:Sončni mrk
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:10511.0
+passage.questions.11.answers.3.text:Skupaj
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:10510.0
+passage.questions.11.answers.2.text:Delni Lunin mrk in popoln Lunin mrk
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:10509.0
+passage.questions.11.answers.1.text:Pol
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:10508.0
+passage.questions.11.answers.0.text:Dokončano
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:10507.0
+passage.questions.10.question:Kako se razlikujejo delni in popolni Lunini mrki?
+passage.questions.10.idx:2007.0
+passage.questions.10.answers.5.text:Med popolnim Luninim mrkom Luna v celoti potova v Zemljini umbri in le delno med Luninim mrkom.
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:10506.0
+passage.questions.10.answers.4.text:Delna se zgodi, ko le del lune preide nad zemeljsko umbro
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:10505.0
+passage.questions.10.answers.3.text:Popolni Lunini mrki se pojavljajo pogosteje
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:10504.0
+passage.questions.10.answers.2.text:Delni Lunini mrki se pojavijo vsaj dvakrat na leto, vendar so popolni Lunini mrki manj pogosti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:10503.0
+passage.questions.10.answers.1.text:Delni Lunini mrki se pojavijo vsaj dvakrat na leto, vendar so popolni Lunini mrki manj pogosti
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:10502.0
+passage.questions.10.answers.0.text:Eno se zgodi, ko luna popolnoma preide nad zemeljsko umbro
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:10501.0
+passage.questions.1.question:V čem se Lunin mrk razlikuje od Sončevega mrka?
+passage.questions.1.idx:1998.0
+passage.questions.1.answers.5.text:Lunin mrk traja ure in ure
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:10456.0
+passage.questions.1.answers.4.text:Sončni mrk povzroči, da se zemlja zatemni
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:10455.0
+passage.questions.1.answers.3.text:Na Luni se med Luninim mrkom stemni in ne na Zemlji
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:10454.0
+passage.questions.1.answers.2.text:Na Zemlji se ne stemni, ampak se na Luni potemni in se lahko zdi od kjer koli na Zemlji
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:10453.0
+passage.questions.1.answers.1.text:Na Luninem mrku se na Zemlji ne zatemni, med sončnim pa
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:10452.0
+passage.questions.1.answers.0.text:Sončni mrk povzroči, da se zemlja posvetli
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:10451.0
+passage.questions.0.question:Ali je pogosteje, da Luna potuje popolnoma v Zemljini umbri ali le delno?
+passage.questions.0.idx:1997
+passage.questions.0.answers.3.text:Popolnoma
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:10450.0
+passage.questions.0.answers.2.text:Popolni mrk je manj pogost kot delni, zato je pogosteje, da Luna delno potuje v Zemljini umbri
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:10449.0
+passage.questions.0.answers.1.text:Delno
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:10448
+passage.questions.0.answers.0.text:Delni Lunini mrki se pojavijo vsaj dvakrat na leto, vendar so popolni Lunini mrki manj pogosti
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:10447
+idx:182

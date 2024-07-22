@@ -1,0 +1,6 @@
+choice1:Moški je odnesel stol v svojo pisarno.
+choice2:Moški je potisnil stol bliže k mizi.
+idx:174
+label:1
+premise:Stol je zaškripal.
+question:cause

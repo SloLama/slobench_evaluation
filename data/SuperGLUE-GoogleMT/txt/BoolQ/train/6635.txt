@@ -1,0 +1,4 @@
+idx:6635
+label:True
+passage:Peer-to-peer - Peer-to-peer omrežje je zasnovano tako, da pojmuje enakovrednih vozlišč, ki hkrati delujejo kot »odjemalci« in »strežniki« do drugih vozlišč v omrežju. Ta model ureditve omrežja se razlikuje od modela odjemalec - strežnik, kjer je komunikacija običajno med centralnim strežnikom in od njega. Tipičen primer prenosa datotek, ki uporablja model odjemalca-strežnika, je storitev File Transfer Protocol (FTP), pri kateri se odjemalski in strežniški program razlikujeta: odjemalci začnejo prenos in strežniki izpolnjujejo te zahteve.
+question:v enakovrednem omrežju vsak računalnik poganja odjemalsko in strežniško programsko opremo

@@ -1,0 +1,371 @@
+version:1.1
+passage.text:(CNN) - Horror-meister, Stephen King Georgea Pelecanosa imenuje &quot;morda največji ameriški pisatelj kriminalov&quot;. Njegove zgodbe so postavljene v Pelecanosovem mestu Washington, DC, vendar to ni tista stran ameriškega prestolnice, ki jo vidite na televiziji s spomeniki iz belega marmorja, odvetniki in lobisti. Pelecanosa bolj zanimajo družine, ki se trudijo preživeti, rasne napetosti v etničnih soseskah in slabo življenje na robovih. Njegovi vrstniki, ki pišejo zločine, Pelecanosa imenujejo &quot;nesporni pesnik&quot; krhke strani Washingtona. Najbolj prodajani in nagrajeni avtor bo ta teden izšel s svojim 17. in najnovejšim romanom &quot;The Cut&quot;. Je prva v novi seriji, v kateri je predstavljen iraški vojni veteran in zasebni preiskovalec Spero Lucas. Ko ne dela za odvetnika v Washingtonu, Lucas izterja ukradeno premoženje za 40-odstotno rezanje. Zdaj odmevni šef kriminala najame Lucasa, da ugotovi, kdo mu ga krade, in lahko se izkaže, da je Lucasova največja plača ali nepravočasen konec. Medtem ko je Pelecanos svoje kosti izdeloval v noir tradiciji, je v &quot;The Cut&quot; določen &quot;zahodni&quot; občutek. Novi roman se dogaja v moralno sivem in pogosto nasilnem svetu. Popoln je z odličnim dialogom in z bogatimi podrobnostmi zajema znamenitosti, zvoke in okus Washingtona. Skratka, Pelecanos se bere kot prava stvar. Pelecanos ve kaj ali dve o zajemanju pristnosti urbane Amerike z etnično in socialno raznoliko zasedbo. Poleg uspeha kot romanopisec je Pelecanos producent in pisatelj za HBO-jev set Trem v New Orleansu. Pred tem je bil producent in za emmyja nominiran pisatelj v uspešnicah &quot;The Wire&quot; in miniseriji &quot;The Pacific&quot;. Preberite odlomek iz reza &quot;CNN&quot;, ki ga je pred kratkim Pelecanos spregovoril o svojem novem romanu. Sledi urejen prepis. CNN: Povej mi več o svojem novem liku, Spero Lucas.
+passage.questions.9.question:Kdo je iraški vojni veteran, ki dela za odvetnika?
+passage.questions.9.idx:952.0
+passage.questions.9.answers.4.text:Speros
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:4951.0
+passage.questions.9.answers.3.text:Sally Kups
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:4950.0
+passage.questions.9.answers.2.text:Chris O&#39;Dowd
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4949.0
+passage.questions.9.answers.1.text:Pelecanos
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4948.0
+passage.questions.9.answers.0.text:Spero Lucas
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:4947.0
+passage.questions.8.question:Kdo je protagonist nove knjige Georgea Pelecanosa &quot;The Cut&quot;?
+passage.questions.8.idx:951.0
+passage.questions.8.answers.3.text:Stephen King
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4946.0
+passage.questions.8.answers.2.text:John Dawson
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4945.0
+passage.questions.8.answers.1.text:Spero Lucas
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4944.0
+passage.questions.8.answers.0.text:Tim Neidle
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4943.0
+passage.questions.7.question:George Pelecanos je poleg pisanja romanov pisal tudi za katere TV oddaje?
+passage.questions.7.idx:950.0
+passage.questions.7.answers.7.text:Žica
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:4942.0
+passage.questions.7.answers.6.text:Prava kri
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:4941.0
+passage.questions.7.answers.5.text:Band bratov
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:4940.0
+passage.questions.7.answers.4.text:Treme
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:4939.0
+passage.questions.7.answers.3.text:Pacifik
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:4938.0
+passage.questions.7.answers.2.text:Rez
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4937.0
+passage.questions.7.answers.1.text:Treme, The Wire in The Pacific
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4936.0
+passage.questions.7.answers.0.text:Dekleta
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4935.0
+passage.questions.6.question:Na katerih televizijskih oddajah je delal George Pelecanos?
+passage.questions.6.idx:949.0
+passage.questions.6.answers.7.text:Žica
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:4934.0
+passage.questions.6.answers.6.text:Tanka modra črta
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:4933.0
+passage.questions.6.answers.5.text:Treme
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:4932.0
+passage.questions.6.answers.4.text:Pacifik
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:4931.0
+passage.questions.6.answers.3.text:Rez
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:4930.0
+passage.questions.6.answers.2.text:Kosti
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4929.0
+passage.questions.6.answers.1.text:&quot;Treme&quot;, &quot;The Wire&quot; in &quot;Pacific&quot;.
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:4928.0
+passage.questions.6.answers.0.text:Novo dekle
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4927.0
+passage.questions.5.question:Za koga kot zasebni preiskovalec dela Spero Lucas v najnovejšem romanu Pelecanosa &quot;Rez&quot;?
+passage.questions.5.idx:948.0
+passage.questions.5.answers.6.text:Doktor
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:4926.0
+passage.questions.5.answers.5.text:Odvetnik
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:4925.0
+passage.questions.5.answers.4.text:Vašingtonski zagovornik
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4924.0
+passage.questions.5.answers.3.text:Odvetnik
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:4923.0
+passage.questions.5.answers.2.text:Pelecanos
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4922.0
+passage.questions.5.answers.1.text:Politik
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4921.0
+passage.questions.5.answers.0.text:Kuhar
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4920.0
+passage.questions.4.question:Glede na članek, kaj je še posebej drugačno od tega, kako je Washington DC (in njegovi prebivalci) v zgodbah Pelecanosa upodobljen tipičnemu upodobitvi?
+passage.questions.4.idx:947.0
+passage.questions.4.answers.9.text:Socialna raznolikost
+passage.questions.4.answers.9.label:1.0
+passage.questions.4.answers.9.idx:4919.0
+passage.questions.4.answers.8.text:Etnična raznolikost
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:4918.0
+passage.questions.4.answers.7.text:Bršljanova liga
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:4917.0
+passage.questions.4.answers.6.text:Idilično
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:4916.0
+passage.questions.4.answers.5.text:Politiki
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:4915.0
+passage.questions.4.answers.4.text:Bela
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4914.0
+passage.questions.4.answers.3.text:Krhka
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:4913.0
+passage.questions.4.answers.2.text:zahodni občutek
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4912.0
+passage.questions.4.answers.1.text:Zgornji razred
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4911.0
+passage.questions.4.answers.0.text:Ne osredotočajo se na velike ljudi v vladi, ampak na ljudi iz delavskega razreda, na ljudi različnih ras in na njihovega nedrsečega podplata
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4910.0
+passage.questions.3.question:Kdo je najbolje prodajani in nagrajeni avtor knjige &quot;The Cut?&quot;
+passage.questions.3.idx:946.0
+passage.questions.3.answers.3.text:Stephen King
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:4909.0
+passage.questions.3.answers.2.text:George Pelecanos
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4908.0
+passage.questions.3.answers.1.text:John Grisham
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4907.0
+passage.questions.3.answers.0.text:Pelecanos
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4906.0
+passage.questions.2.question:Kaj je eden od razlogov, zakaj bi bil George Pelecanos &quot;morda največji ameriški pisatelj kriminalov?&quot;
+passage.questions.2.idx:945.0
+passage.questions.2.answers.5.text:Pelecanos ve, kako z etnično in socialno raznoliko zasedbo ujeti pristnost urbane Amerike
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:4905.0
+passage.questions.2.answers.4.text:Piše za TV
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4904.0
+passage.questions.2.answers.3.text:Njegova starost
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4903.0
+passage.questions.2.answers.2.text:Pozornost do podrobnosti
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4902.0
+passage.questions.2.answers.1.text:Pristnost
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:4901.0
+passage.questions.2.answers.0.text:Je nesporen pesnik
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4900.0
+passage.questions.18.question:Ali George Pelecanos piše o Washingtonu, DC?
+passage.questions.18.idx:961.0
+passage.questions.18.answers.1.text:Da
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:4994.0
+passage.questions.18.answers.0.text:Ne
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:4993.0
+passage.questions.17.question:Pelecanos piše o delovnih družinah, ki se borijo za preživetje, rasnih napetostih v etničnih soseskah in slabem življenju na robovih katerega od ameriških mest?
+passage.questions.17.idx:960.0
+passage.questions.17.answers.5.text:New York
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:4992.0
+passage.questions.17.answers.4.text:Philadelphia
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:4991.0
+passage.questions.17.answers.3.text:Washington DC
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:4990.0
+passage.questions.17.answers.2.text:Boston
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:4989.0
+passage.questions.17.answers.1.text:Washington DC
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:4988.0
+passage.questions.17.answers.0.text:Salt Lake City
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:4987.0
+passage.questions.16.question:Kateri lik ima najnovejši roman Georgea Pelecanosa &quot;The Cut&quot;?
+passage.questions.16.idx:959.0
+passage.questions.16.answers.3.text:Stephen King
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:4986.0
+passage.questions.16.answers.2.text:Lincoln Graves
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:4985.0
+passage.questions.16.answers.1.text:John Wayne
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:4984.0
+passage.questions.16.answers.0.text:Spero Lucas
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:4983.0
+passage.questions.15.question:Kateri roman se dogaja v moralno in nasilnem svetu in naj bi zelo podrobno zajemal znamenitosti, zvoke in okus Washingtona?
+passage.questions.15.idx:958.0
+passage.questions.15.answers.2.text:Žica
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:4982.0
+passage.questions.15.answers.1.text:Džungla
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:4981.0
+passage.questions.15.answers.0.text:&quot;Rez&quot;
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:4980.0
+passage.questions.14.question:Spero Lucas je lik v katerem romanu?
+passage.questions.14.idx:957.0
+passage.questions.14.answers.4.text:Matrica
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:4979.0
+passage.questions.14.answers.3.text:Mreža
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:4978.0
+passage.questions.14.answers.2.text:Dolgi strel
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:4977.0
+passage.questions.14.answers.1.text:Rez
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:4976.0
+passage.questions.14.answers.0.text:Žica
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:4975.0
+passage.questions.13.question:Kdo je pred kratkim izdal prvi roman v svoji seriji z iraškim vojnim veteranom in zasebnim preiskovalcem Sperom Lucasom?
+passage.questions.13.idx:956.0
+passage.questions.13.answers.5.text:Ving Raimes
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:4974.0
+passage.questions.13.answers.4.text:Pelecanos
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:4973.0
+passage.questions.13.answers.3.text:Ken Follett
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:4972.0
+passage.questions.13.answers.2.text:Ruth Ware
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:4971.0
+passage.questions.13.answers.1.text:Kralj
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:4970.0
+passage.questions.13.answers.0.text:George Pelecanos
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:4969.0
+passage.questions.12.question:Za katere tri oddaje je Pelecanos pisal?
+passage.questions.12.idx:955.0
+passage.questions.12.answers.6.text:Krona
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:4968.0
+passage.questions.12.answers.5.text:Žica
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:4967.0
+passage.questions.12.answers.4.text:Treme
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:4966.0
+passage.questions.12.answers.3.text:Pacifik
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:4965.0
+passage.questions.12.answers.2.text:Veep
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:4964.0
+passage.questions.12.answers.1.text:Opatija Downton, rugrats, nerazrešene skrivnosti
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4963.0
+passage.questions.12.answers.0.text:Igra prestolov
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:4962.0
+passage.questions.11.question:V katerem tipu sveta se dogaja &quot;Rez&quot;?
+passage.questions.11.idx:954.0
+passage.questions.11.answers.7.text:Zgodovinski
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:4961.0
+passage.questions.11.answers.6.text:Moralno siv in pogosto nasilen svet
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:4960.0
+passage.questions.11.answers.5.text:Utopično
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:4959.0
+passage.questions.11.answers.4.text:Nasilno
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:4958.0
+passage.questions.11.answers.3.text:Idilično
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4957.0
+passage.questions.11.answers.2.text:Mirno
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4956.0
+passage.questions.11.answers.1.text:nesporno
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4955.0
+passage.questions.11.answers.0.text:Moralno siva
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:4954.0
+passage.questions.10.question:Je George Pelecanos pisatelj zločinov?
+passage.questions.10.idx:953.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:4953.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:4952.0
+passage.questions.1.question:Kdo je pesnik, producent in pisec kriminalov?
+passage.questions.1.idx:944.0
+passage.questions.1.answers.4.text:Meyers Briggs
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:4899.0
+passage.questions.1.answers.3.text:Pelecanos
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4898.0
+passage.questions.1.answers.2.text:Maya Angelou
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4897.0
+passage.questions.1.answers.1.text:Stephen King
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:4896.0
+passage.questions.1.answers.0.text:George Pelecanos
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4895.0
+passage.questions.0.question:George Pelecanos je sodeloval kot pisatelj in producent pri katerih televizijskih oddajah?
+passage.questions.0.idx:943
+passage.questions.0.answers.9.text:Zakleni v tujini
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:4894.0
+passage.questions.0.answers.8.text:Žica
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:4893.0
+passage.questions.0.answers.7.text:Ples z zvezdami
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:4892.0
+passage.questions.0.answers.6.text:&quot;Treme&quot;, &quot;The Wire&quot; in &quot;Pacific&quot;.
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:4891.0
+passage.questions.0.answers.5.text:Treme
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:4890.0
+passage.questions.0.answers.4.text:Pacifik
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:4889.0
+passage.questions.0.answers.3.text:Kdo si želi biti milijonar
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4888.0
+passage.questions.0.answers.2.text:Veep
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4887.0
+passage.questions.0.answers.1.text:Iskalna skupina
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4886
+passage.questions.0.answers.0.text:Igra prestolov
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4885
+idx:81

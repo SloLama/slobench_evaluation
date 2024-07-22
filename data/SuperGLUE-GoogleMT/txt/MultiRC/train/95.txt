@@ -1,0 +1,57 @@
+version:1.1
+passage.text:Nekega dne je fant odšel na obisk v trgovino z igračami. V trgovini z igračami je mladi fant našel veliko zabavnih igrač. Ena igrača, ki je bila fantu zelo všeč, je bil majhen tovornjak modre igrače. Majhen modri igralski tovornjak je bil zelo zabaven za igranje in je sproščal veliko smešnih zvokov. Mladi fant se je dolgo igral z igračo, nato pa se je pojavil še en deček in se začel igrati z majhnim rdečim avtom. Na koncu sta fanta postala prijatelja in se dolgo igrala z igračami. Na koncu sta postala dobra prijatelja in v prihodnjih mesecih sta imela veliko skupnih zmenkov. Na en zmenek sta dva fanta zgradila veliko hišo na drevesu in jo poimenovala drevesni grad. Ure so se igrali na drevesnem gradu in vedno našli kaj zabave, ko so se igrali skupaj. Bila sta vesela, da sta se spoznala v trgovini z igračami in postala prijatelja za vse življenje.
+passage.questions.2.question:Kje je bil najden modri tovornjak?
+passage.questions.2.idx:1137.0
+passage.questions.2.answers.5.text:Shrani
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:5768.0
+passage.questions.2.answers.4.text:Hiša na drevesu
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:5767.0
+passage.questions.2.answers.3.text:V drevesnem gradu
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:5766.0
+passage.questions.2.answers.2.text:Garaža
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5765.0
+passage.questions.2.answers.1.text:Trgovina z igračami
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:5764.0
+passage.questions.2.answers.0.text:Trgovina z igračami
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5763.0
+passage.questions.1.question:Kdo se je igral z igračo, ki je oddajala veliko smešnih zvokov?
+passage.questions.1.idx:1136.0
+passage.questions.1.answers.5.text:Mlad fant
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:5762.0
+passage.questions.1.answers.4.text:Fant
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:5761.0
+passage.questions.1.answers.3.text:Fantovi prijatelji
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:5760.0
+passage.questions.1.answers.2.text:Fant in deklica
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5759.0
+passage.questions.1.answers.1.text:Še en fant
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:5758.0
+passage.questions.1.answers.0.text:Lastnik trgovine
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:5757.0
+passage.questions.0.question:Kdo je že dolgo postal prijatelj?
+passage.questions.0.idx:1135
+passage.questions.0.answers.3.text:Fant in deklica
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:5756.0
+passage.questions.0.answers.2.text:Modri tovornjak in rdeči avto
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:5755.0
+passage.questions.0.answers.1.text:Fant in voznik tovornjaka
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:5754
+passage.questions.0.answers.0.text:Fant in lastnik trgovine
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5753
+idx:95

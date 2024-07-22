@@ -1,0 +1,4 @@
+idx:7452
+label:True
+passage:Hash tabela - pri računalništvu je hash tabela (hash map) podatkovna struktura, ki izvaja asociativni matrični abstraktni tip podatkov, strukturo, ki lahko preslika ključe v vrednosti. Razpršilna tabela uporablja razpršilno funkcijo za izračun indeksa v nabor vedrov ali rež, iz katerih je mogoče najti želeno vrednost.
+question:so hash tabele in hash karte enako

@@ -1,0 +1,6 @@
+choice1:Pes je oddajal neprijeten vonj.
+choice2:Skunk je taval po gozdu.
+idx:136
+label:0
+premise:Skunk je psa poškropil.
+question:effect

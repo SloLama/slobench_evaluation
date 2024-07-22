@@ -1,0 +1,66 @@
+version:1.1
+passage.text:Tudi 12. februarja, teden dni pred finalom plesa na ledu, je Tokhtakhounov v telefonskem klicu Anissinini materi povedal, da me je uradnik ruske zveze &quot;poklical iz Amerike&quot;, da bi zagotovil, da &quot;bomo iz Anissine naredili olimpijskega prvaka. &quot; Povedal ji je, da bo uradnik ruske drsalne zveze &quot;pomagal - ima dva ali tri sodnike&quot;. Približno 7. marca je v pogovoru med Tohtakhounovom in Anissino dejala, da bi dogodek zmagala brez njegove pomoči, ker ruski sodnik ni glasoval zanjo in njenega partnerja. Opravičila se je tudi, ker se mu prej ni oglasila, da bi se zahvalila, ampak da ji je Gailhaguet prepovedal. Tokhtakhounov je povedala, da ve, da je FBI intervjuval Gailhaguet zaradi informacij, da je Tokhtakhounov &quot;sodeloval pri rezultatih&quot; plesa na ledu. Zagotovil ji je, da so to neumnosti, a da Gailhaguet &quot;zelo dobro pozna moje ime - poskušal mi je pomagati, kasneje pa si je izmislil stvari, da bi vas prestrašil, da me ne bi še bolj povezali z njim.&quot; Zdi se, da pogovori kažejo na poznavanje Tokhtakhounova in Anissine. Tass, uradna ruska tiskovna agencija, je poročala, da se je Anissina leta 1999 v pariškem hotelu udeležila slovesnosti v počastitev Tokhtakhounova za njegovo človekoljubje. Da se je ruski organizirani kriminal morda vdrl v mednarodni šport na olimpijskih igrah, je osupnil Phyllis Howard, predsednico ameriškega združenja za drsanje. &quot;To je kaznivo dejanje in vsekakor postavlja stvari v drugo ligo,&quot; je dejal Howard. Lloyd Ward, izvršni direktor ameriškega olimpijskega komiteja, je v izjavi dejal: &quot;Tekmovalcem iz vseh držav je treba zagotoviti, da tekmujejo na enakih pogojih.&quot;
+passage.questions.2.question:Na kateri datum je Anissina razkrila, da ji je Gailhaguet prepovedal govoriti s Tokhtakhounovom?
+passage.questions.2.idx:2540.0
+passage.questions.2.answers.5.text:12. februarja
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:13402.0
+passage.questions.2.answers.4.text:12. marec
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:13401.0
+passage.questions.2.answers.3.text:7. februarja
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13400.0
+passage.questions.2.answers.2.text:7. marca ali približno tega dne
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:13399.0
+passage.questions.2.answers.1.text:12. februarja
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:13398.0
+passage.questions.2.answers.0.text:7. marec
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13397.0
+passage.questions.1.question:Kdo bo pomagal, da bo Anissina postala &quot;olimpijska prvakinja&quot;?
+passage.questions.1.idx:2539.0
+passage.questions.1.answers.5.text:Gailhaguet
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:13396.0
+passage.questions.1.answers.4.text:Uradnik ruske drsalne zveze
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:13395.0
+passage.questions.1.answers.3.text:Uradnik ruske federacije
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:13394.0
+passage.questions.1.answers.2.text:Lloyd Ward
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:13393.0
+passage.questions.1.answers.1.text:Phyllis Howard
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13392.0
+passage.questions.1.answers.0.text:Tokhtakhounov
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13391.0
+passage.questions.0.question:Katera tiskovna agencija je objavila zgodbo, ki je nakazovala, da se je ruski organizirani kriminal morda vdrl v mednarodni šport na olimpijskih igrah?
+passage.questions.0.idx:2538
+passage.questions.0.answers.6.text:Ruska drsalna zveza
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:13390.0
+passage.questions.0.answers.5.text:Tass, uradna ruska tiskovna agencija
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:13389.0
+passage.questions.0.answers.4.text:CNN svet
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:13388.0
+passage.questions.0.answers.3.text:Tass
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:13387.0
+passage.questions.0.answers.2.text:Stalingradske novice
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13386.0
+passage.questions.0.answers.1.text:Združenje ameriškega umetnostnega drsanja
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13385
+passage.questions.0.answers.0.text:Ruski Associated Press
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13384
+idx:226

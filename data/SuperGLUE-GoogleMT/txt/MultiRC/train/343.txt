@@ -1,0 +1,160 @@
+version:1.1
+passage.text:G. Neville ((((Anthony Higgins, mlad in aroganten umetnik in nekakšen bajronični junak) je pogodbeno sestavil 12 krajinskih risb posestva gospe Virginije Herbert za svojega odsotnega in odtujenega moža. Del pogodbe je, da se gospa Herbert strinja, da se bo »z g. Nevillom srečala zasebno in da bo izpolnila njegove zahteve glede njegovega užitka z mano.« Sledi več spolnih srečanj med njima, pri čemer sta vsaka ravnala tako, da sta poudarila zadržanost ali stisko gospe Herbert in spolne agresije ali neobčutljivosti gospoda Nevillea. Medtem ko gospod Neville med bivanjem na posestvu pridobi velik ugled pri svojih prebivalcih, zlasti pri zetu gospe Herbert, g. Talmann. Gospa Herbert, naveličana srečanja z g. Nevillom, poskuša prekiniti pogodbo, preden so zaključene vse risbe, in ukaže gospodu Nevilleu, naj preneha, vendar noče razveljaviti pogodbe in nadaljuje kot prej. . Zdi se, da je Herbertova poročena, a še brez otrok hči gospa Talmann, ki jo je g. Neville očitno pritegnil, izsiljevala, da sklene drugo pogodbo, v kateri se strinja, da bo izpolnjeval to, kar je opisano kot njeno zadovoljstvo, namesto njegovega preobrat v položaju glede njene matere. Na Nevillovih risbah se pojavljajo številni nenavadni predmeti, ki na koncu kažejo na umor gospoda Herberta, katerega telo je odkrito v jarku hiše. G. Neville dopolni svojih dvanajst risb in zapusti hišo.
+passage.questions.9.question:Kdo je mož gospe Talmann?
+passage.questions.9.idx:3974.0
+passage.questions.9.answers.2.text:G. Talmann
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:21139.0
+passage.questions.9.answers.1.text:Hči gospe Herbert
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:21138.0
+passage.questions.9.answers.0.text:Sestra gospe Herbert
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:21137.0
+passage.questions.8.question:Kakšna sta bila dva dela pogodbe, ki jo je gospod Neville sestavil za MRS. Virginia Herbert?
+passage.questions.8.idx:3973.0
+passage.questions.8.answers.3.text:Da mu pripravim večerjo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:21136.0
+passage.questions.8.answers.2.text:Da bi bil vesel
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:21135.0
+passage.questions.8.answers.1.text:Nenaklonjenost ali stiska gospe Herbert in spolna agresija ali neobčutljivost gospoda Nevillea
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:21134.0
+passage.questions.8.answers.0.text:Serija 12 risb za urejanje krajine in prošnja, da izpolni njegove užitke
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:21133.0
+passage.questions.7.question:Koliko risb bo v skladu s pogodbo ustvaril Neville?
+passage.questions.7.idx:3972.0
+passage.questions.7.answers.1.text:15.
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:21132.0
+passage.questions.7.answers.0.text:12.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:21131.0
+passage.questions.6.question:Ali je pogodba spodbujala ponižujoč odnos gospe Herbert
+passage.questions.6.idx:3971.0
+passage.questions.6.answers.2.text:Da, vsako spolno srečanje je potekalo tako, da je poudarilo zadržanost ali stisko gospe Herbert
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:21130.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:21129.0
+passage.questions.6.answers.0.text:Ne, ni
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:21128.0
+passage.questions.5.question:Ali je gospod Neville užival pogodbene pogoje?
+passage.questions.5.idx:3970.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:21127.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21126.0
+passage.questions.4.question:Ali gospod Neville ve kaj o umoru gospe Herbert?
+passage.questions.4.idx:3969.0
+passage.questions.4.answers.2.text:Da, saj njegove risbe sodelujejo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:21125.0
+passage.questions.4.answers.1.text:Da, na Nevillovih risbah se pojavljajo številni radovedni predmeti, ki navsezadnje kažejo na umor gospoda Herberta
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:21124.0
+passage.questions.4.answers.0.text:Ne pa ni
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:21123.0
+passage.questions.3.question:Za kaj je bil naročen gospod Herbert in ali je končal svoje delo?
+passage.questions.3.idx:3968.0
+passage.questions.3.answers.5.text:Da, svoje delo je končal
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:21122.0
+passage.questions.3.answers.4.text:Pripravite serijo 12 krajinskih risb posestva gospe Virginije Herbert za njenega odsotnega in odtujenega moža
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:21121.0
+passage.questions.3.answers.3.text:Svojega dela ni končal
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:21120.0
+passage.questions.3.answers.2.text:Če želite ustvariti skulpturo
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:21119.0
+passage.questions.3.answers.1.text:Da, dokončal je 12 posestnih slik
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:21118.0
+passage.questions.3.answers.0.text:Je pogodbeno odsoten in odtujen mož
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:21117.0
+passage.questions.2.question:S kom je imel gospod Neville spolne odnose?
+passage.questions.2.idx:3967.0
+passage.questions.2.answers.3.text:Gospa Williams
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:21116.0
+passage.questions.2.answers.2.text:Vlada
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:21115.0
+passage.questions.2.answers.1.text:Gospa Herbert in gospa Talmann
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:21114.0
+passage.questions.2.answers.0.text:Gospa Herbert
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:21113.0
+passage.questions.13.question:Ali je gospa Herbert uživala pogodbene pogoje?
+passage.questions.13.idx:3978.0
+passage.questions.13.answers.1.text:Da
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:21150.0
+passage.questions.13.answers.0.text:Ne
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:21149.0
+passage.questions.12.question:Ali gospa Herbert uživa v svojih spolnih srečanjih z gospodom Nevilleom?
+passage.questions.12.idx:3977.0
+passage.questions.12.answers.2.text:Da, zelo
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:21148.0
+passage.questions.12.answers.1.text:Ne, ona poskuša odpovedati pogodbo
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:21147.0
+passage.questions.12.answers.0.text:Ne
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:21146.0
+passage.questions.11.question:Ali je bila v pogodbi določena kakšna spolna situacija?
+passage.questions.11.idx:3976.0
+passage.questions.11.answers.2.text:Ne, ni
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:21145.0
+passage.questions.11.answers.1.text:Da, tisti, v katerem se gospa Herbert strinja, da se bo z gospodom Nevillejem sestala zasebno in bo izpolnila njegove zahteve glede njegovega užitka
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:21144.0
+passage.questions.11.answers.0.text:Da
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:21143.0
+passage.questions.10.question:Kdo ima več spolnih srečanj?
+passage.questions.10.idx:3975.0
+passage.questions.10.answers.2.text:Gospa Herbert in gospod Neville
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:21142.0
+passage.questions.10.answers.1.text:Barnett
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:21141.0
+passage.questions.10.answers.0.text:G. Smith in ga. Williams
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:21140.0
+passage.questions.1.question:Zakaj je gospa Herbert želela odpovedati pogodbo med njo in gospodom Nevilleom?
+passage.questions.1.idx:3966.0
+passage.questions.1.answers.2.text:Njegov odnos ji ni bil všeč
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:21112.0
+passage.questions.1.answers.1.text:Bila je naveličana srečanja z gospodom Nevillom za njegovo zadovoljstvo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:21111.0
+passage.questions.1.answers.0.text:V njunem spolnem odnosu se je počutila neprijetno
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21110.0
+passage.questions.0.question:Kdo noče razveljaviti pogodbe in nadaljuje kot prej?
+passage.questions.0.idx:3965
+passage.questions.0.answers.1.text:Gospod Neville
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:21109
+passage.questions.0.answers.0.text:Gospa Herbert
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:21108
+idx:343

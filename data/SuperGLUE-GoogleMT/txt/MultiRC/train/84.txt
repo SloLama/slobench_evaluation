@@ -1,0 +1,153 @@
+version:1.1
+passage.text:Energija je shranjena v kemičnih spojinah. Ta energija se imenuje kemična energija. Kemična energija je oblika potencialne energije. Ko se vezi med atomi prekinejo, se energija sprosti. Les v kaminih ima kemično energijo. Ko les zažge, se energija sprosti kot toplota in svetloba. Večina živih bitij dobi energijo iz hrane. Ko se molekule hrane razgradijo, se energija sprosti. Nato se lahko uporablja za delo, kot je igranje žoge ali študij naravoslovja. Če ste že kdaj slišali: &quot;Pojej dober zajtrk&quot;, ravno zato. Če želite čez dan delati stvari, potrebujete energijo. Za to potrebujete energijo. Energijo dobivate iz hrane, ki jo jeste. Ta energija je shranjena v vašem telesu, dokler je ne potrebujete. Kako ste danes prišli v šolo? Če ste hodili, ste uporabljali kemično energijo iz hrane, ki ste jo pojedli. Kaj če bi se vozili z avtobusom ali če bi se vozili z avtom? Od kod ta energija?
+passage.questions.8.question:Kaj se sprosti, ko se kemične spojine razgradijo?
+passage.questions.8.idx:991.0
+passage.questions.8.answers.5.text:Atomi
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:5186.0
+passage.questions.8.answers.4.text:Ogenj
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:5185.0
+passage.questions.8.answers.3.text:Sončna energija
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:5184.0
+passage.questions.8.answers.2.text:Energija
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:5183.0
+passage.questions.8.answers.1.text:Gibanje
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:5182.0
+passage.questions.8.answers.0.text:Kemikalije
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:5181.0
+passage.questions.7.question:Ali ima les potencialno energijo?
+passage.questions.7.idx:990.0
+passage.questions.7.answers.1.text:Včasih
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:5180.0
+passage.questions.7.answers.0.text:Da
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:5179.0
+passage.questions.6.question:Kje ljudje dobijo svojo energijo
+passage.questions.6.idx:989.0
+passage.questions.6.answers.5.text:Od sonca
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:5178.0
+passage.questions.6.answers.4.text:Od hrane, ki jo jedo
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:5177.0
+passage.questions.6.answers.3.text:Spi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:5176.0
+passage.questions.6.answers.2.text:Od vadbe
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:5175.0
+passage.questions.6.answers.1.text:Hrana
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:5174.0
+passage.questions.6.answers.0.text:Od kemikalij
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:5173.0
+passage.questions.5.question:Kaj se zgodi z vezmi med atomi, da lahko hodite?
+passage.questions.5.idx:988.0
+passage.questions.5.answers.6.text:Povezujejo se
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:5172.0
+passage.questions.5.answers.5.text:Veze med atomi so pretrgane
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:5171.0
+passage.questions.5.answers.4.text:Zlomljeni so
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:5170.0
+passage.questions.5.answers.3.text:Odganjata se
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:5169.0
+passage.questions.5.answers.2.text:Staljena sta skupaj
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5168.0
+passage.questions.5.answers.1.text:Vezi so pretrgane
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:5167.0
+passage.questions.5.answers.0.text:Nastanejo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:5166.0
+passage.questions.4.question:Kaj se zgodi z atomi v lesu, ko se energija sprosti kot toplota in svetloba iz lesa?
+passage.questions.4.idx:987.0
+passage.questions.4.answers.6.text:Vezi med njima se pretrgajo
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:5165.0
+passage.questions.4.answers.5.text:Veze med atomi so pretrgane
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:5164.0
+passage.questions.4.answers.4.text:Oblikujejo vezi
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:5163.0
+passage.questions.4.answers.3.text:Odganjata se
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:5162.0
+passage.questions.4.answers.2.text:Staljena sta skupaj
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:5161.0
+passage.questions.4.answers.1.text:Imajo verižno reakcijo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:5160.0
+passage.questions.4.answers.0.text:Razčlenjeni so
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:5159.0
+passage.questions.3.question:Kakšno energijo ima les?
+passage.questions.3.idx:986.0
+passage.questions.3.answers.3.text:Konvekcijska energija
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:5158.0
+passage.questions.3.answers.2.text:Sončna energija
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:5157.0
+passage.questions.3.answers.1.text:Kemična energija
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:5156.0
+passage.questions.3.answers.0.text:kinetična energija
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:5155.0
+passage.questions.2.question:Ima hrana potencialno energijo?
+passage.questions.2.idx:985.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:5154.0
+passage.questions.2.answers.0.text:Mogoče
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5153.0
+passage.questions.1.question:Kakšna energija je shranjena v kemičnih spojinah?
+passage.questions.1.idx:984.0
+passage.questions.1.answers.4.text:Sončna energija
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:5152.0
+passage.questions.1.answers.3.text:Kemična energija
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:5151.0
+passage.questions.1.answers.2.text:Nuklearna energija
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5150.0
+passage.questions.1.answers.1.text:kinetična energija
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:5149.0
+passage.questions.1.answers.0.text:kinetična
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:5148.0
+passage.questions.0.question:Kako se sprosti energija iz potencialne energije?
+passage.questions.0.idx:983
+passage.questions.0.answers.4.text:Ko tečeš
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:5147.0
+passage.questions.0.answers.3.text:Ko pride do kemične reakcije
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:5146.0
+passage.questions.0.answers.2.text:S kemičnimi spojinami
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:5145.0
+passage.questions.0.answers.1.text:Ko se vezi med atomi pretrgajo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5144
+passage.questions.0.answers.0.text:Ko spite
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5143
+idx:84

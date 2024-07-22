@@ -1,0 +1,285 @@
+version:1.1
+passage.text:Ko so prejšnji mesec 74-letno Penny Sweat izselili iz stanovanja starejših stanovanj Glendale, ki ga subvencionira HUD, v Salt Lake Cityju, se je preselila v nesubidirano stanovanje petkrat več kot v prejšnji najemnini, ker ni vedela za svoje pravice. Izkazalo se je, da upravnik kompleksa za upokojence tudi njegovi odvetniki in vladni nadzorniki niso vedeli. Lee Kemp, veterinar s posebnimi potrebami iz 2. svetovne vojne, je bil tudi deložiran, vendar je stopil v stik s pravno službo Utaha in mu naročil, naj ostane na mestu. Odvetnik Marty Blaustein je nato lastnika stavbe obvestil družbo Utah Nonprofit Housing Corp., da Kempova izselitev ni zakonita in da ima pravico do zaslišanja. To odvetnikom neprofitnega stanovanja Utah ni preprečilo, da bi nato Kempu poslali poziv, da bi dokazali, zakaj se ni odselil. Vnukinja Sweat je medtem poklicala stanovanjske uradnike Salt Lake Cityja, zvezne stanovanjske uradnike, državne uradnike in več agentov neprofitnega stanovanja Utah, da bi izvedela o pravicah svoje babice. Nihče ni vedel. Blaustein je nato skupaj z Kempovo vzel primer Sweata in zahteval, da se odpravi. Predsednica neprofitnega stanovanja Utah Marion Willey se je vrnila s potovanja zunaj mesta in se naučila, da postopkov HUD niso upoštevali. Deložacija je bila aktivirana zaradi stalnih osebnostnih sporov med starejšimi v kompleksu, je dejal, novi upravnik stavbe pa se je odločil, da so težave s Sweatom in Kempom. Več najemnikov pa krivce za razkol obtožujejo druge sosede. Willey je dejal, da so mu, ko je njegov upravnik stavbe poklical odvetnike, ki jih je zadržala družba, zmotno rekli, da lahko gre naprej in izžene najemnike. Ko je poklicala HUD, da se prepriča, je preiskava zašla v birokracijo in nihče je ni poklical nazaj. Willey pravi, da je stanovanja Sweat in Kemp ponudil v drugem kompleksu, ki ga upravlja njegovo podjetje, po njihovih starih cenah. Zadržuje tudi nove odvetnike.
+passage.questions.9.question:Koga so izselili poleg Penny Sweat?
+passage.questions.9.idx:2956.0
+passage.questions.9.answers.1.text:Lee Kemp
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:15685.0
+passage.questions.9.answers.0.text:Marion Willey
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:15684.0
+passage.questions.8.question:Kakšna je bila stopnja stanovanj, v katere se je moral preseliti Penny Sweat?
+passage.questions.8.idx:2955.0
+passage.questions.8.answers.4.text:5-krat manj
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:15683.0
+passage.questions.8.answers.3.text:74
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:15682.0
+passage.questions.8.answers.2.text:5-krat stara stopnja, nato pa spet stara stopnja
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:15681.0
+passage.questions.8.answers.1.text:5-krat več
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:15680.0
+passage.questions.8.answers.0.text:Petkrat več kot prejšnja najemnina
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:15679.0
+passage.questions.7.question:Kateri dve osebi sta bili neupravičeno deložirani od tam?
+passage.questions.7.idx:2954.0
+passage.questions.7.answers.6.text:Lee Kemp
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:15678.0
+passage.questions.7.answers.5.text:Lee Kemp in Penny Sweat
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:15677.0
+passage.questions.7.answers.4.text:Penny Znoj
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:15676.0
+passage.questions.7.answers.3.text:Penny Sweat in Lee Kemp
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:15675.0
+passage.questions.7.answers.2.text:Marty Blaustein
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:15674.0
+passage.questions.7.answers.1.text:Marion Willey
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:15673.0
+passage.questions.7.answers.0.text:Blaustein
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:15672.0
+passage.questions.6.question:V čem je bila težava s Penny Sweat in Lee Kemp
+passage.questions.6.idx:2953.0
+passage.questions.6.answers.6.text:Nezavedno
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:15671.0
+passage.questions.6.answers.5.text:Izselili so jih iz kompleksa starejših
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:15670.0
+passage.questions.6.answers.4.text:Od tam so jih krivično izselili
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:15669.0
+passage.questions.6.answers.3.text:Preselila se je v nesubsidirano stanovanje po petkratni najemnini
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:15668.0
+passage.questions.6.answers.2.text:Riff
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:15667.0
+passage.questions.6.answers.1.text:STAROST
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:15666.0
+passage.questions.6.answers.0.text:Sosedi
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:15665.0
+passage.questions.5.question:Kdo po izselitvi Penny Sweat ni vedel za svoje pravice?
+passage.questions.5.idx:2952.0
+passage.questions.5.answers.8.text:Lee Kemp
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:15664.0
+passage.questions.5.answers.7.text:Vladni nadzorniki
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:15663.0
+passage.questions.5.answers.6.text:Odvetniki
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:15662.0
+passage.questions.5.answers.5.text:Penny Znoj
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:15661.0
+passage.questions.5.answers.4.text:Penny, upravnica kompleksa, njegovi odvetniki in vladni nadzorniki
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:15660.0
+passage.questions.5.answers.3.text:Vodje kompleksa starejših
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:15659.0
+passage.questions.5.answers.2.text:Marty Blaustein
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:15658.0
+passage.questions.5.answers.1.text:Penny Sweat se ni zavedala svojih pravic
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:15657.0
+passage.questions.5.answers.0.text:HUD
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15656.0
+passage.questions.4.question:Kdo je poklical HUD, da bi se prepričal, da sme izbiti najemnike?
+passage.questions.4.idx:2951.0
+passage.questions.4.answers.7.text:Penny
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:15655.0
+passage.questions.4.answers.6.text:Marty
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:15654.0
+passage.questions.4.answers.5.text:Willey
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:15653.0
+passage.questions.4.answers.4.text:Kemp
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:15652.0
+passage.questions.4.answers.3.text:Vodja stavbe
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:15651.0
+passage.questions.4.answers.2.text:Marty Blaustein
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:15650.0
+passage.questions.4.answers.1.text:Marion Willey
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15649.0
+passage.questions.4.answers.0.text:Willeyjev upravnik stavbe
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:15648.0
+passage.questions.3.question:Kdo sta bila dva najemnika, ki sta bila izseljena?
+passage.questions.3.idx:2950.0
+passage.questions.3.answers.7.text:Lee Kemp
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:15647.0
+passage.questions.3.answers.6.text:Penny Znoj
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:15646.0
+passage.questions.3.answers.5.text:Willey
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:15645.0
+passage.questions.3.answers.4.text:Kemp
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:15644.0
+passage.questions.3.answers.3.text:Marty Blaustein
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:15643.0
+passage.questions.3.answers.2.text:Marion Willey
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15642.0
+passage.questions.3.answers.1.text:Blaustein
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15641.0
+passage.questions.3.answers.0.text:Pot
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:15640.0
+passage.questions.2.question:Kdo ni vedel za pravice Penny Sweat?
+passage.questions.2.idx:2949.0
+passage.questions.2.answers.8.text:Lee Kemp
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:15639.0
+passage.questions.2.answers.7.text:Vladni nadzorniki
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:15638.0
+passage.questions.2.answers.6.text:Odvetniki
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:15637.0
+passage.questions.2.answers.5.text:Penny Znoj
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:15636.0
+passage.questions.2.answers.4.text:Marty
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:15635.0
+passage.questions.2.answers.3.text:Pennyjeva vnukinja
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15634.0
+passage.questions.2.answers.2.text:Penny Sweat, vodja kompleksa za starejše, in njeni odvetniki ter vladni nadzorniki
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:15633.0
+passage.questions.2.answers.1.text:Vodje kompleksa starejših
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15632.0
+passage.questions.2.answers.0.text:Uradniki za stanovanja v Salt Lake Cityju
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15631.0
+passage.questions.11.question:Kdo je vedel, kakšne so pravice Penny?
+passage.questions.11.idx:2958.0
+passage.questions.11.answers.7.text:Penny
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:15700.0
+passage.questions.11.answers.6.text:Njena vnukinja
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:15699.0
+passage.questions.11.answers.5.text:Willey
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:15698.0
+passage.questions.11.answers.4.text:Nihče
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:15697.0
+passage.questions.11.answers.3.text:Pennyjeva vnukinja
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:15696.0
+passage.questions.11.answers.2.text:Kemp
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:15695.0
+passage.questions.11.answers.1.text:Marty Blaustein
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:15694.0
+passage.questions.11.answers.0.text:Marion Willey
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:15693.0
+passage.questions.10.question:Česa Penny Sweat in Lee Kemp nista vedela?
+passage.questions.10.idx:2957.0
+passage.questions.10.answers.6.text:Od tam so jih krivično izselili
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:15692.0
+passage.questions.10.answers.5.text:Njihove pravice glede nezakonite deložacije
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:15691.0
+passage.questions.10.answers.4.text:Izselitev
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:15690.0
+passage.questions.10.answers.3.text:Njihove pravice
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:15689.0
+passage.questions.10.answers.2.text:Na sodišče
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:15688.0
+passage.questions.10.answers.1.text:Postopki HUD niso bili upoštevani
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:15687.0
+passage.questions.10.answers.0.text:Podjetje
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:15686.0
+passage.questions.1.question:Kje je bila Marion Willey, ko so bili najemniki izseljeni in kdo je bil po njegovem odgovornem?
+passage.questions.1.idx:2948.0
+passage.questions.1.answers.7.text:Iz mesta
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:15630.0
+passage.questions.1.answers.6.text:Znoj in Kemp
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:15629.0
+passage.questions.1.answers.5.text:Izlet iz mesta
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:15628.0
+passage.questions.1.answers.4.text:Drugi sosedje
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:15627.0
+passage.questions.1.answers.3.text:Bil je zunaj mesta in zatrjeval, da je upravnik stavbe poklical odvetnike, ki so upravniku stavbe narobe rekli, naj se deložira
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:15626.0
+passage.questions.1.answers.2.text:Izlet izven mesta, upravnik stavbe
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:15625.0
+passage.questions.1.answers.1.text:Juta
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15624.0
+passage.questions.1.answers.0.text:Podjetje
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:15623.0
+passage.questions.0.question:Kdo ni vedel za pravice najemnikov?
+passage.questions.0.idx:2947
+passage.questions.0.answers.7.text:Lee Kemp
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:15622.0
+passage.questions.0.answers.6.text:Vladni nadzorniki
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:15621.0
+passage.questions.0.answers.5.text:Odvetniki
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:15620.0
+passage.questions.0.answers.4.text:Penny Znoj
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:15619.0
+passage.questions.0.answers.3.text:Menedžerji
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:15618.0
+passage.questions.0.answers.2.text:Penny Sweat, Lee Kemp, upravitelji kompleksa za upokojence, njegovi odvetniki in vladni nadzorniki ter vnukinja Sweats
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15617.0
+passage.questions.0.answers.1.text:Kemp
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:15616
+passage.questions.0.answers.0.text:Pot
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:15615
+idx:263

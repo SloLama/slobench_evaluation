@@ -1,0 +1,221 @@
+version:1.1
+passage.text:Ugrabitelji napadli ob 9:28. Med potovanjem 35.000 metrov nad vzhodnim Ohiom je United 93 nenadoma padel 700 metrov. Enajst sekund po spustu je FAA-jev center za nadzor zračnega prometa v Clevelandu prejel prvo od dveh radijskih oddaj z letala. Med prvo oddajo je bilo slišati kapitana ali prvega častnika, ki je ob zvokih fizičnega boja v pilotski kabini razglasil &quot;Mayday&quot;. Drugi radijski prenos, 35 sekund kasneje, je pokazal, da se boj nadaljuje. Kapetana ali prvega častnika je bilo slišati, kako je kričal: &quot;Hej, pojdi od tod, pojdi od tod, pojdi od tu.&quot; Zjutraj 11. septembra je bilo na United 93-33 poleg štirih ugrabiteljev le 37 potnikov. To je bilo pod normo za torek zjutraj poleti 2001. Vendar ni dokazov, da bi ugrabitelji manipulirali s potniki ali kupili dodatne sedeže, da bi olajšali njihovo delovanje. Teroristi, ki so 11. septembra ugrabili še tri komercialne lete, so delovali v petčlanskih ekipah. Prevzem kokpita so začeli v 30 minutah po vzletu. Na letu 93 pa je prevzem potekal 46 minut po vzletu, ugrabitelji pa so bili le štirje. Operativec, ki je verjetno želel zaokrožiti ekipo za ta let, Mohameda al Kahtanija, je sumljivi priseljevalni inšpektor na floridskem mednarodnem letališču Orlando avgusta zavrnil. Ker je več potnikov v družbi United 93 na letalu opisovalo tri ugrabitelje in ne štiri, so se nekateri spraševali, ali je eden od ugrabiteljev že od samega začetka leta lahko uporabil sedež za skok v pilotski kabini. Pravila FAA dovoljujejo uporabo tega sedeža dokumentiranim in odobrenim posameznikom, običajno letalskim prevoznikom ali osebju FAA. Nismo našli nobenega dokaza, ki bi nakazoval, da je eden od ugrabiteljev ali kdo drug sedel tam na tem letu. Vsi ugrabitelji so določili sedeže v prvem razredu in zdi se, da so jih že uporabljali. Verjamemo, da je bolj verjetno, da je Jarrah, ključni pilotno usposobljeni član njihove ekipe, ostal sedeč in neopazen šele po zasegu kokpita; in ko je bil notri, ga potniki ne bi videli.
+passage.questions.9.question:Katera dva dejavnika sta se med tremi ugrabljenimi letali in United 93 razlikovala?
+passage.questions.9.idx:1343.0
+passage.questions.9.answers.7.text:agencija za rezervacijo leta
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:6943.0
+passage.questions.9.answers.6.text:navigacijski sistem, ki ga uporabljajo letala.
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:6942.0
+passage.questions.9.answers.5.text:vreme in gorivo, ki ga uporablja letalo
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:6941.0
+passage.questions.9.answers.4.text:Letalski prevoznik, ki upravlja letala.
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:6940.0
+passage.questions.9.answers.3.text:Število ugrabiteljev
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:6939.0
+passage.questions.9.answers.2.text:United 93 je trajal dlje in imel manj ugrabiteljev
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:6938.0
+passage.questions.9.answers.1.text:Čas, ki je minil pred začetkom prevzema.
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:6937.0
+passage.questions.9.answers.0.text:dan prevzema
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:6936.0
+passage.questions.8.question:Kaj je bilo za ta dan podpovprečno?
+passage.questions.8.idx:1342.0
+passage.questions.8.answers.4.text:temperatura
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:6935.0
+passage.questions.8.answers.3.text:obseg zračnega prometa na nebu
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:6934.0
+passage.questions.8.answers.2.text:število ugrabiteljev
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:6933.0
+passage.questions.8.answers.1.text:Število potnikov na krovu.
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:6932.0
+passage.questions.8.answers.0.text:število potnikov v prvem razredu.
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:6931.0
+passage.questions.7.question:Koliko časa je preteklo med 1. radijskim oddajanjem in drugim?
+passage.questions.7.idx:1341.0
+passage.questions.7.answers.3.text:drugega prenosa ni bilo
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:6930.0
+passage.questions.7.answers.2.text:dve minuti
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:6929.0
+passage.questions.7.answers.1.text:35 minut
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:6928.0
+passage.questions.7.answers.0.text:35 sekund.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:6927.0
+passage.questions.6.question:Ali obstajajo dokazi, da je bil skok sedež uporabljen na letu 00?
+passage.questions.6.idx:1340.0
+passage.questions.6.answers.4.text:Da, Jarrahino osebno izkaznico so našli blizu sedeža v razbitinah
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:6926.0
+passage.questions.6.answers.3.text:ja
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:6925.0
+passage.questions.6.answers.2.text:Da, Jarrah je tja postavil sumljiv uslužbenec letalske družbe
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:6924.0
+passage.questions.6.answers.1.text:Ne
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:6923.0
+passage.questions.6.answers.0.text:Ne, to so zgolj špekulacije
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:6922.0
+passage.questions.5.question:Je bilo 11. septembra v Unitedu 99-33 normalno število potnikov?
+passage.questions.5.idx:1339.0
+passage.questions.5.answers.3.text:vsi potniki so rezervirali prvovrstne sedeže
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:6921.0
+passage.questions.5.answers.2.text:Let je bil preveč rezerviran
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:6920.0
+passage.questions.5.answers.1.text:Ne
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:6919.0
+passage.questions.5.answers.0.text:Bilo je veliko praznih sedežev
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:6918.0
+passage.questions.4.question:Koliko ugrabiteljev je sedelo v prvem razredu?
+passage.questions.4.idx:1338.0
+passage.questions.4.answers.2.text:trije
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:6917.0
+passage.questions.4.answers.1.text:vse
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:6916.0
+passage.questions.4.answers.0.text:4.
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:6915.0
+passage.questions.3.question:Koliko manj ugrabiteljev je bilo na United 93 kot preostali 3 komercialni leti, ki so jih ugrabili?
+passage.questions.3.idx:1337.0
+passage.questions.3.answers.3.text:bilo jih je enako
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:6914.0
+passage.questions.3.answers.2.text:bil je en dodatni ugrabitelj
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:6913.0
+passage.questions.3.answers.1.text:2 ugrabitelja manj
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6912.0
+passage.questions.3.answers.0.text:1 ugrabitelj manj
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:6911.0
+passage.questions.2.question:Koliko časa je bil prevzem United 93 daljši od njihovih prejšnjih poskusov?
+passage.questions.2.idx:1336.0
+passage.questions.2.answers.5.text:16 sekund
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:6910.0
+passage.questions.2.answers.4.text:15 minut
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:6909.0
+passage.questions.2.answers.3.text:35 sekund
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6908.0
+passage.questions.2.answers.2.text:30 minut
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:6907.0
+passage.questions.2.answers.1.text:30 sekund
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:6906.0
+passage.questions.2.answers.0.text:16 minut
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:6905.0
+passage.questions.12.question:Kdaj je kapitan (ali prvi častnik) zahteval, naj napadalec &quot;odide od tu!&quot;?
+passage.questions.12.idx:1346.0
+passage.questions.12.answers.6.text:46 sekund po tem, ko se je letalo začelo spuščati.
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:6957.0
+passage.questions.12.answers.5.text:po drugem prenosu
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:6956.0
+passage.questions.12.answers.4.text:51 minut leta
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:6955.0
+passage.questions.12.answers.3.text:5 minut po vzletu leta
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:6954.0
+passage.questions.12.answers.2.text:Med drugim radijskim prenosom
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:6953.0
+passage.questions.12.answers.1.text:35 sekund po prvem prenosu
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:6952.0
+passage.questions.12.answers.0.text:Med drugim radijskim prenosom
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:6951.0
+passage.questions.11.question:Koliko moških je bilo v ekipah, ki so vzlet končale v 30 minutah?
+passage.questions.11.idx:1345.0
+passage.questions.11.answers.2.text:tri
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:6950.0
+passage.questions.11.answers.1.text:dejansko število ni znano
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:6949.0
+passage.questions.11.answers.0.text:več kot tri
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:6948.0
+passage.questions.10.question:Jarrah je med prevzemom ostal sedeč?
+passage.questions.10.idx:1344.0
+passage.questions.10.answers.3.text:V drugem razredu, razen ostalih ugrabiteljev
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:6947.0
+passage.questions.10.answers.2.text:raje je ostal stoječ
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:6946.0
+passage.questions.10.answers.1.text:kokpit
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:6945.0
+passage.questions.10.answers.0.text:Na svojem sedežu v prvem razredu
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:6944.0
+passage.questions.1.question:Koliko sekund spodobnega je bil drugi klic?
+passage.questions.1.idx:1335.0
+passage.questions.1.answers.5.text:11 sekund
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:6904.0
+passage.questions.1.answers.4.text:1 minuto
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:6903.0
+passage.questions.1.answers.3.text:2 minuti
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6902.0
+passage.questions.1.answers.2.text:drugega klica ni bilo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:6901.0
+passage.questions.1.answers.1.text:46 sekund
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:6900.0
+passage.questions.1.answers.0.text:35 sekund
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:6899.0
+passage.questions.0.question:Kdaj je padla enota 93?
+passage.questions.0.idx:1334
+passage.questions.0.answers.4.text:Ko je operativec verjetno nameraval zaokrožiti ekipo
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:6898.0
+passage.questions.0.answers.3.text:Medtem ko je bilo mogoče slišati prvega častnika
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:6897.0
+passage.questions.0.answers.2.text:Med potovanjem nad vzhodnim Ohiom
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:6896.0
+passage.questions.0.answers.1.text:Med potovanjem 35.000 čevljev
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:6895
+passage.questions.0.answers.0.text:Enajst sekund v spust
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:6894
+idx:113

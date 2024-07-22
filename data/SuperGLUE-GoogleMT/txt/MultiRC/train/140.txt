@@ -1,0 +1,117 @@
+version:1.1
+passage.text:Da bi se prepričale, da se ZDA zavedajo nevarnosti, sta Szilard in Wigner julija 1939, nekaj mesecev pred začetkom druge svetovne vojne v Evropi, obiskala Einsteina, da bi razložila možnost atomskih bomb, za kar je Einstein, pacifist, dejal, da nikoli upoštevana. Prosili so ga za podporo, tako da je skupaj s Szilardom predsedniku Rooseveltu napisal pismo, v katerem priporoča ZDA, naj bodo pozorne in se lotijo lastnih raziskav jedrskega orožja. Tajni nemški objekt, očitno največji med tretjim rajhom, ki je zajemal 75 hektarjev v podzemnem kompleksu, so decembra 2014 ponovno izkopali v Avstriji in so ga morda načrtovali za uporabo v jedrskih raziskavah in razvoju. Pismo naj bi bilo &quot;verjetno ključna spodbuda za ameriško sprejetje resnih preiskav jedrskega orožja na predvečer vstopa ZDA v drugo svetovno vojno&quot;. Poleg pisma je Einstein uporabil svoje povezave z belgijsko kraljevo družino in materjo belgijske kraljice, da je z osebnim odposlancem dobil dostop do ovalne pisarne Bele hiše. Predsednik Roosevelt ni mogel tvegati, da bo Hitlerju najprej dovolil posedovanje atomskih bomb. Kot rezultat Einsteinovega pisma in njegovih srečanj z Rooseveltom so ZDA vstopile v &quot;dirko&quot; za razvoj bombe in pri tem uporabile &quot;ogromne materialne, finančne in znanstvene vire&quot; za začetek projekta Manhattan. Postala je edina država, ki je med drugo svetovno vojno uspešno razvila atomsko bombo. Za Einsteina je bila &quot;vojna bolezen ... [in] je pozval k odporu proti vojni.&quot; S podpisom pisma Rooseveltu je šel proti svojim pacifističnim načelom. Leta 1954, eno leto pred svojo smrtjo, je Einstein rekel svojemu staremu prijatelju Linusu Paulingu: &quot;V življenju sem naredil eno veliko napako - ko sem podpisal pismo predsedniku Rooseveltu s priporočilom za izdelavo atomskih bomb; vendar je bilo nekaj utemeljitev - nevarnost, da bi jih Nemci naredili ... &quot;
+passage.questions.5.question:Kaj je bila verjetno ključna spodbuda za ameriško sprejetje resnih preiskav jedrskega orožja na predvečer vstopa ZDA v drugo svetovno vojno?
+passage.questions.5.idx:1601.0
+passage.questions.5.answers.5.text:Pismo, ki ga je poslal Einstein, je bilo verjetno največja spodbuda
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:8324.0
+passage.questions.5.answers.4.text:Pismo poslano Rooseveltu
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:8323.0
+passage.questions.5.answers.3.text:Izkopavanja v Avstriji
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:8322.0
+passage.questions.5.answers.2.text:Odkritje skrivnega nemškega objekta
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:8321.0
+passage.questions.5.answers.1.text:Atomske bombe
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8320.0
+passage.questions.5.answers.0.text:Einsteinovo pismo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:8319.0
+passage.questions.4.question:Koga so prosili, naj predsedniku Rooseveltu pošlje pismo, v katerem priporoči ZDA, naj bodo pozorne in se lotijo lastnih raziskav jedrskega orožja?
+passage.questions.4.idx:1600.0
+passage.questions.4.answers.4.text:Einstein
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:8318.0
+passage.questions.4.answers.3.text:Roosevelt
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:8317.0
+passage.questions.4.answers.2.text:Szilard
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:8316.0
+passage.questions.4.answers.1.text:Szilard in Wigner
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:8315.0
+passage.questions.4.answers.0.text:Wigner
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8314.0
+passage.questions.3.question:Koliko let pred Einsteinovo smrtjo je začel prizadevati za ustvarjanje jedrskega orožja?
+passage.questions.3.idx:1599.0
+passage.questions.3.answers.4.text:Prizadevanja je začel 26 let pred smrtjo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:8313.0
+passage.questions.3.answers.3.text:Iskanje je začel približno 25 let in pol pred smrtjo
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:8312.0
+passage.questions.3.answers.2.text:17 let
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:8311.0
+passage.questions.3.answers.1.text:1954
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8310.0
+passage.questions.3.answers.0.text:2014
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:8309.0
+passage.questions.2.question:Kateri dve sili med drugo svetovno vojno sta verjetno tekmovali v razvoju prvega jedrskega orožja?
+passage.questions.2.idx:1598.0
+passage.questions.2.answers.6.text:Nemčija
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:8308.0
+passage.questions.2.answers.5.text:Tretji rajh in ZDA
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:8307.0
+passage.questions.2.answers.4.text:Švica
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:8306.0
+passage.questions.2.answers.3.text:ZDA in Sovjetska zveza
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:8305.0
+passage.questions.2.answers.2.text:Kitajska
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8304.0
+passage.questions.2.answers.1.text:Združene države
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:8303.0
+passage.questions.2.answers.0.text:ZDA, J in Nemčija
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8302.0
+passage.questions.1.question:S katerim ameriškim predsednikom je belgijska kraljeva družina pomagala Einsteinu?
+passage.questions.1.idx:1597.0
+passage.questions.1.answers.6.text:Predsednik Roosevelt
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:8301.0
+passage.questions.1.answers.5.text:Roosevelt
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:8300.0
+passage.questions.1.answers.4.text:Belgijska kraljeva družina
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8299.0
+passage.questions.1.answers.3.text:Predsednik Eisenhower
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:8298.0
+passage.questions.1.answers.2.text:Kennedy
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8297.0
+passage.questions.1.answers.1.text:Ovalna pisarna Bele hiše
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8296.0
+passage.questions.1.answers.0.text:Hitler
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8295.0
+passage.questions.0.question:Katera država je edina razvila atomsko bombo med drugo svetovno vojno?
+passage.questions.0.idx:1596
+passage.questions.0.answers.3.text:Združene države
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:8294.0
+passage.questions.0.answers.2.text:Kitajska
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8293.0
+passage.questions.0.answers.1.text:Nemčija
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:8292
+passage.questions.0.answers.0.text:ZDA
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8291
+idx:140

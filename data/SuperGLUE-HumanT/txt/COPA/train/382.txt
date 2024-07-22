@@ -1,0 +1,6 @@
+choice1:Z varčevalnega računa je dvignil denar.
+choice2:Odpovedal se je nepotrebnim nakupom.
+idx:382
+label:1
+premise:Hotel je prihraniti nekaj denarja.
+question:effect

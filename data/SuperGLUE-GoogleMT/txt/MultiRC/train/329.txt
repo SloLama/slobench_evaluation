@@ -1,0 +1,302 @@
+version:1.1
+passage.text:&quot;Femme&quot; je primeren opis upodobitve Madame White Snake in vseh njenih inkarnacij. Nanaša se na žensko, ki je nevarno privlačna, in moške s svojo spolno privlačnostjo privabi v propad. V obeh inkarnacijah kače Madame White jo avtorji upodabljajo kot očarljivo lepo. Toyoo, njen človeški ljubimec v &quot;Lust of the White Serpant&quot;, ne more otresti podobe njene lepote iz svojih misli in sanj o njej in se znajde &quot;vznemirjen in vznemirjen&quot; zaradi njene &quot;eterične lepote&quot;. V &quot;Večnem zaporniku&quot; čarobna lepotica gospe Bele kače svojemu ljubimcu Hsüju sledi v njegove sanje, naslednje jutro pa &quot;je bil tako zmeden, da se ni mogel osredotočiti na poslovanje.&quot; Obe zgodbi negativne konotacije uskladita z njeno lepoto, kar kaže na to, da je vzrok njihove motečnosti njena spolnost. Poleg moteče spolnosti je nepravilna karakterizacija Madame White Snake lahko še ena značilnost, ki jo ima njen lik z arhetipsko noir femme fatale. Christine Gledhill v svojem eseju, ki analizira film noir s feministične perspektive, piše: &quot;Ne samo, da junak pogosto ni prepričan, ali je ženska poštena ali varalica, ampak je tudi sama karakternost junake zlomljena, tako da občinstvu ni jasno, ali ona zapolni stereotip [femme fatale] ali ne &quot;.
+passage.questions.9.question:V tem odlomku se &quot;Femme&quot; nanaša na to, kakšno žensko?
+passage.questions.9.idx:3770.0
+passage.questions.9.answers.6.text:Ljubka ljubimka
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:20032.0
+passage.questions.9.answers.5.text:Feministična ženska
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:20031.0
+passage.questions.9.answers.4.text:Ujetnica
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:20030.0
+passage.questions.9.answers.3.text:Očarajoča lepota
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:20029.0
+passage.questions.9.answers.2.text:Tista, ki je nevarno privlačna in moške s svojo spolno privlačnostjo privabi v propad
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:20028.0
+passage.questions.9.answers.1.text:Lepa ženska
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:20027.0
+passage.questions.9.answers.0.text:Spolno privlačna ženska
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:20026.0
+passage.questions.8.question:Kako se imenujejo ljubitelji kač Madame White.
+passage.questions.8.idx:3769.0
+passage.questions.8.answers.5.text:Hsü in Toyoo
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:20025.0
+passage.questions.8.answers.4.text:Hsu in Gledhill
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:20024.0
+passage.questions.8.answers.3.text:Toyoo in Hsu
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:20023.0
+passage.questions.8.answers.2.text:Monsieur Tuyo
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:20022.0
+passage.questions.8.answers.1.text:Moški, katerih imeni se začneta s T in H
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:20021.0
+passage.questions.8.answers.0.text:Christine
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:20020.0
+passage.questions.7.question:Kako je značilna Madame White Snack?
+passage.questions.7.idx:3768.0
+passage.questions.7.answers.6.text:Kot pravi ljubimec
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:20019.0
+passage.questions.7.answers.5.text:Nevarno privlačna in moške privlači v svoj propad s svojo spolno privlačnostjo, očarljivo lepo, eterično lepoto, morda varljivo
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:20018.0
+passage.questions.7.answers.4.text:Kot očarljiva lepota
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:20017.0
+passage.questions.7.answers.3.text:Prevara kot kača
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:20016.0
+passage.questions.7.answers.2.text:Kot &quot;Femme&quot;
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:20015.0
+passage.questions.7.answers.1.text:Kot očarljivo lepa
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:20014.0
+passage.questions.7.answers.0.text:Spolno privlačen zapornik
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:20013.0
+passage.questions.6.question:Zakaj gospo White Snake opisujejo kot &quot;žensko&quot;?
+passage.questions.6.idx:3767.0
+passage.questions.6.answers.5.text:Njena lepota ostane v mislih nad ljubimci in jih vznemirja
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:20012.0
+passage.questions.6.answers.4.text:Rada ima kače
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:20011.0
+passage.questions.6.answers.3.text:Res je moški
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:20010.0
+passage.questions.6.answers.2.text:Očarljivo je lepa
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:20009.0
+passage.questions.6.answers.1.text:Femme je njeno hišno ime
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:20008.0
+passage.questions.6.answers.0.text:Negativni prizvoki z njeno lepoto
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:20007.0
+passage.questions.5.question:O kom sanja Toyso v &quot;Poželenju bele kače&quot;?
+passage.questions.5.idx:3766.0
+passage.questions.5.answers.3.text:&quot;Madame Bela kača&quot;
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:20006.0
+passage.questions.5.answers.2.text:Rad ima sanje
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:20005.0
+passage.questions.5.answers.1.text:Kačja kraljica
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:20004.0
+passage.questions.5.answers.0.text:Njegov ljubimec HsÃ¼
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:20003.0
+passage.questions.4.question:Na kaj se nanaša femme?
+passage.questions.4.idx:3765.0
+passage.questions.4.answers.6.text:Pravi ljubimec
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:20002.0
+passage.questions.4.answers.5.text:Ženska, ki je nevarno privlačna in moške s svojo spolno privlačnostjo privabi v propad
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:20001.0
+passage.questions.4.answers.4.text:Vse ženske
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:20000.0
+passage.questions.4.answers.3.text:Očarljivo lepa ženska
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:19999.0
+passage.questions.4.answers.2.text:Spolno zapeljiva ženska
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19998.0
+passage.questions.4.answers.1.text:Feminizem
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:19997.0
+passage.questions.4.answers.0.text:Femme se nanaša na žensko, ki je nevarno privlačna, in moške s svojo spolno privlačnostjo privabi v propad
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:19996.0
+passage.questions.3.question:Kateri sta inkarnaciji Madame White Snake?
+passage.questions.3.idx:3764.0
+passage.questions.3.answers.6.text:Lepa in zapeljiva ženska v dveh različnih trgovinah
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:19995.0
+passage.questions.3.answers.5.text:Ljubitelj Toyooja in Ljubitelj Hsuja
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:19994.0
+passage.questions.3.answers.4.text:Ljubitelj Hsuja in motera Toyoo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:19993.0
+passage.questions.3.answers.3.text:Ženska v &quot;Večnem zaporniku&quot; in &quot;Poželenje bele kače&quot;
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:19992.0
+passage.questions.3.answers.2.text:Zmaj in kača
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:19991.0
+passage.questions.3.answers.1.text:Poželenje bele kače in večnega ujetnika
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:19990.0
+passage.questions.3.answers.0.text:Večni zapor in Toyoojeva mati
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:19989.0
+passage.questions.2.question:Kaj dela o Madame White Snake?
+passage.questions.2.idx:3763.0
+passage.questions.2.answers.5.text:Sodeluje z njihovimi imeni, &quot;Serpent&quot; in, &quot;Prisoner&quot;
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:19988.0
+passage.questions.2.answers.4.text:bela kača
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:19987.0
+passage.questions.2.answers.3.text:Večno ujetniško poželenje
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:19986.0
+passage.questions.2.answers.2.text:Femme in večni ujetnik
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:19985.0
+passage.questions.2.answers.1.text:Poželenje bele kače in večni ujetnik
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:19984.0
+passage.questions.2.answers.0.text:Poželenje bele kače in večnega ujetnika
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:19983.0
+passage.questions.15.question:Na koliko ljubiteljev Madame White Snake se nanaša ta odlomek?
+passage.questions.15.idx:3776.0
+passage.questions.15.answers.5.text:3.
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:20065.0
+passage.questions.15.answers.4.text:Dva
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:20064.0
+passage.questions.15.answers.3.text:2.
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:20063.0
+passage.questions.15.answers.2.text:Več kot 5
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:20062.0
+passage.questions.15.answers.1.text:Manj kot 4
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:20061.0
+passage.questions.15.answers.0.text:Ena
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:20060.0
+passage.questions.14.question:Na kaj se nanaša beseda &quot;Femme&quot;?
+passage.questions.14.idx:3775.0
+passage.questions.14.answers.5.text:Spolno privlačne ženske
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:20059.0
+passage.questions.14.answers.4.text:Ženska, ki je nevarno privlačna
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:20058.0
+passage.questions.14.answers.3.text:Bela kača
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:20057.0
+passage.questions.14.answers.2.text:Feminizem
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:20056.0
+passage.questions.14.answers.1.text:Gola ženska
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:20055.0
+passage.questions.14.answers.0.text:Ženska, ki je nevarno privlačna, s svojo spolno privlačnostjo privlači moške v njihov propad
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:20054.0
+passage.questions.13.question:Kaj Madame White Snake uporablja za odvračanje in zavajanje?
+passage.questions.13.idx:3774.0
+passage.questions.13.answers.6.text:Njena spolna privlačnost
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:20053.0
+passage.questions.13.answers.5.text:Spolnost
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:20052.0
+passage.questions.13.answers.4.text:Lepota
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:20051.0
+passage.questions.13.answers.3.text:Njene lutke
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:20050.0
+passage.questions.13.answers.2.text:Spolna privlačnost in eterična lepota
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:20049.0
+passage.questions.13.answers.1.text:Njena lepota
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:20048.0
+passage.questions.13.answers.0.text:Večni zaporniki sužnji
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:20047.0
+passage.questions.12.question:Ime tri učinka Madame white snack beauty ima na svoje ljubimce?
+passage.questions.12.idx:3773.0
+passage.questions.12.answers.4.text:Motnja, motenost in vznemirjenost
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:20046.0
+passage.questions.12.answers.3.text:Motnja, spolnost in propad
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:20045.0
+passage.questions.12.answers.2.text:Napredek, spolnost in norost
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:20044.0
+passage.questions.12.answers.1.text:Slabost, nespečnost, mraz do kosti
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:20043.0
+passage.questions.12.answers.0.text:Zaprta, navdušena, prestrašena
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:20042.0
+passage.questions.11.question:Kateri izraz se nanaša na nevarno privlačno žensko, ki moškega pogosto pripelje do propada?
+passage.questions.11.idx:3772.0
+passage.questions.11.answers.3.text:Eterična lepota
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:20041.0
+passage.questions.11.answers.2.text:Sirena morja
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:20040.0
+passage.questions.11.answers.1.text:&quot;Femme&quot;
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:20039.0
+passage.questions.11.answers.0.text:Zapeljivec
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:20038.0
+passage.questions.10.question:Kdo je ona v &quot;Toyoo, njen človeški ljubimec&quot;?
+passage.questions.10.idx:3771.0
+passage.questions.10.answers.4.text:Večni ujetnik
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:20037.0
+passage.questions.10.answers.3.text:Lepa ženska
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:20036.0
+passage.questions.10.answers.2.text:Madame Bela kača
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:20035.0
+passage.questions.10.answers.1.text:Toyoojeva žena
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:20034.0
+passage.questions.10.answers.0.text:Christine Gledhill
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:20033.0
+passage.questions.1.question:Kdo je ljubitelj Toyooja v &quot;Poželenju bele kače?&quot;
+passage.questions.1.idx:3762.0
+passage.questions.1.answers.3.text:Madame Bela kača
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:19982.0
+passage.questions.1.answers.2.text:Christine Gledhill
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:19981.0
+passage.questions.1.answers.1.text:HsÃ¼
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:19980.0
+passage.questions.1.answers.0.text:Ženska, opisana kot ženska
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19979.0
+passage.questions.0.question:Je ljubitelj Toyoo Madame White Snake v filmu &quot;Večni ujetnik&quot;?
+passage.questions.0.idx:3761
+passage.questions.0.answers.1.text:Ne, on je njen ljubimec v &quot;Poželenju bele kače&quot;
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:19978
+passage.questions.0.answers.0.text:Samo za polovico zgodbe
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19977
+idx:329

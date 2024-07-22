@@ -1,0 +1,6 @@
+choice1:Ljudje so se drsali na ribniku.
+choice2:Ljudje so pripeljali čolne do ribnika.
+idx:12
+label:0
+premise:Ribnik je zmrznil čez zimo.
+question:effect

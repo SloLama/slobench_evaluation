@@ -1,0 +1,68 @@
+version:1.1
+passage.text:Durer je močno vplival na umetnike naslednjih generacij, zlasti v grafiki, mediju, skozi katerega so sodobniki večinoma doživljali njegovo umetnost, saj so bile njegove slike pretežno v zasebnih zbirkah, ki so bile le v nekaj mestih. Njegov uspeh pri širjenju svojega ugleda po Evropi z grafikami je bil nedvomno navdih za velike umetnike, kot so Raphael, Titian in Parmigianino, ki so vsi sodelovali z grafičarji, da bi promovirali in distribuirali svoje delo. Zdi se, da je njegovo delo v gravuri zastrašujoče vplivalo na njegove nemške naslednike, &quot;male mojstre&quot;, ki so poskušali nekaj velikih gravur, vendar so Durerjeve teme nadaljevali v majhnih, precej utesnjenih kompozicijah. Lucas van Leyden je bil edini severnoevropski graver, ki je v prvi tretjini 16. stoletja še naprej uspešno izdeloval velike gravure. Generacija italijanskih graverjev, ki so trenirali v senci Durerja, je bodisi neposredno kopirala dele njegovega pokrajinskega ozadja (Giulio Campagnola in Christofano Robetta) bodisi celotne grafike (Marcantonio Raimondi in Agostino Veneziano). Vendar je vpliv Durerja postal manj prevladujoč po letu 1515, ko je Marcantonio izpopolnil svoj novi slog gravure, ki je nato potoval čez Alpe, da bi prevladoval tudi nad severno gravuro. V slikarstvu je imel Durer razmeroma majhen vpliv v Italiji, kjer je bila verjetno videti le njegova oltarna slika v Benetkah, njegovi nemški nasledniki pa so bili manj učinkoviti pri mešanju nemškega in italijanskega sloga. Njegovi intenzivni in samodramatizirajoči avtoportreti so še naprej močno vplivali do danes, zlasti na slikarje v 19. in 20. stoletju, ki so želeli bolj dramatičen portretni slog. Durer ni nikoli padel iz kritične naklonjenosti in zanimanje za njegova dela je v Nemčiji prišlo v obdobju Durerjeve renesanse približno od 1570 do 1630, v začetku devetnajstega stoletja in v nemškem nacionalizmu od 1870 do 1945. Durerjeva študija človeka razmerja in uporaba transformacij v koordinatni mreži za prikaz variacij obraza, ki je navdihnil podobno delo D&#39;Arcyja Thompsona v svoji knjigi O rasti in obliki. Luteranska cerkev se 6. aprila vsako leto spomni Durerja kot velikega kristjana, skupaj z Lucasom Cranachom starejšim in Hansom Burgkmairjem. Liturgični koledar škofovske cerkve (ZDA) se spominja njega, Cranacha in Matthiasa Grunewalda 5. avgusta.
+passage.questions.3.question:Katera organizacija se spominja Durerja v zimskih prazničnih dneh?
+passage.questions.3.idx:754.0
+passage.questions.3.answers.4.text:V tem odstavku ni nobenega
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:3723.0
+passage.questions.3.answers.3.text:Renesansa
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3722.0
+passage.questions.3.answers.2.text:D&#39;Arcy Thompson
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3721.0
+passage.questions.3.answers.1.text:Škofovska cerkev
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3720.0
+passage.questions.3.answers.0.text:Durerjeva renesansa
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3719.0
+passage.questions.2.question:Kdo je umetnik z najdaljšim imenom, na katerega je Durer vplival pri uporabi grafičnega medija?
+passage.questions.2.idx:753
+passage.questions.2.answers.3.text:Parmigianino
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3718.0
+passage.questions.2.answers.2.text:Christofano Robetta
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3717.0
+passage.questions.2.answers.1.text:Tizian
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3716
+passage.questions.2.answers.0.text:Rafael
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:3715
+passage.questions.1.question:Koga Durer ni prestrašil pri izdelavi velikih gravur?
+passage.questions.1.idx:752
+passage.questions.1.answers.4.text:Marcantonio
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3714.0
+passage.questions.1.answers.3.text:Leyden
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3713.0
+passage.questions.1.answers.2.text:Rafael
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3712.0
+passage.questions.1.answers.1.text:D&#39;Arcy Thompson
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3711
+passage.questions.1.answers.0.text:Parmigianino
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3710
+passage.questions.0.question:Kdo je zastrašujoče vplival na Male mojstre za velike gravure?
+passage.questions.0.idx:751
+passage.questions.0.answers.4.text:Tizian
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3709.0
+passage.questions.0.answers.3.text:Marcantonio
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3708.0
+passage.questions.0.answers.2.text:D&#39;Arcy Thompson
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3707.0
+passage.questions.0.answers.1.text:Raphel
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3706
+passage.questions.0.answers.0.text:Durer
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3705
+idx:64

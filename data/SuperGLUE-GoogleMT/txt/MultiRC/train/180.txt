@@ -1,0 +1,469 @@
+version:1.1
+passage.text:Ko je American 11 ob 8:46 udaril v Svetovni trgovinski center, nihče v Beli hiši ali na potovanju s predsednikom ni vedel, da je bila ugrabljena. Medtem ko so te informacije krožile znotraj FAA, nismo našli dokazov, da bi o ugrabitvi poročali kateri koli drugi agenciji v Washingtonu pred 8:46. Večina zveznih agencij je o nesreči v New Yorku izvedela od CNN. Znotraj FAA upraviteljici Jane Garvey in njenemu vršilcu dolžnosti namestniku Monte Belgerju še niso povedali o potrjeni ugrabitvi, preden so s televizije izvedeli, da je letalo strmoglavilo. Drugi v agenciji so se tega zavedali, kot smo že pojasnili v tem poglavju. Namestnik direktorja operativnega centra in njegov pomočnik sta v Nacionalnem vojaškem poveljniškem centru začela obveščati višje uradnike Pentagona o incidentu. Okoli 9:00 je višji operativni častnik NMCC po informacije stopil v stik z operativnim centrom FAA. Čeprav so NMCC svetovali o ugrabitvi ameriškega leta 11, o premeščanju curkov niso razpravljali. V Sarasoti na Floridi je predsedniška vožnja prihajala na osnovno šolo Emme E. Booker, kjer naj bi predsednik Bush bral v razredu in se pogovarjal o izobraževanju. Vodja kabineta Bele hiše Andrew Card nam je povedal, da stoji s predsednikom pred učilnico, ko jih je višji svetovalec predsednika Karl Rove prvič obvestil, da je majhno dvomotorno letalo trčilo v Svetovni trgovinski center. Predsednik se je odzval, da je incident moral povzročiti napaka pilota. Ob 8.55 je predsednik pred vstopom v učilnico spregovoril s svetovalko za nacionalno varnost Condoleezzo Rice, ki je bila v Beli hiši. Spomnila se je, da je predsedniku najprej povedala, da je dvomotorno letalo in nato komercialno letalo udarilo v Svetovni trgovinski center, in dodala, da &quot;to je vse, kar trenutno vemo, gospod predsednik.&quot; V Beli hiši je podpredsednik Dick Cheney ravno sedel na sestanek, ko mu je pomočnik rekel, naj vklopi televizijo, ker je letalo udarilo v Severni stolp Svetovnega trgovinskega centra. Podpredsednik se je spraševal, &quot;Kako hudiča bi lahko letalo zadelo Svetovni trgovinski center&quot;, ko je videl, kako je drugo letalo udarilo po Južnem stolpu. Drugje v Beli hiši naj bi se začela serija srečanj ob 9.00. Ker ni bilo informacij, da je nesreča kaj drugega kot nesreča, je osebje Bele hiše spremljalo novice, ko je nadaljevalo z rednimi urniki.
+passage.questions.9.question:Koliko časa je preteklo med tem, ko je ameriška enajsterica zadela Svetovni trgovinski center in višji operativni častnik NMCC, ki je po informacije stopil v obratovalni center FAA?
+passage.questions.9.idx:1984.0
+passage.questions.9.answers.9.text:Da je majhno dvomotorno letalo trčilo v Svetovni trgovinski center
+passage.questions.9.answers.9.label:0,0
+passage.questions.9.answers.9.idx:10369.0
+passage.questions.9.answers.8.text:Manj kot 15 minut
+passage.questions.9.answers.8.label:1.0
+passage.questions.9.answers.8.idx:10368.0
+passage.questions.9.answers.7.text:14 minut
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:10367.0
+passage.questions.9.answers.6.text:41 minut
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:10366.0
+passage.questions.9.answers.5.text:46 minut
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:10365.0
+passage.questions.9.answers.4.text:Majhno dvomotorno letalo je trčilo v Pentagon
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:10364.0
+passage.questions.9.answers.3.text:11 minut
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:10363.0
+passage.questions.9.answers.2.text:Nesreča je bila pilotska napaka
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:10362.0
+passage.questions.9.answers.1.text:Več kot eno uro
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:10361.0
+passage.questions.9.answers.0.text:5 minut
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:10360.0
+passage.questions.8.question:Kaj pomeni NMCC?
+passage.questions.8.idx:1983.0
+passage.questions.8.answers.9.text:Državno vojaško poveljstvo in nadzor
+passage.questions.8.answers.9.label:0,0
+passage.questions.8.answers.9.idx:10359.0
+passage.questions.8.answers.8.text:Podpredsednik je ukazal, da naj se premešajo curki, medtem ko je ostalo osebje šlo v bunkerje za napad
+passage.questions.8.answers.8.label:0,0
+passage.questions.8.answers.8.idx:10358.0
+passage.questions.8.answers.7.text:Gledanje televizije
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:10357.0
+passage.questions.8.answers.6.text:Severni vojaški nadzorni center
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:10356.0
+passage.questions.8.answers.5.text:Ime vojaškega poveljniškega centra
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:10355.0
+passage.questions.8.answers.4.text:Nacionalni vojaški koordinacijski center
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:10354.0
+passage.questions.8.answers.3.text:Državno vojaško poveljniško središče
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:10353.0
+passage.questions.8.answers.2.text:Podpredsednik se je odpeljal do Pentagona, medtem ko so drugi uslužbenci opozorili vojsko
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:10352.0
+passage.questions.8.answers.1.text:Državno vojaško poveljniško središče
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:10351.0
+passage.questions.8.answers.0.text:Državno vojaško komunikacijsko središče
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:10350.0
+passage.questions.7.question:Kakšen je bil odziv Bele hiše na prvotna poročila o nesreči?
+passage.questions.7.idx:1982.0
+passage.questions.7.answers.9.text:Verjetno je bila to napaka pilota
+passage.questions.7.answers.9.label:0,0
+passage.questions.7.answers.9.idx:10348.0
+passage.questions.7.answers.8.text:Da je sesutje verjetno povzročila napaka pilota
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:10347.0
+passage.questions.7.answers.7.text:Da je bila nesreča terorizem
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:10346.0
+passage.questions.7.answers.6.text:Državni center za nadzor mobilnosti
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:10345.0
+passage.questions.7.answers.5.text:Premešajte curke za patruljiranje zračnega prostora
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:10344.0
+passage.questions.7.answers.4.text:Obvestite skrbnika FAA Jane Garvey
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:10343.0
+passage.questions.7.answers.3.text:&quot;to je moralo biti ugrabitev&quot;
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:10342.0
+passage.questions.7.answers.2.text:Morala je biti posledica napake pilota
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:10341.0
+passage.questions.7.answers.10.text:Nacionalno poveljniško središče milice
+passage.questions.7.answers.10.label:0,0
+passage.questions.7.answers.10.idx:10349.0
+passage.questions.7.answers.1.text:Svetovno trgovsko središče
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:10340.0
+passage.questions.7.answers.0.text:Podpredsednik Cheney in uslužbenci Bele hiše so šli po običajnem poslu in se udeleževali načrtovanih sestankov. Ker nobene novice iz vladnih agencij ni bilo, je Bela hiša spremljala novice za nadaljnja poročila
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:10339.0
+passage.questions.6.question:Kje sta bila predsednik in podpredsednik, ko je letalo 11. septembra zadelo stolpe dvojčke?
+passage.questions.6.idx:1981.0
+passage.questions.6.answers.9.text:Šola v Kaliforniji
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:10337.0
+passage.questions.6.answers.8.text:Drugo letalo
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:10336.0
+passage.questions.6.answers.7.text:Majhno dvomotorno letalo
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:10335.0
+passage.questions.6.answers.6.text:Predsednik je bil v Beli hiši, podpredsednik pa na Floridi
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:10334.0
+passage.questions.6.answers.5.text:Predsednik je bil na Floridi, podpredsednik pa v New Yorku
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:10333.0
+passage.questions.6.answers.4.text:Osnovna šola Emme E. Booker
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:10332.0
+passage.questions.6.answers.3.text:V operacijskem centru FAA
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:10331.0
+passage.questions.6.answers.2.text:Povedali so jim, da gre za helikopter
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:10330.0
+passage.questions.6.answers.10.text:George W Bush in Condoleeza Rice
+passage.questions.6.answers.10.label:0,0
+passage.questions.6.answers.10.idx:10338.0
+passage.questions.6.answers.1.text:Svetovno trgovsko središče
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:10329.0
+passage.questions.6.answers.0.text:George W Bush in Dick Cheney
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:10328.0
+passage.questions.5.question:Kaj pomeni kratica NMCC?
+passage.questions.5.idx:1980.0
+passage.questions.5.answers.9.text:Verjetno je bila to napaka pilota
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:10326.0
+passage.questions.5.answers.8.text:Da je bila nesreča terorizem
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:10325.0
+passage.questions.5.answers.7.text:Državni center za nadzor mobilnosti
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:10324.0
+passage.questions.5.answers.6.text:Premešajte curke za patruljiranje zračnega prostora
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:10323.0
+passage.questions.5.answers.5.text:Gotovo je bila nesreča
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:10322.0
+passage.questions.5.answers.4.text:Obvestite skrbnika FAA Jane Garvey
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:10321.0
+passage.questions.5.answers.3.text:&quot;to je moralo biti ugrabitev&quot;
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:10320.0
+passage.questions.5.answers.2.text:Morala je biti posledica napake pilota
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:10319.0
+passage.questions.5.answers.10.text:Nacionalno poveljniško središče milice
+passage.questions.5.answers.10.label:0,0
+passage.questions.5.answers.10.idx:10327.0
+passage.questions.5.answers.1.text:Državno vojaško poveljniško središče
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:10318.0
+passage.questions.5.answers.0.text:Svetovno trgovsko središče
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:10317.0
+passage.questions.4.question:Katere zvezne vladne agencije so vedele, da je bil ameriški 11 ugrabljen, preden je udaril v Svetovni trgovinski center, in kako je večina od njih ugotovila, kaj se je zgodilo?
+passage.questions.4.idx:1979.0
+passage.questions.4.answers.8.text:Condoleezza Rice Elementary
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:10316.0
+passage.questions.4.answers.7.text:Nacionalno vojaško poveljniško središče je vedelo, vsi ostali pa so to ugotovili pri MSNBC
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:10315.0
+passage.questions.4.answers.6.text:FTC je vedel, vsi drugi pa so to izvedeli pri ABC
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:10314.0
+passage.questions.4.answers.5.text:E. Šola branja knjig
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:10313.0
+passage.questions.4.answers.4.text:Cia
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:10312.0
+passage.questions.4.answers.3.text:FAA je vedela, vsi ostali pa so to ugotovili pri CNN
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:10311.0
+passage.questions.4.answers.2.text:Emmina knjižna šola
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:10310.0
+passage.questions.4.answers.1.text:Državno vojaško poveljniško središče
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:10309.0
+passage.questions.4.answers.0.text:Jane Garvey Osnovna
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:10308.0
+passage.questions.3.question:Kaj je NMCC in kdaj je njihov višji operativni častnik razpravljal o premešanju curkov?
+passage.questions.3.idx:1978.0
+passage.questions.3.answers.9.text:Condoleezza Rice
+passage.questions.3.answers.9.label:0,0
+passage.questions.3.answers.9.idx:10306.0
+passage.questions.3.answers.8.text:To pomeni National Militia Craft Control in curki niso bili v dosegu
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:10305.0
+passage.questions.3.answers.7.text:Državno vojaško poveljniško središče
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:10304.0
+passage.questions.3.answers.6.text:Faa
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:10303.0
+passage.questions.3.answers.5.text:To pomeni National Militia Craft Control in curki so bili takoj umešani
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:10302.0
+passage.questions.3.answers.4.text:Predsednik Bush
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:10301.0
+passage.questions.3.answers.3.text:Predsednik
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:10300.0
+passage.questions.3.answers.2.text:Andrew Card
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:10299.0
+passage.questions.3.answers.10.text:George Bush
+passage.questions.3.answers.10.label:0,0
+passage.questions.3.answers.10.idx:10307.0
+passage.questions.3.answers.1.text:To pomeni Državno vojaško poveljniško središče in nikoli niso razpravljali o premešanju curkov
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:10298.0
+passage.questions.3.answers.0.text:Državni sekretar
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:10297.0
+passage.questions.2.question:Kdo je stal ob predsedniku, ko se je odzval, da mora biti strmoglavljenje ameriške 11 pilotska napaka?
+passage.questions.2.idx:1977.0
+passage.questions.2.answers.9.text:Šef kabineta Bele hiše Carl Rove
+passage.questions.2.answers.9.label:0,0
+passage.questions.2.answers.9.idx:10296.0
+passage.questions.2.answers.8.text:Šef kabineta Bele hiše Dick Cheney
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:10295.0
+passage.questions.2.answers.7.text:Šef kabineta Bele hiše Andrew Card
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:10294.0
+passage.questions.2.answers.6.text:Sončna država
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:10293.0
+passage.questions.2.answers.5.text:New York
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:10292.0
+passage.questions.2.answers.4.text:Dick Channey
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:10291.0
+passage.questions.2.answers.3.text:Virginia
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:10290.0
+passage.questions.2.answers.2.text:Andrew karta
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:10289.0
+passage.questions.2.answers.1.text:Zlata država
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:10288.0
+passage.questions.2.answers.0.text:Kalifornija
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:10287.0
+passage.questions.13.question:V kateri ameriški zvezni državi je bil vodja kabineta Bele hiše Andrew Card, ko so ga prvič obvestili, da je majhno dvomotorno letalo trčilo v Svetovni trgovinski center?
+passage.questions.13.idx:1988.0
+passage.questions.13.answers.8.text:Šef kabineta Bele hiše Carl Rove
+passage.questions.13.answers.8.label:0,0
+passage.questions.13.answers.8.idx:10411.0
+passage.questions.13.answers.7.text:Šef kabineta Bele hiše Dick Cheney
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:10410.0
+passage.questions.13.answers.6.text:New York
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:10409.0
+passage.questions.13.answers.5.text:Dick Channey
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:10408.0
+passage.questions.13.answers.4.text:Virginia
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:10407.0
+passage.questions.13.answers.3.text:Andrew karta
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:10406.0
+passage.questions.13.answers.2.text:Zlata država
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:10405.0
+passage.questions.13.answers.1.text:Florida
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:10404.0
+passage.questions.13.answers.0.text:Kalifornija
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:10403.0
+passage.questions.12.question:Kaj je počel podpredsednik, ko je videl, kako je drugo letalo udarilo v Južni stolp, in kaj so storili ostali člani osebja Bele hiše?
+passage.questions.12.idx:1987.0
+passage.questions.12.answers.8.text:Državno vojaško poveljstvo in nadzor
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:10402.0
+passage.questions.12.answers.7.text:Podpredsednik je sedel na sestanku, uslužbenci Bele hiše pa so se morali začeti ob 9:00, vendar so na koncu spremljali novice
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:10401.0
+passage.questions.12.answers.6.text:Podpredsednik je ukazal, da naj se premešajo curki, medtem ko je ostalo osebje šlo v bunkerje za napad
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:10400.0
+passage.questions.12.answers.5.text:Gledanje televizije
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:10399.0
+passage.questions.12.answers.4.text:Severni vojaški nadzorni center
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:10398.0
+passage.questions.12.answers.3.text:Nacionalni vojaški koordinacijski center
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:10397.0
+passage.questions.12.answers.2.text:Državno vojaško poveljniško središče
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:10396.0
+passage.questions.12.answers.1.text:Podpredsednik se je odpeljal do Pentagona, medtem ko so drugi uslužbenci opozorili vojsko
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:10395.0
+passage.questions.12.answers.0.text:Državno vojaško komunikacijsko središče
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:10394.0
+passage.questions.11.question:Za kakšno letalsko nesrečo se je večina zveznih agencij seznanila prek CNN-ja in ne prek svojih notranjih kanalov poročanja?
+passage.questions.11.idx:1986.0
+passage.questions.11.answers.9.text:Predsednik je hotel vstopiti na šolo na Floridi, podpredsednik pa v svoji pisarni
+passage.questions.11.answers.9.label:1.0
+passage.questions.11.answers.9.idx:10390.0
+passage.questions.11.answers.8.text:Drugo letalo
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:10389.0
+passage.questions.11.answers.7.text:Majhno dvomotorno letalo
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:10388.0
+passage.questions.11.answers.6.text:Predsednik je bil v Beli hiši, podpredsednik pa na Floridi
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:10387.0
+passage.questions.11.answers.5.text:Predsednik je bil na Floridi, podpredsednik pa v New Yorku
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:10386.0
+passage.questions.11.answers.4.text:American 11 je bil letalski strmoglavljenje
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:10385.0
+passage.questions.11.answers.3.text:V operacijskem centru FAA
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:10384.0
+passage.questions.11.answers.2.text:Povedali so jim, da gre za helikopter
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:10383.0
+passage.questions.11.answers.12.text:George W Bush in Condoleeza Rice
+passage.questions.11.answers.12.label:0,0
+passage.questions.11.answers.12.idx:10393.0
+passage.questions.11.answers.11.text:Šola v Kaliforniji
+passage.questions.11.answers.11.label:0,0
+passage.questions.11.answers.11.idx:10392.0
+passage.questions.11.answers.10.text:Predsednik je bil v Sarasoti na Floridi, podpredsednik pa je bila Bela hiša
+passage.questions.11.answers.10.label:1.0
+passage.questions.11.answers.10.idx:10391.0
+passage.questions.11.answers.1.text:Američan 11
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:10382.0
+passage.questions.11.answers.0.text:Svetovno trgovsko središče
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:10381.0
+passage.questions.10.question:Kdo se je vprašal &quot;Kako hudiča bi lahko letalo zadelo Svetovni trgovinski center&quot;?
+passage.questions.10.idx:1985.0
+passage.questions.10.answers.9.text:Condoleezza Rice
+passage.questions.10.answers.9.label:0,0
+passage.questions.10.answers.9.idx:10379.0
+passage.questions.10.answers.8.text:To pomeni National Militia Craft Control in curki niso bili v dosegu
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:10378.0
+passage.questions.10.answers.7.text:Faa
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:10377.0
+passage.questions.10.answers.6.text:To pomeni National Militia Craft Control in curki so bili takoj umešani
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:10376.0
+passage.questions.10.answers.5.text:Predsednik Bush
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:10375.0
+passage.questions.10.answers.4.text:Predsednik
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:10374.0
+passage.questions.10.answers.3.text:Andrew Card
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:10373.0
+passage.questions.10.answers.2.text:Podpredsednik Dick Cheney
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:10372.0
+passage.questions.10.answers.10.text:George Bush
+passage.questions.10.answers.10.label:0,0
+passage.questions.10.answers.10.idx:10380.0
+passage.questions.10.answers.1.text:Državni sekretar
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:10371.0
+passage.questions.10.answers.0.text:Dick Cheney
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:10370.0
+passage.questions.1.question:Katere podrobnosti o nesreči ameriškega 11 višji svetovalec Bele hiše Karl Rove ni povedal predsedniku?
+passage.questions.1.idx:1976.0
+passage.questions.1.answers.9.text:Da je majhno dvomotorno letalo trčilo v Svetovni trgovinski center
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:10286.0
+passage.questions.1.answers.8.text:41 minut
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:10285.0
+passage.questions.1.answers.7.text:Letalo je bilo ugrabljeno
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:10284.0
+passage.questions.1.answers.6.text:46 minut
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:10283.0
+passage.questions.1.answers.5.text:Majhno dvomotorno letalo je trčilo v Pentagon
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:10282.0
+passage.questions.1.answers.4.text:11 minut
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:10281.0
+passage.questions.1.answers.3.text:Nesreča je bila pilotska napaka
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10280.0
+passage.questions.1.answers.2.text:Več kot eno uro
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:10279.0
+passage.questions.1.answers.1.text:5 minut
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:10278.0
+passage.questions.1.answers.0.text:Da je šlo za ugrabitev
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10277.0
+passage.questions.0.question:Kako se je imenovala šola, kjer je Karl Rove predsednika Busha obvestil, da je letalo zadelo Svetovni trgovinski center?
+passage.questions.0.idx:1975
+passage.questions.0.answers.9.text:Nacionalno vojaško poveljniško središče je vedelo, vsi ostali pa so to ugotovili pri MSNBC
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:10275.0
+passage.questions.0.answers.8.text:FTC je vedel, vsi drugi pa so to izvedeli pri ABC
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:10274.0
+passage.questions.0.answers.7.text:E. Šola branja knjig
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:10273.0
+passage.questions.0.answers.6.text:Cia
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:10272.0
+passage.questions.0.answers.5.text:FAA je vedela, vsi ostali pa so to ugotovili pri CNN
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:10271.0
+passage.questions.0.answers.4.text:Emmina knjižna šola
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:10270.0
+passage.questions.0.answers.3.text:Osnovna šola Emme E. Booker
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:10269.0
+passage.questions.0.answers.2.text:Emma E. Booker
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:10268.0
+passage.questions.0.answers.10.text:Condoleezza Rice Elementary
+passage.questions.0.answers.10.label:0,0
+passage.questions.0.answers.10.idx:10276.0
+passage.questions.0.answers.1.text:Državno vojaško poveljniško središče
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:10267
+passage.questions.0.answers.0.text:Jane Garvey Osnovna
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:10266
+idx:180

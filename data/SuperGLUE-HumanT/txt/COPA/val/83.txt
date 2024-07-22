@@ -1,0 +1,6 @@
+choice1:Mnogi državljani so se preselili v glavno mesto.
+choice2:Mnogi državljani so se zatekli na druga ozemlja.
+idx:83
+label:1
+premise:V državi je izbruhnilo politično nasilje.
+question:effect

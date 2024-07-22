@@ -1,0 +1,6 @@
+choice1:Na semaforju je zasvetilo zeleno.
+choice2:Vriskajoče reševalno vozilo se je približalo.
+idx:255
+label:1
+premise:Avtomobili so se pomaknili na ramo ceste.
+question:cause

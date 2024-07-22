@@ -1,0 +1,265 @@
+version:1.1
+passage.text:Če premagate psa v okrožju Schuylkill, boste verjetno dobili 100 dolarjev globe. Če večkrat premagate žensko, boste verjetno dobili enako globo. Leta 2001 so okrožni sodniki zaslišali 98 primerov zaščite pred zlorabo in obtoženca v 48 odstotkih teh primerov spoznali za krivega bodisi po zaslišanju bodisi zaradi tehnične kršitve ali ugovora. Večina tistih, ki so bili spoznani za krive, je morala plačati sodne stroške plus 100 dolarjev globe. Noben obtoženi ni moral plačati več kot 250 dolarjev globe zaradi kršitve sodne odredbe. V 27 odstotkih primerov so bile obtožbe zavrnjene ali pa je bila obdolženka spoznana za nedolžno. V preostalih primerih so bile obtožbe umaknjene ali zadeva še ni rešena. Sarah T. Casey, izvršni direktorici Schuylkill Women in Crisis, je zaskrbljujoče, da je v večini primerov globa za kršitev PFA malo večja od globe, ki bi jo nekdo dobil za krutost in zlorabo živali. &quot;V večini okrožij okrožja Schuylkill so kazni za posredno kaznivo zaničevanje precej strožje kot tiste v okrožju Schuylkill,&quot; je dejal Casey. &quot;Kakšno sporočilo pošiljamo tistim, ki večkrat kršijo ukaze o zaščiti pred zlorabo? Da je zlorabljanje žensk v okrožju Schuylkill v redu, ker boste dobili samo klofuto po zapestju?&quot; Po državni zakonodaji je najnižja globa za nespoštovanje PFA 100 USD; najvišja globa je 1.000 USD in do šest mesecev zapora. Tako kot drugi, ki poznajo način delovanja okrožnega pravnega sistema in ne deluje za žrtve nasilja v družini, tudi Casey meni, da so nekatere spremembe v redu. Valerie West, vodja / odvetnica pravne službe Mid-Penn Legal, s pisarnama v Pottsvilleu in Readingu, redno obravnava primere nasilja v družini. Krivi lokalno zahtevo, da je treba odredbo o skrbništvu določiti v 30 dneh po vložitvi PFA. West je dejala, da meni, da bi moral biti nalog za skrbništvo dopusten za celoten mandat PFA - do 18 mesecev - kot v mnogih drugih okrožjih države. &quot;Tožniku predstavlja neupravičeno breme v smislu stroškov, iskanja pravnega zastopanja in soočenja z njihovim kršiteljem - da ne omenjamo nadaljnjega bremena sistema za zagotavljanje teh storitev,&quot; je dejal West. &quot;Stranke bodo morda težko dosegle dogovor tako kmalu po nasilju.
+passage.questions.9.question:Če v okrožju Schuylkill premagate psa in ženo, koliko globe boste morali plačati?
+passage.questions.9.idx:5003.0
+passage.questions.9.answers.3.text:48 dolarjev
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:26586.0
+passage.questions.9.answers.2.text:100 dolarjev
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:26585.0
+passage.questions.9.answers.1.text:250 dolarjev
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:26584.0
+passage.questions.9.answers.0.text:1000 dolarjev
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:26583.0
+passage.questions.8.question:Kdo verjame, da so &quot;nekatere spremembe v redu&quot;, kateri drugi odvetnik redno obravnava tovrstne primere in kakšni so njihovi nazivi?
+passage.questions.8.idx:5002.0
+passage.questions.8.answers.4.text:Sarah T. Casey in Valerie West, vodja
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:26582.0
+passage.questions.8.answers.3.text:Sarah T. Casey, izvršna direktorica Schuylkill Women in Crisis in Valerie West, vodja / odvetnica pri Mid-Penn Legal Services
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:26581.0
+passage.questions.8.answers.2.text:Manager
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:26580.0
+passage.questions.8.answers.1.text:Odvetnik pri Mid-Penn Legal Services
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:26579.0
+passage.questions.8.answers.0.text:Sodniki
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:26578.0
+passage.questions.7.question:Kakšno rešitev ponuja West in kako se za tožnika razlikuje od tega, kar se že izvaja?
+passage.questions.7.idx:5001.0
+passage.questions.7.answers.4.text:West je dejala, da meni, da bi moral biti nalog za skrbništvo dopusten za celoten mandat PFA - do 18 mesecev - kot v mnogih drugih okrožjih države
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:26577.0
+passage.questions.7.answers.3.text:Okoli okrožja Schuylkill
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:26576.0
+passage.questions.7.answers.2.text:Najnižja globa za nespoštovanje PFA je 100 USD; najvišja globa je 1.000 USD in do šest mesecev zapora
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:26575.0
+passage.questions.7.answers.1.text:Da mora biti nalog za skrbništvo ves čas veljavnosti PFA namesto 30 dni, kar tožniku predstavlja neupravičeno breme
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:26574.0
+passage.questions.7.answers.0.text:V redu, če zlorabljate ženske v okrožju Schuylkill, ker boste dobili samo udarec po zapestju
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:26573.0
+passage.questions.6.question:Kateri izvršni direktor centra Ženske v krizi meni, da bi spremembe pravnega sistema koristile žrtvam nasilja v družini?
+passage.questions.6.idx:5000.0
+passage.questions.6.answers.3.text:Valerie West
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:26572.0
+passage.questions.6.answers.2.text:Tožnik
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:26571.0
+passage.questions.6.answers.1.text:Sodnik
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26570.0
+passage.questions.6.answers.0.text:Sarah T. Casey
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:26569.0
+passage.questions.5.question:Kakšno sporočilo se pošlje tistim, ki večkrat kršijo odredbe o zaščiti pred zlorabo?
+passage.questions.5.idx:4999.0
+passage.questions.5.answers.4.text:Da je v redu, če zlorabljate ženske v okrožju Schuylkill, ker boste dobili samo klofuto po zapestju
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:26568.0
+passage.questions.5.answers.3.text:Več kot 250 dolarjev globe
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:26567.0
+passage.questions.5.answers.2.text:Vabilo na sodišče
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:26566.0
+passage.questions.5.answers.1.text:Zahvalnica.
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:26565.0
+passage.questions.5.answers.0.text:Sodni stroški, plus 100 dolarjev globe
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:26564.0
+passage.questions.4.question:Kaj je primer PFA in kaj je pri kaznih okoliških okrožij drugačno?
+passage.questions.4.idx:4998.0
+passage.questions.4.answers.4.text:Primer zaščite pred zlorabo in kazni v okoliških okrožjih so veliko strožje
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:26563.0
+passage.questions.4.answers.3.text:Kazni za posredno kaznivo zaničevanje so veliko strožje od tistih v okrožju Schuylkill
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:26562.0
+passage.questions.4.answers.2.text:Sklep o skrbništvu mora biti določen v 30 dneh po vložitvi PFA
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:26561.0
+passage.questions.4.answers.1.text:Pravna služba Mid-Penn
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:26560.0
+passage.questions.4.answers.0.text:Gre za posredno kaznivo zaničevanje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:26559.0
+passage.questions.3.question:V kateri okrožju je bila ugotovljena statistika &quot;48% krivih&quot; in &quot;27% zavrnjenih ali nekrivdnih&quot;?
+passage.questions.3.idx:4997.0
+passage.questions.3.answers.4.text:Pottsville
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:26558.0
+passage.questions.3.answers.3.text:Valerie West
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:26557.0
+passage.questions.3.answers.2.text:Okrožje Schuylkill
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:26556.0
+passage.questions.3.answers.1.text:Schuylkill
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26555.0
+passage.questions.3.answers.0.text:PFA
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:26554.0
+passage.questions.2.question:Sarah T. Casey, izvršni direktorici Schuylkill Women in Crisis, je zaskrbljujoče, da je v večini okoliških okrožij obtožba za kaznivo dejanje?
+passage.questions.2.idx:4996.0
+passage.questions.2.answers.3.text:Da se dogovorimo
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:26553.0
+passage.questions.2.answers.2.text:Poiskati pravno zastopstvo in se soočiti z njihovim kršiteljem
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:26552.0
+passage.questions.2.answers.1.text:Kazni za posredno kaznivo zaničevanje so veliko strožje od tistih v okrožju Schuylkill
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:26551.0
+passage.questions.2.answers.0.text:Krivi lokalno zahtevo, da je treba odredbo o skrbništvu določiti v 30 dneh po vložitvi PFA
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:26550.0
+passage.questions.16.question:Kako dolgo Valerie West predlaga, naj nalog za skrbništvo traja in za koga dela?
+passage.questions.16.idx:5010.0
+passage.questions.16.answers.4.text:Do 18 mesecev
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:26617.0
+passage.questions.16.answers.3.text:30 dni
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:26616.0
+passage.questions.16.answers.2.text:18 let
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:26615.0
+passage.questions.16.answers.1.text:18 dni
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:26614.0
+passage.questions.16.answers.0.text:6 mesecev
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:26613.0
+passage.questions.15.question:Koliko obdolžencem je bilo naloženo plačilo najvišje globe 1000 USD in koliko časa po vložitvi PFA mora tožnik določiti nalog za skrbništvo?
+passage.questions.15.idx:5009.0
+passage.questions.15.answers.4.text:Da je v redu, če zlorabljate ženske v okrožju Schuylkill, ker boste dobili samo klofuto po zapestju
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:26612.0
+passage.questions.15.answers.3.text:Nobenega in takoj
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:26611.0
+passage.questions.15.answers.2.text:0 in 30 dni
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:26610.0
+passage.questions.15.answers.1.text:Vsi in 30 dni
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:26609.0
+passage.questions.15.answers.0.text:Vsi in to takoj
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:26608.0
+passage.questions.14.question:Ali bodo morali vsi plačati globo zaradi pretepanja ženske ali psa v okrožju Schuylkill?
+passage.questions.14.idx:5008.0
+passage.questions.14.answers.2.text:Da
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:26607.0
+passage.questions.14.answers.1.text:Odvisno je, da je v okrožju leta 2001 sodnik obravnaval le 98 primerov v tej zadevi in le 48 odstotkov tistih, ki so bili spoznani za krive
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:26606.0
+passage.questions.14.answers.0.text:Ne
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:26605.0
+passage.questions.13.question:Kdo je kriv za lokalno zahtevo, da mora biti nalog za skrbništvo določen v 30 dneh po vložitvi PFA?
+passage.questions.13.idx:5007.0
+passage.questions.13.answers.3.text:Valerie West
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:26604.0
+passage.questions.13.answers.2.text:Schuylkill
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:26603.0
+passage.questions.13.answers.1.text:Ženske
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:26602.0
+passage.questions.13.answers.0.text:Sarah T. Casey
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:26601.0
+passage.questions.12.question:Kaj so morali leta 2001 ob globi v višini 100 dolarjev plačati?
+passage.questions.12.idx:5006.0
+passage.questions.12.answers.3.text:Sodni stroški
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:26600.0
+passage.questions.12.answers.2.text:Manj kot 250 dolarjev globe zaradi kršitve sodnega naloga
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:26599.0
+passage.questions.12.answers.1.text:100 dolarjev
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:26598.0
+passage.questions.12.answers.0.text:Brez stroškov
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:26597.0
+passage.questions.11.question:Leta 2001 so okrožni sodniki zaslišali 98 primerov zaščite pred zlorabo, kolikšen najvišji znesek bi morali plačati?
+passage.questions.11.idx:5005.0
+passage.questions.11.answers.4.text:48 dolarjev
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:26596.0
+passage.questions.11.answers.3.text:10 dolarjev
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:26595.0
+passage.questions.11.answers.2.text:50 dolarjev
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:26594.0
+passage.questions.11.answers.1.text:250 dolarjev
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:26593.0
+passage.questions.11.answers.0.text:Sodni stroški, plus 100 dolarjev globe
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:26592.0
+passage.questions.10.question:Kakšno kazen dobite za večkratno pretepanje ženske?
+passage.questions.10.idx:5004.0
+passage.questions.10.answers.4.text:Ne v redu
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:26591.0
+passage.questions.10.answers.3.text:250 dolarjev globe
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:26590.0
+passage.questions.10.answers.2.text:100 dolarjev
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:26589.0
+passage.questions.10.answers.1.text:Najmanjša globa
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:26588.0
+passage.questions.10.answers.0.text:100 dolarjev globe
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:26587.0
+passage.questions.1.question:Valerie West, vodja / odvetnica pri Mid-Penn Legal Services meni, da bi moral biti nalog za skrbništvo v celotnem mandatu PFA, kaj je kaj?
+passage.questions.1.idx:4995.0
+passage.questions.1.answers.3.text:30 dni po vložitvi PFA
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:26549.0
+passage.questions.1.answers.2.text:100 mesecev
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:26548.0
+passage.questions.1.answers.1.text:Do 18 mesecev
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26547.0
+passage.questions.1.answers.0.text:6 mesecev
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26546.0
+passage.questions.0.question:Kakšna je najnižja globa za zlorabo živali ali ženske v okrožju Schuylkill?
+passage.questions.0.idx:4994
+passage.questions.0.answers.3.text:30 dolarjev
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:26545.0
+passage.questions.0.answers.2.text:1000 dolarjev
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:26544.0
+passage.questions.0.answers.1.text:100 dolarjev
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26543
+passage.questions.0.answers.0.text:250 dolarjev
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:26542
+idx:443

@@ -1,0 +1,45 @@
+version:1.1
+passage.text:Tokhtakhounov, ki mu je Comey določil starost 53 ali 62 let, je &quot;glavna osebnost mednarodnega evrazijskega organiziranega kriminala,&quot; je dejal Comey. Rodil se je v Taškentu v Uzbekistanu in je danes ruski državljan, zaradi svoje srednjeazijske narodnosti pa je znan kot Tajvančik ali Mali Tajvanec. Po razpadu Sovjetske zveze je bil vpleten v trgovino z orožjem in tihotapljenje ruske umetnosti, v ruskih medijih pa so mu očitali sokrivdo v zaroti za izsiljevanje 10 milijonov dolarjev od vodje ruske športne fundacije. Zdi se, da se je po poročanju tiskovnih medijev leta 1989 preselil v Francijo in naj bi imel tudi izraelsko državljanstvo. Comey je dejal, da je imel Tokhtakhounov tri prebivališča v Italiji: Forte dei Marmi, Rim in Milano. Pritožba zoper Tokhtakhounov izsledi njegov stik z umetnostnim drsanjem do leta 2000, ko je Gailhaguetu predlagal ustanovitev profesionalne hokejske ekipe v Parizu, ki bi zagotavljala prihodek Francoski drsalni zvezi. (Gailhaguet in Anissina v priloženi izjavi agenta FBI nista omenjena poimensko, toda njihovi opisi so očitni.) V zameno je Gailhaguet FBI 23. februarja med olimpijskimi igrami povedal, da je Tokhtakhounov prosil za pomoč Gailhagueta. pri podaljšanju francoskega vizuma, ki je kmalu potekel. Ko pa je Gailhaguet zaprosil za navodila pri francoskem vladnem uradniku, so mu rekli, da je &quot;denar Tohtakhounov-a slab,&quot; je dejala izjava. Zvezna pritožba ponuja številne podrobnosti domnevne zarote, vključno z odlomki iz prepisa italijanskih prisluhov. kasneje za tri leta suspendiral Le Gougne in Gailhaguet. Zvezna pritožba ni opisovala možnosti širše zarote ali kakršnega koli stika med Tokhtakhounovom ali njegovimi neimenovanimi zarotniki z Le Gougneom. &quot;Med tem človekom nismo trdili, da bi bil povezan z nobenim uradnikom, razen z uradniki ruske federacije,&quot; je na novinarski konferenci dejal James B. Comey, ameriški odvetnik za južno okrožje New Yorka. Povedal je, da je Tokhtakhounov &quot;stopil v stik z zarotnikom, nekom, povezanim z Rusko drsalno federacijo, ki je zanj opravil delo.&quot;
+passage.questions.2.question:Je Comey rekel, da ima Tokhtakhounov prebivališče v Izraelu?
+passage.questions.2.idx:1953.0
+passage.questions.2.answers.1.text:Ne
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:10183.0
+passage.questions.2.answers.0.text:Da
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:10182.0
+passage.questions.1.question:V katerih državah je Tokhtakhounov izterjal denar iz katerih držav?
+passage.questions.1.idx:1952.0
+passage.questions.1.answers.6.text:Nemčija
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:10181.0
+passage.questions.1.answers.5.text:Nobenega
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:10180.0
+passage.questions.1.answers.4.text:Bocvana
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:10179.0
+passage.questions.1.answers.3.text:Izrael
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10178.0
+passage.questions.1.answers.2.text:Belgija
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:10177.0
+passage.questions.1.answers.1.text:Rusija
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:10176.0
+passage.questions.1.answers.0.text:Francija
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:10175.0
+passage.questions.0.question:Je Comey rekel, da FBI meni, da je Tokhtakhounov povezan z rusko drsalno federacijo?
+passage.questions.0.idx:1951
+passage.questions.0.answers.2.text:Prej
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10174.0
+passage.questions.0.answers.1.text:Ne
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:10173
+passage.questions.0.answers.0.text:Da
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:10172
+idx:176

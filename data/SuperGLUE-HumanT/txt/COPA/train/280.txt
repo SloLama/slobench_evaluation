@@ -1,0 +1,6 @@
+choice1:Pogledal je listek s ceno.
+choice2:Odločil se je, da ga kupi.
+idx:280
+label:0
+premise:Kupca je zanimala cena izdelka.
+question:effect

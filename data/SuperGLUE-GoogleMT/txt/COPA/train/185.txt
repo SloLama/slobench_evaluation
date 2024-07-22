@@ -1,0 +1,6 @@
+choice1:Ugotovil je, da je bila pacientu zlomljena roka.
+choice2:Pacientu je dal roko v gips.
+idx:185
+label:0
+premise:Zdravnik je pacientovo rentgensko slikal roko.
+question:effect

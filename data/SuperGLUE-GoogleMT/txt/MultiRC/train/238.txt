@@ -1,0 +1,48 @@
+version:1.1
+passage.text:Kemijske spremembe povzročajo nove snovi. Iz tega razloga jih pogosto ni mogoče razveljaviti. Nekatere kemijske spremembe je mogoče nekako obrniti. Za to je potrebna druga kemijska sprememba. Na primer, lahko odstranite obarvanje bakrenih penijev, tako da jih položite v kis. Kislina v kisu reagira z obarvanjem. To je kemična sprememba, zaradi katere so peniji spet svetli in sijoči. To lahko poskusite tudi sami doma, da vidite, kako dobro deluje. Drugih kemijskih sprememb sploh ni mogoče razveljaviti ali pa jih je težko izvesti. Rjavenje je kemična sprememba. Če kovina rja, je najbolje, da jo zbrusiš, da prideš do sijoče kovine. Čeprav je kovina zdaj lahko sijoča, je bila rja odstranjena. Rja ni bila spremenjena nazaj v prvotno kovino. Nekatere kemične reakcije potekajo le v eno smer. Te reakcije se imenujejo nepopravljive reakcije. Ocvrtega jajca na primer ne morete spremeniti nazaj v surovo jajce. Si lahko omislite kakšne druge nepopravljive reakcije, povezane s kuhanjem? Bi radi kos torte?
+passage.questions.2.question:Kateri so primeri nepopravljivih reakcij?
+passage.questions.2.idx:2631.0
+passage.questions.2.answers.3.text:mešanje vode in olja
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13864.0
+passage.questions.2.answers.2.text:ocvrto jajce nazaj v surovo jajce
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:13863.0
+passage.questions.2.answers.1.text:peka torte
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13862.0
+passage.questions.2.answers.0.text:rja
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13861.0
+passage.questions.1.question:Ali je kemične spremembe mogoče razveljaviti?
+passage.questions.1.idx:2630.0
+passage.questions.1.answers.3.text:nikoli
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13860.0
+passage.questions.1.answers.2.text:da, ves čas
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:13859.0
+passage.questions.1.answers.1.text:včasih
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:13858.0
+passage.questions.1.answers.0.text:Ne res, lahko pa ustvarite novo kemijsko spremembo, ki bo snov vrnila v prejšnje stanje.
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13857.0
+passage.questions.0.question:Kaj lahko storite, da bodo peniji spet svetli in sijoči?
+passage.questions.0.idx:2629
+passage.questions.0.answers.4.text:surova jajca
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:13856.0
+passage.questions.0.answers.3.text:dajanje v olje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:13855.0
+passage.questions.0.answers.2.text:jih speči
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13854.0
+passage.questions.0.answers.1.text:dajanje penijev v kis
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:13853
+passage.questions.0.answers.0.text:S kisom lahko odstranite madeže, tako da povzročite novo kemijsko spremembo, ko reagirajo.
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:13852
+idx:238

@@ -1,0 +1,6 @@
+﻿choice1:Motor se je ustavil.
+choice2:Motor je oddrvel.
+idx:170
+label:1
+premise:Motorist je pritisnil na plin.
+question:effect

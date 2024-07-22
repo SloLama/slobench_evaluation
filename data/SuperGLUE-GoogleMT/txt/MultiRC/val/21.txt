@@ -1,0 +1,435 @@
+version:1.1
+passage.text:Dan se je ravno lomil, ko sem zapustil stolp; čeprav je bilo v hiši še pretemno, da bi lahko videl brez luči, in sem v svoj &#39;krog&#39; vzel s seboj eno od študijskih sveč. Ko sem dokončal pritličje, se je skozi pregrajena okna prikradla dnevna svetloba. Iskanje mi ni pokazalo nič svežega. Videti je bilo, da je vse v redu in ugasnil sem svojo svečo, ko se mi je sama misel namenila, da bi še enkrat pogledala po kleteh. Če se prav spomnim, jih nisem iskal vse od naglih iskanj na večer napada. Morda sem pol minute okleval. Zelo bi se bil pripravljen odpovedati tej nalogi - pravzaprav sem nagnjen k temu, da bi se kdorkoli dobro zamislil - iz vseh velikih, strahospoštovalnih prostorov v tej hiši so kleti najbolj ogromne in čudne. Velike, mračne kaverne krajev, ki jih ne osvetli noben žarek dneva. Kljub temu se dela ne bi izogibal. Zdelo se mi je, da bi to storilo čisto strahopetnost. Poleg tega, kot sem se prepričeval, so bile kleti res najverjetnejše kraje, kjer bi lahko naleteli na kaj nevarnega; glede na to, da je v njih mogoče vstopiti le skozi težka hrastova vrata, katerih ključ vedno nosim na sebi.
+passage.questions.9.question:Koliko nadstropij je?
+passage.questions.9.idx:238.0
+passage.questions.9.answers.4.text:3.
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:1253.0
+passage.questions.9.answers.3.text:Tri
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1252.0
+passage.questions.9.answers.2.text:Vsaj dva
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1251.0
+passage.questions.9.answers.1.text:Eno nadstropje, stolp in klet
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:1250.0
+passage.questions.9.answers.0.text:Dve nadstropji in klet
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1249.0
+passage.questions.8.question:Katera je bila zadnja soba, ki jo je moral preveriti?
+passage.questions.8.idx:237.0
+passage.questions.8.answers.4.text:Soba za goste
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:1248.0
+passage.questions.8.answers.3.text:Kleti
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1247.0
+passage.questions.8.answers.2.text:Študij
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1246.0
+passage.questions.8.answers.1.text:Zadnja soba v pritličju
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1245.0
+passage.questions.8.answers.0.text:Spalnica
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1244.0
+passage.questions.7.question:V katerem času dneva se to dogaja?
+passage.questions.7.idx:236.0
+passage.questions.7.answers.7.text:Zgodaj zvečer
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:1243.0
+passage.questions.7.answers.6.text:Opoldne
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:1242.0
+passage.questions.7.answers.5.text:Nekaj ur po sončnem vzhodu
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:1241.0
+passage.questions.7.answers.4.text:Zori
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:1240.0
+passage.questions.7.answers.3.text:Ves dan
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1239.0
+passage.questions.7.answers.2.text:Opolnoči
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1238.0
+passage.questions.7.answers.1.text:Zgodaj zjutraj
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1237.0
+passage.questions.7.answers.0.text:Poteka zgodaj zjutraj
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1236.0
+passage.questions.6.question:Kdaj je oseba nazadnje opravila krog kleti?
+passage.questions.6.idx:235.0
+passage.questions.6.answers.4.text:Prejšnje jutro
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:1235.0
+passage.questions.6.answers.3.text:Dan po napadu
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1234.0
+passage.questions.6.answers.2.text:Pred nekaj leti
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1233.0
+passage.questions.6.answers.1.text:Jutro napada
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1232.0
+passage.questions.6.answers.0.text:Zvečer napada
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:1231.0
+passage.questions.5.question:Kaj bi privoščilo čisto strahopetnost?
+passage.questions.5.idx:234.0
+passage.questions.5.answers.6.text:Izogibanje delu
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:1230.0
+passage.questions.5.answers.5.text:Ne preiskuje pritličja
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:1229.0
+passage.questions.5.answers.4.text:Ne grem v klet iz strahu
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:1228.0
+passage.questions.5.answers.3.text:Gašenje sveče
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1227.0
+passage.questions.5.answers.2.text:Ne delati krogov v pritličju
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1226.0
+passage.questions.5.answers.1.text:Da ne bi iskali kleti
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1225.0
+passage.questions.5.answers.0.text:Odhod v stolp
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1224.0
+passage.questions.4.question:Navedite dva razloga, zaradi katerih se je oseba odločila za krog kleti.
+passage.questions.4.idx:233.0
+passage.questions.4.answers.8.text:V kleteh je bilo najverjetneje kraj, kjer se je lahko kdo ali kdo skril in bil je preveč radoveden
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:1223.0
+passage.questions.4.answers.7.text:Bilo bi strahopetno in kleti povsem varne
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:1222.0
+passage.questions.4.answers.6.text:1. Ne preiskati kleti bi bilo strahopetno. 2. Kleti so zaklenjene in oseba ima ključ, zaradi česar so razmeroma varne pred vsiljivci
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:1221.0
+passage.questions.4.answers.5.text:Da se ne izogibate delu, da se ne smrdite iz same strahopetnosti
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:1220.0
+passage.questions.4.answers.4.text:V kleteh je najverjetneje, da naletijo na kaj nevarnega, pa vseeno ni bil strahopetec
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:1219.0
+passage.questions.4.answers.3.text:Slišal je zvok in mislil, da je nekdo tam
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1218.0
+passage.questions.4.answers.2.text:Da naleti na kaj nevarnega, da poišče njegov ključ
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1217.0
+passage.questions.4.answers.1.text:Tam se je zgodil napad in ljubil je kleti
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1216.0
+passage.questions.4.answers.0.text:Da vidim, katera vina so na voljo, da odklenem vrata
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1215.0
+passage.questions.3.question:Katere so krasne, mračne kaverne krajev?
+passage.questions.3.idx:232.0
+passage.questions.3.answers.5.text:Okoliške hiše
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:1214.0
+passage.questions.3.answers.4.text:Sobe v hiši
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1213.0
+passage.questions.3.answers.3.text:Študije
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1212.0
+passage.questions.3.answers.2.text:Kleti
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1211.0
+passage.questions.3.answers.1.text:Študija in njegova soba
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1210.0
+passage.questions.3.answers.0.text:Hlevi
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1209.0
+passage.questions.2.question:Zakaj je okleval, preden je šel v klet?
+passage.questions.2.idx:231
+passage.questions.2.answers.6.text:Temno je, ne osvetli ga noben žarek svetlobe
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:1208.0
+passage.questions.2.answers.5.text:Tisti večer je bil že v kleti
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:1207.0
+passage.questions.2.answers.4.text:Prestraši ga
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:1206.0
+passage.questions.2.answers.3.text:Nikoli ni bil v kleti
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1205.0
+passage.questions.2.answers.2.text:Bil je zaspan
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1204.0
+passage.questions.2.answers.1.text:Omahoval je, ker ni bil tam spodaj od noči napada
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:1203
+passage.questions.2.answers.0.text:Ogromno je in čudno
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:1202
+passage.questions.17.question:Zakaj ne bi iskali kleti?
+passage.questions.17.idx:246.0
+passage.questions.17.answers.8.text:Izgubljen je ključ kleti
+passage.questions.17.answers.8.label:0,0
+passage.questions.17.answers.8.idx:1317.0
+passage.questions.17.answers.7.text:Od vseh sob je najbolj mračen, čuden in brez dnevne svetlobe
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:1316.0
+passage.questions.17.answers.6.text:Ker so ga že iskali
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:1315.0
+passage.questions.17.answers.5.text:Temno je
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:1314.0
+passage.questions.17.answers.4.text:Je toplo
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:1313.0
+passage.questions.17.answers.3.text:Ker je ogromen, temen in mračen
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:1312.0
+passage.questions.17.answers.2.text:Tam so netopirji
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:1311.0
+passage.questions.17.answers.1.text:Strašno je
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:1310.0
+passage.questions.17.answers.0.text:Še nikoli nisem bil v kleti
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:1309.0
+passage.questions.16.question:Zakaj iskati v kleti?
+passage.questions.16.idx:245.0
+passage.questions.16.answers.6.text:Kdorkoli in karkoli je lahko vstopil noter
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:1308.0
+passage.questions.16.answers.5.text:Od noči napada ga niso iskali
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:1307.0
+passage.questions.16.answers.4.text:Od napada ga niso iskali in če tega ne bi storili, bi se spustil v strahopetnost
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:1306.0
+passage.questions.16.answers.3.text:Nikoli ga niso iskali
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:1305.0
+passage.questions.16.answers.2.text:Ker je ugasnil svečo, vendar je v kleti ne potrebuje
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:1304.0
+passage.questions.16.answers.1.text:Ker je slišal nekaj zvokov v kleti
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:1303.0
+passage.questions.16.answers.0.text:Tam ga ni bilo od večera napada
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:1302.0
+passage.questions.15.question:Kje ni bil od noči zvečer napada?
+passage.questions.15.idx:244.0
+passage.questions.15.answers.4.text:Hiša
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:1301.0
+passage.questions.15.answers.3.text:Zunaj
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:1300.0
+passage.questions.15.answers.2.text:Kleti
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:1299.0
+passage.questions.15.answers.1.text:Študij
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:1298.0
+passage.questions.15.answers.0.text:Pritličje
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:1297.0
+passage.questions.14.question:Kaj je počel v pritličju?
+passage.questions.14.idx:243.0
+passage.questions.14.answers.6.text:Čiščenje
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:1296.0
+passage.questions.14.answers.5.text:Iščem ključ kleti
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:1295.0
+passage.questions.14.answers.4.text:Kuhanje
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:1294.0
+passage.questions.14.answers.3.text:Opravljal je svoje kroge
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:1293.0
+passage.questions.14.answers.2.text:Iskanje
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:1292.0
+passage.questions.14.answers.1.text:Spanje
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1291.0
+passage.questions.14.answers.0.text:Branje
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1290.0
+passage.questions.13.question:Kdaj je avtor nazadnje šel v kleti?
+passage.questions.13.idx:242.0
+passage.questions.13.answers.7.text:Noč napada
+passage.questions.13.answers.7.label:1.0
+passage.questions.13.answers.7.idx:1289.0
+passage.questions.13.answers.6.text:Tik pred iskanjem pritličja
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:1288.0
+passage.questions.13.answers.5.text:Nazadnje je tja odšel zvečer napada
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:1287.0
+passage.questions.13.answers.4.text:Nikoli ni bil tam
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:1286.0
+passage.questions.13.answers.3.text:Zgodaj zjutraj
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:1285.0
+passage.questions.13.answers.2.text:Zvečer napada
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:1284.0
+passage.questions.13.answers.1.text:Pred enim tednom
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1283.0
+passage.questions.13.answers.0.text:Tistega jutra
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1282.0
+passage.questions.12.question:Kakšno službo lahko domnevate, da je imel? (izberite vse, kar bi lahko veljalo)
+passage.questions.12.idx:241.0
+passage.questions.12.answers.8.text:Filozof
+passage.questions.12.answers.8.label:1.0
+passage.questions.12.answers.8.idx:1281.0
+passage.questions.12.answers.7.text:Varnostnik
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:1280.0
+passage.questions.12.answers.6.text:Stražar
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:1279.0
+passage.questions.12.answers.5.text:Nejasno je
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:1278.0
+passage.questions.12.answers.4.text:Proizvajalec vina
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:1277.0
+passage.questions.12.answers.3.text:Čuvaj
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:1276.0
+passage.questions.12.answers.2.text:Policist
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1275.0
+passage.questions.12.answers.1.text:Princ
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:1274.0
+passage.questions.12.answers.0.text:Učitelj
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:1273.0
+passage.questions.11.question:Kdaj je oseba razmišljala o gašenju sveče?
+passage.questions.11.idx:240.0
+passage.questions.11.answers.9.text:Lučka se je spet prižgala
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:1272.0
+passage.questions.11.answers.8.text:Po končanih krogih pritličja
+passage.questions.11.answers.8.label:1.0
+passage.questions.11.answers.8.idx:1271.0
+passage.questions.11.answers.7.text:Sveča je postala premajhna
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:1270.0
+passage.questions.11.answers.6.text:Ugotovili so nekaj zanimivega
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:1269.0
+passage.questions.11.answers.5.text:Mislili so, da so končali iskanje
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:1268.0
+passage.questions.11.answers.4.text:Ker se je dan ravno lomil
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:1267.0
+passage.questions.11.answers.3.text:Ničesar nisem našel
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:1266.0
+passage.questions.11.answers.2.text:Pred spanjem
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:1265.0
+passage.questions.11.answers.1.text:V kleti
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:1264.0
+passage.questions.11.answers.0.text:Imel je nenavadno iskanje
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:1263.0
+passage.questions.10.question:Kdaj ali v katerem delu dneva je avtor razmišljal, da bi ugasnil svojo svečo.
+passage.questions.10.idx:239.0
+passage.questions.10.answers.8.text:Okoli poldneva
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:1262.0
+passage.questions.10.answers.7.text:Zgodaj zjutraj
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:1261.0
+passage.questions.10.answers.6.text:Tako kot se je dan lomil
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:1260.0
+passage.questions.10.answers.5.text:Ko je vstopil v klet
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:1259.0
+passage.questions.10.answers.4.text:Ob zori
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:1258.0
+passage.questions.10.answers.3.text:Ko je končal preiskavo v kleti
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1257.0
+passage.questions.10.answers.2.text:Opolnoči
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:1256.0
+passage.questions.10.answers.1.text:Čas za spanje
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1255.0
+passage.questions.10.answers.0.text:Ko je končal iskanje v pritličju
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1254.0
+passage.questions.1.question:Zakaj se je bal iti v klet?
+passage.questions.1.idx:230
+passage.questions.1.answers.9.text:Bilo je mrzlo
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:1201.0
+passage.questions.1.answers.8.text:Bil je bolan
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:1200.0
+passage.questions.1.answers.7.text:Bilo je kavernozno
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:1199.0
+passage.questions.1.answers.6.text:Bilo je temno in mračno
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:1198.0
+passage.questions.1.answers.5.text:Tam se je napad zgodil
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1197.0
+passage.questions.1.answers.4.text:Povedali so mu, da tam živi duh
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1196.0
+passage.questions.1.answers.3.text:Temno je, ne osvetljuje ga žarek dnevne svetlobe
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1195.0
+passage.questions.1.answers.2.text:Menil je, da je temno in nevarno
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1194.0
+passage.questions.1.answers.1.text:Ogromno je in čudno
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:1193
+passage.questions.1.answers.0.text:Slišal je zvok
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1192
+passage.questions.0.question:Kaj bi bil drobec strahopetnosti?
+passage.questions.0.idx:229
+passage.questions.0.answers.5.text:Preiskovanje pritličja
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1191.0
+passage.questions.0.answers.4.text:Gremo v klet
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1190.0
+passage.questions.0.answers.3.text:Izogibanje odgovornosti preverjanja kleti
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1189.0
+passage.questions.0.answers.2.text:Gašenje sveče
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1188.0
+passage.questions.0.answers.1.text:Ne grem v klet
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:1187
+passage.questions.0.answers.0.text:Da upihnete svečo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1186
+idx:21

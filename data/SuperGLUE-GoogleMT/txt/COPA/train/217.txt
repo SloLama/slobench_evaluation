@@ -1,0 +1,6 @@
+choice1:Učitelj je oceni učenca dodal dodatne točke.
+choice2:Učitelj je odšteval točke od ocene učenca.
+idx:217
+label:1
+premise:Odgovor študenta na izpitu je bil napačen.
+question:effect

@@ -1,0 +1,288 @@
+version:1.1
+passage.text:Po smrti njegovega bratranca Joeja se Layne Vassimer in njegovo dekle Macy skupaj s prijatelji Stephenom, Mauriceom, Iris in Katrino odločijo, da Joejevo hišo pospravijo z namenom, da jo prodajo. Ko jo vidijo prvič, odkrijejo hišo, ki je popolnoma prekrita s ploščami iz železnega oklepa. Skupina najde tudi žitne kroge na bližnjem koruznem polju. Ko Iris, ena od njunih prijateljic, nenadoma izgine, ugotovijo, da je res nekaj narobe. Med izpadom elektrike hišo napadejo nezemljani, ki so Joeja že ubili in ugrabili Iris. Skupina ugotovi, da so nezemljani alergični na železo, Joe je hišo v njej pokril, da bi jih preprečil. Poskušajo se boriti proti tujcem, toda hišo na koncu razstrelijo Layne, Macy in Katrina, ki so edine preživele. Na koncu se odpeljejo in poslušajo radio. Slišali so novico, v kateri piše, da je izpad električne energije prizadel pet zahodnih zveznih držav in dele Kanade. Slišijo tudi, da ljudi povsod napadajo »čudna bitja. &quot;
+passage.questions.9.question:Kdo napade hišo po Irisinem izginotju?
+passage.questions.9.idx:790.0
+passage.questions.9.answers.1.text:Layne
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4159.0
+passage.questions.9.answers.0.text:Nezemljani
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:4158.0
+passage.questions.8.question:V kakšnem stanju je Joejeva hiša po njegovi smrti?
+passage.questions.8.idx:789.0
+passage.questions.8.answers.4.text:Raznesena
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:4157.0
+passage.questions.8.answers.3.text:Popolnoma prekrita z železnimi oklepnimi ploščami
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:4156.0
+passage.questions.8.answers.2.text:Pokrit z železnimi ploščami
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:4155.0
+passage.questions.8.answers.1.text:Hiša je v celoti prekrita s ploščami iz železnega oklepa
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4154.0
+passage.questions.8.answers.0.text:Običajno
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4153.0
+passage.questions.7.question:Kako preživeli slišijo poročilo o izpadu električne energije?
+passage.questions.7.idx:788.0
+passage.questions.7.answers.2.text:Iris
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4152.0
+passage.questions.7.answers.1.text:Poslušanje avtoradia
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4151.0
+passage.questions.7.answers.0.text:Radio
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4150.0
+passage.questions.6.question:Kdaj so preživeli spoznali, da njihova izkušnja zatemnitve vpliva tudi na pet zahodnih zveznih držav in dele Kanade?
+passage.questions.6.idx:787.0
+passage.questions.6.answers.2.text:Ko se sliši na avtoradiu
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:4149.0
+passage.questions.6.answers.1.text:Ko pridem do Joejeve hiše
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4148.0
+passage.questions.6.answers.0.text:Ko so se odpeljali, so poslušali novico po radiu
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4147.0
+passage.questions.5.question:Čigava hiša je bila na koncu razstreljena?
+passage.questions.5.idx:786.0
+passage.questions.5.answers.2.text:Joejeva hiša
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4146.0
+passage.questions.5.answers.1.text:Layne&#39;s
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4145.0
+passage.questions.5.answers.0.text:Joe&#39;s
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4144.0
+passage.questions.4.question:S čim je Joe pokrival svojo hišo in zakaj?
+passage.questions.4.idx:785.0
+passage.questions.4.answers.4.text:Wood, da ne bi držal prijateljev
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4143.0
+passage.questions.4.answers.3.text:Spet je čudak
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4142.0
+passage.questions.4.answers.2.text:Joe je s ploščami železnega oklepa pokril svojo hišo, da ne bi prišel tujcem, ker so alergični na železo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4141.0
+passage.questions.4.answers.1.text:Nezemljani so alergični na železo
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4140.0
+passage.questions.4.answers.0.text:Železo, da ne bi prišlo do tujcev
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4139.0
+passage.questions.3.question:Je Macyin fant preživel napad nezemljanov?
+passage.questions.3.idx:784.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4138.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4137.0
+passage.questions.23.question:Kdo je ubil Joeja in zakaj Layne Vassimer, Macy in njihovi drugi prijatelji pospravijo njegovo hišo?
+passage.questions.23.idx:804.0
+passage.questions.23.answers.4.text:Nezemljani in so to očistili z namenom prodaje
+passage.questions.23.answers.4.label:1.0
+passage.questions.23.answers.4.idx:4205.0
+passage.questions.23.answers.3.text:Iris in očiščena, ker Joe ni umrl
+passage.questions.23.answers.3.label:0,0
+passage.questions.23.answers.3.idx:4204.0
+passage.questions.23.answers.2.text:Nezemljani
+passage.questions.23.answers.2.label:1.0
+passage.questions.23.answers.2.idx:4203.0
+passage.questions.23.answers.1.text:Njegovo dekle
+passage.questions.23.answers.1.label:0,0
+passage.questions.23.answers.1.idx:4202.0
+passage.questions.23.answers.0.text:Nezemljani so Joeja ubili in njegovo hišo so pospravili za prodajo
+passage.questions.23.answers.0.label:1.0
+passage.questions.23.answers.0.idx:4201.0
+passage.questions.22.question:Koliko ljudi je šlo v hišo in koliko jih je preživelo?
+passage.questions.22.idx:803.0
+passage.questions.22.answers.2.text:6 jih je šlo in 3 so preživele
+passage.questions.22.answers.2.label:1.0
+passage.questions.22.answers.2.idx:4200.0
+passage.questions.22.answers.1.text:5 jih je šlo in vsi so preživeli
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:4199.0
+passage.questions.22.answers.0.text:Šest ljudi je šlo, le trije pa so preživeli. Preživele so Layne, Macy in Katrina. Iris so ugrabili vesoljci, medtem ko sta Stephen in Maurice morda umrla, ko je bila hiša pihana
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:4198.0
+passage.questions.21.question:Čigavo hišo so med izpadi elektrike napadli nezemljani?
+passage.questions.21.idx:802.0
+passage.questions.21.answers.1.text:Layne&#39;s
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:4197.0
+passage.questions.21.answers.0.text:Joe&#39;s
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:4196.0
+passage.questions.20.question:Katere novice so še slišali z radia?
+passage.questions.20.idx:801.0
+passage.questions.20.answers.3.text:Mariah Carrey in nick Canon sta se razšla
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:4195.0
+passage.questions.20.answers.2.text:Ljudje napadajo »čudna bitja. &quot;
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:4194.0
+passage.questions.20.answers.1.text:Izpad je prizadel 5 drugih zveznih držav Kanade
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:4193.0
+passage.questions.20.answers.0.text:Prizadetih 5 zveznih držav in delov Kanade
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:4192.0
+passage.questions.2.question:Zakaj je Joe hišo pokril z železom?
+passage.questions.2.idx:783.0
+passage.questions.2.answers.3.text:Da ne bi tujcev
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4136.0
+passage.questions.2.answers.2.text:Da ne bi držal prijateljev
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4135.0
+passage.questions.2.answers.1.text:Je čuden fant
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:4134.0
+passage.questions.2.answers.0.text:Nezemljani so alergični na železo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4133.0
+passage.questions.19.question:Kdo od ljudi, ki so sprva vstopili v Joejevo hišo z namenom, da jo pospravijo, kdo na koncu ni uspel?
+passage.questions.19.idx:800.0
+passage.questions.19.answers.2.text:Stephen, Maurice in Iris
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:4191.0
+passage.questions.19.answers.1.text:Layne, macy, katrina
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:4190.0
+passage.questions.19.answers.0.text:Stephen, Iris, Maurice
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:4189.0
+passage.questions.18.question:Kje so edini ali prvi ljudje, ki imajo tak problem?
+passage.questions.18.idx:799.0
+passage.questions.18.answers.2.text:Da, bili so edini ljudje, ki so prvič srečali tujce
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:4188.0
+passage.questions.18.answers.1.text:Ne, niso bili edini ljudje in ne ne prvi
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:4187.0
+passage.questions.18.answers.0.text:Ne, ljudi povsod napadajo nenavadna bitja, na primer v petih zahodnih zveznih državah, nekateri deli Kanade pa tudi izginejo
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:4186.0
+passage.questions.17.question:Kaj poslušajo po radiu?
+passage.questions.17.idx:798.0
+passage.questions.17.answers.4.text:Novice
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:4185.0
+passage.questions.17.answers.3.text:Nezemljani
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:4184.0
+passage.questions.17.answers.2.text:Hip hop pesmi
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:4183.0
+passage.questions.17.answers.1.text:Slišali so novico, v kateri piše, da je izpad električne energije prizadel pet zahodnih zveznih držav in dele Kanade
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:4182.0
+passage.questions.17.answers.0.text:Novice o izpadu električne energije
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:4181.0
+passage.questions.16.question:Kaj se zgodi s skupino, ko gredo k Joeju?
+passage.questions.16.idx:797.0
+passage.questions.16.answers.4.text:Napadli so jih nezemljani
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:4180.0
+passage.questions.16.answers.3.text:Iris izgine
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:4179.0
+passage.questions.16.answers.2.text:Avto se pokvari
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:4178.0
+passage.questions.16.answers.1.text:Eden od njih nenadoma izgine in to je Iris, ki jo ugrabijo vesoljci, ko gredo v bližino koruznega polja
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:4177.0
+passage.questions.16.answers.0.text:Imeli so zaskrbljenost
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:4176.0
+passage.questions.15.question:Kam je Iris izginila?
+passage.questions.15.idx:796.0
+passage.questions.15.answers.2.text:Joesova hiša
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:4175.0
+passage.questions.15.answers.1.text:V Joejevi hiši
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:4174.0
+passage.questions.15.answers.0.text:Koruzno polje
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:4173.0
+passage.questions.14.question:Na kaj so tujci, odgovorni za umor Joeja in ugrabitev Iris?
+passage.questions.14.idx:795.0
+passage.questions.14.answers.1.text:Železo
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:4172.0
+passage.questions.14.answers.0.text:Koruzna polja
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:4171.0
+passage.questions.13.question:Je dekle Layne Vassimer preživelo napad nezemljanov?
+passage.questions.13.idx:794.0
+passage.questions.13.answers.1.text:Da
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:4170.0
+passage.questions.13.answers.0.text:Ne
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:4169.0
+passage.questions.12.question:Kdo je s poslušanjem radia izvedel, da ljudi povsod napadajo čudna bitja?
+passage.questions.12.idx:793.0
+passage.questions.12.answers.1.text:Layne, Macy in Katrina
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:4168.0
+passage.questions.12.answers.0.text:Maurice, Stephen, iris
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:4167.0
+passage.questions.11.question:Kaj najdejo, ko so očistili Joejevo hišo?
+passage.questions.11.idx:792.0
+passage.questions.11.answers.4.text:Železne plošče, žitni krogi in tujci
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:4166.0
+passage.questions.11.answers.3.text:Žitni krogi
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:4165.0
+passage.questions.11.answers.2.text:V bližnjem koruznem polju najdejo žitne kroge
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:4164.0
+passage.questions.11.answers.1.text:Zlato
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4163.0
+passage.questions.11.answers.0.text:Joe
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4162.0
+passage.questions.10.question:Koliko ljudi iz skupine je ostalo po ugrabitvi Iris?
+passage.questions.10.idx:791.0
+passage.questions.10.answers.1.text:6.
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4161.0
+passage.questions.10.answers.0.text:5.
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4160.0
+passage.questions.1.question:Je kdo od Layne in Macyinih prijateljev preživel napad nezemljanov?
+passage.questions.1.idx:782.0
+passage.questions.1.answers.2.text:Ja, Stephen
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4132.0
+passage.questions.1.answers.1.text:Ja, Katrina
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:4131.0
+passage.questions.1.answers.0.text:Da
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4130.0
+passage.questions.0.question:Kateri Joejev sorodnik odkrije, da je njegova hiša prekrita s ploščami iz železnega oklepa?
+passage.questions.0.idx:781
+passage.questions.0.answers.2.text:Layne
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:4129.0
+passage.questions.0.answers.1.text:Macy
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4128
+passage.questions.0.answers.0.text:Njegova sestrična Layne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4127
+idx:67

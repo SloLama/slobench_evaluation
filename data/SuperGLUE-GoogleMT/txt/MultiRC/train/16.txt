@@ -1,0 +1,221 @@
+version:1.1
+passage.text:Alexis de Tocqueville in Gustave de Beaumont v Ameriki: njuno prijateljstvo in njihova potovanja urednik Oliver Zunz, prevod Arthur Goldhammer (University of Virginia Press; 2011) 698 strani; Vključuje prej neobjavljena pisma, eseje in druge spise Du systeme penitentaire aux Etats-Unis et de son prijava v Franciji (1833) - O kazenskem sistemu v ZDA in njegovi uporabi v Franciji, z Gustaveom de Beaumontom. De la democratie en Amerique (1835/1840) - Demokracija v Ameriki. Izšla je v dveh zvezkih, prvi leta 1835, drugi leta 1840. Angleške različice: Tocqueville, Democracy in America, trans. in ur., Harvey C. Mansfield in Delba Winthrop, University of Chicago Press, 2000; Tocqueville, Demokracija v Ameriki (Arthur Goldhammer, prev .; Olivier Zunz, ur.) (Ameriška knjižnica, 2004) ISBN 978-1-931082-54-9. L&#39;Ancienov režim in revolucija (1856) - Stari režim in revolucija. Tocqueville je drugo najbolj znano delo. Spomine (1893) - To delo je bilo zasebno glasilo revolucije 1848. Tega v življenju ni nameraval objaviti; objavili so ga njegova žena in njegov prijatelj Gustave de Beaumont po njegovi smrti. Potovanje v Ameriko (1831-1832) - popotniški dnevnik Alexisa de Tocquevillea o njegovem obisku v Ameriki; v angleščino prevedel George Lawrence, uredil JP Mayer, Yale University Press, 1960; na podlagi zv. V, 1 OEuvres Completes of Tocqueville. L&#39;Etat social et politique de la France avant et depuis 1789 - Alexis de Tocqueville Memoir o pavterizmu: Ali javna dobrodelnost ustvarja brezdelen in odvisen sloj družbe? (1835) prvotno izdal Ivan R. Dee. Navdihnilo potovanje v Anglijo. Eno bolj nejasnih del Tocquevillea. Potovanja v Anglijo in na Irsko 1835
+passage.questions.9.question:Katero Tocquevilleovo delo je izšlo v dveh zvezkih, prvi leta 1835 in nato še leta 1840?
+passage.questions.9.idx:195.0
+passage.questions.9.answers.3.text:Demokracija v Ameriki
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1088.0
+passage.questions.9.answers.2.text:De la democratie en Amerique (1835/1840) - Demokracija v Ameriki
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1087.0
+passage.questions.9.answers.1.text:Stari režim in revolucija
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1086.0
+passage.questions.9.answers.0.text:Potovanja v Anglijo in na Irsko
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1085.0
+passage.questions.8.question:Katero je bilo bolj nejasno delo Tocquevillea?
+passage.questions.8.idx:194.0
+passage.questions.8.answers.1.text:Potovanja v Anglijo in na Irsko 1835
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:1084.0
+passage.questions.8.answers.0.text:Demokracija v Ameriki
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1083.0
+passage.questions.7.question:Katero delo sta Tocquevilleova žena in Gustave de Beaumont objavila po njegovi smrti?
+passage.questions.7.idx:193.0
+passage.questions.7.answers.2.text:Spomine
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:1082.0
+passage.questions.7.answers.1.text:Stari režim in revolucija
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1081.0
+passage.questions.7.answers.0.text:Potovanja v Anglijo in na Irsko
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:1080.0
+passage.questions.6.question:Kaj je Tocqueville napisal navdihnjeno potovanje v Anglijo?
+passage.questions.6.idx:192.0
+passage.questions.6.answers.3.text:Stari režim in revolucija
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1079.0
+passage.questions.6.answers.2.text:Potovanje v Ameriko
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1078.0
+passage.questions.6.answers.1.text:Potovanja v Anglijo in na Irsko 1935
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1077.0
+passage.questions.6.answers.0.text:L&#39;Etat social et politique de la France avant et depuis 1789
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:1076.0
+passage.questions.5.question:Je bil De la democratie en Amerique napisan samo v francoščini v enem zvezku?
+passage.questions.5.idx:191.0
+passage.questions.5.answers.2.text:Ne, objavljen je bil v dveh zvezkih in v angleščino preveden kot Demokracija v Ameriki
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1075.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1074.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:1073.0
+passage.questions.4.question:Katera leta je bil napisan in objavljen stari režim in revolucija?
+passage.questions.4.idx:190.0
+passage.questions.4.answers.2.text:1856
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1072.0
+passage.questions.4.answers.1.text:1835
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1071.0
+passage.questions.4.answers.0.text:1848
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1070.0
+passage.questions.3.question:Katero je bilo drugo najbolj znano delo Tocquevillea?
+passage.questions.3.idx:189.0
+passage.questions.3.answers.1.text:L&#39;Ancienov režim in revolucija (1856) - Stari režim in revolucija
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1069.0
+passage.questions.3.answers.0.text:Potovanja v Anglijo in na Irsko
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1068.0
+passage.questions.2.question:Kdo je vodil zasebni dnevnik revolucije iz leta 1848, ki ga je avtorjeva žena in prijatelj posthumno izdala?
+passage.questions.2.idx:188.0
+passage.questions.2.answers.2.text:Alexis de Tocqueville
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:1067.0
+passage.questions.2.answers.1.text:Gustave de Beaumont
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:1066.0
+passage.questions.2.answers.0.text:Tocqueville
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:1065.0
+passage.questions.18.question:Koliko zvezkov ima De la democratie en Amerique (1835/1840)?
+passage.questions.18.idx:204.0
+passage.questions.18.answers.4.text:3.
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:1117.0
+passage.questions.18.answers.3.text:Tri
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:1116.0
+passage.questions.18.answers.2.text:Dva
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:1115.0
+passage.questions.18.answers.1.text:1.
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:1114.0
+passage.questions.18.answers.0.text:Dva zvezka
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:1113.0
+passage.questions.17.question:So Tocquevilleove spomine postale njegovo drugo slavno delo?
+passage.questions.17.idx:203.0
+passage.questions.17.answers.2.text:Da
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:1112.0
+passage.questions.17.answers.1.text:Ne, L&#39;Ancien Regime et la Revolution (1856) je bilo njegovo drugo slavno delo
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:1111.0
+passage.questions.17.answers.0.text:Ne
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:1110.0
+passage.questions.16.question:Katerega dela Tocqueville v času svojega življenja ni nameraval objaviti?
+passage.questions.16.idx:202.0
+passage.questions.16.answers.2.text:Spomine
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:1109.0
+passage.questions.16.answers.1.text:Stari režim in revolucija
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:1108.0
+passage.questions.16.answers.0.text:Potovanja v Anglijo in na Irsko
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:1107.0
+passage.questions.15.question:Kdaj je knjiga izšla in v koliko različicah?
+passage.questions.15.idx:201.0
+passage.questions.15.answers.2.text:Dva
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:1106.0
+passage.questions.15.answers.1.text:Dva zvezka, prvi leta 1835, drugi leta 1840
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1105.0
+passage.questions.15.answers.0.text:Prvi leta 1840, drugi leta 1835
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:1104.0
+passage.questions.14.question:Kaj je navdihnilo De la democratie en Amerique?
+passage.questions.14.idx:200.0
+passage.questions.14.answers.2.text:Potovanje v Ameriko
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:1103.0
+passage.questions.14.answers.1.text:Revolucija 1848
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1102.0
+passage.questions.14.answers.0.text:Alexis de Tocqueville in Gustave de Beaumont v Ameriki: njuno prijateljstvo in njihova potovanja
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:1101.0
+passage.questions.13.question:Katere odprave so navdihnile nastanek tega romana?
+passage.questions.13.idx:199.0
+passage.questions.13.answers.2.text:Potovanje v Anglijo in na Irsko
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:1100.0
+passage.questions.13.answers.1.text:Obisk Anglije
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1099.0
+passage.questions.13.answers.0.text:Obisk ZDA
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:1098.0
+passage.questions.12.question:Kdaj je izšel Stari režim in revolucija, je bil uspešen?
+passage.questions.12.idx:198.0
+passage.questions.12.answers.1.text:1856, ja zelo
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1097.0
+passage.questions.12.answers.0.text:1835 in ja
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1096.0
+passage.questions.11.question:Prijateljstvo in potovanja Alexisa de Tocquevillea in Gustava de Beaumonta, ki sva jih uredila in prevedla ta dva moška?
+passage.questions.11.idx:197.0
+passage.questions.11.answers.3.text:Harvey Mansfield
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:1095.0
+passage.questions.11.answers.2.text:De Tocqueville
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:1094.0
+passage.questions.11.answers.1.text:Beaumont
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:1093.0
+passage.questions.11.answers.0.text:Oliver Zunz in Arthur Goldhammer
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:1092.0
+passage.questions.10.question:Je L&#39;Ancien Regime et la Revolution (1856) - Stari režim in revolucija navdihnil potovanje v Anglijo?
+passage.questions.10.idx:196.0
+passage.questions.10.answers.2.text:Ne, L&#39;Etat social et politique de la France avant et depuis 1789 je bil navdihnjen za potovanje v Anglijo
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:1091.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1090.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1089.0
+passage.questions.1.question:Je potovanje Tocquevillea po Angliji in na Irsko 1835 objavila njegova žena?
+passage.questions.1.idx:187.0
+passage.questions.1.answers.2.text:Ne, Spomine (1893) sta objavila njegova žena in njegov prijatelj Gustave de Beaumont
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1064.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:1063.0
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:1062.0
+passage.questions.0.question:Katera je druga najbolj znana publikacija Tocquevillea?
+passage.questions.0.idx:186
+passage.questions.0.answers.3.text:L&#39;Ancienov režim in revolucija (1856)
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1061.0
+passage.questions.0.answers.2.text:Stari režim in revolucija, druga knjiga
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1060.0
+passage.questions.0.answers.1.text:Spomine
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1059
+passage.questions.0.answers.0.text:Stari režim in revolucija
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1058
+idx:16

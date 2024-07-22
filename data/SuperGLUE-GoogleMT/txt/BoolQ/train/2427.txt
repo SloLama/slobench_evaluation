@@ -1,0 +1,4 @@
+idx:2427
+label:False
+passage:Dvojno povezan seznam - v računalništvu je dvojno povezan seznam povezana podatkovna struktura, ki je sestavljena iz niza zaporedno povezanih zapisov, imenovanih vozlišča. Vsako vozlišče vsebuje dve polji, imenovani povezave, ki sta sklici na prejšnje in naslednje vozlišče v zaporedju vozlišč. Prejšnja in naslednja povezava začetnega in končnega vozlišča kažeta na nekakšen zaključek, običajno kontrolno vozlišče ali ničlo, da olajša prehod po seznamu. Če je samo eno kontrolno vozlišče, je seznam krožno povezan prek kontrolnega vozlišča. Lahko ga konceptualiziramo kot dva samostojno povezana seznama, sestavljena iz istih podatkovnih postavk, vendar v nasprotnih zaporednih zaporedjih.
+question:je dvojni seznam povezav linearna podatkovna struktura

@@ -1,0 +1,71 @@
+version:1.1
+passage.text:Splošna relativnost vključuje dinamični vesoljski čas, zato je težko razumeti, kako prepoznati ohranjeno energijo in zagon. Noetherjev izrek omogoča določanje teh količin iz Lagrangiana s prevodno nespremenljivostjo, toda splošna kovarianca spremeni prevajalsko nespremenljivost v nekaj merilne simetrije. Iz tega razloga energija in zagon, ki ju izhajata iz splošne relativnosti z Noetherjevimi predpisi, nista prava tenzorja. Einstein je trdil, da to drži iz temeljnih razlogov, ker bi lahko gravitacijsko polje z izbiro koordinat izginilo. Trdil je, da je nekovariantni psevdotenzor energijskega zagona v resnici najboljši opis porazdelitve energijskega zagona v gravitacijskem polju. Ta pristop je podobno Lev Landau, Evgeny Lifshitz in drugi, in je postal standard. Erwin Schrodinger in drugi so leta 1917 močno kritizirali uporabo nekovariantnih predmetov, kot so psevdotenzorji.
+passage.questions.3.question:Je Landau v svoji teoriji uporabil dinamični vesoljski čas, če ne, kaj?
+passage.questions.3.idx:4240.0
+passage.questions.3.answers.3.text:Nekovariantno
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:22568.0
+passage.questions.3.answers.2.text:Da
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:22567.0
+passage.questions.3.answers.1.text:Ne, uporablja porazdelitev zagon energije
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22566.0
+passage.questions.3.answers.0.text:Ne, uporablja invariantnost prevoda
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:22565.0
+passage.questions.2.question:Kdaj je bil kritičen standardni pristop k energijskemu zagonu?
+passage.questions.2.idx:4239.0
+passage.questions.2.answers.4.text:1907
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22564.0
+passage.questions.2.answers.3.text:1911
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:22563.0
+passage.questions.2.answers.2.text:1791
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22562.0
+passage.questions.2.answers.1.text:1917
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:22561.0
+passage.questions.2.answers.0.text:1971
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:22560.0
+passage.questions.1.question:Kdo od znanstvenikov je menil, da je nekovariantni energijski moment psevdotenzor najboljši opis energijskega zagona v gravitacijskem polju?
+passage.questions.1.idx:4238.0
+passage.questions.1.answers.5.text:Einstein
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:22559.0
+passage.questions.1.answers.4.text:Erwin Schrödinger
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:22558.0
+passage.questions.1.answers.3.text:Lev Landau
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:22557.0
+passage.questions.1.answers.2.text:Albert Einstein
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:22556.0
+passage.questions.1.answers.1.text:Evgeny Lifshitz
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22555.0
+passage.questions.1.answers.0.text:Einstein, Lev Landau in Evgeny Lifshitz
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22554.0
+passage.questions.0.question:Kdo v teoriji ni imel natančnejše simetrije za ohranjeno energijo in zagon?
+passage.questions.0.idx:4237
+passage.questions.0.answers.4.text:Einstein
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:22553.0
+passage.questions.0.answers.3.text:Landau
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:22552.0
+passage.questions.0.answers.2.text:Lifshitz
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:22551.0
+passage.questions.0.answers.1.text:Noetherjeva teorija
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:22550
+passage.questions.0.answers.0.text:Noether
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22549
+idx:369

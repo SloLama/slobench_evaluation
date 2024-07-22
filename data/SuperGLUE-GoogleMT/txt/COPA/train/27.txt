@@ -1,0 +1,6 @@
+choice1:Izogibal se je izpostavljenosti bolezni.
+choice2:Prejel je cepivo za bolezen.
+idx:27
+label:1
+premise:Otrok je postal imun na bolezen.
+question:cause

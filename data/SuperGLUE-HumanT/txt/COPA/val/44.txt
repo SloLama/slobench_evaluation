@@ -1,0 +1,6 @@
+﻿choice1:Novinar je imel težave z intervjuvanjem filantropa.
+choice2:Novinarja je pritegnilo filantropovo delo.
+idx:44
+label:1
+premise:Novinar je napisal biografijo filantropovega življenja.
+question:cause

@@ -1,0 +1,60 @@
+version:1.1
+passage.text:Medtem so se Indijanci umaknili na ležišča lave in vojakom kljubovali. General Wheaton, ki je poveljeval okrožju Jezer, je odredil koncentracijo vojakov iz kampov Warner in Bidwell, medtem ko je general Canby poslal sile pod polkovnikom Johnom Greenom in majorjem Masonom iz Ft. Vancouver, da se pridruži poveljstvu pod vodstvom generala Wheatona. Takoj, ko so se naseljenci lahko utrdili za medsebojno zaščito, so bile celotne sile rednikov in prostovoljcev zbrane na ranču Van Bremerja zahodno od ležišč lave pod generalom Wheatonom in na Landu na ranču na vzhodni strani jezera Tule in neposredno severno od trdnjave . Takšen je bil razpored sil, ko sem prispel v sedež na ranču Van Bremerja. Po ukazu guvernerja Groverja iz Oregona so bili prostovoljci pod poveljstvom OC Applegate in Kelley pod poveljstvom generala Wheatona. Obe četi sta šteli približno 225 mož, poveljeval pa jim je general John E. Ross, veteran indijski borec, vendar prestar, da bi vzdržal stiske zimske kampanje proti Indijancem. Moški so bili slabo preskrbljeni z oblačili in posteljnino, večina vseh je vzela za sedla le tisto, kar bi lahko privezala, toda kljub temu in temperaturi pogosto pod ničlo ni bilo slišati hrupa in vsi zaskrbljeno, nestrpno pričakovali srečanje z brutalnimi divjimi morilci svojih sodržavljanov. Takšni so bili pogoji, ko sem prispel na sedež.
+passage.questions.2.question:Kje so bili prostovoljci pod vodstvom OC Applegate in Kelly enkrat koncentrirani pod poveljstvom generala Wheatena?
+passage.questions.2.idx:43
+passage.questions.2.answers.6.text:Okrožje jezera
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:194.0
+passage.questions.2.answers.5.text:Na Ft. Vancouver
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:193.0
+passage.questions.2.answers.4.text:Ranč Van Bremerja
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:192.0
+passage.questions.2.answers.3.text:V kampu Warner in Bidwell
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:191.0
+passage.questions.2.answers.2.text:Ranč Van Bremerja zahodno od ležišč lave in Land&#39;s Ranch neposredno severno od trdnjave
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:190.0
+passage.questions.2.answers.1.text:Sedež na ranču Van Bremerja
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:189
+passage.questions.2.answers.0.text:Ranč Van Bremerja in Landov ranč
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:188
+passage.questions.1.question:Območje, kamor so se Indijanci umaknili, kje v bližini ranča Van Bremerja?
+passage.questions.1.idx:42
+passage.questions.1.answers.4.text:Medsebojna zaščita
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:187.0
+passage.questions.1.answers.3.text:Da, ker je bila utrdba postelj lave vzhodno od ranča Van Bremerja
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:186.0
+passage.questions.1.answers.2.text:Da, ker je bil ranč Van Bremerja zahodno od ležišč lave
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:185.0
+passage.questions.1.answers.1.text:Da, bilo je neposredno južno od Van Bremerja
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:184
+passage.questions.1.answers.0.text:Ne, bilo je precej po reki od ranča Van Bremerja
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:183
+passage.questions.0.question:Ko je pripovedovalec prispel na sedež, približno koliko moških je bilo prisotnih?
+passage.questions.0.idx:41
+passage.questions.0.answers.4.text:255 moških
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:182.0
+passage.questions.0.answers.3.text:235
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:181.0
+passage.questions.0.answers.2.text:525 moških
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:180.0
+passage.questions.0.answers.1.text:225
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:179
+passage.questions.0.answers.0.text:225 moških
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:178
+idx:4

@@ -1,0 +1,340 @@
+version:1.1
+passage.text:Tommy in Suzy (brat in sestra) sta se nekega popoldneva s svojo mamo in očetom Janom in Deanom odpravila na igrišče. Igrali so igro tagov in se najbolje zabavali, ko so kdaj tekli drug za drugim in se smejali. Radi so se igrali tag, namesto da bi gradili peščene kamne ali mahali. Oznaka jim je bila všeč, ker so radi tekli. Radi se igrajo poskoka ali skakajo po vrvi, toda tisti dan so se želeli igrati tag. Druge igre niso tako zabavne. Spoznala sta Tonyja in Ally (ki sta najboljša prijatelja) in jih povabila, naj se tudi igrata. Tony in Ally rada igrata druge igre, na primer poskoke ali skakalnice, toda tisti dan sta se pridružila igri tag. Sklepanje novih prijateljev je pomembno. Tony in Ally raje skleneta prijateljstva kot igrata svoje najljubše igre.
+passage.questions.9.question:Zakaj sta se Tony in Ally pridružila igri tag?
+passage.questions.9.idx:828.0
+passage.questions.9.answers.6.text:Raje so imeli vrv za skok
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:4341.0
+passage.questions.9.answers.5.text:Ni me skrbelo za prijateljevanje
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:4340.0
+passage.questions.9.answers.4.text:Ker je sklepanje novih prijateljev pomembno
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:4339.0
+passage.questions.9.answers.3.text:Raje so sklepali prijateljstva kot igrali svoje najljubše igre
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:4338.0
+passage.questions.9.answers.2.text:Radi so tekli
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4337.0
+passage.questions.9.answers.1.text:Všeč jim je bil poskok
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4336.0
+passage.questions.9.answers.0.text:Pomembno za prijateljevanje
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:4335.0
+passage.questions.8.question:Katere druge igre niso tako zabavne kot tag?
+passage.questions.8.idx:827.0
+passage.questions.8.answers.3.text:Hmelj
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:4334.0
+passage.questions.8.answers.2.text:Kolebnica
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4333.0
+passage.questions.8.answers.1.text:Tenis
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4332.0
+passage.questions.8.answers.0.text:Gradnja peščenjakov
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4331.0
+passage.questions.7.question:Ali so Tony, Ally, Tommy in Suzy tisti dan postali prijatelji?
+passage.questions.7.idx:826.0
+passage.questions.7.answers.3.text:Obrnili so se stran
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4330.0
+passage.questions.7.answers.2.text:Ne
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4329.0
+passage.questions.7.answers.1.text:Igrali so ločeno
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4328.0
+passage.questions.7.answers.0.text:Da, vsi so postali prijatelji
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4327.0
+passage.questions.6.question:Koga sta Tony in Ally spoprijateljila na igrišču?
+passage.questions.6.idx:825.0
+passage.questions.6.answers.5.text:Suzy
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:4326.0
+passage.questions.6.answers.4.text:Dean
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:4325.0
+passage.questions.6.answers.3.text:Žan
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:4324.0
+passage.questions.6.answers.2.text:Tommy
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:4323.0
+passage.questions.6.answers.1.text:Dan
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4322.0
+passage.questions.6.answers.0.text:Jan
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4321.0
+passage.questions.5.question:Katera so bila štiri imena otrok, ki so se igrali na igrišču?
+passage.questions.5.idx:824.0
+passage.questions.5.answers.9.text:Jacob
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:4319.0
+passage.questions.5.answers.8.text:Dean
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:4318.0
+passage.questions.5.answers.7.text:Mary
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:4317.0
+passage.questions.5.answers.6.text:Tommy
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:4316.0
+passage.questions.5.answers.5.text:James
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:4315.0
+passage.questions.5.answers.4.text:Tony
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4314.0
+passage.questions.5.answers.3.text:Ally
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:4313.0
+passage.questions.5.answers.2.text:Wade
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4312.0
+passage.questions.5.answers.10.text:Suzy
+passage.questions.5.answers.10.label:1.0
+passage.questions.5.answers.10.idx:4320.0
+passage.questions.5.answers.1.text:Jan
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4311.0
+passage.questions.5.answers.0.text:Ron
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4310.0
+passage.questions.4.question:Katero igro najraje igrajo otroci Jana in Deana kot gradnjo peščenjakov ali mahanje?
+passage.questions.4.idx:823.0
+passage.questions.4.answers.4.text:Hmelj
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:4309.0
+passage.questions.4.answers.3.text:Tenis
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4308.0
+passage.questions.4.answers.2.text:Oznaka
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4307.0
+passage.questions.4.answers.1.text:Baseball
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4306.0
+passage.questions.4.answers.0.text:Golf
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4305.0
+passage.questions.3.question:Če Tony in Ally raje sklepata prijateljstva kot najljubše igre, kakšne igre bi sicer igrala?
+passage.questions.3.idx:822.0
+passage.questions.3.answers.3.text:Kolebnica
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4304.0
+passage.questions.3.answers.2.text:Hmelj
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4303.0
+passage.questions.3.answers.1.text:Oznaka
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4302.0
+passage.questions.3.answers.0.text:Tenis
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4301.0
+passage.questions.2.question:Kdo je igral tag?
+passage.questions.2.idx:821.0
+passage.questions.2.answers.5.text:Suzy
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:4300.0
+passage.questions.2.answers.4.text:Dean
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4299.0
+passage.questions.2.answers.3.text:Tommy
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4298.0
+passage.questions.2.answers.2.text:Tony
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4297.0
+passage.questions.2.answers.1.text:Ally
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:4296.0
+passage.questions.2.answers.0.text:Jan
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:4295.0
+passage.questions.16.question:Bi se Tony in Ally raje igrala poskoka ali sklepala prijateljstva?
+passage.questions.16.idx:835.0
+passage.questions.16.answers.3.text:Hmelj
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:4383.0
+passage.questions.16.answers.2.text:Kolebnica
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:4382.0
+passage.questions.16.answers.1.text:Igrajte poskoke
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:4381.0
+passage.questions.16.answers.0.text:Naredi prijatelje
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:4380.0
+passage.questions.15.question:Katere dve dejavnosti igrajo vsi štirje otroci, a se tistega dne na igrišču niso igrali?
+passage.questions.15.idx:834.0
+passage.questions.15.answers.4.text:Hmelj in skok sta dve dejavnosti, ki se ju radi igrajo vsi štirje otroci
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:4379.0
+passage.questions.15.answers.3.text:Hmelj
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:4378.0
+passage.questions.15.answers.2.text:Tenis
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:4377.0
+passage.questions.15.answers.1.text:Oznaka
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:4376.0
+passage.questions.15.answers.0.text:Kolebnica
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:4375.0
+passage.questions.14.question:Kdo se omenja kot tisti dan na igrišču?
+passage.questions.14.idx:833.0
+passage.questions.14.answers.8.text:Suzy
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:4374.0
+passage.questions.14.answers.7.text:Tommy
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:4373.0
+passage.questions.14.answers.6.text:Eric
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:4372.0
+passage.questions.14.answers.5.text:Novi prijatelji
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:4371.0
+passage.questions.14.answers.4.text:Tony
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:4370.0
+passage.questions.14.answers.3.text:Ally
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:4369.0
+passage.questions.14.answers.2.text:Njuna mama in oče
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:4368.0
+passage.questions.14.answers.1.text:Hannah
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:4367.0
+passage.questions.14.answers.0.text:Jan
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:4366.0
+passage.questions.13.question:Katero igro sta Tommy in Suzy rada igrala?
+passage.questions.13.idx:832.0
+passage.questions.13.answers.5.text:Hmelj
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:4365.0
+passage.questions.13.answers.4.text:Tek
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:4364.0
+passage.questions.13.answers.3.text:Tenis
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:4363.0
+passage.questions.13.answers.2.text:Oznaka
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:4362.0
+passage.questions.13.answers.1.text:Baseball
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:4361.0
+passage.questions.13.answers.0.text:Golf
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:4360.0
+passage.questions.12.question:Kdo je hotel igrati tag namesto poskoka ali skakalnice?
+passage.questions.12.idx:831.0
+passage.questions.12.answers.5.text:Suzy
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:4359.0
+passage.questions.12.answers.4.text:Dean
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:4358.0
+passage.questions.12.answers.3.text:Tommy
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:4357.0
+passage.questions.12.answers.2.text:Tony
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:4356.0
+passage.questions.12.answers.1.text:Ally
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4355.0
+passage.questions.12.answers.0.text:Jan
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:4354.0
+passage.questions.11.question:Zakaj se Tommy in Suzy rada igrata tag?
+passage.questions.11.idx:830.0
+passage.questions.11.answers.4.text:Spati
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:4353.0
+passage.questions.11.answers.3.text:Želeli so mirno sedeti
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4352.0
+passage.questions.11.answers.2.text:Želeli so se sprostiti
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4351.0
+passage.questions.11.answers.1.text:Radi so se zabavali
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:4350.0
+passage.questions.11.answers.0.text:Ker radi tečejo
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:4349.0
+passage.questions.10.question:Zakaj je igranje oznak boljše kot gradnja peskovnikov?
+passage.questions.10.idx:829.0
+passage.questions.10.answers.6.text:Druge igre niso tako zabavne
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:4348.0
+passage.questions.10.answers.5.text:Ker vključuje tek
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:4347.0
+passage.questions.10.answers.4.text:Oznaka jim je bila všeč, ker so radi tekli
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:4346.0
+passage.questions.10.answers.3.text:Vključuje sedenje
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:4345.0
+passage.questions.10.answers.2.text:Utrudiš se
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4344.0
+passage.questions.10.answers.1.text:Oznaka jim je bila všeč, ker sovražijo pesek
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4343.0
+passage.questions.10.answers.0.text:Predvajanje oznake vključuje tek
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4342.0
+passage.questions.1.question:Katera igra je najbolj zabavna?
+passage.questions.1.idx:820.0
+passage.questions.1.answers.5.text:Hmelj
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:4294.0
+passage.questions.1.answers.4.text:Tek drug za drugim in smeh
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:4293.0
+passage.questions.1.answers.3.text:Monopol
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4292.0
+passage.questions.1.answers.2.text:Oznaka
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4291.0
+passage.questions.1.answers.1.text:Kolebnica
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:4290.0
+passage.questions.1.answers.0.text:Predvajanje oznake
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4289.0
+passage.questions.0.question:Kdo je Tonyja in Ally povabil k igranju oznak?
+passage.questions.0.idx:819
+passage.questions.0.answers.5.text:Suzy
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:4288.0
+passage.questions.0.answers.4.text:Dean
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4287.0
+passage.questions.0.answers.3.text:Žan
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4286.0
+passage.questions.0.answers.2.text:Tommy
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:4285.0
+passage.questions.0.answers.1.text:Jan
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4284
+passage.questions.0.answers.0.text:Suzyini starši
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4283
+idx:71

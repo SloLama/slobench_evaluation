@@ -1,0 +1,269 @@
+version:1.1
+passage.text:Magnetizem je sposobnost materiala, da ga magnet privlači. Vključuje tudi sposobnost, da nekateri materiali delujejo kot magnet. Brez dvoma ste ravnali z magneti za hladilnik. Nekaj jih lahko vidite na sliki 1.28. Verjetno veste, da se držijo kovinskega hladilnika. To je tisto, kar drži domačo nalogo. Mogoče so risbe vaših sester obešene na hladilnik na ta način. Ali se magneti držijo vseh materialov? Seveda ne. Verjetno ste preverili in se ne držijo drugih površin. Ne držijo se lesenih vrat ali steklenih oken. Lesa in stekla magnet ne privlači. Magneti očitno privlačijo le nekatere materiale.
+passage.questions.9.question:Katera sposobnost materiala lahko deluje tudi kot magnet?
+passage.questions.9.idx:4421.0
+passage.questions.9.answers.5.text:Sposobnost nekega materiala, da deluje kot magnet
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:23393.0
+passage.questions.9.answers.4.text:Privlačenje sposobnosti
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:23392.0
+passage.questions.9.answers.3.text:Vaša domača naloga je gotova
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:23391.0
+passage.questions.9.answers.2.text:Nemagnetna sposobnost
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:23390.0
+passage.questions.9.answers.1.text:Risbe
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:23389.0
+passage.questions.9.answers.0.text:Privlačnost
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:23388.0
+passage.questions.8.question:Ali lahko risbe svoje sestre z magnetom prilepite na leseno omaro?
+passage.questions.8.idx:4420.0
+passage.questions.8.answers.4.text:NE, ker se ne držijo lesene omare
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:23387.0
+passage.questions.8.answers.3.text:Držite se površin
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:23386.0
+passage.questions.8.answers.2.text:Ne
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:23385.0
+passage.questions.8.answers.1.text:Ja lahko
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:23384.0
+passage.questions.8.answers.0.text:Ne, magneti se ne držijo lesa
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:23383.0
+passage.questions.7.question:Navedite primere materialov, na katere se magneti držijo in se jih ne držijo.
+passage.questions.7.idx:4419.0
+passage.questions.7.answers.6.text:Les
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:23382.0
+passage.questions.7.answers.5.text:Držijo se kovine in se ne držijo lesa in stekla
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:23381.0
+passage.questions.7.answers.4.text:Steklo
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:23380.0
+passage.questions.7.answers.3.text:Plastični hladilnik, bleščeče okno
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:23379.0
+passage.questions.7.answers.2.text:Risbe tvojih sester
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:23378.0
+passage.questions.7.answers.1.text:Kovinski hladilnik, les
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23377.0
+passage.questions.7.answers.0.text:Kovine vs les in steklo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:23376.0
+passage.questions.6.question:Kaj je magnetizem in kaj je primer tega?
+passage.questions.6.idx:4418.0
+passage.questions.6.answers.5.text:Sposobnost materiala, da privlači očala. Primeri magnetov za hladilnik, ki privlačijo steklena okna
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:23375.0
+passage.questions.6.answers.4.text:Sposobnost materiala, da ga privlači magnet, kovinski hladilnik
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:23374.0
+passage.questions.6.answers.3.text:Sposobnost materiala, ki ga privlači hladilnik, les
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:23373.0
+passage.questions.6.answers.2.text:Sposobnost materiala, da ga magnet privlači. Na primer, magneti za hladilnik, ki privlačijo kovinska vrata hladilnika
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23372.0
+passage.questions.6.answers.1.text:Risice majhnih sester
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:23371.0
+passage.questions.6.answers.0.text:Sposobnost materiala, da ga privlači magnet, magnet za hladilnik
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:23370.0
+passage.questions.5.question:Česa se magnet ne drži in kakšni so primeri teh materialov?
+passage.questions.5.idx:4417.0
+passage.questions.5.answers.7.text:Ne držijo se lesa ali stekla, na primer ne držijo se lesenih vrat ali steklenih oken
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:23369.0
+passage.questions.5.answers.6.text:Les in steklo. Lesena vrata, steklena okna
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:23368.0
+passage.questions.5.answers.5.text:Leseni materiali, kot so lesena vrata
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:23367.0
+passage.questions.5.answers.4.text:Vaša domača naloga je gotova
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:23366.0
+passage.questions.5.answers.3.text:Kovine kot kovinski hladilnik
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:23365.0
+passage.questions.5.answers.2.text:Držite se površin, hladilnika
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:23364.0
+passage.questions.5.answers.1.text:Les, lesena vrata
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:23363.0
+passage.questions.5.answers.0.text:Stekleni materiali, kot so steklena okna
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:23362.0
+passage.questions.4.question:Kaj je magnetizem?
+passage.questions.4.idx:4416.0
+passage.questions.4.answers.6.text:Steklena okna
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:23361.0
+passage.questions.4.answers.5.text:Delujte kot magnet
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:23360.0
+passage.questions.4.answers.4.text:Je sposobnost materiala, da ga magnet privlači
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:23359.0
+passage.questions.4.answers.3.text:Sposobnost materiala, da ga magnet privlači ali deluje kot magnet
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:23358.0
+passage.questions.4.answers.2.text:Risbe tvojih sester
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:23357.0
+passage.questions.4.answers.1.text:Sposobnost materiala, ki ga privlačijo lesena vrata
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:23356.0
+passage.questions.4.answers.0.text:Sposobnost materiala, ki ga privlači hladilnik
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:23355.0
+passage.questions.3.question:Ali se magneti držijo vseh materialov?
+passage.questions.3.idx:4415.0
+passage.questions.3.answers.4.text:Magneti se držijo vseh materialov
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:23354.0
+passage.questions.3.answers.3.text:Magneti privlačijo le nekatere materiale
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:23353.0
+passage.questions.3.answers.2.text:Da
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:23352.0
+passage.questions.3.answers.1.text:Ne
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:23351.0
+passage.questions.3.answers.0.text:Držite se hladilnika
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:23350.0
+passage.questions.2.question:Kaj drži domačo nalogo na hladilniku?
+passage.questions.2.idx:4414.0
+passage.questions.2.answers.4.text:Lučka za hladilnik
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:23349.0
+passage.questions.2.answers.3.text:Hung
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:23348.0
+passage.questions.2.answers.2.text:Magnet
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:23347.0
+passage.questions.2.answers.1.text:Lesena vrata
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:23346.0
+passage.questions.2.answers.0.text:Magneti za hladilnik
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:23345.0
+passage.questions.12.question:Ali se magneti držijo vseh materialov?
+passage.questions.12.idx:4424.0
+passage.questions.12.answers.4.text:Magneti se držijo vseh materialov
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:23412.0
+passage.questions.12.answers.3.text:Magneti privlačijo le nekatere materiale
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:23411.0
+passage.questions.12.answers.2.text:Da
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:23410.0
+passage.questions.12.answers.1.text:Ne
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:23409.0
+passage.questions.12.answers.0.text:Držite se hladilnika
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:23408.0
+passage.questions.11.question:Kateri primeri so stvari, ki jih lahko z magnetom zadržite na hladilniku?
+passage.questions.11.idx:4423.0
+passage.questions.11.answers.6.text:Domača naloga, risbice sestrice
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:23407.0
+passage.questions.11.answers.5.text:Obesili les
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:23406.0
+passage.questions.11.answers.4.text:Risice majhnih sester
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:23405.0
+passage.questions.11.answers.3.text:Lesena vrata
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:23404.0
+passage.questions.11.answers.2.text:Risbe
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:23403.0
+passage.questions.11.answers.1.text:Stekleni materiali
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:23402.0
+passage.questions.11.answers.0.text:Domača naloga, risbe
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:23401.0
+passage.questions.10.question:Na kaj se držijo nekateri magneti?
+passage.questions.10.idx:4422.0
+passage.questions.10.answers.6.text:Vsi materiali
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:23400.0
+passage.questions.10.answers.5.text:Stekleno okno
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:23399.0
+passage.questions.10.answers.4.text:Ne magnetni materiali
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:23398.0
+passage.questions.10.answers.3.text:Magnetni materiali
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:23397.0
+passage.questions.10.answers.2.text:Kovinski predmeti
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:23396.0
+passage.questions.10.answers.1.text:Kovinski, kovinski hladilniki
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:23395.0
+passage.questions.10.answers.0.text:Kovinski hladilnik
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:23394.0
+passage.questions.1.question:Česa se magneti ne držijo?
+passage.questions.1.idx:4413.0
+passage.questions.1.answers.6.text:Les
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:23344.0
+passage.questions.1.answers.5.text:Steklo
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:23343.0
+passage.questions.1.answers.4.text:Magnetni materiali
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:23342.0
+passage.questions.1.answers.3.text:Kovinski hladilnik
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:23341.0
+passage.questions.1.answers.2.text:Magneti
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23340.0
+passage.questions.1.answers.1.text:Kovine
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:23339.0
+passage.questions.1.answers.0.text:Les in steklo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:23338.0
+passage.questions.0.question:Kaj lahko sklepamo, ker se magneti na nekaterih površinah ne držijo?
+passage.questions.0.idx:4412
+passage.questions.0.answers.4.text:Magneti se držijo vseh materialov
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:23337.0
+passage.questions.0.answers.3.text:Magneti privlačijo le hladilnike
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:23336.0
+passage.questions.0.answers.2.text:Leseni material
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:23335.0
+passage.questions.0.answers.1.text:Magneti so ponarejeni
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:23334
+passage.questions.0.answers.0.text:Magneti očitno privlačijo le nekatere materiale
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:23333
+idx:386

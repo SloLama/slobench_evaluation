@@ -1,0 +1,280 @@
+version:1.1
+passage.text:Indijanci Komanči so zlo svoje dežele ujeli v pošast, sestavljeno iz mešanice drugih živali. Komanči so v tla položili zaščitno sulico, da bi obdržali zlo. Mladenič potegne sulico s tal, medtem ko v žep talisman zajčje noge. Začne se igrati s sulico. Komanč ujame fanta in prestrašen pobegne z zajčjo nogo. Indijanec postavi sulico nazaj in se prepozno zaveda, da noga zajcev ni več. Po tem pridejo belci in začnejo vrtati nafto. Če se pomaknemo na trenutni čas, se ločeni oče Mance Cashen preseli na to območje s svojo novo ženo, otrokom in sinom iz prvega zakona Willyjem (igra ga ((Chris Miller, ki je na obisku. Willy opazi nekaj posebnega v hišo in poskuša opozoriti svojega očeta in mačeho. Ne verjamejo mu. Willyja napadajo, ko se na gugalnici pne čez majhno vodno luknjo. Bitje ga zgrabi za nogo in Willy se sčasoma spoprime. pijan, TC van Houten. Lep starec z nekaj slabimi spomini, ki ve kaj o zlu v bližini naftne vrtine in je bil v podobni situaciji kot Willy. Medtem pride Indijanec iz Komančev, poglavar Sam John, Mancea opozoriti na Sam John sporoča Manceu, da je bil zlo prvotno namenjen zaustavitvi belega človeka, vendar je brez izbire, koga ubije. Mance tega ne bo imel. Willy sčasoma vzame kopje, ki ga najde na svojem lastnina Samu Johnu in poskuša ugotoviti, kaj se dogaja.
+passage.questions.9.question:Zakaj je fant potegnil sulico s tal?
+passage.questions.9.idx:1786.0
+passage.questions.9.answers.4.text:Ugrizniti
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:9294.0
+passage.questions.9.answers.3.text:Potreboval je sulico
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:9293.0
+passage.questions.9.answers.2.text:Da se igram z njim
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:9292.0
+passage.questions.9.answers.1.text:Da se igra s sulico
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:9291.0
+passage.questions.9.answers.0.text:Ubiti
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:9290.0
+passage.questions.8.question:Kdo se spoprijatelji s TC van Houtenom?
+passage.questions.8.idx:1785.0
+passage.questions.8.answers.2.text:Willy
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:9289.0
+passage.questions.8.answers.1.text:Sam John
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:9288.0
+passage.questions.8.answers.0.text:Mance Cashen
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:9287.0
+passage.questions.7.question:Kakšen je bil odziv Willyjevega očeta in mačehe, ko ju je Willy opozoril?
+passage.questions.7.idx:1784.0
+passage.questions.7.answers.2.text:Verjeli so mu
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:9286.0
+passage.questions.7.answers.1.text:Podprl ga je
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:9285.0
+passage.questions.7.answers.0.text:Ne verjamejo mu
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:9284.0
+passage.questions.6.question:Kaj deček potegne s tal?
+passage.questions.6.idx:1783.0
+passage.questions.6.answers.5.text:Zajec
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:9283.0
+passage.questions.6.answers.4.text:Kamen
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:9282.0
+passage.questions.6.answers.3.text:Kopje
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:9281.0
+passage.questions.6.answers.2.text:Pošast
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:9280.0
+passage.questions.6.answers.1.text:Koplje in zajčje stopalo
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:9279.0
+passage.questions.6.answers.0.text:Zaščitna kopja
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:9278.0
+passage.questions.5.question:Kako je ime človeku, ki ne verjame Willyjevim opozorilom?
+passage.questions.5.idx:1782.0
+passage.questions.5.answers.4.text:Commanche
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:9277.0
+passage.questions.5.answers.3.text:Mance Cashen
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:9276.0
+passage.questions.5.answers.2.text:Poglavar Sam John
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:9275.0
+passage.questions.5.answers.1.text:Manse Cashen
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:9274.0
+passage.questions.5.answers.0.text:TC van Houten
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:9273.0
+passage.questions.4.question:Kaj je fant naredil s sulico?
+passage.questions.4.idx:1781.0
+passage.questions.4.answers.6.text:Daj kopje nekomu drugemu
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:9272.0
+passage.questions.4.answers.5.text:Vsebujejo
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:9271.0
+passage.questions.4.answers.4.text:Vlečenje
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:9270.0
+passage.questions.4.answers.3.text:Igral se je s sulico
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:9269.0
+passage.questions.4.answers.2.text:Vlekel sulico
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:9268.0
+passage.questions.4.answers.1.text:Potegnil sulico s tal
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:9267.0
+passage.questions.4.answers.0.text:Začne se igrati s sulico
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:9266.0
+passage.questions.3.question:Indijanci Komanči v tla položijo zaščitno sulico, v kateri je zlo, ujeto v kaj?
+passage.questions.3.idx:1780.0
+passage.questions.3.answers.4.text:Pošasti
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:9265.0
+passage.questions.3.answers.3.text:Pošast, ustvarjena iz mešanice drugih živali
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:9264.0
+passage.questions.3.answers.2.text:Škatla
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:9263.0
+passage.questions.3.answers.1.text:Košara
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:9262.0
+passage.questions.3.answers.0.text:Zemljišče
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:9261.0
+passage.questions.2.question:Koga napade gugalnica?
+passage.questions.2.idx:1779.0
+passage.questions.2.answers.5.text:Mlad fant
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:9260.0
+passage.questions.2.answers.4.text:Willy
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:9259.0
+passage.questions.2.answers.3.text:Starec
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:9258.0
+passage.questions.2.answers.2.text:Commanche
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:9257.0
+passage.questions.2.answers.1.text:Fant
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:9256.0
+passage.questions.2.answers.0.text:Tc Van Houten
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:9255.0
+passage.questions.16.question:Kdo odstrani in se začne igrati s sulico?
+passage.questions.16.idx:1793.0
+passage.questions.16.answers.4.text:Majhen deček
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:9326.0
+passage.questions.16.answers.3.text:Mlad fant
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:9325.0
+passage.questions.16.answers.2.text:Starec
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:9324.0
+passage.questions.16.answers.1.text:Willy
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:9323.0
+passage.questions.16.answers.0.text:Commanche
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:9322.0
+passage.questions.15.question:Kako je ime starcu, s katerim se je Willy spoprijateljil?
+passage.questions.15.idx:1792.0
+passage.questions.15.answers.3.text:Willy
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:9321.0
+passage.questions.15.answers.2.text:Commanche
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:9320.0
+passage.questions.15.answers.1.text:Janez
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:9319.0
+passage.questions.15.answers.0.text:TC van Houten
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:9318.0
+passage.questions.14.question:Kaj vsebuje zajčje stopalo?
+passage.questions.14.idx:1791.0
+passage.questions.14.answers.4.text:Dobrota
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:9317.0
+passage.questions.14.answers.3.text:Talisman
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:9316.0
+passage.questions.14.answers.2.text:Živali
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:9315.0
+passage.questions.14.answers.1.text:Zlo
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:9314.0
+passage.questions.14.answers.0.text:Pošast
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:9313.0
+passage.questions.13.question:Zakaj so belci začeli vrtati nafto?
+passage.questions.13.idx:1790.0
+passage.questions.13.answers.3.text:Koplje
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:9312.0
+passage.questions.13.answers.2.text:Indijanci so jim rekli
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:9311.0
+passage.questions.13.answers.1.text:Odstranjena je bila kopja in zajčja noga
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:9310.0
+passage.questions.13.answers.0.text:Beli človek
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:9309.0
+passage.questions.12.question:Kako se imenuje starec?
+passage.questions.12.idx:1789.0
+passage.questions.12.answers.3.text:Willy
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:9308.0
+passage.questions.12.answers.2.text:Sam John
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:9307.0
+passage.questions.12.answers.1.text:Tc van Houten
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:9306.0
+passage.questions.12.answers.0.text:TC van Houten
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:9305.0
+passage.questions.11.question:S čim fant pobegne?
+passage.questions.11.idx:1788.0
+passage.questions.11.answers.5.text:Kamen
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:9304.0
+passage.questions.11.answers.4.text:Kopje
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:9303.0
+passage.questions.11.answers.3.text:Zajčje stopalo
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:9302.0
+passage.questions.11.answers.2.text:Zajčje stopalo
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:9301.0
+passage.questions.11.answers.1.text:Pošast
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:9300.0
+passage.questions.11.answers.0.text:Starec
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:9299.0
+passage.questions.10.question:Kaj so Indijanci Komanči storili s pošasti?
+passage.questions.10.idx:1787.0
+passage.questions.10.answers.3.text:Mešanje
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:9298.0
+passage.questions.10.answers.2.text:Komanči so v tla položili zaščitno sulico, da bi obdržali zlo
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:9297.0
+passage.questions.10.answers.1.text:Igral sem se s pošastjo
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:9296.0
+passage.questions.10.answers.0.text:Nič
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:9295.0
+passage.questions.1.question:Je res, da se verjame besedam Willyja?
+passage.questions.1.idx:1778.0
+passage.questions.1.answers.4.text:Da
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:9254.0
+passage.questions.1.answers.3.text:Ne
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:9253.0
+passage.questions.1.answers.2.text:Ni res
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:9252.0
+passage.questions.1.answers.1.text:Lažno
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:9251.0
+passage.questions.1.answers.0.text:Prav
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9250.0
+passage.questions.0.question:Kdo ujame fanta in vrne sulico na prvotno mesto?
+passage.questions.0.idx:1777
+passage.questions.0.answers.3.text:Tc van houten
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:9249.0
+passage.questions.0.answers.2.text:Willy
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:9248.0
+passage.questions.0.answers.1.text:Komanč
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:9247
+passage.questions.0.answers.0.text:Starec
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:9246
+idx:160

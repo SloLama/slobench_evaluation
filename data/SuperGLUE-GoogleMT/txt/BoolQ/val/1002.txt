@@ -1,0 +1,4 @@
+idx:1002
+label:False
+passage:Navadni najmanjši kvadratki - V statistiki so navadni najmanjši kvadratki (OLS) vrsta linearne metode najmanjših kvadratov za ocenjevanje neznanih parametrov v linearnem regresijskem modelu. OLS izbere parametre linearne funkcije nabora pojasnjevalnih spremenljivk po principu najmanjših kvadratov: zmanjšanje vsote kvadratov razlik med opaženo odvisno spremenljivko (vrednosti spremenljivke, ki se napoveduje) v danem naboru podatkov in tistimi, ki so predvidene z linearno funkcijo.
+question:je najmanj kvadrat enako kot linearna regresija

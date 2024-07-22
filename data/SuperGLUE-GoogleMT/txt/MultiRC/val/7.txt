@@ -1,0 +1,220 @@
+version:1.1
+passage.text:Amaterski teniški zvezdnik Guy Haines se želi ločiti od svoje vulgarne in nezveste žene Miriam, zato se lahko poroči z elegantno in lepo Anne Morton, hčerko senatorja. Medtem ko je na vlaku za srečanje z Miriam, Haines sreča Bruna Anthonyja, neznanca, ki prepozna Guya po tračevih člankih, ki podrobno opisujejo njegove zakonske težave. Med kosilom v Brunovem predelku Bruno pove Guyu o svoji ideji za popoln umor &quot;Criss-cross&quot;: ubil bo Miriam in v zameno bo Guy ubil Brunovega očeta. Bruno zatrjuje, da sta oba neznanca, sicer nepovezana, zato motiv za zločine ni mogoč, zato ni suma. Guy naglo zapusti predel, Bruno pa zapusti, misleč, da je privolil v dogovor. Guy po nesreči pusti vžigalnik za darilo, darilo Anne Guyu, ki ga Bruno žepi. Bruno se odpravi do Guyjevega rojstnega mesta Metcalf in sledi Miriam in njenima dvema lepotema do zabaviščnega parka, kjer ji na kratko osvetli obraz z Guyevim vžigalnikom, nato pa jo zadavi do smrti. Guyeve težave se začnejo, ko se njegov alibi opiti profesor na fakulteti v istem vlaku kot Guy ne more spomniti njihovega srečanja. Toda eksponentno se povečajo, ko se Bruno večkrat pojavlja v Guyjevem življenju, ko ga želi opomniti, da je zdaj po umoru Brunovega očeta dolžan ubiti glede na kupčijo, za katero meni, da sta udarila na vlak. Bruno pošlje Guyu ključe svoje hiše, zemljevid očetove sobe in pištolo. Kmalu zatem se Bruno pojavi na zabavi v hiši senatorja Mortona in hobne z gosti, kar je Guya zaskrbljeno in Anne vse bolj sumi.
+passage.questions.9.question:Tip naglo zapusti prekat, Bruno pa zapusti, misleč, da je privolil v dogovor. kaj po naključju pusti za seboj
+passage.questions.9.idx:74.0
+passage.questions.9.answers.3.text:Telefon
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:334.0
+passage.questions.9.answers.2.text:Vžigalnik in pištola
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:333.0
+passage.questions.9.answers.1.text:Tip pusti vžigalnik za seboj
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:332.0
+passage.questions.9.answers.0.text:Vžigalnik
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:331.0
+passage.questions.8.question:Kateri predmet je Guy pustil za seboj, ki ga je Bruno uporabil proti Miriam?
+passage.questions.8.idx:73.0
+passage.questions.8.answers.3.text:Vžigalnik
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:330.0
+passage.questions.8.answers.2.text:Pištola
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:329.0
+passage.questions.8.answers.1.text:Zemljevid
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:328.0
+passage.questions.8.answers.0.text:Vžigalnik
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:327.0
+passage.questions.7.question:Kdaj so se začele Guyjeve težave
+passage.questions.7.idx:72.0
+passage.questions.7.answers.6.text:Bruno se ponavlja
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:326.0
+passage.questions.7.answers.5.text:Srečanje z Anne
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:325.0
+passage.questions.7.answers.4.text:Poroka z Miriam
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:324.0
+passage.questions.7.answers.3.text:Srečanje s senatorjem
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:323.0
+passage.questions.7.answers.2.text:Srečanje z Brunom
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:322.0
+passage.questions.7.answers.1.text:Poročil se je z ženo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:321.0
+passage.questions.7.answers.0.text:Ne more se spomniti svojega srečanja
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:320.0
+passage.questions.6.question:S čim Bruno pošlje Guya?
+passage.questions.6.idx:71.0
+passage.questions.6.answers.7.text:Fant s ključi pošlje v svojo hišo, zemljevid v očetovo sobo in pištolo
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:319.0
+passage.questions.6.answers.6.text:Telefon
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:318.0
+passage.questions.6.answers.5.text:tipko
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:317.0
+passage.questions.6.answers.4.text:Zemljevid
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:316.0
+passage.questions.6.answers.3.text:Ključi, zemljevid in pištola
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:315.0
+passage.questions.6.answers.2.text:Pištola
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:314.0
+passage.questions.6.answers.1.text:Zemljevid, vžigalnik, pištola
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:313.0
+passage.questions.6.answers.0.text:Ključi, vžigalnik, pištola
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:312.0
+passage.questions.5.question:Zakaj se teniški zvezdnik želi ločiti od svoje žene?
+passage.questions.5.idx:70.0
+passage.questions.5.answers.5.text:Vulgar in zapravlja denar
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:311.0
+passage.questions.5.answers.4.text:Amateur si želi zakonske zveze zaradi zakonskih težav
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:310.0
+passage.questions.5.answers.3.text:Pomeni
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:309.0
+passage.questions.5.answers.2.text:Odrasla oseba
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:308.0
+passage.questions.5.answers.1.text:Nezvesti
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:307.0
+passage.questions.5.answers.0.text:Vulgarno
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:306.0
+passage.questions.4.question:Kaj je Bruno dal, da bi ubil svojega očeta?
+passage.questions.4.idx:69.0
+passage.questions.4.answers.7.text:tipke
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:305.0
+passage.questions.4.answers.6.text:Ust zemljevid
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:304.0
+passage.questions.4.answers.5.text:Zemljevid
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:303.0
+passage.questions.4.answers.4.text:Pištola
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:302.0
+passage.questions.4.answers.3.text:Ključi njegove hiše, zemljevid očetove sobe in pištola
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:301.0
+passage.questions.4.answers.2.text:Ostri nož
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:300.0
+passage.questions.4.answers.1.text:Vžigalnik
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:299.0
+passage.questions.4.answers.0.text:Zemljevid, ključ, pištola
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:298.0
+passage.questions.3.question:Zakaj se amaterski teniški zvezdnik Guy Haines želi ločiti od svoje žene Mirriam
+passage.questions.3.idx:68.0
+passage.questions.3.answers.6.text:Grozno
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:297.0
+passage.questions.3.answers.5.text:Njegova žena je vulgarna in nezvesta
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:296.0
+passage.questions.3.answers.4.text:Vulgarna je
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:295.0
+passage.questions.3.answers.3.text:Pomeni
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:294.0
+passage.questions.3.answers.2.text:Nezvesti
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:293.0
+passage.questions.3.answers.1.text:Njen oče je senator
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:292.0
+passage.questions.3.answers.0.text:Ima afero
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:291.0
+passage.questions.2.question:Zakaj se je Guy počutil prijetno, ko je Brunu povedal o tem načrtu umora?
+passage.questions.2.idx:67
+passage.questions.2.answers.4.text:Stari prijatelji
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:290.0
+passage.questions.2.answers.3.text:Med njima ni bilo nobene povezave
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:289.0
+passage.questions.2.answers.2.text:Bruno je iz časopisov prepoznal Guya
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:288.0
+passage.questions.2.answers.1.text:Bil je Brunov načrt
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:287
+passage.questions.2.answers.0.text:On je čudak
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:286
+passage.questions.10.question:Kje je Bruno izgubil vžigalnik?
+passage.questions.10.idx:75.0
+passage.questions.10.answers.5.text:Med pogovorom s pijanim profesorjem
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:340.0
+passage.questions.10.answers.4.text:Saj ni
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:339.0
+passage.questions.10.answers.3.text:Zadaj darilo Anne Guyu
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:338.0
+passage.questions.10.answers.2.text:V njegovi hiši
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:337.0
+passage.questions.10.answers.1.text:Na vlaku
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:336.0
+passage.questions.10.answers.0.text:Na letalu
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:335.0
+passage.questions.1.question:Kdo sta Guty in Bruno, ki ga nameravata ubiti?
+passage.questions.1.idx:66
+passage.questions.1.answers.5.text:Brunova mama in Guyev oče
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:285.0
+passage.questions.1.answers.4.text:Guyjeva žena
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:284.0
+passage.questions.1.answers.3.text:Oče Miriam in Bruna
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:283.0
+passage.questions.1.answers.2.text:Brunova žena
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:282.0
+passage.questions.1.answers.1.text:Guyev oče
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:281
+passage.questions.1.answers.0.text:Brunov oče
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:280
+passage.questions.0.question:Kje sta se spoznala oba neznanca?
+passage.questions.0.idx:65
+passage.questions.0.answers.3.text:Na vlaku
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:279.0
+passage.questions.0.answers.2.text:Na letalu
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:278.0
+passage.questions.0.answers.1.text:Na železniški postaji
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:277
+passage.questions.0.answers.0.text:Na avtobusu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:276
+idx:7

@@ -1,0 +1,109 @@
+version:1.1
+passage.text:Washington Iraška vlada se je strinjala, da bo ameriškega predstavnika Tonyja Halla obiskala prihodnji teden, da bo ocenila humanitarno krizo, ki je zarasla od zalivske vojne leta 1990, so sporočili iz urada Hall. Daytonski demokrat, ki je potoval na druge krizne točke, vključno s Sierro Leone in Severno Korejo, bo tri dni obiskal bolnišnice in druge ustanove, da bi poiskal, zakaj je bila pomoč neučinkovita pri preprečevanju podhranjenosti in drugih zdravstvenih težav. Irak je bil od konca vojne pod gospodarskimi sankcijami, ki so po mnenju nekaterih ovirale sposobnost države, da si opomore od opustošenja bombne kampanje. Po poročilu Svetovne zdravstvene organizacije je perzijska zalivska vojna uničila večino medicinske infrastrukture v državi. Leta 1996 je WHO ugotovila, da večina prebivalstva obstaja v stanju &quot;polnega stradanja.&quot; Hall bo po poročanju Hallovega urada šele drugi član kongresa, ki je potoval v Iraku po vojni. Zadnji obiskovalec je bil takratni ameriški predstavnik Bill Richardson iz Nove Mehike, ki je šel na pomoč dvojici ameriških naftašev v diplomatskih težavah. Hall leti v petek v Aman, Jordanija, kjer bo prenočil, preden se odpelje v Irak. Leti v Irak niso dovoljeni. Hall se bo 22. aprila vrnil v Washington. Story Filed Cox Newspapers
+passage.questions.4.question:Zakaj je prebivalstvo v polstradnem stanju?
+passage.questions.4.idx:4736.0
+passage.questions.4.answers.5.text:Ker je Irak od konca vojne pod gospodarskimi sankcijami
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:25193.0
+passage.questions.4.answers.4.text:Ker je perzijska zalivska vojna uničila večino medicinske infrastrukture v državi
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25192.0
+passage.questions.4.answers.3.text:Irak je od zalivske vojne pod gospodarskimi sankcijami, zaradi zalivske vojne pa je prišlo do humanitarne krize
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:25191.0
+passage.questions.4.answers.2.text:Zalivska vojna je uničila večino medicinske infrastrukture
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:25190.0
+passage.questions.4.answers.1.text:Zaradi ekonomskih sankcij
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:25189.0
+passage.questions.4.answers.0.text:Ker leti v Irak niso dovoljeni
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:25188.0
+passage.questions.3.question:Zakaj Hall leti v Amman?
+passage.questions.3.idx:4735.0
+passage.questions.3.answers.6.text:Da tam prenočim
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:25187.0
+passage.questions.3.answers.5.text:Preden se odpelje v Irak, bo prenočil v Amanu, ker leti v Irak niso dovoljeni
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:25186.0
+passage.questions.3.answers.4.text:V Irak ni letov
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:25185.0
+passage.questions.3.answers.3.text:Leti v Irak niso dovoljeni
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:25184.0
+passage.questions.3.answers.2.text:Tam bo prenočil, preden se bo odpeljal v Irak
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25183.0
+passage.questions.3.answers.1.text:Da se vrnem v Washington
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25182.0
+passage.questions.3.answers.0.text:Da gremo še en let neposredno v Irak
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:25181.0
+passage.questions.2.question:Kateri problem poleg podhranjenosti vpliva na Irak?
+passage.questions.2.idx:4734.0
+passage.questions.2.answers.6.text:Diplomatske težave
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:25180.0
+passage.questions.2.answers.5.text:Inflacija
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:25179.0
+passage.questions.2.answers.4.text:podhranjenost
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25178.0
+passage.questions.2.answers.3.text:Zdravstvene težave
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:25177.0
+passage.questions.2.answers.2.text:Uničena zdravstvena infrastruktura
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:25176.0
+passage.questions.2.answers.1.text:Gospodarske sankcije
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:25175.0
+passage.questions.2.answers.0.text:Politične težave
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:25174.0
+passage.questions.1.question:Zakaj ameriški predstavnik Tony Hall obiskuje Irak?
+passage.questions.1.idx:4733.0
+passage.questions.1.answers.6.text:Za oceno humanitarne krize
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:25173.0
+passage.questions.1.answers.5.text:Za oceno humanitarne krize, ki se je razgrela od zalivske vojne leta 1990
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:25172.0
+passage.questions.1.answers.4.text:Iskati razumevanje, zakaj je bila pomoč neučinkovita pri preprečevanju podhranjenosti in drugih zdravstvenih težav
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:25171.0
+passage.questions.1.answers.3.text:Za oceno gospodarske krize
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25170.0
+passage.questions.1.answers.2.text:Oceniti humanitarno krizo, ki je zarasla od zalivske vojne leta 1990, in poiskati razumevanje, zakaj je bila pomoč neučinkovita pri preprečevanju podhranjenosti in drugih zdravstvenih težav
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25169.0
+passage.questions.1.answers.1.text:Za pomoč dvojici ameriških naftnih proizvajalcev v diplomatskih težavah
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:25168.0
+passage.questions.1.answers.0.text:Za obisk bolnišnic in drugih objektov
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:25167.0
+passage.questions.0.question:Koliko ameriških članov kongresa je pred Hallom obiskalo Irak?
+passage.questions.0.idx:4732
+passage.questions.0.answers.4.text:Nobenega
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:25166.0
+passage.questions.0.answers.3.text:2.
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:25165.0
+passage.questions.0.answers.2.text:1.
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:25164.0
+passage.questions.0.answers.1.text:Samo en. Ameriški predstavnik Bill Richardson iz Nove Mehike
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:25163
+passage.questions.0.answers.0.text:Ena
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:25162
+idx:417

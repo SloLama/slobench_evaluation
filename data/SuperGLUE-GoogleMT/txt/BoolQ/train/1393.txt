@@ -1,0 +1,4 @@
+idx:1393
+label:False
+passage:Desetmestno klicanje - pri sedemmestnem klicanju se območna koda pokliče le, če je področna koda klicane številke drugačna od klicne številke. Nekatere skupnosti na meji območne kode, kot so Ottawa-Hull (613/819), Kansas City MO / KS (816/913) ali Washington, DC (202), so uvedle zaščito centralne pisarne za zagotovitev enake sedemmestne lokalne številke ni bil dodeljen v dveh različnih območnih kodah v istem mestu, da bi ohranil sedemmestno klicanje v celotni skupnosti. Zaščita kode ni mogoča za klice prek meja območne kode znotraj mest z deljenim načrtom, kjer so bile dodane področne kode zaradi pomanjkanja razpoložljivih lokalnih številk; ti lokalni klici so ob razdelitvi kode postali desetmestni.
+question:ali morate vedno poklicati območno kodo

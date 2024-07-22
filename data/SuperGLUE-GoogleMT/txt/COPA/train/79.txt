@@ -1,0 +1,6 @@
+choice1:Policija je primer opustila.
+choice2:Ubežnik je ostal na prostosti.
+idx:79
+label:1
+premise:Ubežnik se je skril pred policijo.
+question:effect

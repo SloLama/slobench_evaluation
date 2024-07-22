@@ -1,0 +1,4 @@
+idx:2754
+label:True
+passage:Swift (programski jezik) - Swift uporablja enak čas izvajanja kot obstoječi sistem Objective-C, vendar zahteva iOS 7 ali macOS 10.9 ali novejšo različico. Kodo Swift in Objective-C lahko uporabljate v enem programu, s podaljškom pa tudi C in C ++. V nasprotju s C kode C ++ ni mogoče uporabiti neposredno iz Swifta. Med Swift in C ++ je treba ustvariti ovitek Objective-C ali C. V primeru Objective-C ima Swift precejšen dostop do objektnega modela in se lahko uporablja za podrazred, razširitev in uporabo kode Objective-C za podporo protokolu. Nasprotno ni res: razreda Swift ni mogoče podrazvrstiti v Objective-C.
+question:je hitro zgrajena na vrhu cilja c

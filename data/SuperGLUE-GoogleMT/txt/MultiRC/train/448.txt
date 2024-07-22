@@ -1,0 +1,286 @@
+version:1.1
+passage.text:Film se začne z Brick Bardo (Tim Thomerson, iz ((Dollman stopira do mesta Pahoota, kjer poskuša najti dekle z imenom Medicinska sestra Ginger) (Melissa Behr, ki je bila skrčena na 11 palcev ((Bad Channels, v dokažite ji, da ni sama. Medtem se film loti Judith Gray, ki ima nočno moro o dogodkih, ki so se zgodili v prejšnjem filmu leto prej. Že od dogodkov, ki so se zgodili leto prej, Judith gleda Skladišče Toyland, ki verjame, da so igrače še žive. Medtem v skladišče vdre klošar in se začne zmešati s klovnovim triciklom, dokler ga ne zabije v škatlo z igračami v glavo, zaradi česar ga udari po glavi toda njegova kri še naprej teče do mesta, kjer je bil demon pokopan, in pripelje nazaj: Baby Oopsie Daisy, Jack Attack, g. blondinka GI JOE akcijska figura z meč kot orožje. Judith, ki je zdaj v stavbi, igrače končno vidi pred očmi, nato pa jo aretirajo zaradi vdora v samotno stavbo. Po odhodu policije igrače prisilijo novega varnostnika Raya Vernona, da jim pomaga pri njihovih potrebah. Medtem Judith, ki zdaj ve za zgodovino medicinske sestre Ginger in Brick Bardo, podkupi novinarko, da ji pove, kje sta, in ji pove, da sta v Pahooti. Judith se po dogovoru z Bardo in Gingerjem, ki ji pomagata ubiti igrače, odpravi nazaj v Skladišče.
+passage.questions.9.question:Kako je bilo prvo ime igralca Barda in ime igralke Gray?
+passage.questions.9.idx:5036.0
+passage.questions.9.answers.4.text:Ray, Ginger
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:26761.0
+passage.questions.9.answers.3.text:Maureen, Judith
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:26760.0
+passage.questions.9.answers.2.text:Tim, Melissa
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:26759.0
+passage.questions.9.answers.1.text:Judith, Brick
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:26758.0
+passage.questions.9.answers.0.text:Brick, Judith
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:26757.0
+passage.questions.8.question:Kakšen posel ima Judith v Pahooti?
+passage.questions.8.idx:5035.0
+passage.questions.8.answers.4.text:videti zombietoid
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:26756.0
+passage.questions.8.answers.3.text:njena mati je v mestu
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:26755.0
+passage.questions.8.answers.2.text:da se srečam s poročevalcem novic
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:26754.0
+passage.questions.8.answers.1.text:Za ubijanje igrač mora zaprositi za pomoč Brick and Ginger.
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:26753.0
+passage.questions.8.answers.0.text:Iskanje Brick Bardo in Ginger
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:26752.0
+passage.questions.7.question:S kom se bodo morali Judith, Brick in Ginger soočiti, ko se vrnejo v skladišče?
+passage.questions.7.idx:5034.0
+passage.questions.7.answers.6.text:Brick Bardo
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:26751.0
+passage.questions.7.answers.5.text:Ingver
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:26750.0
+passage.questions.7.answers.4.text:klošar
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:26749.0
+passage.questions.7.answers.3.text:Ray Vernon
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:26748.0
+passage.questions.7.answers.2.text:Igrače
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:26747.0
+passage.questions.7.answers.1.text:Varnostnik, ki pomaga igračam.
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:26746.0
+passage.questions.7.answers.0.text:Otroška Oopsie Daisy, Jack Attack, gospod Static in Zombietoid
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:26745.0
+passage.questions.6.question:Kateri niz dogodkov je vrnil igrače?
+passage.questions.6.idx:5033.0
+passage.questions.6.answers.4.text:klošar se vozi s triciklom nad demonovim grobom.
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:26744.0
+passage.questions.6.answers.3.text:Judith opazuje skladišče in udari ga strela
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:26743.0
+passage.questions.6.answers.2.text:Judith vdre
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:26742.0
+passage.questions.6.answers.1.text:Judith zadenejo v glavo in njegova kri teče čez mesto, kjer je bil demon pokopan.
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:26741.0
+passage.questions.6.answers.0.text:klošar trka v glavo in kri teče
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:26740.0
+passage.questions.5.question:Zakaj je Judith Gray opazovala skladišče igrač?
+passage.questions.5.idx:5032.0
+passage.questions.5.answers.4.text:ima prijatelja, ki si želi igračo
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:26739.0
+passage.questions.5.answers.3.text:ker so tam njeni prijatelji
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:26738.0
+passage.questions.5.answers.2.text:ker je videla klošarja
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:26737.0
+passage.questions.5.answers.1.text:Verjame, da so igrače žive
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:26736.0
+passage.questions.5.answers.0.text:Ker so jo zmotili dogodki, ki so se zgodili v prejšnjem filmu leto prej.
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:26735.0
+passage.questions.4.question:Kaj je igračka, ki jo je Judith prvič videla po vdoru?
+passage.questions.4.idx:5031.0
+passage.questions.4.answers.6.text:Brick Bardo
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:26734.0
+passage.questions.4.answers.5.text:Rayman
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:26733.0
+passage.questions.4.answers.4.text:klošar
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:26732.0
+passage.questions.4.answers.3.text:Zombietoid
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:26731.0
+passage.questions.4.answers.2.text:G. Static
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:26730.0
+passage.questions.4.answers.1.text:Jack Attack
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:26729.0
+passage.questions.4.answers.0.text:Otroška Oopsie Daisy
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:26728.0
+passage.questions.3.question:O kakšnem skladišču ima Judith nočne more?
+passage.questions.3.idx:5030.0
+passage.questions.3.answers.2.text:skladišče propalice
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26727.0
+passage.questions.3.answers.1.text:Judithino skladišče
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:26726.0
+passage.questions.3.answers.0.text:skladišče igrač
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:26725.0
+passage.questions.2.question:Čigava kri vrne gospoda Statiča?
+passage.questions.2.idx:5029.0
+passage.questions.2.answers.3.text:Ray Vernon
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:26724.0
+passage.questions.2.answers.2.text:Judith
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:26723.0
+passage.questions.2.answers.1.text:Jack Attack
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26722.0
+passage.questions.2.answers.0.text:klošar
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26721.0
+passage.questions.16.question:Kako se imenujejo lokacije igrač in kdo jih varuje / jim pomaga?
+passage.questions.16.idx:5043.0
+passage.questions.16.answers.4.text:Skladišče igrač, novinar
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:26795.0
+passage.questions.16.answers.3.text:Vodni stolp, Judith
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:26794.0
+passage.questions.16.answers.2.text:Vodni stolp, Ray Vernon
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:26793.0
+passage.questions.16.answers.1.text:Skladišče igrač, Judith
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:26792.0
+passage.questions.16.answers.0.text:Skladišče igrač in Ray Vernon.
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:26791.0
+passage.questions.15.question:Kdo izve, da je medicinska sestra Ginger v Pahooti?
+passage.questions.15.idx:5042.0
+passage.questions.15.answers.4.text:Ray Vernon
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:26790.0
+passage.questions.15.answers.3.text:Zombietold
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:26789.0
+passage.questions.15.answers.2.text:Policija
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:26788.0
+passage.questions.15.answers.1.text:Judith
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:26787.0
+passage.questions.15.answers.0.text:Brick in poročevalec
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:26786.0
+passage.questions.14.question:Kdo je eno leto doživljal nočne more in verjame, da so igrače še vedno žive?
+passage.questions.14.idx:5041.0
+passage.questions.14.answers.3.text:Ray Vernon
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:26785.0
+passage.questions.14.answers.2.text:klošar
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:26784.0
+passage.questions.14.answers.1.text:GI Joe
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:26783.0
+passage.questions.14.answers.0.text:Judith
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:26782.0
+passage.questions.13.question:Komu kri prinese nazaj Baby Oopsie Daisy?
+passage.questions.13.idx:5040.0
+passage.questions.13.answers.4.text:Brick Bardo
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:26781.0
+passage.questions.13.answers.3.text:Judith
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:26780.0
+passage.questions.13.answers.2.text:poročevalec
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:26779.0
+passage.questions.13.answers.1.text:tisti, ki je vlomil v skladišču
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:26778.0
+passage.questions.13.answers.0.text:klošarji
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:26777.0
+passage.questions.12.question:Kaj Judith prosi novinarko in koga Judith dobi, da ji pomaga uničiti igrače?
+passage.questions.12.idx:5039.0
+passage.questions.12.answers.3.text:Da ji povem, da so igrače.
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:26776.0
+passage.questions.12.answers.2.text:Da ji povem, kje je Ray Vernon.
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:26775.0
+passage.questions.12.answers.1.text:Judith prosi novinarja, naj uniči igrače, Ginger in Brick Bardo pomagata iskati novinarja v skladišču.
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:26774.0
+passage.questions.12.answers.0.text:Judith prosi novinarko, naj ji pove, kje sta Brick in Nurse Ginger
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:26773.0
+passage.questions.11.question:Kaj se zgodi z Judith in kaj z novim varnostnikom?
+passage.questions.11.idx:5038.0
+passage.questions.11.answers.3.text:Judith pade s tricikla, varnostnik je spet oživljen
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:26772.0
+passage.questions.11.answers.2.text:Judith pobegne in novi varnostnik zapusti
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:26771.0
+passage.questions.11.answers.1.text:Judith je prisiljena pomagati igračam, varnostnika aretirajo
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:26770.0
+passage.questions.11.answers.0.text:Judith je na kratko aretirana, novi varnostnik pa je prisiljen pomagati igračam
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:26769.0
+passage.questions.10.question:Kaj se zgodi v skladišču?
+passage.questions.10.idx:5037.0
+passage.questions.10.answers.6.text:Ginger je aretiran
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:26768.0
+passage.questions.10.answers.5.text:Judith z igračami zapoje pesem
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:26767.0
+passage.questions.10.answers.4.text:Judith ubije klošarja
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:26766.0
+passage.questions.10.answers.3.text:Igrače vrnejo nazaj in prisilijo Raya Vernona, da jim pomaga
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:26765.0
+passage.questions.10.answers.2.text:klošar umre
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:26764.0
+passage.questions.10.answers.1.text:igrače se vrnejo nazaj
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:26763.0
+passage.questions.10.answers.0.text:Ubila je igračo, njegova kri je pritekla tja, kjer je bil pokopan demon, in povzročila, da so drugi klošarji obsedljeni.
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:26762.0
+passage.questions.1.question:Kam se širi klošarska tekoča kri, potem ko je bil ubit?
+passage.questions.1.idx:5028.0
+passage.questions.1.answers.3.text:v skladišče Toyland
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:26720.0
+passage.questions.1.answers.2.text:do samotne stavbe
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:26719.0
+passage.questions.1.answers.1.text:skladišče
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26718.0
+passage.questions.1.answers.0.text:Do mesta, kjer je bil demon pokopan
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:26717.0
+passage.questions.0.question:Katero stavbo je Judith pozorno opazovala?
+passage.questions.0.idx:5027
+passage.questions.0.answers.3.text:Zombietoid
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:26716.0
+passage.questions.0.answers.2.text:Hiša
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:26715.0
+passage.questions.0.answers.1.text:Stražni stolp
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:26714
+passage.questions.0.answers.0.text:Skladišče Toyland
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:26713
+idx:448

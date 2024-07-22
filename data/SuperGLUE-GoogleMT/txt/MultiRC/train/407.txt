@@ -1,0 +1,273 @@
+version:1.1
+passage.text:Gostota je tudi pomembna fizikalna lastnost snovi. Koncept gostote združuje tisto, kar vemo o masi in prostornini predmetov. Gostota odraža, kako tesno so pakirani delci snovi. Ko so delci tesneje zapakirani, je snov bolj gosta. Razlike v gostoti snovi pojasnjujejo številne pojave. Pojasnjuje, zakaj se dvigajo baloni s helijem. Pojasnjuje, zakaj tokovi, kot je Golfski tok, tečejo skozi oceane. Pojasnjuje, zakaj nekatere stvari plavajo ali tonejo. To lahko vidite v akciji z vlivanjem rastlinskega olja v vodo. V tem videu si lahko ogledate barvito predstavitev.
+passage.questions.9.question:Kaj je gostota?
+passage.questions.9.idx:4611.0
+passage.questions.9.answers.5.text:Je pomembna fizikalna lastnost snovi, ki združuje tisto, kar vemo o masi in prostornini predmeta. Kako tesno so pakirani delci snovi
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:24362.0
+passage.questions.9.answers.4.text:Prevodnost predmeta
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:24361.0
+passage.questions.9.answers.3.text:Odbijanje delcev
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:24360.0
+passage.questions.9.answers.2.text:Teža predmeta
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:24359.0
+passage.questions.9.answers.1.text:Kako tesno so zapakirani delci snovi
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:24358.0
+passage.questions.9.answers.0.text:Elektrika
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:24357.0
+passage.questions.8.question:Zakaj je gostota pomembna?
+passage.questions.8.idx:4610.0
+passage.questions.8.answers.7.text:To je fizikalna lastnost snovi
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:24356.0
+passage.questions.8.answers.6.text:Uči stvari o naravi
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:24355.0
+passage.questions.8.answers.5.text:Stvari drži skupaj
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:24354.0
+passage.questions.8.answers.4.text:Koncept gostote združuje tisto, kar vemo o masi in prostornini predmetov
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:24353.0
+passage.questions.8.answers.3.text:Pojasnjuje številne pojave
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:24352.0
+passage.questions.8.answers.2.text:Ko so delci tesneje združeni, je snov bolj gosta in razlike v gostoti snovi razlagajo številne pojave
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:24351.0
+passage.questions.8.answers.1.text:Ima obliko
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:24350.0
+passage.questions.8.answers.0.text:To je sila, ki se igra z gravitacijo
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:24349.0
+passage.questions.7.question:Na podlagi razlage v članku, zakaj pričakujete, da se bo zgodilo z vodo in oljem?
+passage.questions.7.idx:4609.0
+passage.questions.7.answers.6.text:Bolj gosta snov se bo dvignila
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:24348.0
+passage.questions.7.answers.5.text:Naredili bodo mešanico
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:24347.0
+passage.questions.7.answers.4.text:Oblikovali bodo vez
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:24346.0
+passage.questions.7.answers.3.text:Z lahkoto se bodo mešali
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:24345.0
+passage.questions.7.answers.2.text:Da se ne bodo zlahka kombinirali
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:24344.0
+passage.questions.7.answers.1.text:Eden od njih bo potonil, drugi pa se bo dvignil na površje, na podlagi katerega bo bolj gost
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:24343.0
+passage.questions.7.answers.0.text:Postali bodo rešitev
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:24342.0
+passage.questions.6.question:Kaj so nekatere stvari razložene glede gostote?
+passage.questions.6.idx:4608.0
+passage.questions.6.answers.9.text:Pojasnjuje, zakaj se plimovanje narašča
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:24340.0
+passage.questions.6.answers.8.text:Zakaj nekatere stvari plavajo ali tonejo?
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:24339.0
+passage.questions.6.answers.7.text:Zakaj se dvigajo baloni s helijem
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:24338.0
+passage.questions.6.answers.6.text:Pojasnjuje, zakaj se helijevi baloni dvigajo
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:24337.0
+passage.questions.6.answers.5.text:Zadeva
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:24336.0
+passage.questions.6.answers.4.text:Pojasnjuje, zakaj tokovi, kot je Golfski tok, tečejo skozi oceane
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:24335.0
+passage.questions.6.answers.3.text:Pojasnjuje, zakaj nekatere stvari plavajo ali tonejo
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:24334.0
+passage.questions.6.answers.2.text:Pojasnjuje, zakaj obstajajo lunine faze
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:24333.0
+passage.questions.6.answers.10.text:Pojasnjuje, zakaj gravitacija deluje
+passage.questions.6.answers.10.label:0,0
+passage.questions.6.answers.10.idx:24341.0
+passage.questions.6.answers.1.text:Pojasnite številne pojave
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:24332.0
+passage.questions.6.answers.0.text:Pojasnjuje, zakaj se helijevi baloni dvigajo in zakaj tokovi, kot je Golfski tok, tečejo skozi oceane
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:24331.0
+passage.questions.5.question:Ali je mogoče pojav naraščajočega helijevega balona razložiti s tem, kako tesno so delci zapakirani v predmet?
+passage.questions.5.idx:4607.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:24330.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:24329.0
+passage.questions.4.question:Kaj lahko razloži gostota?
+passage.questions.4.idx:4606.0
+passage.questions.4.answers.6.text:Masa in prostornina predmetov
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:24328.0
+passage.questions.4.answers.5.text:Prevodnost
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:24327.0
+passage.questions.4.answers.4.text:Zakaj se baloni s helijem dvigujejo in zakaj materiali tonejo ali plavajo?
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:24326.0
+passage.questions.4.answers.3.text:Gravitacija
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:24325.0
+passage.questions.4.answers.2.text:Zakaj stvari delujejo
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:24324.0
+passage.questions.4.answers.1.text:Veliko pojavov
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:24323.0
+passage.questions.4.answers.0.text:Kondenzacija
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:24322.0
+passage.questions.3.question:Kateri so trije primeri gostote, podani v članku?
+passage.questions.3.idx:4605.0
+passage.questions.3.answers.9.text:Pojasnjuje, zakaj tokovi, kot je Golfski tok, tečejo skozi oceane
+passage.questions.3.answers.9.label:1.0
+passage.questions.3.answers.9.idx:24318.0
+passage.questions.3.answers.8.text:Zakaj olje plava po vodi, zakaj tokovi, kot je Golfski tok, tečejo skozi oceane in zakaj se dvigajo helijevi baloni
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:24317.0
+passage.questions.3.answers.7.text:Ogled vožnje avtomobila
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:24316.0
+passage.questions.3.answers.6.text:Kaj se zgodi, ko zelenjavo vlijete v vodo
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:24315.0
+passage.questions.3.answers.5.text:Kako skala odpade s pečine
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:24314.0
+passage.questions.3.answers.4.text:Helijevi baloni se dvigajo
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:24313.0
+passage.questions.3.answers.3.text:Kako deluje letalo na zračni blazini
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:24312.0
+passage.questions.3.answers.2.text:Ogled kolesa
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:24311.0
+passage.questions.3.answers.12.text:Zakaj nekatere stvari plavajo ali tonejo?
+passage.questions.3.answers.12.label:1.0
+passage.questions.3.answers.12.idx:24321.0
+passage.questions.3.answers.11.text:Opazovanje ptičjega leta
+passage.questions.3.answers.11.label:0,0
+passage.questions.3.answers.11.idx:24320.0
+passage.questions.3.answers.10.text:Pojasnjuje, zakaj se helijevi baloni dvigajo
+passage.questions.3.answers.10.label:1.0
+passage.questions.3.answers.10.idx:24319.0
+passage.questions.3.answers.1.text:Zakaj se zemlja vrti okoli sonca
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:24310.0
+passage.questions.3.answers.0.text:Zalivski tok teče skozi oceane
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:24309.0
+passage.questions.2.question:Kaj pove gostota?
+passage.questions.2.idx:4604.0
+passage.questions.2.answers.6.text:Kaj vemo o masi in prostornini predmetov
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:24308.0
+passage.questions.2.answers.5.text:Območje predmetov
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:24307.0
+passage.questions.2.answers.4.text:Kako hitro se nekaj premika
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:24306.0
+passage.questions.2.answers.3.text:Gostota združuje tisto, kar vemo o masi in prostornini predmeta, in odraža, kako tesno so zbrani delci snovi
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:24305.0
+passage.questions.2.answers.2.text:Razdalja med točkami
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:24304.0
+passage.questions.2.answers.1.text:Kako velike stvari so
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24303.0
+passage.questions.2.answers.0.text:Kako tesno so zapakirani delci snovi
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:24302.0
+passage.questions.11.question:Kako lahko razumem gostoto?
+passage.questions.11.idx:4613.0
+passage.questions.11.answers.6.text:V tem videu si lahko ogledate barvito predstavitev
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:24376.0
+passage.questions.11.answers.5.text:Z opazovanjem okolja
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:24375.0
+passage.questions.11.answers.4.text:S poslušanjem posnetka
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:24374.0
+passage.questions.11.answers.3.text:Z opazovanjem stvari, kako plavajo
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:24373.0
+passage.questions.11.answers.2.text:S poslušanjem prijateljev
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:24372.0
+passage.questions.11.answers.1.text:Z maso in prostornino predmetov
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:24371.0
+passage.questions.11.answers.0.text:S kombiniranjem tistega, kar veste o masi in prostornini. Preprosto več mase v manjšem volumnu, bolj gosto
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:24370.0
+passage.questions.10.question:Kako lahko opazujem gostoto vlog?
+passage.questions.10.idx:4612.0
+passage.questions.10.answers.6.text:Z ogledom animacije ali s samim dodajanjem olja v vodo
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:24369.0
+passage.questions.10.answers.5.text:Gledanje zvezd
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:24368.0
+passage.questions.10.answers.4.text:Razlike v gostoti snovi pojasnjujejo številne pojave
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:24367.0
+passage.questions.10.answers.3.text:Gledanje lune
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:24366.0
+passage.questions.10.answers.2.text:Ogled kamenja
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:24365.0
+passage.questions.10.answers.1.text:Z vlivanjem rastlinskega olja v vodo
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:24364.0
+passage.questions.10.answers.0.text:Z vlivanjem vode v ilk
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:24363.0
+passage.questions.1.question:Katera fizikalna lastnost snovi združuje tisto, kar vemo o masi in prostornini predmeta?
+passage.questions.1.idx:4603.0
+passage.questions.1.answers.4.text:Navor
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:24301.0
+passage.questions.1.answers.3.text:Gravitacija
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:24300.0
+passage.questions.1.answers.2.text:Gostota
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24299.0
+passage.questions.1.answers.1.text:Asimilacija
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:24298.0
+passage.questions.1.answers.0.text:Elektrika
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:24297.0
+passage.questions.0.question:Ali razlike v gostoti vplivajo na pojav, ki se pojavi pri vlivanju rastlinskega olja v vodo?
+passage.questions.0.idx:4602
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:24296
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24295
+idx:407

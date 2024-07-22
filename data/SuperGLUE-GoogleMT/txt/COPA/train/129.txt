@@ -1,0 +1,6 @@
+choice1:Potrošniki so izdelek prepoznali.
+choice2:Izdelek je zastarel.
+idx:129
+label:0
+premise:Izdelek je bil močno oglaševan.
+question:effect

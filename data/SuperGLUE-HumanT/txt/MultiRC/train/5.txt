@@ -1,0 +1,100 @@
+version:1.1
+passage.text:Ovoj Malaquezovega paketa se je strgal in razkril veveričko, zamrznjeno v kosu bleščečega zraka. Izpod nog je frcala koščke plesnivega listja, ko je tekla, da pozdravi prijatelja ali nekoga s hrano. Tasha je občudujoče vzdihnila. Rekel sem:»Te je obiskal Frodo, kaj?« Malaquez je rekel:»Tvoj hišni ljubljenček?« »Niti ne. Tu nekje živi. Verjetno ga je pritegnilo dogajanje na hribu.« »Ah,« je rekel Malaquez. »Zakaj ime Frodo?« Tasha je rekla:»Majhno bitje z velikimi, kosmatimi stopali. Kaj drugega bi lahko bil?« Podala mi je kipec. Skoraj bi mi padel na tla; pričakoval sem, da ne bo težji od holograma. »Težek je,« sem rekel, kot da morda ne ve. Zasmejal se je. »Moje zadnje delo je prikazovalo štiri stare andersajderje, ki so se greli okoli ognja v kanti za smeti. Bodi vesel, da ti ni kdo podal tega.« O svoji umetnosti je govoril navdušeno kot sedemletnik. »No, morda bi moral počakati s tem, da se vam vsiljujem, ampak ...« 
+passage.questions.4.question:Ali je Tasha vedela, da je kipec težek?
+passage.questions.4.idx:50.0
+passage.questions.4.answers.1.text:Zagotovo ne
+passage.questions.4.answers.1.label:0.0
+passage.questions.4.answers.1.idx:306.0
+passage.questions.4.answers.0.text:Da, vedel je
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:305.0
+passage.questions.3.question:Je Frodo pripovedovalčev hišni ljubljenček?
+passage.questions.3.idx:49.0
+passage.questions.3.answers.4.text:Ja
+passage.questions.3.answers.4.label:0.0
+passage.questions.3.answers.4.idx:304.0
+passage.questions.3.answers.3.text:Da
+passage.questions.3.answers.3.label:0.0
+passage.questions.3.answers.3.idx:303.0
+passage.questions.3.answers.2.text:Ne, ni
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:302.0
+passage.questions.3.answers.1.text:Frodo je divji
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:301.0
+passage.questions.3.answers.0.text:Frodo je hišni ljubljenček
+passage.questions.3.answers.0.label:0.0
+passage.questions.3.answers.0.idx:300.0
+passage.questions.2.question:Zakaj se Frodo tako imenuje?
+passage.questions.2.idx:48.0
+passage.questions.2.answers.8.text:Njegovih kosmatih nog in majhne velikosti
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:299.0
+passage.questions.2.answers.7.text:Kosmatih nog
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:298.0
+passage.questions.2.answers.6.text:Majhne velikosti in kosmatih nog
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:297.0
+passage.questions.2.answers.5.text:Njegove navade, da teče k ljudem
+passage.questions.2.answers.5.label:0.0
+passage.questions.2.answers.5.idx:296.0
+passage.questions.2.answers.4.text:Zaradi ljubezni do kipcev
+passage.questions.2.answers.4.label:0.0
+passage.questions.2.answers.4.idx:295.0
+passage.questions.2.answers.3.text:Majhen
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:294.0
+passage.questions.2.answers.2.text:Ker je lahek
+passage.questions.2.answers.2.label:0.0
+passage.questions.2.answers.2.idx:293.0
+passage.questions.2.answers.1.text:Velika ušesa
+passage.questions.2.answers.1.label:0.0
+passage.questions.2.answers.1.idx:292.0
+passage.questions.2.answers.0.text:Bele barve
+passage.questions.2.answers.0.label:0.0
+passage.questions.2.answers.0.idx:291.0
+passage.questions.1.question:Kje živi Frodo?
+passage.questions.1.idx:47.0
+passage.questions.1.answers.8.text:Tu nekje
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:290.0
+passage.questions.1.answers.7.text:V tunelih
+passage.questions.1.answers.7.label:0.0
+passage.questions.1.answers.7.idx:289.0
+passage.questions.1.answers.6.text:Pod zemljo
+passage.questions.1.answers.6.label:0.0
+passage.questions.1.answers.6.idx:288.0
+passage.questions.1.answers.5.text:Nekje v bližini hriba
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:287.0
+passage.questions.1.answers.4.text:Okoli ognja v kanti za smeti
+passage.questions.1.answers.4.label:0.0
+passage.questions.1.answers.4.idx:286.0
+passage.questions.1.answers.3.text:Nekje blizu pripovedovalca
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:285.0
+passage.questions.1.answers.2.text:V pripovedovalčevem dosegu
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:284.0
+passage.questions.1.answers.1.text:Pod kipci
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:283.0
+passage.questions.1.answers.0.text:V Tashini hiši
+passage.questions.1.answers.0.label:0.0
+passage.questions.1.answers.0.idx:282.0
+passage.questions.0.question:Ali je kipec težek?
+passage.questions.0.idx:46
+passage.questions.0.answers.3.text:Da, je
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:281.0
+passage.questions.0.answers.2.text:Zelo lahek je
+passage.questions.0.answers.2.label:0.0
+passage.questions.0.answers.2.idx:280.0
+passage.questions.0.answers.1.text:Nekoliko
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:279
+passage.questions.0.answers.0.text:Sploh ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:278
+idx:5

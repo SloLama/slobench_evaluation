@@ -1,0 +1,341 @@
+version:1.1
+passage.text:Dve ženski trgujeta, ne da bi se kdaj srečali. Oba iščeta beg pred svojimi težavami, vendar z bežanjem oba odkrijeta veliko o sebi. Ria Lynch je poročena z Dannyjem Lynchom, imata hčerko in sina. Danny začne vse manj časa preživljati doma z ženo in otroki. Ria verjame, da je rešitev še en dojenček, in je šokirana, ko ugotovi, da bo njen mož res oče - toda otroku iz afere, ki jo ima. Nezvestoba njenega moža je dogodek, zaradi katerega je Ria sklenila, da bo zamenjala domove z žensko iz ZDA, imenovano Marilyn, ki je na rojstni dan izgubila sina najstnika zaradi nesreče z motorjem. Marilyn se trudi sprijazniti s sinovo smrtjo in se odtuji od moža. Upa, da bo njen čas v Dublinu prenehal z žalostjo. Ria in Marilyn poleti odkrijeta globoke in temne skrivnosti drugega. Oba postaneta tesna prijatelja, a skrivnosti ne razkrijeta. {{Razširi razdelek}}
+passage.questions.9.question:Kaj je razlog, zakaj je Ria želela zamenjati?
+passage.questions.9.idx:3735.0
+passage.questions.9.answers.6.text:Odtujila se je možu
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:19809.0
+passage.questions.9.answers.5.text:Povabiti nove težave
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:19808.0
+passage.questions.9.answers.4.text:Ločila se je
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:19807.0
+passage.questions.9.answers.3.text:Nezvestoba njenega moža
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:19806.0
+passage.questions.9.answers.2.text:Danny ima afero
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:19805.0
+passage.questions.9.answers.1.text:Da bi se izognili težavam
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:19804.0
+passage.questions.9.answers.0.text:Ko je izgubila moža
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:19803.0
+passage.questions.8.question:Zakaj Rya želi pobegniti?
+passage.questions.8.idx:3734.0
+passage.questions.8.answers.6.text:Pobegniti iz Dublina
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:19802.0
+passage.questions.8.answers.5.text:Njegov mož preživlja manj časa z njo in ona ugotovi, da ima in se ukvarja
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:19801.0
+passage.questions.8.answers.4.text:Pobegniti pred težavami
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:19800.0
+passage.questions.8.answers.3.text:Ima afero
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:19799.0
+passage.questions.8.answers.2.text:Njen mož ima afero
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:19798.0
+passage.questions.8.answers.1.text:Da bi pomagala Marylin
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:19797.0
+passage.questions.8.answers.0.text:Če želite povabiti težave
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:19796.0
+passage.questions.7.question:Kdo je prišel odkriti veliko o sebi?
+passage.questions.7.idx:3733.0
+passage.questions.7.answers.5.text:Ria in Danny
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:19795.0
+passage.questions.7.answers.4.text:Ria Lynch in Marilyn
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:19794.0
+passage.questions.7.answers.3.text:Dve ženski
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:19793.0
+passage.questions.7.answers.2.text:Danny &amp; Marylin
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:19792.0
+passage.questions.7.answers.1.text:Marylin in njen sin
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:19791.0
+passage.questions.7.answers.0.text:Adam in predvečer
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19790.0
+passage.questions.6.question:V čem je težava, pred katero skuša pobegniti Ria Lynch?
+passage.questions.6.idx:3732.0
+passage.questions.6.answers.4.text:Ria Lynch je poročena z moškim po imenu Danny Lynch. Danny vedno več časa preživlja stran od Rie in njegovih otrok. Ria je ugotovila, da ima Danny otroka od ženske, s katero je imel razmerje
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:19789.0
+passage.questions.6.answers.3.text:Njena obletnica
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:19788.0
+passage.questions.6.answers.2.text:Smrt njenega sina
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:19787.0
+passage.questions.6.answers.1.text:Njeni možje nezvestoba
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:19786.0
+passage.questions.6.answers.0.text:Nezvestoba moža
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:19785.0
+passage.questions.5.question:Od kod so ženske?
+passage.questions.5.idx:3731.0
+passage.questions.5.answers.5.text:Michigan
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:19784.0
+passage.questions.5.answers.4.text:Ria je iz Dublina, Marilyn pa iz ZDA
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:19783.0
+passage.questions.5.answers.3.text:Indija
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:19782.0
+passage.questions.5.answers.2.text:Irska in ZDA
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19781.0
+passage.questions.5.answers.1.text:Ni določeno
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:19780.0
+passage.questions.5.answers.0.text:Dublin
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:19779.0
+passage.questions.4.question:Kaj ženske odkrijejo, ko živijo v hišah drugih?
+passage.questions.4.idx:3730.0
+passage.questions.4.answers.5.text:Globoke, temne skrivnosti drug o drugem
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:19778.0
+passage.questions.4.answers.4.text:Celota v strehi
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:19777.0
+passage.questions.4.answers.3.text:Smrt Marilyn-ovega sina
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:19776.0
+passage.questions.4.answers.2.text:Temne skrivnosti
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19775.0
+passage.questions.4.answers.1.text:Globoke skrivnosti
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19774.0
+passage.questions.4.answers.0.text:O sebi odkrijejo veliko. Obe ženski spoznavata tudi globoke, temne skrivnosti med seboj
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:19773.0
+passage.questions.3.question:Kdo upa, da bo njen čas v Dublinu prenehal z žalostjo?
+passage.questions.3.idx:3729.0
+passage.questions.3.answers.5.text:Ria
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:19772.0
+passage.questions.3.answers.4.text:Maryin mož
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:19771.0
+passage.questions.3.answers.3.text:Ženska iz ZDA
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:19770.0
+passage.questions.3.answers.2.text:Marilyn
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19769.0
+passage.questions.3.answers.1.text:Marylin
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:19768.0
+passage.questions.3.answers.0.text:Ria in njena hči
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:19767.0
+passage.questions.2.question:Kakšne so bile posledice trgovanja hiš za obe ženski?
+passage.questions.2.idx:3728.0
+passage.questions.2.answers.6.text:Postanejo prijatelji
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:19766.0
+passage.questions.2.answers.5.text:Rijina hči se zaljubi
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:19765.0
+passage.questions.2.answers.4.text:Odkrili so veliko o sebi in postali prijatelji
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:19764.0
+passage.questions.2.answers.3.text:Odkrivajo temne skrivnosti o Dannyju
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:19763.0
+passage.questions.2.answers.2.text:Povabiti težave
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:19762.0
+passage.questions.2.answers.1.text:Marylin se je ločila
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19761.0
+passage.questions.2.answers.0.text:Da bi našli srečo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:19760.0
+passage.questions.15.question:Zakaj ženske zamenjajo hišo?
+passage.questions.15.idx:3741.0
+passage.questions.15.answers.7.text:Da bi pobegnili pred njihovimi težavami
+passage.questions.15.answers.7.label:1.0
+passage.questions.15.answers.7.idx:19848.0
+passage.questions.15.answers.6.text:Za mrtvega sina
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:19847.0
+passage.questions.15.answers.5.text:Da bi se izognili njihovim težavam
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:19846.0
+passage.questions.15.answers.4.text:Da se bodo odtujili od svojih mož
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:19845.0
+passage.questions.15.answers.3.text:Delajo za zabavo
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:19844.0
+passage.questions.15.answers.2.text:Da se znajdejo
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:19843.0
+passage.questions.15.answers.1.text:Oba iščeta beg pred svojimi težavami
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:19842.0
+passage.questions.15.answers.0.text:Da si oddahnete od bolečih dogodkov
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:19841.0
+passage.questions.14.question:Zdi se, da imata obe ženski težave z otroki, katera ženska je izgubila otroka in katera je želela enega dodati svoji družini?
+passage.questions.14.idx:3740.0
+passage.questions.14.answers.6.text:Marylin je izgubila sina, Ria je želela še enega
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:19840.0
+passage.questions.14.answers.5.text:Ria je želela svoji družini dodati otroka, Marilyn pa je pred kratkim izgubila sina
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:19839.0
+passage.questions.14.answers.4.text:Dannyjeva afera in Ria
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:19838.0
+passage.questions.14.answers.3.text:Marilyn, ria je želela dodati eno družini
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:19837.0
+passage.questions.14.answers.2.text:Rijina hči in Marylin
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:19836.0
+passage.questions.14.answers.1.text:Adam in predvečer
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:19835.0
+passage.questions.14.answers.0.text:Marylin in Ria
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:19834.0
+passage.questions.13.question:Kje bo živela vsaka ženska?
+passage.questions.13.idx:3739.0
+passage.questions.13.answers.4.text:Ria Lynch bo odšla v ZDA, kjer živi Marilyn. Marilyn bo šla v Dublin
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:19833.0
+passage.questions.13.answers.3.text:Dublin
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:19832.0
+passage.questions.13.answers.2.text:V njihovem avtu
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:19831.0
+passage.questions.13.answers.1.text:V ZDA
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:19830.0
+passage.questions.13.answers.0.text:Pri Marilyn
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:19829.0
+passage.questions.12.question:Kdo živi v Dublinu?
+passage.questions.12.idx:3738.0
+passage.questions.12.answers.5.text:Ria
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:19828.0
+passage.questions.12.answers.4.text:Adam
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:19827.0
+passage.questions.12.answers.3.text:Marylinin mož
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:19826.0
+passage.questions.12.answers.2.text:Marilyn
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:19825.0
+passage.questions.12.answers.1.text:Riina druga hči
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:19824.0
+passage.questions.12.answers.0.text:Družina Lynch
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:19823.0
+passage.questions.11.question:V čem je težava, ki ji Marilyn skuša pobegniti?
+passage.questions.11.idx:3737.0
+passage.questions.11.answers.5.text:Marilyn se trudi sprijazniti s sinovo smrtjo
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:19822.0
+passage.questions.11.answers.4.text:Marilyn je odtujena od moža. Pravkar je izgubila sina na njegov rojstni dan zaradi nesreče z motorjem. Trudi se sprijazniti z njegovo smrtjo
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:19821.0
+passage.questions.11.answers.3.text:Odtujena od moža
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:19820.0
+passage.questions.11.answers.2.text:Smrt njenega sina
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:19819.0
+passage.questions.11.answers.1.text:Njen mož jo vara
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:19818.0
+passage.questions.11.answers.0.text:Oddaljila se je od moža
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:19817.0
+passage.questions.10.question:Koliko otrok ima Danny Linch?
+passage.questions.10.idx:3736.0
+passage.questions.10.answers.6.text:Sin z ženo Rio in z novo žensko bo spet postal oče
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:19816.0
+passage.questions.10.answers.5.text:Dva
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:19815.0
+passage.questions.10.answers.4.text:2.
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:19814.0
+passage.questions.10.answers.3.text:2 hčerki
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:19813.0
+passage.questions.10.answers.2.text:2 v Dublinu in 1 v ZDA
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:19812.0
+passage.questions.10.answers.1.text:1 dojenček
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:19811.0
+passage.questions.10.answers.0.text:Ena
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:19810.0
+passage.questions.1.question:Kdo so postali tesni prijatelji, a ne razkrivajo skrivnosti?
+passage.questions.1.idx:3727.0
+passage.questions.1.answers.7.text:Ria in Marilyn
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:19759.0
+passage.questions.1.answers.6.text:Obe ženski
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:19758.0
+passage.questions.1.answers.5.text:Ria Lynch in Marilyn
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:19757.0
+passage.questions.1.answers.4.text:Sin Marylin in hči Ria
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:19756.0
+passage.questions.1.answers.3.text:Ria in njena hči
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:19755.0
+passage.questions.1.answers.2.text:Možje žensk
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:19754.0
+passage.questions.1.answers.1.text:Ria in Marylin
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:19753.0
+passage.questions.1.answers.0.text:Adam in predvečer
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:19752.0
+passage.questions.0.question:Zakaj Danny manj časa preživi doma?
+passage.questions.0.idx:3726
+passage.questions.0.answers.4.text:Ker je Ria zamenjala hiše
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:19751.0
+passage.questions.0.answers.3.text:On je bolan
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:19750.0
+passage.questions.0.answers.2.text:Ker ima afero
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:19749.0
+passage.questions.0.answers.1.text:Ker Riine temne skrivnosti
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19748
+passage.questions.0.answers.0.text:Ker je imel še enega otroka
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19747
+idx:327

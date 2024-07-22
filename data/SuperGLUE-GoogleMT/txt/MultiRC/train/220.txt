@@ -1,0 +1,114 @@
+version:1.1
+passage.text:Dokumentarec prikazuje zakulisni pogled na slabo stanje argentinskega civilnega letalstva in krivdo prelaga na argentinske zračne sile. Letalske sile nadzorujejo operacije zračnega prometa od vojaškega prevzema generala Juana Carlosa Ongan a leta 1966. Producent / režiser Enrique Pi eyro trdi, da sta Argentina in Nigerija edini državi, katerih letalske sile nadzorujejo in urejajo letalsko industrijo. Pi eyro, nekdanji pilot argentinskega letalskega prevoznika, v dokumentarcu predstavi diagrame, 3D animacije, intervjuje, skrite kamere v nadzornem stolpu in nekaj rekvizitov. Na primer, v enem trenutku izlije vrečo plastičnih letal in jo izenači s številom letal, ki jih je letalska sila izgubila zaradi malomarnosti. Film je v veliki meri zasnovan na letalski nesreči Austral L neas A Reas Flight 2553. Enrique Pi eyro na skrivaj vzame kamero v nadzorni stolp mednarodnega letališča Ministro Pistarini, znanega tudi pod imenom Ezeiza, mednarodnega letališča v Buenos Airesu.
+passage.questions.5.question:Kateri direktor z vrečko plastičnih letal dokazuje slabo stanje argentinske industrije civilnega letalstva?
+passage.questions.5.idx:2444.0
+passage.questions.5.answers.4.text:Enrique Pi Eyro
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:12914.0
+passage.questions.5.answers.3.text:Ezeiza
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:12913.0
+passage.questions.5.answers.2.text:Juan Carlos
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:12912.0
+passage.questions.5.answers.1.text:Režiser Pi eyro
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:12911.0
+passage.questions.5.answers.0.text:General Juan Carlos Ongan
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:12910.0
+passage.questions.4.question:Kateri dve glavni vprašanji kažeta na &quot;slabo stanje&quot; argentinskega civilnega letalstva?
+passage.questions.4.idx:2443.0
+passage.questions.4.answers.8.text:Nesreča leta 2553
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:12909.0
+passage.questions.4.answers.7.text:Pomanjkanje dobička
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:12908.0
+passage.questions.4.answers.6.text:Letala izgubila iz malomarnosti
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:12907.0
+passage.questions.4.answers.5.text:Letalske sile nadzorujejo letalske družbe
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:12906.0
+passage.questions.4.answers.4.text:Pomanjkanje ali ureditev
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:12905.0
+passage.questions.4.answers.3.text:Vreča iz plastičnih letal
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:12904.0
+passage.questions.4.answers.2.text:Zaradi malomarnosti je izgubilo več letal in letalsko nesrečo leta 2553
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:12903.0
+passage.questions.4.answers.1.text:Število izgubljenih letal
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:12902.0
+passage.questions.4.answers.0.text:Kamera v kontrolni sobi
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:12901.0
+passage.questions.3.question:Katero vrsto rekvizita režiser uporablja za dokazovanje trditve?
+passage.questions.3.idx:2442.0
+passage.questions.3.answers.4.text:Plastični bloki
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:12900.0
+passage.questions.3.answers.3.text:Plastična letala
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:12899.0
+passage.questions.3.answers.2.text:Kamera v kontrolni sobi
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12898.0
+passage.questions.3.answers.1.text:Plastična letala
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:12897.0
+passage.questions.3.answers.0.text:Vreča plastičnih letal
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:12896.0
+passage.questions.2.question:Letalske sile katere države nadzorujejo operacije zračnega prometa od leta 1966?
+passage.questions.2.idx:2441.0
+passage.questions.2.answers.2.text:Nigerija
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12895.0
+passage.questions.2.answers.1.text:Buenas Aires
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12894.0
+passage.questions.2.answers.0.text:Argentina
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:12893.0
+passage.questions.1.question:Kdo s plastičnimi letali dokaže število izgubljenih letal zaradi malomarnosti?
+passage.questions.1.idx:2440.0
+passage.questions.1.answers.5.text:Enrique Pi eyro
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:12892.0
+passage.questions.1.answers.4.text:Ezeiza
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:12891.0
+passage.questions.1.answers.3.text:Režiser Pi eyro
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:12890.0
+passage.questions.1.answers.2.text:Pi eyro
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:12889.0
+passage.questions.1.answers.1.text:General Juan Carlos Ongan
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:12888.0
+passage.questions.1.answers.0.text:Enrique Ongan
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12887.0
+passage.questions.0.question:Kateri producent / režiser je tudi nekdanji pilot argentinske letalske družbe?
+passage.questions.0.idx:2439
+passage.questions.0.answers.4.text:Enrique Pi Eyro
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:12886.0
+passage.questions.0.answers.3.text:Ezeiza
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:12885.0
+passage.questions.0.answers.2.text:Režiser Pi eyro
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:12884.0
+passage.questions.0.answers.1.text:General Juan Carlos Ongan
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12883
+passage.questions.0.answers.0.text:Ongan
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:12882
+idx:220

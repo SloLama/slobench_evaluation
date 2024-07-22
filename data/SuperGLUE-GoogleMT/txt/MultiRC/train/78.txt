@@ -1,0 +1,196 @@
+version:1.1
+passage.text:Eksplozija je med ubijanjem enega od Kozakov in hudim ranjevanjem voznika in ljudi na pločniku poškodovala le neprebojni voziček, darilo francoskega Napoleona III. Cesar se je pojavil pretresen, a nepoškodovan. Rysakov je bil skoraj takoj ujet. Šef policije Dvoržitski je slišal, kako je Rysakov kričal nekomu drugemu iz množice. Okoliški stražarji in kozaki so cesarja pozvali, naj takoj zapusti območje, ne da bi mu pokazali mesto eksplozije. Kljub temu je drugi mladi član Narodne volje Ignacy Hryniewiecki, ki je stal ob ograji kanala, dvignil obe roki in cesarju nekaj vrgel pod noge. Domnevno naj bi zavpil: &quot;Prehitro se zahvaljujemo Bogu&quot;. Dvorzhitsky je pozneje zapisal:
+passage.questions.9.question:Kaj je povzročilo, da se je cesar pretresel?
+passage.questions.9.idx:916.0
+passage.questions.9.answers.3.text:Eksplozija
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:4776.0
+passage.questions.9.answers.2.text:Bombardiranje
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:4775.0
+passage.questions.9.answers.1.text:Pločnik
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4774.0
+passage.questions.9.answers.0.text:Potres
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4773.0
+passage.questions.8.question:Komu je kričal Rysakov?
+passage.questions.8.idx:915.0
+passage.questions.8.answers.5.text:Zakriči drugemu
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:4772.0
+passage.questions.8.answers.4.text:Načelnik Dvoržitski
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:4771.0
+passage.questions.8.answers.3.text:Nekdo drug med množico
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:4770.0
+passage.questions.8.answers.2.text:Ignacy Hryniewiecki
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:4769.0
+passage.questions.8.answers.1.text:Njegova mati
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4768.0
+passage.questions.8.answers.0.text:Nekdo drug iz zbrane množice
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4767.0
+passage.questions.7.question:Koliko morilcev je bilo na kraju bombardiranja?
+passage.questions.7.idx:914.0
+passage.questions.7.answers.3.text:Pet
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4766.0
+passage.questions.7.answers.2.text:Deset
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4765.0
+passage.questions.7.answers.1.text:2, Rysakov in Hryniewiecki
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4764.0
+passage.questions.7.answers.0.text:Ena
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4763.0
+passage.questions.6.question:Kdo je zavpil: &quot;Zgodaj se zahvaljujem bogu&quot;?
+passage.questions.6.idx:913.0
+passage.questions.6.answers.4.text:Načelnik Dvoržitsk
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:4762.0
+passage.questions.6.answers.3.text:Ignacy Hryniewiecki
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:4761.0
+passage.questions.6.answers.2.text:Voznik
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4760.0
+passage.questions.6.answers.1.text:Drugi mladi član Narodne volje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:4759.0
+passage.questions.6.answers.0.text:Kozaki
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4758.0
+passage.questions.5.question:Kaj je povzročilo, da je bil cesar pretresen, a nepoškodovan?
+passage.questions.5.idx:912.0
+passage.questions.5.answers.5.text:Njegov položaj
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:4757.0
+passage.questions.5.answers.4.text:Bombardiranje
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4756.0
+passage.questions.5.answers.3.text:Eksplozija
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:4755.0
+passage.questions.5.answers.2.text:Sreča
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4754.0
+passage.questions.5.answers.1.text:Neprebojni voziček
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4753.0
+passage.questions.5.answers.0.text:Kozaki
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4752.0
+passage.questions.4.question:Kdo naj bi zavpil: &quot;Prehitro se zahvaljujemo Bogu&quot;?
+passage.questions.4.idx:911.0
+passage.questions.4.answers.4.text:Načelnik Dvoržitsk
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4751.0
+passage.questions.4.answers.3.text:Ignacy Hryniewiecki
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:4750.0
+passage.questions.4.answers.2.text:Dvorzhitsky
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4749.0
+passage.questions.4.answers.1.text:, drugi mladi član Narodne volje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4748.0
+passage.questions.4.answers.0.text:Napoleon III. Iz Francije
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4747.0
+passage.questions.3.question:Kaj se je zgodilo z Rysakovom, zaradi česar je zavpil nekomu drugemu iz zbrane množice?
+passage.questions.3.idx:910.0
+passage.questions.3.answers.4.text:Bil je ujet
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:4746.0
+passage.questions.3.answers.3.text:Aretiran
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4745.0
+passage.questions.3.answers.2.text:Ob kanalski ograji
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:4744.0
+passage.questions.3.answers.1.text:Bil je pretresen
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4743.0
+passage.questions.3.answers.0.text:V eksploziji se je poškodoval
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4742.0
+passage.questions.2.question:Kolikokrat je bil cesar napaden?
+passage.questions.2.idx:909.0
+passage.questions.2.answers.3.text:Trikrat
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4741.0
+passage.questions.2.answers.2.text:Enkrat
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4740.0
+passage.questions.2.answers.1.text:2.
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:4739.0
+passage.questions.2.answers.0.text:Dvakrat
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4738.0
+passage.questions.10.question:Kdo je Rysakov?
+passage.questions.10.idx:917.0
+passage.questions.10.answers.6.text:Teroristična
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:4783.0
+passage.questions.10.answers.5.text:Policija
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:4782.0
+passage.questions.10.answers.4.text:Šef policije
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:4781.0
+passage.questions.10.answers.3.text:Odgovorna oseba za eksplozijo in član mladega člana Narodne volje
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:4780.0
+passage.questions.10.answers.2.text:Voznik
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4779.0
+passage.questions.10.answers.1.text:Član Narodne volje
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:4778.0
+passage.questions.10.answers.0.text:Bomba
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4777.0
+passage.questions.1.question:Je bil cesar ranjen, ko mu je eksplozija poškodovala kočijo?
+passage.questions.1.idx:908.0
+passage.questions.1.answers.6.text:Krvavil je
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:4737.0
+passage.questions.1.answers.5.text:Nepoškodovano
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:4736.0
+passage.questions.1.answers.4.text:Da
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:4735.0
+passage.questions.1.answers.3.text:Pretresen, a ne poškodovan
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4734.0
+passage.questions.1.answers.2.text:Ne
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4733.0
+passage.questions.1.answers.1.text:Okoliški stražarji
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:4732.0
+passage.questions.1.answers.0.text:Bil je pretresen
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4731.0
+passage.questions.0.question:Je šef policije Dvoržitski vzkliknil: &quot;Prehitro se zahvaljujemo Bogu&quot;?
+passage.questions.0.idx:907
+passage.questions.0.answers.3.text:Kričal naj bi
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4730.0
+passage.questions.0.answers.2.text:Bil je pretresen
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4729.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4728
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4727
+idx:78

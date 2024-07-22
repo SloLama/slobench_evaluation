@@ -1,0 +1,393 @@
+version:1.1
+passage.text:Središče atoma držijo skupaj močne sile. To jim daje ogromno shranjene energije. Ta vrsta energije se imenuje jedrska energija. To energijo lahko sprostite in jo uporabite za delo. To se zgodi v jedrskih elektrarnah, kjer razdelijo jedro atoma. Ta delitev se imenuje jedrska cepitev. Druga vrsta jedrske energije se zgodi na Soncu. Tu se jedra atomov ne ločijo. Namesto tega se jedra atomov zlijejo ali združijo. Ta proces se imenuje jedrska fuzija. Nekatera sončna energija potuje na Zemljo. Ta energija iz jedrske fuzije ogreje planet in zagotavlja energijo za fotosintezo.
+passage.questions.9.question:Kaj se zgodi z atomi med jedrsko fuzijo?
+passage.questions.9.idx:3540.0
+passage.questions.9.answers.7.text:Fotosinteza
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:18786.0
+passage.questions.9.answers.6.text:Jedra atomov so spojena ali združena
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:18785.0
+passage.questions.9.answers.5.text:Nevtroni se lomijo
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:18784.0
+passage.questions.9.answers.4.text:Jedra so spojena skupaj
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:18783.0
+passage.questions.9.answers.3.text:Električna energija
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:18782.0
+passage.questions.9.answers.2.text:Jedra atomov so razdeljena
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:18781.0
+passage.questions.9.answers.1.text:So spojeni ali združeni.
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:18780.0
+passage.questions.9.answers.0.text:Elektroni so izpljunjeni
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:18779.0
+passage.questions.8.question:V čem se razlikujeta jedrska fisija in jedrska fuzija?
+passage.questions.8.idx:3539.0
+passage.questions.8.answers.9.text:Fuzija deli atomska jedra
+passage.questions.8.answers.9.label:0,0
+passage.questions.8.answers.9.idx:18778.0
+passage.questions.8.answers.8.text:Pri jedrski cepitvi se jedro atoma razdeli. Pri jedrski fuziji se atomi zlijejo ali združijo
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:18777.0
+passage.questions.8.answers.7.text:Fisija povzroči fotosintezo, fuzija pa ne
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:18776.0
+passage.questions.8.answers.6.text:Jedrska cepitev razcepi jedro in fuzija zlije jedro
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:18775.0
+passage.questions.8.answers.5.text:Fuzija združuje atomska jedra
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:18774.0
+passage.questions.8.answers.4.text:Fisijska fuzija jedro in fuzija cepi jedro
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:18773.0
+passage.questions.8.answers.3.text:Cepitev deli atomska jedra
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:18772.0
+passage.questions.8.answers.2.text:Fuzija prihaja iz lune, cepitev pa iz sonca
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:18771.0
+passage.questions.8.answers.1.text:Jedro se pri jedrski cepitvi razcepi, pri jedrski fuziji pa ne
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:18770.0
+passage.questions.8.answers.0.text:Cepitev združuje atomska jedra
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:18769.0
+passage.questions.7.question:Kako se imenuje postopek za proizvodnjo jedrske energije v jedrskih elektrarnah?
+passage.questions.7.idx:3538.0
+passage.questions.7.answers.7.text:Fotosinteza
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:18768.0
+passage.questions.7.answers.6.text:Jedrska keneteza
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:18767.0
+passage.questions.7.answers.5.text:Delitev atomov
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:18766.0
+passage.questions.7.answers.4.text:Cepitev
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:18765.0
+passage.questions.7.answers.3.text:Jedrska fuzija
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:18764.0
+passage.questions.7.answers.2.text:Spajanje atomov
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:18763.0
+passage.questions.7.answers.1.text:Jedrska fisija
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:18762.0
+passage.questions.7.answers.0.text:Fuzija
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:18761.0
+passage.questions.6.question:Kako se imenuje postopek, ko se jedra atomov zlijejo ali združijo.
+passage.questions.6.idx:3537.0
+passage.questions.6.answers.7.text:Fotosinteza
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:18760.0
+passage.questions.6.answers.6.text:Skupna raba elektronov
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:18759.0
+passage.questions.6.answers.5.text:Jedra se ob spajanju pretvorijo v fuzijo
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:18758.0
+passage.questions.6.answers.4.text:Jedrska fuzija
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:18757.0
+passage.questions.6.answers.3.text:Ta proces se imenuje jedrska fuzija
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:18756.0
+passage.questions.6.answers.2.text:kinetična energija
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:18755.0
+passage.questions.6.answers.1.text:Jedrska fisija
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:18754.0
+passage.questions.6.answers.0.text:Fuzija
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:18753.0
+passage.questions.5.question:Kako se imenujeta jedrska procesa?
+passage.questions.5.idx:3536.0
+passage.questions.5.answers.9.text:Pretvorba in izbruhi
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:18752.0
+passage.questions.5.answers.8.text:Fotosinteza
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:18751.0
+passage.questions.5.answers.7.text:Pretvorba in gibanje
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:18750.0
+passage.questions.5.answers.6.text:Elektrika in jedrska energija
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:18749.0
+passage.questions.5.answers.5.text:Cepitev
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:18748.0
+passage.questions.5.answers.4.text:Jedrska fisija, jedrska fuzija
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:18747.0
+passage.questions.5.answers.3.text:Jedrska energija in jedrska fuzija
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:18746.0
+passage.questions.5.answers.2.text:Cepitev in fuzija
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:18745.0
+passage.questions.5.answers.1.text:Sevanje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:18744.0
+passage.questions.5.answers.0.text:Fuzija
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:18743.0
+passage.questions.4.question:Kakšna vrsta jedrskoenergijskega procesa se zgodi na soncu?
+passage.questions.4.idx:3535.0
+passage.questions.4.answers.7.text:Spajanje jeder atomov
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:18742.0
+passage.questions.4.answers.6.text:Delitev atomov
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:18741.0
+passage.questions.4.answers.5.text:Cepitev
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:18740.0
+passage.questions.4.answers.4.text:Pretvorba toplote
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:18739.0
+passage.questions.4.answers.3.text:Jedrska fuzija
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:18738.0
+passage.questions.4.answers.2.text:proces kinetične energije
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:18737.0
+passage.questions.4.answers.1.text:Jedrska fisija
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:18736.0
+passage.questions.4.answers.0.text:Fuzija
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:18735.0
+passage.questions.3.question:Katera 2 procesa sta imenovana za oblikovanje jedrske energije?
+passage.questions.3.idx:3534.0
+passage.questions.3.answers.8.text:Fotosinteza
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:18734.0
+passage.questions.3.answers.7.text:Jedrska fisija in jedrska fuzija
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:18733.0
+passage.questions.3.answers.6.text:Cepitev
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:18732.0
+passage.questions.3.answers.5.text:Sončne žarnice
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:18731.0
+passage.questions.3.answers.4.text:Jedrska fuzija
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:18730.0
+passage.questions.3.answers.3.text:Sončna pretvorba
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:18729.0
+passage.questions.3.answers.2.text:Jedrska fisija
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:18728.0
+passage.questions.3.answers.1.text:Fuzija
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:18727.0
+passage.questions.3.answers.0.text:S-orbitale
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18726.0
+passage.questions.2.question:Nekatera sončna energija potuje na zemljo, za kaj se porabi energija na zemlji?
+passage.questions.2.idx:3533.0
+passage.questions.2.answers.7.text:Fotosinteza in za ogrevanje planeta
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:18725.0
+passage.questions.2.answers.6.text:Fotosinteza
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:18724.0
+passage.questions.2.answers.5.text:Rast rastlin
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:18723.0
+passage.questions.2.answers.4.text:Peka jajc
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:18722.0
+passage.questions.2.answers.3.text:Toplotna energija
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:18721.0
+passage.questions.2.answers.2.text:Vitamin D
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:18720.0
+passage.questions.2.answers.1.text:kinetična energija
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:18719.0
+passage.questions.2.answers.0.text:Pretvorbena energija
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:18718.0
+passage.questions.14.question:Ali se atomska jedra na Soncu ločijo?
+passage.questions.14.idx:3545.0
+passage.questions.14.answers.4.text:Jedra so se razcepila
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:18823.0
+passage.questions.14.answers.3.text:Občasno
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:18822.0
+passage.questions.14.answers.2.text:Ne
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:18821.0
+passage.questions.14.answers.1.text:Jedra se stopijo
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:18820.0
+passage.questions.14.answers.0.text:Ne, zlijeta se skupaj
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:18819.0
+passage.questions.13.question:Nekaj sončne energije potuje na Zemljo in postane energija za kateri proces?
+passage.questions.13.idx:3544.0
+passage.questions.13.answers.7.text:Za postopek, imenovan Londonska disperzija
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:18818.0
+passage.questions.13.answers.6.text:Toplotna energija
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:18817.0
+passage.questions.13.answers.5.text:Sončna energija
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:18816.0
+passage.questions.13.answers.4.text:Energija za rastline
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:18815.0
+passage.questions.13.answers.3.text:Postane plazma
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:18814.0
+passage.questions.13.answers.2.text:Energija, uporabljena za fotosintezo
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:18813.0
+passage.questions.13.answers.1.text:kinetična energija
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:18812.0
+passage.questions.13.answers.0.text:&quot;Fotosinteza&quot;
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:18811.0
+passage.questions.12.question:Kaj lahko storimo s shranjeno energijo, ki drži središče atomov skupaj?
+passage.questions.12.idx:3543.0
+passage.questions.12.answers.8.text:Fotosinteza
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:18810.0
+passage.questions.12.answers.7.text:Energija se lahko sprosti za delo
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:18809.0
+passage.questions.12.answers.6.text:Lahko se fotosintetizira
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:18808.0
+passage.questions.12.answers.5.text:Lahko se uporablja za delo
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:18807.0
+passage.questions.12.answers.4.text:Pretvorjeno v toploto
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:18806.0
+passage.questions.12.answers.3.text:Absorbirana s šibko jedrsko silo
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:18805.0
+passage.questions.12.answers.2.text:Izpuščen in nekdaj opravljal delo
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:18804.0
+passage.questions.12.answers.1.text:Ustvari elektriko
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:18803.0
+passage.questions.12.answers.0.text:Energija se lahko sprosti
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:18802.0
+passage.questions.11.question:Kaj se zgodi z energijo atoma, če se jedro razdeli?
+passage.questions.11.idx:3542.0
+passage.questions.11.answers.8.text:Energija se sprosti
+passage.questions.11.answers.8.label:1.0
+passage.questions.11.answers.8.idx:18801.0
+passage.questions.11.answers.7.text:V procesu, ki se imenuje povratna fuzija
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:18800.0
+passage.questions.11.answers.6.text:To energijo lahko sprostite in jo uporabite za delo
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:18799.0
+passage.questions.11.answers.5.text:V procesu, ki se imenuje jedrska cepitev
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:18798.0
+passage.questions.11.answers.4.text:Povzroča fotosintezo
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:18797.0
+passage.questions.11.answers.3.text:Atomi se zlijejo skupaj
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:18796.0
+passage.questions.11.answers.2.text:Postane kinetična energija
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:18795.0
+passage.questions.11.answers.1.text:Energija se pretvori
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:18794.0
+passage.questions.11.answers.0.text:&quot;Izpuščeno je.&quot;
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:18793.0
+passage.questions.10.question:Kako se imenuje shranjena energija v središču atoma?
+passage.questions.10.idx:3541.0
+passage.questions.10.answers.5.text:Fotosinteza
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:18792.0
+passage.questions.10.answers.4.text:Fotoni
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:18791.0
+passage.questions.10.answers.3.text:Močna jedrska sila
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:18790.0
+passage.questions.10.answers.2.text:Nuklearna energija
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:18789.0
+passage.questions.10.answers.1.text:Jedrska fuzija
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:18788.0
+passage.questions.10.answers.0.text:Jedrska fisija
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:18787.0
+passage.questions.1.question:Kakšno vrsto shranjene energije imajo atomi?
+passage.questions.1.idx:3532.0
+passage.questions.1.answers.6.text:Fotosinteza
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:18717.0
+passage.questions.1.answers.5.text:&quot;Jedrska&quot;
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:18716.0
+passage.questions.1.answers.4.text:Energija fotosinteze
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:18715.0
+passage.questions.1.answers.3.text:kenetska energija
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:18714.0
+passage.questions.1.answers.2.text:Nuklearna energija
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18713.0
+passage.questions.1.answers.1.text:Električna energija
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:18712.0
+passage.questions.1.answers.0.text:Sončna energija
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18711.0
+passage.questions.0.question:V katerem vesoljskem telesu se zgodi jedrska fuzija?
+passage.questions.0.idx:3531
+passage.questions.0.answers.6.text:&quot;Sonce&quot;
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:18710.0
+passage.questions.0.answers.5.text:V zvezdi
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:18709.0
+passage.questions.0.answers.4.text:Jupiter
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:18708.0
+passage.questions.0.answers.3.text:Luna
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:18707.0
+passage.questions.0.answers.2.text:Mars
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:18706.0
+passage.questions.0.answers.1.text:V fotonu
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18705
+passage.questions.0.answers.0.text:Na Zemlji
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:18704
+idx:311

@@ -1,0 +1,82 @@
+version:1.1
+passage.text:Ti eksperimenti v političnem islamu so se v devetdesetih letih omagali: iranska revolucija je izgubila zagon, ugled in podporo javnosti, pakistanski vladarji pa so ugotovili, da večina prebivalstva nima veliko navdušenja nad fundamentalističnim islamom. Islamistična preporodna gibanja so pridobila privržence po muslimanskem svetu, vendar niso uspela zagotoviti politične moči, razen v Iranu in Sudanu. V Alžiriji, kjer se je leta 1991 zdelo, da bodo islamisti skoraj zagotovo osvojili oblast z volilnimi skrinjicami, je vojska prevzela svojo zmago in sprožila brutalno državljansko vojno, ki traja še danes. Nasprotniki današnjih vladarjev imajo le malo, če sploh, načinov sodelovanja v obstoječem političnem sistemu. Tako so pripravljena publika za pozive muslimanom, naj očistijo svojo družbo, zavrnejo neljubo modernizacijo in se strogo držijo šeriata. Socialno in ekonomsko slabo počutje V sedemdesetih in zgodnjih osemdesetih letih prejšnjega stoletja je poplava bogastva brez primere pripeljala do takrat večinoma nemoderniziranih naftnih držav, ki so poskušale priti do bližnjih desetletij razvoja. Financirali so ogromne infrastrukturne projekte, močno razširili izobraževanje in ustvarili subvencionirane programe socialnega varstva. Ti programi so vzpostavili razširjen občutek upravičenosti brez ustreznega občutka socialnih obveznosti. Do poznih osemdesetih let so zaradi zmanjšanja prihodkov od nafte, odtekanja številnih nedonosnih razvojnih projektov in rasti prebivalstva ti programi upravičenosti postali nevzdržni. Posledično zmanjšanje je povzročilo ogromno nezadovoljstvo prejemnikov, ki so vladno velikodušnost videli kot svojo pravico. To nezadovoljstvo je dodatno spodbudilo javno razumevanje, koliko dohodka od nafte je šel naravnost v žep vladarjev, njihovih prijateljev in njihovih pomočnikov. Za razliko od naftnih držav (ali Afganistana, kjer se je resnični gospodarski razvoj komaj začel), se je zdelo, da so se drugi arabski narodi in Pakistan nekoč usmerili k uravnoteženi modernizaciji. Uveljavljeni komercialni, finančni in industrijski sektor v teh državah, podprti s podjetniškim duhom in razširjenim razumevanjem svobodnega podjetništva, so se dobro izkazali. Toda nedonosna težka industrija, državni monopoli in nepregledne birokracije so počasi zadušili rast. Še pomembneje pa je, da so ti režimi, osredotočeni na državo, dali svojo največjo prednost ohranjanju oprijema elite na nacionalno bogastvo. Ker niso želele spodbujati dinamičnega gospodarstva, ki bi lahko ustvarilo delovna mesta, privlačna za izobražene mlade moške, so države postale ekonomsko stagnirale in se zanašale na varnostni ventil emigracije delavcev bodisi v arabske naftne države bodisi na Zahod. Poleg tega zatiranje in izolacija žensk v številnih muslimanskih državah ni le resno omejila posameznikovih priložnosti, temveč tudi ogrozila splošno gospodarsko produktivnost. Do devetdesetih let so visoki nataliteti in upadajoče stopnje umrljivosti dojenčkov v celotnem muslimanskem svetu povzročale pogost problem: velika, stalno naraščajoča populacija mladih moških brez kakršnega koli razumnega pričakovanja ustrezne ali stalne zaposlitve - zanesljiv recept za socialne turbulence.
+passage.questions.4.question:Katera država je imela komaj gospodarski razvoj v nasprotju z drugimi državami v tistem času?
+passage.questions.4.idx:4838.0
+passage.questions.4.answers.3.text:Afganistan; v osemdesetih letih so se arabske države in Pakistan usmerili k uravnoteženi modernizaciji
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:25861.0
+passage.questions.4.answers.2.text:Olje navaja
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:25860.0
+passage.questions.4.answers.1.text:Pakistan
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:25859.0
+passage.questions.4.answers.0.text:Afganistanu
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:25858.0
+passage.questions.3.question:Kateri eksperimenti političnega islama so omagali v devetdesetih?
+passage.questions.3.idx:4837.0
+passage.questions.3.answers.4.text:Iranska revolucija je izgubila zagon, ugled in podporo javnosti
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:25857.0
+passage.questions.3.answers.3.text:Zdravstvena reforma in blaginja
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:25856.0
+passage.questions.3.answers.2.text:Pakistanski vladarji so ugotovili, da ima večina prebivalstva malo navdušenja nad fundamentalističnim islamom
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25855.0
+passage.questions.3.answers.1.text:Socialna in ekonomska slabost
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25854.0
+passage.questions.3.answers.0.text:Islamistična preporodna gibanja
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:25853.0
+passage.questions.2.question:Katere države so postale ekonomsko stagnirale in se zanašale na varnostni ventil delavske emigracije?
+passage.questions.2.idx:4836.0
+passage.questions.2.answers.4.text:Pakistan
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:25852.0
+passage.questions.2.answers.3.text:Druge arabske države, kot je Pakistan
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:25851.0
+passage.questions.2.answers.2.text:Arabski narodi in Pakistan; niso bili pripravljeni spodbujati dinamičnega gospodarstva, ki bi lahko ustvarilo delovna mesta, privlačna za izobražene mlade moške
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:25850.0
+passage.questions.2.answers.1.text:Afganistanu
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25849.0
+passage.questions.2.answers.0.text:Arabski narodi
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:25848.0
+passage.questions.1.question:Katero leto so se začele visoke rodnosti in stopnje umrljivosti dojenčkov?
+passage.questions.1.idx:4835.0
+passage.questions.1.answers.4.text:1990
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:25847.0
+passage.questions.1.answers.3.text:1970
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25846.0
+passage.questions.1.answers.2.text:Devetdeseta leta
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25845.0
+passage.questions.1.answers.1.text:1990; zatiranje in izolacija žensk v številnih muslimanskih državah je okrnilo splošno gospodarsko produktivnost
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:25844.0
+passage.questions.1.answers.0.text:Osemdeseta leta
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:25843.0
+passage.questions.0.question:Katere omejitve so povzročile ogromno nezadovoljstvo okoli vladne velikodušnosti?
+passage.questions.0.idx:4834
+passage.questions.0.answers.3.text:Zmanjšanje zaradi preporodnih gibanj
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:25842.0
+passage.questions.0.answers.2.text:Zmanjševanje prihodkov od nafte konec osemdesetih let; nezadovoljstvo je spodbujalo tudi javno razumevanje dohodka, ki se ne deli enako
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:25841.0
+passage.questions.0.answers.1.text:Zmanjšanje državne pomoči
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25840
+passage.questions.0.answers.0.text:Gospodarski odtok številnih nedonosnih razvojnih projektov in rast prebivalstva so te programe upravičevali do nevzdržnosti
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:25839
+idx:430

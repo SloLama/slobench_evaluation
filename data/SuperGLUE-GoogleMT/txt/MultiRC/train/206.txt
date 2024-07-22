@@ -1,0 +1,51 @@
+version:1.1
+passage.text:Leta 1878 je bil Martinez Campos generalni guverner Kube, Maximo Gomez pa vrhovni poveljnik kubanskih sil. Obe strani sta bili utrujeni od dolgotrajnih sovražnosti in nobena ni mogla prisiliti druge, da se preda. Španija pa je izrazila pripravljenost, da bo izpolnila pomemben del zahtev svojih uporniških podložnikov. Martinez Campos in Gomez sta se sestala v Zanjonu in se 10. februarja 1878 vzajemno strinjala s tistim, kar so različno imenovali mirovni pakt, pogodba in kapitulacija. Sporazum je temeljil na določbah za odpravo kubanskih pritožb z večjimi civilnimi, političnimi in upravnimi privilegiji za Kubance, s pozabo na preteklost in amnestijo za vse, ki so bili takrat obsojeni za politične prekrške. Zamuda pri uveljavitvi teh določb je dve leti kasneje povzročila poskus obnovitve boja, vendar je bil napor neuspešen. Zadeve so nato vrsto let umirjale. Kubanci so čakali, kaj bodo storili. Španski generalni guverner je še vedno ostal vrhovna oblast in poleg ukinitve suženjstva, uporabe španske ustave in španskih zakonov na Kubi ter kubanskega zastopanja v Cortesu, ki je bilo veliko prej kot dejstvo, je otok dobil malo po novih pogojih. Nezadovoljstvo in protesti so se nadaljevali in končno leta 1895 spet prešli v odprt upor.
+passage.questions.2.question:Kje sta se sestala generalni guverner Kube in vrhovni poveljnik kubanskih sil, da bi sklenila mirovni pakt?
+passage.questions.2.idx:2295.0
+passage.questions.2.answers.2.text:Martinez campos
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12087.0
+passage.questions.2.answers.1.text:Kopenhagen
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12086.0
+passage.questions.2.answers.0.text:V Zanjonu
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:12085.0
+passage.questions.1.question:Kateri voditelji na Kubi so se dolgočasnih sovražnosti leta 1878 naveličali?
+passage.questions.1.idx:2294.0
+passage.questions.1.answers.5.text:Gomez Zedra
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:12084.0
+passage.questions.1.answers.4.text:Martinez Campus in Maximo Gomez
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:12083.0
+passage.questions.1.answers.3.text:Matin Garim
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:12082.0
+passage.questions.1.answers.2.text:Maximo Gomez
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:12081.0
+passage.questions.1.answers.1.text:Martinez Campos
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:12080.0
+passage.questions.1.answers.0.text:Zanjon
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12079.0
+passage.questions.0.question:Kaj je bil razlog za upor po mirovnem paktu?
+passage.questions.0.idx:2293
+passage.questions.0.answers.4.text:Zagotavljanje večjih civilnih, političnih in upravnih privilegijev za Kubano je ostalo nerešeno
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:12078.0
+passage.questions.0.answers.3.text:Otok je malo pridobil zaradi novih razmer
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:12077.0
+passage.questions.0.answers.2.text:Neobstoj mirovnega pakta
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:12076.0
+passage.questions.0.answers.1.text:Bili so nezadovoljni in imeli so veliko lakote
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12075
+passage.questions.0.answers.0.text:Zamuda pri izvajanju določb
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:12074
+idx:206

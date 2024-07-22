@@ -1,0 +1,6 @@
+choice1:Lastnik ga je odnesel v avtopralnico.
+choice2:Lastnik ga je vzel za barvanje.
+idx:227
+label:0
+premise:Avto je bil videti umazan.
+question:effect

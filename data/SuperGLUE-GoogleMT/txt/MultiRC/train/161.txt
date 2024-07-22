@@ -1,0 +1,431 @@
+version:1.1
+passage.text:Juzo Murasaki prispe na delovno gradbeno območje in prevzame novo službo gradbenega delavca. Na njegovo tiho zaskrbljenost se izkaže, da je njegov nadzorni šef Toru Akai, ki je s svojo tolpo Juzo v srednji šoli naredil pekel. Akai pa Juza ne prepozna. Juzo je bolj zmeden, ko odkrije, da Akai živi z ženo Nozomi Akai in njunim malčkom nad novim Juzovim stanovanjem. Ko se Juzo čustveno bori s tem nepričakovanim razvojem, se pojavi skrivnostna in na videz zlonamerna figura s kapuco. Kliče se številka 13. Medtem ko Juzo poskuša nadzorovati vedno večje število prebliskov in spiralo pade v psihološko temo, Akai nenehno izbira Juzo in druge delovne kolege, vključno s Sekijem Hajimejem, nekdanjim dijakom srednje šole, ki kljub Juzovim protisocialnim težnjam postane priložnostni Juzoov prijatelj. delo. Medtem se Akaijeva žena Nozomi poskuša spoprijateljiti z Juzo in skrb za svojega malčka zaupati Juzu. S ponosom pokaže Juzo šolove fotografije moža. Na eni razredni fotografiji je prostor Juza označen z X, da je odsoten. Juzo trpi hud trenutek, da razloži svojo odsotnost tistega dne: v znanstveni sobi njihove šole so Akai in njegovi prijatelji metali kislino v obraz Juza. Seki postane sumljiv glede Juzovega vse bolj čudnega vedenja in gre odvestiti Araija na delovišče, vendar ga Arai odpusti, ne da bi mu dal priložnost govoriti. Med tem incidentom Seki ne ve, da ga opazuje številka 13, a takoj, ko to stori, ga številka 13 ubije.
+passage.questions.9.question:Kdo je nadzornik Juza Murasakija pri njegovih gradbenih delih?
+passage.questions.9.idx:1803.0
+passage.questions.9.answers.4.text:Njegov nasilnik iz srednje šole
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:9398.0
+passage.questions.9.answers.3.text:Toru Akai
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:9397.0
+passage.questions.9.answers.2.text:Nozomi Akai
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:9396.0
+passage.questions.9.answers.1.text:Nazomi
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:9395.0
+passage.questions.9.answers.0.text:Turo Akai
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:9394.0
+passage.questions.8.question:Kdo je številka 13?
+passage.questions.8.idx:1802.0
+passage.questions.8.answers.9.text:Ko se Juzo čustveno bori z nepričakovanimi dogodki, se pojavi skrivnostna in na videz zlonamerna figura s kapuco. Kliče se številka 13
+passage.questions.8.answers.9.label:1.0
+passage.questions.8.answers.9.idx:9392.0
+passage.questions.8.answers.8.text:Skrivnostna in na videz zlonamerna postava s kapuco
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:9391.0
+passage.questions.8.answers.7.text:Skrivnostna figura s kapuco, ki ubije Sekija Hajimeja
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:9390.0
+passage.questions.8.answers.6.text:Torujeva banda Akai, ki je iz Juzovega srednješolskega življenja naredila živ pekel
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:9389.0
+passage.questions.8.answers.5.text:Sekijev morilec
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:9388.0
+passage.questions.8.answers.4.text:Seki
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:9387.0
+passage.questions.8.answers.3.text:Je skrivnostna postava s kapuco
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:9386.0
+passage.questions.8.answers.2.text:Nozomi
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:9385.0
+passage.questions.8.answers.10.text:Torujeva žena Akai
+passage.questions.8.answers.10.label:0,0
+passage.questions.8.answers.10.idx:9393.0
+passage.questions.8.answers.1.text:Številka 13 je delovodja na gradbišču, kjer delajo vsi trije moški
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:9384.0
+passage.questions.8.answers.0.text:Akai
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:9383.0
+passage.questions.7.question:Kako se je imenovala skrivnostna in na videz zlonamerna postava s kapuco?
+passage.questions.7.idx:1801.0
+passage.questions.7.answers.4.text:Številka tri
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:9382.0
+passage.questions.7.answers.3.text:Število trinajst
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:9381.0
+passage.questions.7.answers.2.text:Juzo
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:9380.0
+passage.questions.7.answers.1.text:Seki
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:9379.0
+passage.questions.7.answers.0.text:Številka 13
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:9378.0
+passage.questions.6.question:Kdo je nadzorni šef Juza Murasakija?
+passage.questions.6.idx:1800.0
+passage.questions.6.answers.4.text:Toru Akai
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:9377.0
+passage.questions.6.answers.3.text:Njegov nekdanji nasilnik iz srednje šole
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:9376.0
+passage.questions.6.answers.2.text:Nozomi
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:9375.0
+passage.questions.6.answers.1.text:Turo Akai
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:9374.0
+passage.questions.6.answers.0.text:Številka 13
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:9373.0
+passage.questions.5.question:Kdo je z Juzo tolpo naredil Juzovo srednješolsko življenje pekel?
+passage.questions.5.idx:1799.0
+passage.questions.5.answers.5.text:Šef
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:9372.0
+passage.questions.5.answers.4.text:Jozuov šef
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:9371.0
+passage.questions.5.answers.3.text:Toru Akai
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:9370.0
+passage.questions.5.answers.2.text:Seki
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:9369.0
+passage.questions.5.answers.1.text:Nozomi
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:9368.0
+passage.questions.5.answers.0.text:Akai
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:9367.0
+passage.questions.4.question:V kakšnih odnosih je Akaijeva žena Nozomi z Juzo?
+passage.questions.4.idx:1798.0
+passage.questions.4.answers.6.text:Stara punca
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:9366.0
+passage.questions.4.answers.5.text:Nozomi je njegova soseda in se poskuša z njim sprijazniti, tako da mu pokaže slike svojega moža in skrb za sina zaupa Juzu
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:9365.0
+passage.questions.4.answers.4.text:Sosed
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:9364.0
+passage.questions.4.answers.3.text:Njegov ljubimec
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:9363.0
+passage.questions.4.answers.2.text:Žena Juzovega šefa Toru Akai
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:9362.0
+passage.questions.4.answers.1.text:Sosed Juzo
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:9361.0
+passage.questions.4.answers.0.text:Žena kolega Sekija
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:9360.0
+passage.questions.3.question:Zakaj je bil Juzo odsoten med fotografiranjem v šolskem dnevu?
+passage.questions.3.idx:1797.0
+passage.questions.3.answers.6.text:V znanstveni sobi svoje šole so Akai in njegovi prijatelji Juzu metali kislino v obraz
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:9359.0
+passage.questions.3.answers.5.text:V obraz mu je vrgla kislino
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:9358.0
+passage.questions.3.answers.4.text:Bil je bolan
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:9357.0
+passage.questions.3.answers.3.text:Vanj so metali kislino
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:9356.0
+passage.questions.3.answers.2.text:Akaijeva tolpa mu je metala kislino v obraz
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:9355.0
+passage.questions.3.answers.1.text:Bil je prehlajen
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:9354.0
+passage.questions.3.answers.0.text:Bil je na počitnicah
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:9353.0
+passage.questions.2.question:Kaj povzroča Juzovo povratno informacijo?
+passage.questions.2.idx:1796.0
+passage.questions.2.answers.9.text:Fotografija predavanja s svojim prostorom, označenim z X
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:9352.0
+passage.questions.2.answers.8.text:Videti Akaijevega otroka
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:9351.0
+passage.questions.2.answers.7.text:Pogovor s Seki
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:9350.0
+passage.questions.2.answers.6.text:Pogled na njihovo fotografijo v srednješolskem razredu
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:9349.0
+passage.questions.2.answers.5.text:Srednješolska fotografija, ki jo je pokazal Nozomi
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:9348.0
+passage.questions.2.answers.4.text:Juzo ima nočno moro o tem, kako so ga ustrahovali v srednji šoli, kar mu povzroča hudo nazadovanje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:9347.0
+passage.questions.2.answers.3.text:Prijateljstvo in vse večje zaupanje Nozomi Akai
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:9346.0
+passage.questions.2.answers.2.text:Nozomi mu je pokazal fotografijo starega razreda
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9345.0
+passage.questions.2.answers.1.text:: Na eni razredni fotografiji je Juzoov prostor označen z X, da je odsoten. Juzo trpi hud trenutek, da razloži svojo odsotnost tisti dan
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:9344.0
+passage.questions.2.answers.0.text:Videz številke 13
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:9343.0
+passage.questions.18.question:Komu Juzo pokaže fotografijo svojega moža?
+passage.questions.18.idx:1812.0
+passage.questions.18.answers.4.text:Juzo je sosed zgoraj
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:9456.0
+passage.questions.18.answers.3.text:Seki
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:9455.0
+passage.questions.18.answers.2.text:Nozomi Akai
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:9454.0
+passage.questions.18.answers.1.text:Akaijeva žena, Nozomi
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:9453.0
+passage.questions.18.answers.0.text:Številka 13
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:9452.0
+passage.questions.17.question:Kdo je ubil Sekija in zakaj?
+passage.questions.17.idx:1811.0
+passage.questions.17.answers.9.text:Številka 13, ker je videl, kako je Seki poročal Juza Araiju in potem, ko je Seki ugotovil, da ga številka 13 opazuje
+passage.questions.17.answers.9.label:1.0
+passage.questions.17.answers.9.idx:9451.0
+passage.questions.17.answers.8.text:Jukija Sekija ubije, ko se spomni, kako ga je Seki v srednji šoli metal s kislino
+passage.questions.17.answers.8.label:0,0
+passage.questions.17.answers.8.idx:9450.0
+passage.questions.17.answers.7.text:Člani tolpe Akai na podlagi Akaijevih ukazov
+passage.questions.17.answers.7.label:0,0
+passage.questions.17.answers.7.idx:9449.0
+passage.questions.17.answers.6.text:Številka 13, ker je gledal Sekija, ki je poročal o Juzovem čudnem vedenju
+passage.questions.17.answers.6.label:1.0
+passage.questions.17.answers.6.idx:9448.0
+passage.questions.17.answers.5.text:Številka 13 ga je ubila, ker je Arai povedal o Juzovem čudnem vedenju
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:9447.0
+passage.questions.17.answers.4.text:Juzo, ker je Seki poročal o svojem nenavadnem vedenju
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:9446.0
+passage.questions.17.answers.3.text:Akai, ker smo prijatelji z Juzo
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:9445.0
+passage.questions.17.answers.2.text:Seki postane sumljiv glede Juzovega vse bolj čudnega vedenja in gre odvestiti Araija na delovišče, vendar ga Arai odpusti, ne da bi mu dal priložnost govoriti. Med tem incidentom Seki ne ve, da ga opazuje številka 13, a takoj, ko to stori, ga številka 13 ubije
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:9444.0
+passage.questions.17.answers.1.text:Nozomi za prijateljstvo z Juzo
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:9443.0
+passage.questions.17.answers.0.text:Juzo, ker je spiralno padel v psihološko temo
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:9442.0
+passage.questions.16.question:Kdo se poskuša z Juzo spoprijateljiti in ji zaradi zdravstvenih težav zaupati skrb za malčka.
+passage.questions.16.idx:1810.0
+passage.questions.16.answers.3.text:Seki
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:9441.0
+passage.questions.16.answers.2.text:Nozomi Akai
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:9440.0
+passage.questions.16.answers.1.text:Nozomi
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:9439.0
+passage.questions.16.answers.0.text:Številka 13
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:9438.0
+passage.questions.15.question:Katera figura se zdi Juzu med bojem njegovih čustev in kakšna je njegova vloga?
+passage.questions.15.idx:1809.0
+passage.questions.15.answers.5.text:To je številka 13 in ubija ljudi
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:9437.0
+passage.questions.15.answers.4.text:Slika s kapuco
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:9436.0
+passage.questions.15.answers.3.text:Številka 1
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:9435.0
+passage.questions.15.answers.2.text:Skrivnostna mačka
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:9434.0
+passage.questions.15.answers.1.text:Duh
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:9433.0
+passage.questions.15.answers.0.text:Številka 13
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:9432.0
+passage.questions.14.question:Kakšen je Sekijev odnos z Juzo?
+passage.questions.14.idx:1808.0
+passage.questions.14.answers.6.text:Nasilnik iz najstniških let
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:9431.0
+passage.questions.14.answers.5.text:Seki postane Juzov vzročni delovni prijatelj, kasneje pa mu poskuša pomagati tako, da Akaija obvesti, da se Juzo obnaša čudno
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:9430.0
+passage.questions.14.answers.4.text:Jozujev delovni kolega
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:9429.0
+passage.questions.14.answers.3.text:Juzov priložnostni prijatelj
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:9428.0
+passage.questions.14.answers.2.text:Lozujev otrok
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:9427.0
+passage.questions.14.answers.1.text:Jozujeva žena
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:9426.0
+passage.questions.14.answers.0.text:Njegov prijatelj
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:9425.0
+passage.questions.13.question:Kaj se imenuje številka 13?
+passage.questions.13.idx:1807.0
+passage.questions.13.answers.6.text:Kapuco, ki jo vidi Juzo
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:9424.0
+passage.questions.13.answers.5.text:Skrivnostna figura
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:9423.0
+passage.questions.13.answers.4.text:Seki
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:9422.0
+passage.questions.13.answers.3.text:Nozomijev otrok
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:9421.0
+passage.questions.13.answers.2.text:Skrivnostna figura s kapuco
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:9420.0
+passage.questions.13.answers.1.text:Figura s kapuco
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:9419.0
+passage.questions.13.answers.0.text:Turo Akai
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:9418.0
+passage.questions.12.question:Kdo Juzo prikazuje šolove fotografije moža?
+passage.questions.12.idx:1806.0
+passage.questions.12.answers.4.text:Juzo je sosed zgoraj
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:9417.0
+passage.questions.12.answers.3.text:Seki
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:9416.0
+passage.questions.12.answers.2.text:Nozomi Akai
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:9415.0
+passage.questions.12.answers.1.text:Nozomi
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:9414.0
+passage.questions.12.answers.0.text:Številka 13
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:9413.0
+passage.questions.11.question:Kakšna je nova zaposlitev Juza in ali bo njegov nadzornik šolski kolega?
+passage.questions.11.idx:1805.0
+passage.questions.11.answers.6.text:Slikar; Ne šolar
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:9412.0
+passage.questions.11.answers.5.text:Gradbeni delavec in ja
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:9411.0
+passage.questions.11.answers.4.text:Ne, on pa je gasilec
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:9410.0
+passage.questions.11.answers.3.text:Zdravnik; ne, ne šolski kolega
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:9409.0
+passage.questions.11.answers.2.text:Gradnja; Ja nekdanji sošolec
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:9408.0
+passage.questions.11.answers.1.text:Nova služba Juza je gradbeni delavec, Toru Akai, njegov nadzorni šef, pa mu je življenje v srednji šoli naredil pekel
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:9407.0
+passage.questions.11.answers.0.text:Delavec; Ja, sošolec
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:9406.0
+passage.questions.10.question:Je Juzo družaben in ali je vesel, da spozna kolege iz svoje nekdanje šole?
+passage.questions.10.idx:1804.0
+passage.questions.10.answers.6.text:Ja, on ima veliko ocvrtih; uživa v sodelovanju z nekdanjimi sošolci
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:9405.0
+passage.questions.10.answers.5.text:Ja z veseljem spozna nekdanje sošolce
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:9404.0
+passage.questions.10.answers.4.text:Ne, naklonjen je družbi in ni vesel sodelavcev iz svoje nekdanje šole, ker so mu v šoli naredili pekel, na primer so mu polnili kislino
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:9403.0
+passage.questions.10.answers.3.text:Da
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:9402.0
+passage.questions.10.answers.2.text:Ne
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:9401.0
+passage.questions.10.answers.1.text:Ne; ni zadovoljen z delovnimi ureditvami
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:9400.0
+passage.questions.10.answers.0.text:Ne; ni vesel
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:9399.0
+passage.questions.1.question:Kje se je Juzo združil z Akaijem in Sekijem?
+passage.questions.1.idx:1795.0
+passage.questions.1.answers.9.text:Juzo se ponovno sreča z Akaijem in Sekijem v baru na vogalu ulice, kjer je njegovo stanovanje
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:9342.0
+passage.questions.1.answers.8.text:Znova sta se združila pri novi gradbeni službi Juno
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:9341.0
+passage.questions.1.answers.7.text:V apartmajskem naselju Juzo
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:9340.0
+passage.questions.1.answers.6.text:Na delovnem gradbenem področju na novi zaposlitvi kot gradbeni delavec
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:9339.0
+passage.questions.1.answers.5.text:Pri delu gradnjo nadzira Akai
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:9338.0
+passage.questions.1.answers.4.text:Na delu
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:9337.0
+passage.questions.1.answers.3.text:V njihovi srednji šoli
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:9336.0
+passage.questions.1.answers.2.text:V novem stanovanju Juzo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:9335.0
+passage.questions.1.answers.1.text:Juzo se ponovno sreča z Akaijem in Sekijem na njegovem gradbišču, kjer ima novo službo
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:9334.0
+passage.questions.1.answers.0.text:V učilnici njihove šole
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9333.0
+passage.questions.0.question:Kakšen je odnos Toru Akai z Juzo Murasakijem?
+passage.questions.0.idx:1794
+passage.questions.0.answers.5.text:Nekdanji nasilnik
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:9332.0
+passage.questions.0.answers.4.text:Juzo šef
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:9331.0
+passage.questions.0.answers.3.text:Najboljši prijatelj Juzo
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:9330.0
+passage.questions.0.answers.2.text:Toru Akai je obiskoval isto srednjo šolo kot Juzo Murasaki. Akai je ustrahoval Juzo in je zdaj njegov šef in sosed
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:9329.0
+passage.questions.0.answers.1.text:Zlonamerna postava s kapuco
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:9328
+passage.questions.0.answers.0.text:Njegov brat
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:9327
+idx:161

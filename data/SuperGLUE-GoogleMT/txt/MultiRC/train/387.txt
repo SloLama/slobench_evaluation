@@ -1,0 +1,103 @@
+version:1.1
+passage.text:Dejstvo: Nisem bil mrtev. Ko sem to spoznal, sem zapustil svoje prostore. Predloženi luč me je obvestil, kdaj in kje potekajo uradni obroki, vendar se nisem potrudil potrditi vabil. Nekako se mi ni zdelo pomembno, glede na to, da sem se še vedno kotal zaradi eksplozije, smrti mojih članov posadke in reševanja. Slišal sem, da obstajajo številne stopnje žalosti in šoka; Mislim, da sem se potrudil skozi njih. Hrano so mi dostavili v bivalne prostore. Sprva nisem mogel ugotoviti, zakaj - nisem zahteval nobenega pošiljanja. Potem sem ugotovil, da je nekdo moral opaziti, da nisem odšel, in bil dovolj prijazen, da mi je poslal hrano. Priložena steklenica vina je bila lep pridih. Verjetno sem ga tudi zaužil, ker so bili pozneje krožniki in steklenica prazni. Veliko časa sem preživel ležeč na hrbtu na postelji, strmeč navzgor v majhne vrezane vrtinčke v stropu ali spuščen v staromodnem naslonjaču in zrl skozi okna v zvezde. Veliko sem strmel in se nisem premikal. Človek, ali je bilo dobro opraviti s to fazo? Čas je bil, da ugotovimo, kako izgleda pekel.
+passage.questions.7.question:Kaj je oseba storila, da so se počutili dobro?
+passage.questions.7.idx:4432.0
+passage.questions.7.answers.2.text:Njegova hrana
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:23440.0
+passage.questions.7.answers.1.text:Faza žalosti in šoka
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23439.0
+passage.questions.7.answers.0.text:Žalost
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:23438.0
+passage.questions.6.question:Kaj točno je oseba zaužila?
+passage.questions.6.idx:4431.0
+passage.questions.6.answers.4.text:Sir
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:23437.0
+passage.questions.6.answers.3.text:Pivo
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:23436.0
+passage.questions.6.answers.2.text:Steklenica vina in hrana
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23435.0
+passage.questions.6.answers.1.text:Hrana
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:23434.0
+passage.questions.6.answers.0.text:Vino
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:23433.0
+passage.questions.5.question:Kdaj je čas, da ugotovimo, ali je užival hrano in vino?
+passage.questions.5.idx:4430.0
+passage.questions.5.answers.2.text:Res je užival hrano in vino
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:23432.0
+passage.questions.5.answers.1.text:Čas je, da ugotovimo, kako je izgledal hudič. Da, zaužil je oboje
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:23431.0
+passage.questions.5.answers.0.text:Hrane in vina ni užival
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:23430.0
+passage.questions.4.question:Kaj strmi, ali se je takrat premikal?
+passage.questions.4.idx:4429.0
+passage.questions.4.answers.2.text:Zazrt je v majhne vrezane vrtince v stropu ali se je zleknil v staromodni naslanjač in zrl skozi okna v zvezde. Ne, ne premika se
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:23429.0
+passage.questions.4.answers.1.text:Vino
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:23428.0
+passage.questions.4.answers.0.text:Bil je bolan
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:23427.0
+passage.questions.3.question:Kaj mu je ostalo, potem ko je ugotovil, da ni mrtev, in kako ve o sestankih uradnikov?
+passage.questions.3.idx:4428.0
+passage.questions.3.answers.2.text:Zaslon luči
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:23426.0
+passage.questions.3.answers.1.text:Zapustil je četrt in ve, kako se uradniki srečujejo z lučmi
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:23425.0
+passage.questions.3.answers.0.text:Zapisek
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:23424.0
+passage.questions.2.question:Zakaj je bil žalost in šok, kam je bila dostavljena hrana?
+passage.questions.2.idx:4427.0
+passage.questions.2.answers.2.text:Zdi se mu, da v eksploziji sodeluje s svojimi mrtvimi člani posadke in hrano, dostavljeno v četrti
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:23423.0
+passage.questions.2.answers.1.text:Smrt njegovih članov posadke
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:23422.0
+passage.questions.2.answers.0.text:Izgubil je ženo
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:23421.0
+passage.questions.1.question:Česa človek ni mogel ugotoviti?
+passage.questions.1.idx:4426.0
+passage.questions.1.answers.2.text:Zakaj je bil žalosten
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23420.0
+passage.questions.1.answers.1.text:Zakaj je bila poslana hrana
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:23419.0
+passage.questions.1.answers.0.text:Zakaj je bila hrana dostavljena v njihove prostore
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:23418.0
+passage.questions.0.question:Je prosil za hrano in kaj je še s hrano?
+passage.questions.0.idx:4425
+passage.questions.0.answers.4.text:Steklenica vina
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:23417.0
+passage.questions.0.answers.3.text:Ne, ni zahteval. Bilo je vino, ki ga je dobil s hrano
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:23416.0
+passage.questions.0.answers.2.text:Hrane ni zahteval
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23415.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:23414
+passage.questions.0.answers.0.text:Steklenica piva
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23413
+idx:387

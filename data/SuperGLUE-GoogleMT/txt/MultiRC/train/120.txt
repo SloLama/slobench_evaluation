@@ -1,0 +1,130 @@
+version:1.1
+passage.text:Podporniki služb za pravno pomoč revnim si prizadevajo za ukrep, ki bi povečal pristojbine za vložitev sodnih zahtevkov v Kentuckyju, da bi zbrali denar za program, ki se sooča z močnim krčenjem sredstev. Predlagani zakon, ki ga je sponzoriral poslanec Charles Geveden, D-Wickliffe, bi podvojil del takse, ki gre za pravno pomoč - na okrožnem sodišču na 10 USD s 5 USD in na okrožnem sodišču na 20 USD z 10 USD. Trenutna pristojbina Kentuckyja za vložitev tožbe na okrožnem sodišču znaša 50,50 USD, na okrožnem sodišču pa 108 USD. Povečanje bi še vedno pustilo stroške prijavnine v Kentuckyju pod stroški okoliških držav in zbralo približno 1,3 milijona dolarjev na leto - skoraj dovolj, da bi nadomestilo izgubo pravne pomoči iz zveznih in drugih virov, je dejal Jamie Hamon, izvršni direktor Odbora za dostop do pravnega varstva Fundacija, državno središče za pravo revščine v Lexingtonu. Geveden je dejal, da se zdi, da je njegov ukrep edini potencialni vir denarja za program, ki je prisiljen odpustiti delavce in zapreti pisarne po državi. Geveden je dejal, da je zaskrbljen, ker se v zadnjih letih zvezno financiranje ni povečalo, države s povečano revščino pa jemljejo večji delež denarja. &quot;Če denarja ne najdete nekje, se bodo pravne storitve ljudem v stiski zmanjšale ali izginile,&quot; je dejal. Hamon je dejal, da je predlagani zakon privabil številne sofinancere, podporniki pravne pomoči pa upajo, da ga bodo sprejeli na prihodnjem zakonodajnem zasedanju. Hamon je dejala, da ve, da zvišanje pristojbin ni priljubljeno pri zakonodajalcih, vendar upa, da se zavedajo krize, s katero se sooča pravna pomoč. &quot;Veliko revnih ljudi ne bo dobilo storitev,&quot; je dejala. Ukrep je potrdil Odvetniška zbornica Kentucky. Svet guvernerjev združenja je prejšnji mesec soglasno podprl predlog zakona, je dejal predsednik KBA Stephen Catron, pravnik iz družbe Bowling Green. Pravna pomoč &quot;je bila božja dar za veliko število ljudi v tej državi,&quot; je dejal Catron. &quot;Enostavno moramo najti način, da te storitve ponudimo javnosti.&quot; Larry York, izvršni direktor Appalachian Regional Defense Fund, ki zagotavlja pravne storitve v 37 okrožjih vzhodnega Kentuckyja in je član uprave KBA, je dejal, da upa, da bo ukrep je odobren. &quot;To bi resnično izravnalo trenutne reze,&quot; je dejal.
+passage.questions.7.question:Koliko bi se po novem ukrepu povečal delež pravne pomoči?
+passage.questions.7.idx:1400.0
+passage.questions.7.answers.5.text:Podvojilo bi se
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:7349.0
+passage.questions.7.answers.4.text:10 dolarjev za okrožje 20 dolarjev za krog
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:7348.0
+passage.questions.7.answers.3.text:5 USD za okrožje 10 USD za krog
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:7347.0
+passage.questions.7.answers.2.text:Povečala bi se na 10 USD
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:7346.0
+passage.questions.7.answers.1.text:1,3 milijona dolarjev
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:7345.0
+passage.questions.7.answers.0.text:Povečala bi se na 25 dolarjev
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:7344.0
+passage.questions.6.question:Kdo je rekel, da bodo pravne službe izginile, če se financiranje ne bo povečalo?
+passage.questions.6.idx:1399.0
+passage.questions.6.answers.5.text:Hamon
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:7343.0
+passage.questions.6.answers.4.text:Gevden
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:7342.0
+passage.questions.6.answers.3.text:Jamie Hamon
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:7341.0
+passage.questions.6.answers.2.text:Geveden
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:7340.0
+passage.questions.6.answers.1.text:Stephen Catron
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:7339.0
+passage.questions.6.answers.0.text:Rep. Charles Geveden
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:7338.0
+passage.questions.5.question:Predlagani zakon, ki ga je sponzoriral predstavnik Charlesa Geveden, D-Wickliffe, bi v kateri državi povečal pristojbine za vložitev sodnih zahtevkov?
+passage.questions.5.idx:1398.0
+passage.questions.5.answers.2.text:Kentucky
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:7337.0
+passage.questions.5.answers.1.text:Teksas
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:7336.0
+passage.questions.5.answers.0.text:Ni pisalo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:7335.0
+passage.questions.4.question:Kdo je sponzoriral račun za zvišanje pristojbin za vložitev sodne prijave v Kentuckyju?
+passage.questions.4.idx:1397.0
+passage.questions.4.answers.4.text:Jamie Hamon,
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:7334.0
+passage.questions.4.answers.3.text:Stephen Catron
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:7333.0
+passage.questions.4.answers.2.text:Rep. Charles Geveden, D-Wickliffe
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:7332.0
+passage.questions.4.answers.1.text:Rep. Charles Geveden
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:7331.0
+passage.questions.4.answers.0.text:Charles Geveden
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:7330.0
+passage.questions.3.question:Katera organizacija podpira ukrep za zvišanje pristojbin za pravno pomoč?
+passage.questions.3.idx:1396.0
+passage.questions.3.answers.4.text:Apalaški regionalni obrambni sklad
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:7329.0
+passage.questions.3.answers.3.text:Odvetniška zbornica Kentucy
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:7328.0
+passage.questions.3.answers.2.text:Odvetniška zbornica Kentucky
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:7327.0
+passage.questions.3.answers.1.text:Podporniki pravne pomoči
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:7326.0
+passage.questions.3.answers.0.text:KBA
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:7325.0
+passage.questions.2.question:Kdo je dal naslednjo izjavo: &quot;Veliko revnih ljudi ne bo dobilo oskrbe.&quot;
+passage.questions.2.idx:1395.0
+passage.questions.2.answers.4.text:Hamon
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:7324.0
+passage.questions.2.answers.3.text:Jamie Hamon,
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:7323.0
+passage.questions.2.answers.2.text:Geveden
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:7322.0
+passage.questions.2.answers.1.text:Stephen Catron
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7321.0
+passage.questions.2.answers.0.text:Charles Geveden
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:7320.0
+passage.questions.1.question:Kaj je predsednik KBA Stephen Catron dejal, da je bila pravna pomoč mnogim ljudem v državi?
+passage.questions.1.idx:1394.0
+passage.questions.1.answers.2.text:Pravne storitve ljudem v stiski
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:7319.0
+passage.questions.1.answers.1.text:Bil je božji dar
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:7318.0
+passage.questions.1.answers.0.text:Je bilo nujno
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:7317.0
+passage.questions.0.question:Kdo je dal naslednjo pripombo: &quot;Če denarja ne najdete nekje, se bodo pravne storitve ljudem v stiski zmanjšale ali izginile.&quot;
+passage.questions.0.idx:1393
+passage.questions.0.answers.3.text:Catron
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:7316.0
+passage.questions.0.answers.2.text:Rep. Charles Geveden
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7315.0
+passage.questions.0.answers.1.text:Geveden
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:7314
+passage.questions.0.answers.0.text:Hamon
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7313
+idx:120

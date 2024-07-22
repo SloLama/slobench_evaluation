@@ -1,0 +1,218 @@
+version:1.1
+passage.text:Še naprej je ležal na svojem mestu in še vedno težko dihal. Poskušal sem biti miren. Nato je z vzdihom rekel: &quot;Potrebujem določen kamen, ki sem ga nekoč že imel. To bi mi omogočilo, da zapustim to posteljo, kljub trenutni bolezni. Moja težava je, da ni bila narejena na tem področju, ampak človek in samo človek lahko to reši. Prodajalec zelišč vam bo povedal, kje ga lahko najdete. Če bi mi prinesel ta kamen, bi vam povedal, kaj lahko. &quot; &quot;Seveda ti bomo prinesli kamen,&quot; mu je zagotovila Nepthys. &quot;Imate našo zahvalo.&quot; Zunaj je stvar pri vozičku z zelišči prikimala, ko smo omenili kamen. Povedal je Nepthys ime ženske, ki je živela v določeni ulici, in smo se odpravili. Ko smo prispeli na ulico, sem pričakoval nekakšen tempelj ali vrsto starin ali vsaj slabega trgovca z relikvijami na črnem trgu. Namesto tega je bilo videti, kot da smo v okrožju rdečih luči: ženske, ki so verjetno želele več kot naš denar, so nas gledale z uličic. Nepthys me ni bilo treba opozoriti, naj ne govorim z njimi. Pripeljal nas je do vrat stavbe kot kratka pagoda, nad katero je visel znak, na katerem je videl obraz z dvignjenimi rokami, kot svetnik pod G-jevo svetlobo, in vklenjenimi. V notranjosti je bila vhodna soba obesena s svetlo svilo in razmetana z žametnimi blazinami. Jadra nespodobne oranžne in zelene, ki je žalila pomlad, so visela ogrnjena po rdečih, ki so bila sicer lahko čutna drugje, toda tu so bila žaljiva. Velika ženska, podobno okrašena, se je hitro pripeljala do nas. &quot;Dober večer, gospodje,&quot; je rekla. &quot;Vas lahko povabim na skodelico čaja?&quot; &quot;Ne, hvala,&quot; je rekla Nepthys, &quot;obžalujemo, da ne moremo sprejeti vaše prijazne ponudbe. Ali ste lastnik te trgovine?&quot; &quot;Da,&quot; je odgovorila ženska. &quot;Sem gospa Entera, ki vam stoji na uslugo.
+passage.questions.9.question:Kdo je lastnik trgovine?
+passage.questions.9.idx:2503.0
+passage.questions.9.answers.4.text:Velika ženska
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:13237.0
+passage.questions.9.answers.3.text:Oseba z zeliščnimi vozički
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:13236.0
+passage.questions.9.answers.2.text:Ženske iz Ailies
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:13235.0
+passage.questions.9.answers.1.text:Imetnica je Madame Entera
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:13234.0
+passage.questions.9.answers.0.text:Madame Entera
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:13233.0
+passage.questions.8.question:Kakšne barve so bile zavese na stavbi kratke pagode?
+passage.questions.8.idx:2502.0
+passage.questions.8.answers.3.text:Zelena in oranžna sta bila prekrito z rdečo
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:13232.0
+passage.questions.8.answers.2.text:Oranžna in zelena
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:13231.0
+passage.questions.8.answers.1.text:Barve so žalile pomlad
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:13230.0
+passage.questions.8.answers.0.text:Tu so bile žaljive barve
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:13229.0
+passage.questions.7.question:Kateri predmet je bil potreben, da je oseba vstala iz postelje?
+passage.questions.7.idx:2501.0
+passage.questions.7.answers.2.text:Velika ženska
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:13228.0
+passage.questions.7.answers.1.text:Zeliščni voziček
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:13227.0
+passage.questions.7.answers.0.text:Kamen
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:13226.0
+passage.questions.6.question:Kdo je ženska, o kateri je govoril prodajalec zelišč?
+passage.questions.6.idx:2500.0
+passage.questions.6.answers.4.text:Velika ženska
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:13225.0
+passage.questions.6.answers.3.text:Ženska sprehajalka
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:13224.0
+passage.questions.6.answers.2.text:Velika ženska Madame Entera
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:13223.0
+passage.questions.6.answers.1.text:Imetnik trgovine
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:13222.0
+passage.questions.6.answers.0.text:Madame Entera
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:13221.0
+passage.questions.5.question:Kdo je ta velika ženska?
+passage.questions.5.idx:2499.0
+passage.questions.5.answers.4.text:Imetnik hiše Bagota
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:13220.0
+passage.questions.5.answers.3.text:Nephthys
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:13219.0
+passage.questions.5.answers.2.text:Ženska je Madame Entera
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:13218.0
+passage.questions.5.answers.1.text:Prodajalec vozičkov z zelišči
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:13217.0
+passage.questions.5.answers.0.text:Madame Entera
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:13216.0
+passage.questions.4.question:Kako se imenuje velika ženska, ki je plavala po njih?
+passage.questions.4.idx:2498.0
+passage.questions.4.answers.3.text:Velika ženska je bila Madame Entera
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:13215.0
+passage.questions.4.answers.2.text:Vender Cart Vender je gospa Enrera
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:13214.0
+passage.questions.4.answers.1.text:Nypthys
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:13213.0
+passage.questions.4.answers.0.text:Madame Entera
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:13212.0
+passage.questions.3.question:Kaj je bilo znotraj stavbe podobno kratki pagodi?
+passage.questions.3.idx:2497.0
+passage.questions.3.answers.4.text:Jadra, ki bi bila lahko čutna, toda tu so bila žaljiva
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:13211.0
+passage.questions.3.answers.3.text:Jadra oranžne in zelene draped čez rdečo
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:13210.0
+passage.questions.3.answers.2.text:Luči in zvoki zabave
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:13209.0
+passage.questions.3.answers.1.text:Zastori, ki bi lahko žalili ljudi
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13208.0
+passage.questions.3.answers.0.text:Vhodna soba s svetlo svilo in raztresena z žametnimi blazinami
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:13207.0
+passage.questions.2.question:Kaj lahko stori samo človek?
+passage.questions.2.idx:2496.0
+passage.questions.2.answers.3.text:Velika lastnica ženske
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13206.0
+passage.questions.2.answers.2.text:Praznuje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:13205.0
+passage.questions.2.answers.1.text:Zeliščni voziček
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:13204.0
+passage.questions.2.answers.0.text:Kamen
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13203.0
+passage.questions.12.question:Kdo lahko ravna s kamnom?
+passage.questions.12.idx:2506.0
+passage.questions.12.answers.5.text:Človek
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:13254.0
+passage.questions.12.answers.4.text:Madame Enterra
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:13253.0
+passage.questions.12.answers.3.text:Droga
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:13252.0
+passage.questions.12.answers.2.text:Samo človek zmore
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:13251.0
+passage.questions.12.answers.1.text:Zeliščni voziček
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:13250.0
+passage.questions.12.answers.0.text:Vsak lahko to reši
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:13249.0
+passage.questions.11.question:Kako je bila oblečena gospa Entera?
+passage.questions.11.idx:2505.0
+passage.questions.11.answers.6.text:Čutno
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:13248.0
+passage.questions.11.answers.5.text:V barvah, ki bi žalile pomlad
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:13247.0
+passage.questions.11.answers.4.text:Podobno kot nespodobna oranžna in zelena jadra v vhodni sobi
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:13246.0
+passage.questions.11.answers.3.text:Verjel
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:13245.0
+passage.questions.11.answers.2.text:V barvah, ki bi lahko izgledale čutno
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:13244.0
+passage.questions.11.answers.1.text:V oranžni, zeleni draped čez rdeče
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:13243.0
+passage.questions.11.answers.0.text:Kot ladja v polni prodaji
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:13242.0
+passage.questions.10.question:Kaj potrebuje zvočnik, da zapusti posteljo?
+passage.questions.10.idx:2504.0
+passage.questions.10.answers.3.text:Zdravilo za njegovo bolezen
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:13241.0
+passage.questions.10.answers.2.text:Določen kamen
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:13240.0
+passage.questions.10.answers.1.text:Lepa ženska
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:13239.0
+passage.questions.10.answers.0.text:Treba je določiti, da pride iz postelje
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:13238.0
+passage.questions.1.question:Kdo je gospa Entera?
+passage.questions.1.idx:2495.0
+passage.questions.1.answers.5.text:Ženska v ulici
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:13202.0
+passage.questions.1.answers.4.text:Lastnik trgovine
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:13201.0
+passage.questions.1.answers.3.text:Prodajalec vozovnic Herb
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13200.0
+passage.questions.1.answers.2.text:Velika ženska
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:13199.0
+passage.questions.1.answers.1.text:Plenilec
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13198.0
+passage.questions.1.answers.0.text:Imetnik stavbe Bagota Looking
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13197.0
+passage.questions.0.question:Kdo mi lahko pove, kje najdem kamen?
+passage.questions.0.idx:2494
+passage.questions.0.answers.4.text:Prodajalec vozičkov z zelišči
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:13196.0
+passage.questions.0.answers.3.text:Prodajalec zelišč
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:13195.0
+passage.questions.0.answers.2.text:Človeška neftida
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13194.0
+passage.questions.0.answers.1.text:Ulični sprehajalci v uličici
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13193
+passage.questions.0.answers.0.text:Madame Entera
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13192
+idx:223

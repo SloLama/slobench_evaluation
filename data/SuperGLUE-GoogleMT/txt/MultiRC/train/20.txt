@@ -1,0 +1,45 @@
+version:1.1
+passage.text:Kalifornija močno zaostaja za primerljivimi državami pri financiranju pravnih storitev za revne, kar je tako grozno stanje, da se obravnava le 28 odstotkov civilno-pravnih potreb revnih in prebivalcev z nižjimi dohodki. Po podatkih nove študije Kalifornijske komisije za dostop do pravnega varstva je bilo ugotovljeno, da 2 milijona ljudi brez dostopa do pravosodnega sistema, ki je tudi ugotovila, da kljub povečani porabi ostaja vrzel med potrebami in storitvami velika. &quot;Kot praktična zadeva v večini primerov ni dostopa do pravnega varstva brez dostopa do pravne pomoči,&quot; je dejal Jack Londen, nekdanji predsednik komisije in partner Morrison &amp; Foerster iz San Francisca. &quot;Če nam je všeč ali ne, včasih najemodajalci nezakonito izselijo najemnike, invalidne otroke ne dobijo ustrezne oskrbe, veterani ne dobijo zajamčenih storitev, starejši pa potrebujejo pravno pomoč, da bi se izognili zlorabi negovalca.&quot; V Kaliforniji je največ ljudi, ki živijo v revščini v državi - 6,4 milijona, med njimi skoraj vsak peti otrok. Polovica naraščanja revščine v devetdesetih letih, ko je število revnih poskočilo za 30 odstotkov, se je zgodila v Kaliforniji, skoraj 25 odstotkov povečanja revščine pa se je zgodilo samo v okrožju Los Angeles. Trpijo tudi tisti z zaposlitvijo: 26 odstotkov kalifornijskih delavcev zasluži plače na ravni revščine. Poročilo komisije &quot;Pot do enake pravičnosti: petletno poročilo o statusu dostopa do pravnega varstva v Kaliforniji&quot; je preučilo, kako so se v zadnjih petih letih spremenile pravne potrebe revnih v državi, pa tudi pomanjkljivosti pravosodja sistem in izboljšave v tem obdobju. Kljub povečanju državnega financiranja za zadovoljevanje pravnih potreb revnih, nizke obrestne mere (ki so zmanjšale sklad IOLTA), visoka brezposelnost in sedanji gospodarski upad ogrožajo kakršne koli koristi.
+passage.questions.2.question:Kdo je dal naslednjo pripombo: &quot;Všeč nam je ali ne, najemodajalci včasih nezakonito izselijo najemnike, invalidne otroke ne dobijo ustrezne oskrbe, veterani ne dobijo zajamčenih storitev, starejši pa potrebujejo pravno pomoč, da bi se izognili zlorabi skrbnik. &quot;
+passage.questions.2.idx:247.0
+passage.questions.2.answers.4.text:Gozdar
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1374.0
+passage.questions.2.answers.3.text:Morrison &amp; Foerster
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1373.0
+passage.questions.2.answers.2.text:Jack Londen
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:1372.0
+passage.questions.2.answers.1.text:Morreston
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:1371.0
+passage.questions.2.answers.0.text:Sodnik Munez
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1370.0
+passage.questions.1.question:Visoka brezposelnost in sedanji gospodarski upad sta v kateri državi ogrozila kakršen koli dobiček?
+passage.questions.1.idx:246.0
+passage.questions.1.answers.3.text:Virginia
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:1369.0
+passage.questions.1.answers.2.text:Florida
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1368.0
+passage.questions.1.answers.1.text:Država New York
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:1367.0
+passage.questions.1.answers.0.text:Polovica narodov
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:1366.0
+passage.questions.0.question:Državno financiranje se je povečalo, da bi zadostili pravnim potrebam revnih v kateri državi?
+passage.questions.0.idx:245
+passage.questions.0.answers.2.text:Virginia
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1365.0
+passage.questions.0.answers.1.text:Florida
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1364
+passage.questions.0.answers.0.text:Država New York
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1363
+idx:20

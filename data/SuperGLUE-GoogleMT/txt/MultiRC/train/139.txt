@@ -1,0 +1,72 @@
+version:1.1
+passage.text:Vstopite v Shogune: japonski strogi, brezobzirni, a državniški novi vladar Yoritomo Minamoto je ustanovil svojo vlado v Kamakuri (tik južno od modernega Tokia), daleč stran od &quot;mehčanja&quot; vpliva dvornega življenja, ki je bilo razveljavitev njegovega predhodnika. , Kiyomori. Minamoto je prvi od državnih vladarjev, ki je prevzel naziv sei-i tai-shogun (&quot;veliki general, ki si je podredil barbare&quot;), razširil in utrdil svojo moč, tako da je nekaterim poraženim Tairam zasegel dežele in jih prerazporedil med svoje samurajske vazale. Minamoto je umrl leta 1199, fevdalna struktura pa je nedotaknjena prešla pod skrbništvo družine njegove vdove Hojo, ki se je zadovoljila, da bo igrala regenta za figurasta šoguna, podobno kot Fujiwara s cesarjem. Fikcija japonske cesarske moči je postala neskončno razširljiva. Cesar v Kjotu - ki ga je na dvoru še vedno zaupal regent Fujiwara - je legitimiral Minamota, ki je bil tudi sam vojaški diktator, ki ga je nadzoroval regent Hojo. V državi, kjer sta bila oblika in vsebina neločljivo povezani, sta v politiki šteli dve stvari: simbolna avtoriteta in resnična moč. Nobeno ne bi moglo obstajati brez drugega. Preprečena invazija Mongolov leta 1274 je oslabila režim Kamakura. Boji niso prinesli nobenega običajnega vojnega plena, ki so ga provincialni poveljniki in samuraji pričakovali kot plačilo. In zakladnica je bila prazna, ko so potres, lakota in kuga hromili gospodarstvo. Budistični samostani so s svojo zasebno vojsko podpirali cesarske ambicije po vrnitvi oblasti v Kjoto. Najhuje pa je, da so si bojevniki Kamakure, ki so se zamerili, kako jih je sodišče v Kjotu označevalo za &quot;vzhodne barbare&quot;, prizadevali za izpopolnitev v uničujočem okusu za razkošje: ekstravagantne pojedine, bogate noše in bogati domovi. Kamakura je propadala.
+passage.questions.2.question:Kaj so vzhodni barbari?
+passage.questions.2.idx:1595.0
+passage.questions.2.answers.5.text:Bojevniki z vzhoda
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:8290.0
+passage.questions.2.answers.4.text:Taira
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:8289.0
+passage.questions.2.answers.3.text:Kamakura bojevniki
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:8288.0
+passage.questions.2.answers.2.text:Mongoli
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8287.0
+passage.questions.2.answers.1.text:Budistični samostani
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8286.0
+passage.questions.2.answers.0.text:So barbari, ki imajo poguben okus po razkošju. Z ekstravagantnimi pojedinami, bogatimi kostumi in razkošnimi domovi
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8285.0
+passage.questions.1.question:Kako je propadlo gospodarstvo?
+passage.questions.1.idx:1594.0
+passage.questions.1.answers.9.text:Mongolska invazija leta 1274
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:8284.0
+passage.questions.1.answers.8.text:Učinki potresa, lakote in kuge
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:8283.0
+passage.questions.1.answers.7.text:Lakota
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:8282.0
+passage.questions.1.answers.6.text:Upor samurajskih vazalov
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:8281.0
+passage.questions.1.answers.5.text:Depresija
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:8280.0
+passage.questions.1.answers.4.text:Potres
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:8279.0
+passage.questions.1.answers.3.text:Potres, lakota in kuga
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:8278.0
+passage.questions.1.answers.2.text:Kuga
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:8277.0
+passage.questions.1.answers.1.text:Boji niso prinesli nobenega običajnega vojnega plena, ki so ga provincialni poveljniki in samuraji pričakovali kot plačilo. Zakladnica je bila prazna, potem ko so potres, lakota in kuga povzročili, da je bilo gospodarstvo oslabljeno
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8276.0
+passage.questions.1.answers.0.text:Vojna
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8275.0
+passage.questions.0.question:Kako je Minamoto razširil svojo moč?
+passage.questions.0.idx:1593
+passage.questions.0.answers.4.text:S pomočjo zasebnih budističnih samostanskih vojsk
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:8274.0
+passage.questions.0.answers.3.text:Z ustanovitvijo vlade v Kamakuri
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:8273.0
+passage.questions.0.answers.2.text:Z napadom na druga ozemlja
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8272.0
+passage.questions.0.answers.1.text:S tem, da je nekaterim poraženim Tairi zasegel dežele in jih prerazporedil svojim samurajskim vazalom
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8271
+passage.questions.0.answers.0.text:Blažilni vpliv sodnega življenja
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8270
+idx:139

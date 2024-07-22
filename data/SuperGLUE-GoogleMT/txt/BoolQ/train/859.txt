@@ -1,0 +1,4 @@
+idx:859
+label:True
+passage:Deterministični končni avtomat - slika prikazuje deterministični končni avtomat z uporabo diagrama stanja. V avtomatu obstajajo tri stanja: S, S in S (grafično označene s krogi). Avtomat za vhod sprejme končno zaporedje 0s in 1s. Za vsako stanje obstaja puščica za prehod, ki vodi v naslednje stanje tako za 0 kot za 1. Po branju simbola DFA preskoči iz enega stanja v drugo tako, da sledi puščici prehoda. Če je na primer avtomat trenutno v stanju S in je trenutni vhodni simbol 1, potem deterministično preskoči v stanje S. DFA ima začetno stanje (grafično označeno s puščico, ki prihaja od nikoder), kjer se začnejo izračuni, in nabor sprejemnih stanj (grafično označenih z dvojnim krogom), ki pomagajo določiti, kdaj je izračun uspešen.
+question:ali ima lahko DFA več kot eno končno stanje

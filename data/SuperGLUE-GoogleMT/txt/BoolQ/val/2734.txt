@@ -1,0 +1,4 @@
+idx:2734
+label:True
+passage:Konstruiranje navodil - Konstruiranje navodil je tehnika za izvajanje vzporednosti na ravni navodil znotraj enega procesorja. Pipeliniranje poskuša obdržati vsak del procesorja zasedenega z nekaterimi navodili z delitvijo dohodnih navodil v vrsto zaporednih korakov (istoimenski »cevovod«), ki jih izvajajo različne procesorske enote z vzporedno obdelanimi različnimi deli navodil. Omogoča hitrejši pretok CPU, kot bi sicer bil mogoč pri dani taktni hitrosti, lahko pa poveča zakasnitev zaradi dodanih dodatnih stroškov samega procesa cevovoda.
+question:cevovod lahko pomaga pri zakasnitvi ene naloge

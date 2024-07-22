@@ -1,0 +1,364 @@
+version:1.1
+passage.text:Charlie Y. Reader je 35-letni gledališki agent v New Yorku, ki živi na videz idilično življenje kot samski. Številne ženske (med njimi Poppy, Helen in Jessica prihajajo in odhajajo, mu čistijo in kuhajo. Charliejev najboljši prijatelj po vrtcu, Joe McCall, ki ima ženo po imenu Ethel in otroke v Indianapolisu, pride v New York zaradi bivanja v Charliejevem stanovanju, češ da vznemirjenje ni več v njegovem 11-letnem zakonu in da želi zapustiti ženo.Joe zavida in je presenečen nad Charliejevo parado deklet, medtem ko Charlie izpoveduje občudovanje Joejevega zakonskega življenja Na avdiciji Charlie sreča pevko-igralko Julie Gillis. Življenje ima načrtovano po natančnem urniku, ki je odločena, da se bo poročila in se upokojila od vzgoje otrok do 22. leta. Čeprav sprva odvrača Charlieja z napredovanjem ga vidi kot idealnega moškega za svoje načrte. Julie zahteva, da se Charlie neha več pojavljati pri drugih ženskah. Charlie se balks, vendar se začne zaljubljati vanjo. Joe začne delati družbo s Sylvio Crewes, prefinjeno klasično glasbenico an d tipično zanemarjen Charliejev ljubimec. Sylvia se bliža 33 letom in si želi zakonske zveze tako kot mlajša Julie. Nekega dne Charlie, ki ga moti Julie in je morda ljubosumen na Joejeve pozornosti, razkrije predlog za poroko s Sylvio. Navdušena je, ko je zjutraj po njuni zaroki odkrila, da je predlagal tudi Julie. Joe izpove svojo ljubezen Silviji in jo prosi, naj se poroči z njim.
+passage.questions.9.question:Kakšna je Charliejeva vloga na avdiciji, kjer sreča Julie Gillis?
+passage.questions.9.idx:292.0
+passage.questions.9.answers.5.text:Gledališki agent
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:1579.0
+passage.questions.9.answers.4.text:Agent
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:1578.0
+passage.questions.9.answers.3.text:Gledališki agent
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1577.0
+passage.questions.9.answers.2.text:Igralec
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1576.0
+passage.questions.9.answers.1.text:Direktor
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1575.0
+passage.questions.9.answers.0.text:Glavna oseba
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1574.0
+passage.questions.8.question:Zakaj Joe začne videti Silvijo?
+passage.questions.8.idx:291.0
+passage.questions.8.answers.4.text:Iskal je dekle
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:1573.0
+passage.questions.8.answers.3.text:Charlie jo ignorira
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1572.0
+passage.questions.8.answers.2.text:Trdi, da vznemirjenja ni več iz njegovega 11-letnega zakona in da želi zapustiti ženo
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:1571.0
+passage.questions.8.answers.1.text:Charlieja želi narediti ljubosumnega
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1570.0
+passage.questions.8.answers.0.text:On ji je delal družbo
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:1569.0
+passage.questions.7.question:Koliko približno je Charlie starejši od Silvije?
+passage.questions.7.idx:290.0
+passage.questions.7.answers.5.text:4 leta
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:1568.0
+passage.questions.7.answers.4.text:Dve leti
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:1567.0
+passage.questions.7.answers.3.text:1 leto
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1566.0
+passage.questions.7.answers.2.text:3 leta
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1565.0
+passage.questions.7.answers.1.text:Skoraj 3 leta
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1564.0
+passage.questions.7.answers.0.text:Približno 2 leti
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1563.0
+passage.questions.6.question:Kdo najprej zaprosi Silvijo?
+passage.questions.6.idx:289.0
+passage.questions.6.answers.1.text:Charlie
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1562.0
+passage.questions.6.answers.0.text:Joe
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1561.0
+passage.questions.5.question:Julie je kaj zahtevala od Charlieja?
+passage.questions.5.idx:288.0
+passage.questions.5.answers.3.text:Glej drugo žensko
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1560.0
+passage.questions.5.answers.2.text:Da se neha več videti z drugimi ženskami
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1559.0
+passage.questions.5.answers.1.text:Dobil je službo
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1558.0
+passage.questions.5.answers.0.text:Hodi z drugimi ženskami
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1557.0
+passage.questions.4.question:Kdo predlaga klasičnega glasbenika?
+passage.questions.4.idx:287.0
+passage.questions.4.answers.5.text:Charlie
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:1556.0
+passage.questions.4.answers.4.text:Joe in Charlie
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:1555.0
+passage.questions.4.answers.3.text:Silvija
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1554.0
+passage.questions.4.answers.2.text:Julie
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1553.0
+passage.questions.4.answers.1.text:Joe
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1552.0
+passage.questions.4.answers.0.text:Helen
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1551.0
+passage.questions.3.question:Kateri lik je najmlajši od štirih?
+passage.questions.3.idx:286.0
+passage.questions.3.answers.4.text:Charlie
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1550.0
+passage.questions.3.answers.3.text:Silvija
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1549.0
+passage.questions.3.answers.2.text:Julie
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1548.0
+passage.questions.3.answers.1.text:Julie je najmlajša
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1547.0
+passage.questions.3.answers.0.text:Joe
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1546.0
+passage.questions.2.question:Kako se Silvija najprej odzove na Charliejev predlog?
+passage.questions.2.idx:285.0
+passage.questions.2.answers.5.text:Jezen
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:1545.0
+passage.questions.2.answers.4.text:Ona sprejme
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:1544.0
+passage.questions.2.answers.3.text:Zavrača ga
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1543.0
+passage.questions.2.answers.2.text:Šokiran
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1542.0
+passage.questions.2.answers.1.text:Bila je navdušena
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:1541.0
+passage.questions.2.answers.0.text:Navdušen
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:1540.0
+passage.questions.19.question:V čigavo stanovanje gre Poppy?
+passage.questions.19.idx:302.0
+passage.questions.19.answers.4.text:Charlie
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:1636.0
+passage.questions.19.answers.3.text:Charlie&#39;s
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:1635.0
+passage.questions.19.answers.2.text:Silvija
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:1634.0
+passage.questions.19.answers.1.text:Joe
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:1633.0
+passage.questions.19.answers.0.text:Joe&#39;s
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:1632.0
+passage.questions.18.question:Kaj želi početi Julie Gillis?
+passage.questions.18.idx:301.0
+passage.questions.18.answers.8.text:Imajte otroke do 22. leta
+passage.questions.18.answers.8.label:1.0
+passage.questions.18.answers.8.idx:1631.0
+passage.questions.18.answers.7.text:Nastopajte večno
+passage.questions.18.answers.7.label:0,0
+passage.questions.18.answers.7.idx:1630.0
+passage.questions.18.answers.6.text:Da se poroči in upokoji od nastopanja
+passage.questions.18.answers.6.label:1.0
+passage.questions.18.answers.6.idx:1629.0
+passage.questions.18.answers.5.text:Otroke imejte do 30. leta
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:1628.0
+passage.questions.18.answers.4.text:Umik iz igranja do 22. leta
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:1627.0
+passage.questions.18.answers.3.text:Postani žena
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:1626.0
+passage.questions.18.answers.2.text:Postani mati
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:1625.0
+passage.questions.18.answers.1.text:Se poročiti
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:1624.0
+passage.questions.18.answers.0.text:Igraj njeno celo življenje
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:1623.0
+passage.questions.17.question:Za kakšne načrte Julie meni, da je Charlie popoln?
+passage.questions.17.idx:300.0
+passage.questions.17.answers.5.text:Zmenki
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:1622.0
+passage.questions.17.answers.4.text:Do 22. leta si ustvarite družino
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:1621.0
+passage.questions.17.answers.3.text:Poroka
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:1620.0
+passage.questions.17.answers.2.text:Nadaljevala svojo kariero
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:1619.0
+passage.questions.17.answers.1.text:Življenje se načrtuje, da se bosta do 22. leta poročila in upokojila otroke
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:1618.0
+passage.questions.17.answers.0.text:Mariage in družina
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:1617.0
+passage.questions.16.question:Kakšna je starostna razlika med Silvijo in Charliejem?
+passage.questions.16.idx:299.0
+passage.questions.16.answers.5.text:20 let
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:1616.0
+passage.questions.16.answers.4.text:Charlie je 3 leta starejši od Silvije
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:1615.0
+passage.questions.16.answers.3.text:1 leto
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:1614.0
+passage.questions.16.answers.2.text:3 leta
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:1613.0
+passage.questions.16.answers.1.text:13 let
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:1612.0
+passage.questions.16.answers.0.text:Približno 2 leti
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:1611.0
+passage.questions.15.question:Kakšen interes imata Julie in Sylvia?
+passage.questions.15.idx:298.0
+passage.questions.15.answers.6.text:Charlie
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:1610.0
+passage.questions.15.answers.5.text:Klasična glasba
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:1609.0
+passage.questions.15.answers.4.text:Poroka
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:1608.0
+passage.questions.15.answers.3.text:Zaljubljeni so v Joeja
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:1607.0
+passage.questions.15.answers.2.text:Zaljubljeni so v Charlieja
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:1606.0
+passage.questions.15.answers.1.text:Oba sta glasbenika
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1605.0
+passage.questions.15.answers.0.text:Nastopajo
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:1604.0
+passage.questions.14.question:Koliko je star najboljši prijatelj Joeja McCalla?
+passage.questions.14.idx:297.0
+passage.questions.14.answers.4.text:35
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:1603.0
+passage.questions.14.answers.3.text:22.
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:1602.0
+passage.questions.14.answers.2.text:40
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1601.0
+passage.questions.14.answers.1.text:Joejev najboljši prijatelj Charlie Y. Reader ima 35 let
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:1600.0
+passage.questions.14.answers.0.text:34
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:1599.0
+passage.questions.13.question:Kdo kuha za Charlieja?
+passage.questions.13.idx:296.0
+passage.questions.13.answers.6.text:Silvija
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:1598.0
+passage.questions.13.answers.5.text:Julie
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:1597.0
+passage.questions.13.answers.4.text:Jessica
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:1596.0
+passage.questions.13.answers.3.text:Joe
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:1595.0
+passage.questions.13.answers.2.text:Helen
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:1594.0
+passage.questions.13.answers.1.text:Poppy, Helen in Jessica
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:1593.0
+passage.questions.13.answers.0.text:Poppy
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:1592.0
+passage.questions.12.question:Kdo predlaga poroko Silviji?
+passage.questions.12.idx:295.0
+passage.questions.12.answers.3.text:Charlie
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:1591.0
+passage.questions.12.answers.2.text:Tako Joe kot Charlie predlagata poroko s Sylvio
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:1590.0
+passage.questions.12.answers.1.text:Joe
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1589.0
+passage.questions.12.answers.0.text:Julie
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1588.0
+passage.questions.11.question:Koga Julie vidi kot svojega idealnega moškega?
+passage.questions.11.idx:294.0
+passage.questions.11.answers.1.text:Charlie
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:1587.0
+passage.questions.11.answers.0.text:Joe
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:1586.0
+passage.questions.10.question:Charlie se začne zaljubljati v koga?
+passage.questions.10.idx:293.0
+passage.questions.10.answers.5.text:Ethel
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:1585.0
+passage.questions.10.answers.4.text:Silvija
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:1584.0
+passage.questions.10.answers.3.text:Julie
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:1583.0
+passage.questions.10.answers.2.text:Julien Gillis
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:1582.0
+passage.questions.10.answers.1.text:Julia Gillis
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:1581.0
+passage.questions.10.answers.0.text:Julie Gillis
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1580.0
+passage.questions.1.question:Charlie izpoveduje občudovanje do družinskega življenja?
+passage.questions.1.idx:284.0
+passage.questions.1.answers.5.text:Silvija
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1539.0
+passage.questions.1.answers.4.text:Julie
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1538.0
+passage.questions.1.answers.3.text:Joe McCall
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1537.0
+passage.questions.1.answers.2.text:Njegov najboljši prijatelj že od vrtca
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1536.0
+passage.questions.1.answers.1.text:Joejevo zakonsko življenje in družina
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:1535.0
+passage.questions.1.answers.0.text:Joe
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:1534.0
+passage.questions.0.question:Na koga je Charlie ljubosumen?
+passage.questions.0.idx:283
+passage.questions.0.answers.3.text:Joe
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1533.0
+passage.questions.0.answers.2.text:Silvija
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1532.0
+passage.questions.0.answers.1.text:Helen
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1531
+passage.questions.0.answers.0.text:Julie
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1530
+idx:25

@@ -1,0 +1,330 @@
+version:1.1
+passage.text:Serija se začne v Bagdadu ob nedoločenem času. Sultan Shahryar je ponorel, potem ko je po nesreči ubil svojo ženo med neuspelim državnim udarom, ki ga je načrtovala s Shahryarjevim bratom Schahzenanom. V svoji norosti Shahryar verjame, da ga zdaj želijo ubiti vse ženske, vendar zakon določa, da se mora sultan ponovno poročiti, sicer bo prestol prešel na njegovega brata. Shahryar zato ukaže velikemu vezirju Ja&#39;Farju ((((Jim Carter mu pripelje haremsko dekle, da se poroči, nato pa ga usmrtijo naslednji dan. Da bi to preprečila, se pametna hči velikega vezirja, Šeherezada odloči, da se sama poroči s sultanom. Sheherazade načrtuje, da prepreči njeno usmrtitev in hkrati ozdravi sultana njegove norosti. Sheherazade s pomočjo nekaterih učiteljev bazarjskega pripovedovalca vsako noč pripoveduje sultanu zgodbo, ki se ob zori ustavi s pečico in noče nadaljevati do mraka. Šahrijar mora torej pustiti Šeherezado živeti še en dan, da bo lahko poslušal preostanek zgodbe. Sheherazade je v vsako zgodbo zvito skrival moral, da bi sultana spravil iz norosti. Medtem Schahzenan sliši za sultanovo norost. in da ne more usmrtiti Šeherezade. Schahzenan, ki to razume kot slabost, vodi svojo vojsko proti Bagdadu, da bi s silo zasedel prestol. vojska dosegla mesto, načrt Šeherezade je deloval. Kot rezultat njenih zgodb je Shahryar premagal norost in se zaljubil v Šeherezado.
+passage.questions.9.question:Kje na svetu prebiva Sultan Shahryar?
+passage.questions.9.idx:577.0
+passage.questions.9.answers.5.text:Afriko
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:3034.0
+passage.questions.9.answers.4.text:Bagdad
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:3033.0
+passage.questions.9.answers.3.text:Kanada
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:3032.0
+passage.questions.9.answers.2.text:Egipt
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:3031.0
+passage.questions.9.answers.1.text:Afganistanu
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3030.0
+passage.questions.9.answers.0.text:Bagdad
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3029.0
+passage.questions.8.question:Kakšen je bil učinek izdaje sultana s strani bivše žene in kako je bilo ime njegovi novi ženi?
+passage.questions.8.idx:576.0
+passage.questions.8.answers.6.text:Sultanu se je zmešalo in ime njegove nove žene je bilo Šeherezada
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:3028.0
+passage.questions.8.answers.5.text:Norost
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:3027.0
+passage.questions.8.answers.4.text:Sultan je ponorel, Šeherezada
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:3026.0
+passage.questions.8.answers.3.text:Izguba prestola
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:3025.0
+passage.questions.8.answers.2.text:Smrt
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3024.0
+passage.questions.8.answers.1.text:Sultan je ubil svojega brata
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:3023.0
+passage.questions.8.answers.0.text:Nezaupanje žensk
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:3022.0
+passage.questions.7.question:Kako deluje načrt Šeherezade, da jo ohrani pri življenju in ozdravi sultana?
+passage.questions.7.idx:575.0
+passage.questions.7.answers.6.text:Laganje
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:3021.0
+passage.questions.7.answers.5.text:Sultana je spal do jutra
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3020.0
+passage.questions.7.answers.4.text:Psihoterapija
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:3019.0
+passage.questions.7.answers.3.text:Sultanu pove pametno zgodbo z zdravilno moralo, ki se skriva v vsaki noči, vendar se noče odreči koncu šele naslednji dan
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3018.0
+passage.questions.7.answers.2.text:Zgodba
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3017.0
+passage.questions.7.answers.1.text:Vsak večer do jutra je pripovedovala zgodbo, ne da bi jo končala
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3016.0
+passage.questions.7.answers.0.text:Anekdotična morala
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3015.0
+passage.questions.6.question:Zakaj se Sheherazade odloči, da se sama poroči s sultanom?
+passage.questions.6.idx:574.0
+passage.questions.6.answers.6.text:Za denar
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:3014.0
+passage.questions.6.answers.5.text:Da bi rešili haremska dekleta
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:3013.0
+passage.questions.6.answers.4.text:Zaljubi se
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:3012.0
+passage.questions.6.answers.3.text:Da bi postala kraljica
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3011.0
+passage.questions.6.answers.2.text:Da bi preprečili nadaljnje usmrtitve
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:3010.0
+passage.questions.6.answers.1.text:Da bi se sultana znebil norosti
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3009.0
+passage.questions.6.answers.0.text:Za slavo
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3008.0
+passage.questions.5.question:Zakaj Shahryar verjame, da so ga vse ženske želele ubiti?
+passage.questions.5.idx:573.0
+passage.questions.5.answers.5.text:Izdaja svoje žene
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:3007.0
+passage.questions.5.answers.4.text:Zaradi svoje žene
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:3006.0
+passage.questions.5.answers.3.text:Poskus njegovega življenja
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3005.0
+passage.questions.5.answers.2.text:Nenamerno ubil svojo ženo
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3004.0
+passage.questions.5.answers.1.text:Številne ženske so ga poskušale ubiti
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3003.0
+passage.questions.5.answers.0.text:Izdaja njegove žene
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3002.0
+passage.questions.4.question:Na kakšen način ga je poskušal pregnati sultanov brat?
+passage.questions.4.idx:572.0
+passage.questions.4.answers.7.text:Državni udar
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:3001.0
+passage.questions.4.answers.6.text:Prevrniti ga
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:3000.0
+passage.questions.4.answers.5.text:Skozi neuspeli državni udar in vojaško invazijo
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:2999.0
+passage.questions.4.answers.4.text:Vdrl s svojo vojsko
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2998.0
+passage.questions.4.answers.3.text:Izvršitev
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2997.0
+passage.questions.4.answers.2.text:Z državnim udarom in s silo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2996.0
+passage.questions.4.answers.1.text:S podkupovanjem velikega vezirja
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2995.0
+passage.questions.4.answers.0.text:ga ubil
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2994.0
+passage.questions.3.question:Zakaj Schahzenan vodi svojo vojsko proti Bagdadu?
+passage.questions.3.idx:571.0
+passage.questions.3.answers.6.text:Novica o sultanovi norosti
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:2993.0
+passage.questions.3.answers.5.text:Zasnovana slabost brata
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:2992.0
+passage.questions.3.answers.4.text:Norosti sultanov
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:2991.0
+passage.questions.3.answers.3.text:Zaljubljenost
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2990.0
+passage.questions.3.answers.2.text:Želeti prestol
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2989.0
+passage.questions.3.answers.1.text:Strah pred smrtjo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2988.0
+passage.questions.3.answers.0.text:Sultanova smrt
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2987.0
+passage.questions.2.question:Zakaj se je Sheherazade odločila, da se poroči s sultanom?
+passage.questions.2.idx:570.0
+passage.questions.2.answers.5.text:Prisiljen
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2986.0
+passage.questions.2.answers.4.text:Želela je vladati narodu
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2985.0
+passage.questions.2.answers.3.text:Ker je sultan ukazal, naj mu pripelje haremsko dekle, da se poroči, nato pa so jo naslednji dan usmrtili
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2984.0
+passage.questions.2.answers.2.text:Zaljubila se
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2983.0
+passage.questions.2.answers.1.text:Njegov čar
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:2982.0
+passage.questions.2.answers.0.text:Želela je, da se sultan razbremeni njegove norosti
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:2981.0
+passage.questions.14.question:Zakaj sultan želi usmrtitev haremske deklice?
+passage.questions.14.idx:582.0
+passage.questions.14.answers.6.text:Za zabavo
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:3065.0
+passage.questions.14.answers.5.text:Ker je verjel, da ga bo ubila
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:3064.0
+passage.questions.14.answers.4.text:Paranoja
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:3063.0
+passage.questions.14.answers.3.text:Sovraštvo
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:3062.0
+passage.questions.14.answers.2.text:Verjame, da ga želijo ubiti vse ženske
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:3061.0
+passage.questions.14.answers.1.text:Ker se ni hotela poročiti z njim
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:3060.0
+passage.questions.14.answers.0.text:Strah
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:3059.0
+passage.questions.13.question:Shahryar je premagal norost, kdaj se njegova vojska prebije v mesto?
+passage.questions.13.idx:581.0
+passage.questions.13.answers.5.text:Vezirjeva vojska
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:3058.0
+passage.questions.13.answers.4.text:Šeherezada
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:3057.0
+passage.questions.13.answers.3.text:Schahzenan
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:3056.0
+passage.questions.13.answers.2.text:Shahryarjev brat
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:3055.0
+passage.questions.13.answers.1.text:Jim Carter
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:3054.0
+passage.questions.13.answers.0.text:Schahzenanova vojska
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:3053.0
+passage.questions.12.question:Kdo je organiziral državni udar proti sultanu in z vojsko napadel tudi Bagdad?
+passage.questions.12.idx:580.0
+passage.questions.12.answers.4.text:Shahryarjeva sestra
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:3052.0
+passage.questions.12.answers.3.text:Schahzenan
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:3051.0
+passage.questions.12.answers.2.text:Veliki vezir
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:3050.0
+passage.questions.12.answers.1.text:Shahryarjev brat
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:3049.0
+passage.questions.12.answers.0.text:Vezir
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:3048.0
+passage.questions.11.question:Čigava hči namerava preprečiti njeno usmrtitev?
+passage.questions.11.idx:579.0
+passage.questions.11.answers.6.text:Šeherezada
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:3047.0
+passage.questions.11.answers.5.text:Sultan
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:3046.0
+passage.questions.11.answers.4.text:Veliki vezir
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:3045.0
+passage.questions.11.answers.3.text:Schahzenanova hči
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:3044.0
+passage.questions.11.answers.2.text:Veliki vezir Ja&#39;Far
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:3043.0
+passage.questions.11.answers.1.text:Hči velikega vezirja
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:3042.0
+passage.questions.11.answers.0.text:Jim Carter
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:3041.0
+passage.questions.10.question:Kdo je globoko nezaupal do vseh žensk, ker ga je izdala njegova žena?
+passage.questions.10.idx:578.0
+passage.questions.10.answers.5.text:Sultan Shahryar
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:3040.0
+passage.questions.10.answers.4.text:Sultana
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:3039.0
+passage.questions.10.answers.3.text:Šeherezada
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:3038.0
+passage.questions.10.answers.2.text:Vezir
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3037.0
+passage.questions.10.answers.1.text:Jim Carter
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3036.0
+passage.questions.10.answers.0.text:Shahryar
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3035.0
+passage.questions.1.question:Kje je sultan Shahryr nor?
+passage.questions.1.idx:569.0
+passage.questions.1.answers.6.text:Afriko
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:2980.0
+passage.questions.1.answers.5.text:Srednji vzhod
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:2979.0
+passage.questions.1.answers.4.text:Bagdad
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:2978.0
+passage.questions.1.answers.3.text:Kanada
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2977.0
+passage.questions.1.answers.2.text:Afganistanu
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:2976.0
+passage.questions.1.answers.1.text:Bagdad
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:2975.0
+passage.questions.1.answers.0.text:Sirija
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:2974.0
+passage.questions.0.question:Na podlagi katere sultanove slabosti je Schahzenan vodil svojo vojsko proti Bagdadu, da bi zavzel prestol?
+passage.questions.0.idx:568
+passage.questions.0.answers.6.text:Slabo vodstvo
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:2973.0
+passage.questions.0.answers.5.text:Mentalna bolezen
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2972.0
+passage.questions.0.answers.4.text:Sultanova norost
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2971.0
+passage.questions.0.answers.3.text:Šibkost žensk
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2970.0
+passage.questions.0.answers.2.text:Preveč pameten
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2969.0
+passage.questions.0.answers.1.text:Rak
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2968
+passage.questions.0.answers.0.text:Ta sultan ne more usmrtiti Šeherezade
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2967
+idx:48

@@ -1,0 +1,26 @@
+version:1.1
+passage.text:(CNN) - Britanec Chris Froome je v sredo zmagal na 17. etapi Tour de France, da bi okrepil oprijem na rumeni majici. Froome je v sredo opravil 32-kilometrski kronometrski preizkus v 51 minutah 33 sekund, devet sekund pred Špancem Albertom Contadorjem in rojakom Joaquimom Rodriguezom Oliverjem, ki je na tretjem mestu končal še drugo sekundo zaostanka. &quot;Nisem mogel verjeti, ko sem prišel čez črto in videl, da imam najhitrejši čas,&quot; je po svoji tretji etapni zmagi na letošnji turneji dejal Froome. &quot;Danes sem začel razmišljati, da bom poskušal omejiti svoje izgube, razmišljal o dneh, ki prihajajo. Torej, da bi šel skozi cilj s čim hitrejšim časom, tega res nisem videl.&quot; Na gorskem terenu vzdolž pogosto zasukane poti se je večina kolesarjev odločila za svoja tradicionalna cestna kolesa nad bolj aerodinamičnimi stroji, uporabljenimi v kronometrih. A Froome se je odločil za oboje na odru in za zadnji 12-kilometrski spust prestopil na model kronometra. Zamenjava se je izkazala za odločilno, saj je Britanec izkoristil 20 sekund prednosti, ki jo je Contador ustvaril že v fazi. Španec se je zdaj povzpel na drugo mesto, štiri minute 34 sekund za Froomeom, preostale pa so le še štiri etape. Contadorjev soigralec iz Saxo-Tinkoffa Roman Kreuziger je zdaj tretji in Frooma zaostaja za štiri minute in 51 sekund. V četrtek se kolesarji spopadajo z naporno 172,5-kilometrsko 18. etapo, ki se zaključi z dvojnim vzponom na Alpe d&#39;Huez v zadnjih 60 kilometrih.
+passage.questions.0.question:Koliko časa je Fromme kolesaril na 17. etapi pred zadnjim spustom?
+passage.questions.0.idx:4486
+passage.questions.0.answers.6.text:60 kilometrov
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:23721.0
+passage.questions.0.answers.5.text:Štiri minute 34 sekund
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:23720.0
+passage.questions.0.answers.4.text:51 minut 33 sekund
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:23719.0
+passage.questions.0.answers.3.text:20 kilometrov
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:23718.0
+passage.questions.0.answers.2.text:20km
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23717.0
+passage.questions.0.answers.1.text:32 kilometrov
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:23716
+passage.questions.0.answers.0.text:172,5 kilometra
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23715
+idx:392

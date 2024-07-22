@@ -1,0 +1,37 @@
+version:1.1
+passage.text:Nekoč je bila punčka Ana. Ana je bila pametno dekle. Vsi v Anini šoli so jo zelo poznali in imeli radi. Imela je velike sanje, da bi postala črkopiska. Ana je zelo trdo študirala, da bi bila kar se da dobro znana pri črkovanju. Anina najboljša prijateljica bi ji pomagala pri učenju vsak dan po pouku. Ko je čebela črkovala, so Ana in njen najboljši prijatelj bili prepričani, da bo zmagala. V črkopisu je bilo deset učencev. Ana je bila zaradi tega zelo živčna, a ko je pogledala ven in videla, da jo oče navija, je vedela, da zmore. Čebela črkovalka je imela pet krogov in Ana jih je prebila skozi vse. Zdaj je bila v finalu. V zadnjem krogu Jamesu je fant, s katerim je bila v finalu, dobil res težko besedo in jo je napisal narobe. Ana je morala samo črkovati zadnjo besedo in postala bo zmagovalka. Ana je stopila do mikrofona, zares razmislila in napisala besedo. Čakala je in na koncu je njen učitelj rekel: &quot;Tako je&quot;. Ana je osvojila črkovalko. Ana je bila tako srečna. Osvojila je pokal. Ana je osvojila tudi velik rumeni trak. Tudi vsa šola je bila vesela in vsi so ploskali zanjo. Celotna šola je šla ven. Imeli so piknik, da so proslavili zmago Ane.
+passage.questions.1.question:Kdo je imel velike sanje, da bi postal črkopisec?
+passage.questions.1.idx:737.0
+passage.questions.1.answers.5.text:Peter
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:3838.0
+passage.questions.1.answers.4.text:Mary
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3837.0
+passage.questions.1.answers.3.text:James
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3836.0
+passage.questions.1.answers.2.text:Šola
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3835.0
+passage.questions.1.answers.1.text:Anina najboljša prijateljica
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3834.0
+passage.questions.1.answers.0.text:Ana
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:3833.0
+passage.questions.0.question:Koliko učencev se ni uvrstilo v zadnji krog črkovanja?
+passage.questions.0.idx:736
+passage.questions.0.answers.3.text:Vsi
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3832.0
+passage.questions.0.answers.2.text:Deset
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3831.0
+passage.questions.0.answers.1.text:8.
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3830
+passage.questions.0.answers.0.text:Osem
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3829
+idx:62

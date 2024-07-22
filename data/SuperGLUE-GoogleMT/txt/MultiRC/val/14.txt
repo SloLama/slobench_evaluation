@@ -1,0 +1,57 @@
+version:1.1
+passage.text:Maksimilijanova smrt je nastopila v času, ko je bil Durer zaskrbljen, da je izgubil &quot;vid in svobodo rok&quot; (morda zaradi artritisa) in je bil zaradi zapisov Martina Lutherja vse bolj prizadet. Julija 1520 je Durer opravil svoje četrto in zadnje večje potovanje, da bi obnovil cesarsko pokojnino, ki mu jo je dal Maksimilijan, in si zagotovil pokroviteljstvo novega cesarja Karla V., ki naj bi ga okronali v Aachnu. Durer je s svojo ženo in njeno služkinjo potoval po Renu v Köln in nato v Antwerpen, kjer je bil lepo sprejet in izdelal številne risbe v srebrni konici, kredi in oglju. Poleg tega, da je šel na kronanje, je opravil tudi izlete v Köln (kjer je občudoval sliko Stefana Lochnerja), Nijmegen, s-Hertogenbosch, Bruges (kjer je videl Michelangelovo Madžo iz Brugesa), Gent (kjer je občudoval van Eyckovo oltarno sliko) ) in Zeeland. Durer je s seboj vzel veliko zalogo grafik in v dnevnik zapisal, komu jih je podaril, zamenjal ali prodal in za koliko. To zagotavlja redke informacije o denarni vrednosti, ki je trenutno postavljena na odtise. Za razliko od slik je bila njihova prodaja zelo redko dokumentirana. Durerjev nizozemski dnevnik sicer ponuja dragocene dokumentarne dokaze tudi, da potovanje ni bilo donosno. Na primer, Durer je ponudil svoj zadnji portret Maksimilijana svoji hčerki Margareti iz Avstrije, vendar je sčasoma sliko zamenjal za belo krpo, potem ko Margareti portret ni bil všeč in ga ni hotela sprejeti. Med tem potovanjem je spoznal tudi Bernarda van Orleyja, Jana Provoosta, Gerarda Horenbouta, Jeana Monea, Joachima Patinirja in Tommasa Vincidorja, čeprav se, kot kaže, ni srečal s Quentinom Matsysom. Na prošnjo danskega Christiana II je Durer odšel v Bruselj, da bi naslikal kraljev portret. Tam je videl &quot;Stvari, ki so bile kralju poslane iz zlate dežele&quot; - asteški zaklad, ki ga je Hernan Cortes po padcu Mehike poslal domov rimskemu cesarju Karlu V. Durer je zapisal, da je bil ta zaklad &quot;zame veliko lepši od čudežev. Te stvari so tako dragocene, da so jih ocenili na 100.000 florinov&quot;. Zdi se, da je Durer zbiral tudi za svojo pisarno zanimivosti in je v Nürnberg poslal različne živalske rogove, kos korale, nekaj velikih ribjih plavuti in leseno orožje iz Vzhodne Indije. Potem ko si je zagotovil pokojnino, se je Durer julija 1521 končno vrnil domov, potem ko je ujel nedoločeno bolezen - morda malarijo -, ki ga je mučila do konca življenja, in mu močno znižal stopnjo dela.
+passage.questions.2.question:Zakaj se je Durer odpravil na pot?
+passage.questions.2.idx:147
+passage.questions.2.answers.4.text:Za redke informacije
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:735.0
+passage.questions.2.answers.3.text:Da bi podaljšal cesarsko pokojnino, ki mu jo je dal Maksimilijan, in si zagotovil pokroviteljstvo novega cesarja,
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:734.0
+passage.questions.2.answers.2.text:Da narišem kraljevo sliko
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:733.0
+passage.questions.2.answers.1.text:Za obnovitev cesarske pokojnine, ki mu jo je dal Maksimilijan, in za zagotovitev pokroviteljstva novega cesarja Karla V., ki naj bi ga okronali v Aachnu
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:732
+passage.questions.2.answers.0.text:Da se vrnem domov
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:731
+passage.questions.1.question:Kaj je bilo po besedah Durerja lepše od čudežev?
+passage.questions.1.idx:146
+passage.questions.1.answers.4.text:Madonna iz Brugesa
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:730.0
+passage.questions.1.answers.3.text:Azteški zaklad
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:729.0
+passage.questions.1.answers.2.text:Lepota kraljice v palači
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:728.0
+passage.questions.1.answers.1.text:100.000 florinov
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:727
+passage.questions.1.answers.0.text:Stvari, ki so bile poslane kralju iz zlate dežele
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:726
+passage.questions.0.question:Zakaj je bilo pomembno, da je Durer o ceni tiskov zapisal v svoj dnevnik?
+passage.questions.0.idx:145
+passage.questions.0.answers.5.text:Ker so bili ti podatki redko dokumentirani
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:725.0
+passage.questions.0.answers.4.text:Potrebno je bilo, da ni pozabil na vrednosti svojih odtisov
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:724.0
+passage.questions.0.answers.3.text:Ker dnevniki zagotavljajo redke informacije o denarni vrednosti, ki je trenutno na odtisih
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:723.0
+passage.questions.0.answers.2.text:Ker zagotavlja redke informacije o denarni vrednosti, ki je dana na odtise v tem času in v tistem času, je bilo zelo redko, da je bila prodaja dokumentirana
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:722.0
+passage.questions.0.answers.1.text:Ker so takrat prodajo pogosto zabeležili
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:721
+passage.questions.0.answers.0.text:Ker je bila velika zaloga grafik
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:720
+idx:14

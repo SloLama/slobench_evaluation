@@ -1,0 +1,201 @@
+version:1.1
+passage.text:Očeta so poimenovali James Page Jackson, ker se je rodil na starem nasadu Jackson v okrožju Lancaster v Virginiji. Eno od svojih hčera je v spomin na svoj stari dom za srednje ime poimenoval Lancaster. Clarice Lancaster Jackson je bilo njeno polno ime. Moški po imenu Galloway je kupil mojega očeta in ga pripeljal v Arkansas. Nekateri so ga klicali z imenom Galloway, toda moj oče je vedno imel, da so vsi njegovi otroci ohranili ime Jackson. Bilo nas je štirinajst, a le deset jih je živelo do odraščanja. V času mojega rojstva je pripadal gospodu Gallowayu, vendar tudi takrat nisem vzel imena Galloway, kot bi se zdelo, kot bi moral. Moj oče je bil dober tesar; bil je tudi dober kuhar; tega se je naučil že v Virginiji. Povedala vam bom nekaj zanimivega. Prva kuhalna peč, ki so jo kdaj prinesli v to mesto, je imel oče, ki jo je moral prinesti moj mojster. Bil je kuhar v hiši Anthony. Saj veste za to, kajne? To je bil prvi resnično lep hotel v Little Rocku. Ko je oče šel tja za glavnega kuharja, so morali kuhati le veliki kamini in velike stare nizozemske peči. Oče je kar naprej pripovedoval o pečeh, ki so jih imeli v Virginiji, in nazadnje so mu poslali eno; priti je bilo treba s čolnom in je trajalo dolgo. Moj oče je bil ponosen, da je bil tisti, ki je postavil prvo mizo, ki so jo kdaj postavili v Anthonyjevi hiši.
+passage.questions.9.question:Čeprav je bil moj oče moški z imenom Galloway, ko sem se rodil, katero ime je hotel oče, da ga obdržim?
+passage.questions.9.idx:1620.0
+passage.questions.9.answers.2.text:James
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:8388.0
+passage.questions.9.answers.1.text:Lancaster
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:8387.0
+passage.questions.9.answers.0.text:Jackson
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:8386.0
+passage.questions.8.question:Katera stavba se je nahajala v Little Rocku?
+passage.questions.8.idx:1619.0
+passage.questions.8.answers.2.text:Nasad Jackson
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:8385.0
+passage.questions.8.answers.1.text:Anthonyjeva hiša
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:8384.0
+passage.questions.8.answers.0.text:Hiša
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:8383.0
+passage.questions.7.question:Kdo je šel v prvi lep hotel v Little Rocku, da bi bil glavni kuhar, in drugim povedal o kuhalnih pečeh, da so ga pripeljali?
+passage.questions.7.idx:1618.0
+passage.questions.7.answers.2.text:Clairese Landcaster Jackson
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8382.0
+passage.questions.7.answers.1.text:James Page Jackson
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:8381.0
+passage.questions.7.answers.0.text:Clarice Lancaster Jackson
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:8380.0
+passage.questions.6.question:Kaj je bila Anthonyjeva hiša?
+passage.questions.6.idx:1617.0
+passage.questions.6.answers.3.text:Prvi lep hotel v Little Rocku
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:8379.0
+passage.questions.6.answers.2.text:Restavracija
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8378.0
+passage.questions.6.answers.1.text:Hotel
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:8377.0
+passage.questions.6.answers.0.text:Hiša
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8376.0
+passage.questions.5.question:Kdo je eno od svojih hčera poimenoval Lancaster?
+passage.questions.5.idx:1616.0
+passage.questions.5.answers.2.text:Galloway
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:8375.0
+passage.questions.5.answers.1.text:James Galloway
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8374.0
+passage.questions.5.answers.0.text:James Page Jackson
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:8373.0
+passage.questions.4.question:Kako se je imenoval prvi lep hotel v Little Rocku?
+passage.questions.4.idx:1615.0
+passage.questions.4.answers.2.text:Anthony House
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8372.0
+passage.questions.4.answers.1.text:Nasad kopenskega drevesa
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8371.0
+passage.questions.4.answers.0.text:Nizozemske pečice
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8370.0
+passage.questions.3.question:Kakšna ustanova je bila Anthony House?
+passage.questions.3.idx:1614.0
+passage.questions.3.answers.2.text:Nasad
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8369.0
+passage.questions.3.answers.1.text:Hotel
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:8368.0
+passage.questions.3.answers.0.text:Hiša
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8367.0
+passage.questions.2.question:Zakaj so jo klicali Clarice Lancaster Jackson
+passage.questions.2.idx:1613.0
+passage.questions.2.answers.2.text:Ime ji je bilo všeč
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8366.0
+passage.questions.2.answers.1.text:Njen oče se je rodil na starem nasadu Jackson v okrožju Lancaster v Virginiji, v spomin na svoj stari dom pa jo je poimenoval Lancaster.
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:8365.0
+passage.questions.2.answers.0.text:V spomin na Anthony House
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8364.0
+passage.questions.14.question:Zakaj bi avtor moral odgovoriti na ime Galloway?
+passage.questions.14.idx:1625.0
+passage.questions.14.answers.4.text:Prvi kuhalnik, ki ga je kdaj prinesel v to mesto, je bil moj oče
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:8411.0
+passage.questions.14.answers.3.text:Ker tako so ji bili očetje
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:8410.0
+passage.questions.14.answers.2.text:Avtor se je rodil na posestvu gospoda Gallowaya in sužnji so odgovarjali na imena svojega gospodarja
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:8409.0
+passage.questions.14.answers.1.text:James Page Jackson je v času njenega rojstva pripadal gospodu Gallowayu
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:8408.0
+passage.questions.14.answers.0.text:Tako ji je bilo ime
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:8407.0
+passage.questions.13.question:Kateri je bil prvi resnično izvrstni hotel v Little Rocku?
+passage.questions.13.idx:1624.0
+passage.questions.13.answers.3.text:Kuhaj
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:8406.0
+passage.questions.13.answers.2.text:Anthony House
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:8405.0
+passage.questions.13.answers.1.text:Little Rock
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:8404.0
+passage.questions.13.answers.0.text:Nasad Jackson
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:8403.0
+passage.questions.12.question:Zakaj je bil James Page Jackson imenovan tudi Galloway?
+passage.questions.12.idx:1623.0
+passage.questions.12.answers.3.text:Tako mu je bilo ime
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:8402.0
+passage.questions.12.answers.2.text:Ker so se njegovi mojstri imenovali galloway
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:8401.0
+passage.questions.12.answers.1.text:Bil je dober kuhar
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:8400.0
+passage.questions.12.answers.0.text:Moški z imenom Galloway ga je kupil in pripeljal v Arkansas, sužnji pa odgovorijo na ime svojega gospoda
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:8399.0
+passage.questions.11.question:Čigava hči je imela srednje ime Lancaster?
+passage.questions.11.idx:1622.0
+passage.questions.11.answers.4.text:Galloway
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:8398.0
+passage.questions.11.answers.3.text:James Galloway
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:8397.0
+passage.questions.11.answers.2.text:James Page Jackson
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:8396.0
+passage.questions.11.answers.1.text:James page Jackson
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:8395.0
+passage.questions.11.answers.0.text:James Page Jackson&#39;s
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:8394.0
+passage.questions.10.question:V čem je bil James Page Jackson, razen kuharja, še dober?
+passage.questions.10.idx:1621.0
+passage.questions.10.answers.4.text:Biti oče
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:8393.0
+passage.questions.10.answers.3.text:Bil je dober tesar
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:8392.0
+passage.questions.10.answers.2.text:Tesar
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:8391.0
+passage.questions.10.answers.1.text:Tesarstvo
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:8390.0
+passage.questions.10.answers.0.text:Bil je dober delavec
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:8389.0
+passage.questions.1.question:Zakaj so nekateri klicali Jamesa Page Jacksona Gallowaya?
+passage.questions.1.idx:1612.0
+passage.questions.1.answers.3.text:Moški po imenu Galloway je kupil mojega Jamesa Page Jacksona
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:8363.0
+passage.questions.1.answers.2.text:Tako mu je bilo ime
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8362.0
+passage.questions.1.answers.1.text:Ker so se njegovi mojstri imenovali galloway
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8361.0
+passage.questions.1.answers.0.text:Bil je dober kuhar
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8360.0
+passage.questions.0.question:Zakaj so v Arkansas prinesli štedilnik?
+passage.questions.0.idx:1611
+passage.questions.0.answers.3.text:G. James Page Jackson je o tem povedal svojemu gospodarju
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:8359.0
+passage.questions.0.answers.2.text:Oče je kar naprej govoril o pečeh
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8358.0
+passage.questions.0.answers.1.text:Hotel se je preseliti tja
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:8357
+passage.questions.0.answers.0.text:Bil je kuhar v hiši Anthony
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8356
+idx:143

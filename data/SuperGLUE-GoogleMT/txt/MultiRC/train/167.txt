@@ -1,0 +1,72 @@
+version:1.1
+passage.text:Nekoč je imel Jimmy mamo, ki mu je rekla, da se dobro znajde v glasbi. Jimmy je hotel igrati glasbo. Ni vedel, na kateri instrument naj igra, zato je najprej poskusil klavir. Klavir je šel kot zvok. Potem je poskusil s kitaro. Zaigrala je kitara. Njegov brat mu je rekel, da je klavir bolje začeti, zato je Jimmy igral klavir. Udaril je po tipkah. Jimmyjevemu bratu je bilo to všeč, mami pa to ni bilo všeč. Jimmy je poskusil igrati zelo tiho. Jimmyjevi mami je bilo to všeč, a Jimmyjevemu bratu to ni bilo všeč. Jimmy je poskusil igrati na sredini. Jimmyju je bilo to všeč, in Jimmyjevi mami je bilo to všeč, in Jimmyjevemu bratu. Bilo je odlično.
+passage.questions.2.question:Ko je Jimmy udaril po tipkah, komu ni bilo všeč?
+passage.questions.2.idx:1843.0
+passage.questions.2.answers.6.text:Jimmyjev oče
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:9628.0
+passage.questions.2.answers.5.text:Kitara
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:9627.0
+passage.questions.2.answers.4.text:Mati
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:9626.0
+passage.questions.2.answers.3.text:Jimmyjev brat
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:9625.0
+passage.questions.2.answers.2.text:Njegova mama
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9624.0
+passage.questions.2.answers.1.text:Njegov brat
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:9623.0
+passage.questions.2.answers.0.text:Jimmyjeva mama
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:9622.0
+passage.questions.1.question:Katera instrumenta je igral Jimmy?
+passage.questions.1.idx:1842.0
+passage.questions.1.answers.6.text:Klavir in violina
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:9621.0
+passage.questions.1.answers.5.text:Glasno in tiho
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:9620.0
+passage.questions.1.answers.4.text:Inštrument in glasba
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:9619.0
+passage.questions.1.answers.3.text:Kitara in klavir
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:9618.0
+passage.questions.1.answers.2.text:Klavir in kitara
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:9617.0
+passage.questions.1.answers.1.text:Mama in brat
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:9616.0
+passage.questions.1.answers.0.text:ključi, kladivo
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9615.0
+passage.questions.0.question:Ko je Jimmy igral tiho, komu ni bilo všeč?
+passage.questions.0.idx:1841
+passage.questions.0.answers.6.text:Jimmyjev oče
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:9614.0
+passage.questions.0.answers.5.text:Jimmyjev brat
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:9613.0
+passage.questions.0.answers.4.text:Njegova mama
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:9612.0
+passage.questions.0.answers.3.text:Klavir
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:9611.0
+passage.questions.0.answers.2.text:Brat
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:9610.0
+passage.questions.0.answers.1.text:Njegov brat
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:9609
+passage.questions.0.answers.0.text:Jimmyjeva mama
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:9608
+idx:167

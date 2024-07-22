@@ -1,0 +1,223 @@
+version:1.1
+passage.text:S človeškega vidika je življenjski prostor tam, kjer živite. Morda je vaše mesto, kraj ali soseska. Vaš življenjski prostor se lahko spremeni. Večina ljudi se v življenju nekajkrat premakne. A rastlina se ne more premakniti. Žival morda ni primerna za življenje na drugem območju. Habitat je naravni dom ali okolje organizma. Ljudje pogosto uničujejo habitate drugih organizmov. Izguba habitata lahko povzroči izumrtje vrst. Izumrtje je, ko vrsta za vedno izgine. Ko vrsta enkrat izumre, je ni več mogoče vrniti nazaj. Ljudje na več načinov povzročajo uničevanje habitatov. Obstajata dva pogosta načina, kako se to zgodi. Zemljišče se lahko očisti. Drug način je, ko žival ali rastlino pripeljejo na območje, kamor ne sodi.
+passage.questions.9.question:Zakaj se ljudje in rastline razlikujejo v načinu interakcije s svojimi habitati?
+passage.questions.9.idx:3030.0
+passage.questions.9.answers.3.text:Drugače komunicirajo s svojim okoljem.
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:15973.0
+passage.questions.9.answers.2.text:Večina ljudi se v življenju nekajkrat premakne, rastlina pa se ne more premakniti.
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:15972.0
+passage.questions.9.answers.1.text:Načrti pogosto spreminjajo svoj življenjski prostor.
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:15971.0
+passage.questions.9.answers.0.text:Ljudje pogosto spreminjajo svoje okolje.
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:15970.0
+passage.questions.8.question:Kaj je življenjski prostor?
+passage.questions.8.idx:3029.0
+passage.questions.8.answers.3.text:prostor za razmnoževanje
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:15969.0
+passage.questions.8.answers.2.text:prostor za jesti
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:15968.0
+passage.questions.8.answers.1.text:kraj, kjer živite
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:15967.0
+passage.questions.8.answers.0.text:Habitat je tam, kjer živite, ki je lahko vaše mesto, kraj ali soseska.
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:15966.0
+passage.questions.7.question:Katera sta dva pogosta načina uničenja habitatov?
+passage.questions.7.idx:3028.0
+passage.questions.7.answers.4.text:puščanje živali v njihovem naravnem okolju
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:15965.0
+passage.questions.7.answers.3.text:rastoča drevesa
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:15964.0
+passage.questions.7.answers.2.text:Dežela se čisti in ko žival ali rastlino pripeljejo na območje, ki ji ne pripada.
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:15963.0
+passage.questions.7.answers.1.text:čiščenje zemljišč
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:15962.0
+passage.questions.7.answers.0.text:pripeljali na območje, kamor ne sodijo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:15961.0
+passage.questions.6.question:Uničevanje navad lahko pripelje do tega, kar se dogaja?
+passage.questions.6.idx:3027.0
+passage.questions.6.answers.3.text:razmnoževanje pri vrstah
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:15960.0
+passage.questions.6.answers.2.text:selitev v nove habitate
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:15959.0
+passage.questions.6.answers.1.text:Izumrtje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:15958.0
+passage.questions.6.answers.0.text:izumrtje vrst
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:15957.0
+passage.questions.5.question:V tem odlomku so kot primer navedeni vaše mesto, mesto ali soseska?
+passage.questions.5.idx:3026.0
+passage.questions.5.answers.2.text:habitate, ki jih je mogoče premikati
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:15956.0
+passage.questions.5.answers.1.text:ekosistem
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:15955.0
+passage.questions.5.answers.0.text:habitiat
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:15954.0
+passage.questions.4.question:Kako ljudje povzročajo uničenje habitata?
+passage.questions.4.idx:3025.0
+passage.questions.4.answers.2.text:sajenje dreves
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:15953.0
+passage.questions.4.answers.1.text:čiščenje zemljišč
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15952.0
+passage.questions.4.answers.0.text:Zemljišče se lahko očisti ali ko se žival ali rastlina pripelje na območje, kamor ne sodi.
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:15951.0
+passage.questions.3.question:Kako ljudje vplivajo na habitate rastlin in živali?
+passage.questions.3.idx:3024.0
+passage.questions.3.answers.2.text:Živali vplivajo na življenjski prostor ljudi.
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15950.0
+passage.questions.3.answers.1.text:Ljudje pogosto uničujejo habitate drugih organizmov, kar lahko pogosto privede do njihovega izumrtja.
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:15949.0
+passage.questions.3.answers.0.text:Živali pogosto uničijo svoje habitate
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15948.0
+passage.questions.2.question:Kako se odnos živali do njenega habitata razlikuje od človeka?
+passage.questions.2.idx:3023.0
+passage.questions.2.answers.1.text:Živali se morda ne bodo mogle premikati po habitatih, ker morda niso primerne za druge lokacije. Ljudje se lahko gibljejo in prilagajajo.
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15947.0
+passage.questions.2.answers.0.text:Ljudje morda niso primerni za drug življenjski prostor
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15946.0
+passage.questions.16.question:Katera sta dva pogosta načina, kako človeški vzrok uničuje habitat?
+passage.questions.16.idx:3037.0
+passage.questions.16.answers.3.text:zapuščajo živali same.
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:16000.0
+passage.questions.16.answers.2.text:rastoča drevesa
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:15999.0
+passage.questions.16.answers.1.text:čiščenje zemljišč
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:15998.0
+passage.questions.16.answers.0.text:pripeljali na območje, kamor ne sodijo
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:15997.0
+passage.questions.15.question:Na koliko pogostih načinov ljudje povzročijo uničenje habitata?
+passage.questions.15.idx:3036.0
+passage.questions.15.answers.2.text:deset
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:15996.0
+passage.questions.15.answers.1.text:dva
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:15995.0
+passage.questions.15.answers.0.text:2.
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:15994.0
+passage.questions.14.question:Kaj povzroči, da vrsta za vedno izgine in je ne bi mogli več vrniti?
+passage.questions.14.idx:3035.0
+passage.questions.14.answers.2.text:rast habitata
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:15993.0
+passage.questions.14.answers.1.text:Izumrtje
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:15992.0
+passage.questions.14.answers.0.text:izguba habitata
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:15991.0
+passage.questions.13.question:Glede na to, s katerega vidika lahko spremenite svoj življenjski prostor?
+passage.questions.13.idx:3034.0
+passage.questions.13.answers.1.text:rastlin
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:15990.0
+passage.questions.13.answers.0.text:človek
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:15989.0
+passage.questions.12.question:Ko je vrsta izumrla, jo lahko vrnemo nazaj?
+passage.questions.12.idx:3033.0
+passage.questions.12.answers.4.text:ja
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:15988.0
+passage.questions.12.answers.3.text:Da, lahko se vrne nazaj
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:15987.0
+passage.questions.12.answers.2.text:št
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:15986.0
+passage.questions.12.answers.1.text:ne, vrsta je izumrla
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:15985.0
+passage.questions.12.answers.0.text:ne, za vedno ni več.
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:15984.0
+passage.questions.11.question:Ali je mogoče spremeniti življenjski prostor in kakšen rezultat bi lahko bil?
+passage.questions.11.idx:3032.0
+passage.questions.11.answers.4.text:št
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:15983.0
+passage.questions.11.answers.3.text:Izid ne more biti
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:15982.0
+passage.questions.11.answers.2.text:ja
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:15981.0
+passage.questions.11.answers.1.text:Habitat se lahko spremeni, vendar lahko povzroči izumrtje vrste.
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:15980.0
+passage.questions.11.answers.0.text:da, habitat je mogoče spremeniti
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:15979.0
+passage.questions.10.question:Kakšna sta dva načina, kako ljudje uničujejo habitate?
+passage.questions.10.idx:3031.0
+passage.questions.10.answers.4.text:puščanje živali v njihovem naravnem okolju
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:15978.0
+passage.questions.10.answers.3.text:Pripeljati otroke
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:15977.0
+passage.questions.10.answers.2.text:Čiščenje njihovega telesa
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:15976.0
+passage.questions.10.answers.1.text:Čiščenje zemlje.
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:15975.0
+passage.questions.10.answers.0.text:Pripeljati živali in načrte na območje, kamor ne sodijo
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:15974.0
+passage.questions.1.question:V čem se življenjski prostor ljudi razlikuje od rastlinskega?
+passage.questions.1.idx:3022.0
+passage.questions.1.answers.1.text:rastlinski habitat se lahko premika.
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15945.0
+passage.questions.1.answers.0.text:Ljudje se lahko premikajo in spreminjajo habitate, rastline pa se ne morejo sami spreminjati.
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:15944.0
+passage.questions.0.question:Kaj ljudje menijo, da so značilnosti habitata?
+passage.questions.0.idx:3021
+passage.questions.0.answers.4.text:človeškega vidika
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:15943.0
+passage.questions.0.answers.3.text:se ne more premikati
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:15942.0
+passage.questions.0.answers.2.text:življenjski prostor je kraj vašega bivanja.
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15941.0
+passage.questions.0.answers.1.text:Življenjski prostor je tam, kjer živite. Morda je vaše mesto, kraj ali soseska. Vaš življenjski prostor se lahko spremeni.
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:15940
+passage.questions.0.answers.0.text:se lahko spremeni
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:15939
+idx:270

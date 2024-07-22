@@ -1,0 +1,6 @@
+choice1:Predsednik je na zakon vložil veto.
+choice2:Zakonodajalec je zakon sprejel.
+idx:76
+label:1
+premise:Lobist je prepričal zakonodajalca, da predlog zakona podpre.
+question:effect

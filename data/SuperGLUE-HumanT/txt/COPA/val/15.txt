@@ -1,0 +1,6 @@
+choice1:V sodišču je izbruhnil kaos.
+choice2:Porota je oznanila svojo odločitev.
+idx:15
+label:0
+premise:Sodnik je udaril s kladivcem.
+question:cause

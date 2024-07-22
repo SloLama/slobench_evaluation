@@ -1,0 +1,6 @@
+choice1:Policist je detektivu zasegel značko.
+choice2:Policist je pustil detektiva na kraj zločina.
+idx:219
+label:1
+premise:Detektiv je policiji poslal svojo značko.
+question:effect

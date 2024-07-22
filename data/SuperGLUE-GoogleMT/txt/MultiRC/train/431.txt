@@ -1,0 +1,205 @@
+version:1.1
+passage.text:Ujeti trenutki Willa Shetterlyja Spomnim se Papinega zabojnika, modro modrega Tiempa Capturado, ki ga je mama prinesla domov za rojstni dan. Bilo je ogromno in neučinkovito in nikoli ne bi smela porabiti toliko pesosov za igračo, a oče ji ni dovolil, da jo vrne. Z njim je konzerviral otroške paradižnike, kumare in jagode v prosojnih kockah, ki jih je sredi zime shranjeval v shrambi za spomladanske obroke. Mama je hranila svojo norco, družinsko roko, varno od časa do časa v zabojčku in kapturador posodila mojemu stricu za zbiranje znamk. Včasih so nam malčkom pustili, da smo zapečatili dragoceno igračo ali zadnji kos rojstnodnevne torte, dokler jih nismo prosili za izpust, običajno nekaj ur po zaprtju. Ko je oče umrl, leto dni po tem, ko smo mama in sestre očistile njihovo stanovanje. Otroške čevlje smo našli zaščitene v zabojih. Svojega sem odpeljal domov, kjer so sedeli nad mojim računalnikom, medtem ko sem delal na svoji prvi predstavi. Neke noči, ko nisem verjel, da ljubezen ni nikoli nikogar obstajala, sem s svojim lastnim capturadorjem, mehkim titanovim Sanyo Tardar Ahora, odpravil zaboj. Ko sem se obraz približal čevljem, sem globoko vdihnil zrak, ki so ga ujeli moji starši, medtem ko so mi zapirali simbol ljubezni do mene. Ta trenutek bi se izboljšal, če bi moje otroške čevlje očistili, preden so jih zaprli. Toda takoj, ko sem zakašljal, sem se zasmejal in se tiste noči nisem poskušal ubiti.
+passage.questions.9.question:Zakaj je govornik zakašljal?
+passage.questions.9.idx:4848.0
+passage.questions.9.answers.4.text:Ker se tiste noči nisem poskušal ubiti
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:25898.0
+passage.questions.9.answers.3.text:Otroški čevlji niso bili očiščeni
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:25897.0
+passage.questions.9.answers.2.text:Vonj
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:25896.0
+passage.questions.9.answers.1.text:Simbol njihove ljubezni do mene
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:25895.0
+passage.questions.9.answers.0.text:Ker sem se smejal
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:25894.0
+passage.questions.8.question:Kateri predmet očetu ne bi dovolil, da se mama vrne?
+passage.questions.8.idx:4847.0
+passage.questions.8.answers.2.text:Mink jakna
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:25893.0
+passage.questions.8.answers.1.text:Zaustavitev, modro modra Tiempo Capturado
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:25892.0
+passage.questions.8.answers.0.text:Tiempo Capturado
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:25891.0
+passage.questions.7.question:Kaj je bila jakna mamas mink?
+passage.questions.7.idx:4846.0
+passage.questions.7.answers.2.text:Zbiranje znamk
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:25890.0
+passage.questions.7.answers.1.text:Družina me je predala
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:25889.0
+passage.questions.7.answers.0.text:Prijatelj mi je dal roko
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:25888.0
+passage.questions.6.question:Kakšen razlog je avtor navedel za kašljanje po vdihu zraka iz zapornice, v kateri so bili shranjeni otroški čevlji?
+passage.questions.6.idx:4845.0
+passage.questions.6.answers.3.text:Bojna glava
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:25887.0
+passage.questions.6.answers.2.text:Otroški čevlji niso bili očiščeni
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:25886.0
+passage.questions.6.answers.1.text:Otroški čevlji niso bili očiščeni, preden so bili zaprti
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:25885.0
+passage.questions.6.answers.0.text:Simbol njune ljubezni do nje
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:25884.0
+passage.questions.5.question:Kakšno barvo je imel izdelek, ki ga mama ne bi vrnila?
+passage.questions.5.idx:4844.0
+passage.questions.5.answers.2.text:Očka za ustavitev
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:25883.0
+passage.questions.5.answers.1.text:Prosojna
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:25882.0
+passage.questions.5.answers.0.text:Teal modro
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:25881.0
+passage.questions.4.question:Kaj je sedelo na računalniku?
+passage.questions.4.idx:4843.0
+passage.questions.4.answers.4.text:Otroški čevlji
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:25880.0
+passage.questions.4.answers.3.text:Škatle
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25879.0
+passage.questions.4.answers.2.text:Will Shetterly
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:25878.0
+passage.questions.4.answers.1.text:Moj računalnik
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:25877.0
+passage.questions.4.answers.0.text:Zakladna igrača ali zadnji kos rojstnodnevne torte
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:25876.0
+passage.questions.3.question:Kaj je sedelo nad mojim računalnikom, medtem ko sem delal?
+passage.questions.3.idx:4842.0
+passage.questions.3.answers.2.text:Otroški čevlji
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25875.0
+passage.questions.3.answers.1.text:Moj račun
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25874.0
+passage.questions.3.answers.0.text:Škatle
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:25873.0
+passage.questions.2.question:Kaj so našli, ko so pospravili stanovanje staršev?
+passage.questions.2.idx:4841.0
+passage.questions.2.answers.5.text:Otroški čevlji so zaščiteni v zabojih
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:25872.0
+passage.questions.2.answers.4.text:Moj računalnik
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25871.0
+passage.questions.2.answers.3.text:Zakladna igrača ali zadnji kos rojstnodnevne torte
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25870.0
+passage.questions.2.answers.2.text:Capturador, mehek titan Sanyo Tardar Ahora
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25869.0
+passage.questions.2.answers.1.text:Mink jakna
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:25868.0
+passage.questions.2.answers.0.text:Zaboj
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:25867.0
+passage.questions.14.question:Kje v avtorjevem domu so bili shranjeni predmeti, ki so jih avtor in njihovi bratje in sestre našli v očka njegovega očeta po njegovi smrti?
+passage.questions.14.idx:4853.0
+passage.questions.14.answers.3.text:Naši otroški čevlji
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:25919.0
+passage.questions.14.answers.2.text:Škatle
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:25918.0
+passage.questions.14.answers.1.text:Na vrhu njihovega računalnika
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:25917.0
+passage.questions.14.answers.0.text:Nad njenim računalnikom, medtem ko je delala
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:25916.0
+passage.questions.13.question:Kaj je ohranil papa?
+passage.questions.13.idx:4852.0
+passage.questions.13.answers.3.text:Pomladni obroki sredi zime
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:25915.0
+passage.questions.13.answers.2.text:Otroški čevlji
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:25914.0
+passage.questions.13.answers.1.text:Otroški paradižniki, kumare in jagode
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:25913.0
+passage.questions.13.answers.0.text:Paradižnik, kumare in jagode
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:25912.0
+passage.questions.12.question:Kaj so našli med zabojčki med čiščenjem očetovega stanovanja?
+passage.questions.12.idx:4851.0
+passage.questions.12.answers.1.text:Otroški čevlji
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:25911.0
+passage.questions.12.answers.0.text:Zbiranje znamk
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:25910.0
+passage.questions.11.question:Kdo ji ne bi dovolil, da vrne igrače?
+passage.questions.11.idx:4850.0
+passage.questions.11.answers.4.text:Očka
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:25909.0
+passage.questions.11.answers.3.text:Avtor
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:25908.0
+passage.questions.11.answers.2.text:Stric
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:25907.0
+passage.questions.11.answers.1.text:Predsednik
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:25906.0
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:25905.0
+passage.questions.10.question:Za kaj je oče uporabil rojstnodnevno darilo?
+passage.questions.10.idx:4849.0
+passage.questions.10.answers.5.text:Zapraviti toliko pesosov za igračo
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:25904.0
+passage.questions.10.answers.4.text:Za ohranitev paradižnika, kumar in jagod v prosojnih kockah
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:25903.0
+passage.questions.10.answers.3.text:Za pomladne obroke sredi zime
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:25902.0
+passage.questions.10.answers.2.text:Mink jakna
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:25901.0
+passage.questions.10.answers.1.text:Prosil jih je za njegovo izdajo
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:25900.0
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:25899.0
+passage.questions.1.question:Koliko let po materi je umrl oče?
+passage.questions.1.idx:4840.0
+passage.questions.1.answers.2.text:1 leto
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25866.0
+passage.questions.1.answers.1.text:Leto
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:25865.0
+passage.questions.1.answers.0.text:Takoj
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:25864.0
+passage.questions.0.question:Kaj je avtorjev papa shranil v zabojnik na svoj rojstni dan?
+passage.questions.0.idx:4839
+passage.questions.0.answers.1.text:Mink jakna
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25863
+passage.questions.0.answers.0.text:Otroški paradižniki, kumare in jagode
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:25862
+idx:431

@@ -1,0 +1,6 @@
+choice1:Prodajni sodelavec je kupcu premalo plačal.
+choice2:Prodajni sodelavec se je do kupca obnašal nesramno.
+idx:9
+label:1
+premise:Kupec je pri upravitelju trgovine vložil pritožbo.
+question:cause

@@ -1,0 +1,4 @@
+idx:2998
+label:False
+passage:Izbirno razvrščanje - v računalništvu je izbirno razvrščanje algoritem za razvrščanje, natančneje primerjalno razvrščanje na mestu. Ima O (n) časovno zapletenost, zaradi česar je neučinkovit na velikih seznamih in je na splošno slabši od podobne vrste vstavljanja. Izbirna vrsta je opazna zaradi svoje preprostosti in ima v nekaterih situacijah prednosti pred bolj zapletenimi algoritmi, zlasti kadar je pomožni pomnilnik omejen.
+question:je sorta izbire učinkovitejša od sortiranja vstavljanja

@@ -1,0 +1,199 @@
+version:1.1
+passage.text:Iz Babilona je Aleksander odšel v Suzo, eno od ahemenidskih prestolnic, in zajel njeno legendarno zakladnico. Glavnino svoje vojske je po kraljevi cesti poslal v perzijsko slovesno prestolnico Perzepolis. Aleksander sam je izbrane vojake odpeljal na neposredno pot v mesto. Moral je vdreti v prelaz Perzijskih vrat (v sodobnih gorah Zagros), ki jih je perzijska vojska blokirala pod Ariobarzanesom, nato pa pohitel v Perzepolis, preden je njegova posadka lahko zaplenila zakladnico. Ko je Aleksander vstopil v Perzepolis, je svojim vojakom dovolil, da so več dni plenili mesto. Aleksander je v Perzepolisu ostal pet mesecev. Med njegovim bivanjem je v vzhodni palači Kserksa izbruhnil požar in se razširil na preostali del mesta. Možni vzroki vključujejo pijano nesrečo ali namerno maščevanje zaradi zgorevanja Atenske akropole med drugo perzijsko vojno.
+passage.questions.9.question:Po kateri poti je Aleksander vstopil v Perzepolis?
+passage.questions.9.idx:477.0
+passage.questions.9.answers.2.text:Preko Kraljevske ceste
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2494.0
+passage.questions.9.answers.1.text:Po neposredni poti
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2493.0
+passage.questions.9.answers.0.text:Egiptovska vrata
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2492.0
+passage.questions.8.question:Aleksander je dovolil svoji vojski, da je plenil Perzepolis, potem ko se je boril proti kateri vojski?
+passage.questions.8.idx:476.0
+passage.questions.8.answers.1.text:Grška vojska
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2491.0
+passage.questions.8.answers.0.text:Perzijska vojska
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:2490.0
+passage.questions.7.question:Je šel Aleksander s svojimi četami?
+passage.questions.7.idx:475.0
+passage.questions.7.answers.1.text:Da
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:2489.0
+passage.questions.7.answers.0.text:Ne
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2488.0
+passage.questions.6.question:Kako dolgo so bili Aleksander in njegove čete v Perzepolisu?
+passage.questions.6.idx:474.0
+passage.questions.6.answers.3.text:Štiri
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2487.0
+passage.questions.6.answers.2.text:Pet mesecev
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:2486.0
+passage.questions.6.answers.1.text:Nekaj tednov
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2485.0
+passage.questions.6.answers.0.text:Njegove čete so več dni plenile, nato pa je Aleksander ostal pet mesecev
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2484.0
+passage.questions.5.question:Kateri incident se je zgodil, da so bili možni vzroki pijana nesreča ali maščevanje?
+passage.questions.5.idx:473.0
+passage.questions.5.answers.4.text:Izbruhnil je požar
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2483.0
+passage.questions.5.answers.3.text:Nekaj topništva je izginilo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2482.0
+passage.questions.5.answers.2.text:Cestna nesreča ali namerno maščevanje za
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2481.0
+passage.questions.5.answers.1.text:Požar
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2480.0
+passage.questions.5.answers.0.text:Pijana nesreča ali namerno maščevanje za požganje Akropole
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2479.0
+passage.questions.4.question:Kako dolgo je Aleksander ostal v Perzepolisu in je med tem ko je zagorelo?
+passage.questions.4.idx:472.0
+passage.questions.4.answers.2.text:Teden in ne
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2478.0
+passage.questions.4.answers.1.text:5 mesecev in ja
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2477.0
+passage.questions.4.answers.0.text:Nekaj mesecev in ja
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2476.0
+passage.questions.3.question:V katero glavno mesto se je po Suzi odpravil Aleksander?
+passage.questions.3.idx:471.0
+passage.questions.3.answers.1.text:Grčija
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2475.0
+passage.questions.3.answers.0.text:Perzepolis
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2474.0
+passage.questions.2.question:Je Aleksander vdrl na Perzijska vrata in vstopil v Perzepolis?
+passage.questions.2.idx:470.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:2473.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:2472.0
+passage.questions.16.question:Kakšna odškodnina se je morda zgodila zaradi sežiganja Atenske Akropole?
+passage.questions.16.idx:484.0
+passage.questions.16.answers.2.text:Požar je izbruhnil v vzhodni palači Xerxes
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:2519.0
+passage.questions.16.answers.1.text:Poplava
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:2518.0
+passage.questions.16.answers.0.text:Izbruhnil je požar
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:2517.0
+passage.questions.15.question:Kateri so možni vzroki požara, ki je izbruhnil v vzhodni palači Kserksa?
+passage.questions.15.idx:483.0
+passage.questions.15.answers.4.text:Pijana nesreča ali maščevanje
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:2516.0
+passage.questions.15.answers.3.text:Pijana nesreča ali namerno maščevanje
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:2515.0
+passage.questions.15.answers.2.text:Samogorevanje
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2514.0
+passage.questions.15.answers.1.text:Pijana nesreča ali namerno maščevanje zaradi zgorevanja Akropole
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:2513.0
+passage.questions.15.answers.0.text:Vojna
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:2512.0
+passage.questions.14.question:Kam sta Aleksandra in njegova vojska odšla po Babilonu?
+passage.questions.14.idx:482.0
+passage.questions.14.answers.3.text:Suza
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:2511.0
+passage.questions.14.answers.2.text:Grčija
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:2510.0
+passage.questions.14.answers.1.text:Musa
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:2509.0
+passage.questions.14.answers.0.text:Suza, Perzepolis
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:2508.0
+passage.questions.13.question:Kateri so možni vzroki za incident, ki se je začel v palači Xerxes?
+passage.questions.13.idx:481.0
+passage.questions.13.answers.1.text:Pijana nesreča ali namerno maščevanje
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:2507.0
+passage.questions.13.answers.0.text:Krava je brcnila svečo
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:2506.0
+passage.questions.12.question:Kako je Aleksander vzel Perzepolis?
+passage.questions.12.idx:480.0
+passage.questions.12.answers.2.text:Po kraljevi cesti je šel po neposredni poti do mesta in vdrl v Perzijska vrata
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:2505.0
+passage.questions.12.answers.1.text:Ko je Aleksander vstopil v Perzepolis, je svojim vojakom več dni plenil mesto
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2504.0
+passage.questions.12.answers.0.text:S silo
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2503.0
+passage.questions.11.question:Kdo je poslal glavnino svoje vojske v Perzepolis?
+passage.questions.11.idx:479.0
+passage.questions.11.answers.2.text:Aleksander
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:2502.0
+passage.questions.11.answers.1.text:Suza
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2501.0
+passage.questions.11.answers.0.text:George
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2500.0
+passage.questions.10.question:Kaj se je zgodilo s Perzepolisom v času Aleksandrovega bivanja in kaj je povzročilo ta dogodek?
+passage.questions.10.idx:478.0
+passage.questions.10.answers.4.text:V vzhodni palači Kserksa je izbruhnil požar, ki ga je povzročila pijana nesreča ali maščevanje
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:2499.0
+passage.questions.10.answers.3.text:Aleksander je svojim vojakom dovolil, da plenijo
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:2498.0
+passage.questions.10.answers.2.text:Aleksander je svojim vojakom dovolil osvajanje
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2497.0
+passage.questions.10.answers.1.text:Bilo je praznovanje
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2496.0
+passage.questions.10.answers.0.text:Med njegovim bivanjem je v vzhodni palači Xerxes izbruhnil požar
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:2495.0
+passage.questions.1.question:Med njegovim bivanjem v katerem mestu je zagorelo na preostalem območju?
+passage.questions.1.idx:469.0
+passage.questions.1.answers.2.text:Grčija
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2471.0
+passage.questions.1.answers.1.text:Xerxeles
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:2470.0
+passage.questions.1.answers.0.text:Perzepolis
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:2469.0
+passage.questions.0.question:Kam je Aleksander odpeljal izbrane čete na neposredno pot?
+passage.questions.0.idx:468
+passage.questions.0.answers.2.text:S čolnom
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2468.0
+passage.questions.0.answers.1.text:Po kraljevi cesti
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2467
+passage.questions.0.answers.0.text:Perzepolis
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2466
+idx:39

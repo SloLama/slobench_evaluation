@@ -1,0 +1,6 @@
+choice1:Uničili so njihovo življenjsko okolje.
+choice2:Njeni plenilci so izumrli.
+idx:64
+label:0
+premise:Živalska vrsta je bila ogrožena.
+question:cause

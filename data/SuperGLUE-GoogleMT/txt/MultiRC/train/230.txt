@@ -1,0 +1,278 @@
+version:1.1
+passage.text:Veste, da trenje povzroča tudi toploto. Pomislite, kdaj si drgnete roke. Zaradi trenja jih greje. Zakaj pa se to zgodi? Zaradi trenja se molekule na drgnjenih površinah hitreje premikajo. Hitreje premikajoči se delci imajo več toplotne energije. Toplota zaradi trenja je lahko koristna. Si lahko omislite druge kraje, kjer bi lahko našli trenje? Trenje vam omogoča tudi prižiganje vžigalice. Težave lahko povzroči tudi toplota zaradi trenja. Lahko povzroči pregrevanje avtomobila. Za zmanjšanje trenja se motorju doda olje. Olje prevleče površine gibljivih delov. Ta premaz olja jih naredi spolzke. Ko so stvari spolzke, je trenja manj. Ste že kdaj videli napis, ki pravi, da je spolzko, ko je mokro? Tudi to je povezano s trenjem. Voda, tako kot olje, lahko zmanjša trenje. Mokra površina lahko omogoči lažje drsenje čevljev.
+passage.questions.9.question:Ali lahko olje zmanjša količino toplote, ki nastaja iz gibljivih delov avtomobila?
+passage.questions.9.idx:2575.0
+passage.questions.9.answers.2.text:Lahko povzroči pregrevanje
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:13590.0
+passage.questions.9.answers.1.text:Včasih
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:13589.0
+passage.questions.9.answers.0.text:Da
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:13588.0
+passage.questions.8.question:Kaj lahko storimo, da preprečimo težave s trenjem v motorjih?
+passage.questions.8.idx:2574.0
+passage.questions.8.answers.7.text:V motor se doda olje
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:13587.0
+passage.questions.8.answers.6.text:Obložen je s peskom
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:13586.0
+passage.questions.8.answers.5.text:Motorju je dodan antifriz
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:13585.0
+passage.questions.8.answers.4.text:Površine gibljivih delov so lahko prevlečene z oljem
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:13584.0
+passage.questions.8.answers.3.text:Dodajte vodo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:13583.0
+passage.questions.8.answers.2.text:V motor se doda voda
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:13582.0
+passage.questions.8.answers.1.text:Dodajte olje
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:13581.0
+passage.questions.8.answers.0.text:Spolzka
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:13580.0
+passage.questions.7.question:Zakaj postanejo vaše roke toplejše, ko jih drgnete skupaj?
+passage.questions.7.idx:2573.0
+passage.questions.7.answers.8.text:Premikanje rok
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:13579.0
+passage.questions.7.answers.7.text:Iz mehanske reakcije
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:13578.0
+passage.questions.7.answers.6.text:Zaradi mase
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:13577.0
+passage.questions.7.answers.5.text:Zaradi trenja se molekule premikajo hitreje
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:13576.0
+passage.questions.7.answers.4.text:Od električnega toka
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:13575.0
+passage.questions.7.answers.3.text:Iz kemijske reakcije
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:13574.0
+passage.questions.7.answers.2.text:Trenje, ki nastane z drgnjenjem, povzroči, da se molekule hitreje premikajo, hitreje gibljive molekule pa imajo več toplotne energije
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:13573.0
+passage.questions.7.answers.1.text:Zaradi trenja
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:13572.0
+passage.questions.7.answers.0.text:Zaradi trenja
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:13571.0
+passage.questions.6.question:Kaj je trenje?
+passage.questions.6.idx:2572.0
+passage.questions.6.answers.6.text:Sila, ki drži stvari na zemlji
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:13570.0
+passage.questions.6.answers.5.text:Trenje uničuje molekule
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:13569.0
+passage.questions.6.answers.4.text:Izmenjava molekul
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:13568.0
+passage.questions.6.answers.3.text:Zaradi trenja se molekule na drgnjenih površinah hitreje premikajo. Hitreje premikajoči se delci imajo več toplotne energije
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:13567.0
+passage.questions.6.answers.2.text:Zaradi trenja se molekule hitreje premikajo, da ustvarijo toplotno energijo
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:13566.0
+passage.questions.6.answers.1.text:Zaradi trenja se molekule na drgnjenih površinah hitreje premikajo
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:13565.0
+passage.questions.6.answers.0.text:Kemična reakcija
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:13564.0
+passage.questions.5.question:Kaj se lahko zgodi v avtomobilu, če je trenja preveč?
+passage.questions.5.idx:2571.0
+passage.questions.5.answers.7.text:Motor eksplodira
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:13563.0
+passage.questions.5.answers.6.text:Lahko se vname
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:13562.0
+passage.questions.5.answers.5.text:Pregrevanje motorja
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:13561.0
+passage.questions.5.answers.4.text:Vodna
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:13560.0
+passage.questions.5.answers.3.text:Pnevmatike se pokajo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:13559.0
+passage.questions.5.answers.2.text:Motor zamrzne
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:13558.0
+passage.questions.5.answers.1.text:Lahko se pregreje
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:13557.0
+passage.questions.5.answers.0.text:Avto se lahko pregreje
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:13556.0
+passage.questions.4.question:Se delci, podrgnjeni na spolzki površini, premikajo hitreje ali počasneje?
+passage.questions.4.idx:2570.0
+passage.questions.4.answers.2.text:Počasneje
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:13555.0
+passage.questions.4.answers.1.text:Hitreje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:13554.0
+passage.questions.4.answers.0.text:Premikanje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:13553.0
+passage.questions.3.question:Kako olje zmanjša trenje med premikajočimi se deli avtomobila?
+passage.questions.3.idx:2569.0
+passage.questions.3.answers.7.text:Avto naredi kul
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:13552.0
+passage.questions.3.answers.6.text:Tako, da se ustavijo
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:13551.0
+passage.questions.3.answers.5.text:Prevleče površino gibljivih delov, zaradi česar so spolzki, kar zmanjša trenje
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:13550.0
+passage.questions.3.answers.4.text:Tako, da so bolj spolzke
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:13549.0
+passage.questions.3.answers.3.text:Tako da jih ohladi
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:13548.0
+passage.questions.3.answers.2.text:Premakni se hitreje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:13547.0
+passage.questions.3.answers.1.text:Tako, da jih namočijo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13546.0
+passage.questions.3.answers.0.text:Spolzka
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:13545.0
+passage.questions.2.question:Zakaj jih drgnjenje rok ogreje?
+passage.questions.2.idx:2568.0
+passage.questions.2.answers.8.text:Premikanje rok
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:13544.0
+passage.questions.2.answers.7.text:Iz mehanske reakcije
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:13543.0
+passage.questions.2.answers.6.text:Od električnega toka
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:13542.0
+passage.questions.2.answers.5.text:Zaradi trenja se delci premikajo hitreje
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:13541.0
+passage.questions.2.answers.4.text:Iz kemijske reakcije
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:13540.0
+passage.questions.2.answers.3.text:Maša
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13539.0
+passage.questions.2.answers.2.text:Zaradi trenja se molekule na površini premikajo hitreje in hitreje imajo molekule več toplotne energije
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:13538.0
+passage.questions.2.answers.1.text:Trenje
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13537.0
+passage.questions.2.answers.0.text:Zaradi trenja
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13536.0
+passage.questions.12.question:Ali imate verjetno več trenja pri hoji po površini, prekriti z oljem ali vodo, kot po suhi površini?
+passage.questions.12.idx:2578.0
+passage.questions.12.answers.2.text:Trenje olja
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:13602.0
+passage.questions.12.answers.1.text:Suha površina
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:13601.0
+passage.questions.12.answers.0.text:Površina, prekrita z oljem ali vodo
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:13600.0
+passage.questions.11.question:Če poskušate ogreti roke tako, da jih drgnete skupaj, ko so mokre, se bodo ogrele in tudi skupaj, ko se posušijo?
+passage.questions.11.idx:2577.0
+passage.questions.11.answers.1.text:Včasih
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:13599.0
+passage.questions.11.answers.0.text:Ne
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:13598.0
+passage.questions.10.question:Kaj se zgodi, ko si drgnete roke?
+passage.questions.10.idx:2576.0
+passage.questions.10.answers.6.text:Toplo
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:13597.0
+passage.questions.10.answers.5.text:Dobijo odrgnine
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:13596.0
+passage.questions.10.answers.4.text:Trenje, zaradi katerega so tople
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:13595.0
+passage.questions.10.answers.3.text:Navlažijo se
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:13594.0
+passage.questions.10.answers.2.text:Ustvarjajo električne šoke
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:13593.0
+passage.questions.10.answers.1.text:Premakni se hitreje
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:13592.0
+passage.questions.10.answers.0.text:Trenje jih zažge
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:13591.0
+passage.questions.1.question:Kakšno težavo lahko povzroči trenje?
+passage.questions.1.idx:2567.0
+passage.questions.1.answers.7.text:Lahko povzroči pregrevanje avtomobila
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:13535.0
+passage.questions.1.answers.6.text:Lahko povzroči sončne žarke
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:13534.0
+passage.questions.1.answers.5.text:Lahko povzroči odrgnine
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:13533.0
+passage.questions.1.answers.4.text:Tudi toplota zaradi trenja lahko povzroči težave, tako kot se avtomobil pregreje
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:13532.0
+passage.questions.1.answers.3.text:Lahko povzroči spolzke ceste
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13531.0
+passage.questions.1.answers.2.text:Premakni se hitreje
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:13530.0
+passage.questions.1.answers.1.text:Lahko povzroči požar
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13529.0
+passage.questions.1.answers.0.text:Vročina
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13528.0
+passage.questions.0.question:Kaj bi se zgodilo, če bi iz tekočega motorja avtomobila izteklo vse olje?
+passage.questions.0.idx:2566
+passage.questions.0.answers.7.text:Povzročila bi nesreče
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:13527.0
+passage.questions.0.answers.6.text:Ta premaz olja jih naredi spolzke
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:13526.0
+passage.questions.0.answers.5.text:Zanetil bi ogenj
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:13525.0
+passage.questions.0.answers.4.text:Lahko bi se zažgalo
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:13524.0
+passage.questions.0.answers.3.text:Lahko se ustavi
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:13523.0
+passage.questions.0.answers.2.text:Pregrelo bi se
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:13522.0
+passage.questions.0.answers.1.text:Voda
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13521
+passage.questions.0.answers.0.text:Cesta bi se mazila
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13520
+idx:230

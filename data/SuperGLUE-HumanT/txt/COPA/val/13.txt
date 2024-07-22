@@ -1,0 +1,6 @@
+choice1:V družbi je želela imeti vodilni položaj.
+choice2:Prepričana je bila, da so njeni nadrejeni ravnali neetično.
+idx:13
+label:1
+premise:Ženska je pustila svojo službo.
+question:cause

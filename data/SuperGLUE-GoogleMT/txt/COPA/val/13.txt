@@ -1,0 +1,6 @@
+choice1:Prizadevala si je zasesti izvršni položaj v podjetju.
+choice2:Verjela je, da njeni nadrejeni delujejo neetično.
+idx:13
+label:1
+premise:Ženska je odstopila od službe.
+question:cause

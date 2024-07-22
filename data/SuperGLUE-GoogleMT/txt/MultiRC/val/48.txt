@@ -1,0 +1,208 @@
+version:1.1
+passage.text:V preteklosti je že živelo veliko organizmov. Le majhno število jih je postalo fosilov. Kljub temu se znanstveniki veliko naučijo iz fosilov. Fosili so naši najboljši namigi o zgodovini življenja na Zemlji. Fosili zagotavljajo dokaze o življenju na Zemlji. Povedo nam, da se je življenje na Zemlji skozi čas spremenilo. Fosili v mlajših kamninah so videti kot živali in rastline, ki živijo danes. Fosili v starejših kamninah so manj podobni živim organizmom. Fosili nam lahko povedo, kje je organizem živel. Je bilo kopno ali morje? Fosili nam lahko celo povedo, ali je bila voda plitva ali globoka. Fosili lahko celo namignejo na starodavno podnebje.
+passage.questions.7.question:Kaj lahko povemo o nekdanjih živih organizmih iz fosilov?
+passage.questions.7.idx:565.0
+passage.questions.7.answers.6.text:Koliko so bili stari
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:2911.0
+passage.questions.7.answers.5.text:Kje so živeli, pa tudi če so kopenske ali morske živali
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:2910.0
+passage.questions.7.answers.4.text:Kako so umrli
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:2909.0
+passage.questions.7.answers.3.text:Kako so se prilagodili
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2908.0
+passage.questions.7.answers.2.text:Kaj so jedli
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:2907.0
+passage.questions.7.answers.1.text:Kako so živeli
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:2906.0
+passage.questions.7.answers.0.text:Fosili nam lahko povedo, kje je organizem živel
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:2905.0
+passage.questions.6.question:Kateri omenjeni predmet ponuja informacije o zgodovini življenja na Zemlji, daje posnetek življenja skozi čas in lahko namiguje na podnebne spremembe?
+passage.questions.6.idx:564.0
+passage.questions.6.answers.4.text:Znanstveniki
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:2904.0
+passage.questions.6.answers.3.text:Fosili
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:2903.0
+passage.questions.6.answers.2.text:Podnebje
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2902.0
+passage.questions.6.answers.1.text:Izumrtje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2901.0
+passage.questions.6.answers.0.text:Dokazi
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2900.0
+passage.questions.5.question:V čem se fosili razlikujejo od mlajših do starejših?
+passage.questions.5.idx:563.0
+passage.questions.5.answers.6.text:Mlajši vsebujejo DNK
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:2899.0
+passage.questions.5.answers.5.text:Starejše fosile je težje najti
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:2898.0
+passage.questions.5.answers.4.text:Fosili v starejših kamninah so manj podobni živim organizmom
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:2897.0
+passage.questions.5.answers.3.text:Mlajši so danes videti kot živali in rastline, ki živijo danes, starejši pa manj kot živi organizmi
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2896.0
+passage.questions.5.answers.2.text:Starejši se bolj drobijo
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2895.0
+passage.questions.5.answers.1.text:Starejši so bolj kompaktni
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2894.0
+passage.questions.5.answers.0.text:Starejši fosili so manj podobni živim organizmom kot mlajši fosili
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2893.0
+passage.questions.4.question:Katere stvari nam lahko povedo fosili?
+passage.questions.4.idx:562.0
+passage.questions.4.answers.9.text:Namigi na starodavno podnebje
+passage.questions.4.answers.9.label:1.0
+passage.questions.4.answers.9.idx:2891.0
+passage.questions.4.answers.8.text:Katere živali so bile izumrle
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:2890.0
+passage.questions.4.answers.7.text:Povejte nam, kje živijo organizmi
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:2889.0
+passage.questions.4.answers.6.text:Povejte nam, ali je bila voda plitva ali globoka
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:2888.0
+passage.questions.4.answers.5.text:Koliko živali je bilo
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:2887.0
+passage.questions.4.answers.4.text:Če bi človek obstajal
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:2886.0
+passage.questions.4.answers.3.text:Kako se je življenje na Zemlji skozi čas spreminjalo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:2885.0
+passage.questions.4.answers.2.text:Povedo nam, da se je življenje na Zemlji skozi čas spremenilo, nam povedo, kje je živel organizem, in nam dajo podnebne sledi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:2884.0
+passage.questions.4.answers.10.text:Ali je bila voda plitva ali globoka ,, starodavno podnebje
+passage.questions.4.answers.10.label:1.0
+passage.questions.4.answers.10.idx:2892.0
+passage.questions.4.answers.1.text:Kje so živele živali, zakaj so umrle
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2883.0
+passage.questions.4.answers.0.text:Zgodovina življenja na zemlji
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2882.0
+passage.questions.3.question:Kaj se je zgodilo z nekaterimi organizmi, ki so živeli v preteklosti Zemlje?
+passage.questions.3.idx:561.0
+passage.questions.3.answers.6.text:Še vedno so živi
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:2881.0
+passage.questions.3.answers.5.text:Postali so fosili. Drugi niso postali fosili
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:2880.0
+passage.questions.3.answers.4.text:Izumrli so
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:2879.0
+passage.questions.3.answers.3.text:Izumrli so
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2878.0
+passage.questions.3.answers.2.text:Prilagodili so se
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2877.0
+passage.questions.3.answers.1.text:Razvili so se
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2876.0
+passage.questions.3.answers.0.text:Umrli so
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2875.0
+passage.questions.2.question:Naštejte dve stvari, ki nam jih fosili lahko povedo o okolju?
+passage.questions.2.idx:560
+passage.questions.2.answers.7.text:Namigi na starodavno podnebje
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:2874.0
+passage.questions.2.answers.6.text:Katere živali so bile izumrle
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:2873.0
+passage.questions.2.answers.5.text:Povejte nam, ali je bila voda plitva ali globoka
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:2872.0
+passage.questions.2.answers.4.text:Koliko živali je bilo
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2871.0
+passage.questions.2.answers.3.text:Če bi človek obstajal
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:2870.0
+passage.questions.2.answers.2.text:Lahko razkrijejo, ali je bil narejen v plitvih ali globokih vodah in podnebnih težavah
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2869.0
+passage.questions.2.answers.1.text:Staro podnebje, kako so živeli organizmi
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:2868
+passage.questions.2.answers.0.text:Katere živali so jedle, zakaj so umrle
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:2867
+passage.questions.1.question:Kakšna je glavna razlika med mlajšimi in starejšimi fosili?
+passage.questions.1.idx:559
+passage.questions.1.answers.6.text:Mlajše kamnine izgledajo kot živali in rastline današnjega časa, starejše kamnine so manj kot živi organizmi
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:2866.0
+passage.questions.1.answers.5.text:Mlajši fosili so bolj podobni rastlinskemu in živalskemu življenju, kot ga poznamo, starejši fosili pa manj kot živi organizmi, ki jih poznamo danes
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:2865.0
+passage.questions.1.answers.4.text:Mlajši vsebujejo DNK
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2864.0
+passage.questions.1.answers.3.text:Fosili v starejših kamninah so manj podobni živim organizmom
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:2863.0
+passage.questions.1.answers.2.text:Starejši se bolj drobijo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2862.0
+passage.questions.1.answers.1.text:Starejši so bolj kompaktni
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2861
+passage.questions.1.answers.0.text:Starejše kamnine so bolj grobe in debelejše od mlajših fosilov
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:2860
+passage.questions.0.question:Katere tri stvari se znanstveniki naučijo iz fosilov?
+passage.questions.0.idx:558
+passage.questions.0.answers.9.text:Katere živali so poginile
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:2858.0
+passage.questions.0.answers.8.text:Kako se je življenje na Zemlji skozi čas spreminjalo
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:2857.0
+passage.questions.0.answers.7.text:Življenje na zemlji se je spremenilo, kjer so živeli organizmi, namigi na staro podnebje
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:2856.0
+passage.questions.0.answers.6.text:Če so ljudje in dinozavri živeli skupaj, kaj so ljudje jedli, kje so bili nastanjeni
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:2855.0
+passage.questions.0.answers.5.text:Ponuja dokaze o življenju na Zemlji, zgodovini življenja na Zemlji in o tem, kako se je življenje spremenilo
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2854.0
+passage.questions.0.answers.4.text:Kako stara je Zemlja
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2853.0
+passage.questions.0.answers.3.text:Če je bila voda plitka ali globoka
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2852.0
+passage.questions.0.answers.2.text:Kdo je živel v prazgodovini
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2851.0
+passage.questions.0.answers.10.text:Povejte nam, kje živijo organizmi
+passage.questions.0.answers.10.label:1.0
+passage.questions.0.answers.10.idx:2859.0
+passage.questions.0.answers.1.text:Namigi na starodavno podnebje
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2850
+passage.questions.0.answers.0.text:Zgodovina življenja na zemlji
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2849
+idx:48

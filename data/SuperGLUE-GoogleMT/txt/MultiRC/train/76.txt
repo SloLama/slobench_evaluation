@@ -1,0 +1,177 @@
+version:1.1
+passage.text:Križarji, Mameluki in Turki: Križarji so ustanovili fevdalno krščansko državo z Godfreyjem na čelu. V času prvega Jeruzalemskega kraljestva so zgradili veliko impresivnih cerkva, vendar so jih leta 1187 muslimanske sile pregnale pod velikim bojevnikom Saladinom. Med šestim križarskim pohodom (1228–1229) je svetem rimskemu cesarju Frideriku II s pogajanji uspelo zagotoviti kristjanom Jeruzalem. Kristjani pa mesta niso mogli zadržati. Potem ko so izgubili Jeruzalem, je zajela mongolska invazija, leta 1244 pa je egiptovska dinastija Mameluk prevzela nadzor in vladala Jeruzalemu naslednjih 250 let. Mesto se je borilo za obnovo od križarskih vojn in napadov. Večina najboljše islamske arhitekture v mestu je bila zgrajena v času Mamelukov, vendar je zadnjih tisoč let terjalo svoj davek: Jeruzalem si ni mogel povrniti blaginje, ki jo je užival v prejšnjih časih. V začetku 16. stoletja je Osmansko turško cesarstvo napredovalo po Bližnjem vzhodu. Leta 1517 je Jeruzalem padel pod Turke, 400 let pa je ostal pod njihovim nadzorom. Sulejman Veličastni je obnovil stene in vrata v obliki, ki so jo ohranili do danes. Zgrajene so bile fontane, gostilne, verske šole in vojašnice. Ko pa je Sulejman umrl, je njegovo cesarstvo, vključno z Jeruzalemom, začelo dolgo obdobje propada. Sveto mesto je ostalo v zaledju vse do 19. stoletja, ko je zaradi zanimanja krščanskih romarjev vsako leto postalo cilj tisočev popotnikov.
+passage.questions.8.question:Katero mesto si je prizadevalo obnoviti od križarskih vojn in napadov?
+passage.questions.8.idx:887.0
+passage.questions.8.answers.7.text:Egipt
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:4604.0
+passage.questions.8.answers.6.text:puran
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:4603.0
+passage.questions.8.answers.5.text:Mongolija
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:4602.0
+passage.questions.8.answers.4.text:Rim
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:4601.0
+passage.questions.8.answers.3.text:Konstantinopel
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4600.0
+passage.questions.8.answers.2.text:Sveto mesto
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:4599.0
+passage.questions.8.answers.1.text:Tel Aviv
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4598.0
+passage.questions.8.answers.0.text:Jeruzalem
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4597.0
+passage.questions.7.question:Koga so muslimanske sile pregnale pod velikim bojevnikom Saladinom leta 1187?
+passage.questions.7.idx:886.0
+passage.questions.7.answers.3.text:muslimani
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4596.0
+passage.questions.7.answers.2.text:Templjarji
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4595.0
+passage.questions.7.answers.1.text:Gladiatorji
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4594.0
+passage.questions.7.answers.0.text:Križarji
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4593.0
+passage.questions.6.question:Kdo je dal v Jeruzalemu zgraditi vodnjake, gostilne, verske šole in vojašnice?
+passage.questions.6.idx:885.0
+passage.questions.6.answers.3.text:Cezar Avgust
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:4592.0
+passage.questions.6.answers.2.text:kristjani
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4591.0
+passage.questions.6.answers.1.text:Aleksander Veliki
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4590.0
+passage.questions.6.answers.0.text:Sulejman Veličastni
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4589.0
+passage.questions.5.question:Katerega mesta v času šeste križarske vojne niso mogli kristjani?
+passage.questions.5.idx:884.0
+passage.questions.5.answers.4.text:Rim
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:4588.0
+passage.questions.5.answers.3.text:Islam
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4587.0
+passage.questions.5.answers.2.text:Konstantinopel
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4586.0
+passage.questions.5.answers.1.text:Tel Aviv
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4585.0
+passage.questions.5.answers.0.text:Jeruzalem
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4584.0
+passage.questions.4.question:Kdo je v času prvega Jeruzalemskega kraljestva zgradil veliko impresivnih cerkva?
+passage.questions.4.idx:883.0
+passage.questions.4.answers.5.text:Kristjani
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:4583.0
+passage.questions.4.answers.4.text:muslimani
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4582.0
+passage.questions.4.answers.3.text:Judje
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4581.0
+passage.questions.4.answers.2.text:Hebrejci
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4580.0
+passage.questions.4.answers.1.text:Križarji
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4579.0
+passage.questions.4.answers.0.text:Dinastija Mameluke
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4578.0
+passage.questions.3.question:Kdo v nekem trenutku NI vladal Jeruzalemu?
+passage.questions.3.idx:882.0
+passage.questions.3.answers.4.text:Američani
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:4577.0
+passage.questions.3.answers.3.text:Dinastija Mamelukov
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:4576.0
+passage.questions.3.answers.2.text:Osmanlije
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:4575.0
+passage.questions.3.answers.1.text:Kristjani
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4574.0
+passage.questions.3.answers.0.text:Muslimani
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4573.0
+passage.questions.2.question:Kdo je nekoč vladal Jeruzalem?
+passage.questions.2.idx:881.0
+passage.questions.2.answers.5.text:Izrael
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:4572.0
+passage.questions.2.answers.4.text:Gali
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4571.0
+passage.questions.2.answers.3.text:Dinastija Mamelukov
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4570.0
+passage.questions.2.answers.2.text:Osmanlije
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4569.0
+passage.questions.2.answers.1.text:Kristjani
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:4568.0
+passage.questions.2.answers.0.text:Muslimani
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4567.0
+passage.questions.1.question:Kaj se je zgodilo z Jeruzalemom, potem ko so ga kristjani izgubili?
+passage.questions.1.idx:880.0
+passage.questions.1.answers.6.text:muslimani so odšli in odšli drugam
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:4566.0
+passage.questions.1.answers.5.text:Jeruzalem je postal bogat
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:4565.0
+passage.questions.1.answers.4.text:Blaginja Rima je upadala
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:4564.0
+passage.questions.1.answers.3.text:V Jeruzalemu je nastalo veliko islamske umetnosti.
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4563.0
+passage.questions.1.answers.2.text:Dinastija Mameluk je prevzela nadzor in si ga prizadevala obnoviti.
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4562.0
+passage.questions.1.answers.1.text:Blaginja Jeruzalema je upadala
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:4561.0
+passage.questions.1.answers.0.text:preplavila se je mongolska invazija
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4560.0
+passage.questions.0.question:Kaj se je zgodilo med šestim križarskim pohodom s kristjani?
+passage.questions.0.idx:879
+passage.questions.0.answers.6.text:Saladin je prevzel Jeruzalem
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:4559.0
+passage.questions.0.answers.5.text:muslimani so lahko prehiteli ozemlje
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:4558.0
+passage.questions.0.answers.4.text:Osmansko cesarstvo je prevzelo nadzor nad Jeruzalemom
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4557.0
+passage.questions.0.answers.3.text:Dinastija Mameluke je prevzela nadzor nad Jeruzalemom
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4556.0
+passage.questions.0.answers.2.text:Kristjani so dobili nadzor nad Jeruzalemom
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:4555.0
+passage.questions.0.answers.1.text:Dobili so Jeruzalem, a so ga kmalu zatem izgubili.
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4554
+passage.questions.0.answers.0.text:Cesar svetega Rima Friderik II je s pogajanji uspel kristjanom zagotoviti Jeruzalem.
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4553
+idx:76

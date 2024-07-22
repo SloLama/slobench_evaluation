@@ -1,0 +1,118 @@
+version:1.1
+passage.text:To je zgodba o deklici in njenem psu. Deklica in njen pes sta se nekega dne odpravila v gozd. Ob vstopu v gozd sta deklica in njen pes ugotovila, da je gozd temen in hladen. Deklica se je nekoliko bala in razmišljala je, da bi se vrnila nazaj, a vendar so šli naprej. Dekliški pes se je zelo zanimal, kaj je v grmovju naprej. Na presenečenje punčke in psa je v grmovju počival majhen rjavi medved. Medvedek ni bil presenečen in ga deklica in njen pes sploh nista zanimala. Medved je pogledal deklico in skoraj kot da bi se ji nasmehnil. Nato je glavo naslonil na medvedje tace in šel nazaj spat. Deklica in pes sta še naprej hodila in končno prišla iz gozda. Do danes deklica ne ve, zakaj je bil medved tako prijazen, in do danes še nikomur ni povedala o srečanju z medvedom v gozdu.
+passage.questions.4.question:Katero žival je pes deklice zelo zanimal?
+passage.questions.4.idx:2624.0
+passage.questions.4.answers.7.text:Črni medved
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:13840.0
+passage.questions.4.answers.6.text:Riba
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:13839.0
+passage.questions.4.answers.5.text:Rjavi medved
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:13838.0
+passage.questions.4.answers.4.text:Pes
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:13837.0
+passage.questions.4.answers.3.text:Medved
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:13836.0
+passage.questions.4.answers.2.text:Majhen rjavi medved
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:13835.0
+passage.questions.4.answers.1.text:Mačka
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:13834.0
+passage.questions.4.answers.0.text:Velik medved
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:13833.0
+passage.questions.3.question:Kaj sta deklica in njen pes počela, ko sta bila presenečena?
+passage.questions.3.idx:2623.0
+passage.questions.3.answers.7.text:Hoditi
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:13832.0
+passage.questions.3.answers.6.text:Preganjanje medvedov
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:13831.0
+passage.questions.3.answers.5.text:Lov na medvede
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:13830.0
+passage.questions.3.answers.4.text:Sprehod po mrzlem temnem gozdu
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:13829.0
+passage.questions.3.answers.3.text:Hodili so po gozdu
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:13828.0
+passage.questions.3.answers.2.text:Sprehod po gozdu
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:13827.0
+passage.questions.3.answers.1.text:Igranje
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13826.0
+passage.questions.3.answers.0.text:Počitek na grmovju
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:13825.0
+passage.questions.2.question:Katero žival je zanimal pes dekleta?
+passage.questions.2.idx:2622.0
+passage.questions.2.answers.6.text:Majhen rjavi medved
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:13824.0
+passage.questions.2.answers.5.text:Majhen črni medved
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:13823.0
+passage.questions.2.answers.4.text:Majhen rjavi medved
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:13822.0
+passage.questions.2.answers.3.text:Ptica
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13821.0
+passage.questions.2.answers.2.text:Veliki črni medved
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:13820.0
+passage.questions.2.answers.1.text:Medved
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13819.0
+passage.questions.2.answers.0.text:Mačka
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:13818.0
+passage.questions.1.question:Je dekle ali njen spremljevalec komu povedal o srečanju z medvedom?
+passage.questions.1.idx:2621.0
+passage.questions.1.answers.4.text:Njenim staršem
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:13817.0
+passage.questions.1.answers.3.text:Ne, ni in njen spremljevalec je bil njen pes
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:13816.0
+passage.questions.1.answers.2.text:Ne
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:13815.0
+passage.questions.1.answers.1.text:Pes je nekomu povedal
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13814.0
+passage.questions.1.answers.0.text:Mogoče
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13813.0
+passage.questions.0.question:Kje je bil medved, ko je šel nazaj spat?
+passage.questions.0.idx:2620
+passage.questions.0.answers.6.text:V njegovem domu
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:13812.0
+passage.questions.0.answers.5.text:Igral se je
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:13811.0
+passage.questions.0.answers.4.text:V njegovi hiši
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:13810.0
+passage.questions.0.answers.3.text:V gozdu
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:13809.0
+passage.questions.0.answers.2.text:V grmovju
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:13808.0
+passage.questions.0.answers.1.text:Na jezeru
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13807
+passage.questions.0.answers.0.text:S psom
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13806
+idx:236

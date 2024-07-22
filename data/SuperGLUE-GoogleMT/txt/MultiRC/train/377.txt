@@ -1,0 +1,159 @@
+version:1.1
+passage.text:Izhodišče Madeire, ki se spodobi za bujen tropski otok sredi oceana, je zavito v skrivnost in domišljijsko legendo. Nekateri trdijo, da je arhipelag tisto, kar je ostalo od Platonove izgubljene Atlantide ali del kopnega, ki je nekoč stopil celine Evrope in Amerike. Portugalski korak na kopno: Zabeležena zgodovina vulkanskega arhipelaga se začne v relativno novejšem času: 1418, ravno ko je izbruhnila zlata doba portugalskih odkritij. Pod vodstvom Henrika Navigatorja so se karavle odpravile z najzahodnejše točke Algarve na jugu Portugalske v iskanju tujih dežel, slave in bogastva. João Gonçalves Zarco, ki je jadral v službi princa Henryja, je naredil prvo od mnogih slavnih portugalskih odkritij, ki bodo vrhunec dosegli stoletje kasneje v Magellanovem zgodovinskem obkrožanju sveta. Zarco se je zgodil na majhnem vulkanskem arhipelagu, 1000 km od Lizbone. Morda je Zarco natančno vedel, kam gre, ko je o obstoju Madeire izvedel iz kastilskega vira. Konec koncev so vode Kanarskih otokov, le 445 km (275 milj) južno, že skoraj stoletje zasedale prometne ladijske poti, genoveški zemljevidi iz sredine 14. stoletja pa prikazujejo tako Madeiro kot Porto Santo. Verjetneje je bil Zarco proti Gvineji in nevihte so ga prisilile na plažo Porto Santo. Če je tako, potem je imel izjemno srečo, saj mu je uspelo pristati na edini veliki peščeni plaži na stotine kilometrov naokoli. Ni čudno, da ga je pozneje poimenoval Porto Santo (Sveto pristanišče). Naslednje leto se je Zarco vrnil, da bi zahteval večji otok, ki ga je videl od Porto Santa, in z njim sta šla Tristão Vaz Teixeira in Bartolomeu Perestrelo. Uradno so postali prvi možje, ki so stopili na močno gozdnat otok, poimenovali so ga Ilha da Madeira, &quot;Otok lesa. ”Portugalska krona, razveseljena prvega pomembnega odkritja, se je takoj lotila programa kolonizacije. Zarco in Teixeira sta bila imenovana za sovladarja Madeire, Perestrelo pa Porto Santo.
+passage.questions.8.question:Za kateri tropski otok nekateri trdijo, da je del kopnega, ki je nekoč stopil celine Evrope in Amerike?
+passage.questions.8.idx:4328.0
+passage.questions.8.answers.4.text:Zarco
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:22982.0
+passage.questions.8.answers.3.text:Havaji
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:22981.0
+passage.questions.8.answers.2.text:Lizbona
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:22980.0
+passage.questions.8.answers.1.text:Porto Santo
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:22979.0
+passage.questions.8.answers.0.text:Madeira
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:22978.0
+passage.questions.7.question:Kako se je imenovalo majhno vulkansko otočje, na katerem se je zgodil Zarco?
+passage.questions.7.idx:4327.0
+passage.questions.7.answers.4.text:Kanarski otoki
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:22977.0
+passage.questions.7.answers.3.text:Zarco
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:22976.0
+passage.questions.7.answers.2.text:Atlantida
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:22975.0
+passage.questions.7.answers.1.text:Madeira
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:22974.0
+passage.questions.7.answers.0.text:Porto Santo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:22973.0
+passage.questions.6.question:Kdo je imel to srečo, da je pristal na edini veliki peščeni plaži na stotine kilometrov naokoli?
+passage.questions.6.idx:4326.0
+passage.questions.6.answers.4.text:TristÃ £ o Vaz Teixeira
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:22972.0
+passage.questions.6.answers.3.text:Genovese
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:22971.0
+passage.questions.6.answers.2.text:Princ Henry
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:22970.0
+passage.questions.6.answers.1.text:Porto Santo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:22969.0
+passage.questions.6.answers.0.text:Zarco
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:22968.0
+passage.questions.5.question:Za kateri tropski otok nekateri trdijo, da so ostanki Platonove izgubljene Atlantide?
+passage.questions.5.idx:4325.0
+passage.questions.5.answers.3.text:Kanarski otoki
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:22967.0
+passage.questions.5.answers.2.text:Havaji
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:22966.0
+passage.questions.5.answers.1.text:Porto Santo
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:22965.0
+passage.questions.5.answers.0.text:Madeira
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:22964.0
+passage.questions.4.question:Uradno so Zarco, Perestrelo in kateri še moški bili prvi trije možje, ki so stopili na Ilho da Madeiro?
+passage.questions.4.idx:4324.0
+passage.questions.4.answers.3.text:Princ Henry,
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:22963.0
+passage.questions.4.answers.2.text:Bartolomeu
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:22962.0
+passage.questions.4.answers.1.text:Henry Navigator
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:22961.0
+passage.questions.4.answers.0.text:TristÃ £ o Vaz Teixeira
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:22960.0
+passage.questions.3.question:Kako se priimek raziskovalca, ki si je izmislil ime Porto Santo (Sveto pristanišče)?
+passage.questions.3.idx:4323.0
+passage.questions.3.answers.5.text:Perestrelo
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:22959.0
+passage.questions.3.answers.4.text:JoÃ £ o GonÃ§alves
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:22958.0
+passage.questions.3.answers.3.text:Porto Lizbona
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:22957.0
+passage.questions.3.answers.2.text:Zarco
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:22956.0
+passage.questions.3.answers.1.text:JoÃ £ o GonÃ§alves Zarco
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22955.0
+passage.questions.3.answers.0.text:Porto Santo (Sveto pristanišče)
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:22954.0
+passage.questions.2.question:Zarco se je po ukazu katerega voditelja zgodil na majhnem vulkanskem arhipelagu blizu Lizbone?
+passage.questions.2.idx:4322.0
+passage.questions.2.answers.6.text:kraljica Marija
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:22953.0
+passage.questions.2.answers.5.text:Magelan
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:22952.0
+passage.questions.2.answers.4.text:Platon
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22951.0
+passage.questions.2.answers.3.text:TristÃ £ o Vaz Teixeira
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:22950.0
+passage.questions.2.answers.2.text:Madiera
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22949.0
+passage.questions.2.answers.1.text:Princ Henry
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:22948.0
+passage.questions.2.answers.0.text:Henry Navigator
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:22947.0
+passage.questions.1.question:Po legendi naj bi se na katerem otočju ali blizu njega nahajala izgubljena civilizacija Atlantide?
+passage.questions.1.idx:4321.0
+passage.questions.1.answers.3.text:Portugalska
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:22946.0
+passage.questions.1.answers.2.text:vulkanskega arhipelaga
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22945.0
+passage.questions.1.answers.1.text:Porto Santo
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22944.0
+passage.questions.1.answers.0.text:Madeira
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22943.0
+passage.questions.0.question:V katerem letu se je začela zapisana zgodovina Madeire?
+passage.questions.0.idx:4320
+passage.questions.0.answers.5.text:2017
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:22942.0
+passage.questions.0.answers.4.text:v dobi Platona
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:22941.0
+passage.questions.0.answers.3.text:sredi 14. stoletja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:22940.0
+passage.questions.0.answers.2.text:1482
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:22939.0
+passage.questions.0.answers.1.text:ravno ko je izbruhnila zlata doba portugalskega odkritja
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:22938
+passage.questions.0.answers.0.text:1418
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22937
+idx:377

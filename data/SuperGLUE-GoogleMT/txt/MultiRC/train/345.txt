@@ -1,0 +1,69 @@
+version:1.1
+passage.text:Duane je bil lačen, vendar je pohitel skozi obilno večerjo, ki so mu jo pripravili, vzpodbudila radovednost in začudenje. Edini način, kako je lahko opisal svojo prisotnost tam v taborišču, je bil, da je MacNelly upal, da bo iz njega izkoristil koristne informacije. Kljub temu tega kapetana skorajda ne bi tako zanimalo. Tu je bila skrivnost in Duane je komaj čakal, da se reši. Med jedjo je imel okrog sebe ostre oči. Po prvem tihem pregledu mu rangerji očitno niso več posvetili pozornosti. Vsi so bili veterani v službi - Duane je to videl - in močni, močni možje železne konstitucije. Kljub občasnim šalam in hudomuhu bolj mladostnih članov in splošnemu pogovoru ognjene narave, Duane ni bil zaveden glede dejstva, da je bil njegov prihod nenavaden in presenetljiv, kar je povzročilo podkuhavanja in celo zmedo. med njimi. Ti redarji so bili preveč dobro usposobljeni, da bi bili odkrito radovedni glede gosta svojega kapetana. Če ne bi namerno poskušali pozabiti na njegovo prisotnost, bi Duane sklenil, da so ga imeli za običajnega obiskovalca, ki je MacNellyju nekako koristil. Tako kot je bilo, je Duane začutil napetost, ki je morala biti posledica namiga na njegovo identiteto.
+passage.questions.5.question:Kdo je povabil Duana, da ostane v kampu?
+passage.questions.5.idx:3987.0
+passage.questions.5.answers.2.text:Veterani
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:21198.0
+passage.questions.5.answers.1.text:MacNelly
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:21197.0
+passage.questions.5.answers.0.text:Rangers
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21196.0
+passage.questions.4.question:Kakšen je bil MacNellyjev čin?
+passage.questions.4.idx:3986.0
+passage.questions.4.answers.2.text:Splošno
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:21195.0
+passage.questions.4.answers.1.text:Poročnik
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21194.0
+passage.questions.4.answers.0.text:Kapitan
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:21193.0
+passage.questions.3.question:V tem scenariju se vidi, kako Duane počne kaj?
+passage.questions.3.idx:3985.0
+passage.questions.3.answers.2.text:Jedo večerjo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:21192.0
+passage.questions.3.answers.1.text:Izprašujejo ga redarji
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:21191.0
+passage.questions.3.answers.0.text:Poslušanje glasbe
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:21190.0
+passage.questions.2.question:Kje je Duane jedel večerjo?
+passage.questions.2.idx:3984.0
+passage.questions.2.answers.2.text:V kampu rangerjev
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:21189.0
+passage.questions.2.answers.1.text:V bližnjem vzhodnem hotelu
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:21188.0
+passage.questions.2.answers.0.text:Kuhinja
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21187.0
+passage.questions.1.question:Kako ga po mnenju Duanea dojema Ranger?
+passage.questions.1.idx:3983.0
+passage.questions.1.answers.3.text:Navaden obiskovalec
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:21186.0
+passage.questions.1.answers.2.text:Ujetnik
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:21185.0
+passage.questions.1.answers.1.text:Bil je prisrčno dobrodošel
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21184.0
+passage.questions.1.answers.0.text:S podtokom ugibanj
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21183.0
+passage.questions.0.question:Na koga so se redarji pretvarjali, da niso pozorni?
+passage.questions.0.idx:3982
+passage.questions.0.answers.1.text:MacNelly
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21182
+passage.questions.0.answers.0.text:Duane
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21181
+idx:345

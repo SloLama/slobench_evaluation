@@ -1,0 +1,6 @@
+choice1:Policist je zaplenil detektivovo značko.
+choice2:Policist je detektivu pustil, da vstopi na kraj zločina.
+idx:219
+label:1
+premise:Detektiv je policistu pokazal svojo značko.
+question:effect

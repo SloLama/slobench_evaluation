@@ -1,0 +1,288 @@
+version:1.1
+passage.text:Pred skrivnostnim izginotjem enega od potniških letal tega meseca Malezija ni bila država, ki bi bila vajena prevladovati na naslovih po vsem svetu. Nekatere njene sosede v jugovzhodni Aziji, vključno z Indonezijo in Filipini, so v zadnjih letih utrpele uničujoče naravne nesreče in dobro poznajo medijsko blaznost, ki spremlja veliko krizo. Toda Maleziji se je od njene neodvisnosti od britanske kolonialne vladavine pred več kot pol stoletja v veliki meri uspelo izogniti mednarodnim žarometom. &quot;Ena od teh držav zaradi svoje geografije nima potresov,&quot; je povedal Ernest Bower, višji svetovalec za študije jugovzhodne Azije pri Centru za strateške in mednarodne študije. &quot;Nima cunamija. S takšno katastrofo ni bil preizkušen.&quot; Izginotje leta 370 letalskega prevoznika Malaysia Airlines je vlado potisnilo v bleščeč pogled svetovne pozornosti. In ni se izkazalo z zelo dobrimi ocenami. &quot;Mislim, da na stresnem testu ne uspejo,&quot; je Bower dejal za CNN Jake Tapper in opozoril na vladno koordinacijo različnih agencij in komunikacijo z drugimi državami. Kitajska med kritiki Kritike in pritožbe prihajajo iz drugih držav, ki sodelujejo pri iskanju pogrešanega letala, vključno s Kitajsko in Vietnamom, ter sorodnikov potnikov. Malezijski uradniki so povzročili zmedo z objavo nasprotujočih si izjav o ključnih vidikih preiskave. Večina ljudi na letalu je bila Kitajcev, Peking pa je vse bolj izrazil svoje nezadovoljstvo z iskanjem, zlasti potem ko je Malezija konec tedna sporočila, da dokazi kažejo, da je bilo letalo namerno odpeljano proti zahodu v Indijski ocean, stran od njegove zadnje potrjene lokacija nad Južnokitajskim morjem. &quot;Nove informacije pomenijo, da je bilo intenzivno iskanje v Južnokitajskem morju ves pretekli teden ničvredno in nikoli ne bi obrodilo sadov,&quot; je dejal komentar, ki ga je objavila kitajska državna tiskovna agencija Xinhua. &quot;Še huje, zlati čas za reševanje morebitnih preživelih, če sploh, je bil velikodušno zapravljen.&quot;
+passage.questions.9.question:Katere narodnosti je bila večina ljudi na letalu 370 Malaysia Airlines?
+passage.questions.9.idx:4825.0
+passage.questions.9.answers.7.text:Največ potnikov je bilo Tajskih
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:25772.0
+passage.questions.9.answers.6.text:Večina ljudi na krovu je bila Indonezijcev
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:25771.0
+passage.questions.9.answers.5.text:Kitajski in vietnamski
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:25770.0
+passage.questions.9.answers.4.text:Združene države
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:25769.0
+passage.questions.9.answers.3.text:Večina ljudi je bila Kitajcev
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:25768.0
+passage.questions.9.answers.2.text:Malezijski
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:25767.0
+passage.questions.9.answers.1.text:Največ potnikov je bilo s Kitajske
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:25766.0
+passage.questions.9.answers.0.text:Kitajski
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:25765.0
+passage.questions.8.question:Kakšnih naravnih nesreč Malezija nima?
+passage.questions.8.idx:4824.0
+passage.questions.8.answers.5.text:Nima tornadov
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:25764.0
+passage.questions.8.answers.4.text:Nima orkanov
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:25763.0
+passage.questions.8.answers.3.text:Nima cunamijev
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:25762.0
+passage.questions.8.answers.2.text:Potresi in cunami
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:25761.0
+passage.questions.8.answers.1.text:Potresov nima
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:25760.0
+passage.questions.8.answers.0.text:Hude nevihte in potresi
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:25759.0
+passage.questions.7.question:Zakaj Malezija ne bi trpela naravnih nesreč v Indoneziji in na Filipinih?
+passage.questions.7.idx:4823.0
+passage.questions.7.answers.5.text:Načrtovanje in pripravljenost
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:25758.0
+passage.questions.7.answers.4.text:Ker njeni številni potresi
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:25757.0
+passage.questions.7.answers.3.text:Zaradi svoje geografije
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:25756.0
+passage.questions.7.answers.2.text:Ker nima gora
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:25755.0
+passage.questions.7.answers.1.text:Razpoložljivost naravnih virov
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:25754.0
+passage.questions.7.answers.0.text:Ker ni ob oceanu
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:25753.0
+passage.questions.6.question:Kdo je bil kritičen do odziva Malezije?
+passage.questions.6.idx:4822.0
+passage.questions.6.answers.7.text:Ernest Bower, Kitajska, Vietnam
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:25752.0
+passage.questions.6.answers.6.text:Pekinški uradniki
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:25751.0
+passage.questions.6.answers.5.text:Tajska je bila kritična
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:25750.0
+passage.questions.6.answers.4.text:Obveščevalne informacije ZDA
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:25749.0
+passage.questions.6.answers.3.text:Malezijski vojaški uradniki
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:25748.0
+passage.questions.6.answers.2.text:Indonezija je bila kritična
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:25747.0
+passage.questions.6.answers.1.text:Kitajska in Vietnam ter družine potnikov
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:25746.0
+passage.questions.6.answers.0.text:Kitajska je bila kritična
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:25745.0
+passage.questions.5.question:Ali naj bi se malezijska vlada po poročanju medijev dobro odzvala na izginotje leta 370?
+passage.questions.5.idx:4821.0
+passage.questions.5.answers.5.text:Tako so storili v svojem odgovoru
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:25744.0
+passage.questions.5.answers.4.text:Malezijska vlada se ni dobro odrezala
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:25743.0
+passage.questions.5.answers.3.text:Ne, ni uspelo
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:25742.0
+passage.questions.5.answers.2.text:&quot;Ne&quot;
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:25741.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:25740.0
+passage.questions.5.answers.0.text:Malezijska vlada je to storila ustrezno
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:25739.0
+passage.questions.4.question:Protislovne izjave malezijske vlade so razdražile, katera država je sodelovala v preiskavi?
+passage.questions.4.idx:4820.0
+passage.questions.4.answers.6.text:Burma
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:25738.0
+passage.questions.4.answers.5.text:Vietnam je bil zelo razdražen
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:25737.0
+passage.questions.4.answers.4.text:El Salvador
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25736.0
+passage.questions.4.answers.3.text:Kitajsko so zelo razdražile nasprotujoče si izjave
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:25735.0
+passage.questions.4.answers.2.text:&quot;Kitajska&quot;
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:25734.0
+passage.questions.4.answers.1.text:Izjave so razdražile Indonezijo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:25733.0
+passage.questions.4.answers.0.text:Kitajsko so razdražili
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:25732.0
+passage.questions.3.question:Katere sosednje države Malezije so v zadnjem času utrpele naravne nesreče?
+passage.questions.3.idx:4819.0
+passage.questions.3.answers.5.text:Indonezija in Tajska
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:25731.0
+passage.questions.3.answers.4.text:&quot;Indonezija in Filipini&quot;
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:25730.0
+passage.questions.3.answers.3.text:Avstralija
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:25729.0
+passage.questions.3.answers.2.text:Kitajska in Vietnam
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:25728.0
+passage.questions.3.answers.1.text:Filipini in Vietnam
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25727.0
+passage.questions.3.answers.0.text:Tako Filipini kot Indonezija
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:25726.0
+passage.questions.2.question:Za kaj so nove informacije iz Malezije potencialno zapravile čas?
+passage.questions.2.idx:4818.0
+passage.questions.2.answers.8.text:Iskanje preživelih
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:25725.0
+passage.questions.2.answers.7.text:Uspešno reševanje preživelih
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:25724.0
+passage.questions.2.answers.6.text:Iskanje načrta leta
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:25723.0
+passage.questions.2.answers.5.text:Zapravljen je bil čas za reševanje potnikov
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:25722.0
+passage.questions.2.answers.4.text:Ocenjevanje dokazov
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:25721.0
+passage.questions.2.answers.3.text:Zapravljen je bil čas za odkrivanje, kdo je odgovoren za pogrešani let
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25720.0
+passage.questions.2.answers.2.text:Nove informacije so morda pomenile, da preživelih niso našli
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25719.0
+passage.questions.2.answers.1.text:&quot;Reševanje možnih preživelih&quot;
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:25718.0
+passage.questions.2.answers.0.text:Čas za iskanje vpletenih teroristov je bil zapravljen
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:25717.0
+passage.questions.11.question:Zakaj se misli, da je bilo intenzivno iskanje v Južnokitajskem morju brez vrednosti?
+passage.questions.11.idx:4827.0
+passage.questions.11.answers.6.text:Obstajajo dokazi, da je iskanje potekalo na napačni lokaciji
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:25788.0
+passage.questions.11.answers.5.text:Ker je Malezija objavila dokaze, da je bilo letalo namenoma odpeljano proti zahodu v Indijski ocean in zato ni bilo v Južnokitajskem morju
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:25787.0
+passage.questions.11.answers.4.text:Ker je Malezija dejala, da so letalo uničili teroristi
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:25786.0
+passage.questions.11.answers.3.text:Ker je Malezija dejala, da so jo odpeljali v Indijski ocean
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:25785.0
+passage.questions.11.answers.2.text:Ker ni bilo preživelih
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:25784.0
+passage.questions.11.answers.1.text:Pojavili so se novi dokazi, da je bilo letalo odpeljano v Južnokitajsko morje
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:25783.0
+passage.questions.11.answers.0.text:Ker je Malezija dejala, da je bilo letalo odpeljano zahodno, ne vzhodno
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:25782.0
+passage.questions.10.question:Kakšne ocene je Malezija prejela v zvezi z obvladovanjem izginotja leta 370 Malaysia Airlines?
+passage.questions.10.idx:4826.0
+passage.questions.10.answers.8.text:Neuspeh
+passage.questions.10.answers.8.label:1.0
+passage.questions.10.answers.8.idx:25781.0
+passage.questions.10.answers.7.text:Ni zelo dobra
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:25780.0
+passage.questions.10.answers.6.text:Ni se izkazalo z zelo dobrimi ocenami
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:25779.0
+passage.questions.10.answers.5.text:Neuspešne ocene
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:25778.0
+passage.questions.10.answers.4.text:Je minilo
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:25777.0
+passage.questions.10.answers.3.text:Zadovoljivo
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:25776.0
+passage.questions.10.answers.2.text:Odlično
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:25775.0
+passage.questions.10.answers.1.text:Opravljene ocene
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:25774.0
+passage.questions.10.answers.0.text:Ok ocene
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:25773.0
+passage.questions.1.question:Zakaj so kitajski in vietnamski uradniki kritični do odziva Malezije?
+passage.questions.1.idx:4817.0
+passage.questions.1.answers.8.text:Ker je bilo veliko potnikov na letalu iz Kitajske in Vietnama
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:25716.0
+passage.questions.1.answers.7.text:Ker so malezijski uradniki trdili, da ni bilo potnikov niti na Kitajskem niti iz Vietnama
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:25715.0
+passage.questions.1.answers.6.text:Letalska nesreča je povzročila potres, ki je prizadel Kitajsko in Vietnam
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:25714.0
+passage.questions.1.answers.5.text:Ker je Malezija izjavila, da je bilo letalo mogoče odpeljano bodisi na Kitajsko bodisi v Vietnam
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:25713.0
+passage.questions.1.answers.4.text:Malezijska vlada ni hotela sodelovati s kitajsko vlado
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:25712.0
+passage.questions.1.answers.3.text:Izdali so nasprotujoče si izjave, napačno obdelali ključne dokaze in zapravili čas, ki bi ga lahko porabili za iskanje preživelih
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:25711.0
+passage.questions.1.answers.2.text:Protislovne izjave malezijskih uradnikov
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25710.0
+passage.questions.1.answers.1.text:Neučinkovita reševalna prizadevanja
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:25709.0
+passage.questions.1.answers.0.text:Ker je Malezija izjavila, da je bilo letalo mogoče odpeljano v Indijski ocean
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:25708.0
+passage.questions.0.question:Kateri sta dva primera naravnih nesreč, ki jih Malezija ne doživlja?
+passage.questions.0.idx:4816
+passage.questions.0.answers.5.text:Cunamiji
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:25707.0
+passage.questions.0.answers.4.text:Ledene nevihte in poplave
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:25706.0
+passage.questions.0.answers.3.text:Potresi
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:25705.0
+passage.questions.0.answers.2.text:Potresi in cunami
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:25704.0
+passage.questions.0.answers.1.text:Plazovi
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:25703
+passage.questions.0.answers.0.text:Tornadi
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:25702
+idx:428

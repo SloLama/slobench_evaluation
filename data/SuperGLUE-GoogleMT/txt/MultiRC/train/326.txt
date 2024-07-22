@@ -1,0 +1,176 @@
+version:1.1
+passage.text:Energija se pogosto spreminja iz ene oblike v drugo. Na primer, bobnar prenaša gibanje v zvočno energijo. Ko premični boben udari v glavo bobna, začne boben vibrirati. Gibanje glave vibrirajočega bobna ustvarja zvok, ki ga slišite. Vsaka oblika energije se lahko spremeni v katero koli drugo obliko. Pogosto se ena oblika energije spremeni v dve ali več različnih oblik. Ste že kdaj sedeli pred ognjem? Kateri dve stvari opazite? Ogenj ustvarja svetlobo. Prav tako je toplo ob ognju, kar pomeni, da ustvarja toploto. Energija ognja izvira iz shranjene energije v lesu. Les vsebuje kemično energijo. Ko gori, se kemična energija spremeni v svetlobo in toploto. Vse kemične spremembe energije ne povzročajo svetlobe in toplote. Naši avtomobili uporabljajo bencin kot gorivo. Bencin vsebuje kemično energijo. Ko naši avtomobili gorijo bencin v motorjih, se ta pretvori v gibanje in ogrevanje. Ko energija spremeni oblike, se energija ohrani.
+passage.questions.9.question:Kakšno energijo avtomobili uporabljajo za premikanje?
+passage.questions.9.idx:3722.0
+passage.questions.9.answers.2.text:Bencin kot gorivo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:19737.0
+passage.questions.9.answers.1.text:Toplotna energija
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:19736.0
+passage.questions.9.answers.0.text:Kemična energija
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:19735.0
+passage.questions.8.question:Kako bobnar prenese energijo gibanja v zvočno energijo?
+passage.questions.8.idx:3721.0
+passage.questions.8.answers.3.text:Kemično energijo spremeni v zvočno
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:19734.0
+passage.questions.8.answers.2.text:Premikajoča se palčka zadene glavo bobna in povzroči vibracije, ki se slišijo
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:19733.0
+passage.questions.8.answers.1.text:Vibrirajoča glava bobna
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:19732.0
+passage.questions.8.answers.0.text:Zaradi bobna boben zavibrira, kar povzroči zvok, ki ga slišimo
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:19731.0
+passage.questions.7.question:V katero vrsto energije se spremeni les?
+passage.questions.7.idx:3720.0
+passage.questions.7.answers.3.text:Vročina
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:19730.0
+passage.questions.7.answers.2.text:Svetloba in toplota
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:19729.0
+passage.questions.7.answers.1.text:Svetlobna in toplotna energija
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:19728.0
+passage.questions.7.answers.0.text:Kemična energija
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19727.0
+passage.questions.6.question:Kako zvok vibrirajočega bobna proizvaja energija?
+passage.questions.6.idx:3719.0
+passage.questions.6.answers.3.text:Gibanje vibrirajočega bobna povzroči zvok, ki ga slišimo
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:19726.0
+passage.questions.6.answers.2.text:Bobnar udari v glavo bobna in z gibom zažene vibriranje bobna. Gibanje glave vibrirajočega bobna se prenese v zvočno energijo, ki jo slišite
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:19725.0
+passage.questions.6.answers.1.text:Vibrirajoča glava bobna
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:19724.0
+passage.questions.6.answers.0.text:Kemična energija se spremeni v zvočno energijo
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:19723.0
+passage.questions.5.question:Kaj imata skupnega les in bencin?
+passage.questions.5.idx:3718.0
+passage.questions.5.answers.6.text:Vsebujejo kemično energijo
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:19722.0
+passage.questions.5.answers.5.text:Oba vsebujeta kemično energijo
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:19721.0
+passage.questions.5.answers.4.text:Oba imata shranjeno kemično energijo
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:19720.0
+passage.questions.5.answers.3.text:Narejene so iz iste snovi
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:19719.0
+passage.questions.5.answers.2.text:Oba povzročata gibanje
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:19718.0
+passage.questions.5.answers.1.text:Oba oddajata različne oblike energij
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:19717.0
+passage.questions.5.answers.0.text:Vsebujejo kemično energijo in oba gorijo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:19716.0
+passage.questions.4.question:Kakšno vrsto energije vsebuje les?
+passage.questions.4.idx:3717.0
+passage.questions.4.answers.2.text:Kemična
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19715.0
+passage.questions.4.answers.1.text:Energija ognja
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:19714.0
+passage.questions.4.answers.0.text:Kemična energija
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:19713.0
+passage.questions.3.question:Bobnarji kemično energijo pretvarjajo v kaj?
+passage.questions.3.idx:3716.0
+passage.questions.3.answers.3.text:Zvočna energija
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:19712.0
+passage.questions.3.answers.2.text:Gibanje zvočne energije
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19711.0
+passage.questions.3.answers.1.text:Svetlobna energija
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:19710.0
+passage.questions.3.answers.0.text:Zvok
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:19709.0
+passage.questions.2.question:Ognjeni les vsebuje kemično energijo, ki se preoblikuje v kateri drugi dve energiji?
+passage.questions.2.idx:3715.0
+passage.questions.2.answers.1.text:Svetloba in toplota
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:19708.0
+passage.questions.2.answers.0.text:Gibanje in vročina
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:19707.0
+passage.questions.12.question:Kaj ustvarja gibanje glave vibrirajočega bobna?
+passage.questions.12.idx:3725.0
+passage.questions.12.answers.2.text:Svetloba
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:19746.0
+passage.questions.12.answers.1.text:Gibanje
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:19745.0
+passage.questions.12.answers.0.text:Zvok
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:19744.0
+passage.questions.11.question:V čem se gorenje lesa v tabornem ognju razlikuje od kurjenja bencina v avtu?
+passage.questions.11.idx:3724.0
+passage.questions.11.answers.2.text:Kurjenje lesa proizvaja svetlobo in toploto, gorivo bencina pa gibanje in toploto
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:19743.0
+passage.questions.11.answers.1.text:Prvi proizvaja kemično energijo, drugi pa gibanje
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:19742.0
+passage.questions.11.answers.0.text:Kemična energija v lesu, zgorelem v tabornem ognju, se pretvori v svetlobo in toploto, medtem ko se v avtomobilu kemična energija v bencinu pretvori v gibanje in toploto
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:19741.0
+passage.questions.10.question:V kaj se lahko spremeni shranjena energija v lesu, ko sežge v tabornem ognju?
+passage.questions.10.idx:3723.0
+passage.questions.10.answers.2.text:Kemična energija se spremeni v svetlobo in toploto
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:19740.0
+passage.questions.10.answers.1.text:Svetloba in toplota
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:19739.0
+passage.questions.10.answers.0.text:Zvok
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:19738.0
+passage.questions.1.question:Od kod prihaja energija ognja, ko sedite pred ognjem?
+passage.questions.1.idx:3714.0
+passage.questions.1.answers.4.text:Prihaja iz kemijske energije, ki jo ima sama po sebi
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:19706.0
+passage.questions.1.answers.3.text:Energija, shranjena v lesu
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:19705.0
+passage.questions.1.answers.2.text:Prihaja iz svetlobe, ki jo oddaja
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:19704.0
+passage.questions.1.answers.1.text:Prihaja iz toplote in svetlobe, ki jo proizvaja
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:19703.0
+passage.questions.1.answers.0.text:Shranjena energija v lesu
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19702.0
+passage.questions.0.question:Katera oblika shranjene energije spodbuja ogenj?
+passage.questions.0.idx:3713
+passage.questions.0.answers.3.text:Les
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:19701.0
+passage.questions.0.answers.2.text:Požarna energija
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:19700.0
+passage.questions.0.answers.1.text:Toplotna energija
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19699
+passage.questions.0.answers.0.text:Kemična energija
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:19698
+idx:326

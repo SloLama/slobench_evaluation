@@ -1,0 +1,155 @@
+version:1.1
+passage.text:Naslednji večer je prispela s svežnjem bleščečih zabojnikov, ki so v lupini vsebovali suši, sashimi, ostrige in svežo zelenjavo terrana, pospravljeno iz hidroponskih postelj. Vprašam se o razlogu njene ekstravagancije in sem vprašal, kako je šlo delo tisti dan. &quot;Emil je vstopil. On je na Dream&#39;s End.&quot; &quot;Emil?&quot; &quot;Ti nimaš več spomina, stari. Emil Malaquez.&quot; To ste storili, da ste preizkusili moje naklonjenosti. &quot;&quot; Kaj? &quot;&quot; Klicali ste ga z imenom. Enkrat sem to počel v komediji. &quot;Noči s Karlom in Groucho.&quot; Bilo je pred vašim časom. &quot;&quot; Kritikom je bilo všeč. &quot;&quot; Vesel sem. &quot;Trenutek kasneje:&quot; Nisem ga zato poklical &#39;Emil&#39;. &quot;&quot; Ne. Skupaj smo kosili. Lep je. &quot;
+passage.questions.6.question:Kdo se sprašuje o ekstravaganci in kaj je mislil, da se preizkuša?
+passage.questions.6.idx:254.0
+passage.questions.6.answers.5.text:Mladi
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:1420.0
+passage.questions.6.answers.4.text:Naklonjenosti
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:1419.0
+passage.questions.6.answers.3.text:Konec sanj
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1418.0
+passage.questions.6.answers.2.text:Njegovo ime
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1417.0
+passage.questions.6.answers.1.text:Starega
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1416.0
+passage.questions.6.answers.0.text:Spomin
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1415.0
+passage.questions.5.question:Zakaj se starejši govornik sprašuje o ekstravagantnosti ženskega govorca?
+passage.questions.5.idx:253.0
+passage.questions.5.answers.9.text:Emil Malaquez
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:1413.0
+passage.questions.5.answers.8.text:Suši
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:1412.0
+passage.questions.5.answers.7.text:Ostrige
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:1411.0
+passage.questions.5.answers.6.text:Sašimi
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:1410.0
+passage.questions.5.answers.5.text:Vrsta hrane, ki jo je prinesla domov
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:1409.0
+passage.questions.5.answers.4.text:Noči s Karlom in Groucho
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:1408.0
+passage.questions.5.answers.3.text:Kupila je veliko oblačil
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1407.0
+passage.questions.5.answers.2.text:Zelenjava Terran
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1406.0
+passage.questions.5.answers.10.text:Konec sanj
+passage.questions.5.answers.10.label:0,0
+passage.questions.5.answers.10.idx:1414.0
+passage.questions.5.answers.1.text:Prišla je s suši, sashimi, ostrige v lupini in zelenjavo Terran
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1405.0
+passage.questions.5.answers.0.text:Bleščeče škatle
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:1404.0
+passage.questions.4.question:Kaj pravi starejši govornik, &quot;kritikom všeč?&quot;
+passage.questions.4.idx:252.0
+passage.questions.4.answers.6.text:Konec sanj
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:1403.0
+passage.questions.4.answers.5.text:Emil Malaquez
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:1402.0
+passage.questions.4.answers.4.text:Komedija
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1401.0
+passage.questions.4.answers.3.text:Ostrige
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1400.0
+passage.questions.4.answers.2.text:Sašimi
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1399.0
+passage.questions.4.answers.1.text:Kosilo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1398.0
+passage.questions.4.answers.0.text:Noči s Karlom in Groucho
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1397.0
+passage.questions.3.question:Kako je polno ime osebe, ki je sprejela Dream&#39;s End?
+passage.questions.3.idx:251.0
+passage.questions.3.answers.3.text:Groucho
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1396.0
+passage.questions.3.answers.2.text:Karl Groucho
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1395.0
+passage.questions.3.answers.1.text:Emil Malaquez
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1394.0
+passage.questions.3.answers.0.text:Karl
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1393.0
+passage.questions.2.question:Katere tri moške govorci imenujejo z imenom?
+passage.questions.2.idx:250.0
+passage.questions.2.answers.5.text:Karl
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:1392.0
+passage.questions.2.answers.4.text:Groucho
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:1391.0
+passage.questions.2.answers.3.text:Terran
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1390.0
+passage.questions.2.answers.2.text:Kritiki
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1389.0
+passage.questions.2.answers.1.text:Emil
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:1388.0
+passage.questions.2.answers.0.text:Malaquez
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1387.0
+passage.questions.1.question:Kaj je bilo všeč kritikom?
+passage.questions.1.idx:249.0
+passage.questions.1.answers.6.text:Konec sanj
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:1386.0
+passage.questions.1.answers.5.text:Emil Malaquez
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1385.0
+passage.questions.1.answers.4.text:Ostrige
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1384.0
+passage.questions.1.answers.3.text:Sašimi
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:1383.0
+passage.questions.1.answers.2.text:Komedija
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1382.0
+passage.questions.1.answers.1.text:Noči s Karlom in Groucho
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:1381.0
+passage.questions.1.answers.0.text:Komedija &quot;Noči s Karlom in Grouchom.&quot;
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:1380.0
+passage.questions.0.question:Zakaj je eden od likov iz odlomkov Emila poklical s svojim imenom?
+passage.questions.0.idx:248
+passage.questions.0.answers.4.text:Da bi bil svež
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1379.0
+passage.questions.0.answers.3.text:Preizkusiti naklonjenost drugega
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1378.0
+passage.questions.0.answers.2.text:Ker sta nekoč kosila skupaj
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1377.0
+passage.questions.0.answers.1.text:Priimka se nisem mogel spomniti
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1376
+passage.questions.0.answers.0.text:Skupaj sta kosila
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1375
+idx:21

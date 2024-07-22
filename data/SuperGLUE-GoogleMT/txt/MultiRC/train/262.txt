@@ -1,0 +1,264 @@
+version:1.1
+passage.text:Joejevi starši so kmetje in imajo ogromno kmetijo s kravami, piščanci in racami. Joe ima rad kmetijo in vse stvari, ki jih dobi, da se poigra in igra na njih. Nekega dne mu je Joejev oče rekel, naj se ne približuje traktorju, ki je sedel na polju. Očeta je skrbelo, da se bo Joe povzpel nanjo in se poškodoval. Joe je šel na polje in krmil konje in krave. Ko je končal, je zagledal traktor, ki mu ga je oče rekel, naj se ne približuje. Vedel je, da plezanje na traktor ne bo škodilo nič, zato je tudi storil. Vzpel se je na sedež in tam sedel. Nato se je pretvarjal, da je njegov oče, in se pretvarjal, da vozi traktor. Joejev oče ga je videl, kako se igra na traktorju, in ga poklical. Joe je zaslišal očeta, ki ga je klical, in res hitro izstopil iz traktorja. Ko je to storil, je padel in si poškodoval roko. Joeja je bolelo, oče pa je pritekel, da ga preveri, ga dvignil in posedel na klop ter ga vprašal, zakaj je to storil. Joe je pogledal očeta in rekel: &quot;Hotel sem biti takšen kot ti.&quot; Joejev oče ga je objel in ga vprašal, ali se želi z njim voziti na traktorju. Joe je to storil in potem, ko je dobil povoj na roki, sta se z očetom na traktorju peljala po polju.
+passage.questions.9.question:Katere tri stvari je Joe dobil od očeta, potem ko je padel s traktorja?
+passage.questions.9.idx:2941.0
+passage.questions.9.answers.4.text:Predavanje, kazen in povoj
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:15590.0
+passage.questions.9.answers.3.text:Tri vrste hrane za živali
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:15589.0
+passage.questions.9.answers.2.text:Droga
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:15588.0
+passage.questions.9.answers.1.text:Objem, povoj in vožnja s traktorjem
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:15587.0
+passage.questions.9.answers.0.text:Trije objemi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:15586.0
+passage.questions.8.question:Kje je živel Joe, ki mu je oče rekel, naj se ne igra s traktorjem?
+passage.questions.8.idx:2940.0
+passage.questions.8.answers.5.text:V mestu blizu kmetije
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:15585.0
+passage.questions.8.answers.4.text:V mestu
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:15584.0
+passage.questions.8.answers.3.text:Študenti
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:15583.0
+passage.questions.8.answers.2.text:Na ogromni kmetiji
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:15582.0
+passage.questions.8.answers.1.text:Kmetija
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:15581.0
+passage.questions.8.answers.0.text:V traktorju
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:15580.0
+passage.questions.7.question:Zakaj mu je Joejev oče rekel, naj se ne približuje traktorju?
+passage.questions.7.idx:2939.0
+passage.questions.7.answers.5.text:Živel v Nemčiji
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:15579.0
+passage.questions.7.answers.4.text:Očeta je skrbelo, da se bo Joe povzpel nanjo in se poškodoval
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:15578.0
+passage.questions.7.answers.3.text:Ni končal s hranjenjem živali
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:15577.0
+passage.questions.7.answers.2.text:Ni mu bilo všeč, da bi kdo vozil njegov traktor
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:15576.0
+passage.questions.7.answers.1.text:Traktor je bil pokvarjen
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:15575.0
+passage.questions.7.answers.0.text:Skrbelo ga je, da bi se poškodoval
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:15574.0
+passage.questions.6.question:Kaj je pravkar končal, ko je zagledal traktor
+passage.questions.6.idx:2938.0
+passage.questions.6.answers.3.text:Hranjenje konj in krav
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:15573.0
+passage.questions.6.answers.2.text:Pogovor z očetom
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:15572.0
+passage.questions.6.answers.1.text:Hranjenje piščancev in rac
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:15571.0
+passage.questions.6.answers.0.text:Igranje po kmetiji
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:15570.0
+passage.questions.5.question:Zakaj je Joe splezal na traktor?
+passage.questions.5.idx:2937.0
+passage.questions.5.answers.3.text:Hotel je biti kot njegov oče
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:15569.0
+passage.questions.5.answers.2.text:Želel je pasti in se poškodovati
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:15568.0
+passage.questions.5.answers.1.text:Očetu je hotel pomagati pri delu na kmetiji
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:15567.0
+passage.questions.5.answers.0.text:Hotel je voziti traktor
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15566.0
+passage.questions.4.question:Kje je bil sedež, ki je padel Joe
+passage.questions.4.idx:2936.0
+passage.questions.4.answers.3.text:Na traktorju
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:15565.0
+passage.questions.4.answers.2.text:Zraven očeta
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:15564.0
+passage.questions.4.answers.1.text:V hiši
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:15563.0
+passage.questions.4.answers.0.text:V kuhinji
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:15562.0
+passage.questions.3.question:Kaj je rekel Joe, ko je oče vprašal, zakaj je splezal na traktor?
+passage.questions.3.idx:2935.0
+passage.questions.3.answers.4.text:Hotel se je malo peljati naokoli
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:15561.0
+passage.questions.3.answers.3.text:Hotel sem biti tak kot ti
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:15560.0
+passage.questions.3.answers.2.text:Hotel je biti kot njegov oče
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:15559.0
+passage.questions.3.answers.1.text:Lagal je, da ni nikoli sedel na traktor
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15558.0
+passage.questions.3.answers.0.text:Ni mu povedal, zakaj ga boli
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15557.0
+passage.questions.2.question:Kako si je Joe poškodoval roko?
+passage.questions.2.idx:2934.0
+passage.questions.2.answers.4.text:Padel je med tekom po polju
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:15556.0
+passage.questions.2.answers.3.text:Med vzpenjanjem na traktor je udaril v roko
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15555.0
+passage.questions.2.answers.2.text:Padel je, ko je skušal hitro sestopiti s traktorja
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:15554.0
+passage.questions.2.answers.1.text:Ko je oče poklical oče, je prehitro sestopil s traktorja
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15553.0
+passage.questions.2.answers.0.text:Med hranjenjem živali je padel
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15552.0
+passage.questions.14.question:Koga je skrbelo, da bo Joe splezal na traktor in se poškodoval?
+passage.questions.14.idx:2946.0
+passage.questions.14.answers.3.text:Joe sam
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:15614.0
+passage.questions.14.answers.2.text:Joejev oče
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:15613.0
+passage.questions.14.answers.1.text:Joejeva mati
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:15612.0
+passage.questions.14.answers.0.text:Nihče
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:15611.0
+passage.questions.13.question:Katerih živali Joe ni krmil
+passage.questions.13.idx:2945.0
+passage.questions.13.answers.3.text:Konji in krave
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:15610.0
+passage.questions.13.answers.2.text:Krave, piščanci in race
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:15609.0
+passage.questions.13.answers.1.text:Vse jih je nahranil
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:15608.0
+passage.questions.13.answers.0.text:Piščanci in race
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:15607.0
+passage.questions.12.question:Kdo se je pretvarjal, da vozi traktor?
+passage.questions.12.idx:2944.0
+passage.questions.12.answers.4.text:Naseljenci
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:15606.0
+passage.questions.12.answers.3.text:Joejev prijatelj
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:15605.0
+passage.questions.12.answers.2.text:Joejev oče
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:15604.0
+passage.questions.12.answers.1.text:Joe
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:15603.0
+passage.questions.12.answers.0.text:Joejeva mati
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:15602.0
+passage.questions.11.question:Kaj se je zgodilo z Joejem, ko ga je oče ujel na traktorju?
+passage.questions.11.idx:2943.0
+passage.questions.11.answers.5.text:Padel in si poškodoval roko
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:15601.0
+passage.questions.11.answers.4.text:Res hitro je sestopil s traktorja in padel
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:15600.0
+passage.questions.11.answers.3.text:Praznuje
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:15599.0
+passage.questions.11.answers.2.text:Skočil je s traktorja in pobegnil
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:15598.0
+passage.questions.11.answers.1.text:Poskušal je voziti traktor
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:15597.0
+passage.questions.11.answers.0.text:S traktorja ni sestopil
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:15596.0
+passage.questions.10.question:Kakšne živali je imel Joejev oče na svoji kmetiji?
+passage.questions.10.idx:2942.0
+passage.questions.10.answers.4.text:Krave, konji, piščanci in race
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:15595.0
+passage.questions.10.answers.3.text:Prašiči, osli in ovce
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:15594.0
+passage.questions.10.answers.2.text:Na desetine različnih vrst živali
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:15593.0
+passage.questions.10.answers.1.text:Mačke in psi
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:15592.0
+passage.questions.10.answers.0.text:Imel je konje, krave, piščance in race
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:15591.0
+passage.questions.1.question:Katere živali so bile prisotne na kmetiji?
+passage.questions.1.idx:2933.0
+passage.questions.1.answers.9.text:Biki
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:15551.0
+passage.questions.1.answers.8.text:Račke
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:15550.0
+passage.questions.1.answers.7.text:Traktor
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:15549.0
+passage.questions.1.answers.6.text:Starši
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:15548.0
+passage.questions.1.answers.5.text:Krave
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:15547.0
+passage.questions.1.answers.4.text:Kmetje
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:15546.0
+passage.questions.1.answers.3.text:Oče
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:15545.0
+passage.questions.1.answers.2.text:Konji
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:15544.0
+passage.questions.1.answers.1.text:Osli
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15543.0
+passage.questions.1.answers.0.text:Piščanci
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:15542.0
+passage.questions.0.question:Kdo je padel s traktorja in se poškodoval?
+passage.questions.0.idx:2932
+passage.questions.0.answers.3.text:Ena od Joejevih živali
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:15541.0
+passage.questions.0.answers.2.text:Joejev oče
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:15540.0
+passage.questions.0.answers.1.text:Joe
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:15539
+passage.questions.0.answers.0.text:Joejev prijatelj
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:15538
+idx:262

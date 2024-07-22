@@ -1,0 +1,112 @@
+version:1.1
+passage.text:Zvezne zdravstvene oblasti so v ponedeljek dodale 58 vrst raka na seznam zajetih bolezni ljudi, ki so bili po napadih 11. septembra izpostavljeni toksinom na mestu Svetovnega trgovinskega centra. Dodatek zaključuje priporočilo dr. Johna Howarda, skrbnika zdravstvenega programa Svetovnega trgovinskega centra. Howard je junija predlagal, da program sprejme priporočila znanstvenega / tehničnega svetovalnega odbora in na seznam vključi nekaj vrst raka - skupaj 14 kategorij. Gasilci se na 11. september odzivajo na povečano tveganje za nastanek raka Svetovalni odbor je pozval k razširjenemu &quot;zajetju nekaterih vrst raka, ki so posledica izpostavljenosti toksinom, sproščenim v Ground Zero.&quot; &quot;Objava tega končnega pravila pomeni pomemben korak v prizadevanjih za zagotavljanje potrebnega zdravljenja in oskrbe reševalcev 11. septembra in preživelih prek zdravstvenega programa WTC,&quot; je v ponedeljek dejal Howard. Pravilo bo predvidoma objavljeno v sredo v Zveznem registru in bo začelo veljati 30 dni po objavi, je dejal Howard. Po poročanju Zdravstvenega programa Svetovnega trgovinskega centra bo detektiv 11. septembra umrl po bitki z rakom na pljučih. V skladu s predlaganim pravilom naj bi dodatno kritje izkoristilo od 950 do 2150 ljudi. Ocenjeni stroški celotnega zdravljenja raka se gibljejo med 14,5 in 33 milijoni dolarjev, piše v predlogu.
+passage.questions.4.question:Kdo je priporočil dokončno dopolnitev na seznam zajetih bolezni za ljudi, ki so bili med napadi 11. septembra izpostavljeni toksinom na mestu Svetovnega trgovinskega centra?
+passage.questions.4.idx:209.0
+passage.questions.4.answers.4.text:Zdravstveni program Svetovnega trgovinskega centra
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1150.0
+passage.questions.4.answers.3.text:John Howard
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:1149.0
+passage.questions.4.answers.2.text:Svetovalni odbor
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1148.0
+passage.questions.4.answers.1.text:John Harrington
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1147.0
+passage.questions.4.answers.0.text:Skrbnik zdravstvenega programa Svetovnega trgovinskega centra
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1146.0
+passage.questions.3.question:Katere skupine, ki izpolnjujejo določene kvalifikacije, bi bile po pravilu, dodanemu zveznemu registru, upravičene do kritja?
+passage.questions.3.idx:208.0
+passage.questions.3.answers.9.text:preživelih napadov
+passage.questions.3.answers.9.label:1.0
+passage.questions.3.answers.9.idx:1144.0
+passage.questions.3.answers.8.text:prostovoljci
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:1143.0
+passage.questions.3.answers.7.text:Prvi odzivniki
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:1142.0
+passage.questions.3.answers.6.text:Vojaški
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:1141.0
+passage.questions.3.answers.5.text:Pompeo
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:1140.0
+passage.questions.3.answers.4.text:Trump
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1139.0
+passage.questions.3.answers.3.text:11 stran
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1138.0
+passage.questions.3.answers.2.text:Gasilci, ki jim je diagnosticiran rak
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1137.0
+passage.questions.3.answers.10.text:prebivalcev v bližini mesta
+passage.questions.3.answers.10.label:1.0
+passage.questions.3.answers.10.idx:1145.0
+passage.questions.3.answers.1.text:Priseljenci
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1136.0
+passage.questions.3.answers.0.text:Ljudje iz New Jerseyja
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1135.0
+passage.questions.2.question:Koliko kategorij raka je Zdravstveni program Svetovnega trgovinskega centra dodal v Zvezni register?
+passage.questions.2.idx:207.0
+passage.questions.2.answers.3.text:Okoli 14.
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:1134.0
+passage.questions.2.answers.2.text:Okoli 7
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1133.0
+passage.questions.2.answers.1.text:10.
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:1132.0
+passage.questions.2.answers.0.text:2.
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1131.0
+passage.questions.1.question:Po podatkih zdravstvenega programa Svetovnega trgovinskega centra bi 950 do 2150 ljudi izkoristilo dodatno kritje, kar bi pomenilo predvidene stroške koliko denarja?
+passage.questions.1.idx:206.0
+passage.questions.1.answers.5.text:2,5 milijona dolarjev
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1130.0
+passage.questions.1.answers.4.text:5,5 do 9 milijonov dolarjev
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1129.0
+passage.questions.1.answers.3.text:14,5 do 33 milijonov dolarjev
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1128.0
+passage.questions.1.answers.2.text:Med 14,5 in 33 milijoni dolarjev
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1127.0
+passage.questions.1.answers.1.text:Manj kot 14,5 milijona dolarjev
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:1126.0
+passage.questions.1.answers.0.text:14,5 milijona dolarjev
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:1125.0
+passage.questions.0.question:Kateri pregled je zahteval razširjeno pokritost nekaterih vrst raka, potem ko je Howard podal svoj predlog?
+passage.questions.0.idx:205
+passage.questions.0.answers.6.text:Znanstveno-tehnični svetovalni odbor
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:1124.0
+passage.questions.0.answers.5.text:Pregled gasilcev
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1123.0
+passage.questions.0.answers.4.text:Zdravstveni program Svetovnega trgovinskega centra
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1122.0
+passage.questions.0.answers.3.text:Svetovalni odbor
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1121.0
+passage.questions.0.answers.2.text:Zvezni zdravstveni pregled
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1120.0
+passage.questions.0.answers.1.text:nekaj rakov
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1119
+passage.questions.0.answers.0.text:Pregled svetovalnega odbora
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1118
+idx:17

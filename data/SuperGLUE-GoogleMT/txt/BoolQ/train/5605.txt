@@ -1,0 +1,4 @@
+idx:5605
+label:True
+passage:Tuji ključ - tabela ima lahko več tujih ključev in vsak tuji ključ ima lahko drugačno nadrejeno tabelo. Vsak tuji ključ sistem baz podatkov vsiljuje neodvisno. Zato lahko kaskadne odnose med tabelami vzpostavimo s tujimi ključi.
+question:ali lahko v eni tabeli imam dva tuja ključa

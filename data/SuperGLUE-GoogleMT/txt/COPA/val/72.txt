@@ -1,0 +1,6 @@
+choice1:Učenci so podajali zapiske.
+choice2:Študentje so zastokali.
+idx:72
+label:1
+premise:Učitelj je učencem dodelil domačo nalogo.
+question:effect

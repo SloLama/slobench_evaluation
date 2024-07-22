@@ -1,0 +1,719 @@
+version:1.1
+passage.text:Slava Melake: Če v prvih dneh niste bili pirat ali komar, Melaka ni bila veliko kraj za življenje. Zemlja je bila neplodna, le močvirnata ravnica, reka majhna in počasna. Imelo pa je zaščiteno pristanišče, ki ga je pred monsuni zaščitila sosednja Sumatra. Kasneje sta strateška lokacija in globokomorski kanal blizu obale prinesla večja plovila pasatnega prometa, ki so prečkala Indijski ocean. Kitajci so prvi spoznali večji komercialni potencial, tako pogosto v nadaljnji zgodovini države. Leta 1409 je kitajska flota s 50 ladjami, ki jo je vodil admiral Cheng Ho, v Melaki v skladu z novo odredbo cesarja Chu Ti-ja o trgovanju na južnem morju in v Indijskem oceanu. Ponudili so Parameswaro ponudbo, ki je ni mogel zavrniti: pristaniške zmogljivosti in letni finančni poklon v zameno za kitajsko zaščito pred plenilci Tajci. Leta 1411 je Parameswara denar odnesel sam v Peking in cesar ga je hvaležno postavil za vazalnega kralja. Dvajset let kasneje so se Kitajci spet umaknili iz trgovine z južnimi morji. Novi vladar Melake, Šri Maharadža, je svojo pripadnost muslimanski trgovski bratovščini preusmeril tako, da se je poročil v muslimansko vero in poročil s hčerko sultana na Sumatri. Islam svoje mesto v Malaji ni osvojil z osvajanjem - kot je to veljalo v Severni Afriki in Evropi -, temveč s trgovino, dinastičnimi zavezništvi in mirnim pridiganjem. Bengalski trgovci so vero že prinesli na vzhodno obalo. Na Melaki in na celotnem polotoku je islam uspeval kot močna, moško prevladujoča religija individualnosti, ki je ponujala dinamično vodstvo in oznanjevanje bratstva in samozaupanja - vse lastnosti, ki so bile idealne za obalno trgovino. Hkrati so sufijski mistiki sintetizirali islamsko učenje z lokalnimi malajskimi tradicijami animistične magije in karizme, čeprav islam ni postal državna religija, dokler Muzaffar Shah ni postal sultan Melake (1446–1459). Toda ključna figura v sultanatu je bil Tun Perak, bendahara (premier) in vojaški poveljnik. Moč Melake je razširil vzdolž zahodne obale in vse do Singapurja in sosednjih otokov Bintan. Imel je tudi oranžne pirate, ki so patruljirali po morjih, da bi izsiljevali danak mimo ladij. Potem ko so okrožni glavarji Ailied odbili napade tajsko nadzorovanih vojsk iz Pahanga, je Tun Perak leta 1456 osebno vodil slavno zmago nad tajsko floto pri Batu Pahatu.
+passage.questions.9.question:Kdo je bil prvi cesar, ki je Melaki opazil trgovski potencial?
+passage.questions.9.idx:4652.0
+passage.questions.9.answers.6.text:Tun Perak
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:24603.0
+passage.questions.9.answers.5.text:Sumatran
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:24602.0
+passage.questions.9.answers.4.text:Cesar Chu Ti
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:24601.0
+passage.questions.9.answers.3.text:Indijski
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:24600.0
+passage.questions.9.answers.2.text:Bengalščina
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:24599.0
+passage.questions.9.answers.1.text:Kitajski
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:24598.0
+passage.questions.9.answers.0.text:Cheng Ho
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:24597.0
+passage.questions.8.question:Kakšno prednost je imela Melakina geografija?
+passage.questions.8.idx:4651.0
+passage.questions.8.answers.6.text:Močvirja
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:24596.0
+passage.questions.8.answers.5.text:Ima zaščiteno pristanišče
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:24595.0
+passage.questions.8.answers.4.text:Njegova geografija je zagotavljala zaščito pred pirati
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:24594.0
+passage.questions.8.answers.3.text:Njegova geografija je skupnosti zaščitila pred monsuni sosednje Sumatre
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:24593.0
+passage.questions.8.answers.2.text:Imelo je zaščiteno pristanišče, ki ga je pred monsuni zaščitila sosednja Sumatra
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:24592.0
+passage.questions.8.answers.1.text:Njegova geografija je ključna točka zadušitve trgovine z Japonci
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:24591.0
+passage.questions.8.answers.0.text:Ščiti pred monsuni
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:24590.0
+passage.questions.7.question:Katera vodna telesa so bila poimenovana v zgodbi?
+passage.questions.7.idx:4650.0
+passage.questions.7.answers.6.text:Južna morja
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:24589.0
+passage.questions.7.answers.5.text:Atlantski ocean
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:24588.0
+passage.questions.7.answers.4.text:Tihi ocean
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:24587.0
+passage.questions.7.answers.3.text:Sumatra
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:24586.0
+passage.questions.7.answers.2.text:Kitajska
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:24585.0
+passage.questions.7.answers.1.text:Indijski ocean
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:24584.0
+passage.questions.7.answers.0.text:Tajska
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:24583.0
+passage.questions.6.question:Kdo je bil odgovoren za zamenjavo pri vseh zvestobah in na kakšen način?
+passage.questions.6.idx:4649.0
+passage.questions.6.answers.6.text:Tun Perak
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:24582.0
+passage.questions.6.answers.5.text:Novi vladar melake
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:24581.0
+passage.questions.6.answers.4.text:Cesar Chu Ti
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:24580.0
+passage.questions.6.answers.3.text:Parameswara
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:24579.0
+passage.questions.6.answers.2.text:Šri maharadža
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:24578.0
+passage.questions.6.answers.1.text:Admiral Cheng Ho
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:24577.0
+passage.questions.6.answers.0.text:Šri Maharadža je po poroki v vero zamenjal zvestobo islamu
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:24576.0
+passage.questions.5.question:Kdo je pripeljal islame v Melako?
+passage.questions.5.idx:4648.0
+passage.questions.5.answers.2.text:Kitajski
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:24575.0
+passage.questions.5.answers.1.text:Šri maharadža
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:24574.0
+passage.questions.5.answers.0.text:Bengalski trgovci
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:24573.0
+passage.questions.4.question:Katera lokacija je zaščitena pred monsuni in pred katero sosednjo državo?
+passage.questions.4.idx:4647.0
+passage.questions.4.answers.7.text:Singapur
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:24572.0
+passage.questions.4.answers.6.text:Melaka je zaščitena s sosednjo Sumatro
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:24571.0
+passage.questions.4.answers.5.text:Indija
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:24570.0
+passage.questions.4.answers.4.text:Melaka
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:24569.0
+passage.questions.4.answers.3.text:Sumatra
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:24568.0
+passage.questions.4.answers.2.text:Melaya
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:24567.0
+passage.questions.4.answers.1.text:Bintanski otoki
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:24566.0
+passage.questions.4.answers.0.text:Peking
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:24565.0
+passage.questions.30.question:Katera dežela je bila nekoč znana kot neplodna, močvirnata ravnica z majhno in počasno reko?
+passage.questions.30.idx:4673.0
+passage.questions.30.answers.4.text:Singapur
+passage.questions.30.answers.4.label:0,0
+passage.questions.30.answers.4.idx:24753.0
+passage.questions.30.answers.3.text:Melaka
+passage.questions.30.answers.3.label:1.0
+passage.questions.30.answers.3.idx:24752.0
+passage.questions.30.answers.2.text:Sumatra
+passage.questions.30.answers.2.label:0,0
+passage.questions.30.answers.2.idx:24751.0
+passage.questions.30.answers.1.text:Bintanski otoki
+passage.questions.30.answers.1.label:0,0
+passage.questions.30.answers.1.idx:24750.0
+passage.questions.30.answers.0.text:Peking
+passage.questions.30.answers.0.label:0,0
+passage.questions.30.answers.0.idx:24749.0
+passage.questions.3.question:Kdo je bil ključna oseba v sultanatu in kaj je počel?
+passage.questions.3.idx:4646.0
+passage.questions.3.answers.8.text:Muzaffar Shar
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:24564.0
+passage.questions.3.answers.7.text:Tun Perak
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:24563.0
+passage.questions.3.answers.6.text:Bendahara (premier) in vojaški poveljnik
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:24562.0
+passage.questions.3.answers.5.text:Tun Perak, razširil je ozemlje Malake do zahodne obale
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:24561.0
+passage.questions.3.answers.4.text:Parameswara. osvojil je številne sosednje otoke
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:24560.0
+passage.questions.3.answers.3.text:Sintetizirano islamsko učenje z lokalnimi malajskimi tradicijami
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:24559.0
+passage.questions.3.answers.2.text:Razširil je moč Melake vzdolž zahodne obale
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:24558.0
+passage.questions.3.answers.1.text:Sufi mistiki
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:24557.0
+passage.questions.3.answers.0.text:Tun Perak; razširil je moč Melake vzdolž zahodne obale
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:24556.0
+passage.questions.29.question:Islam v Malaji ni osvojil svojega mesta z osvajanjem, temveč s tem, kdo ga je pripeljal na vzhodno obalo?
+passage.questions.29.idx:4672.0
+passage.questions.29.answers.3.text:Šri Maharadža
+passage.questions.29.answers.3.label:1.0
+passage.questions.29.answers.3.idx:24748.0
+passage.questions.29.answers.2.text:Trgovina, dinastična zavezništva in mirno pridiganje
+passage.questions.29.answers.2.label:0,0
+passage.questions.29.answers.2.idx:24747.0
+passage.questions.29.answers.1.text:Bengalski trgovci
+passage.questions.29.answers.1.label:1.0
+passage.questions.29.answers.1.idx:24746.0
+passage.questions.29.answers.0.text:Parameswara
+passage.questions.29.answers.0.label:0,0
+passage.questions.29.answers.0.idx:24745.0
+passage.questions.28.question:V katerem letu je Parameswara odnesla denar v Peking?
+passage.questions.28.idx:4671.0
+passage.questions.28.answers.5.text:Dvajset let pozneje kot leta 1411
+passage.questions.28.answers.5.label:0,0
+passage.questions.28.answers.5.idx:24744.0
+passage.questions.28.answers.4.text:1408
+passage.questions.28.answers.4.label:0,0
+passage.questions.28.answers.4.idx:24743.0
+passage.questions.28.answers.3.text:2 leti preden so se Kitajci umaknili iz jugovzhodne trgovine
+passage.questions.28.answers.3.label:0,0
+passage.questions.28.answers.3.idx:24742.0
+passage.questions.28.answers.2.text:Leta 1411
+passage.questions.28.answers.2.label:1.0
+passage.questions.28.answers.2.idx:24741.0
+passage.questions.28.answers.1.text:1409
+passage.questions.28.answers.1.label:0,0
+passage.questions.28.answers.1.idx:24740.0
+passage.questions.28.answers.0.text:Dvajset let pozneje kot leta 1409
+passage.questions.28.answers.0.label:0,0
+passage.questions.28.answers.0.idx:24739.0
+passage.questions.27.question:Kdo je razširil moč Melake vzdolž zahodne obale in vse do Singapurja in sosednjih otokov Bintan?
+passage.questions.27.idx:4670.0
+passage.questions.27.answers.6.text:Vojaški poveljnik
+passage.questions.27.answers.6.label:1.0
+passage.questions.27.answers.6.idx:24738.0
+passage.questions.27.answers.5.text:Tun Perak
+passage.questions.27.answers.5.label:1.0
+passage.questions.27.answers.5.idx:24737.0
+passage.questions.27.answers.4.text:Bendahara
+passage.questions.27.answers.4.label:1.0
+passage.questions.27.answers.4.idx:24736.0
+passage.questions.27.answers.3.text:Cesar Chu Ti
+passage.questions.27.answers.3.label:0,0
+passage.questions.27.answers.3.idx:24735.0
+passage.questions.27.answers.2.text:Parameswara
+passage.questions.27.answers.2.label:0,0
+passage.questions.27.answers.2.idx:24734.0
+passage.questions.27.answers.1.text:Šri maharadža
+passage.questions.27.answers.1.label:0,0
+passage.questions.27.answers.1.idx:24733.0
+passage.questions.27.answers.0.text:Admiral Cheng Ho
+passage.questions.27.answers.0.label:0,0
+passage.questions.27.answers.0.idx:24732.0
+passage.questions.26.question:Kdo je bil odgovoren za to, da so gusarji pomaranč izsiljevali danak mimo ladij?
+passage.questions.26.idx:4669.0
+passage.questions.26.answers.7.text:Vojaški poveljnik
+passage.questions.26.answers.7.label:1.0
+passage.questions.26.answers.7.idx:24731.0
+passage.questions.26.answers.6.text:Tun Perak
+passage.questions.26.answers.6.label:1.0
+passage.questions.26.answers.6.idx:24730.0
+passage.questions.26.answers.5.text:Bendahara
+passage.questions.26.answers.5.label:1.0
+passage.questions.26.answers.5.idx:24729.0
+passage.questions.26.answers.4.text:Cesar Chu Ti
+passage.questions.26.answers.4.label:0,0
+passage.questions.26.answers.4.idx:24728.0
+passage.questions.26.answers.3.text:Šri maharadža
+passage.questions.26.answers.3.label:0,0
+passage.questions.26.answers.3.idx:24727.0
+passage.questions.26.answers.2.text:Admiral Cheng Ho
+passage.questions.26.answers.2.label:0,0
+passage.questions.26.answers.2.idx:24726.0
+passage.questions.26.answers.1.text:Bendahara (premier)
+passage.questions.26.answers.1.label:1.0
+passage.questions.26.answers.1.idx:24725.0
+passage.questions.26.answers.0.text:Cheng Ho
+passage.questions.26.answers.0.label:0,0
+passage.questions.26.answers.0.idx:24724.0
+passage.questions.25.question:Kdaj so se Kitajci umaknili iz trgovine z južnimi morji?
+passage.questions.25.idx:4668.0
+passage.questions.25.answers.3.text:1421
+passage.questions.25.answers.3.label:0,0
+passage.questions.25.answers.3.idx:24723.0
+passage.questions.25.answers.2.text:1409
+passage.questions.25.answers.2.label:0,0
+passage.questions.25.answers.2.idx:24722.0
+passage.questions.25.answers.1.text:1431
+passage.questions.25.answers.1.label:1.0
+passage.questions.25.answers.1.idx:24721.0
+passage.questions.25.answers.0.text:1411
+passage.questions.25.answers.0.label:0,0
+passage.questions.25.answers.0.idx:24720.0
+passage.questions.24.question:Kaj je na otok privabilo večja plovila?
+passage.questions.24.idx:4667.0
+passage.questions.24.answers.8.text:Globoka voda, zaščiteno pristanišče
+passage.questions.24.answers.8.label:1.0
+passage.questions.24.answers.8.idx:24719.0
+passage.questions.24.answers.7.text:Kitajci
+passage.questions.24.answers.7.label:0,0
+passage.questions.24.answers.7.idx:24718.0
+passage.questions.24.answers.6.text:Reka majhna in počasna
+passage.questions.24.answers.6.label:0,0
+passage.questions.24.answers.6.idx:24717.0
+passage.questions.24.answers.5.text:Muslimani
+passage.questions.24.answers.5.label:0,0
+passage.questions.24.answers.5.idx:24716.0
+passage.questions.24.answers.4.text:Dobro zgrajen ladijski kanal
+passage.questions.24.answers.4.label:0,0
+passage.questions.24.answers.4.idx:24715.0
+passage.questions.24.answers.3.text:Strateška lokacija
+passage.questions.24.answers.3.label:1.0
+passage.questions.24.answers.3.idx:24714.0
+passage.questions.24.answers.2.text:Močvirnata ravnica
+passage.questions.24.answers.2.label:0,0
+passage.questions.24.answers.2.idx:24713.0
+passage.questions.24.answers.1.text:Zaščiteno pristanišče, zaščiteno pred monsuni s sosednjo Sumatro
+passage.questions.24.answers.1.label:1.0
+passage.questions.24.answers.1.idx:24712.0
+passage.questions.24.answers.0.text:Globokomorski kanal blizu obale
+passage.questions.24.answers.0.label:1.0
+passage.questions.24.answers.0.idx:24711.0
+passage.questions.23.question:Zakaj v prvih dneh morda ne bi želeli živeti v Melaki?
+passage.questions.23.idx:4666.0
+passage.questions.23.answers.9.text:Reka je bila majhna in počasna
+passage.questions.23.answers.9.label:1.0
+passage.questions.23.answers.9.idx:24709.0
+passage.questions.23.answers.8.text:Neobvladljiv dež
+passage.questions.23.answers.8.label:0,0
+passage.questions.23.answers.8.idx:24708.0
+passage.questions.23.answers.7.text:Močvirna ravnica
+passage.questions.23.answers.7.label:1.0
+passage.questions.23.answers.7.idx:24707.0
+passage.questions.23.answers.6.text:Neplodna zemlja
+passage.questions.23.answers.6.label:1.0
+passage.questions.23.answers.6.idx:24706.0
+passage.questions.23.answers.5.text:Ravnina je bila le močvirnata
+passage.questions.23.answers.5.label:1.0
+passage.questions.23.answers.5.idx:24705.0
+passage.questions.23.answers.4.text:Počasi
+passage.questions.23.answers.4.label:1.0
+passage.questions.23.answers.4.idx:24704.0
+passage.questions.23.answers.3.text:Zemlja je bila neplodna, le močvirnata ravnica, reka pa majhna in počasna
+passage.questions.23.answers.3.label:1.0
+passage.questions.23.answers.3.idx:24703.0
+passage.questions.23.answers.2.text:Kraj je bil vazal Kitajske
+passage.questions.23.answers.2.label:0,0
+passage.questions.23.answers.2.idx:24702.0
+passage.questions.23.answers.10.text:Majhne reke
+passage.questions.23.answers.10.label:1.0
+passage.questions.23.answers.10.idx:24710.0
+passage.questions.23.answers.1.text:Bilo je polno piratov
+passage.questions.23.answers.1.label:0,0
+passage.questions.23.answers.1.idx:24701.0
+passage.questions.23.answers.0.text:Zemlja je bila neplodna
+passage.questions.23.answers.0.label:1.0
+passage.questions.23.answers.0.idx:24700.0
+passage.questions.22.question:Kaj je storil Šri Maharadža, ki je prispeval k temu, da je islam osvojil svoje mesto na Malaji?
+passage.questions.22.idx:4665.0
+passage.questions.22.answers.6.text:Ogromna vojska
+passage.questions.22.answers.6.label:0,0
+passage.questions.22.answers.6.idx:24699.0
+passage.questions.22.answers.5.text:Poročen s sultanom na Sumatri
+passage.questions.22.answers.5.label:1.0
+passage.questions.22.answers.5.idx:24698.0
+passage.questions.22.answers.4.text:Razglasitev vojne
+passage.questions.22.answers.4.label:0,0
+passage.questions.22.answers.4.idx:24697.0
+passage.questions.22.answers.3.text:Močno je evangeliziral islam v Malaji
+passage.questions.22.answers.3.label:0,0
+passage.questions.22.answers.3.idx:24696.0
+passage.questions.22.answers.2.text:Zamenjal svojo zvestobo in osvojil Animistične skupnosti
+passage.questions.22.answers.2.label:0,0
+passage.questions.22.answers.2.idx:24695.0
+passage.questions.22.answers.1.text:V muslimansko vero se je poročil s poroko s hčerko sultana na Sumatri
+passage.questions.22.answers.1.label:1.0
+passage.questions.22.answers.1.idx:24694.0
+passage.questions.22.answers.0.text:S poroko v muslimansko vero
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:24693.0
+passage.questions.21.question:Kdo je prvi izkoristil komercialni potencial regije in kdo je bil admiral, ki je prevzel vodstvo?
+passage.questions.21.idx:4664.0
+passage.questions.21.answers.9.text:Kitajci
+passage.questions.21.answers.9.label:1.0
+passage.questions.21.answers.9.idx:24691.0
+passage.questions.21.answers.8.text:Cesar Chu Ti, admiral Cheng Ho
+passage.questions.21.answers.8.label:1.0
+passage.questions.21.answers.8.idx:24690.0
+passage.questions.21.answers.7.text:Kitajci in admiral Cheng
+passage.questions.21.answers.7.label:1.0
+passage.questions.21.answers.7.idx:24689.0
+passage.questions.21.answers.6.text:Muslimani
+passage.questions.21.answers.6.label:0,0
+passage.questions.21.answers.6.idx:24688.0
+passage.questions.21.answers.5.text:Bengalski veslači
+passage.questions.21.answers.5.label:0,0
+passage.questions.21.answers.5.idx:24687.0
+passage.questions.21.answers.4.text:Admiral Cheng
+passage.questions.21.answers.4.label:1.0
+passage.questions.21.answers.4.idx:24686.0
+passage.questions.21.answers.3.text:Kitajci; Chengo Ho
+passage.questions.21.answers.3.label:1.0
+passage.questions.21.answers.3.idx:24685.0
+passage.questions.21.answers.2.text:Novi vladar Melake, Šri Maharadža. Pripeljal je bengalske trgovce
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:24684.0
+passage.questions.21.answers.10.text:Muzaffar Shah
+passage.questions.21.answers.10.label:0,0
+passage.questions.21.answers.10.idx:24692.0
+passage.questions.21.answers.1.text:Kitajci. Cheng Ho je bil admiral, ki je prevzel vodstvo
+passage.questions.21.answers.1.label:1.0
+passage.questions.21.answers.1.idx:24683.0
+passage.questions.21.answers.0.text:Tun Perak. , Admiral Cheng Ho
+passage.questions.21.answers.0.label:0,0
+passage.questions.21.answers.0.idx:24682.0
+passage.questions.20.question:Zakaj je Parameswara leta 1411 odnesla denar v Peking?
+passage.questions.20.idx:4663.0
+passage.questions.20.answers.6.text:Iskati dovoljenje za trgovanje za izvoz Melake
+passage.questions.20.answers.6.label:0,0
+passage.questions.20.answers.6.idx:24681.0
+passage.questions.20.answers.5.text:Za plačilo letnega finančnega poklona v zameno za kitajsko zaščito pred plenilci Tajci
+passage.questions.20.answers.5.label:1.0
+passage.questions.20.answers.5.idx:24680.0
+passage.questions.20.answers.4.text:Postati kralj plovil
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:24679.0
+passage.questions.20.answers.3.text:Prositi za gradnjo pristanišča v Melaki
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:24678.0
+passage.questions.20.answers.2.text:Da pomagam ljudem
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:24677.0
+passage.questions.20.answers.1.text:Darovati njegovi družini
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:24676.0
+passage.questions.20.answers.0.text:Prositi za zaščito pred Tajci
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:24675.0
+passage.questions.2.question:pod kdo je bil plovilo kralj?
+passage.questions.2.idx:4645.0
+passage.questions.2.answers.5.text:Tun Perak
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:24555.0
+passage.questions.2.answers.4.text:Cesar Chu Ti
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:24554.0
+passage.questions.2.answers.3.text:Parameswara
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:24553.0
+passage.questions.2.answers.2.text:Admiral Cheng Ho
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:24552.0
+passage.questions.2.answers.1.text:Parameswara je postal kralj z ukazom cesarja Chu Ti
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:24551.0
+passage.questions.2.answers.0.text:Cheng Ho
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24550.0
+passage.questions.19.question:Kdo je imel oranžne pirate, ki so patruljirali po morjih, da bi izsiljevali danak mimo ladij?
+passage.questions.19.idx:4662.0
+passage.questions.19.answers.6.text:Vojaški poveljnik
+passage.questions.19.answers.6.label:1.0
+passage.questions.19.answers.6.idx:24674.0
+passage.questions.19.answers.5.text:Tun Perak
+passage.questions.19.answers.5.label:1.0
+passage.questions.19.answers.5.idx:24673.0
+passage.questions.19.answers.4.text:Bendahara
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:24672.0
+passage.questions.19.answers.3.text:Cesar Chu Ti
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:24671.0
+passage.questions.19.answers.2.text:Parameswara
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:24670.0
+passage.questions.19.answers.1.text:Šri maharadža
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:24669.0
+passage.questions.19.answers.0.text:Admiral Cheng Ho
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:24668.0
+passage.questions.18.question:Kdo je imel v lasti floto ladij?
+passage.questions.18.idx:4661.0
+passage.questions.18.answers.4.text:Tun Perak
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:24667.0
+passage.questions.18.answers.3.text:Cesar Chu Ti
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:24666.0
+passage.questions.18.answers.2.text:Kitajci in tajci
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:24665.0
+passage.questions.18.answers.1.text:Šri maharadža
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:24664.0
+passage.questions.18.answers.0.text:Admiral Cheng Ho
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:24663.0
+passage.questions.17.question:Kaj je naredil Tun Perak? Poimenuj dve stvari.
+passage.questions.17.idx:4660.0
+passage.questions.17.answers.7.text:Nadaljuje trgovino z južnimi skupnostmi
+passage.questions.17.answers.7.label:0,0
+passage.questions.17.answers.7.idx:24662.0
+passage.questions.17.answers.6.text:Odkrita Melaka
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:24661.0
+passage.questions.17.answers.5.text:Vodil je zmago nad tajsko floto in razširil moč Melake vzdolž zahodne obale
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:24660.0
+passage.questions.17.answers.4.text:Boril se je s tajskimi ladjami
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:24659.0
+passage.questions.17.answers.3.text:Razširjena moč na jugu Melake (tj. Singapur)
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:24658.0
+passage.questions.17.answers.2.text:Širite islam v Melaki
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:24657.0
+passage.questions.17.answers.1.text:Razširjena moč Melake
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:24656.0
+passage.questions.17.answers.0.text:Oranžni pirati, ki patruljirajo po morjih
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:24655.0
+passage.questions.16.question:Zakaj Melaka v zgodnjih dneh ni bila idealno mesto za življenje večine ljudi?
+passage.questions.16.idx:4659.0
+passage.questions.16.answers.9.text:Močvirna ravnica
+passage.questions.16.answers.9.label:1.0
+passage.questions.16.answers.9.idx:24652.0
+passage.questions.16.answers.8.text:Neplodna zemlja
+passage.questions.16.answers.8.label:1.0
+passage.questions.16.answers.8.idx:24651.0
+passage.questions.16.answers.7.text:Ravnina je bila le močvirnata
+passage.questions.16.answers.7.label:1.0
+passage.questions.16.answers.7.idx:24650.0
+passage.questions.16.answers.6.text:Počasi
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:24649.0
+passage.questions.16.answers.5.text:Barbari
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:24648.0
+passage.questions.16.answers.4.text:Zemlja je bila neplodna, reka pa počasna
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:24647.0
+passage.questions.16.answers.3.text:Kraj je bil vazal Kitajske
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:24646.0
+passage.questions.16.answers.2.text:Bilo je polno piratov
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:24645.0
+passage.questions.16.answers.11.text:Majhne reke
+passage.questions.16.answers.11.label:1.0
+passage.questions.16.answers.11.idx:24654.0
+passage.questions.16.answers.10.text:Reka je bila majhna in počasna
+passage.questions.16.answers.10.label:1.0
+passage.questions.16.answers.10.idx:24653.0
+passage.questions.16.answers.1.text:Zemlja je bila neplodna
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:24644.0
+passage.questions.16.answers.0.text:Agresivne živali
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:24643.0
+passage.questions.15.question:Kdo je razširil moč Melake na Singapur?
+passage.questions.15.idx:4658.0
+passage.questions.15.answers.4.text:Tun Perak
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:24642.0
+passage.questions.15.answers.3.text:Lokalni malajščina
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:24641.0
+passage.questions.15.answers.2.text:Šri maharadža
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:24640.0
+passage.questions.15.answers.1.text:Tajska flota
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:24639.0
+passage.questions.15.answers.0.text:Batu Pahat
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:24638.0
+passage.questions.14.question:Kateri vojaški poveljnik je ukazal poklon mimoidočim ladjam?
+passage.questions.14.idx:4657.0
+passage.questions.14.answers.4.text:Muzaffar Shah
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:24637.0
+passage.questions.14.answers.3.text:Tun Perak
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:24636.0
+passage.questions.14.answers.2.text:Cesar Chu Ti
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:24635.0
+passage.questions.14.answers.1.text:Šri maharadža
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:24634.0
+passage.questions.14.answers.0.text:Admiral Cheng Ho
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:24633.0
+passage.questions.13.question:V katerem letu so Kitajci naselili Melako?
+passage.questions.13.idx:4656.0
+passage.questions.13.answers.5.text:1456
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:24632.0
+passage.questions.13.answers.4.text:Dvajset let pozneje kot leta 1411
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:24631.0
+passage.questions.13.answers.3.text:Dve leti po tem, ko je Parasekwana denar odnesel v Peking
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:24630.0
+passage.questions.13.answers.2.text:1411
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:24629.0
+passage.questions.13.answers.1.text:Leta 1409
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:24628.0
+passage.questions.13.answers.0.text:Dvajset let pozneje kot leta 1409
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:24627.0
+passage.questions.12.question:Navedite nekaj regij iz zgodbe?
+passage.questions.12.idx:4655.0
+passage.questions.12.answers.8.text:Antartica
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:24626.0
+passage.questions.12.answers.7.text:Severna afrika
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:24625.0
+passage.questions.12.answers.6.text:Azija
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:24624.0
+passage.questions.12.answers.5.text:Melaka
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:24623.0
+passage.questions.12.answers.4.text:Evropi
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:24622.0
+passage.questions.12.answers.3.text:Nanjing
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:24621.0
+passage.questions.12.answers.2.text:Sumatra
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:24620.0
+passage.questions.12.answers.1.text:Las Islas Filipinas
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:24619.0
+passage.questions.12.answers.0.text:Formoza
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:24618.0
+passage.questions.11.question:Kdo je bil vodja, ki je spoznal tržno vrednost pristanišča
+passage.questions.11.idx:4654.0
+passage.questions.11.answers.7.text:Muzaffar Shah
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:24617.0
+passage.questions.11.answers.6.text:Kitajci
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:24616.0
+passage.questions.11.answers.5.text:Cesar Chu Ti
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:24615.0
+passage.questions.11.answers.4.text:Muslimani
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:24614.0
+passage.questions.11.answers.3.text:Bengalski veslači
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:24613.0
+passage.questions.11.answers.2.text:Admiral Cheng
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:24612.0
+passage.questions.11.answers.1.text:Paramsekwana je
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:24611.0
+passage.questions.11.answers.0.text:Tajski peng
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:24610.0
+passage.questions.10.question:Kaj je pozitivna točka Melake?
+passage.questions.10.idx:4653.0
+passage.questions.10.answers.5.text:Zaščiteno pristanišče
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:24609.0
+passage.questions.10.answers.4.text:Zemlja je bila neplodna, le močvirnata ravnica, reka majhna in počasna
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:24608.0
+passage.questions.10.answers.3.text:Ponudili so dinamično vodstvo in oznanjevanje bratstva in samozaupanja
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:24607.0
+passage.questions.10.answers.2.text:Imela je neizmerno bogastvo virov
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:24606.0
+passage.questions.10.answers.1.text:Imelo je zaščiteno pristanišče, ki ga je pred monsuni zaščitila sosednja Sumatra
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:24605.0
+passage.questions.10.answers.0.text:Malaka je bila trgovsko in poslovno središče regije
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:24604.0
+passage.questions.1.question:Kaj se je zgodilo pod oblastjo Emporerja Chu Ti-ja leta 1409?
+passage.questions.1.idx:4644.0
+passage.questions.1.answers.5.text:Uvozil islam v Melako in Sumatro
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:24549.0
+passage.questions.1.answers.4.text:Razširjena trgovina z južnimi in indijskimi morskimi skupnostmi
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:24548.0
+passage.questions.1.answers.3.text:Sklenjen je bil sporazum, ki je kitajske zaščitil pred tajskimi
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:24547.0
+passage.questions.1.answers.2.text:Nizozemci so kolonizirali Melako
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:24546.0
+passage.questions.1.answers.1.text:Nadaljuje trgovino v južnem morju in Indijskem oceanu
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:24545.0
+passage.questions.1.answers.0.text:Razglašena vojna
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:24544.0
+passage.questions.0.question:Opišite deželo Melaka
+passage.questions.0.idx:4643
+passage.questions.0.answers.7.text:Zemlja je bila neplodna, le močvirnata ravnica, reka majhna in počasna
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:24543.0
+passage.questions.0.answers.6.text:V zgodovini je bil dom muslimanom
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:24542.0
+passage.questions.0.answers.5.text:V prvih dneh ni bilo veliko prostora za življenje
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:24541.0
+passage.questions.0.answers.4.text:V najzgodnejših dneh je bilo videti grozno s svojo nerodovitno močvirnato ravnico, toda Malaka je doživela ogromno preobrazbo, ko so se tam naselili Kitajci
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:24540.0
+passage.questions.0.answers.3.text:Močvirnat; zaščiteno pristanišče za zaščito pred monsuni; ampak na splošno neprijeten
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:24539.0
+passage.questions.0.answers.2.text:Močvirnato mesto
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:24538.0
+passage.questions.0.answers.1.text:Bila je neplodna, samo močvirnata ravnica, reka majhna in počasna
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:24537
+passage.questions.0.answers.0.text:Bila je čudovita celina z veliko viri
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24536
+idx:410

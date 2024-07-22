@@ -1,0 +1,6 @@
+choice1:Gostitelj jih je vrgel ven.
+choice2:Gostitelj jih je povabil, naj vstopijo.
+idx:295
+label:0
+premise:Skupina najstnikov je nepovabljena prišla na zabavo.
+question:effect

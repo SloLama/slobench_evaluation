@@ -1,0 +1,6 @@
+choice1:Ugotovil je, da je pacientova roka zlomljena.
+choice2:Pacientovo roko je dal v mavec.
+idx:185
+label:0
+premise:Zdravnik je slikal pacientovo roko.
+question:effect

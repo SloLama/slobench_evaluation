@@ -1,0 +1,6 @@
+choice1:Šla sem v muzej.
+choice2:Šla sem na koncert.
+idx:95
+label:1
+premise:Zvonilo mi je v ušesih.
+question:cause

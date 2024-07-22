@@ -1,0 +1,232 @@
+version:1.1
+passage.text:Brad, Teksas (CNN) - Oblasti so v petek pripravljale načrte za prebivalce, ki so bili prisiljeni pobegniti iz požara na severu Teksasa, da bi se vrnili domov, dan po tem, ko so gasilci napredovali v boju proti požaru, ki je uničil več deset domov. Po navedbah teksaške gozdne službe je požar v okrožju Palo Pinto do četrtka požgal 6.200 hektarjev. Požar gori v bližini letovišča Possum Kingdom Lake, blizu mesta Brad, približno 100 kilometrov zahodno od Dallasa. &quot;Danes se ob tem požaru počutimo veliko bolje,&quot; saj je požar zdaj 50-odstoten, je dejal John Nichols, tiskovni predstavnik gozdarske službe. Po njegovih besedah so evakuacijo ukinili za nekatere prebivalce, ki so bili prisiljeni evakuirati požar, ki so ga vodile visoke temperature in suh veter. Požar je od začetka v torek uničil 40 domov in devet avtodomov, so v četrtek sporočili iz Zavoda za gozdove. Gasilci so bili deležni podpore iz letalskih cistern in helikopterjev. Oblasti načrtujejo načrte, s katerimi bodo prebivalcem omogočili, da se vrnejo na svoje domove, je dejala šerif okrožja Palo Pinto Ira Mercer. Oblasti tudi poskušajo odpreti jezero za praznik dela, je dejal. V sredo so odredili evakuacijo v več skupnostih na severni strani jezera, potem ko je ogenj naletel na greben in se približal jezu na jezeru, je poročala podružnica CNN WFAA Požar se je premikal tako hitro, da se je Zavod za gozdove umaknil s poveljniškega opazovalnega mesta in novinarjem in gledalcem rekel, naj se umaknejo požaru. &quot;Moja hiša je ravno od tu, čeprav je morda ni več,&quot; je Tom Hardeston povedal WFAA, ko je opazoval ogenj. Bližnji rančerji so se borili, da bi rešili svoje črede pred požari. &quot;Samo premikam jih s pašnika na pašnik,&quot; je za WFAA povedala Cindi McCoy, ki se je sklicevala na svojo živino. &quot;Ko en pašnik gori, jih prestavim nazaj na tistega in jih pripeljem nazaj.&quot;
+passage.questions.9.question:Kako so kmetje ravnali s svojo živino med požari v Teksasu?
+passage.questions.9.idx:3404.0
+passage.questions.9.answers.2.text:pusti jih pri miru
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:17941.0
+passage.questions.9.answers.1.text:Krave premikajo lastnike s pašnika na pašnik.
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:17940.0
+passage.questions.9.answers.0.text:Premikanje jih okoli
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:17939.0
+passage.questions.8.question:Kateri praznik se je bližal, ko so poskušali odpreti jezero Possum Kingdom med gozdnim požarom?
+passage.questions.8.idx:3403.0
+passage.questions.8.answers.3.text:Dan, ki se vrača domov.
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:17938.0
+passage.questions.8.answers.2.text:Dan ocenjevanja oposuma.
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:17937.0
+passage.questions.8.answers.1.text:Dan spomina
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:17936.0
+passage.questions.8.answers.0.text:Dan dela
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:17935.0
+passage.questions.7.question:Kaj so uničili septembrski požari v Teksasu?
+passage.questions.7.idx:3402.0
+passage.questions.7.answers.4.text:40 gozdov v Teksasu
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:17934.0
+passage.questions.7.answers.3.text:9 gora
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:17933.0
+passage.questions.7.answers.2.text:devet avtodomov
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:17932.0
+passage.questions.7.answers.1.text:40 hiš
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:17931.0
+passage.questions.7.answers.0.text:Več kot 6200 hektarjev zemlje
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:17930.0
+passage.questions.6.question:Zakaj je Cindi McCoy premikala živino?
+passage.questions.6.idx:3401.0
+passage.questions.6.answers.2.text:Prihraniti denar.
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:17929.0
+passage.questions.6.answers.1.text:Da bi ustavili požar.
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:17928.0
+passage.questions.6.answers.0.text:Da bi bili varni.
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:17927.0
+passage.questions.5.question:Koliko dni je ogenj požel 6200 hektarjev?
+passage.questions.5.idx:3400.0
+passage.questions.5.answers.2.text:eno
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:17926.0
+passage.questions.5.answers.1.text:Delček sekunde
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:17925.0
+passage.questions.5.answers.0.text:Tri
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:17924.0
+passage.questions.4.question:V kateri okrožju Texas je jezero Possum Kingdom?
+passage.questions.4.idx:3399.0
+passage.questions.4.answers.3.text:Teksaški gozd
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:17923.0
+passage.questions.4.answers.2.text:Teksas
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:17922.0
+passage.questions.4.answers.1.text:Brad
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:17921.0
+passage.questions.4.answers.0.text:Okrožje Palo Pinto
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:17920.0
+passage.questions.3.question:Cindi McCoy je govorila s podružnico katere od glavnih novic?
+passage.questions.3.idx:3398.0
+passage.questions.3.answers.4.text:Šerif okrožja Palo Pinto Ira Mercer
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:17919.0
+passage.questions.3.answers.3.text:zavod za gozdove
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:17918.0
+passage.questions.3.answers.2.text:WNBC
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:17917.0
+passage.questions.3.answers.1.text:CNN
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:17916.0
+passage.questions.3.answers.0.text:WFAA
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:17915.0
+passage.questions.2.question:Kakšen je obseg škode?
+passage.questions.2.idx:3397.0
+passage.questions.2.answers.3.text:ni veliko škode
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:17914.0
+passage.questions.2.answers.2.text:9 RV-jev je bilo uničenih
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:17913.0
+passage.questions.2.answers.1.text:Na desetine domov, največ 40 poškodovanih.
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:17912.0
+passage.questions.2.answers.0.text:Na desetine domov, vsaj 40 poškodovanih.
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:17911.0
+passage.questions.16.question:Kaj je povzročilo požare?
+passage.questions.16.idx:3411.0
+passage.questions.16.answers.4.text:Teksaška služba za zaščito gozdov je to storila za čiščenje gozda.
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:17969.0
+passage.questions.16.answers.3.text:Novinarji CNN so zažgali ogenj.
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:17968.0
+passage.questions.16.answers.2.text:požar
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:17967.0
+passage.questions.16.answers.1.text:visoke temperature
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:17966.0
+passage.questions.16.answers.0.text:suhi vetrovi
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:17965.0
+passage.questions.15.question:Zakaj so odpravili nekaj evakuacij?
+passage.questions.15.idx:3410.0
+passage.questions.15.answers.2.text:Vsi so že umrli.
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:17964.0
+passage.questions.15.answers.1.text:Ogenj se je preselil v gore ob mestu.
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:17963.0
+passage.questions.15.answers.0.text:požar je ugasnil
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:17962.0
+passage.questions.14.question:Zakaj so duhovi začeli naraščati med požari?
+passage.questions.14.idx:3409.0
+passage.questions.14.answers.2.text:Vse je že zgorelo.
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:17961.0
+passage.questions.14.answers.1.text:Prebivalci se lahko vrnejo domov, saj požarne nevarnosti večinoma ni več.
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:17960.0
+passage.questions.14.answers.0.text:Ogenj je večinoma omejen.
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:17959.0
+passage.questions.13.question:Koliko dni je bil požar aktiven?
+passage.questions.13.idx:3408.0
+passage.questions.13.answers.2.text:Dva
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:17958.0
+passage.questions.13.answers.1.text:Ena
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:17957.0
+passage.questions.13.answers.0.text:Vsaj tri dni
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:17956.0
+passage.questions.12.question:Kdaj je bil požar 50-odstoten?
+passage.questions.12.idx:3407.0
+passage.questions.12.answers.3.text:Sreda
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:17955.0
+passage.questions.12.answers.2.text:Četrtek
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:17954.0
+passage.questions.12.answers.1.text:Torek
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:17953.0
+passage.questions.12.answers.0.text:Petek
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:17952.0
+passage.questions.11.question:Kje se dogaja dogodek?
+passage.questions.11.idx:3406.0
+passage.questions.11.answers.4.text:CNN
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:17951.0
+passage.questions.11.answers.3.text:Brad
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:17950.0
+passage.questions.11.answers.2.text:Teksas
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:17949.0
+passage.questions.11.answers.1.text:Okrožje Palo Pinto v Teksasu
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:17948.0
+passage.questions.11.answers.0.text:jezero oposumsko kraljestvo
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:17947.0
+passage.questions.10.question:Za kakšne vladne uradnike je šlo?
+passage.questions.10.idx:3405.0
+passage.questions.10.answers.4.text:odvetniki
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:17946.0
+passage.questions.10.answers.3.text:poročevalci
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:17945.0
+passage.questions.10.answers.2.text:policisti
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:17944.0
+passage.questions.10.answers.1.text:Gasilci
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:17943.0
+passage.questions.10.answers.0.text:gozdarska služba
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:17942.0
+passage.questions.1.question:Kakšno je trenutno stanje evakuacije?
+passage.questions.1.idx:3396.0
+passage.questions.1.answers.2.text:Evakuacije potekajo.
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:17910.0
+passage.questions.1.answers.1.text:Nekatere prebivalce na severni strani jezera so evakuirali.
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:17909.0
+passage.questions.1.answers.0.text:Nekatere evakuacije so bile odpravljene.
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:17908.0
+passage.questions.0.question:Kako velik je ogenj?
+passage.questions.0.idx:3395
+passage.questions.0.answers.2.text:100 milj
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:17907.0
+passage.questions.0.answers.1.text:40 hektarjev
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:17906
+passage.questions.0.answers.0.text:6200 hektarjev
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:17905
+idx:299

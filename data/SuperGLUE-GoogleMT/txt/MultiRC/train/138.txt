@@ -1,0 +1,173 @@
+version:1.1
+passage.text:Alexis-Charles-Henri Clerel de Tocqueville (francosko: [aleksi SaRl aRi kleRel d @ tokvil]; 29. julij 1805 - 16. april 1859) je bil francoski politični mislec in zgodovinar, najbolj znan po svojih delih Demokracija v Ameriki (nastopal je v dveh zvezkih: 1835 in 1840) in Stari režim in revolucija (1856). V obeh je analiziral izboljšan življenjski standard in socialne razmere posameznikov ter njihov odnos do trga in države v zahodnih družbah. Demokracija v Ameriki je bila objavljena po Tocquevilleovih potovanjih po ZDA, danes pa velja za zgodnje delo na področju sociologije in politologije. Tocqueville je bil aktiven v francoski politiki, najprej pod julijsko monarhijo (1830-1848), nato pa med drugo republiko (1849-1851), ki je nasledila februarsko revolucijo 1848. Po političnem življenju se je upokojil po puču Louisa Napoleona Bonaparteja 2. decembra 1851 in nato začel z delom na temo Stari režim in revolucija. Trdil je, da je pomen francoske revolucije nadaljevanje procesa modernizacije in centralizacije francoske države, ki se je začel pod kraljem Ludvikom XIV. Neuspeh revolucije je izhajal iz neizkušenosti poslancev, ki so bili preveč poročeni, da bi abstrahirali razsvetljenske ideale. Tocqueville je bil klasični liberalec, ki je zagovarjal parlamentarno vlado, vendar je bil skeptičen do skrajnosti demokracije.
+passage.questions.9.question:V katerih knjigah je Tocqueville analiziral življenjske razmere?
+passage.questions.9.idx:1589.0
+passage.questions.9.answers.3.text:Demokracija v svetu
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:8259.0
+passage.questions.9.answers.2.text:Demokracija v Ameriki in stari režim in revolucija
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:8258.0
+passage.questions.9.answers.1.text:Droga
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:8257.0
+passage.questions.9.answers.0.text:Demokracija v Ameriki
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:8256.0
+passage.questions.8.question:Je Tocqueville preživel čas v ZDA pred letom 1835?
+passage.questions.8.idx:1588.0
+passage.questions.8.answers.1.text:Ja, je
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:8255.0
+passage.questions.8.answers.0.text:Ne pa ni
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:8254.0
+passage.questions.7.question:Katero od dveh najbolj znanih del Tocquevillea je bilo objavljeno po februarski revoluciji 1848?
+passage.questions.7.idx:1587.0
+passage.questions.7.answers.3.text:Julijska monarhija
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:8253.0
+passage.questions.7.answers.2.text:Luj Napoleona Bonaparteja z državnim udarom 2. decembra 1851
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8252.0
+passage.questions.7.answers.1.text:Druga republika
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8251.0
+passage.questions.7.answers.0.text:Stari režim in revolucija
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:8250.0
+passage.questions.6.question:Dva najbolj znana dela Tocquevillea preučujeta politično življenje v katerih dveh državah?
+passage.questions.6.idx:1586.0
+passage.questions.6.answers.5.text:Francija
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:8249.0
+passage.questions.6.answers.4.text:Revolucija
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:8248.0
+passage.questions.6.answers.3.text:Stari režim
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:8247.0
+passage.questions.6.answers.2.text:Združene države
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:8246.0
+passage.questions.6.answers.1.text:Demokracija
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:8245.0
+passage.questions.6.answers.0.text:Druga republika
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8244.0
+passage.questions.5.question:So se teme njegovega najbolj znanega dela spremenile zaradi njegove upokojitve iz politike?
+passage.questions.5.idx:1585.0
+passage.questions.5.answers.2.text:Ja, so
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:8243.0
+passage.questions.5.answers.1.text:Ne
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:8242.0
+passage.questions.5.answers.0.text:Odstavek ni določil
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:8241.0
+passage.questions.4.question:Koliko je bil Tocqueville star, ko se je upokojil iz političnega življenja?
+passage.questions.4.idx:1584.0
+passage.questions.4.answers.2.text:46
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8240.0
+passage.questions.4.answers.1.text:29.
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8239.0
+passage.questions.4.answers.0.text:XIV
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8238.0
+passage.questions.3.question:Kdo je bil Alexis-Charles-Henri Clerel de Tocqueville?
+passage.questions.3.idx:1583.0
+passage.questions.3.answers.3.text:Njegovo delo v francoski politiki
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:8237.0
+passage.questions.3.answers.2.text:Bil je francoski politični mislilec in zgodovinar, najbolj znan po svojem delu, ki je analiziral izboljšan življenjski standard in družbene razmere posameznikov med starim režimom in revolucijo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:8236.0
+passage.questions.3.answers.1.text:Živijo na področju sociologije in politologije
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8235.0
+passage.questions.3.answers.0.text:Potuje po ZDA
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8234.0
+passage.questions.2.question:Kako se je pisatelj demokracije v Ameriki počutil glede skrajnosti demokracije?
+passage.questions.2.idx:1582.0
+passage.questions.2.answers.4.text:Bil je skeptičen do skrajnosti demokracije
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:8233.0
+passage.questions.2.answers.3.text:Prihaja iz neizkušenosti poslancev
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:8232.0
+passage.questions.2.answers.2.text:Poučevanje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8231.0
+passage.questions.2.answers.1.text:Bil je navdušen nad tem
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8230.0
+passage.questions.2.answers.0.text:Bil je skeptičen
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8229.0
+passage.questions.12.question:Ali je bila katera od knjig Tocquevillea napisana, ko je bil aktiven v francoski politiki?
+passage.questions.12.idx:1592.0
+passage.questions.12.answers.2.text:Da, demokracija v Ameriki se je pojavila v dveh delih med letoma 1835 in 1840
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:8269.0
+passage.questions.12.answers.1.text:Da
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:8268.0
+passage.questions.12.answers.0.text:Ne, potem so bili napisani
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:8267.0
+passage.questions.11.question:Kaj je povzročilo, da je Tocqueville spremenil svoje dejavnosti v francoski politiki?
+passage.questions.11.idx:1591.0
+passage.questions.11.answers.2.text:Luj Napoleona Bonaparteja z državnim udarom 2. decembra 1851
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:8266.0
+passage.questions.11.answers.1.text:Francoski državni udar Napoleona Bonaparteja
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:8265.0
+passage.questions.11.answers.0.text:Postaral je
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:8264.0
+passage.questions.10.question:Kaj je bila demokracija v Ameriki?
+passage.questions.10.idx:1590.0
+passage.questions.10.answers.3.text:Stari režim
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:8263.0
+passage.questions.10.answers.2.text:En sam zvezek
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:8262.0
+passage.questions.10.answers.1.text:Demokracija v Ameriki je bilo objavljeno delo Toquevillea, ki trenutno velja za zgodnje delo na področju sociologije in politologije
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:8261.0
+passage.questions.10.answers.0.text:Francoski politični mislec in zgodovinar
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:8260.0
+passage.questions.1.question:Kako dolgo je bil Toquville aktiven v francoski politiki?
+passage.questions.1.idx:1581.0
+passage.questions.1.answers.3.text:Od leta 1830 do 1848
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:8228.0
+passage.questions.1.answers.2.text:Od leta 1830 do 1851
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:8227.0
+passage.questions.1.answers.1.text:Od leta 1805 do leta 1859
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8226.0
+passage.questions.1.answers.0.text:Od 1835 do 1840
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8225.0
+passage.questions.0.question:Kako lahko rečemo, da je bil Tocqueville zagovornik posameznika, vendar ga je skrbela tudi moč posameznika?
+passage.questions.0.idx:1580
+passage.questions.0.answers.2.text:Zavzemal se je za skrajnosti demokracije in skrbel za parlamentarno vlado
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8224.0
+passage.questions.0.answers.1.text:Zavzemal se je za parlamentarno vlado, vendar je bil dvomljiv do skrajnosti demokracije
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8223
+passage.questions.0.answers.0.text:Pisal je o izboljšanih življenjskih razmerah, ki so nastale zaradi revolucije, vendar je bil skeptičen do skrajnosti demokracije
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8222
+idx:138

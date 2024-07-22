@@ -1,0 +1,80 @@
+version:1.1
+passage.text:Dosežki in zapuščina Aleksandra Velikega so prikazani v mnogih kulturah. Aleksander se je zanašal tako v visoki kot v popularni kulturi, ki se je začela že v njegovi dobi do danes. Zlasti Aleksandrska romanca je pomembno vplivala na upodobitve Aleksandra v poznejših kulturah, od perzijske do srednjeveške evropske do moderne grške. Aleksander se je po zmagi pri Issosu, ki je bila okrepljena z njegovimi nadaljnjimi uspehi, morda že imel za &quot;kralja Azije&quot;. Zasnova bi lahko navdihnila naslov, ki ga je Aleksander dobil v babilonskih dokumentih, &quot;kralj sveta (saj&quot; kralj Azije &quot;v babilonski geografiji ni imel nobenega pomena). Na to bi lahko namigovali tudi v sarkastičnih komentarjih Anaksarha, ki je poskušal vzbuditi Aleksandra po umoru Cleitusa. ali v oratorjevem Demadesovem komentarju, da če bi bil Aleksander mrtev, &quot;bi ves svet smrdel po njegovem truplu&quot;. Aleksander se v poznejši Aleksander Romance imenuje &quot;kosmokrator&quot;, vladar sveta. izrazito v sodobni grški folklori, bolj kot katera koli druga starodavna figura. Pogovorna oblika njegovega imena v sodobni grščini (&quot;O Megalexandros&quot;) je gospodinjsko ime in je edini starodavni junak, ki se je pojavil v igri Karagiozis v senci. znana basna med grškimi mornarji vključuje osamljeno morsko deklico, ki bi med nevihto prijela ladijsko noso in vprašala kapitana &quot;Je kralj Aleksander živ?&quot;. Pravilen odgovor je &quot;Živ in zdrav je in vlada svetu!&quot;, kar povzroča sirena v kombi in morje umiriti. Vsak drug odgovor bi povzročil, da bi se sirena spremenila v razbesnelo Gorgono, ki bi ladjo povlekla na dno morja, vse roke na njej.
+passage.questions.6.question:S kakšnim naslovom se v teh kulturah najpogosteje sklicuje?
+passage.questions.6.idx:3580.0
+passage.questions.6.answers.2.text:kralj zemlje
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:19008.0
+passage.questions.6.answers.1.text:Kralj Azije
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:19007.0
+passage.questions.6.answers.0.text:Kralj Azije ali Kralj sveta
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:19006.0
+passage.questions.5.question:Na katere tri kulture je Aleksander najbolj pomembno vplival?
+passage.questions.5.idx:3579.0
+passage.questions.5.answers.2.text:Grški
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19005.0
+passage.questions.5.answers.1.text:Perzijsko
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:19004.0
+passage.questions.5.answers.0.text:Aleksander je pomembno vplival na perzijsko, srednjeveško evropsko in moderno grško kulturo. Med branjem stavka številka tri v odstavku lahko naletite na to vsebino
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:19003.0
+passage.questions.4.question:Na katero samooklicano ime se je poimenoval Aleksander?
+passage.questions.4.idx:3578.0
+passage.questions.4.answers.2.text:Kralj Azije
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19002.0
+passage.questions.4.answers.1.text:Aleksander se je imenoval &quot;azijski kralj&quot;. To je začel uporabljati kmalu po zmagi Issos
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19001.0
+passage.questions.4.answers.0.text:Kralj zemlje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:19000.0
+passage.questions.3.question:Kaj je povzročilo, da se je sirena znotraj znane bajke spremenila v gorgono?
+passage.questions.3.idx:3577.0
+passage.questions.3.answers.2.text:Ko so jo vprašali o tem, ali je Aleksander mrtev ali živ, bi sirena sprejela le besede: &quot;Živ in zdrav je in vlada svetu!&quot; To je bil edini odgovor, ki bi jo poslal nazaj v morske globine, ne da bi se spremenila v gorgono, polno jeze
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:18999.0
+passage.questions.3.answers.1.text:Če pravilen odgovor na njeno vprašanje ni podan
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:18998.0
+passage.questions.3.answers.0.text:Če je plima velika
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18997.0
+passage.questions.2.question:Navedite primer Aleksandrovega vpliva v grški kulturi.
+passage.questions.2.idx:3576.0
+passage.questions.2.answers.2.text:Njegovo ime v grščini (O Megalexandros) je gospodinjsko ime. Med mornarji je znana bajka, pri kateri bi jim bilo prizaneseno, če bi priznali, da je Aleksander živ in zavladal svetu
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:18996.0
+passage.questions.2.answers.1.text:Pogovorna oblika njegovega imena v sodobni grščini (&quot;O Megalexandros&quot;) je gospodinjsko ime in je edini starodavni junak, ki se je pojavil v igri Karagiozis v senci
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:18995.0
+passage.questions.2.answers.0.text:Aleksandrova romanca je zlasti vplivala na upodobitve Aleksandra v poznejših kulturah, od perzijske do srednjeveške evropske do moderne grške
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:18994.0
+passage.questions.1.question:Kakšni so bili komentarji govornika Demadesa glede Aleksanderjeve smrti?
+passage.questions.1.idx:3575.0
+passage.questions.1.answers.2.text:Demadesovi komentarji, da če bi bil Aleksander mrtev, &quot;bi ves svet smrdel na njegovo truplo&quot;
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18993.0
+passage.questions.1.answers.1.text:V sedmem poglavju boste naleteli na ustvarjalca stavka, ki se nanaša na Aleksandrovo smrt. Trdijo: &quot;Ves svet bi zmrdoval nad njegovim truplom.&quot;
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:18992.0
+passage.questions.1.answers.0.text:Nihče ne bi opazil
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18991.0
+passage.questions.0.question:Poimenujte nekatere kulture, ki so upodabljale zapuščino Aleksandra Velikega.
+passage.questions.0.idx:3574
+passage.questions.0.answers.2.text:Perzijska v evropska, grška,
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:18990.0
+passage.questions.0.answers.1.text:Perzijska, srednjeveška evropska, novogrška
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:18989
+passage.questions.0.answers.0.text:Ameriška, južnoameriška, avstralska
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:18988
+idx:315

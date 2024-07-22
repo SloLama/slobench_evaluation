@@ -1,0 +1,4 @@
+idx:3962
+label:True
+passage:Povprečna napaka na kvadrat - MSE je drugi trenutek (približno izvor) napake in tako vključuje varianco ocenjevalnika in njegovo pristranskost. Za nepristranski ocenjevalnik je MSE varianca ocenjevalnika. Tako kot varianca ima tudi MSE enake merske enote kot kvadrat ocenjene količine. Analogno standardnemu odklonu, če vzamemo kvadratni koren MSE, dobimo napako povprečnega kvadrata ali povprečno kvadratno odstopanje (RMSE ali RMSD), ki ima enake enote kot ocenjena količina; za nepristranski ocenjevalnik je RMSE kvadratni koren variance, znan kot standardni odklon.
+question:je srednja kvadratna napaka enaka standardnemu odklonu

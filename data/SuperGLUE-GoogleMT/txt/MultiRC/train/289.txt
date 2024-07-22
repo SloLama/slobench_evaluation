@@ -1,0 +1,230 @@
+version:1.1
+passage.text:Hamilton je trdil, da so naravne sposobnosti črncev tako dobre kot svobodnjaki, in opozoril, da bodo Britanci oborožili sužnje, če domoljubi tega ne bodo storili. V svoji biografiji 21. stoletja Chernow ta incident navaja kot dokaz, da sta Hamilton in Laurens revolucijo in boj proti suženjstvu videla kot neločljiva. Hamilton je napadel svoje politične nasprotnike, ko so zase zahtevali svobodo in nočejo dovoliti črncem. Januarja 1785 se je Hamilton udeležil drugega srečanja New York Manumission Society (NYMS). John Jay je bil predsednik, Hamilton pa prvi sekretar, kasneje pa predsednik. Chernow ugotavlja, kako je članstvo kmalu vključilo veliko Hamiltonovih prijateljev in sodelavcev. Hamilton je bil član odbora društva, ki je pred zakonodajalcem zaprosil, naj ustavi trgovino s sužnji in je uspel sprejeti zakonodajo, ki prepoveduje izvoz sužnjev iz New Yorka. V istem obdobju se je Hamilton počutil vezan na takratno pravno državo in njegova odvetniška praksa je olajšala vrnitev ubežnega sužnja k Henryju Laurensu iz Južne Karoline. Nasprotoval je kompromisu na ustavni konvenciji iz leta 1787, s katero zvezna vlada 20 let ni mogla ukiniti trgovine s sužnji, in je bil razočaran, ko je izgubil ta argument. Hamilton nikoli ni podpiral prisilnega izseljevanja osvobojenih sužnjev. Horton je iz tega trdil, da bi mu bilo všeč večrasna družba in da ga to ločuje od njegovih sodobnikov. V mednarodnih zadevah je podpiral črno vlado Toussainta L&#39;Ouvertureja na Haitiju po uporu, ki je zrušil francoski nadzor, saj je leta 1791 podpiral pomoč sužnjelastnikom - oba ukrepa sta prizadela Francijo. Le redki so razlagali redke dokaze, ki kažejo, da je Hamilton morda imel gospodinjstvo sužnjev, prav tako mnogi bogati Newyorčani (dokazi za to so posredni; McDonald razlaga, da se nanašajo na plačane zaposlene).
+passage.questions.9.question:Kateri organizaciji se je Hamilton pridružil leta 1785, kjer je pozneje postal predsednik?
+passage.questions.9.idx:3299.0
+passage.questions.9.answers.1.text:Podzemna železnica
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:17396.0
+passage.questions.9.answers.0.text:New York Manumission Society (NYMS)
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:17395.0
+passage.questions.8.question:Kdo je bil predsednik NYMS pred Hamiltonom?
+passage.questions.8.idx:3298.0
+passage.questions.8.answers.3.text:Abraham Lincoln
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:17394.0
+passage.questions.8.answers.2.text:John Jay
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:17393.0
+passage.questions.8.answers.1.text:Chernow
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:17392.0
+passage.questions.8.answers.0.text:Hamilton
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:17391.0
+passage.questions.7.question:Kdaj se je Hamilton udeležil drugega sestanka NYMS, kjer je kasneje postal predsednik?
+passage.questions.7.idx:3297.0
+passage.questions.7.answers.4.text:1787
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:17390.0
+passage.questions.7.answers.3.text:Okoli leta 1785
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:17389.0
+passage.questions.7.answers.2.text:Prej
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:17388.0
+passage.questions.7.answers.1.text:1780-ih
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:17387.0
+passage.questions.7.answers.0.text:1983
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:17386.0
+passage.questions.6.question:Hamilton je bil prvi predsednik katere newyorške, abolicionistične organizacije?
+passage.questions.6.idx:3296.0
+passage.questions.6.answers.4.text:Newyorčani
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:17385.0
+passage.questions.6.answers.3.text:Newyorško društvo
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:17384.0
+passage.questions.6.answers.2.text:New York Manumission Society
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:17383.0
+passage.questions.6.answers.1.text:John Jay
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:17382.0
+passage.questions.6.answers.0.text:Podzemna železnica
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:17381.0
+passage.questions.5.question:Kako dolgo je trajalo, ko se je Hamilton prvič pridružil NYMS, ko je nasprotoval kompromisu na ustavni konvenciji iz leta 1787?
+passage.questions.5.idx:3295.0
+passage.questions.5.answers.1.text:12 let
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:17380.0
+passage.questions.5.answers.0.text:2 leti
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:17379.0
+passage.questions.4.question:Je res, da Hamilton nikoli ni pomagal lastnikom slave?
+passage.questions.4.idx:3294.0
+passage.questions.4.answers.1.text:Lažno
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17378.0
+passage.questions.4.answers.0.text:Prav
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:17377.0
+passage.questions.3.question:Kako dolgo po ustavni konvenciji iz leta 1787 je na Haitiju zagotavljal pomoč lastnikom sužnjev?
+passage.questions.3.idx:3293.0
+passage.questions.3.answers.2.text:Vsaj 3 leta
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:17376.0
+passage.questions.3.answers.1.text:5 let
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:17375.0
+passage.questions.3.answers.0.text:6 let
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:17374.0
+passage.questions.2.question:Katerega odbora NYMS je bil Hamilton?
+passage.questions.2.idx:3292.0
+passage.questions.2.answers.2.text:Bil je del društva, ki je organiziralo podzemno železnico
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:17373.0
+passage.questions.2.answers.1.text:Hamilton je bil član odbora društva, ki je pred zakonodajalcem zaprosil, naj ustavi trgovino s sužnji in je uspel sprejeti zakonodajo, ki prepoveduje izvoz sužnjev iz New Yorka
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:17372.0
+passage.questions.2.answers.0.text:: Hamilton je bil član odbora družbe, ki je zakonodajalcu predlagal, naj ustavi trgovino s sužnji
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:17371.0
+passage.questions.18.question:Je bil John Jay prvi tajnik New York Manumission Society?
+passage.questions.18.idx:3308.0
+passage.questions.18.answers.1.text:Da
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:17428.0
+passage.questions.18.answers.0.text:Ne
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:17427.0
+passage.questions.17.question:Hamilton je bil močan zagovornik svobodnih pravic temnopoltih.
+passage.questions.17.idx:3307.0
+passage.questions.17.answers.2.text:Da
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:17426.0
+passage.questions.17.answers.1.text:Ne
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:17425.0
+passage.questions.17.answers.0.text:Prav
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:17424.0
+passage.questions.16.question:Kakšno je bilo Hamiltonovo stališče, medtem ko je bil John Jay predsednik NYMS?
+passage.questions.16.idx:3306.0
+passage.questions.16.answers.4.text:Podpredsednik
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:17423.0
+passage.questions.16.answers.3.text:Vice Hamilton
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:17422.0
+passage.questions.16.answers.2.text:Prvi sekretar
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:17421.0
+passage.questions.16.answers.1.text:John Jay
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:17420.0
+passage.questions.16.answers.0.text:New York Manumission Society
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:17419.0
+passage.questions.15.question:Kdo je po Johnu Jayu postal predsednik NYMS?
+passage.questions.15.idx:3305.0
+passage.questions.15.answers.3.text:Predsednik
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:17418.0
+passage.questions.15.answers.2.text:John Jay
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:17417.0
+passage.questions.15.answers.1.text:Hamilton
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:17416.0
+passage.questions.15.answers.0.text:New York Manumission Society
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:17415.0
+passage.questions.14.question:Katera družba je prosila newyorški zakonodajalec, naj ustavi trgovino s sužnji?
+passage.questions.14.idx:3304.0
+passage.questions.14.answers.4.text:Vlada
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:17414.0
+passage.questions.14.answers.3.text:New York Manumission Society
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:17413.0
+passage.questions.14.answers.2.text:New York Manumission Society (NYMS)
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:17412.0
+passage.questions.14.answers.1.text:Večrasna družba
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:17411.0
+passage.questions.14.answers.0.text:Črna vlada Toussaint L&#39;Ouverture
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:17410.0
+passage.questions.13.question:Kako se je Hamilton počutil do temnopoltih ljudi?
+passage.questions.13.idx:3303.0
+passage.questions.13.answers.2.text:Menil je, da bi morali še naprej biti sužnji
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:17409.0
+passage.questions.13.answers.1.text:Menil je, da ne bi smeli biti sužnji
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:17408.0
+passage.questions.13.answers.0.text:Hamilton je verjel, da imajo črnci enake lastnosti kot belci, in je videl, da je boj črncev neločljiv od revolucije
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:17407.0
+passage.questions.12.question:Kaj je bilo razvidno iz Hamiltonove politike med osvobojenimi sužnji?
+passage.questions.12.idx:3302.0
+passage.questions.12.answers.2.text:Imel je plačane zaposlene
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:17406.0
+passage.questions.12.answers.1.text:Le redki so razlagali redke dokaze, ki kažejo, da je Hamilton morda imel v lasti gospodinjske sužnje
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:17405.0
+passage.questions.12.answers.0.text:Hamilton ni nikoli podpiral prisilnega izseljevanja na osvobojenih mestih, zato je bilo morda v večrasni družbi prijetno
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:17404.0
+passage.questions.11.question:Navedite primere, ki podpirajo Hamiltonove proabolocionistične poglede.
+passage.questions.11.idx:3301.0
+passage.questions.11.answers.3.text:Član New York Manumission Society
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:17403.0
+passage.questions.11.answers.2.text:Nasprotoval kompromisu na ustavni konvenciji iz leta 1787; nasprotoval kompromisu na ustavni konvenciji iz leta 1787
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:17402.0
+passage.questions.11.answers.1.text:Postal 2. predsednik newyorške družbe
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:17401.0
+passage.questions.11.answers.0.text:Verjel je, da so naravne sposobnosti črncev tako dobre kot proste beline
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:17400.0
+passage.questions.10.question:Kaj je Hamilton naredil v podporo temnopoltim?
+passage.questions.10.idx:3300.0
+passage.questions.10.answers.2.text:Napadal je druge, ker so se borili za svobodo samo belcev, in je zakonodajalcu predlagal, naj ustavi trgovino s sužnji
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:17399.0
+passage.questions.10.answers.1.text:Hamilton nikoli ni podpiral prisilnega izseljevanja osvobojenih sužnjev
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:17398.0
+passage.questions.10.answers.0.text:Podpiral je prisilno emigracijo
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:17397.0
+passage.questions.1.question:Zakaj Chernow sumi, da je Hamilton videl revolucijo in ukinitev kot neločljivo?
+passage.questions.1.idx:3291.0
+passage.questions.1.answers.2.text:Hamilton in Laurens sta revolucijo in boj proti suženjstvu videla kot neločljiva
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:17370.0
+passage.questions.1.answers.1.text:Podpiral je podzemno železnico
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:17369.0
+passage.questions.1.answers.0.text:Hamilton je verjel, da imajo črnci enake intelektualne sposobnosti kot belci. Opozoril je tudi, da bodo Britance sužnji oborožili, če domoljubi tega ne bodo storili
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:17368.0
+passage.questions.0.question:Je bilo New York Manumission Society ustanovljeno pred ali po ustavni konvenciji leta 1787?
+passage.questions.0.idx:3290
+passage.questions.0.answers.1.text:Po
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:17367
+passage.questions.0.answers.0.text:Prej
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:17366
+idx:289

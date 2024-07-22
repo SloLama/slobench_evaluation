@@ -1,0 +1,251 @@
+version:1.1
+passage.text:Aleksander Sergejevič Puškin (/ &#39;pUSkIn /; rusko: Aleksander Sergejevič Puškin, tr. Aleksander Sergejevič Puškin; IPA: [aljI&#39;ksandr sjI&#39;rgjejIvjItc&#39; puskjIn]; 6. junija [OS 26. maja] 1799 - 10. februarja [OS 29. januarja] 1837) je bil ruski avtor romantične dobe, za katerega mnogi menijo, da je največji ruski pesnik in utemeljitelj moderne ruske literature. Puškin se je rodil ruskemu plemstvu v Moskvi. Njegov praded je bil Abram Gannibal, ki so ga kot sužnja pripeljali iz današnjega Kameruna. Puškin je svojo prvo pesem objavil pri petnajstih letih, literarni zavod pa ga je ob diplomi na liceju Tsarskoye Selo splošno priznal. Medtem ko je Puškin pod strogim nadzorom carske politične policije in ni mogel objaviti, je napisal svojo najbolj znano dramo, dramo Boris Godunov. Njegov roman v verzih, Eugene Onegin, je bil serializiran med letoma 1825 in 1832. Puškin se je zaradi svoje časti boril kar devetindvajset dvobojev in bil smrtno ranjen v takem srečanju z Georges-Charlesom de Heeckerenom d&#39;Anthesom. Puškin je obtožil D&#39;Anthesa, francoskega častnika, ki je služil pri polku kavalirske garde, da je poskušal zapeljati pesnikovo ženo Nataljo Puškino.
+passage.questions.9.question:Kdaj je Aleksander Sergejevič Puškin umrl?
+passage.questions.9.idx:723.0
+passage.questions.9.answers.2.text:1873
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:3773.0
+passage.questions.9.answers.1.text:1799
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:3772.0
+passage.questions.9.answers.0.text:1837
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3771.0
+passage.questions.8.question:Koliko je bil Puškin prvo leto, ko je bil njegov roman Eugene Onegin serializiran?
+passage.questions.8.idx:722.0
+passage.questions.8.answers.3.text:25.
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:3770.0
+passage.questions.8.answers.2.text:29.
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3769.0
+passage.questions.8.answers.1.text:Šestindvajset let
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3768.0
+passage.questions.8.answers.0.text:15.
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3767.0
+passage.questions.7.question:Koga je Puškin ubil, ko bi bil zapeljeval svojo ženo?
+passage.questions.7.idx:721.0
+passage.questions.7.answers.2.text:Zaobljuba
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3766.0
+passage.questions.7.answers.1.text:Georges-Charles de Heeckeren d&#39;Anthes
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3765.0
+passage.questions.7.answers.0.text:Licej Tsarskoye Selo
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3764.0
+passage.questions.6.question:Koliko let je imel Puškin, ko je Eugene Onjegin začel serializacijo?
+passage.questions.6.idx:720.0
+passage.questions.6.answers.2.text:29.
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3763.0
+passage.questions.6.answers.1.text:26.
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3762.0
+passage.questions.6.answers.0.text:15.
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3761.0
+passage.questions.5.question:V kateri starosti je Puškin začel serializirati Eugena Onjegina?
+passage.questions.5.idx:719.0
+passage.questions.5.answers.2.text:Serializirati jo je začel, ko je bil star 26 let
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3760.0
+passage.questions.5.answers.1.text:29.
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3759.0
+passage.questions.5.answers.0.text:15.
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3758.0
+passage.questions.4.question:Kako lahko rečemo, da je bil Puškin iz plemiške družine, pa tudi ni bil?
+passage.questions.4.idx:718.0
+passage.questions.4.answers.5.text:Praded je bil Abram Gannibal je bil suženj
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:3757.0
+passage.questions.4.answers.4.text:Pod strogim nadzorom carjeve politične policije
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:3756.0
+passage.questions.4.answers.3.text:Rodil se je v plemstvu, njegov praded po materini strani pa je bil suženj iz Kameruna
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3755.0
+passage.questions.4.answers.2.text:Ustanovitelj moderne ruske literature
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3754.0
+passage.questions.4.answers.1.text:Puškin se je rodil ruskemu plemstvu v Moskvi
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3753.0
+passage.questions.4.answers.0.text:Rojen v plemiški družini, a matrilinealni rod je suženj
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3752.0
+passage.questions.3.question:Koliko je bil star, ko je bil njegov roman v verzih Eugene Onegin nadaljevan?
+passage.questions.3.idx:717.0
+passage.questions.3.answers.5.text:10.
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:3751.0
+passage.questions.3.answers.4.text:24.
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3750.0
+passage.questions.3.answers.3.text:18. stoletje
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3749.0
+passage.questions.3.answers.2.text:26.
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3748.0
+passage.questions.3.answers.1.text:29. januarja 1837
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3747.0
+passage.questions.3.answers.0.text:Med 26 - 33
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3746.0
+passage.questions.2.question:Koliko dvobojev se je Puškin boril po tistem, ki ga je imel z moškim, ki ga je obtožil zapeljevanja Puškinove žene?
+passage.questions.2.idx:716.0
+passage.questions.2.answers.3.text:6.
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3745.0
+passage.questions.2.answers.2.text:29.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3744.0
+passage.questions.2.answers.1.text:Nobenega, saj je bil v tistem dvoboju smrtno ranjen
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:3743.0
+passage.questions.2.answers.0.text:44
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:3742.0
+passage.questions.15.question:V katerem letu je Puškin najverjetneje napisal svojo prvo objavljeno pesem?
+passage.questions.15.idx:729.0
+passage.questions.15.answers.4.text:1837
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:3802.0
+passage.questions.15.answers.3.text:1799
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:3801.0
+passage.questions.15.answers.2.text:1814
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:3800.0
+passage.questions.15.answers.1.text:1832
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:3799.0
+passage.questions.15.answers.0.text:1825
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:3798.0
+passage.questions.14.question:Kateri ruski plemič velja za utemeljitelja moderne ruske literature?
+passage.questions.14.idx:728.0
+passage.questions.14.answers.3.text:Romantična doba
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:3797.0
+passage.questions.14.answers.2.text:Aleksander Sergejevič Puškin
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:3796.0
+passage.questions.14.answers.1.text:Abram Gannibal
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:3795.0
+passage.questions.14.answers.0.text:Moskva
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:3794.0
+passage.questions.13.question:Kje je živel Puškin, ko je napisal svojo najbolj znano dramo?
+passage.questions.13.idx:727.0
+passage.questions.13.answers.5.text:Boris
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:3793.0
+passage.questions.13.answers.4.text:Moskva
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:3792.0
+passage.questions.13.answers.3.text:Rusija
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:3791.0
+passage.questions.13.answers.2.text:St. Petersburg
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:3790.0
+passage.questions.13.answers.1.text:Carjeva
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3789.0
+passage.questions.13.answers.0.text:Uradniki
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:3788.0
+passage.questions.12.question:Iz katerih dveh držav je imel Puškin kri?
+passage.questions.12.idx:726.0
+passage.questions.12.answers.1.text:Kamerun
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:3787.0
+passage.questions.12.answers.0.text:Rusija
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:3786.0
+passage.questions.11.question:Katero leto je Puškin objavil svojo prvo pesem?
+passage.questions.11.idx:725.0
+passage.questions.11.answers.6.text:1837
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:3785.0
+passage.questions.11.answers.5.text:1799
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:3784.0
+passage.questions.11.answers.4.text:1814
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:3783.0
+passage.questions.11.answers.3.text:14.
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:3782.0
+passage.questions.11.answers.2.text:1810
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:3781.0
+passage.questions.11.answers.1.text:15.
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:3780.0
+passage.questions.11.answers.0.text:1813
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3779.0
+passage.questions.10.question:Kako in zakaj je Georges-Charles de Heeckeren usodno ranil Puškina?
+passage.questions.10.idx:724.0
+passage.questions.10.answers.4.text:Srečanje
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:3778.0
+passage.questions.10.answers.3.text:Notorno občutljiv glede njegove časti
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3777.0
+passage.questions.10.answers.2.text:Ubil ga je v dvoboju, potem ko je bil obtožen zapeljevanja Puškinove žene
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:3776.0
+passage.questions.10.answers.1.text:Znano je, da ni časten glede njegove časti
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3775.0
+passage.questions.10.answers.0.text:Za zapeljevanje svoje žene
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3774.0
+passage.questions.1.question:Ali so bili Puškinovi potomci vedno premožni?
+passage.questions.1.idx:715.0
+passage.questions.1.answers.4.text:Ne, njegov praded je bil Abram Gannibal, ki so ga kot sužnja pripeljali iz današnjega Kameruna
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:3741.0
+passage.questions.1.answers.3.text:Da
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3740.0
+passage.questions.1.answers.2.text:Ne
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3739.0
+passage.questions.1.answers.1.text:Chevalier Guard
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3738.0
+passage.questions.1.answers.0.text:Mogoče
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:3737.0
+passage.questions.0.question:Je imel Abram Gannibal slavnega pravnuka?
+passage.questions.0.idx:714
+passage.questions.0.answers.5.text:Tajna služba
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:3736.0
+passage.questions.0.answers.4.text:Da
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:3735.0
+passage.questions.0.answers.3.text:Ne
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3734.0
+passage.questions.0.answers.2.text:Puškin
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3733.0
+passage.questions.0.answers.1.text:Mogoče
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3732
+passage.questions.0.answers.0.text:Abram Gannibal
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3731
+idx:60

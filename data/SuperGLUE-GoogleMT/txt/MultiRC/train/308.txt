@@ -1,0 +1,270 @@
+version:1.1
+passage.text:Atom je najmanjši delec, ki ima še vedno lastnosti elementov. Vsi atomi elementa so si podobni. Prav tako se razlikujejo od atomov vseh drugih elementov. Na primer, atomi zlata so vedno enaki. Vseeno je, ali jih najdemo v zlatem grudcu ali zlatem prstanu. Vsi atomi zlata imajo enako zgradbo in lastnosti. Na primer, vsi atomi zlata vsebujejo 79 protonov. Ena izmed edinstvenih lastnosti zlata je, da je odličen prevodnik električne energije. Zlato je boljši prevodnik električne energije kot baker. Zlato je bolj redko in dražje od bakra. Baker se uporablja pri hišnih napeljavah. Zlato je predrago.
+passage.questions.9.question:Sta dva atoma različnih elementov enaka?
+passage.questions.9.idx:3498.0
+passage.questions.9.answers.2.text:Ne, atomi posameznega elementa so si podobni in se razlikujejo od drugih elementov
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:18482.0
+passage.questions.9.answers.1.text:Da
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:18481.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:18480.0
+passage.questions.8.question:Za kaj se uporablja zlato in zakaj?
+passage.questions.8.idx:3497.0
+passage.questions.8.answers.5.text:Zlato je dober dirigent; bolje se uporablja pri hišnih napeljavah
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:18479.0
+passage.questions.8.answers.4.text:To je redko
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:18478.0
+passage.questions.8.answers.3.text:Uporablja se za nakit, ker je lep
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:18477.0
+passage.questions.8.answers.2.text:Ožičenje
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:18476.0
+passage.questions.8.answers.1.text:Je poceni
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:18475.0
+passage.questions.8.answers.0.text:Uporablja se kot prevodnik električne energije, ker je zlato dober prevodnik
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:18474.0
+passage.questions.7.question:Kaj se uporablja pri hišnih napeljavah in zakaj?
+passage.questions.7.idx:3496.0
+passage.questions.7.answers.4.text:Zlato, ker je dober dirigent
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:18473.0
+passage.questions.7.answers.3.text:baker
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:18472.0
+passage.questions.7.answers.2.text:Zlato
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:18471.0
+passage.questions.7.answers.1.text:Baker, ker je dober dirigent
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:18470.0
+passage.questions.7.answers.0.text:Baker se uporablja pri hišnih napeljavah, ker je zlato predrago
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:18469.0
+passage.questions.6.question:Kakšne so razlike med zlatom in bakrom?
+passage.questions.6.idx:3495.0
+passage.questions.6.answers.3.text:Zlato je dražje od bakra
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:18468.0
+passage.questions.6.answers.2.text:Zlato je redkejše in dražje od bakra in je boljši prevodnik električne energije
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:18467.0
+passage.questions.6.answers.1.text:Baker je dražji od zlata
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:18466.0
+passage.questions.6.answers.0.text:Baker je bolj redek in dražji od zlata in je boljši prevodnik električne energije
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:18465.0
+passage.questions.5.question:Zakaj se atomi v enem elementu razlikujejo od atomov v drugem elementu?
+passage.questions.5.idx:3494.0
+passage.questions.5.answers.3.text:V besedilu na to vprašanje ni odgovora
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:18464.0
+passage.questions.5.answers.2.text:Atomi so vsi enaki
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:18463.0
+passage.questions.5.answers.1.text:Atomi so najmanjše enote, ki vsebujejo elementarne lastnosti, zato so si vsi atomi znotraj enega elementa izrecno podobni, vendar se razlikujejo od atomov drugega elementa
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:18462.0
+passage.questions.5.answers.0.text:Atomi so tisto, kar v elementu ustvarja različne lastnosti
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:18461.0
+passage.questions.4.question:Kaj so atomi in njihove značilnosti?
+passage.questions.4.idx:3493.0
+passage.questions.4.answers.3.text:Atom je najmanjši delec, ki ima še vedno lastnosti elementov
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:18460.0
+passage.questions.4.answers.2.text:Atom je zelo največji delec, ki ima še vedno lastnosti elementov
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:18459.0
+passage.questions.4.answers.1.text:Atom je majhen kovinski predmet
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:18458.0
+passage.questions.4.answers.0.text:Atom je najmanjši delec, ki ima še vedno lastnosti elementa, in vsi atomi elementa so si podobni
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:18457.0
+passage.questions.3.question:Kako bi lahko opisali atome zlata?
+passage.questions.3.idx:3492.0
+passage.questions.3.answers.4.text:Vsi atomi zlata imajo enako zgradbo in lastnosti
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:18456.0
+passage.questions.3.answers.3.text:Atomi zlata so vedno enaki
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:18455.0
+passage.questions.3.answers.2.text:Atomi zlata so najbolj modni atomi
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:18454.0
+passage.questions.3.answers.1.text:Atomi zlata so vedno različni
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:18453.0
+passage.questions.3.answers.0.text:Atomi zlata so vedno enaki. Vseeno je, ali jih najdemo v zlatem grudcu ali zlatem prstanu. Vsi atomi zlata imajo enako zgradbo in lastnosti. Na primer, vsi atomi zlata vsebujejo 79 protonov
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:18452.0
+passage.questions.2.question:Kako so vsi atomi zlata?
+passage.questions.2.idx:3491.0
+passage.questions.2.answers.4.text:Vsi atomi zlata imajo enako zgradbo in lastnosti
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:18451.0
+passage.questions.2.answers.3.text:Vsi vsebujejo 80 protonov
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:18450.0
+passage.questions.2.answers.2.text:Vsi sestavljajo zlato
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:18449.0
+passage.questions.2.answers.1.text:Vsi atomi znotraj zlata imajo enako zgradbo in lastnosti, ne glede na njihovo fizično obliko
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:18448.0
+passage.questions.2.answers.0.text:Vsi vsebujejo 79 protonov
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:18447.0
+passage.questions.17.question:Bi bili atomi zlata v grudcu drugačni od atomov zlata v obroču?
+passage.questions.17.idx:3506.0
+passage.questions.17.answers.2.text:Ne, saj so si vsi atomi elementa podobni in imajo enako strukturo in lastnosti
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:18515.0
+passage.questions.17.answers.1.text:Da
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:18514.0
+passage.questions.17.answers.0.text:Ne
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:18513.0
+passage.questions.16.question:Kaj bi lahko rekli o lastnostih zlatih atomov?
+passage.questions.16.idx:3505.0
+passage.questions.16.answers.2.text:Vsi so različni
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:18512.0
+passage.questions.16.answers.1.text:Vsi so enaki
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:18511.0
+passage.questions.16.answers.0.text:Atomi zlata so vedno enaki, ne glede na to, ali jih najdemo v zlatem grudcu ali zlatem obroču
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:18510.0
+passage.questions.15.question:Zakaj pri ožičenju hiše namesto zlata uporabljamo baker?
+passage.questions.15.idx:3504.0
+passage.questions.15.answers.4.text:Je ceneje
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:18509.0
+passage.questions.15.answers.3.text:Zlato ni dobro za ožičenje
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:18508.0
+passage.questions.15.answers.2.text:Dražje je
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:18507.0
+passage.questions.15.answers.1.text:Bog je bolj redek in dražji od bakra. Zlato je predrago
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:18506.0
+passage.questions.15.answers.0.text:Zlato je predrago
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:18505.0
+passage.questions.14.question:Se atomi zlata razlikujejo?
+passage.questions.14.idx:3503.0
+passage.questions.14.answers.2.text:Ne, vsi imajo enako strukturo in lastnosti kot vsi atomi elementa
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:18504.0
+passage.questions.14.answers.1.text:Da
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:18503.0
+passage.questions.14.answers.0.text:Ne
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:18502.0
+passage.questions.13.question:Zakaj bi imel zlati prstan in zlati grudek enake lastnosti?
+passage.questions.13.idx:3502.0
+passage.questions.13.answers.3.text:Vsi atomi zlata imajo enako zgradbo in lastnosti
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:18501.0
+passage.questions.13.answers.2.text:Atomi zlata so vsi enaki
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:18500.0
+passage.questions.13.answers.1.text:Atomi zlata so različni
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:18499.0
+passage.questions.13.answers.0.text:Zlato ne glede na to, kakšno obliko sestavljajo atomi, ki vsebujejo enake elementarne lastnosti, vključno z isto strukturo, enakimi lastnostmi in enakim številom protonov
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:18498.0
+passage.questions.12.question:V čem se zlato razlikuje od bakra?
+passage.questions.12.idx:3501.0
+passage.questions.12.answers.4.text:Zlato je boljši prevodnik električne energije kot baker in bolj redko in drago kot baker
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:18497.0
+passage.questions.12.answers.3.text:Zlato je dražje
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:18496.0
+passage.questions.12.answers.2.text:Baker je lažje pridobiti kot zlato
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:18495.0
+passage.questions.12.answers.1.text:Zlato je cenejše
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:18494.0
+passage.questions.12.answers.0.text:Zlato je dražje in redkejše od bakra
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:18493.0
+passage.questions.11.question:Zakaj se baker uporablja v hišnih napeljavah, čeprav je zlato boljši prevodnik električne energije?
+passage.questions.11.idx:3500.0
+passage.questions.11.answers.4.text:Je ceneje
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:18492.0
+passage.questions.11.answers.3.text:Bakrene napeljave se uporabljajo v hišah, ker čeprav bi zlato bolje prevajalo elektriko, je to daleč do redkih in dragih
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:18491.0
+passage.questions.11.answers.2.text:Baker je lažje pridobiti
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:18490.0
+passage.questions.11.answers.1.text:Z njim je lažje delati
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:18489.0
+passage.questions.11.answers.0.text:Zlato je predrago
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:18488.0
+passage.questions.10.question:Kako bi lahko opisali atome elementa?
+passage.questions.10.idx:3499.0
+passage.questions.10.answers.4.text:Vsi atomi elementa so različni
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:18487.0
+passage.questions.10.answers.3.text:Vsi atomi elementa so si podobni
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:18486.0
+passage.questions.10.answers.2.text:Kaj sestavlja element
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:18485.0
+passage.questions.10.answers.1.text:Najmanjši delček, ki ima še vedno lastnosti
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:18484.0
+passage.questions.10.answers.0.text:So najmanjši delci elementa. Vsi atomi elementa so si podobni in se razlikujejo tudi od atomov vseh drugih elementov
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:18483.0
+passage.questions.1.question:Bi imela dva atoma zlata po 79 protonov?
+passage.questions.1.idx:3490.0
+passage.questions.1.answers.2.text:Da, saj imajo vsi atomi zlata podobno strukturo in so enaki
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18446.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:18445.0
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18444.0
+passage.questions.0.question:Katere so glavne razlike med zlatom in bakrom?
+passage.questions.0.idx:3489
+passage.questions.0.answers.4.text:Baker stane več
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:18443.0
+passage.questions.0.answers.3.text:Baker je boljši za uporabo v električni energiji kot zlato
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:18442.0
+passage.questions.0.answers.2.text:Zlato je stalo več
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:18441.0
+passage.questions.0.answers.1.text:Zlato je boljši prevodnik in bolj redek ter dražji od bakra
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:18440
+passage.questions.0.answers.0.text:Atomi zlata so vedno enaki; zlato je cenejše od bakra
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:18439
+idx:308

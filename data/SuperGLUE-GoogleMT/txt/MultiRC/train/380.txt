@@ -1,0 +1,188 @@
+version:1.1
+passage.text:Obsojeni morilec Seth Baxter se prebudi, priklenjen na mizo pod nihalom. Videokaseta ga obvešča, da ga bo zmečkanje rok med stiskalnicami sprostilo; to stori, toda rezilo se še vedno zaniha in silovito prereže na polovico, medtem ko nekdo opazuje skozi luknjo v steni. Prizor zajema agenta Petra Strahma, ki v samoobrambi ubije Jeffa Denlona in je zaprt v bolniški sobi. S kasetofonom najde skrit prehod, ki ga opozori, naj ostane v bolniški sobi, a ga prezre. V prehodu ga napadne prašičje maskirana figura in se zbudi z glavo, zaprto v škatlo, ki se počasi polni z vodo, ki jo preživi z izvajanjem traheotomije s peresom. Zunaj obrata detektiv Mark Hoffman policiji dostavi Corbetta Denlona in trdi, da so edini preživeli, in je šokiran, ko Strahma pripeljejo tudi živega. Jill Tuck sreča odvetnik Johna Kramerja, ki izpolnjuje njegovo oporoko. Ostala ji je škatla in videokaseta, v kateri Janez poudarja pomen vsebine škatle. Odpre jo s ključem, obešenim na vratu, nato pa odide, ne da bi razkrila njeno vsebino. V spominski slovesnosti za Davida Tappa, Stevena Singa, Allison Kerry, Erica Matthewsa in Daniela Rigga, petimi umorjenimi policisti, je Hoffman napredoval v detektivskega poročnika. Ko je vzel Strahmov telefon, je obveščen o smrti agentke Lindsey Perez in se odpravil v bolnišnico, da bi se srečal s Strahmom, ki je dejal, da je bilo Hoffmanovo zadnje ime Perez.
+passage.questions.9.question:Potem ko agent Strahm ubije Jeffa Denlona, kako končno pobegne?
+passage.questions.9.idx:4357.0
+passage.questions.9.answers.2.text:Preživi tako, da z uporabo peresa opravi traheotomijo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:23123.0
+passage.questions.9.answers.1.text:Poišče skrit prehod
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:23122.0
+passage.questions.9.answers.0.text:S skokom ven
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:23121.0
+passage.questions.8.question:Kaj se zgodi z obsojenim morilcem Sethom Baxterjem?
+passage.questions.8.idx:4356.0
+passage.questions.8.answers.3.text:Z rezilom ga prerežejo na pol
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:23120.0
+passage.questions.8.answers.2.text:Prerezan je na polovico
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:23119.0
+passage.questions.8.answers.1.text:Rezilo se zaniha in ga silovito prereže na polovico
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:23118.0
+passage.questions.8.answers.0.text:Osvobojen je
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:23117.0
+passage.questions.7.question:Kako je ime obsojenega morilca?
+passage.questions.7.idx:4355.0
+passage.questions.7.answers.2.text:Seth Baxter
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:23116.0
+passage.questions.7.answers.1.text:Eric Matthews
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:23115.0
+passage.questions.7.answers.0.text:David Tapp
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:23114.0
+passage.questions.6.question:Kdo je šel v bolnišnico, da bi izvedel Perezove zadnje besede?
+passage.questions.6.idx:4354.0
+passage.questions.6.answers.2.text:Hoffman
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23113.0
+passage.questions.6.answers.1.text:Mark Hoffman
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:23112.0
+passage.questions.6.answers.0.text:Jill Tuck
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:23111.0
+passage.questions.5.question:Kaj dobi Jill od odvetnika Johna Kramerja?
+passage.questions.5.idx:4353.0
+passage.questions.5.answers.1.text:Avto
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:23110.0
+passage.questions.5.answers.0.text:Škatla in videokaseta
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:23109.0
+passage.questions.4.question:Morilec Seth Baxter se zbudi, privezan za mizo, ali pobegne?
+passage.questions.4.idx:4352.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:23108.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:23107.0
+passage.questions.3.question:Kdo odpre škatlo s ključem okoli vratu?
+passage.questions.3.idx:4351.0
+passage.questions.3.answers.1.text:Seth, Jim
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:23106.0
+passage.questions.3.answers.0.text:Jill Tuck
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:23105.0
+passage.questions.2.question:Kakšno napredovanje prejme Hoffman, preden je obveščen o smrti Pereza?
+passage.questions.2.idx:4350.0
+passage.questions.2.answers.2.text:Seargant
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:23104.0
+passage.questions.2.answers.1.text:Hoffman je povišan v detektivskega poročnika
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:23103.0
+passage.questions.2.answers.0.text:Detektiv poročnik
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:23102.0
+passage.questions.15.question:Koga je ubil agent Peter Strahm?
+passage.questions.15.idx:4363.0
+passage.questions.15.answers.4.text:Allison Kerry
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:23147.0
+passage.questions.15.answers.3.text:Steven Sing
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:23146.0
+passage.questions.15.answers.2.text:Jeff Denlon
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:23145.0
+passage.questions.15.answers.1.text:Seth Baxter
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:23144.0
+passage.questions.15.answers.0.text:Corbett Denlon
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:23143.0
+passage.questions.14.question:Čigavo smrt je bil obveščen Hoffman?
+passage.questions.14.idx:4362.0
+passage.questions.14.answers.4.text:Corbett denlon
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:23142.0
+passage.questions.14.answers.3.text:Steven Sing
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:23141.0
+passage.questions.14.answers.2.text:Agent Lindsey Perez
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:23140.0
+passage.questions.14.answers.1.text:Peter strahm
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:23139.0
+passage.questions.14.answers.0.text:Smrt agentke Lindsey Perez
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:23138.0
+passage.questions.13.question:Kaj se je zgodilo s Petrom Strahmom, ki je bil zaprt v bolniški sobi, potem ko je prezrl opozorilo na magnetofonu?
+passage.questions.13.idx:4361.0
+passage.questions.13.answers.3.text:Ubijejo ga
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:23137.0
+passage.questions.13.answers.2.text:Zbudi se
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:23136.0
+passage.questions.13.answers.1.text:Napadel ga je prašič v maskirani figuri in se zbudil z glavo, zaprto v škatli, ki se je počasi polnila z vodo, vendar je preživel s traheotomijo s peresom
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:23135.0
+passage.questions.13.answers.0.text:Napadne ga prašičja maska
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:23134.0
+passage.questions.12.question:Kaj je rekel Strahm, so bile Perezove zadnje besede?
+passage.questions.12.idx:4360.0
+passage.questions.12.answers.3.text:Hoffmanovo ime je bilo zadnje besede Pereza
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:23133.0
+passage.questions.12.answers.2.text:Adijo
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:23132.0
+passage.questions.12.answers.1.text:Hoffmanovo ime
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:23131.0
+passage.questions.12.answers.0.text:Govori z menoj
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:23130.0
+passage.questions.11.question:Kaj je agent Peter Strahm uporabil za izvedbo traheotomije?
+passage.questions.11.idx:4359.0
+passage.questions.11.answers.2.text:Označevalnik
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:23129.0
+passage.questions.11.answers.1.text:Igla
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:23128.0
+passage.questions.11.answers.0.text:Pero
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:23127.0
+passage.questions.10.question:Kdo je Denlona izročil policiji in nato napredoval?
+passage.questions.10.idx:4358.0
+passage.questions.10.answers.2.text:Seth Baxter
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:23126.0
+passage.questions.10.answers.1.text:Detektiv Mark Hoffman
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:23125.0
+passage.questions.10.answers.0.text:Mark Hoffman,
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:23124.0
+passage.questions.1.question:Zakaj je bil detektiv Hoffman šokiran, ko je šel Corbetta Denlona dostaviti policiji?
+passage.questions.1.idx:4349.0
+passage.questions.1.answers.2.text:Ko Strahma pripeljejo tudi živega
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:23101.0
+passage.questions.1.answers.1.text:Najde denar
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:23100.0
+passage.questions.1.answers.0.text:Hoffman je bil šokiran, ko so Strahma pripeljali živega!
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:23099.0
+passage.questions.0.question:Koga v skritem prehodu napade prašičja maska?
+passage.questions.0.idx:4348
+passage.questions.0.answers.1.text:Agent Peter Strahm
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:23098
+passage.questions.0.answers.0.text:Jill Tuck
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23097
+idx:380

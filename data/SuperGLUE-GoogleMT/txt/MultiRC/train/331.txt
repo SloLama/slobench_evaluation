@@ -1,0 +1,225 @@
+version:1.1
+passage.text:Joey je za rojstnodnevno darilo dobil nemškega ovčarja. Nikoli prej ni imel hišnih ljubljenčkov, vendar je bil vedno navdušen nad drugimi psi in mačkami v njegovi soseski. Ker je bil njegov rojstni dan junija, se je veliko časa igral zunaj s svojim novim psičkom, ki mu je dal ime Max. Max in Joey sta v igri preganjanja pogosto tekla po poljih. Prav tako so radi šli skozi majhen gozd za hišo in se igrali skrivalnic. Nikoli se niso približali jezeru, ker se je Joey bal vode. Nekega dne se je Max malo predobro skril in Joey ga ni mogel najti. Joey je popoldne preživel v iskanju svojega nemškega ovčarja, kjer so se pogosto igrali, na primer polje in gozd. Joey je bil sramežljiv fant, ki ga je pogosto bral sam, Max pa je bil njegov najboljši prijatelj. Po večerji je šel še zadnjič iskat Maxa, preden se je moral kopati in spat. Na sosednji ulici je zaslišal nekaj laježa, zato je stekel pogledat, ali je to njegov psiček. Seveda je videl, kako se Max igra s pudlico. Psi so se tako zabavali. Joey je Maxa pripeljal domov, vesel, da je vrnil psičko. Zdelo se je, da je Max vesel, da ima poleg sebe svojega človeka in tudi novega pasjega prijatelja. Vse poletje je Joey peljal Maxa v hišo pudlja, da sta se lahko igrala, ne da bi se mu bilo treba bati, da bo izgubil darilo.
+passage.questions.9.question:Kakšen pes je bil Max?
+passage.questions.9.idx:3805.0
+passage.questions.9.answers.2.text:Nemški ovčar
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:20220.0
+passage.questions.9.answers.1.text:Nemški Sheperd
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:20219.0
+passage.questions.9.answers.0.text:Pudlica
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:20218.0
+passage.questions.8.question:Kje je Joey nazadnje iskal Maxa?
+passage.questions.8.idx:3804.0
+passage.questions.8.answers.1.text:Na naslednji ulici
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:20217.0
+passage.questions.8.answers.0.text:V jezeru
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:20216.0
+passage.questions.7.question:Katere dve igri so igrali najboljši prijatelji in kje so jih igrali?
+passage.questions.7.idx:3803.0
+passage.questions.7.answers.3.text:Skrivalnice pod posteljo
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:20215.0
+passage.questions.7.answers.2.text:Igra preganjanja
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:20214.0
+passage.questions.7.answers.1.text:Skrivalnice zunaj
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:20213.0
+passage.questions.7.answers.0.text:Igrali so se lov na terenu in skrivalnice v Forrestu
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:20212.0
+passage.questions.6.question:Kaj se je zgodilo, ko se Max preveč dobro skrije na Joeyju?
+passage.questions.6.idx:3802.0
+passage.questions.6.answers.2.text:Joey ga išče na polju in v gozdu, vendar ga pred večerjo ne najde
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:20211.0
+passage.questions.6.answers.1.text:Joey je odšel domov
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:20210.0
+passage.questions.6.answers.0.text:Joey je bil žalosten, ker ga ni mogel najti pravočasno
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:20209.0
+passage.questions.5.question:Kako je ime psička Joey?
+passage.questions.5.idx:3801.0
+passage.questions.5.answers.1.text:Maks
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:20208.0
+passage.questions.5.answers.0.text:Rex
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:20207.0
+passage.questions.4.question:Ko se je Max predobro skril, kje ga je Joey iskal?
+passage.questions.4.idx:3800.0
+passage.questions.4.answers.2.text:Na polju in v gozdu?
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:20206.0
+passage.questions.4.answers.1.text:Zunaj
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:20205.0
+passage.questions.4.answers.0.text:Notri
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:20204.0
+passage.questions.3.question:Kdo sta Max in Joey?
+passage.questions.3.idx:3799.0
+passage.questions.3.answers.2.text:Max je fant, Joey je pes
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:20203.0
+passage.questions.3.answers.1.text:Joey je fant, čigar prvi ljubljenček je bil psička, ki mu je dal ime Max
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:20202.0
+passage.questions.3.answers.0.text:Joey je fant, max je pes
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:20201.0
+passage.questions.20.question:V katerem mesecu sta se Joey in nemški ovčar prvič srečala?
+passage.questions.20.idx:3816.0
+passage.questions.20.answers.1.text:Avgust
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:20251.0
+passage.questions.20.answers.0.text:Junij
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:20250.0
+passage.questions.2.question:Koliko iger sta Joey in Max rada igrala skupaj?
+passage.questions.2.idx:3798.0
+passage.questions.2.answers.3.text:Tri
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:20200.0
+passage.questions.2.answers.2.text:4.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:20199.0
+passage.questions.2.answers.1.text:2.
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:20198.0
+passage.questions.2.answers.0.text:Ena
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:20197.0
+passage.questions.19.question:V katerih dnevih je Joey iskal Maxa?
+passage.questions.19.idx:3815.0
+passage.questions.19.answers.2.text:V preddverju in po večerji
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:20249.0
+passage.questions.19.answers.1.text:Zjutraj po zajtrku
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:20248.0
+passage.questions.19.answers.0.text:Popoldne in po večerji
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:20247.0
+passage.questions.18.question:Kaj sta dve stvari Joey in Max rada počela skupaj?
+passage.questions.18.idx:3814.0
+passage.questions.18.answers.3.text:V igri preganjanja tecite po poljih in se igrajte skrivalnic v majhnem gozdu
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:20246.0
+passage.questions.18.answers.2.text:Skrivalnice
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:20245.0
+passage.questions.18.answers.1.text:Igra preganjanja
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:20244.0
+passage.questions.18.answers.0.text:Igrajte šah, jejte sir
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:20243.0
+passage.questions.17.question:Kateri dve igri sta igrala Max in Joey?
+passage.questions.17.idx:3813.0
+passage.questions.17.answers.3.text:Skrivalnice
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:20242.0
+passage.questions.17.answers.2.text:Igra preganjanja
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:20241.0
+passage.questions.17.answers.1.text:Lovi in skrivaj
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:20240.0
+passage.questions.17.answers.0.text:Šah
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:20239.0
+passage.questions.16.question:Kako je Joey poimenoval nemškega ovčarja?
+passage.questions.16.idx:3812.0
+passage.questions.16.answers.1.text:Dwight
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:20238.0
+passage.questions.16.answers.0.text:Maks
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:20237.0
+passage.questions.15.question:Kam je Joey odšel po večerji in zakaj?
+passage.questions.15.idx:3811.0
+passage.questions.15.answers.2.text:Joey je šel iskat Maxa pred spanjem in je šel čez cesto, ker je slišal nekaj laježa
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:20236.0
+passage.questions.15.answers.1.text:Na funt po novega psa
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:20235.0
+passage.questions.15.answers.0.text:Da bi iskal Maxa, je šel ven
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:20234.0
+passage.questions.14.question:Kdo je bil Maxov novi prijatelj?
+passage.questions.14.idx:3810.0
+passage.questions.14.answers.1.text:Terier
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:20233.0
+passage.questions.14.answers.0.text:Pudlica
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:20232.0
+passage.questions.13.question:Katere igre sta Joey in Max pogosto igrala?
+passage.questions.13.idx:3809.0
+passage.questions.13.answers.3.text:Skrivalnice, preganjaj
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:20231.0
+passage.questions.13.answers.2.text:Skrivalnice
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:20230.0
+passage.questions.13.answers.1.text:Igra preganjanja
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:20229.0
+passage.questions.13.answers.0.text:Šah
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:20228.0
+passage.questions.12.question:Kdo je novi pasji prijatelj Maxa?
+passage.questions.12.idx:3808.0
+passage.questions.12.answers.1.text:Terier
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:20227.0
+passage.questions.12.answers.0.text:Pudlica
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:20226.0
+passage.questions.11.question:Sta bila Joey in Max srečna, ko se je Max vrnil domov?
+passage.questions.11.idx:3807.0
+passage.questions.11.answers.1.text:Da
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:20225.0
+passage.questions.11.answers.0.text:Ne
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:20224.0
+passage.questions.10.question:Kdaj je bil Joeyev rojstni dan?
+passage.questions.10.idx:3806.0
+passage.questions.10.answers.2.text:Njegov rojstni dan je bil avgusta
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:20223.0
+passage.questions.10.answers.1.text:V juniju
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:20222.0
+passage.questions.10.answers.0.text:Njegov rojstni dan je bil junija
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:20221.0
+passage.questions.1.question:Kako je Joey spoznal pudlja in kakšen odnos je imel z njim?
+passage.questions.1.idx:3797.0
+passage.questions.1.answers.2.text:Max se je igral s pudlico
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:20196.0
+passage.questions.1.answers.1.text:Max je jedel pudlico
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:20195.0
+passage.questions.1.answers.0.text:Joey je s pudlico spoznal, ko je zasledil, da se Max igra z njo. Joey je bil vesel, da je Max zanje našel novega prijatelja in sta šla in se igrala skupaj
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:20194.0
+passage.questions.0.question:Sta se Joey in Max raje igrala na jezeru ali v gozdu?
+passage.questions.0.idx:3796
+passage.questions.0.answers.1.text:V gozdu
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:20193
+passage.questions.0.answers.0.text:Jezero
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:20192
+idx:331

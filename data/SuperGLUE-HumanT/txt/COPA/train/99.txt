@@ -1,0 +1,6 @@
+﻿choice1:Parkiral je.
+choice2:Prehitro je vozil.
+idx:99
+label:1
+premise:Voznika je ustavila policija.
+question:cause

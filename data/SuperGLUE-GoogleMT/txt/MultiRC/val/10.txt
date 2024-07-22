@@ -1,0 +1,144 @@
+version:1.1
+passage.text:Trije majhni otroci so živeli v veliki veliki hiši z veliko veliko mačko in veliko krajev, kjer se je velika velika mačka lahko skrila. Njihova velika velika mačka se je imenovala Kavboj. In Cowboy ni bil zelo prijazen maček. Kavboj je rad grizel, žvečil in praskal veliko stvari. Ko je bil Kavboj srečen, kar pa ni bilo pogosto, je Kavboj rad zagrizel v odejo ali mehko igračo in jo nosil v ustih. Ko je bil Kavboj lačen, je rad grizel živo rdeče paradižnike in sesal ves sok in semena. In ko se je Kavboj počutil zlobno, se je rad skrival. Kavboj se je skril, zgrnjen v žogo pod odejo ali za vogalom in čakal, da mimo pride kdo od majhnih otrok. Ko so šli mimo, jim je Kavboj skočil pred noge in jih poskušal ugrizniti in opraskati. Ni vedel, da to, kar počne, ni prav lepo. Kavboj je bil le mačka. Odlična velika mačka, ki ni vedela nič bolje.
+passage.questions.5.question:Kje se je kavboj skrival v veliki hiši, ko je bil hudoben?
+passage.questions.5.idx:105.0
+passage.questions.5.answers.7.text:Zaradi njega se je počutil bolje
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:493.0
+passage.questions.5.answers.6.text:Za mehko igračo
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:492.0
+passage.questions.5.answers.5.text:Za vogalom
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:491.0
+passage.questions.5.answers.4.text:Pod odejo
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:490.0
+passage.questions.5.answers.3.text:Pod odejo ali za vogalom
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:489.0
+passage.questions.5.answers.2.text:Otrokom je rad skočil ven in ugriznil ter opraskal noge
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:488.0
+passage.questions.5.answers.1.text:Zložen v žogo pod odejo ali za kotom
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:487.0
+passage.questions.5.answers.0.text:Kavboj se je lahko skril veliko
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:486.0
+passage.questions.4.question:Zakaj je bil kavboj hud maček?
+passage.questions.4.idx:104.0
+passage.questions.4.answers.6.text:Ne ve, kaj je počel
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:485.0
+passage.questions.4.answers.5.text:Kavboj ni vedel, kaj počne, ni bilo prav lepo in ni vedel nič boljšega
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:484.0
+passage.questions.4.answers.4.text:Veliko stvari je rad grizel in žvečil ter praskal
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:483.0
+passage.questions.4.answers.3.text:Otrokom je rad skočil ven in ugriznil ter opraskal noge
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:482.0
+passage.questions.4.answers.2.text:Ni bil ljubeč
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:481.0
+passage.questions.4.answers.1.text:Ker bi se skril, skakal otrokom pod noge in jih skušal ugrizniti in opraskati
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:480.0
+passage.questions.4.answers.0.text:Rad se skriva
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:479.0
+passage.questions.3.question:Zakaj Cowboy ni bil prijazen maček?
+passage.questions.3.idx:103.0
+passage.questions.3.answers.7.text:Bil je nasilnik
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:478.0
+passage.questions.3.answers.6.text:Težko privita
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:477.0
+passage.questions.3.answers.5.text:Praska
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:476.0
+passage.questions.3.answers.4.text:Veliko stvari je rad grizel in žvečil ter praskal
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:475.0
+passage.questions.3.answers.3.text:Rad je grizel, praskal in žvečil
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:474.0
+passage.questions.3.answers.2.text:Rad je skočil ven in ugriznil ter opraskal otrokove noge
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:473.0
+passage.questions.3.answers.1.text:Ugriz
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:472.0
+passage.questions.3.answers.0.text:Skočil bi otrokom pod noge
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:471.0
+passage.questions.2.question:Kako je ime trem majhnim otrokom, velikim mačkam?
+passage.questions.2.idx:102
+passage.questions.2.answers.3.text:Lepa mačka
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:470.0
+passage.questions.2.answers.2.text:Kavboj
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:469.0
+passage.questions.2.answers.1.text:Super velik
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:468
+passage.questions.2.answers.0.text:Kravljica
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:467
+passage.questions.1.question:Kaj je počel Kavboj, ko je skočil ven pod noge?
+passage.questions.1.idx:101
+passage.questions.1.answers.5.text:Čakal bi, da jih ugrizne in opraska
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:466.0
+passage.questions.1.answers.4.text:Skrival se je
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:465.0
+passage.questions.1.answers.3.text:Težko privita
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:464.0
+passage.questions.1.answers.2.text:Poljubi jih
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:463.0
+passage.questions.1.answers.1.text:Poskusi ugrizniti in opraskati
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:462
+passage.questions.1.answers.0.text:Bil bi tesno zvit v žogo pod odejo ali pa bi bil za vogalom in čakal otroke
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:461
+passage.questions.0.question:Katera tri čustva je kavboj pogosto čutil?
+passage.questions.0.idx:100
+passage.questions.0.answers.9.text:Poln
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:460.0
+passage.questions.0.answers.8.text:Lačen
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:459.0
+passage.questions.0.answers.7.text:Ponavadi se je počutil bodisi srečnega, lačnega ali zlobnega
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:458.0
+passage.questions.0.answers.6.text:Njegova tri čustva so bila srečna, lačna in zlobna
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:457.0
+passage.questions.0.answers.5.text:Rad se je skrival, žvečil mehko igračo in grizel rdeče paradižnike
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:456.0
+passage.questions.0.answers.4.text:Srečno
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:455.0
+passage.questions.0.answers.3.text:Lepo
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:454.0
+passage.questions.0.answers.2.text:Pomeni
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:453.0
+passage.questions.0.answers.1.text:Vesel, lačen in hudoben
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:452
+passage.questions.0.answers.0.text:Grizite, žvečite in praskajte
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:451
+idx:10

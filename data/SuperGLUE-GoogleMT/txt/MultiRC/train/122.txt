@@ -1,0 +1,340 @@
+version:1.1
+passage.text:Velika kuharica pri 90 letih še vedno močno napreduje: Julia Child praznuje v San Franciscu. Kakšen je občutek, ko dopolniš 90 let in si dosegel status ikone, žive legende? &quot;Zdi se, kot da se je počutila prej,&quot; pravi Julia Child z grlatim smehom, ki ga poznajo milijoni, ki so kulinarične zobe rezali v njeni televizijski seriji &quot;French Chef&quot;. Oddaja je skupaj z njeno osnovno knjigo &quot;Obvladovanje umetnosti francoskega kuhanja&quot; (1961) spremenila način kuhanja in prehranjevanja v Ameriki. Medtem ko otroka namerava osvetliti razliko v enem dnevu - ali drugem desetletju -, namerava otrok temeljito uživati v svojem rojstnem dnevu. Najprej bodo potekala vsa javna obeležja, vključno z razprodano večerjo v četrtek v toni restavraciji Fifth Floor v San Franciscu, ki bo - tako kot večerje tiste noči na 19 drugih prizoriščih po državi - koristila štipendijskemu skladu Mednarodnega združenja kulinaričnih strokovnjakov (katerega otrok je soustanovil). Od petka do nedelje se akcija preseli v Napo, kjer so organizirani samo člani in javni dogodki v COPIA: Ameriškem centru za vino, hrano in umetnost, katere častna članica je. 15. avgusta, njen dejanski rojstni dan, jo bomo videli v Mainu na letnem srečanju nečakinj, nečakov, njihovih potomcev in prijateljev, ki že vrsto let združujejo praznovanje rojstnega dne več članov skupine na veselo srečanje. Razpored, ki sta ga postavila Child in njena 14-letna pomočnica, nekdanja slaščičarka Stephanie Hersh, ni ravno običajna za starejše, čeprav je bila Child vedno odkrita glede svoje starosti in realna pri ocenjevanju lastnih zmožnosti. Ko se je lani Pasadena preselila nazaj v Kalifornijo iz svojega dolgoletnega doma na območju Bostona, se je preselila tudi iz etažne lastnine, ki sta jo pred leti kupila njen pokojni mož Paul, v progresivni dom upokojencev. Je najaktivnejša od štirih razpoložljivih stopenj, vendar se lahko po potrebi preseli v prostore za bivanje v istem kompleksu.
+passage.questions.9.question:Kdaj je dejanski rojstni dan Julije Child?
+passage.questions.9.idx:1426.0
+passage.questions.9.answers.5.text:15. avgusta
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:7478.0
+passage.questions.9.answers.4.text:15. avgusta 1928
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:7477.0
+passage.questions.9.answers.3.text:15. avgusta
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:7476.0
+passage.questions.9.answers.2.text:Avgust
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:7475.0
+passage.questions.9.answers.1.text:1961
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:7474.0
+passage.questions.9.answers.0.text:6. avgust
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:7473.0
+passage.questions.8.question:Ko bo Julia Child dopolnila 90 let, bo praznovala v San Franciscu. Na praznovanju bodo gostili številne razprodane večerje, ki bodo koristile kateri dragi otroški dobrodelnosti?
+passage.questions.8.idx:1425.0
+passage.questions.8.answers.3.text:COPIA
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:7472.0
+passage.questions.8.answers.2.text:Štipendijski sklad Mednarodnega združenja kulinaričnih strokovnjakov, ki ga je otrok ustanovil,
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:7471.0
+passage.questions.8.answers.1.text:Mednarodno združenje kulinaričnih strokovnjakov
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:7470.0
+passage.questions.8.answers.0.text:Umetnost francoskega kuhanja
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:7469.0
+passage.questions.7.question:Koliko dni dejavnosti je načrtovanih za rojstni dan Julije Child?
+passage.questions.7.idx:1424.0
+passage.questions.7.answers.4.text:4 dni
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:7468.0
+passage.questions.7.answers.3.text:5.
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:7467.0
+passage.questions.7.answers.2.text:15.
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:7466.0
+passage.questions.7.answers.1.text:3 dni
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:7465.0
+passage.questions.7.answers.0.text:4.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:7464.0
+passage.questions.6.question:Zakaj je Julia Child ikona, živa legenda?
+passage.questions.6.idx:1423.0
+passage.questions.6.answers.3.text:Revolucionirala je način kuhanja in prehranjevanja v Ameriki
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:7463.0
+passage.questions.6.answers.2.text:Soustanovila je štipendijski sklad
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:7462.0
+passage.questions.6.answers.1.text:Televizijska serija &quot;Francoski kuhar&quot;
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:7461.0
+passage.questions.6.answers.0.text:TV &quot;španski kuhar&quot;
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:7460.0
+passage.questions.5.question:Julia Child je častna članica upravnega odbora katere organizacije?
+passage.questions.5.idx:1422.0
+passage.questions.5.answers.3.text:Francoski krog za kulinariko
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:7459.0
+passage.questions.5.answers.2.text:COPIA: Ameriški center za vino, hrano in umetnost
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:7458.0
+passage.questions.5.answers.1.text:Ameriški center za vino, hrano in umetnost
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:7457.0
+passage.questions.5.answers.0.text:Mednarodno združenje kulinaričnih strokovnjakov
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:7456.0
+passage.questions.4.question:Kako se imenuje program, v katerem je Julia Child častna članica upravnega odbora in kje je?
+passage.questions.4.idx:1421.0
+passage.questions.4.answers.3.text:Mednarodno združenje kulinaričnih strokovnjakov v Pasadeni
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:7455.0
+passage.questions.4.answers.2.text:COPIA. Ameriški center za vino, hrano in umetnost v Napi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:7454.0
+passage.questions.4.answers.1.text:Ameriški center za vino, hrano in umetnost
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:7453.0
+passage.questions.4.answers.0.text:Mednarodno združenje kulinaričnih strokovnjakov
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:7452.0
+passage.questions.3.question:Kakšna je bila starost otroka, ko se ji je kot pomočnica pridružila nekdanja slaščičarka Stephanie Hersh
+passage.questions.3.idx:1420.0
+passage.questions.3.answers.2.text:76
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:7451.0
+passage.questions.3.answers.1.text:70
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:7450.0
+passage.questions.3.answers.0.text:90
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7449.0
+passage.questions.22.question:Katero štipendijsko zbiranje sredstev je Child sofinanciral?
+passage.questions.22.idx:1439.0
+passage.questions.22.answers.2.text:Tony restavracija v petem nadstropju v San Franciscu
+passage.questions.22.answers.2.label:0,0
+passage.questions.22.answers.2.idx:7528.0
+passage.questions.22.answers.1.text:Sklad za mlade kuharje
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:7527.0
+passage.questions.22.answers.0.text:Mednarodno združenje kulinaričnih strokovnjakov
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:7526.0
+passage.questions.21.question:Julia Child je znana po svojem grlenem smehu, ki so ga tako Evropejci kot Američani slišali v svoji televizijski seriji &quot;French Chef&quot;. Kaj je bil glavni prispevek otroka, ki je revolucioniral kuhanje in prehranjevanje?
+passage.questions.21.idx:1438.0
+passage.questions.21.answers.4.text:COPIA
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:7525.0
+passage.questions.21.answers.3.text:Ameriški center za vino, hrano in umetnost
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:7524.0
+passage.questions.21.answers.2.text:&quot;Obvladovanje francoske kuhinje&quot; (1961)
+passage.questions.21.answers.2.label:1.0
+passage.questions.21.answers.2.idx:7523.0
+passage.questions.21.answers.1.text:Seminalna knjiga, &quot;Obvladovanje umetnosti francoske kuhinje&quot;
+passage.questions.21.answers.1.label:1.0
+passage.questions.21.answers.1.idx:7522.0
+passage.questions.21.answers.0.text:Knjiga &quot;Obvladovanje francoske kuhinje&quot;
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:7521.0
+passage.questions.20.question:Kateri dve državi Child praznuje 90. rojstni dan z oboževalci ali družinskimi člani?
+passage.questions.20.idx:1437.0
+passage.questions.20.answers.5.text:COPIA
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:7520.0
+passage.questions.20.answers.4.text:New York
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:7519.0
+passage.questions.20.answers.3.text:Maine
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:7518.0
+passage.questions.20.answers.2.text:San Francisco, Napa
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:7517.0
+passage.questions.20.answers.1.text:Maine in Kalifornija
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:7516.0
+passage.questions.20.answers.0.text:juzna Carolina
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:7515.0
+passage.questions.2.question:Je otrokov pravi rojstni dan v četrtek?
+passage.questions.2.idx:1419.0
+passage.questions.2.answers.4.text:Četrtek
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:7448.0
+passage.questions.2.answers.3.text:12. avgusta
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:7447.0
+passage.questions.2.answers.2.text:Ne
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:7446.0
+passage.questions.2.answers.1.text:15. avgusta
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:7445.0
+passage.questions.2.answers.0.text:Ponedeljek
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:7444.0
+passage.questions.19.question:Julia Child, kuharica Grande in mož Paul sta večino svojega življenja preživela v Bostonu. Otrok iz Pasadene se je preselil nazaj v Kalifornijo in kje živi?
+passage.questions.19.idx:1436.0
+passage.questions.19.answers.4.text:Progresivni dom upokojencev
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:7514.0
+passage.questions.19.answers.3.text:Samopomočni bivalni kompleks
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:7513.0
+passage.questions.19.answers.2.text:Živi v progresivnem štiristopenjskem domu upokojencev
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:7512.0
+passage.questions.19.answers.1.text:Maine
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:7511.0
+passage.questions.19.answers.0.text:San Francisco
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:7510.0
+passage.questions.18.question:Kaj bo otrok najprej obiskal - toni restavracija v petem nadstropju San Francisca ali COPIA
+passage.questions.18.idx:1435.0
+passage.questions.18.answers.1.text:COPIA
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:7509.0
+passage.questions.18.answers.0.text:Tony restavracija v petem nadstropju v San Franciscu
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:7508.0
+passage.questions.17.question:Kdaj je rojstni dan Julije Child?
+passage.questions.17.idx:1434.0
+passage.questions.17.answers.4.text:15. avgust
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:7507.0
+passage.questions.17.answers.3.text:Nedelja
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:7506.0
+passage.questions.17.answers.2.text:15. avgusta
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:7505.0
+passage.questions.17.answers.1.text:1961
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:7504.0
+passage.questions.17.answers.0.text:6. avgust
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:7503.0
+passage.questions.16.question:Julia Child je ikona in živa legenda. Je članica številnih skupin in organizacij. Poimenujte organizacijo, ki prepozna Otroka.
+passage.questions.16.idx:1433.0
+passage.questions.16.answers.3.text:COPIA: Ameriški center za vino, hrano in umetnost
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:7502.0
+passage.questions.16.answers.2.text:Otrok soustanovitelj
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:7501.0
+passage.questions.16.answers.1.text:Ameriški center za vino, hrano in umetnost
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:7500.0
+passage.questions.16.answers.0.text:Mednarodno združenje kulinaričnih strokovnjakov
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:7499.0
+passage.questions.15.question:Kako je ime slavni kuharici, ki dopolnjuje devetdeset let?
+passage.questions.15.idx:1432.0
+passage.questions.15.answers.2.text:Grande dame
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:7498.0
+passage.questions.15.answers.1.text:Rachel Ray
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:7497.0
+passage.questions.15.answers.0.text:Julia Child
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:7496.0
+passage.questions.14.question:Kako je naslov knjige Julije Child?
+passage.questions.14.idx:1431.0
+passage.questions.14.answers.2.text:COPIA
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:7495.0
+passage.questions.14.answers.1.text:&quot;Obvladovanje francoske kuhinje&quot;
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:7494.0
+passage.questions.14.answers.0.text:Francoski kuhar
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:7493.0
+passage.questions.13.question:V kateri državi je Child častni član upravnega odbora &quot;Ameriškega vina, hrane in umetnosti&quot; in je po rodu iz?
+passage.questions.13.idx:1430.0
+passage.questions.13.answers.2.text:Napa
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:7492.0
+passage.questions.13.answers.1.text:Florida
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:7491.0
+passage.questions.13.answers.0.text:San Francisco
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:7490.0
+passage.questions.12.question:Kdo je napisal &quot;Obvladovanje umetnosti francoske kuhinje&quot;?
+passage.questions.12.idx:1429.0
+passage.questions.12.answers.2.text:Paul Child
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:7489.0
+passage.questions.12.answers.1.text:Julia Child
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:7488.0
+passage.questions.12.answers.0.text:Stephanie Hersh
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:7487.0
+passage.questions.11.question:Kje je živela Julia Child, preden se je preselila nazaj v Kalifornijo?
+passage.questions.11.idx:1428.0
+passage.questions.11.answers.3.text:Napa
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:7486.0
+passage.questions.11.answers.2.text:Območje Bostona
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:7485.0
+passage.questions.11.answers.1.text:Boston
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:7484.0
+passage.questions.11.answers.0.text:San Francisco
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:7483.0
+passage.questions.10.question:Katera oddaja je revolucionirala način kuhanja in prehranjevanja v Ameriki.
+passage.questions.10.idx:1427.0
+passage.questions.10.answers.3.text:&quot;Obvladovanje francoske kuhinje&quot;
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:7482.0
+passage.questions.10.answers.2.text:30-minutni obrok
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:7481.0
+passage.questions.10.answers.1.text:Televizijska serija &quot;Francoski kuhar&quot;
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:7480.0
+passage.questions.10.answers.0.text:Francoski kuhar
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:7479.0
+passage.questions.1.question:Koliko je stara Julia Child?
+passage.questions.1.idx:1418.0
+passage.questions.1.answers.4.text:Star 90 let
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:7443.0
+passage.questions.1.answers.3.text:61
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:7442.0
+passage.questions.1.answers.2.text:Več kot 90
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:7441.0
+passage.questions.1.answers.1.text:90
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:7440.0
+passage.questions.1.answers.0.text:89
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:7439.0
+passage.questions.0.question:Kateri dve priljubljeni dosežki sta Julia Child revolucionirali način prehranjevanja Američanov?
+passage.questions.0.idx:1417
+passage.questions.0.answers.6.text:Uporaba oljčnega olja
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:7438.0
+passage.questions.0.answers.5.text:Julia Child praznuje v San Franciscu
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:7437.0
+passage.questions.0.answers.4.text:Njena knjiga, Obvladovanje umetnosti francoske kuhinje
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:7436.0
+passage.questions.0.answers.3.text:Oddaja, skupaj z njeno osnovno knjigo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:7435.0
+passage.questions.0.answers.2.text:Kuharska oddaja francoskega kuharja in knjiga &quot;Obvladovanje umetnosti francoskega kuhanja&quot;
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7434.0
+passage.questions.0.answers.1.text:Uporaba masla
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7433
+passage.questions.0.answers.0.text:Tv oddaja, francoski kuhar
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:7432
+idx:122

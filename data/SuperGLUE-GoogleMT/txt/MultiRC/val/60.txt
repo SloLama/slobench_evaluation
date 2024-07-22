@@ -1,0 +1,96 @@
+version:1.1
+passage.text:Hotel California Dejstvo: Zvok je vibracija. Zvok potuje kot mehanski val skozi medij, v vesolju pa medija ni. Torej, ko je moj shuttle deloval in zračne ključavnice niso zadrževale zraka, nisem nič slišal. Po prvem vdihu zraka, ki ga je odsesalo, je strela, vendar ni grmelo. Oči panično izbočene, vendar brez krikov. Tiho in mirno, kajne? Tako olajšanje, da nikoli več ne slišim mojega člana posadke Jesseja Natterja o svoji deklici na Zemlji in tistih plačanih počitnicah v dvoje, ki jih je dobila zadnjič, ko je bil na dopustu. Prisegel sem, da bi, če bi še kdaj videl njegovo fotografijo v skopi kopalki, ki daje kameri siren palec z ležalnika na eni od teh belih peščenih plaž, poljubil opico. Metaforično, seveda. Dejstvo: če ima oseba, preden se iz nje izsesa ves zrak, toliko sreče, da se je strgala v vesoljsko obleko, ima na voljo manj kot štiriindvajset ur življenja. To je več, kot bi oseba imela brez vesoljske obleke. Jaz sem našel vesoljsko obleko, vendar je bilo statistično malo verjetno, da bi mi in vsem, ki so se že zgledovali (namenjena besedna igra) uspelo popraviti našo ladjo, preden minejo manj kot štiriindvajset ur; ja, opravljene so bile študije. Torej, štiriindvajset ur. Daj ali vzemi. Približno takrat, ko sem si v glavi sestavljal zadnje besede, se trudil, da ne bi preveč razmišljal o tem, kakšno dušenje je bilo, takrat sem zaslišal zvonec.
+passage.questions.5.question:Bi glavni junak dejansko poljubil opico?
+passage.questions.5.idx:723.0
+passage.questions.5.answers.4.text:Da
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3598.0
+passage.questions.5.answers.3.text:Ne
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3597.0
+passage.questions.5.answers.2.text:Samo če bi ga to rešilo smrti v vesolju
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3596.0
+passage.questions.5.answers.1.text:Samo metaforično
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3595.0
+passage.questions.5.answers.0.text:Le če bi moral kdaj videti še eno fotografijo svojega člana posadke in le metaforično
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3594.0
+passage.questions.4.question:Zakaj pripovedovalec ni mogel slišati krikov?
+passage.questions.4.idx:722.0
+passage.questions.4.answers.3.text:Ker je bil njegov komunikacijski sistem v okvari
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3593.0
+passage.questions.4.answers.2.text:Ker je bil v izolirani kapsuli
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3592.0
+passage.questions.4.answers.1.text:Zrak je izsesan iz šatla, zato zvok ne more potovati
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3591.0
+passage.questions.4.answers.0.text:Ker je bil zrak odsesan od šatla
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3590.0
+passage.questions.3.question:Kaj se je zgodilo s protagonistom po izpustu zraka
+passage.questions.3.idx:721.0
+passage.questions.3.answers.4.text:Oči so se panično izbuljile in niso slišale
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:3589.0
+passage.questions.3.answers.3.text:Jesseju je uspelo rešiti življenje
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3588.0
+passage.questions.3.answers.2.text:Skozi luknjo v trupu je bil odsesan od ladje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3587.0
+passage.questions.3.answers.1.text:Našel je vesoljsko obleko in si do zdaj rešil življenje
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3586.0
+passage.questions.3.answers.0.text:S svojo vesoljsko obleko si je rešil življenje in razmislil o svojih majhnih možnostih za preživetje po 24 urah
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3585.0
+passage.questions.2.question:Zakaj protagonist ni mogel ničesar slišati?
+passage.questions.2.idx:720
+passage.questions.2.answers.3.text:Ker je bil gluhonem
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3584.0
+passage.questions.2.answers.2.text:Ker je bil za trenutek smrt od groma
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3583.0
+passage.questions.2.answers.1.text:Ker je bil izpuščen zrak shuttlea, ki je služil kot medij za zvok
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:3582
+passage.questions.2.answers.0.text:Ker je bil zrak odsesan od šatla
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3581
+passage.questions.1.question:Je bil zrak resnično izsesan iz šatla?
+passage.questions.1.idx:719
+passage.questions.1.answers.3.text:Ne, ker je pripovedovalec na koncu zaslišal zvonec
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3580.0
+passage.questions.1.answers.2.text:Ne, samo razsvetljava in grmenje je bilo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3579.0
+passage.questions.1.answers.1.text:Da, ker je shuttle nepravilno deloval
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:3578
+passage.questions.1.answers.0.text:Ne, bilo je posrkano od naratorove vesoljske obleke
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3577
+passage.questions.0.question:Zakaj pripovedovalec ne bi slišal Jesseja govoriti o svoji deklici?
+passage.questions.0.idx:718
+passage.questions.0.answers.4.text:Zaradi Jessejeve smrti
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3576.0
+passage.questions.0.answers.3.text:Ker je bil njihov komunikacijski sistem v okvari
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3575.0
+passage.questions.0.answers.2.text:Zrak je izsesan iz šatla, zato zvok ne more potovati
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3574.0
+passage.questions.0.answers.1.text:Ker je bil zrak odsesan od šatla
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3573
+passage.questions.0.answers.0.text:Ker zvok potuje kot mehanski val skozi medij in v prostoru ga ni
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3572
+idx:60

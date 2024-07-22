@@ -1,0 +1,273 @@
+version:1.1
+passage.text:Dihanje je postopek premikanja zraka v pljuča in iz njih. Proces je odvisen od mišice, imenovane prepona. To je velika ploščata mišica pod pljuči. Vdih ali vdih se pojavi, ko se mišica trebušne prepone zategne. To poveča velikost prsnega koša. Tudi to zmanjša zračni tlak v pljučih. To dejanje omogoča, da zrak in plini vstopijo v pljuča. Izdih ali izdih se pojavi, ko se mišica trebušne prepone sprosti. To zmanjša velikost prsnega koša. To poveča zračni tlak v pljučih. To dejanje omogoča, da zrak zapusti pljuča. Ko vdihnete, zrak skozi nos vstopi v dihalni sistem in konča v pljučih, kjer poteka izmenjava plinov s krvjo. Kaj se na poti zgodi z zrakom? V nosu sluz in dlake ujamejo prah ali druge delce v zraku. Zrak je tudi ogret in navlažen. Nato zrak prehaja skozi prehod, ki je povezan z dušnikom. Nato zrak najde pot do pljuč. V prsnem košu se dušnik razcepi, tako da zrak vstopi v desno in levo pljuča.
+passage.questions.9.question:Kaj se zgodi z zračnim tlakom v pljučih, ko se mišica trebušne prepone zategne?
+passage.questions.9.idx:2526.0
+passage.questions.9.answers.3.text:Se ne spremeni
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:13341.0
+passage.questions.9.answers.2.text:Grem dol
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:13340.0
+passage.questions.9.answers.1.text:zmanjšuje
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:13339.0
+passage.questions.9.answers.0.text:Poveča
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:13338.0
+passage.questions.8.question:Kaj se zgodi z velikostjo prsnega koša, ko se mišica trebušne prepone zategne?
+passage.questions.8.idx:2525.0
+passage.questions.8.answers.3.text:Zmanjšuje
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:13337.0
+passage.questions.8.answers.2.text:Prsni koš se poveča
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:13336.0
+passage.questions.8.answers.1.text:Dol
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:13335.0
+passage.questions.8.answers.0.text:Poveča
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:13334.0
+passage.questions.7.question:Kaj se zgodi v nosu, ko zrak prehaja skozi pljuča?
+passage.questions.7.idx:2524.0
+passage.questions.7.answers.4.text:Prah ujame sluz in dlake
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:13333.0
+passage.questions.7.answers.3.text:Sluz in dlake ujamejo ves prah ali druge delce v zraku
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:13332.0
+passage.questions.7.answers.2.text:Omogoča prah
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:13331.0
+passage.questions.7.answers.1.text:Izmenjava plinov poteka
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:13330.0
+passage.questions.7.answers.0.text:V nosu sluz in dlake ujamejo prah ali druge delce v zraku. Zrak je tudi ogret in navlažen
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:13329.0
+passage.questions.6.question:Nos, prepona, pljuča in sapnica so del katerega sistema v našem telesu?
+passage.questions.6.idx:2523.0
+passage.questions.6.answers.1.text:Dihalni sistem
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:13328.0
+passage.questions.6.answers.0.text:Prebavni sistem
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:13327.0
+passage.questions.5.question:Kaj se zgodi, ko se prsni koš med dihanjem zmanjša?
+passage.questions.5.idx:2522.0
+passage.questions.5.answers.3.text:Izdih ali izdih
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:13326.0
+passage.questions.5.answers.2.text:Potenje
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:13325.0
+passage.questions.5.answers.1.text:Vdihavanje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:13324.0
+passage.questions.5.answers.0.text:Izdih
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:13323.0
+passage.questions.4.question:Kaj vodi do zmanjšanja prsnega koša med izdihom
+passage.questions.4.idx:2521.0
+passage.questions.4.answers.4.text:Vdihavanje
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:13322.0
+passage.questions.4.answers.3.text:Povečanje zračnega tlaka
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:13321.0
+passage.questions.4.answers.2.text:Zmanjšanje zračnega tlaka
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:13320.0
+passage.questions.4.answers.1.text:Izdih
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:13319.0
+passage.questions.4.answers.0.text:Izdih se pojavi, ko se mišica trebušne prepone sprosti, kar vodi do zmanjšanja velikosti prsnega koša
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:13318.0
+passage.questions.3.question:Proces dihanja je odvisen od tega, katera mišica
+passage.questions.3.idx:2520.0
+passage.questions.3.answers.2.text:Biceps
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:13317.0
+passage.questions.3.answers.1.text:Prepona
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:13316.0
+passage.questions.3.answers.0.text:Skrinja
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:13315.0
+passage.questions.20.question:Kaj se zgodi, ko se prsni koš med dihanjem poveča?
+passage.questions.20.idx:2537.0
+passage.questions.20.answers.4.text:Piha zrak in pline, ki vstopajo v pljuča
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:13383.0
+passage.questions.20.answers.3.text:Vdihavanje
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:13382.0
+passage.questions.20.answers.2.text:Vdihavanje ali vdihavanje
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:13381.0
+passage.questions.20.answers.1.text:Piha zrak in pline, da vstopijo v vse druge dele telesa
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:13380.0
+passage.questions.20.answers.0.text:Izdih
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:13379.0
+passage.questions.2.question:Ali nos ujame prah in navlaži zrak?
+passage.questions.2.idx:2519.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13314.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:13313.0
+passage.questions.19.question:Zakaj pri izdihu zrak zapušča pljuča?
+passage.questions.19.idx:2536.0
+passage.questions.19.answers.4.text:Zaradi znižanja zračnega tlaka
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:13378.0
+passage.questions.19.answers.3.text:Z izdihom se zmanjša velikost prsnega koša, kar poveča zračni tlak v pljučih, kar omogoča, da zrak zapusti pljuča
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:13377.0
+passage.questions.19.answers.2.text:Za vstop v urinarni sistem
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:13376.0
+passage.questions.19.answers.1.text:Zaradi povečanja zračnega tlaka
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:13375.0
+passage.questions.19.answers.0.text:Za vstop v dihalni sistem
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:13374.0
+passage.questions.18.question:Ko se vdihnete, kaj se zgodi z velikostjo prsi?
+passage.questions.18.idx:2535.0
+passage.questions.18.answers.3.text:Zmanjšano
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:13373.0
+passage.questions.18.answers.2.text:Povečanje velikosti
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:13372.0
+passage.questions.18.answers.1.text:Povečuje se
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:13371.0
+passage.questions.18.answers.0.text:Zmanjšuje velikost
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:13370.0
+passage.questions.17.question:Kaj se zgodi z velikostjo prsnega koša, ko se mišica trebušne prepone sprosti?
+passage.questions.17.idx:2534.0
+passage.questions.17.answers.1.text:Zmanjšuje se
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:13369.0
+passage.questions.17.answers.0.text:Poveča
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:13368.0
+passage.questions.16.question:Kako se imenuje mišica, ki se zateguje in sprošča, kar vam omogoča dihanje?
+passage.questions.16.idx:2533.0
+passage.questions.16.answers.2.text:Biceps
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:13367.0
+passage.questions.16.answers.1.text:Prepona
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:13366.0
+passage.questions.16.answers.0.text:Skrinja
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:13365.0
+passage.questions.15.question:Kaj se nahaja pod pljuči?
+passage.questions.15.idx:2532.0
+passage.questions.15.answers.3.text:Biceps
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:13364.0
+passage.questions.15.answers.2.text:Prepona
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:13363.0
+passage.questions.15.answers.1.text:Airpipe
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:13362.0
+passage.questions.15.answers.0.text:Sapnik
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:13361.0
+passage.questions.14.question:Kaj ogreje zrak?
+passage.questions.14.idx:2531.0
+passage.questions.14.answers.3.text:Usta
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:13360.0
+passage.questions.14.answers.2.text:Nos
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:13359.0
+passage.questions.14.answers.1.text:Sluz in dlake
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:13358.0
+passage.questions.14.answers.0.text:Pljuča
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:13357.0
+passage.questions.13.question:Zakaj vdihavanje poveča velikost prsnega koša
+passage.questions.13.idx:2530.0
+passage.questions.13.answers.4.text:Membranska mišica se zategne
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:13356.0
+passage.questions.13.answers.3.text:Vdih se pojavi, ko se preponska mišica zategne, kar poveča velikost prsnega koša
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:13355.0
+passage.questions.13.answers.2.text:Mišice v prsih se zategnejo
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:13354.0
+passage.questions.13.answers.1.text:Zaradi povečanja zračnega tlaka v pljučih
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:13353.0
+passage.questions.13.answers.0.text:Zaradi zmanjšanja zračnega tlaka v pljučih
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:13352.0
+passage.questions.12.question:Ko vdihnete, gre zrak najprej skozi nos, nato skozi dušnik in na koncu v pljuča?
+passage.questions.12.idx:2529.0
+passage.questions.12.answers.1.text:Da
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:13351.0
+passage.questions.12.answers.0.text:Ne
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:13350.0
+passage.questions.11.question:Kako zrak zapusti naša pljuča?
+passage.questions.11.idx:2528.0
+passage.questions.11.answers.4.text:Z ohranjanjem konstantnega zračnega tlaka
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:13349.0
+passage.questions.11.answers.3.text:Z izdihom skozi nos
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:13348.0
+passage.questions.11.answers.2.text:Z uriniranjem
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:13347.0
+passage.questions.11.answers.1.text:Izdih
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:13346.0
+passage.questions.11.answers.0.text:Znižanje krvnega tlaka
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:13345.0
+passage.questions.10.question:Proces dihanja je odvisen od katere mišice?
+passage.questions.10.idx:2527.0
+passage.questions.10.answers.2.text:Biceps
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:13344.0
+passage.questions.10.answers.1.text:Prepona
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:13343.0
+passage.questions.10.answers.0.text:Pljuča
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:13342.0
+passage.questions.1.question:Kaj se zgodi z zračnim tlakom v pljučih, ko vdihnete?
+passage.questions.1.idx:2518.0
+passage.questions.1.answers.1.text:Zmanjšuje se
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:13312.0
+passage.questions.1.answers.0.text:Poveča
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13311.0
+passage.questions.0.question:Kaj se zgodi z velikostjo prsnega koša, ko sprostite trebušno mišico?
+passage.questions.0.idx:2517
+passage.questions.0.answers.2.text:Zmanjšano
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13310.0
+passage.questions.0.answers.1.text:Se ne spremeni
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13309
+passage.questions.0.answers.0.text:Poveča
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13308
+idx:225

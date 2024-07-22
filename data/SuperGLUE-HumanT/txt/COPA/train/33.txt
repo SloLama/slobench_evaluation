@@ -1,0 +1,6 @@
+﻿choice1:Sestra je preverila njegove reflekse.
+choice2:Sestra mu je dala intravenozno kanilo.
+idx:33
+label:1
+premise:Pacient je bil dehidriran.
+question:effect

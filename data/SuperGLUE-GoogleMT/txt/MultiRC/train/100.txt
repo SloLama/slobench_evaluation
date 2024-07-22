@@ -1,0 +1,45 @@
+version:1.1
+passage.text:Tony Lama Co. je dejal, da je družba za omejeno partnerstvo Equus Investment II predlagala spremembo ponudbe za družbo na 13,65 USD v gotovini in zalogah iz gotovinske transakcije. Po novem predlogu naj bi družba Equus, ki jo upravlja Equus Capital Corp., Houston, plačala 12 dolarjev gotovine in eno novo prednostno delnico z likvidacijskim preferencialom 1,65 dolarja na delnico za vsako 2,1 milijona delnic Tonyja Lame. Prej je ponujal 13,65 USD delnice v gotovini ali 29 milijonov USD. Izdelovalec zahodnih čevljev in usnjenih dodatkov iz El Pasa v Teksasu je dejal, da bo prednostna zaloga ustvarila 12-odstotno dividendo, vendar v prvih dveh letih ne bo izplačana. Zaloga bi bila odkupljena v petih letih, odvisno od dolga preživele družbe. Niti Equus niti Tony Lama nista navedla razloga za spremenjeno ponudbo in Tony Lama ni bil dosegljiv za komentar. Vendar pa je Tony Lama dejal, da bo ponudbo nemudoma poslal posebnemu odboru družbe.
+passage.questions.2.question:Kakšna je razlika med začetno in končno ponudbo za Tony Lama Co.?
+passage.questions.2.idx:1183.0
+passage.questions.2.answers.3.text:Likvidacijska prednost 12 USD na delnico
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:5996.0
+passage.questions.2.answers.2.text:Sprva je ponudil 13,65 dolarja delnice v gotovini ali 29 milijonov dolarjev, na koncu pa 12 dolarjev gotovine in eno novo prednostno delnico z likvidacijskim preferencialom 1,65 dolarja na delnico za vsako 2,1 milijona delnic Tonyja Lame
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:5995.0
+passage.questions.2.answers.1.text:Ponudba se je spremenila iz 12 dolarjev gotovine in zalog v popolnoma gotovinsko transakcijo
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:5994.0
+passage.questions.2.answers.0.text:Zaloge so bile ponujene predhodno, kar v novi ponudbi ni
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5993.0
+passage.questions.1.question:Katero podjetje izdeluje zahodne čevlje in usnjene dodatke?
+passage.questions.1.idx:1182.0
+passage.questions.1.answers.3.text:El Paso
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:5992.0
+passage.questions.1.answers.2.text:Komanditno partnerstvo Equus Investment II
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5991.0
+passage.questions.1.answers.1.text:Equus Capital Corp
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:5990.0
+passage.questions.1.answers.0.text:Tony Lama Co
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5989.0
+passage.questions.0.question:Kje ima sedež Tony Lama Co.
+passage.questions.0.idx:1181
+passage.questions.0.answers.3.text:Houston
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:5988.0
+passage.questions.0.answers.2.text:El Paso v Teksasu
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:5987.0
+passage.questions.0.answers.1.text:Dallas v Teksasu
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:5986
+passage.questions.0.answers.0.text:Houston v Teksasu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5985
+idx:100

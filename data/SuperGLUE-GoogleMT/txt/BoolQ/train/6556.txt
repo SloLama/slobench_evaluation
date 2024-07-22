@@ -1,0 +1,4 @@
+idx:6556
+label:True
+passage:Poštna številka - za poštne predale je splošno (vendar ne nespremenljivo) pravilo, da ima vsak poštni predal svojo kodo ZIP + 4. Koda dodatka je pogosto ena od naslednjih: zadnje štiri številke številke polja (npr. Poštni predal 107050, Albany, NY 12201-7050), nič plus zadnje tri števke številke polja (npr. Poštni predal 17727 , Eagle River, AK 99577-0727), ali če je številka škatle sestavljena iz manj kot štirih števk, je na sprednji strani številke škatle pritrjeno dovolj ničel, da dobimo štirimestno številko (npr. Poštni predal 77, Juneau, AK 99750-0077). Vendar enotnega pravila ni, zato je treba kodo ZIP + 4 poiskati posebej za vsako polje.
+question:ali poštni predal potrebuje poštno številko

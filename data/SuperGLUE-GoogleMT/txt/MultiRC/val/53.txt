@@ -1,0 +1,137 @@
+version:1.1
+passage.text:Obnovljive vire je mogoče obnavljati, ko se uporabljajo. Primer je les, ki prihaja z dreves. Nova drevesa je mogoče zasaditi, da nadomestijo posekana. Sončna svetloba je obnovljiv vir. Zdi se, da nam tega ne bo nikoli zmanjkalo! Samo zato, ker je vir obnovljiv, še ne pomeni, da bi ga morali uporabljati neprevidno. Če nismo previdni, lahko onesnažimo vire. Potem morda ne bodo več primerni za uporabo. Primer je voda. Če onesnažujemo vodni vir, morda ne bo uporaben za pitje, kopanje ali katero koli drugo uporabo. Lahko tudi preveč uporabimo vire, ki bi jih bilo mogoče obnoviti. V tem primeru virov morda ne bo mogoče obnoviti. Na primer, ribe so obnovljivi viri. To je zato, ker se lahko razmnožujejo in naredijo več rib. Toda onesnaženje vode in prekomerni ribolov lahko povzroči, da izginejo, če njihova populacija postane prenizka. Slika 2.16 prikazuje še en primer.
+passage.questions.9.question:Kako lahko pretirano uporabljamo vire, ki bi jih bilo mogoče obnoviti?
+passage.questions.9.idx:635.0
+passage.questions.9.answers.4.text:Mogoče ga je obnoviti
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:3231.0
+passage.questions.9.answers.3.text:Posadite nove, da nadomestite posekane
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:3230.0
+passage.questions.9.answers.2.text:Povzroči jim, da izumrejo, če njihovo prebivalstvo postane prenizko
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3229.0
+passage.questions.9.answers.1.text:Ribe so obnovljivi viri, vendar lahko onesnaženje vode in prekomerni ribolov izginejo, če njihova populacija postane prenizka
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3228.0
+passage.questions.9.answers.0.text:Virov morda ne bo mogoče obnoviti
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3227.0
+passage.questions.8.question:Kakšni so primeri obnovljivih virov?
+passage.questions.8.idx:634.0
+passage.questions.8.answers.4.text:Olje
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:3226.0
+passage.questions.8.answers.3.text:Les, ribe, sončna svetloba in voda
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:3225.0
+passage.questions.8.answers.2.text:Voda
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:3224.0
+passage.questions.8.answers.1.text:Ribe
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3223.0
+passage.questions.8.answers.0.text:Drevesa
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:3222.0
+passage.questions.7.question:Kateri so obnovljivi viri?
+passage.questions.7.idx:633.0
+passage.questions.7.answers.5.text:Olje
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3221.0
+passage.questions.7.answers.4.text:Voda
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:3220.0
+passage.questions.7.answers.3.text:Ribe
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3219.0
+passage.questions.7.answers.2.text:Les in sončna svetloba
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3218.0
+passage.questions.7.answers.1.text:Ribe, rastline
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3217.0
+passage.questions.7.answers.0.text:Drevesa
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3216.0
+passage.questions.6.question:Kakšen je primer obnovljivega vira, ki ga je mogoče onesnažiti?
+passage.questions.6.idx:632.0
+passage.questions.6.answers.1.text:Voda
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3215.0
+passage.questions.6.answers.0.text:Sončna svetloba
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3214.0
+passage.questions.5.question:Kako so ribe obnovljiv vir?
+passage.questions.5.idx:631.0
+passage.questions.5.answers.2.text:Ker tega nam ne bo nikoli zmanjkalo
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3213.0
+passage.questions.5.answers.1.text:Lahko se razmnožujejo
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3212.0
+passage.questions.5.answers.0.text:Ker se lahko razmnožujejo in naredijo več rib
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3211.0
+passage.questions.4.question:Kaj je obnovljivi vir, ki nam ga nikoli ne bo zmanjkalo?
+passage.questions.4.idx:630.0
+passage.questions.4.answers.1.text:Ribe
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3210.0
+passage.questions.4.answers.0.text:Sončna svetloba
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3209.0
+passage.questions.3.question:Kakšen je primer onesnaževanja virov?
+passage.questions.3.idx:629.0
+passage.questions.3.answers.2.text:Primer je voda, ker če onesnažujemo vodni vir, morda ni uporaben za pitje, kopanje ali katero koli drugo uporabo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:3208.0
+passage.questions.3.answers.1.text:Voda
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3207.0
+passage.questions.3.answers.0.text:Sončna svetloba
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3206.0
+passage.questions.2.question:Kateri obnovljivi vir je mogoče ponovno zasaditi?
+passage.questions.2.idx:628
+passage.questions.2.answers.3.text:Ribe
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3205.0
+passage.questions.2.answers.2.text:Drevesa
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:3204.0
+passage.questions.2.answers.1.text:Nova drevesa je mogoče zasaditi, da nadomestijo posekana
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:3203
+passage.questions.2.answers.0.text:Les
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3202
+passage.questions.1.question:Na katere obnovljive vire lahko vpliva onesnaženje vode in prekomerna uporaba?
+passage.questions.1.idx:627
+passage.questions.1.answers.4.text:Sončna svetloba
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3201.0
+passage.questions.1.answers.3.text:Ne sme biti uporaben za pitje, kopanje ali katero koli drugo vrsto uporabe
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3200.0
+passage.questions.1.answers.2.text:Zdi se, da nam tega nikoli ne bo zmanjkalo!
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3199.0
+passage.questions.1.answers.1.text:Ribe
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:3198
+passage.questions.1.answers.0.text:Obnovljive vire je mogoče obnavljati, ko se uporabljajo
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:3197
+passage.questions.0.question:Kako je les obnovljiva energija?
+passage.questions.0.idx:626
+passage.questions.0.answers.2.text:Nikoli je ne bo zmanjkalo
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3196.0
+passage.questions.0.answers.1.text:Nova drevesa je mogoče zasaditi, da nadomestijo posekana
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3195
+passage.questions.0.answers.0.text:Prihaja z dreves. Nova drevesa je mogoče zasaditi, da nadomestijo posekana
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3194
+idx:53

@@ -1,0 +1,6 @@
+﻿choice1:Igralec je dobil kazen.
+choice2:Igralec je zadel.
+idx:160
+label:1
+premise:Trener je potrepljal igralca.
+question:cause

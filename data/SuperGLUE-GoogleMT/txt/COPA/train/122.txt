@@ -1,0 +1,6 @@
+choice1:Vlak je potoval skozi predor.
+choice2:Vlak je pobegnil iz tirov.
+idx:122
+label:0
+premise:V notranjosti vlaka se je stemnilo.
+question:cause

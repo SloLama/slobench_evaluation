@@ -1,0 +1,362 @@
+version:1.1
+passage.text:Da bi zaščitila svoje morske interese in trgovske poti, je Portugalska ustanovila strateške garnizone v Goi (Indija), Malaki (Vzhodna Indija) in Hormuzu v Perzijskem zalivu. Portugalski raziskovalci so se nato podali v Macau (zdaj Macao), Kongo in različne druge dele Afrike, vključno s Sudanom. Portugalska politika se je izogibala oboroženim spopadom in razvijala trgovinski imperij, namesto da bi osvajala države. V ta namen mu je v kolonialni zgodovini uspelo razmeroma malo epizod, prepojenih s krvjo. Avanture v tujini pa so se v drugi polovici 16. stoletja izkazale za katastrofalne. Leta 1557 je na prestol stopil 14-letni deček-kralj Sebastião, začetek katastrofalne vladavine, ki naj bi se končala v bitki pri Alcacer-Quiberju (Maroko) v iskanju zaman križarske vojne. Nepravočasna smrt Sebastiaona je skupaj s približno 18.000 slabo pripravljenimi, slabo vodenimi privrženci postavila temelje za nasledniško krizo. Mnoga leta zatem so legende in govorice nenavadno vztrajali, da je kralj še živ, in občasno so se pojavljali prevaranti, ki so zahtevali prestol; tisti, ki so bili dovolj verjetni, da se jim je zdelo grožnja, so bili na kratko usmrčeni. Pravzaprav je bil edini upravičenec do krone starejši princ Henry. Toda po dveh letih menjavanja prestola in bolniške postelje je umrl brez dedičev. Ko je preučila razmere in zavonjala priložnost, je Španija zasedla vakuum moči, Portugalska soseda in dolgoletni nasprotnik pa je postal njen gospodar. Španska vladavina je narekovala nenamerno vpletenost Portugalske v nenehne vojne v Španiji. Leta 1587 je eskadrila britanskih ladij, ki ji je poveljeval Francis Drake, napadla Algarve (zdaj &quot;legitimen cilj&quot; kot špansko ozemlje) in odvzela Sagres, s čimer je svet odvzel relikvije Henryja Navigatorja. Devet let kasneje je bil Faro zažgan. Windsorska pogodba iz leta 1386, s katero sta Velika Britanija in Portugalska obljubili večno prijateljstvo, se je zdela oddaljen spomin. Portugalsko cesarstvo je bilo postopoma razpadalo, Britance in Nizozemce pa so izbrali številna njegova trgovska mesta (z izjemo Brazilije). Nazadnje so po 60 letih španske vladavine portugalski plemiči (ob pomoči Francozov, ki so bili takrat v vojni s Španijo) organizirali palačni udar in obnovili neodvisnost. Najhujša nesreča Portugalske v veliki katastrofi se je zgodila na dan vseh svetih, 1. novembra 1755.
+passage.questions.9.question:Kako dolgo po tem, ko je Sebastião stopil na prestol, so britanske ladje, ki jim je poveljeval Francis Drake, odvzele Sagresa?
+passage.questions.9.idx:1548.0
+passage.questions.9.answers.5.text:10 let
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:8055.0
+passage.questions.9.answers.4.text:29 let
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:8054.0
+passage.questions.9.answers.3.text:30 let
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:8053.0
+passage.questions.9.answers.2.text:40 let
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:8052.0
+passage.questions.9.answers.1.text:10.
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:8051.0
+passage.questions.9.answers.0.text:9.
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:8050.0
+passage.questions.8.question:Kaj je končalo obljubo večnega miru z Anglijo?
+passage.questions.8.idx:1547.0
+passage.questions.8.answers.4.text:Portugalska pogodba
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:8049.0
+passage.questions.8.answers.3.text:Princ Henry
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:8048.0
+passage.questions.8.answers.2.text:Velika katastrofa
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:8047.0
+passage.questions.8.answers.1.text:Windsorska pogodba
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:8046.0
+passage.questions.8.answers.0.text:Nova vpletenost Španije s Portugalsko je povzročila, da se je Portugalska zapletla v špansko vojno z Veliko Britanijo in Britansko Portugalsko
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:8045.0
+passage.questions.7.question:S kakšnim dejanjem Francisa Drakeja je Windsorska pogodba iz leta 1386 postala oddaljen spomin?
+passage.questions.7.idx:1546.0
+passage.questions.7.answers.8.text:Ko je bil Faro zažgan
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:8044.0
+passage.questions.7.answers.7.text:Ko so Britanci zavrnili uničenje Fara
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:8043.0
+passage.questions.7.answers.6.text:Drake je kršil pogodbo
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:8042.0
+passage.questions.7.answers.5.text:Francis Drake je napadel Algarve (zdaj &quot;legitimen cilj&quot; kot špansko ozemlje) in odpustil Sagresa, s čimer je svet odvzel relikvije Henryja Navigatorja
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:8041.0
+passage.questions.7.answers.4.text:Ko je Francis Drake napadel Algarve
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:8040.0
+passage.questions.7.answers.3.text:Francis Drake je vodil britanske ladje pri napadu na Algarve in odpuščanju Sagresa
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:8039.0
+passage.questions.7.answers.2.text:Drake je vodil mirovni sestanek, ki se je končal v bojih
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8038.0
+passage.questions.7.answers.1.text:Ko je SebastiÃ £ o stopil na prestol
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8037.0
+passage.questions.7.answers.0.text:Francis Drake je s svojimi možmi zaklal celo vas
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:8036.0
+passage.questions.6.question:Kaj se je zgodilo s princem Henryjem?
+passage.questions.6.idx:1545.0
+passage.questions.6.answers.5.text:Odločil je celoten mandat
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:8035.0
+passage.questions.6.answers.4.text:Umrl je na prestolu
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:8034.0
+passage.questions.6.answers.3.text:Je umrl
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:8033.0
+passage.questions.6.answers.2.text:Bil je največji vladar
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8032.0
+passage.questions.6.answers.1.text:Bil je edini upravičeni prejemnik prestola, vendar je umrl po dveh letih menjavanja prestola in bolniške postelje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:8031.0
+passage.questions.6.answers.0.text:IMEL je otroka
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8030.0
+passage.questions.5.question:V katerem letu je bil Faro požgan?
+passage.questions.5.idx:1544.0
+passage.questions.5.answers.5.text:1586
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:8029.0
+passage.questions.5.answers.4.text:1596
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:8028.0
+passage.questions.5.answers.3.text:1596 je leto, v katerem je Faro požgan
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:8027.0
+passage.questions.5.answers.2.text:Leto 1587
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:8026.0
+passage.questions.5.answers.1.text:1585
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8025.0
+passage.questions.5.answers.0.text:1587
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:8024.0
+passage.questions.4.question:Koliko let po odpuščanju Sagresa se je zgodila Velika katastrofa?
+passage.questions.4.idx:1543.0
+passage.questions.4.answers.3.text:168 let po odpuščanju Sagresa
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:8023.0
+passage.questions.4.answers.2.text:168
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8022.0
+passage.questions.4.answers.1.text:60 let kasneje
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8021.0
+passage.questions.4.answers.0.text:200
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8020.0
+passage.questions.3.question:Kaj se je zgodilo v času kraljevanja Sebastiana?
+passage.questions.3.idx:1542.0
+passage.questions.3.answers.5.text:Osvojili so narod
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:8019.0
+passage.questions.3.answers.4.text:Konec bitke pri Alcacer-Quiberju
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:8018.0
+passage.questions.3.answers.3.text:Sebastião je stopil na prestol 14. leta in umrl zaradi bitke pri Alcacer-Quiberju (Maroko). Govorilo se je, da je preživel
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:8017.0
+passage.questions.3.answers.2.text:Po dveh letih je umrl
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8016.0
+passage.questions.3.answers.1.text:Njegova vladavina se je končala v bitki pri Maroku
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:8015.0
+passage.questions.3.answers.0.text:Nič
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:8014.0
+passage.questions.2.question:Kateri dogodek je povzročil smrt Sebastiaa in 18.000 privržencev?
+passage.questions.2.idx:1541.0
+passage.questions.2.answers.4.text:Nesrečna vladavina
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:8013.0
+passage.questions.2.answers.3.text:Bitka pri Alcacer-Quiberju
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:8012.0
+passage.questions.2.answers.2.text:Bitka pri Maroku
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:8011.0
+passage.questions.2.answers.1.text:Windsorska pogodba
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8010.0
+passage.questions.2.answers.0.text:Bitka pri alcacer-quiberju
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:8009.0
+passage.questions.18.question:Katere portugalske posesti so pred obnovo portugalskega nadzora prevzeli Britanci in Nizozemci?
+passage.questions.18.idx:1557.0
+passage.questions.18.answers.9.text:Številna njegova trgovalna mesta (z izjemo Brazilije)
+passage.questions.18.answers.9.label:1.0
+passage.questions.18.answers.9.idx:8103.0
+passage.questions.18.answers.8.text:Trgovska mesta, ki ne vključujejo Brazilije
+passage.questions.18.answers.8.label:1.0
+passage.questions.18.answers.8.idx:8102.0
+passage.questions.18.answers.7.text:Številne njegove utrdbe
+passage.questions.18.answers.7.label:0,0
+passage.questions.18.answers.7.idx:8101.0
+passage.questions.18.answers.6.text:Trgovalna mesta
+passage.questions.18.answers.6.label:1.0
+passage.questions.18.answers.6.idx:8100.0
+passage.questions.18.answers.5.text:Številne vasi
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:8099.0
+passage.questions.18.answers.4.text:Številna njegova pristanišča
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:8098.0
+passage.questions.18.answers.3.text:Goa (Indija)
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:8097.0
+passage.questions.18.answers.2.text:Hormuz v Perzijskem zalivu
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:8096.0
+passage.questions.18.answers.1.text:Portugalska trgovalna mesta (razen Brazilije)
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:8095.0
+passage.questions.18.answers.0.text:Malacca (Vzhodna Indija)
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:8094.0
+passage.questions.17.question:Kaj je ustvarilo nasledstveno krizo po tej dobi povečane trgovine?
+passage.questions.17.idx:1556.0
+passage.questions.17.answers.5.text:Ko je bil Faro zažgan
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:8093.0
+passage.questions.17.answers.4.text:Osvojili so Sudan
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:8092.0
+passage.questions.17.answers.3.text:Sebastiao je vodil 18.000 privržencev v zaman križarski pohod v Maroku, ki je privedel do njihove smrti
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:8091.0
+passage.questions.17.answers.2.text:Sebastiao je umrl
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:8090.0
+passage.questions.17.answers.1.text:Sebastijin propad
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:8089.0
+passage.questions.17.answers.0.text:Osvojili so Kongo
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:8088.0
+passage.questions.16.question:Zakaj se je Portugalska lahko izognila incidentom, &quot;premočenim s krvjo&quot; pred letom 1557?
+passage.questions.16.idx:1555.0
+passage.questions.16.answers.4.text:Osvajali bi narode
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:8087.0
+passage.questions.16.answers.3.text:Ker se je želela izogniti oboroženemu spopadu in razviti trgovski imperij, namesto da bi osvojila države
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:8086.0
+passage.questions.16.answers.2.text:Njihov interes je bil vzpostaviti trgovino, ne pa osvajati države
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:8085.0
+passage.questions.16.answers.1.text:Izognili so se oboroženim spopadom in razvili trgovski imperij
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:8084.0
+passage.questions.16.answers.0.text:Windsorska pogodba
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:8083.0
+passage.questions.15.question:Kako enostavno se je Portugalska širila?
+passage.questions.15.idx:1554.0
+passage.questions.15.answers.4.text:Vseskozi je bilo težko
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:8082.0
+passage.questions.15.answers.3.text:Težko
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:8081.0
+passage.questions.15.answers.2.text:Portugalska je namesto da bi se ukvarjala s prelivanjem krvi razvila trgovski imperij, toda v drugi polovici 16. stoletja so bili težki časi
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:8080.0
+passage.questions.15.answers.1.text:Bilo je enostavno
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:8079.0
+passage.questions.15.answers.0.text:Do neke mere enostavno zaradi njihovih strateških garnizon
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:8078.0
+passage.questions.14.question:Kdo je umrl po dveh letih menjavanja prestola in bolniške postelje?
+passage.questions.14.idx:1553.0
+passage.questions.14.answers.2.text:Princ Henry
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:8077.0
+passage.questions.14.answers.1.text:SebastiÃ £ oâ € ™ s
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:8076.0
+passage.questions.14.answers.0.text:Francis Drake
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:8075.0
+passage.questions.13.question:Katera politika je imela pomembno vlogo pri pomoči Portugalski, da je imela v kolonialni zgodovini razmeroma malo epizod, prepojenih s krvjo?
+passage.questions.13.idx:1552.0
+passage.questions.13.answers.4.text:Portugalska se je želela izogniti oboroženim spopadom in razviti trgovski imperij, namesto da bi osvojila države
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:8074.0
+passage.questions.13.answers.3.text:Da bi se izognili oboroženim spopadom in razvili trgovski imperij, namesto da bi osvojili države
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:8073.0
+passage.questions.13.answers.2.text:Izognili so se oboroženim spopadom in razvili trgovski imperij
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:8072.0
+passage.questions.13.answers.1.text:Windsorska pogodba
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:8071.0
+passage.questions.13.answers.0.text:Osvojili so številne narode
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:8070.0
+passage.questions.12.question:Zakaj je Algarve veljal za legitimno tarčo, ko jo je napadel Francis Drake?
+passage.questions.12.idx:1551.0
+passage.questions.12.answers.4.text:Na njem je bil Francis Drake
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:8069.0
+passage.questions.12.answers.3.text:Ker Sagresa ni bilo treba odpustiti
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:8068.0
+passage.questions.12.answers.2.text:Španija je prevzela nadzor nad Portugalsko, kar je pomenilo, da se je Portugalska vključila v španske vojne
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:8067.0
+passage.questions.12.answers.1.text:Bilo je špansko ozemlje
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:8066.0
+passage.questions.12.answers.0.text:Ker je bilo zažgano
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:8065.0
+passage.questions.11.question:Koliko let pred napadom Britancev na Algarve je zasedel prestol Sebastião?
+passage.questions.11.idx:1550.0
+passage.questions.11.answers.3.text:20.
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:8064.0
+passage.questions.11.answers.2.text:30 let prej
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:8063.0
+passage.questions.11.answers.1.text:30.
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:8062.0
+passage.questions.11.answers.0.text:1557-1587
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:8061.0
+passage.questions.10.question:Smrti katerega kralja so sledile legende in nenavadne govorice, ki vztrajajo, da je še živ?
+passage.questions.10.idx:1549.0
+passage.questions.10.answers.4.text:Princ Henry
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:8060.0
+passage.questions.10.answers.3.text:SebastiÃ £ o
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:8059.0
+passage.questions.10.answers.2.text:Sebastião
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:8058.0
+passage.questions.10.answers.1.text:Sebastiao
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:8057.0
+passage.questions.10.answers.0.text:Francis Drake
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:8056.0
+passage.questions.1.question:Zakaj Portugalska za osvojitev številnih pristanišč pravi, da ni &quot;premočena s krvjo&quot;?
+passage.questions.1.idx:1540.0
+passage.questions.1.answers.7.text:Ker je Windsorska pogodba iz leta 1386 to prepovedala
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:8008.0
+passage.questions.1.answers.6.text:Prizadevali so si za razvoj trgovskih poti, ne pa za osvajanje narodov
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:8007.0
+passage.questions.1.answers.5.text:Iz preživelih so naredili sužnje
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:8006.0
+passage.questions.1.answers.4.text:Portugalska politika se je izogibala oboroženim spopadom in razvijala trgovinski imperij, namesto da bi osvajala države. V ta namen mu je v kolonialni zgodovini uspelo razmeroma malo epizod, prepojenih s krvjo
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:8005.0
+passage.questions.1.answers.3.text:Preživelih niso ubili
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:8004.0
+passage.questions.1.answers.2.text:Ker so portugalski plemiči organizirali palačni udar
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8003.0
+passage.questions.1.answers.1.text:Ker so se Portugalci izognili oboroženim spopadom in namesto tega razvili trgovino
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8002.0
+passage.questions.1.answers.0.text:Preživele so prisilili, da so zapustili območje
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:8001.0
+passage.questions.0.question:Kdo je zbolel in umrl brez dedičev?
+passage.questions.0.idx:1539
+passage.questions.0.answers.3.text:Princ Henry
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:8000.0
+passage.questions.0.answers.2.text:Princ Henry je zbolel
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7999.0
+passage.questions.0.answers.1.text:Francis Drake je zbolel
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7998
+passage.questions.0.answers.0.text:Francis Drake
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7997
+idx:135

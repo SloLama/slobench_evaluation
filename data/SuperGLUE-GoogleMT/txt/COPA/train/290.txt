@@ -1,0 +1,6 @@
+choice1:Bila je vegetarijanka.
+choice2:Všeč ji je bila hitra hrana.
+idx:290
+label:0
+premise:Deklica je vljudno zavrnila hamburger.
+question:cause

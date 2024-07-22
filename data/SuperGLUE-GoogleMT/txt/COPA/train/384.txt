@@ -1,0 +1,6 @@
+choice1:Prosil sem knjižničarsko pomoč.
+choice2:Knjiga je bila odjavljena.
+idx:384
+label:0
+premise:Knjižničarka je knjigo locirala v sklade.
+question:cause

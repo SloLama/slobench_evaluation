@@ -1,0 +1,134 @@
+version:1.1
+passage.text:Guverner George E. Pataki je v sredo med slovesnostjo prereza traku tukaj v sredo dejal, da pričakuje, da bo objekt na območju Hudson Valley ustvaril na tisoče novih delovnih mest za izvajalce in dobavitelje, ki bodo tovarno pripravili. Pohvalil je IBM, da je &quot;ključni partner pri naših prizadevanjih za gospodarski razvoj&quot; v državi New York. Samuel J. Palmisano, izvršni direktor IBM-a, je v kratkem govoru poudaril, da je kljub trenutnemu padcu v tehnološkem poslu pomembno dolgoročno vlagati. &quot;Če želite igrati za zmago v tehnologiji, ste inovativni in vodite,&quot; je dejal. Toda proizvodnja tehnoloških izdelkov je drago in ciklično poslovanje. Junija je IBM objavil, da je proti zaslužku zaračunal več kot dve milijardi dolarjev. Največji razlogi za obtožbo so bili stroški izstopa iz posla proizvodnje trdih diskov za shranjevanje, ki jih je prodal Hitachiju, in zaprtje nekaterih starejših polprevodniških operacij. Toda Kelly je dejal, da je povpraševanje po naprednih čipih, kot so tisti, ki jih proizvajajo v IBM-ovem obratu v Burlingtonu, Vt., Močno. &quot;Na tem koncu trga potrebujem več zmogljivosti,&quot; je dejal, &quot;in to je tovarna ključnega pomena za zadovoljevanje tega naraščajočega povpraševanja.&quot; Če je IBM napačno izračunal povpraševanje, bo trpel hudo, saj bodo tako visoki obratovalni stroški kot tudi amortizacija velike kapitalske naložbe tovarne East Fishkill znižali zaslužek. Toda industrijski analitiki so trdili, da bi bilo treba obrat izolirati pred padci na enem ali nekaj segmentih polprevodniškega trga.
+passage.questions.6.question:Katero družbo je pohvalil George Pataki, ker je bil ključni partner pri gospodarskem razvoju v New Yorku?
+passage.questions.6.idx:4203.0
+passage.questions.6.answers.3.text:Apple
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:22332.0
+passage.questions.6.answers.2.text:Toshiba
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:22331.0
+passage.questions.6.answers.1.text:Hitachi
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:22330.0
+passage.questions.6.answers.0.text:IBM
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:22329.0
+passage.questions.5.question:Katero tovarno so pravkar odprli v dolini Hudson s slovesnim prerezom traku?
+passage.questions.5.idx:4202.0
+passage.questions.5.answers.5.text:Tovarna Burlington
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:22328.0
+passage.questions.5.answers.4.text:Burlington
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:22327.0
+passage.questions.5.answers.3.text:Tovarna Fishkill
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:22326.0
+passage.questions.5.answers.2.text:IBM-ova tovarna
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:22325.0
+passage.questions.5.answers.1.text:Tovarna v Vermontu
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:22324.0
+passage.questions.5.answers.0.text:East Fishkill Factory
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:22323.0
+passage.questions.4.question:Kakšne komentarje je izvršni direktor IBM-a podal na sredino prerezo traku?
+passage.questions.4.idx:4201.0
+passage.questions.4.answers.4.text:Pričakoval je, da bo objekt na območju Hudsonove doline ustvaril še tisoče delovnih mest za izvajalce in dobavitelje, ki skrbijo za tovarno
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:22322.0
+passage.questions.4.answers.3.text:&quot;ključnega partnerja v naših prizadevanjih za gospodarski razvoj&quot; v državi New York
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:22321.0
+passage.questions.4.answers.2.text:&quot;Če želite igrati za zmago v tehnologiji, inovacije in vodstvo.&quot;
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:22320.0
+passage.questions.4.answers.1.text:&quot;Na tem koncu trga potrebujem več zmogljivosti,&quot;
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:22319.0
+passage.questions.4.answers.0.text:&quot;ključni partner v naših prizadevanjih za gospodarski razvoj&quot;
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:22318.0
+passage.questions.3.question:Kdo je imel kratek govor o igranju za zmago v tehnologiji?
+passage.questions.3.idx:4200.0
+passage.questions.3.answers.5.text:Kelly
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:22317.0
+passage.questions.3.answers.4.text:Samuel J Palmisano
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:22316.0
+passage.questions.3.answers.3.text:Samuel J. Palmisano
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:22315.0
+passage.questions.3.answers.2.text:George E Pataki
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:22314.0
+passage.questions.3.answers.1.text:Guverner George E. Pataki
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22313.0
+passage.questions.3.answers.0.text:Fishgill
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:22312.0
+passage.questions.2.question:Kaj je bil glavni razlog, ki ga je IBM navedel, ko je dve milijardi dolarjev namenil zaslužku?
+passage.questions.2.idx:4199.0
+passage.questions.2.answers.6.text:Stroški izstopa iz poslovanja s proizvodnjo trdih diskov za shranjevanje in zaprtjem nekaterih njegovih starejših polprevodniških operacij
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:22311.0
+passage.questions.2.answers.5.text:Tovarna je ključnega pomena za zadovoljitev tega naraščajočega povpraševanja
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:22310.0
+passage.questions.2.answers.4.text:Izstop iz posla s proizvodnjo trdega diska za shranjevanje
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:22309.0
+passage.questions.2.answers.3.text:Potrebujete več zmogljivosti
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:22308.0
+passage.questions.2.answers.2.text:Povpraševanje po naprednih žetonih
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22307.0
+passage.questions.2.answers.1.text:Stroški izstopa iz posla proizvodnje trdih diskov za shranjevanje, ki jih je prodal Hitachiju, in zaprtja nekaterih starejših polprevodniških operacij
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:22306.0
+passage.questions.2.answers.0.text:Rastlino je treba izolirati pred padci
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:22305.0
+passage.questions.1.question:V katerih dveh državah lahko najdete IBM-ov proizvodni obrat?
+passage.questions.1.idx:4198.0
+passage.questions.1.answers.5.text:Država New York in Vt
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:22304.0
+passage.questions.1.answers.4.text:Virginia in država New York
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:22303.0
+passage.questions.1.answers.3.text:Država New York in Connecticut
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:22302.0
+passage.questions.1.answers.2.text:Kalifornija in Severna Karolina
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22301.0
+passage.questions.1.answers.1.text:Vt in Virginia
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22300.0
+passage.questions.1.answers.0.text:New York in Vermont
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22299.0
+passage.questions.0.question:Kdo je prosil za več zmogljivosti na tem koncu trga?
+passage.questions.0.idx:4197
+passage.questions.0.answers.4.text:Kelly
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:22298.0
+passage.questions.0.answers.3.text:Samuel J. Palmisano
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:22297.0
+passage.questions.0.answers.2.text:Palmisano
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:22296.0
+passage.questions.0.answers.1.text:Guverner George E. Pataki
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:22295
+passage.questions.0.answers.0.text:Fishgill
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:22294
+idx:365

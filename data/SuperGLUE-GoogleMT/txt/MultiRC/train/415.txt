@@ -1,0 +1,296 @@
+version:1.1
+passage.text:V začetku petega poglavja smo skupaj s Khalidom Sheikh Mohammedom predstavili še dva moška, ki sta postala operativna koordinatorja Al Kaide: Khallad in Nashiri. Kot smo pojasnili, sta bila oba v letih 1998 in 1999 vpletena v napad na ladjo ob obali Jemna s čolnom eksplozivov. Prvotno so ciljali na komercialno plovilo, natančneje na naftni tanker, toda Bin Laden jih je pozval, naj raje poiščejo ameriško vojaško ladjo. Januarja 2000 je njihova ekipa poskusila napasti vojaško ladjo v pristanišču Aden, vendar poskus ni uspel, ko je samomorilski čoln potonil. Več kot devet mesecev kasneje, 12. oktobra 2000, so operativci Al Kaide v majhnem čolnu, obremenjenem z eksplozivi, napadli rušilec ameriške mornarice USS Cole. Eksplozija je raztrgala luknjo v boku Coleja, pri čemer je umrlo 17 članov ladijske posadke in ranilo najmanj 40. Zaplet, ki jo zdaj poznamo, je bila polnopravna operacija Al Kaide, ki jo je neposredno nadzoroval Bin Laden. Izbral je tarčo in kraj napada, izbral samomorilce in priskrbel denar, potreben za nakup eksplozivov in opreme. Nashiri je bil terenski poveljnik in je vodil operacijo v Jemnu. Khallad je pomagal v Jemnu, dokler ni bil aretiran v primeru napačne identitete in osvobojen s pomočjo Bin Ladena, kot smo že omenili. Med lokalnimi koordinatorji Al Kaide sta bila Jamal al Badawi in Fahd al Quso, ki naj bi napad posnel iz bližnjega stanovanja. Izbrana dva samomorilna operaterja sta bila Hassan al Khamri in Ibrahim al Thawar, znan tudi kot Nibras. Nibras in Quso sta dostavljala denar Khalladu v Bangkoku med potovanjem Khallada januarja 2000 v Kuala Lumpur in Bangkok. Septembra 2000 naj bi Bin Laden Nashiriju dejal, da želi zamenjati Khamrija in Nibrasa. Nashiri je bil jezen in se ni strinjal z besedami, da bo šel v Afganistan ter Bin Ladnu razložil, da so novi operativci že usposobljeni in pripravljeni na napad. Pred odhodom je Nashiri Nibrasu in Khamriju dal navodila, naj izvedejo napad na naslednjo ameriško vojaško ladjo, ki je vstopila v pristanišče Aden.
+passage.questions.9.question:Zakaj se je ekipa izognila napadu tankerja in poskusu napada vojaške ladje?
+passage.questions.9.idx:4709.0
+passage.questions.9.answers.5.text:Izbrana dva samomorilna operaterja sta bila Hassan al Khamri in Ibrahim al Thawar, znan tudi kot Nibras
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:24951.0
+passage.questions.9.answers.4.text:Eksplozija je raztrgala luknjo na boku Coleja, pri čemer je umrlo 17 članov ladijske posadke in ranilo vsaj 40
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:24950.0
+passage.questions.9.answers.3.text:Bin Laden jih je pozval, naj raje poiščejo ameriško vojaško ladjo
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:24949.0
+passage.questions.9.answers.2.text:Mislili so, da bo vojna ladja ustvarila večjo eksplozijo
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:24948.0
+passage.questions.9.answers.1.text:Ubil 17 članov ladijske posadke in ranil vsaj 40
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:24947.0
+passage.questions.9.answers.0.text:Bin Laden je ekipo prepričal, da namesto tankerja napade vojaško ladjo
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:24946.0
+passage.questions.8.question:Kateri dogodek je vodil Nashrijev izziv?
+passage.questions.8.idx:4708.0
+passage.questions.8.answers.3.text:Izziv je povzročil napad na naslednjo vojno ladjo, ki je vstopila v pristanišče Aden proti željam Bin Ladena
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:24945.0
+passage.questions.8.answers.2.text:Ko je rekel drugim, da bo šel v Afganistan in Bin Ladnu razložil, da so novi operativci že usposobljeni in pripravljeni za napad
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:24944.0
+passage.questions.8.answers.1.text:Nashiri je Nibrasu in Khamriju dal navodila, naj izvedejo napad na naslednjo ameriško vojno ladjo, ki je vstopila v pristanišče Aden
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:24943.0
+passage.questions.8.answers.0.text:Aretacija Nibrasa v Bangkoku
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:24942.0
+passage.questions.7.question:Koliko žrtev je povzročilo napad na rušilec ameriške mornarice?
+passage.questions.7.idx:4707.0
+passage.questions.7.answers.4.text:17 članov
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:24941.0
+passage.questions.7.answers.3.text:V napadu je bilo ubitih 17 članov in ranjenih najmanj 40 članov
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:24940.0
+passage.questions.7.answers.2.text:V masivni eksploziji je bila umorjena celotna posadka 68 ljudi
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:24939.0
+passage.questions.7.answers.1.text:V napadu je umrlo 17 članov ladijske posadke in ranilo najmanj 40
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:24938.0
+passage.questions.7.answers.0.text:Ranjenje vsaj 40
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:24937.0
+passage.questions.6.question:Kako dolgo je minilo med neuspelo samomorilsko misijo in uspešnim napadom na USS Cole?
+passage.questions.6.idx:4706.0
+passage.questions.6.answers.4.text:Eno leto
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:24936.0
+passage.questions.6.answers.3.text:9 mesecev
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:24935.0
+passage.questions.6.answers.2.text:Približno deset mesecev
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:24934.0
+passage.questions.6.answers.1.text:Tri mesece
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:24933.0
+passage.questions.6.answers.0.text:Več kot devet mesecev
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:24932.0
+passage.questions.5.question:Kako bi lahko bili glede na zgornje informacije vključeni koordinatorji?
+passage.questions.5.idx:4705.0
+passage.questions.5.answers.4.text:Več kot dva
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:24931.0
+passage.questions.5.answers.3.text:Jamal al Badawi in Fahd al Quso
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:24930.0
+passage.questions.5.answers.2.text:Štiri
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:24929.0
+passage.questions.5.answers.1.text:6.
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:24928.0
+passage.questions.5.answers.0.text:5.
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:24927.0
+passage.questions.4.question:Kaj se je zgodilo, ko Khallad in Nashiri. prvi poskus napada?
+passage.questions.4.idx:4704.0
+passage.questions.4.answers.6.text:Vojna ladja, na katero so ciljali, ni imela uspešne misije, ker je samomorilski čoln potonil
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:24926.0
+passage.questions.4.answers.5.text:Napadel rušilec ameriške mornarice
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:24925.0
+passage.questions.4.answers.4.text:Samomorilski čoln je potonil
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:24924.0
+passage.questions.4.answers.3.text:V pristanišču Aden so napadli vojaško ladjo
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:24923.0
+passage.questions.4.answers.2.text:Bili so uspešni
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:24922.0
+passage.questions.4.answers.1.text:Njun poskus ni uspel
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:24921.0
+passage.questions.4.answers.0.text:Iztrgana luknja na strani Colea
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:24920.0
+passage.questions.3.question:Kdo sta bila moška skupaj s Khalidom Sheikh Mohammedom, ki sta se v letih 1998 in 1999 pripravljala na napad na ladjo?
+passage.questions.3.idx:4703.0
+passage.questions.3.answers.7.text:Bin Laden in Nashiri
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:24919.0
+passage.questions.3.answers.6.text:Bin Laden
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:24918.0
+passage.questions.3.answers.5.text:Fahd al Quso
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:24917.0
+passage.questions.3.answers.4.text:Khamri
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:24916.0
+passage.questions.3.answers.3.text:Nashiri
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:24915.0
+passage.questions.3.answers.2.text:Nibre
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:24914.0
+passage.questions.3.answers.1.text:Khallad in Nashiri
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:24913.0
+passage.questions.3.answers.0.text:Khallad
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:24912.0
+passage.questions.2.question:Septembra 2000 je Bin Laden hotel zamenjati dva človeka, ki ga je to jezilo?
+passage.questions.2.idx:4702.0
+passage.questions.2.answers.5.text:Fahd al Quso
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:24911.0
+passage.questions.2.answers.4.text:Khamri
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:24910.0
+passage.questions.2.answers.3.text:Operativni koordinator za Al Kaido
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:24909.0
+passage.questions.2.answers.2.text:Nashiri
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:24908.0
+passage.questions.2.answers.1.text:Nibre
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:24907.0
+passage.questions.2.answers.0.text:Khallad
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24906.0
+passage.questions.12.question:12. oktobra 2000 je napadel rušilec ameriške mornarice, koliko ljudi na rušilcu je bilo ranjenih?
+passage.questions.12.idx:4712.0
+passage.questions.12.answers.8.text:Približno 30
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:24974.0
+passage.questions.12.answers.7.text:Komaj deset
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:24973.0
+passage.questions.12.answers.6.text:ubil 17 in ranil vsaj 40
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:24972.0
+passage.questions.12.answers.5.text:Blizu 40
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:24971.0
+passage.questions.12.answers.4.text:17.
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:24970.0
+passage.questions.12.answers.3.text:Najmanj 40
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:24969.0
+passage.questions.12.answers.2.text:40
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:24968.0
+passage.questions.12.answers.1.text:17 članov ladijske posadke je bilo ubitih, vsaj 40 drugih pa ranjenih
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:24967.0
+passage.questions.12.answers.0.text:ubil 40 in ranil najmanj 17
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:24966.0
+passage.questions.11.question:Kateri položaj sta v kakšnih letih postala Khallad in Nashri?
+passage.questions.11.idx:4711.0
+passage.questions.11.answers.6.text:Khallad in Nashri sta postala operativna koordinatorja za Al Kaido
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:24965.0
+passage.questions.11.answers.5.text:Bili so namestniki šejka Mohameda
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:24964.0
+passage.questions.11.answers.4.text:Pred odhodom je Nashiri Nibrasu in Khamriju dal navodila, naj izvedejo napad na naslednjo ameriško vojaško ladjo, ki je vstopila v pristanišče Aden
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:24963.0
+passage.questions.11.answers.3.text:Khallad in Nashri sta v letih 1998 in 1999 postala operativna koordinatorja za Al Kaido
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:24962.0
+passage.questions.11.answers.2.text:Nashiri je bil jezen in se ni strinjal ter drugim rekel, da bo šel v Afganistan, in Bin Ladnu razložil, da so novi operativci že usposobljeni in pripravljeni za napad
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:24961.0
+passage.questions.11.answers.1.text:V letih 1998 in 1999 sta bila vključena operativna koordinatorja za Al Kaido
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:24960.0
+passage.questions.11.answers.0.text:Priprava na napad na ladjo ob obali Jemna s čolnom eksplozivov. Januarja 2000
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:24959.0
+passage.questions.10.question:Opišite dogodke, ki so se zgodili pred napadom na USS Cole?
+passage.questions.10.idx:4710.0
+passage.questions.10.answers.6.text:Bin Laden je poslal pristanek, da se v pristanišču Amen pričakuje ameriška tovorna ladja, operativci pa so jo morali uničiti, vendar so uničili USS Cole
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:24958.0
+passage.questions.10.answers.5.text:Napadli so operativci Al Kaide v majhnem čolnu, obremenjenem z eksplozivi
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:24957.0
+passage.questions.10.answers.4.text:Januarja 2000 so operativni koordinatorji za Al Kaido: Khallad in Nashiri poskušali napasti vojaško ladjo v pristanišču Aden, vendar poskus ni uspel, ko je samomorilski čoln potonil
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:24956.0
+passage.questions.10.answers.3.text:Moštveni napadi na vojaško ladjo niso uspeli, potem ko se je samomorilski čoln potopil, zaradi česar so se devet mesecev pozneje zbrali in napadli USS Cole
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:24955.0
+passage.questions.10.answers.2.text:Med lokalnimi koordinatorji Al Kaide sta bila Jamal al Badawi in Fahd al Quso, ki naj bi napad posnel iz bližnjega stanovanja
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:24954.0
+passage.questions.10.answers.1.text:Nibras in Quso sta dostavljala denar Khalladu v Bangkoku med potovanjem Khallada januarja 2000 v Kuala Lumpur in Bangkok. Poslano 14: Septembra 2000 naj bi Bin Laden dejal Nashiriju, da želi zamenjati Khamrija in Nibrasa
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:24953.0
+passage.questions.10.answers.0.text:Prvotno so ciljali na komercialno plovilo, natančneje na naftni tanker, toda Bin Laden jih je pozval, naj raje poiščejo ameriško vojaško ladjo. Nato je januarja 2000 njihova ekipa poskušala napasti vojaško ladjo v pristanišču Aden, vendar poskus ni uspel, ko je samomorilski čoln, več kot devet mesecev kasneje, 12. oktobra 2000, operativci Al Kaide v majhnem čolnu, naloženem z eksplozivi so napadli rušilec ameriške mornarice USS Cole
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:24952.0
+passage.questions.1.question:Kdo je zagotovil sredstva za napad na USS Cole?
+passage.questions.1.idx:4701.0
+passage.questions.1.answers.4.text:Bin Laden
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:24905.0
+passage.questions.1.answers.3.text:Fahd al Quso
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:24904.0
+passage.questions.1.answers.2.text:Vodja Al Kaide
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24903.0
+passage.questions.1.answers.1.text:Nashiri
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:24902.0
+passage.questions.1.answers.0.text:Khallad
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:24901.0
+passage.questions.0.question:Kakšne vloge so imeli Bin Laden, Khallad in Nashiri v Al Kaidi?
+passage.questions.0.idx:4700
+passage.questions.0.answers.9.text:Nadzorniki
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:24895.0
+passage.questions.0.answers.8.text:Nashiri je pomagal v Jemnu
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:24894.0
+passage.questions.0.answers.7.text:Nashiri je vodil operacijo v Jemnu
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:24893.0
+passage.questions.0.answers.6.text:Bin Laden je nadzoroval napad
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:24892.0
+passage.questions.0.answers.5.text:Khallad je bil terenski poveljnik
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:24891.0
+passage.questions.0.answers.4.text:Khallad je nadzoroval napad
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:24890.0
+passage.questions.0.answers.3.text:Khallad je pomagal v Jemnu
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:24889.0
+passage.questions.0.answers.2.text:Bin Laden je bil vodja, druga dva pa nista sodelovala
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:24888.0
+passage.questions.0.answers.14.text:Bin Laden je bil nadzornik operacije Al Kaide, Nashiri je bil terenski poveljnik in je vodil operacijo v Jemnu, Khallad pa je pomagal v Jemnu
+passage.questions.0.answers.14.label:1.0
+passage.questions.0.answers.14.idx:24900.0
+passage.questions.0.answers.13.text:Bin Laden je bil vodja, medtem ko sta bila Khalland in Nashiri koordinatorja
+passage.questions.0.answers.13.label:1.0
+passage.questions.0.answers.13.idx:24899.0
+passage.questions.0.answers.12.text:Operativne vloge
+passage.questions.0.answers.12.label:1.0
+passage.questions.0.answers.12.idx:24898.0
+passage.questions.0.answers.11.text:Bin Laden je vodil operacijo v Jemnu
+passage.questions.0.answers.11.label:0,0
+passage.questions.0.answers.11.idx:24897.0
+passage.questions.0.answers.10.text:Nashiri je bil terenski poveljnik
+passage.questions.0.answers.10.label:1.0
+passage.questions.0.answers.10.idx:24896.0
+passage.questions.0.answers.1.text:Načrtovanje terorističnih napadov
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:24887
+passage.questions.0.answers.0.text:Mentorji
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24886
+idx:415

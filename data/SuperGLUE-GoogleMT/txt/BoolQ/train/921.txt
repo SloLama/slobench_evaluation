@@ -1,0 +1,4 @@
+idx:921
+label:True
+passage:Relacijska baza podatkov - tuji ključ je polje v relacijski tabeli, ki se ujema s stolpcem primarnega ključa druge tabele. Tuji ključ lahko uporabite za navzkrižno sklicevanje na tabele. Tujim ključem ni treba imeti enoličnih vrednosti v referenčnem odnosu. Tuji ključi učinkovito uporabljajo vrednosti atributov v referencirani relaciji, da omejijo domeno enega ali več atributov v referenčni relaciji. Tuji ključ bi lahko formalno opisali kot: &quot;Za vse nabore v referenčni relaciji, projicirani nad referenčnimi atributi, mora obstajati nabor v referenčni relaciji, projicirani nad istimi atributi, tako da se vrednosti v vseh referenčnih atributih ujemajo z ustrezne vrednosti v referenčnih atributih. &quot;
+question:je polje v eni tabeli, katere vrednosti so potrebne za ujemanje s primarnim ključem v drugi tabeli

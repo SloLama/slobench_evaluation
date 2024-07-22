@@ -1,0 +1,6 @@
+choice1:Njegova družina ga je pokopala na pokopališču.
+choice2:Njegova osmrtnica je bila objavljena v časopisu.
+idx:11
+label:1
+premise:Skupnost je izvedela za njegovo smrt.
+question:cause

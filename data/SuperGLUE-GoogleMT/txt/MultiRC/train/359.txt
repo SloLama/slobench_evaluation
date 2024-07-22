@@ -1,0 +1,63 @@
+version:1.1
+passage.text:Tocqueville je zatrdil, da so vrednote, ki so zmagale na severu in so bile prisotne na jugu, začele dušiti staroveško etiko in družbene ureditve. Zakonodajne oblasti so ukinile prvobitje in pomenijo širše razporejanje zemljiških posesti. To je bilo v nasprotju s splošnim aristokratskim vzorcem, v katerem je posest podedoval le najstarejši otrok, običajno moški, kar je imelo za posledico ohranjanje nedotaknjenosti velikih posesti iz generacije v generacijo. V nasprotju s tem pa so v Ameriki pristale elite redkeje posredovale bogastvo enemu otroku z delovanjem prvotnih materialov, kar je pomenilo, da so sčasoma velika posestva v nekaj generacijah razpadla, zaradi česar so bili otroci na splošno enakovrednejši. Po interpretaciji Tocquevillea Joshue Kaplana ni vedno prišlo do negativnega razvoja, saj so naklonjenost in skupne izkušnje med otroki pogosto nadomestile bolj formalne odnose med najstarejšim otrokom in brati in sestrami, značilne za prejšnji plemiški vzorec. Na splošno je bilo v novih demokracijah dedno bogastvo izredno težko zagotoviti in več ljudi se je bilo prisiljenih boriti za svoje življenje. V tej hitro demokratizirajoči se družbi, kot jo je razumel Tocqueville, je bilo prebivalstvo, ki se je posvečalo &quot;srednjim&quot; vrednotam in si je s trdim delom želelo pridobiti ogromno bogastva. To je v mislih Tocquevillea razložilo, zakaj se Amerika tako razlikuje od Evrope. Trdil je, da v Evropi nihče ni skrbel za zaslužek. Nižji sloji niso imeli upanja, da bi si pridobili več kot minimalno bogastvo, medtem ko se je zgornjim slojem zdelo, da so nenavadni, vulgarni in neprimerni, če skrbijo za nekaj tako neprimernega kot denar; mnogim je bilo bogastvo tako rekoč zajamčeno in so ga jemali kot samoumevno. Hkrati bi v Ameriki delavci videli ljudi, oblikovane v izvrstni obleki, in zgolj razglašali, da bodo tudi oni s trdim delom kmalu premoženje, potrebno za uživanje v takšnih razkošjih. Kljub temu da je z Aristotelom, Montesquieujem in drugimi trdil, da ravnovesje premoženja določa razmerje moči, je Tocqueville trdil, da, kot je pokazala Amerika, pravična lastnina ne zagotavlja vladavine najboljših mož. Pravzaprav je storilo ravno nasprotno. Razširjeno, sorazmerno pravično lastništvo nepremičnin, ki je Ameriko odlikovalo ter določalo njene običaje in vrednote, je tudi razložilo, zakaj so ameriške množice tako zaničevale elite.
+passage.questions.2.question:Kako so se razlikovali odnosi Evropejcev in Američanov do nabiranja bogastva?
+passage.questions.2.idx:4135.0
+passage.questions.2.answers.5.text:Evropejci so raje imeli denar, Američani pa posesti
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:21976.0
+passage.questions.2.answers.4.text:Evropejci, čeprav je bilo bogastvo nepotrebno, medtem ko so bili Američani pohlepnejši
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:21975.0
+passage.questions.2.answers.3.text:Evropejci so svoje bogastvo prepustili najstarejšim, Američani so ga razdelili
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:21974.0
+passage.questions.2.answers.2.text:Evropejci zanjo niso bili zainteresirani, medtem ko so si Američani to želeli
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:21973.0
+passage.questions.2.answers.1.text:Američani, ki so se posvetili &quot;srednjim vrednotam&quot;, da bi radi bogatili s trdim delom, medtem ko Evropejcem ni bilo mar, da bi zaslužili s statičnimi razredi
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:21972.0
+passage.questions.2.answers.0.text:Američani so svoje bogastvo prepustili najstarejšim, Evropejci so ga razdelili
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21971.0
+passage.questions.1.question:Zakaj so bili otroci ameriških elit bolj enaki neelitnim otrokom kot otroci evropskih elit?
+passage.questions.1.idx:4134.0
+passage.questions.1.answers.5.text:Ker so v Ameriki zakonodajni organi ukinili prvobitnost in pomenijo, da je bila zemljiška posest bolj razširjena
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:21970.0
+passage.questions.1.answers.4.text:Ker so bili vsi revni
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:21969.0
+passage.questions.1.answers.3.text:Ker sta bili naklonjenost in radodarnost pri ameriških otrocih močnejši kot pri evropskih
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21968.0
+passage.questions.1.answers.2.text:Ameriška vlada je odpravila prvobitnost, zaradi česar so elite težje prenašale zemljo in bogastvo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:21967.0
+passage.questions.1.answers.1.text:Ker so bili ameriški otroci na splošno revnejši od evropskih
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21966.0
+passage.questions.1.answers.0.text:Ker je bila manjša verjetnost, da bodo iztovorjene elite posredovale bogastvo enemu otroku s prvobitnimi materiali
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21965.0
+passage.questions.0.question:Kako so se pogledi ameriškega nižjega razreda na bogastvo in imetje razlikovali od stališč evropskega nižjega sloja?
+passage.questions.0.idx:4133
+passage.questions.0.answers.5.text:V Ameriki ni nihče skrbel za zaslužek, v Evropi so vsi trdo delali za svoj denar
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:21964.0
+passage.questions.0.answers.4.text:Ameriški nižji sloj je bil bolj nagnjen k deljenju bogastva in imetja kot evropski nižji sloj
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:21963.0
+passage.questions.0.answers.3.text:Ameriški nižji sloj je ugotovil, da je bogastvo in imetje moralno dobro, evropski nižji sloj pa nemoralno
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:21962.0
+passage.questions.0.answers.2.text:Denar bi lahko zaslužili s trdim delom, v Evropi pa nihče ni skrbel za zaslužek
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:21961.0
+passage.questions.0.answers.1.text:Evropski prebivalci nižjega sloja niso verjeli, da lahko pridobijo bogastvo, medtem ko so Američani verjeli, da lahko, če bodo trdo delali
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:21960
+passage.questions.0.answers.0.text:Ameriški nižji sloji so si prizadevali za izboljšave in luksuzno uživanje s trdim delom, medtem ko evropski nižji sloji niso upali pridobiti več kot minimalnega bogastva
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21959
+idx:359

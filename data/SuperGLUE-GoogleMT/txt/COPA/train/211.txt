@@ -1,0 +1,6 @@
+choice1:Policija jo je zaslišala.
+choice2:Njen alibi se je odjavil.
+idx:211
+label:1
+premise:Policija je žensko izločila s seznama osumljencev.
+question:cause

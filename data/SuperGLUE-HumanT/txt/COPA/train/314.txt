@@ -1,0 +1,6 @@
+choice1:Bila je hudo obtolčena.
+choice2:Bila je hudo okužena.
+idx:314
+label:1
+premise:Zdravniki so amputirali pacientovo nogo.
+question:cause

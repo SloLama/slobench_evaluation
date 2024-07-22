@@ -1,0 +1,4 @@
+idx:2476
+label:True
+passage:Naravno število - Z vsemi temi definicijami je priročno vključiti 0 (kar ustreza praznemu nizu) kot naravno število. Vključitev 0 je zdaj običajna konvencija med teoretiki in logiki. Drugi matematiki vključujejo tudi 0, čeprav so mnogi ohranili starejšo tradicijo in štejejo 1 za prvo naravno število. Računalniki se pri naštevanju elementov, kot so števci zank in elementi nizov ali nizov, pogosto začnejo od nič.
+question:je 0 v nizu naravnih števil

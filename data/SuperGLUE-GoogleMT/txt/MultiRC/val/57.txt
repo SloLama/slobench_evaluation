@@ -1,0 +1,164 @@
+version:1.1
+passage.text:Nekoč je bila veverica z imenom Joey. Joey je rad šel ven in se igral s svojim bratrancem Jimmyjem. Joey in Jimmy sta skupaj igrala neumne igre in se vedno smejala. Nekega dne sta Joey in Jimmy skupaj plavala pri ribniku svoje tete Julie. Joey se je zbudil zgodaj zjutraj, da bi pojedel nekaj hrane, preden so odšli. Ničesar ni mogel najti, razen za pito! Običajno je Joey za zajtrk jedel žitarice, sadje (hruška) ali ovseno kašo. Ko je pojedel, sta z Jimmyjem odšla do ribnika. Na poti tja so zagledali svojega prijatelja Jacka Rabbita. Potapljali so se v vodo in plavali več ur. Sonca ni bilo več, a vetrič je bil hladen. Joey in Jimmy sta stopila iz vode in začela hoditi domov. Njihovo krzno je bilo mokro in vetrič jih je ohladil. Ko so prišli domov, so se posušili in Jimmy si je nadel svojo najljubšo vijolično srajco. Joey si je nadel modro srajco z rdečimi in zelenimi pikami. Dve veverici sta pojedli hrano, ki jo je pripravila Joeyjeva mama Jasmine, in odšli v posteljo.
+passage.questions.9.question:Kateri živilski izdelki so omenjeni?
+passage.questions.9.idx:691.0
+passage.questions.9.answers.2.text:Špageti
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:3455.0
+passage.questions.9.answers.1.text:Pita, žita, ovsena kaša, sadje
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3454.0
+passage.questions.9.answers.0.text:Pita, sadje
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3453.0
+passage.questions.8.question:Kako sta Joey in Jimmy preživljala čas skupaj?
+passage.questions.8.idx:690.0
+passage.questions.8.answers.2.text:Sprehajalno plavanje
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:3452.0
+passage.questions.8.answers.1.text:Povzroča težave
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:3451.0
+passage.questions.8.answers.0.text:Čas sta preživela v smehu, igranju neumnih igric, igranju zunaj pri ribniku tete Julie
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:3450.0
+passage.questions.7.question:Je bil Jimmi veverica ali zajec
+passage.questions.7.idx:689.0
+passage.questions.7.answers.1.text:Veverica
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3449.0
+passage.questions.7.answers.0.text:Zajec
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3448.0
+passage.questions.6.question:Kaj je Joey jedel zgodaj zjutraj?
+passage.questions.6.idx:688.0
+passage.questions.6.answers.1.text:Sadje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:3447.0
+passage.questions.6.answers.0.text:Pita
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:3446.0
+passage.questions.5.question:Kaj sta storila veverica, ko sta prišla do Joeyjeve hiše?
+passage.questions.5.idx:687.0
+passage.questions.5.answers.2.text:Joey in Jimmy sta prišla do Joeyjeve hiše, posušila sta se, oblekla in pojedla hrano, ki jo je pripravila Jasmine
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3445.0
+passage.questions.5.answers.1.text:Plaval
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3444.0
+passage.questions.5.answers.0.text:Obleci srajce
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3443.0
+passage.questions.4.question:Na poti do ribnika, koga sta spoznala Joey in Jimmy?
+passage.questions.4.idx:686.0
+passage.questions.4.answers.2.text:Pri mizi
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3442.0
+passage.questions.4.answers.1.text:Zunaj
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3441.0
+passage.questions.4.answers.0.text:Jack Rabbit
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3440.0
+passage.questions.3.question:Kako se imenujeta dve veverici?
+passage.questions.3.idx:685.0
+passage.questions.3.answers.2.text:Joe in Tate
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3439.0
+passage.questions.3.answers.1.text:Jimmy in Joey
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3438.0
+passage.questions.3.answers.0.text:Joey in Jimmy
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3437.0
+passage.questions.2.question:Katera veverica je rada šla ven in se igrala s svojim bratrancem?
+passage.questions.2.idx:684
+passage.questions.2.answers.1.text:Jimmy
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3436
+passage.questions.2.answers.0.text:Joey
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3435
+passage.questions.15.question:Ali Joeyin bratranec rad plava?
+passage.questions.15.idx:697.0
+passage.questions.15.answers.1.text:Da
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:3472.0
+passage.questions.15.answers.0.text:Ne
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:3471.0
+passage.questions.14.question:Kaj se je zgodilo, preden je Joey odšel plavati v ribnik tete Julie.
+passage.questions.14.idx:696.0
+passage.questions.14.answers.2.text:Joey je zajtrkoval
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:3470.0
+passage.questions.14.answers.1.text:Pojedel je pito in videl svojega prijatelja Jacka Rabbita
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:3469.0
+passage.questions.14.answers.0.text:Oblekel si je srajco
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:3468.0
+passage.questions.13.question:Kakšne srajce so nosili zajci?
+passage.questions.13.idx:695.0
+passage.questions.13.answers.2.text:Vetrovke
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:3467.0
+passage.questions.13.answers.1.text:Vijolična srajca in modra srajca z rdečimi in zelenimi pikami
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3466.0
+passage.questions.13.answers.0.text:Modra srajca z zelenimi pikami in vijolična srajca
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:3465.0
+passage.questions.12.question:Kako se imenuje Jimmyjeva teta?
+passage.questions.12.idx:694.0
+passage.questions.12.answers.2.text:Jan
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:3464.0
+passage.questions.12.answers.1.text:Jasmin
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:3463.0
+passage.questions.12.answers.0.text:Julie
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:3462.0
+passage.questions.11.question:Kako je ime Jimmijeva teta
+passage.questions.11.idx:693.0
+passage.questions.11.answers.2.text:Jasmine, mati Joeyja
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:3461.0
+passage.questions.11.answers.1.text:Jan
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:3460.0
+passage.questions.11.answers.0.text:Julie
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:3459.0
+passage.questions.10.question:Katere dejavnosti sta zajca v zgodbi rada opravljala?
+passage.questions.10.idx:692.0
+passage.questions.10.answers.2.text:Hoditi
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3458.0
+passage.questions.10.answers.1.text:Igranje iger in plavanje
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:3457.0
+passage.questions.10.answers.0.text:Plavanje
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3456.0
+passage.questions.1.question:Kolikokrat so zajci jedli v zgodbi?
+passage.questions.1.idx:683
+passage.questions.1.answers.1.text:Trikrat
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3434
+passage.questions.1.answers.0.text:Dvakrat
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:3433
+passage.questions.0.question:Zakaj je bil Joey presenečen zjutraj, ko se je zbudil za zajtrk?
+passage.questions.0.idx:682
+passage.questions.0.answers.2.text:Jedli so samo pito in ne tradicionalno hrano za zajtrk
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3432.0
+passage.questions.0.answers.1.text:Bil je njegov rojstni dan
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3431
+passage.questions.0.answers.0.text:Ničesar se ni jedlo, razen pite
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3430
+idx:57

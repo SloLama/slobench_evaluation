@@ -1,0 +1,6 @@
+choice1:Mestni proračun se je zmanjšal.
+choice2:Župan je izpolnil svoje obljube.
+idx:370
+label:1
+premise:Župan mesta je bil ponovno izvoljen.
+question:cause

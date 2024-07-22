@@ -1,0 +1,208 @@
+version:1.1
+passage.text:Jenny je bila 13-letna deklica s svetlimi lasmi in modrimi očmi. Izšla je iz zadnjega šolskega dne in bila poleti prosta. Dve njeni prijateljici sta se odpravili na bližnjo plažo kopati in uživati na soncu. Jenny je šla z njimi in ko so prišli tja, je bila plaža zelo polna in povsod je bilo ljudi. Preoblekli so se v kopalke in odšli do vode. Voda je bila zelo mrzla. Odločili so se, da ne bodo plavali in odšli do peska. Nato so se ulegli na nekaj brisač in uživali v soncu. Po nekaj urah so Jenny in njeni prijatelji zaspali. Zbudila sta se in sonce je začelo zahajati. Ko je Jenny sedela, je ugotovila, da se je boleče dotikati njene kože. Ko je pogledala navzdol, je videla, da jo zelo močno opeče sonce. Tudi njeni prijatelji so bili zelo močno opečeni, zato so odšli domov. Jennyna mama ji je dala kremo za sončenje. Pozneje se je počutila veliko bolje in je šla spat.
+passage.questions.9.question:Kako je ime blondinki najstnici, ki je bila izpuščena za poletje?
+passage.questions.9.idx:4005.0
+passage.questions.9.answers.0.text:Jenny
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:21259.0
+passage.questions.8.question:Kdo je šel na plažo?
+passage.questions.8.idx:4004.0
+passage.questions.8.answers.1.text:Mati
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:21258.0
+passage.questions.8.answers.0.text:Jenny in njeni dve prijateljici
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:21257.0
+passage.questions.7.question:Ko se je Jenny zbudila, kaj se ji je zdelo boleče?
+passage.questions.7.idx:4003.0
+passage.questions.7.answers.2.text:Sončne opekline
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:21256.0
+passage.questions.7.answers.1.text:Krema
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:21255.0
+passage.questions.7.answers.0.text:Njena koža
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:21254.0
+passage.questions.6.question:Kaj je Jenny naredila po potovanju na plažo?
+passage.questions.6.idx:4002.0
+passage.questions.6.answers.2.text:Spi
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:21253.0
+passage.questions.6.answers.1.text:Videti
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:21252.0
+passage.questions.6.answers.0.text:Odšla je domov, si na sončne opekline naložila losjon in odšla v posteljo
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:21251.0
+passage.questions.5.question:Zakaj je šla Jenny na plažo?
+passage.questions.5.idx:4001.0
+passage.questions.5.answers.3.text:Spi
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:21250.0
+passage.questions.5.answers.2.text:Plavanje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:21249.0
+passage.questions.5.answers.1.text:Jenny je bila na poletnih počitnicah brez šole in 2 njeni prijatelji sta hodili na plažo
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:21248.0
+passage.questions.5.answers.0.text:Uradniki
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21247.0
+passage.questions.4.question:Česa se Jenny in njeni prijatelji niso odločili, ker je bilo hladno?
+passage.questions.4.idx:4000.0
+passage.questions.4.answers.3.text:Odločili so se ne plavati
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:21246.0
+passage.questions.4.answers.2.text:Preoblekli so se v kopalke
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:21245.0
+passage.questions.4.answers.1.text:Plavaj
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:21244.0
+passage.questions.4.answers.0.text:Šli so na plažo
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:21243.0
+passage.questions.3.question:Kaj so imele Jenny in njeni prijatelji, ko so se zbudili ob sončnem zahodu?
+passage.questions.3.idx:3999.0
+passage.questions.3.answers.3.text:Sončne opekline
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:21242.0
+passage.questions.3.answers.2.text:Bolečina pri dotiku njene kože
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:21241.0
+passage.questions.3.answers.1.text:Spi
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:21240.0
+passage.questions.3.answers.0.text:Sončne opekline
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:21239.0
+passage.questions.2.question:Kje so Jenny in njeni prijatelji zaspali?
+passage.questions.2.idx:3998.0
+passage.questions.2.answers.3.text:V vodi
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:21238.0
+passage.questions.2.answers.2.text:Na pesku
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:21237.0
+passage.questions.2.answers.1.text:Plaža
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:21236.0
+passage.questions.2.answers.0.text:Domov
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21235.0
+passage.questions.16.question:Koga je opeklo sonce?
+passage.questions.16.idx:4012.0
+passage.questions.16.answers.1.text:Jennyjevi prijatelji
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:21282.0
+passage.questions.16.answers.0.text:Jenny
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:21281.0
+passage.questions.15.question:Kaj sta Jenny in njena prijateljica počela na plaži?
+passage.questions.15.idx:4011.0
+passage.questions.15.answers.2.text:Zaspati
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:21280.0
+passage.questions.15.answers.1.text:Vstopili so v vodo, hodili in zaspali na odejah
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:21279.0
+passage.questions.15.answers.0.text:Plavanje in uživanje na soncu
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:21278.0
+passage.questions.14.question:Zakaj so se odločili, da ne bodo plavali?
+passage.questions.14.idx:4010.0
+passage.questions.14.answers.2.text:Poletje
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:21277.0
+passage.questions.14.answers.1.text:Ljudje povsod
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:21276.0
+passage.questions.14.answers.0.text:Voda je bila zelo mrzla
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:21275.0
+passage.questions.13.question:Kaj je Jenny naredila po odkritju sončnih opeklin?
+passage.questions.13.idx:4009.0
+passage.questions.13.answers.3.text:Dajanje opeklin
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:21274.0
+passage.questions.13.answers.2.text:Pred spanjem z mamo sta šla nazaj spat
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:21273.0
+passage.questions.13.answers.1.text:Dajanje smetane
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:21272.0
+passage.questions.13.answers.0.text:Jenny je s prijatelji odšla domov, mama pa ji je nanesla kremo za sončenje in odšla spat
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:21271.0
+passage.questions.12.question:V čem so uživale Jenny in njeni prijatelji, ko so hodili do peska?
+passage.questions.12.idx:4008.0
+passage.questions.12.answers.3.text:Sonce
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:21270.0
+passage.questions.12.answers.2.text:Njeni prijatelji so zaspali
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:21269.0
+passage.questions.12.answers.1.text:Leta
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:21268.0
+passage.questions.12.answers.0.text:Odložili so se na nekaj brisač in uživali v soncu
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:21267.0
+passage.questions.11.question:Kako ji je Jennyjeva mama pomagala pred spanjem?
+passage.questions.11.idx:4007.0
+passage.questions.11.answers.3.text:Roman
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:21266.0
+passage.questions.11.answers.2.text:Dajanje smetane
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:21265.0
+passage.questions.11.answers.1.text:Boljši spanec
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:21264.0
+passage.questions.11.answers.0.text:Nadela si je kremo za sončenje in Jenny se je počutila bolje
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:21263.0
+passage.questions.10.question:Koliko Jennyjevih prijateljev je šlo na plažo zadnji dan šole?
+passage.questions.10.idx:4006.0
+passage.questions.10.answers.2.text:Dva
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:21262.0
+passage.questions.10.answers.1.text:1.
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:21261.0
+passage.questions.10.answers.0.text:2.
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:21260.0
+passage.questions.1.question:Kaj je Jenny pravkar dobila?
+passage.questions.1.idx:3997.0
+passage.questions.1.answers.3.text:Njen zadnji šolski dan
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:21234.0
+passage.questions.1.answers.2.text:Jenny je ravnokar stopila iz šole
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:21233.0
+passage.questions.1.answers.1.text:Poletje
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21232.0
+passage.questions.1.answers.0.text:Plaža
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:21231.0
+passage.questions.0.question:Kako je Jenny opazila bolečino na koži in kako jo je dobila?
+passage.questions.0.idx:3996
+passage.questions.0.answers.4.text:S spanjem
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:21230.0
+passage.questions.0.answers.3.text:Boleče sončne opekline
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:21229.0
+passage.questions.0.answers.2.text:Ko je vstala iz spanja na soncu, potem ko je začelo zahajati
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:21228.0
+passage.questions.0.answers.1.text:Dajanje smetane
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:21227
+passage.questions.0.answers.0.text:Študenti
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:21226
+idx:347

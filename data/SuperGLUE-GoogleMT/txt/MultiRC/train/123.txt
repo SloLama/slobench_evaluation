@@ -1,0 +1,48 @@
+version:1.1
+passage.text:Gospodična Anderson je večerjala in raje domnevala, da nima časa za razmišljanje, dokler se tiste noči ob enajstih ne odpravi domov po prazni cesti okoli Jakka. Potem jo je razveselilo, da je šla iz rikše in hodila. Bila je bogata luna, prostrani griči, ki so se krivili navzdol do planjav, so bili vsi sivi in srebrni, deodarji pa so nad glavo nabirali dramatične sence. O njej je visela velika tišina v mogočni osamljenosti, v kateri je postavljena mala Simla, in to jo je osvobodilo tega, kar se je zgodilo, da jo je lahko pogledala in zajokala. Pravzaprav je res govorila in se ustavila v malem paviljonu na cesti, kjer se dnevne dneve zbirajo negovalke, a zelo nizko, tako da so jo besede obkrožale tudi v tej tišini in komaj deodar se je zavedal. &quot;Zdaj ne bom šla,&quot; je rekla. &quot;Ostala bom in se zavedala, da je mož druge ženske. To bi me moralo ozdraviti, če bi kar koli - videl ga obkroženega s splošnimi kraji zakonskega življenja, takšnega zakonskega življenja. Ostala bom, dokler ne pride in čez štirinajst dni. Poleg tega jo želim videti - hočem videti, kako daleč ji gre. &#39; Za trenutek je molčala in mesečina je igrala na njen nasmeh tihega zmagoslavja. &quot;Tudi njega skrbi,&quot; je rekla; &quot;tudi njega briga, vendar tega ne ve in eno stvar vam obljubim, Madeline Anderson, ne boste mu pomagali, da bi izvedel. In čez pet tednov bom odšel in pustil svojo ljubezen tam, kjer sem jo našel - na vrhu gore sredi Azije! &#39;
+passage.questions.2.question:Zakaj gospodična Anderson noče iti zdaj?
+passage.questions.2.idx:1442.0
+passage.questions.2.answers.4.text:Želela je ostati, ker &quot;tudi njega skrbi
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:7541.0
+passage.questions.2.answers.3.text:Tako se bo lahko zavedala, da je mož druge ženske
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:7540.0
+passage.questions.2.answers.2.text:Želela je ostati in spoznati, da je mož druge ženske
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:7539.0
+passage.questions.2.answers.1.text:Obožuje luno
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7538.0
+passage.questions.2.answers.0.text:Želi videti ženo svojega ljubimca
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:7537.0
+passage.questions.1.question:Kakšna luna je bila vidna ob enajstih?
+passage.questions.1.idx:1441.0
+passage.questions.1.answers.3.text:Videla se je mesečina
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:7536.0
+passage.questions.1.answers.2.text:Bila je bogata luna
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:7535.0
+passage.questions.1.answers.1.text:Videla se je bogata luna
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:7534.0
+passage.questions.1.answers.0.text:Cresten moon
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:7533.0
+passage.questions.0.question:Kako dolgo namerava gospodična Anderson ostati v paviljonu?
+passage.questions.0.idx:1440
+passage.questions.0.answers.3.text:Leto
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:7532.0
+passage.questions.0.answers.2.text:Načrtovala je, da ostane, dokler ne pride, in čez štirinajst dni
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7531.0
+passage.questions.0.answers.1.text:Nameravala je ostati 5 tednov
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7530
+passage.questions.0.answers.0.text:Dokler ne pride in čez štirinajst dni
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:7529
+idx:123

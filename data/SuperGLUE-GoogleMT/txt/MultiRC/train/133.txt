@@ -1,0 +1,33 @@
+version:1.1
+passage.text:Nekega večera Felix služi kot dirigent štirim pojočim mačkam. Medtem v hiši, oddaljeni le nekaj metrov, zajeten moški drema na stolu, a ga njihovo dejanje prebudi. Da bi jih utišal, moški zgrabi in izvleče žogo za kegljanje ter Felixa in druge mačke strmoglavi z nog. Felix pa še vedno vztraja, da mora še naprej nastopati, saj igra flavto in njegovi prijatelji plešejo. Ko se moški znova prebudi, vzame razpršilnik za eter in vsebino prši na mačke. Medtem ko njegovi prijatelji zaidejo v dremež, se Felix odloči, da bo spal doma. Felix vstopi v svoje stanovanje in uleže na kavč. Toda preden lahko počiva dovolj dolgo, ga pokliče gospodar škratov. Felix vstopi in sliši za pritožbo škrata zaradi težave z nespečnostjo. Mačka pomaga svojemu gospodarju kozarec toplega mleka, vendar brez učinka. Škrat še vedno ne more spati in zato hrepeni po zabavi. Felix nato igra klarinet in vojaki igrač začnejo plesati ob njegovi glasbi. Ko se je nekaj trenutkov premikal, je eden od malih vojakov izstrelil majhen top in s svojim izstrelkom prebil sliko na steni. Škrat je bil nad predstavitvijo presenečen in prosi Felixa, naj preda top. Ko ga Felix da in se nenadoma obrne, mu sovražni palček usmeri majhno orožje in strelja. Felix je zadel v hrbet in prestrašeno pobegne iz stanovanja. Na ulicah Felix išče primerna počivališča. Nato se povzpne na telefonski drog in se uleže na komplet hlač, ki visi na eni od vrvic.
+passage.questions.2.question:Na koliko inštrumentov je igral Felix?
+passage.questions.2.idx:1519.0
+passage.questions.2.answers.2.text:Dva
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:7918.0
+passage.questions.2.answers.1.text:2.
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:7917.0
+passage.questions.2.answers.0.text:Ena
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:7916.0
+passage.questions.1.question:Ali Felix živi v mestu ali državi?
+passage.questions.1.idx:1518.0
+passage.questions.1.answers.1.text:Država
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:7915.0
+passage.questions.1.answers.0.text:Mesto
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:7914.0
+passage.questions.0.question:Ali Felix igra &#39;flavto&#39; ali &#39;klarinet&#39;?
+passage.questions.0.idx:1517
+passage.questions.0.answers.2.text:Oboje
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7913.0
+passage.questions.0.answers.1.text:Flavta
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7912
+passage.questions.0.answers.0.text:Nobenega
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7911
+idx:133

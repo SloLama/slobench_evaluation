@@ -1,0 +1,4 @@
+idx:3000
+label:False
+passage:Inverzna funkcija - Vse funkcije nimajo inverzne funkcije. Da ima funkcija f: X → Y inverzno, mora imeti lastnost, da mora biti za vsak y v Y en, v X pa samo en x, tako da je f (x) = y. Ta lastnost zagotavlja, da bo obstajala funkcija g: Y → X, ki ima potrebno razmerje s f.
+question:če funkcija ni ena proti ena, ima obratno vrednost

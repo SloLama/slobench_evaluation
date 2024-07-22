@@ -1,0 +1,128 @@
+version:1.1
+passage.text:Ali vse rastline živijo na kopnem? Nekatere rastline živijo v vodi. Za to so razvili posebne lastnosti. Rastline, ki živijo v vodi, se imenujejo vodne rastline. Življenje v vodi ima določene prednosti. Vode je zagotovo dovolj! Rastlina ne potrebuje posebnih lastnosti za absorpcijo, transport ali varčevanje z vodo. Ne potrebujejo velikega koreninskega sistema. Za zadrževanje rastline ne potrebujejo močnega stebla. Rastlina vodo uporablja za podporo. Ne mislite pa, da je vodnim rastlinam enostavno. Soočajo se tudi z izzivi. Življenje v vodi ni tako enostavno. Za preživetje potrebujejo nekatere posebne lastnosti. Rastlina se težko razmnoži. Opraševanje z vetrom ali živalmi se ne more zgoditi pod vodo. Sončna svetloba ne more doseči zelo daleč pod vodno gladino. Nekatere vodne rastline imajo plavajoče rože in liste.
+passage.questions.9.question:Kako se zadržuje vodna rastlina?
+passage.questions.9.idx:3653.0
+passage.questions.9.answers.4.text:Korenine
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:19404.0
+passage.questions.9.answers.3.text:Voda
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:19403.0
+passage.questions.9.answers.2.text:Rastlina vodo uporablja za podporo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:19402.0
+passage.questions.9.answers.1.text:Za podporo uporabljajo vodo
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:19401.0
+passage.questions.9.answers.0.text:V vodi imajo sadje
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:19400.0
+passage.questions.8.question:Ali je za rastline, ki živijo v vodi, potreben velik koreninski sistem?
+passage.questions.8.idx:3652.0
+passage.questions.8.answers.1.text:Da
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:19399.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:19398.0
+passage.questions.7.question:Rastline, ki živijo v vodi, imajo posebne prednosti in ne potrebujejo stvari, ki jih rastline na kopnem potrebujejo?
+passage.questions.7.idx:3651.0
+passage.questions.7.answers.4.text:Rože in listi
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:19397.0
+passage.questions.7.answers.3.text:Sončna svetloba
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:19396.0
+passage.questions.7.answers.2.text:Dolge korenine in več vode
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:19395.0
+passage.questions.7.answers.1.text:Korenine ali velik sistem stebel
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:19394.0
+passage.questions.7.answers.0.text:Posebne lastnosti za vpijanje, prevoz ali varčevanje z vodo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:19393.0
+passage.questions.6.question:Ali imajo rastline, ki živijo v vodi, težave
+passage.questions.6.idx:3650.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:19392.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:19391.0
+passage.questions.5.question:Rastline v vodi nimajo močne opore stebel, da bi jih držale, kaj jih drži pokonci?
+passage.questions.5.idx:3649.0
+passage.questions.5.answers.3.text:Korenine
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:19390.0
+passage.questions.5.answers.2.text:Plavajoče cvetje
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:19389.0
+passage.questions.5.answers.1.text:Voda
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:19388.0
+passage.questions.5.answers.0.text:Rastlina vodo uporablja za podporo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:19387.0
+passage.questions.4.question:Ali ima življenje v vodi koristi?
+passage.questions.4.idx:3648.0
+passage.questions.4.answers.2.text:Da, brez onesnaženja z vetrom ali živalmi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19386.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19385.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:19384.0
+passage.questions.3.question:Kje rastline živijo poleg na kopnem?
+passage.questions.3.idx:3647.0
+passage.questions.3.answers.2.text:Podzemlje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:19383.0
+passage.questions.3.answers.1.text:V vodi
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:19382.0
+passage.questions.3.answers.0.text:Zrak
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:19381.0
+passage.questions.2.question:Ali vodne rastline potrebujejo posebne lastnosti za varčevanje z vodo?
+passage.questions.2.idx:3646.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19380.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:19379.0
+passage.questions.1.question:Kje živijo nekatere rastline, ki ne živijo na kopnem?
+passage.questions.1.idx:3645.0
+passage.questions.1.answers.3.text:Grmičevje
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:19378.0
+passage.questions.1.answers.2.text:V zraku
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:19377.0
+passage.questions.1.answers.1.text:Vodne rastline
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:19376.0
+passage.questions.1.answers.0.text:V vodi
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19375.0
+passage.questions.0.question:Kateri sta dve stvari, zaradi katerih se vodna rastlina težko razmnožuje?
+passage.questions.0.idx:3644
+passage.questions.0.answers.4.text:Opraševanje z vetrom ali živalmi se ne more zgoditi pod vodo
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:19374.0
+passage.questions.0.answers.3.text:Opraševanje z vetrom ali živalmi se ne more zgoditi pod vodo. Sončna svetloba ne more doseči zelo daleč pod vodno gladino
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:19373.0
+passage.questions.0.answers.2.text:V vodi imajo sadje in cvetje,
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:19372.0
+passage.questions.0.answers.1.text:Opraševanje pod vodo je težko, voda nima prostora za rast rastlin
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:19371
+passage.questions.0.answers.0.text:Opraševanje z vetrom ali živalmi se ne more zgoditi pod vodo in sončna svetloba ne more doseči zelo daleč pod vodno gladino
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:19370
+idx:320

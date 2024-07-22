@@ -1,0 +1,4 @@
+idx:7999
+label:True
+passage:Elektromagnet - z intuitivnim argumentom lahko pokažemo tudi, da je gostota pretoka zunaj solenoida dejansko nič. Linije magnetnega polja obstajajo le kot zanke, ne morejo se oddaljiti od ali se približati točki, kot jo lahko linije električnega polja (glej Gaussov zakon za magnetizem). Linije magnetnega polja sledijo vzdolžni poti magnetnega polja v notranjosti, zato morajo iti v nasprotni smeri zunaj elektromagnetnega polja, tako da lahko vodili tvorijo zanko. Vendar je prostornina zunaj solenoida veliko večja od prostornine znotraj, zato je gostota vodov magnetnega polja zunaj močno zmanjšana. Zdaj se spomnimo, da je zunanje polje konstantno. Da se ohrani skupno število poljskih linij, mora polje zunaj iti na nič, saj se elektromagnet podaljša.
+question:ali je zunaj magnetnega polja magnetno polje

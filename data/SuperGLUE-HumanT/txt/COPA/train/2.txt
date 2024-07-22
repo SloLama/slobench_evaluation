@@ -1,0 +1,6 @@
+﻿choice1:Kavarna se je znova odprla na novi lokaciji.
+choice2:Hoteli sta pokramljati.
+idx:2
+label:1
+premise:Dobili sta se na kavi.
+question:cause

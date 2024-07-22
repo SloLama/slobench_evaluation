@@ -1,0 +1,425 @@
+version:1.1
+passage.text:Naseljena zgodovina doline Las Vegas sega do 23.000 pr. N. Št., Ko je velik del območja pokrivalo prazgodovinsko jezero. V tem obdobju so avtohtoni prebivalci živeli v jamah in lovili sesalce, ki so se zbrali na obali. Pokrajina doline se je v naslednjih 200 stoletjih močno spremenila. Ledeniki, ki hranijo jezero, so se stopili in jezero je izhlapelo. Fosili pripovedujejo nejasno zgodbo o počasnem in občasnem razvoju človeka. Približno 3000 pr. N. Št. So domači arhaični Indijanci začeli razvijati trajno kulturo lova in nabiranja. V tem času je bila dolina v približno enakem geografskem stanju, kakršno obstaja danes, z eno izjemo - prisotnostjo arteških izvirov, ki so na več področjih zavreli na površje. Ti izviri so napajali mrežo potokov, ki so odtekali skozi Las Vegas Wash do reke Colorado. Območja, ki so obkrožala izvire, so bila puščavske oaze: razprostranjene zbirke trav, dreves in divjih živali. Veliko izvirov je ležalo na območjih, ki bi sčasoma postala središče sodobne metropole v Las Vegasu. Približno 4000 let so Arhaiki uspevali v kulturi, ki je vključevala številne znake zgodnje civilizacije. Znaki še večjega napredka so se pojavili na polovici prvega tisočletja našega štetja, ko so Indijanci Anasazi naselili dolino. Daleč bolj napredni od Arhaikov so Anasazi pri pridelavi uporabljali takšne formalne kmetijske tehnike, kot je namakanje. To je Anasazijem omogočilo, da so dosegli merilo napredne družbe - sposobnost življenja v stalnih zavetiščih skozi celo leto, ne da bi morali slediti divjim živalim. Skrivnostno so Anasazi izginili iz doline okoli oglasa
+passage.questions.9.question:V katerem časovnem obdobju so Indijanci Anasazi naselili dolino Las Vegasa?
+passage.questions.9.idx:1697.0
+passage.questions.9.answers.6.text:1100 pr
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:8794.0
+passage.questions.9.answers.5.text:Prvo tisočletje n
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:8793.0
+passage.questions.9.answers.4.text:23.000 pr
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:8792.0
+passage.questions.9.answers.3.text:Okoli 1500 oglasov
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:8791.0
+passage.questions.9.answers.2.text:1000 pr
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:8790.0
+passage.questions.9.answers.1.text:150 pr
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:8789.0
+passage.questions.9.answers.0.text:Na polovici prvega tisočletja
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:8788.0
+passage.questions.8.question:Kdaj približno so domači arhaični Indijanci začeli razvijati trajno kulturo lova in nabiranja?
+passage.questions.8.idx:1696.0
+passage.questions.8.answers.4.text:1500
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:8787.0
+passage.questions.8.answers.3.text:Ne vemo natančno
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:8786.0
+passage.questions.8.answers.2.text:23.000 pr
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:8785.0
+passage.questions.8.answers.1.text:2000 pr
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:8784.0
+passage.questions.8.answers.0.text:Okoli 3000 pr
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:8783.0
+passage.questions.7.question:Približno katerega leta je dolino Las Vegas pokrivalo prazgodovinsko jezero?
+passage.questions.7.idx:1695.0
+passage.questions.7.answers.3.text:2000 pr
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:8782.0
+passage.questions.7.answers.2.text:Okoli 3000 pr
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:8781.0
+passage.questions.7.answers.1.text:1500 pr
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8780.0
+passage.questions.7.answers.0.text:23.000 pr
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:8779.0
+passage.questions.6.question:Zakaj je prazgodovinsko jezero izginilo iz doline Las Vegas?
+passage.questions.6.idx:1694.0
+passage.questions.6.answers.5.text:Krčenje gozdov
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:8778.0
+passage.questions.6.answers.4.text:Ledeniki so se stopili
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:8777.0
+passage.questions.6.answers.3.text:Ker so Indijanci začeli razvijati trajno kulturo lova in nabiranja
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:8776.0
+passage.questions.6.answers.2.text:Začela se je ledena doba
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8775.0
+passage.questions.6.answers.1.text:Ker so se ledeniki, ki hranijo jezero, stopili
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:8774.0
+passage.questions.6.answers.0.text:Regija je bila prenaseljena
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8773.0
+passage.questions.5.question:Katera skupina, ki je naselila dolino, je bila najbolj napredna?
+passage.questions.5.idx:1693.0
+passage.questions.5.answers.4.text:Indijanci Anasazi
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:8772.0
+passage.questions.5.answers.3.text:Anasazi
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:8771.0
+passage.questions.5.answers.2.text:Različna avtohtona plemena
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:8770.0
+passage.questions.5.answers.1.text:Arhaično
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8769.0
+passage.questions.5.answers.0.text:Domači arhaični Indijanci
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:8768.0
+passage.questions.4.question:Kako so preživeli arhaični Indijanci?
+passage.questions.4.idx:1692.0
+passage.questions.4.answers.4.text:Bili so nabiralci lovcev, ki so spremljali prosto živeče živali, živeli v jamah in pokazali primitivne civilizacijske znake
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:8767.0
+passage.questions.4.answers.3.text:Napredne kmetijske tehnike
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:8766.0
+passage.questions.4.answers.2.text:Imeli so namakanje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:8765.0
+passage.questions.4.answers.1.text:S krajo pri Anasazih
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8764.0
+passage.questions.4.answers.0.text:Razvili so trajno lovsko-nabiralniško kulturo
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:8763.0
+passage.questions.3.question:Kje so živeli ljudje in kaj se je skozi leta dogajalo s pokrajino?
+passage.questions.3.idx:1691.0
+passage.questions.3.answers.5.text:Odkrita nova jezera
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:8762.0
+passage.questions.3.answers.4.text:Ljudje so živeli v jamah in lovili sesalce, ki so se zbrali ob obali. Skozi leta so se ledeniki stopili in jezero izhlapevalo
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:8761.0
+passage.questions.3.answers.3.text:V stalnih zavetiščih, ki se uporabljajo za formalno kmetijstvo
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:8760.0
+passage.questions.3.answers.2.text:Puščavske regije
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8759.0
+passage.questions.3.answers.1.text:Jame
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:8758.0
+passage.questions.3.answers.0.text:V jamah se je dramatično spremenilo
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:8757.0
+passage.questions.21.question:Katero dobro znano območje je nekoč pokrivalo prazgodovinsko jezero?
+passage.questions.21.idx:1709.0
+passage.questions.21.answers.4.text:Ohio Rivery Valley
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:8862.0
+passage.questions.21.answers.3.text:Dolina Las Vegas
+passage.questions.21.answers.3.label:1.0
+passage.questions.21.answers.3.idx:8861.0
+passage.questions.21.answers.2.text:Spodnja dolina
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:8860.0
+passage.questions.21.answers.1.text:Reka Kolorado
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:8859.0
+passage.questions.21.answers.0.text:Dolina San Fernando
+passage.questions.21.answers.0.label:0,0
+passage.questions.21.answers.0.idx:8858.0
+passage.questions.20.question:Kje so lovili avtohtoni prebivalci Las Vegasa?
+passage.questions.20.idx:1708.0
+passage.questions.20.answers.6.text:V Las Vegas Wash
+passage.questions.20.answers.6.label:0,0
+passage.questions.20.answers.6.idx:8857.0
+passage.questions.20.answers.5.text:Na obali
+passage.questions.20.answers.5.label:1.0
+passage.questions.20.answers.5.idx:8856.0
+passage.questions.20.answers.4.text:V jamah
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:8855.0
+passage.questions.20.answers.3.text:Sesalci, ki so se zbrali na obali
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:8854.0
+passage.questions.20.answers.2.text:Na planotah
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:8853.0
+passage.questions.20.answers.1.text:V puščavi
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:8852.0
+passage.questions.20.answers.0.text:Ob obali jezera
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:8851.0
+passage.questions.2.question:Kje so v Las Vegasu pogosto našli živali za hrano, ki segajo do 23.000 milijard?
+passage.questions.2.idx:1690.0
+passage.questions.2.answers.6.text:V skritih loviščih
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:8756.0
+passage.questions.2.answers.5.text:Na obali prazgodovinskega jezera
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:8755.0
+passage.questions.2.answers.4.text:Suha puščava
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:8754.0
+passage.questions.2.answers.3.text:V jamah
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:8753.0
+passage.questions.2.answers.2.text:Obala
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:8752.0
+passage.questions.2.answers.1.text:V bližini reke Colorado
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8751.0
+passage.questions.2.answers.0.text:Ob obali jezera
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8750.0
+passage.questions.19.question:Kaj je Anasazijem omogočilo, da so dosegli merilo napredne družbe?
+passage.questions.19.idx:1707.0
+passage.questions.19.answers.6.text:Po divjadi
+passage.questions.19.answers.6.label:0,0
+passage.questions.19.answers.6.idx:8850.0
+passage.questions.19.answers.5.text:Stalna zavetišča
+passage.questions.19.answers.5.label:1.0
+passage.questions.19.answers.5.idx:8849.0
+passage.questions.19.answers.4.text:Formalne kmetijske tehnike, kot je namakanje, so jim omogočile, da živijo v stalnih zavetiščih skozi celo leto, ne da bi jim bilo treba slediti divjim živalim
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:8848.0
+passage.questions.19.answers.3.text:Uporaba salitre
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:8847.0
+passage.questions.19.answers.2.text:Lok in puščica
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:8846.0
+passage.questions.19.answers.1.text:Uporaba tipisa skozi celo leto
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:8845.0
+passage.questions.19.answers.0.text:Formalne kmetijske tehnike
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:8844.0
+passage.questions.18.question:Kdo je bil najbolj napredna zgodnja civilizacija, ki je izginila v Las Vegasu?
+passage.questions.18.idx:1706.0
+passage.questions.18.answers.3.text:Arhaičnost
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:8843.0
+passage.questions.18.answers.2.text:Nez Perce
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:8842.0
+passage.questions.18.answers.1.text:Anasazi
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:8841.0
+passage.questions.18.answers.0.text:Cherokee
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:8840.0
+passage.questions.17.question:Kdaj se začne zgodovina Las Vegasa in kaj je pokrivalo večino območja?
+passage.questions.17.idx:1705.0
+passage.questions.17.answers.6.text:2500 pr
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:8839.0
+passage.questions.17.answers.5.text:23.000 pr. N. Št., Prazgodovinsko jezero
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:8838.0
+passage.questions.17.answers.4.text:Naloge soli
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:8837.0
+passage.questions.17.answers.3.text:Prazgodovinsko jezero
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:8836.0
+passage.questions.17.answers.2.text:Jame
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:8835.0
+passage.questions.17.answers.1.text:Okoli 3000 pr. N. Št., Reka Kolorado
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:8834.0
+passage.questions.17.answers.0.text:23.000 pr. N. Št. In pokrivalo ga je prazgodovinsko jezero
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:8833.0
+passage.questions.16.question:Je bilo kmetijstvo in oblike zgodnje civilizacije na voljo kadar koli v zgodovini Las Vege?
+passage.questions.16.idx:1704.0
+passage.questions.16.answers.2.text:Včasih
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:8832.0
+passage.questions.16.answers.1.text:Da
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:8831.0
+passage.questions.16.answers.0.text:Ne
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:8830.0
+passage.questions.15.question:Kdaj so se arteški izviri prvič pojavili?
+passage.questions.15.idx:1703.0
+passage.questions.15.answers.4.text:23.000 pr
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:8829.0
+passage.questions.15.answers.3.text:500 oglasov
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:8828.0
+passage.questions.15.answers.2.text:Okoli 3000 pr
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:8827.0
+passage.questions.15.answers.1.text:Okoli 3000 pr
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:8826.0
+passage.questions.15.answers.0.text:23.000 pr
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:8825.0
+passage.questions.14.question:Kje so živeli Anasazi?
+passage.questions.14.idx:1702.0
+passage.questions.14.answers.6.text:Spodnje porečje
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:8824.0
+passage.questions.14.answers.5.text:Dolina
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:8823.0
+passage.questions.14.answers.4.text:Virginia
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:8822.0
+passage.questions.14.answers.3.text:V metropolisu Las Vegasa
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:8821.0
+passage.questions.14.answers.2.text:Jame
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:8820.0
+passage.questions.14.answers.1.text:Las Vegas Valley
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:8819.0
+passage.questions.14.answers.0.text:Kalifornija
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:8818.0
+passage.questions.13.question:Kaj je Anasazijem omogočilo, da so živeli v stalnih zavetiščih?
+passage.questions.13.idx:1701.0
+passage.questions.13.answers.5.text:Stanje v puščavi
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:8817.0
+passage.questions.13.answers.4.text:Po divjadi
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:8816.0
+passage.questions.13.answers.3.text:Več padavin kot usua
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:8815.0
+passage.questions.13.answers.2.text:Namakanje
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:8814.0
+passage.questions.13.answers.1.text:Novoodkrita reka
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:8813.0
+passage.questions.13.answers.0.text:Uporaba formalnih kmetijskih tehnik
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:8812.0
+passage.questions.12.question:Kdaj so domači arhaični Indijanci razvili lovsko in nabiralniško kulturo?
+passage.questions.12.idx:1700.0
+passage.questions.12.answers.5.text:Njihov plen je odšel
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:8811.0
+passage.questions.12.answers.4.text:Prisilile so jih druge plemenske skupine
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:8810.0
+passage.questions.12.answers.3.text:3000 pr
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:8809.0
+passage.questions.12.answers.2.text:Prvo tisočletje n
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:8808.0
+passage.questions.12.answers.1.text:Zemljišče je bilo prosto dostopno
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:8807.0
+passage.questions.12.answers.0.text:Okoli 3000 pr
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:8806.0
+passage.questions.11.question:Kdaj so Anasazi začeli naseljevati dolino?
+passage.questions.11.idx:1699.0
+passage.questions.11.answers.7.text:1000 oglasov
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:8805.0
+passage.questions.11.answers.6.text:Okoli 500 oglasov
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:8804.0
+passage.questions.11.answers.5.text:23.000 pr
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:8803.0
+passage.questions.11.answers.4.text:Na polovici prvega tisočletja
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:8802.0
+passage.questions.11.answers.3.text:1500 pr
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:8801.0
+passage.questions.11.answers.2.text:Okoli 3000 pr
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:8800.0
+passage.questions.11.answers.1.text:100 oglasov
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:8799.0
+passage.questions.11.answers.0.text:1500 oglasov
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:8798.0
+passage.questions.10.question:Kako dolgo so Anasazi naselili dolino Las Vegas?
+passage.questions.10.idx:1698.0
+passage.questions.10.answers.2.text:Dolino so naselili od prvega tisočletja našega štetja do okoli ad
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:8797.0
+passage.questions.10.answers.1.text:3000 let
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:8796.0
+passage.questions.10.answers.0.text:4000 let
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:8795.0
+passage.questions.1.question:Kakšno je bilo geografsko stanje Las Vegasa leta 3000 pred našim štetjem in katere reke so napajali potoki?
+passage.questions.1.idx:1689.0
+passage.questions.1.answers.5.text:Suha puščava
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:8749.0
+passage.questions.1.answers.4.text:Dobro zalivana travišča
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8748.0
+passage.questions.1.answers.3.text:Prazgodovinsko jezero, Las Vegas Valley
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:8747.0
+passage.questions.1.answers.2.text:Dolina je bila v približno enakem geografskem stanju kot danes, obstajali pa so arteški izviri, ki so na več področjih brneli na površje in napajali reko Kolorado
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:8746.0
+passage.questions.1.answers.1.text:Enako geografsko stanje kot danes, reka Colorado in Las Vegas Wash
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:8745.0
+passage.questions.1.answers.0.text:Arteški izviri
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:8744.0
+passage.questions.0.question:Kakšna je bila razlika med lovsko-nabiralniško prakso Arhaikov in Anasazij?
+passage.questions.0.idx:1688
+passage.questions.0.answers.6.text:Arhaiki so plen preganjali celo do zvezne države Washington
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:8743.0
+passage.questions.0.answers.5.text:Arhaiki so izkopali jezera za ohranjanje prosto živečih živali
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:8742.0
+passage.questions.0.answers.4.text:Anasazi so bili veliko naprednejši od Arhaikov
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:8741.0
+passage.questions.0.answers.3.text:Zaradi namakalnih tehnik Anasazijem ni bilo treba slediti svojim živalim
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:8740.0
+passage.questions.0.answers.2.text:Arachaici so z namakanjem hranili živali blizu
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8739.0
+passage.questions.0.answers.1.text:Anasazi niso bili napredni kot Arhaiki
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:8738
+passage.questions.0.answers.0.text:Arhaiki so večinoma lovili, Anasazi pa začnejo uporabljati naprednejše kmetijske tehnike, kot je namakanje
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8737
+idx:150

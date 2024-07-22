@@ -1,0 +1,127 @@
+version:1.1
+passage.text:Tu se je povzpel omnibus in odpeljal sem se nazaj v Manchester. Celoten pogovor je trajal zelo malo več časa, kot ga bo prebral; vendar se mi je zdelo vredno posneti, kar je značilno za ljudi, ki zdaj trpijo v Lancashiru brez lastne krivde. Ljudi dobro poznam. Največ jih bi se izstradalo do te mere, da na tem svetu ne bi imele veliko bolj fizične koristi, preden bi se spustili prositi. Toda stradanje je težko delo. Kaj jim bo prinesla zima, ko bo hudo vreme začelo pripovedovati o konstitucijah, ki jih je zmanjšal ton zaradi stradne diete - prehrane, ki se tako razlikuje od tiste, ki so jo bili vajeni v službi? Kaj bo 1s. 6d. a glava tedensko zanje v tem težkem času? Če se zanje ne naredi kaj več od tega, ko je vsem treba več hrane, oblačil in ognja, se lahko zgodijo nesreče, ki bodo Anglijo stale stokrat več kot zadostno olajšanje - olajšanje, vredno tistih, ki trpijo, in države, ki ji pripadajo - bi stalo. V tem času mrzla zimska krila že začnejo zasenčiti deželo; in vsak izgubljeni dan vključuje življenja ali koristnost tisočerih najboljših prebivalcev.
+passage.questions.7.question:Zakaj so trpeli prebivalci Lancashira?
+passage.questions.7.idx:1479.0
+passage.questions.7.answers.5.text:Anglija je imela vladne težave
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:7728.0
+passage.questions.7.answers.4.text:Ker niso imeli dovolj služb
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:7727.0
+passage.questions.7.answers.3.text:Prebivalci Lancashira so se v zimsko sezono podali z nezadostno količino hrane in zalog
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:7726.0
+passage.questions.7.answers.2.text:Zaradi visokih davkov, ki so jih plačevali
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:7725.0
+passage.questions.7.answers.1.text:Ker so stradali, a niso hoteli popustiti prosjačenju
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:7724.0
+passage.questions.7.answers.0.text:Ker so se izstradali do te mere, da na tem svetu ne bi imeli bolj fizične koristi
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:7723.0
+passage.questions.6.question:V kateri državi je Lancashire?
+passage.questions.6.idx:1478.0
+passage.questions.6.answers.3.text:Anglija
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:7722.0
+passage.questions.6.answers.2.text:Nemčija
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:7721.0
+passage.questions.6.answers.1.text:Francija
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:7720.0
+passage.questions.6.answers.0.text:Irska
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:7719.0
+passage.questions.5.question:Kaj naj bi se zgodilo z ljudmi Lancashire, če ne bodo prejeli pomoči pred prihodom zime?
+passage.questions.5.idx:1477.0
+passage.questions.5.answers.6.text:Anglija bo utrpela več nesreč, kot če bi jim zagotovila sredstva
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:7718.0
+passage.questions.5.answers.5.text:Da bodo blokirani v mestu
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:7717.0
+passage.questions.5.answers.4.text:Če ne bodo prejeli hrane, oblačil in požarov, bo prišlo do številnih smrtnih žrtev
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:7716.0
+passage.questions.5.answers.3.text:Preselili se bodo v Manchester
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:7715.0
+passage.questions.5.answers.2.text:Da bodo korakali v revoluciji
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:7714.0
+passage.questions.5.answers.1.text:Da se lahko pojavijo nesreče, ki bodo Anglijo stale veliko
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:7713.0
+passage.questions.5.answers.0.text:Da bodo stradali in trpeli pozimi, preden se bodo sprijaznili z prosjačenjem
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:7712.0
+passage.questions.4.question:Katera potencialno katastrofalna sezona se obeta nad prebivalci Lancashira?
+passage.questions.4.idx:1476.0
+passage.questions.4.answers.3.text:padec
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:7711.0
+passage.questions.4.answers.2.text:Poletje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:7710.0
+passage.questions.4.answers.1.text:Jesen
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:7709.0
+passage.questions.4.answers.0.text:Zima
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:7708.0
+passage.questions.3.question:Kaj so odkrili o naravi Lancashirovcev iz pogovorov na poti z avtobusom nazaj v Manchester?
+passage.questions.3.idx:1475.0
+passage.questions.3.answers.5.text:Da se sploh niso počutili angleško
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:7707.0
+passage.questions.3.answers.4.text:Da bodo ti ljudje stradali pred zimo in se spustili prositi
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:7706.0
+passage.questions.3.answers.3.text:Veliko ljudi bi se izstradalo, preden bi prosili za izročke in pomoč
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:7705.0
+passage.questions.3.answers.2.text:Da ne potrebujejo nič več od tega, kar so že imeli
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:7704.0
+passage.questions.3.answers.1.text:Raje se izstradajo kot prosijo
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:7703.0
+passage.questions.3.answers.0.text:Prepogosto so prosili
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7702.0
+passage.questions.2.question:Katere so začetne in končne točke pripovedovalčeve poti?
+passage.questions.2.idx:1474.0
+passage.questions.2.answers.2.text:Manchester nato Lancashire
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:7701.0
+passage.questions.2.answers.1.text:London do Manchestera
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7700.0
+passage.questions.2.answers.0.text:Od Lancashira do Manchestera
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:7699.0
+passage.questions.1.question:Prebivalci katerega mesta bi raje stradali kot prosili?
+passage.questions.1.idx:1473.0
+passage.questions.1.answers.2.text:London
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:7698.0
+passage.questions.1.answers.1.text:Lancashire
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:7697.0
+passage.questions.1.answers.0.text:Manchester
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:7696.0
+passage.questions.0.question:V katerem mestu bi večina stradala, preden bi privoščila prosjačiti?
+passage.questions.0.idx:1472
+passage.questions.0.answers.2.text:Lancashire
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7695.0
+passage.questions.0.answers.1.text:Manchester
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7694
+passage.questions.0.answers.0.text:Cardiff
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7693
+idx:128

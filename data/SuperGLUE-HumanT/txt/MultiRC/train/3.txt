@@ -1,0 +1,126 @@
+version:1.1
+passage.text:Talibani in ameriška pomoč. Po napadih 11. septembra so morali republikanci nekako razložiti, zakaj je ameriška vlada novim superzločincem dala 245 milijonov dolarjev. Pustimo ob strani to, da je avtor Robert Scheer že maja 2001 posvaril pred tem, da se Talibanom nameni pomoč. Pustimo ob strani to, da tega niso delali iz človekoljubnih vzgibov, temveč zato, ker so Talibani nasilno uveljavljali prepoved gojenja maka, iz katerega pridobivajo opij. Pustimo ob strani to, da v režimu, ki mu vladajo vojni poglavarji, ni pomembno, kdo ima dovoljenje, da razdeli pomoč -- vojni poglavarji, ki vladajo različnim območjem, se jo bodo slejkoprej dokopali in jo uporabili za svoje namene. Pustimo ob strani to, da so ravno ta argument uporabili vojni naklonjeni »sokoli« proti temu, da se v Sadamov Irak pošlje humanitarna pomoč. Pustimo ob strani to, da so Talibani kljub dogovoru vseeno še naprej preprodajali opij. Pustimo ob strani to, da je vse to navedeno na spletni strani o filmu Michaela Moora. Umori s strelnim orožjem. Statistika je Mooreva šibka točka in preseneča, da se njegovi kritiki pri tem ne pomudijo dlje. To gre pripisati temu, da še dobro vedo, da ima Moore prav: ZDA imajo višjo stopnjo umorov (s strelnim orožjem in brez) kot večina držav razvitega sveta. Njegova največja napaka je, da ne uporablja podatkov, ki bi bili prilagojeni številu prebivalcev, druga napaka je, da ne navaja virov, kot pravilno trdite, pa najverjetneje tudi uporablja drugačne metode zbiranja podatkov za različne države. Kakovostno primerjavo mednarodnih stopenj umorov najdemo na sorazmerno nepristranski spletni strani guncite.com. 
+passage.questions.5.question:Kdo so »superzločinci«, ki so od ameriške vlade prejeli 245 milijonov dolarjev?
+passage.questions.5.idx:39.0
+passage.questions.5.answers.4.text:Države
+passage.questions.5.answers.4.label:0.0
+passage.questions.5.answers.4.idx:245.0
+passage.questions.5.answers.3.text:Michael Moore
+passage.questions.5.answers.3.label:0.0
+passage.questions.5.answers.3.idx:244.0
+passage.questions.5.answers.2.text:Iraški Saddam Hussein
+passage.questions.5.answers.2.label:0.0
+passage.questions.5.answers.2.idx:243.0
+passage.questions.5.answers.1.text:Talibani
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:242.0
+passage.questions.5.answers.0.text:Iran
+passage.questions.5.answers.0.label:0.0
+passage.questions.5.answers.0.idx:241.0
+passage.questions.4.question:Koliko denarja je ameriška vlada dala »superzločincem«?
+passage.questions.4.idx:38.0
+passage.questions.4.answers.5.text:11 milijonov dolarjev
+passage.questions.4.answers.5.label:0.0
+passage.questions.4.answers.5.idx:240.0
+passage.questions.4.answers.4.text:500 milijonov dolarjev
+passage.questions.4.answers.4.label:0.0
+passage.questions.4.answers.4.idx:239.0
+passage.questions.4.answers.3.text:240 milijonov
+passage.questions.4.answers.3.label:0.0
+passage.questions.4.answers.3.idx:238.0
+passage.questions.4.answers.2.text:245 milijonov $
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:237.0
+passage.questions.4.answers.1.text:Ameriška vlada je dala »superzločincem« 2001 milijon dolarjev
+passage.questions.4.answers.1.label:0.0
+passage.questions.4.answers.1.idx:236.0
+passage.questions.4.answers.0.text:300 milijonov dolarjev
+passage.questions.4.answers.0.label:0.0
+passage.questions.4.answers.0.idx:235.0
+passage.questions.3.question:Kdo je kljub dogovoru še naprej preprodajal opij?
+passage.questions.3.idx:37.0
+passage.questions.3.answers.5.text:Saddam Hussein
+passage.questions.3.answers.5.label:0.0
+passage.questions.3.answers.5.idx:234.0
+passage.questions.3.answers.4.text:Američan
+passage.questions.3.answers.4.label:0.0
+passage.questions.3.answers.4.idx:233.0
+passage.questions.3.answers.3.text:Talibani
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:232.0
+passage.questions.3.answers.2.text:Iraška vlada je še naprej preprodajala opij
+passage.questions.3.answers.2.label:0.0
+passage.questions.3.answers.2.idx:231.0
+passage.questions.3.answers.1.text:Robert Scheer
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:230.0
+passage.questions.3.answers.0.text:Vojni poglavarji
+passage.questions.3.answers.0.label:0.0
+passage.questions.3.answers.0.idx:229.0
+passage.questions.2.question:Kateri avtor je posvaril pred pomočjo Talibanom?
+passage.questions.2.idx:36.0
+passage.questions.2.answers.4.text:Saddam Hussein
+passage.questions.2.answers.4.label:0.0
+passage.questions.2.answers.4.idx:228.0
+passage.questions.2.answers.3.text:George W. Bush
+passage.questions.2.answers.3.label:0.0
+passage.questions.2.answers.3.idx:227.0
+passage.questions.2.answers.2.text:Robert Scheer in Michael Moore
+passage.questions.2.answers.2.label:0.0
+passage.questions.2.answers.2.idx:226.0
+passage.questions.2.answers.1.text:Michael Moore
+passage.questions.2.answers.1.label:0.0
+passage.questions.2.answers.1.idx:225.0
+passage.questions.2.answers.0.text:Robert Scheer
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:224.0
+passage.questions.1.question:V zvezi s katero temo Michael Moore ne navede virov?
+passage.questions.1.idx:35.0
+passage.questions.1.answers.6.text:Primerjava med revščino
+passage.questions.1.answers.6.label:0.0
+passage.questions.1.answers.6.idx:223.0
+passage.questions.1.answers.5.text:S filmom o svoji spletni strani
+passage.questions.1.answers.5.label:0.0
+passage.questions.1.answers.5.idx:222.0
+passage.questions.1.answers.4.text:Opijem
+passage.questions.1.answers.4.label:0.0
+passage.questions.1.answers.4.idx:221.0
+passage.questions.1.answers.3.text:Nasilnim zločinom
+passage.questions.1.answers.3.label:0.0
+passage.questions.1.answers.3.idx:220.0
+passage.questions.1.answers.2.text:Primerjavo med humanitarno pomočjo
+passage.questions.1.answers.2.label:0.0
+passage.questions.1.answers.2.idx:219.0
+passage.questions.1.answers.1.text:Stopnjo umorov v ZDa (s strelnim orožjem in brez)
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:218.0
+passage.questions.1.answers.0.text:Umori s strelnim orožjem
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:217.0
+passage.questions.0.question:Za kaj naj bi Talibani porabili 245 milijonov dolarjev pomoči?
+passage.questions.0.idx:34
+passage.questions.0.answers.7.text:Humanitarno pomoč
+passage.questions.0.answers.7.label:0.0
+passage.questions.0.answers.7.idx:216.0
+passage.questions.0.answers.6.text:Izobraževanje
+passage.questions.0.answers.6.label:0.0
+passage.questions.0.answers.6.idx:215.0
+passage.questions.0.answers.5.text:Spopadanje z nasilnimi dejanji Talibanov
+passage.questions.0.answers.5.label:0.0
+passage.questions.0.answers.5.idx:214.0
+passage.questions.0.answers.4.text:Stabiliziranje vlade
+passage.questions.0.answers.4.label:0.0
+passage.questions.0.answers.4.idx:213.0
+passage.questions.0.answers.3.text:Znižanje stopnje umorov s strelnim orožjem
+passage.questions.0.answers.3.label:0.0
+passage.questions.0.answers.3.idx:212.0
+passage.questions.0.answers.2.text:245 milijonov dolarjev je bilo namenjenih za pošiljanje humanitarne pomoči
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:211.0
+passage.questions.0.answers.1.text:Dogovor
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:210
+passage.questions.0.answers.0.text:Namenjeni so bili temu, da Talibanom preprečijo nasilno uveljavljati prepoved gojenja maka, iz katerega pridobivajo opij
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:209
+idx:3

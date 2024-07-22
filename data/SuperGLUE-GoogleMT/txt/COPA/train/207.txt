@@ -1,0 +1,6 @@
+choice1:Pogrešal je sestanek z zobozdravnikom.
+choice2:Dogovoril se je za zobozdravnika.
+idx:207
+label:1
+premise:Moški se je zbudil z zobobolom.
+question:effect

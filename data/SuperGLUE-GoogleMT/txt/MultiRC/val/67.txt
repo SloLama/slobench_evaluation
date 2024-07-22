@@ -1,0 +1,112 @@
+version:1.1
+passage.text:LONDON, Anglija (CNN) - Britanski režiser, scenarist in dramatik Mike Leigh se s filmskim poslom ukvarja že več kot 35 let. Leigh o scenaristiki: &quot;Ne delam običajnega scenarija ... gre za cel organski postopek.&quot; V tem času je bil nominiran za pet oskarjev, poleg tega pa je na filmskem festivalu v Cannesu leta 1993 prejel nagrado za najboljšega režiserja, leta 1996 tamkajšnjo zlato palmo za &quot;Skrivnosti in laži&quot; in Leono d &#39; Oro na beneškem filmskem festivalu leta 2004 za &quot;Vera Drake&quot;. Leighovo delo, znano po svoji močni neodvisnosti (beri zavrnitvi dela v Hollywoodu), je znano po krhkem realizmu in osredotočenosti na revne britanske družbe. Druga Leighina klicna kartica je nekonvencionalen pristop k scenaristiki. &quot;Prodajna soba&quot; je na mednarodnem festivalu scenaristov v Veliki Britaniji v začetku letošnjega leta ujela veteranskega režiserja, da bi ga vprašal več o njegovem pristopu k snemanju filmov. Projekcijska soba: Zakaj je ta festival za vas tako pomemben? Mike Leigh: Sem filmski ustvarjalec, ki sem hkrati pisatelj in režiser in imam tak način snemanja filmov, pri katerih so pisanje, igralci in snemanje skupaj. Ne delam običajnega scenarija ... gre za cel organski postopek. TSR: Kaj se po vašem mnenju lahko drugi scenaristi naučijo od vas? ML: Mislim, da so scenaristi, ki so zaradi politike in ekonomije filmske industrije prisiljeni delati na bolj običajen način, vedno navdušeni, da se z mano pogovorijo o tem, kako delam. TSR: Obstaja ta romantična ideja, da mora biti scenaristika boleča, samotna izkušnja. Vendar tega ne doživljate.
+passage.questions.4.question:Se Mike Leigh pritožuje na Hollywood?
+passage.questions.4.idx:775.0
+passage.questions.4.answers.6.text:Drugi scenaristi so nad njim navdušeni
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:3857.0
+passage.questions.4.answers.5.text:Mike Leigh je naklonjen Hollywoodu in želi nadzorovati lastne produkcije
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:3856.0
+passage.questions.4.answers.4.text:Pritožil se je
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:3855.0
+passage.questions.4.answers.3.text:Bil je nominiran za 5 oskarjev
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3854.0
+passage.questions.4.answers.2.text:Da
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3853.0
+passage.questions.4.answers.1.text:Ne
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3852.0
+passage.questions.4.answers.0.text:Sprejeto
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3851.0
+passage.questions.3.question:Ali The Screenroom intervjuva z mednarodnimi ikonami filmske industrije, kot je scenarist Mike Leigh?
+passage.questions.3.idx:774.0
+passage.questions.3.answers.5.text:Samo filmski ustvarjalci
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:3850.0
+passage.questions.3.answers.4.text:Da
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:3849.0
+passage.questions.3.answers.3.text:Ne
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3848.0
+passage.questions.3.answers.2.text:Redko
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3847.0
+passage.questions.3.answers.1.text:Da. intervjuvali so se
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3846.0
+passage.questions.3.answers.0.text:Brez intervjuja
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3845.0
+passage.questions.2.question:Je Mike Leigh igralec?
+passage.questions.2.idx:773
+passage.questions.2.answers.5.text:Da
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:3844.0
+passage.questions.2.answers.4.text:Ne
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:3843.0
+passage.questions.2.answers.3.text:Scenarist in režiser
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3842.0
+passage.questions.2.answers.2.text:Urednik
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3841.0
+passage.questions.2.answers.1.text:Ne, scenarist in dramatik
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:3840
+passage.questions.2.answers.0.text:Igralec in pisatelj
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:3839
+passage.questions.1.question:Kaj doživi scenarist med pisanjem scenarija?
+passage.questions.1.idx:772
+passage.questions.1.answers.6.text:Na splošno se domneva, da je izkušnja s pisanjem scenarija osamljena in boleča, vendar bi Mike Leigh menil, da ni vedno takšna
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:3838.0
+passage.questions.1.answers.5.text:Romantična ideja
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:3837.0
+passage.questions.1.answers.4.text:Organski postopek snemanja filmov
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3836.0
+passage.questions.1.answers.3.text:Da to ni boleča ali samotna izkušnja
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3835.0
+passage.questions.1.answers.2.text:Groza
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3834.0
+passage.questions.1.answers.1.text:Konvencionalni pritiski
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3833
+passage.questions.1.answers.0.text:Boleča in samotna izkušnja
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3832
+passage.questions.0.question:Je bil Mike Leigh scenarist, nominiran za oskarja?
+passage.questions.0.idx:771
+passage.questions.0.answers.6.text:Da, petkrat je bil nominiran
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:3831.0
+passage.questions.0.answers.5.text:Zlatna palma
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:3830.0
+passage.questions.0.answers.4.text:Da
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:3829.0
+passage.questions.0.answers.3.text:Za nagrado nominiran urednik
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3828.0
+passage.questions.0.answers.2.text:Ne
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3827.0
+passage.questions.0.answers.1.text:Da, za film &quot;Nag&quot; leta 1993
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3826
+passage.questions.0.answers.0.text:Filmski festival v Cannesu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3825
+idx:67

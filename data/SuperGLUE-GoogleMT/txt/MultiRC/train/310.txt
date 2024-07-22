@@ -1,0 +1,37 @@
+version:1.1
+passage.text:Roger je bil kobilica. Rad je skakal. Povsod je skakal sam. Nekega dne, ko je skakal, je naletel na žabo, ki je sedela na hlodu. Žaba mu je rekla, da mu je ime Gilbert. Gilbert je povedal Rogerju, da je minilo že dolgo, odkar je koga zaletel. Roger mu je rekel, da bodo, tako kot kobilice in žabe, radi skakali, postali odlični prijatelji. Naslednji dan sta skočila po polju in videla nekaj zelo čudnega. V ribniku so zagledali pajka, ki je plaval na blazinici z lilijami. Pajek je bil zelo žalosten, ker ni imel prijateljev. Roger in Gilbert sta ga vprašala, zakaj nima prijateljev. Pajek jim je rekel, da bodo vsi zakričali in pobegnili, ko ga bodo videli. Roger in Gilbert sta mu rekla, da se jima ne zdi strašen in da lahko pride z njimi, če hoče. Pajek Sam je rekel da in trije so začeli življenjsko prijateljstvo, polno dogodivščin.
+passage.questions.1.question:Kako sta Roger in Gilbert do pajka ravnala drugače kot drugi?
+passage.questions.1.idx:3530.0
+passage.questions.1.answers.5.text:Radi skačejo
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:18703.0
+passage.questions.1.answers.4.text:Povabili so ga, naj pride z njimi
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:18702.0
+passage.questions.1.answers.3.text:Zakričali so in pobegnili od njega
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:18701.0
+passage.questions.1.answers.2.text:Imeli so pustolovsko življenje
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:18700.0
+passage.questions.1.answers.1.text:Niso pobegnili, ampak so se odločili, da se spoprijateljijo z njim
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:18699.0
+passage.questions.1.answers.0.text:Niso se ga bali
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:18698.0
+passage.questions.0.question:Katera dva lika sta videla nekaj čudnega?
+passage.questions.0.idx:3529
+passage.questions.0.answers.3.text:Sam in Roger
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:18697.0
+passage.questions.0.answers.2.text:Roger in Gilbert
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:18696.0
+passage.questions.0.answers.1.text:Gilbert in Sam
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18695
+passage.questions.0.answers.0.text:Kobilica in pajek
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:18694
+idx:310

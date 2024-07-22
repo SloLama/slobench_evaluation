@@ -1,0 +1,6 @@
+choice1:Naredil sem varnostno kopijo datotek.
+choice2:Naložil sem si virus.
+idx:363
+label:1
+premise:Računalnik se je zrušil.
+question:cause

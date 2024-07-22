@@ -1,0 +1,4 @@
+idx:6365
+label:True
+passage:Čitalnik črtnih kod - Čitalniki pisala so sestavljeni iz vira svetlobe in fotodiode, ki sta nameščeni drug ob drugem na konici pisala ali palice. Za branje črtne kode mora oseba, ki drži pisalo, konico premikati po palicah z razmeroma enakomerno hitrostjo. Fotodioda meri jakost svetlobe, ki se odbije nazaj od vira svetlobe, ko konica prečka vsako vrstico in prostor v natisnjeni kodi. Fotodioda ustvari valovno obliko, ki se uporablja za merjenje širine črtic in presledkov v črtni kodi. Temne črte v črtni kodi absorbirajo svetlobo, beli presledki pa odbijajo svetlobo, tako da je napetostna valovna oblika, ki jo ustvarja fotodioda, prikaz črtnega in presledkovnega vzorca v črtni kodi. To valovno obliko optični bralnik dekodira na način, podoben načinu dekodiranja Morsejevih pik in pomišljajev.
+question:ali skenirajo beli del črtne kode

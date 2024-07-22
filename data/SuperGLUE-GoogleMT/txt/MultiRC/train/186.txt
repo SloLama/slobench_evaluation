@@ -1,0 +1,280 @@
+version:1.1
+passage.text:Boone, la. - Ubogi in starejši ljudje lahko kmalu ostanejo brez pravnega zastopanja v okrožju Boone. Pravna pomoč okrožja Boone, ki že 31 let nudi pravne storitve tistim, ki si jih ne morejo privoščiti, se bo februarja zaprla, če ne bo dodeljena nepovratna sredstva Prairie Meadows Racetrack and Casino v višini 10.000 USD. Pravna služba je eden redkih programov v Iowi, ki nudi pravno zastopanje tistim, ki izpolnjujejo pogoje, ne da bi se za svoje storitve obrnili na državo. &quot;Zelo žalostna je situacija, toda to je dejstvo,&quot; je dejal Alan Schroeder, mestni tožilec in nadzornik pravne pomoči okrožja Boone. V zadnjih dveh letih je Schroeder z denarjem, ki je večinoma prišel iz mesta in okrožja, samo vzdrževal obleko, sprejel približno 60 strank na leto in rešil primere, ki segajo od zlorabe družine do bankrota. Ima tudi zasebno ordinacijo. Če se pravna služba zapre, ni prepričan, kam bodo odšle njegove stranke. Mesto Boone je Schroederju julija podelilo 6300 ameriških dolarjev za reševanje nerešenih primerov, je dejala Kathy Berg, finančna direktorica Boone. Brez tega je program morda že zaprt. &quot;Vse vlade imajo težave s financami,&quot; je dejal župan Boone George Maybee. &quot;Nihče drug ni vstopil. Država ni. Država ni.&quot; Donovan Olson, predsednik okrožnega odbora nadzornikov, je dejal, da je odbor julija prenehal financirati pravno službo, ker je menil, da ga okrožje ne potrebuje. Univerza Drake je financiranje po spomladanskem semestru leta 2000 končala &quot;iz različnih razlogov&quot;, je po elektronski pošti povedala Suzanne Levitt, profesorica prava, ki je nadzirala program. Olson je dejal, da mora Schroeder dokazati, da je Prairie Meadows glavni vir denarja, da odbor odobri programu več denarja. Schroeder je program vodil brez pomoči študentov prava ali Drakea, ki je v nekaterih letih priskrbel kar dve tretjini denarja.
+passage.questions.9.question:Koliko je bilo Schroederju dano za reševanje primerov, zaradi katerih je bil program zaprt?
+passage.questions.9.idx:2060.0
+passage.questions.9.answers.4.text:3.600 USD
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:10761.0
+passage.questions.9.answers.3.text:6.300 USD
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:10760.0
+passage.questions.9.answers.2.text:63.000 USD
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:10759.0
+passage.questions.9.answers.1.text:10.000 USD
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:10758.0
+passage.questions.9.answers.0.text:8.500 USD
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:10757.0
+passage.questions.8.question:Kdo ni priskočil na pomoč pri financiranju?
+passage.questions.8.idx:2059.0
+passage.questions.8.answers.6.text:Univerza Columbia
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:10756.0
+passage.questions.8.answers.5.text:Država
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:10755.0
+passage.questions.8.answers.4.text:Kdorkoli
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:10754.0
+passage.questions.8.answers.3.text:Okrožje
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:10753.0
+passage.questions.8.answers.2.text:Booneov finančni uradnik
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:10752.0
+passage.questions.8.answers.1.text:Okrožje Boone
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:10751.0
+passage.questions.8.answers.0.text:Univerza Stanford
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:10750.0
+passage.questions.7.question:Kdo bo glavni vir financiranja?
+passage.questions.7.idx:2058.0
+passage.questions.7.answers.5.text:Univerza Drake
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:10749.0
+passage.questions.7.answers.4.text:Dirkališče in igralnica Prairie Meadows
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:10748.0
+passage.questions.7.answers.3.text:Dirkališče Prairie Meadows
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:10747.0
+passage.questions.7.answers.2.text:Okrožje Boone
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:10746.0
+passage.questions.7.answers.1.text:Odvetnik Alan Schroeder
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:10745.0
+passage.questions.7.answers.0.text:Donovan Olson
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:10744.0
+passage.questions.6.question:Koliko različnih virov financiranja je imela v preteklosti pravna pomoč okrožja Boone?
+passage.questions.6.idx:2057.0
+passage.questions.6.answers.6.text:3.
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:10743.0
+passage.questions.6.answers.5.text:7.
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:10742.0
+passage.questions.6.answers.4.text:1.
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:10741.0
+passage.questions.6.answers.3.text:5.
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:10740.0
+passage.questions.6.answers.2.text:Več kot tri
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:10739.0
+passage.questions.6.answers.1.text:4.
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:10738.0
+passage.questions.6.answers.0.text:Več kot pet
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:10737.0
+passage.questions.5.question:Kako dolgo okrožje Boone zagotavlja pravno pomoč starejšim in revnim?
+passage.questions.5.idx:2056.0
+passage.questions.5.answers.4.text:2 leti
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:10736.0
+passage.questions.5.answers.3.text:10 let
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:10735.0
+passage.questions.5.answers.2.text:Dve leti
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:10734.0
+passage.questions.5.answers.1.text:31 let
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:10733.0
+passage.questions.5.answers.0.text:12 let
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:10732.0
+passage.questions.4.question:Kdo je sprejel približno 60 strank na leto in zastavljal primere, ki segajo od zlorab družin do bankrota, in je pravna pomoč okrožja Boone?
+passage.questions.4.idx:2055.0
+passage.questions.4.answers.4.text:Kathy Berg
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:10731.0
+passage.questions.4.answers.3.text:Alan Schroeder
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:10730.0
+passage.questions.4.answers.2.text:Okrožje Boone
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:10729.0
+passage.questions.4.answers.1.text:Donovan Olson
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:10728.0
+passage.questions.4.answers.0.text:David Boone
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:10727.0
+passage.questions.3.question:Zakaj ima vlada težave s financami?
+passage.questions.3.idx:2054.0
+passage.questions.3.answers.4.text:Odbor je julija prenehal financirati pravno službo, ker je menil, da ga okrožje ne potrebuje
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:10726.0
+passage.questions.3.answers.3.text:Povečanje zveznih davkov
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:10725.0
+passage.questions.3.answers.2.text:Vse vlade imajo težave s financami,
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:10724.0
+passage.questions.3.answers.1.text:Odbor in univerza Drake sta ustavila financiranje programa
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:10723.0
+passage.questions.3.answers.0.text:Če se pravna služba zapre, ni prepričan, kam bodo odšle njegove stranke
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:10722.0
+passage.questions.2.question:Kako se imenuje odvetnik, ki je v zadnjih dveh letih opravljal storitve?
+passage.questions.2.idx:2053.0
+passage.questions.2.answers.3.text:Suzanne Levitt
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:10721.0
+passage.questions.2.answers.2.text:Odvetnik Alan Schroeder
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:10720.0
+passage.questions.2.answers.1.text:Donovan Olson
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:10719.0
+passage.questions.2.answers.0.text:David Boone
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:10718.0
+passage.questions.13.question:Od katerega vira je pravna pomoč okrožja Boone prejela dve tretjini sredstev v zadnjih letih?
+passage.questions.13.idx:2064.0
+passage.questions.13.answers.4.text:Študenti prava
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:10786.0
+passage.questions.13.answers.3.text:Univerza Drake
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:10785.0
+passage.questions.13.answers.2.text:Dirkališče in igralnica Prairie Meadows
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:10784.0
+passage.questions.13.answers.1.text:Alan Schroeder
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:10783.0
+passage.questions.13.answers.0.text:Okrožje Boone
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:10782.0
+passage.questions.12.question:Kdo ni stopil v pomoč pri pravni pomoči okrožja Boone?
+passage.questions.12.idx:2063.0
+passage.questions.12.answers.6.text:Univerza Drake
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:10781.0
+passage.questions.12.answers.5.text:Iowa
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:10780.0
+passage.questions.12.answers.4.text:Dirkališče in igralnica Prairie Meadows
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:10779.0
+passage.questions.12.answers.3.text:Mesto Boone
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:10778.0
+passage.questions.12.answers.2.text:Okrožje Boone
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:10777.0
+passage.questions.12.answers.1.text:Anonimni donator milijonar
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:10776.0
+passage.questions.12.answers.0.text:Nihče, vključno z mestom in okrožjem, ni priskočil na pomoč pri pravni pomoči okrožja Boone
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:10775.0
+passage.questions.11.question:Kdo je ali bo zmanjšal financiranje pravne pomoči okrožja Boone?
+passage.questions.11.idx:2062.0
+passage.questions.11.answers.4.text:Univerza Drake
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:10774.0
+passage.questions.11.answers.3.text:Mesto, okrožje in univerza Drake so zmanjšali ali bodo zmanjšali financiranje pravne pomoči okrožja Boone
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:10773.0
+passage.questions.11.answers.2.text:Dirkališče in igralnica Prairie Meadows
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:10772.0
+passage.questions.11.answers.1.text:Anonimni donator milijonar
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:10771.0
+passage.questions.11.answers.0.text:Prerijski travniki
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:10770.0
+passage.questions.10.question:Katere vrste storitev ponujajo v Boone, IA?
+passage.questions.10.idx:2061.0
+passage.questions.10.answers.7.text:Davčna zastopanost
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:10769.0
+passage.questions.10.answers.6.text:Pravno zastopanje tistih, ki izpolnjujejo pogoje, ne da bi se za njihove storitve obrnili na državo
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:10768.0
+passage.questions.10.answers.5.text:Pravna pomoč
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:10767.0
+passage.questions.10.answers.4.text:Storitve otroškega varstva
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:10766.0
+passage.questions.10.answers.3.text:Pravna pomoč okrožja Boone
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:10765.0
+passage.questions.10.answers.2.text:Pravna služba
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:10764.0
+passage.questions.10.answers.1.text:Domača zloraba do bankrota
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:10763.0
+passage.questions.10.answers.0.text:Pomoč v hrani
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:10762.0
+passage.questions.1.question:Kje deluje Alan Schroeder?
+passage.questions.1.idx:2052.0
+passage.questions.1.answers.5.text:Univerza Drake
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:10717.0
+passage.questions.1.answers.4.text:Zasebna praksa
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:10716.0
+passage.questions.1.answers.3.text:Dirkališče in igralnica Prairie Meadows
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10715.0
+passage.questions.1.answers.2.text:Pravna pomoč okrožja Boone
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:10714.0
+passage.questions.1.answers.1.text:Prerijski travniki
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:10713.0
+passage.questions.1.answers.0.text:Alan Schroeder dela kot nadzornik pri pravni pomoči okrožja Boone in ima zasebno prakso kot mestni odvetnik
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10712.0
+passage.questions.0.question:Katere pravne storitve nudi pravna pomoč okrožja Boone?
+passage.questions.0.idx:2051
+passage.questions.0.answers.7.text:Zemljiški spor
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:10711.0
+passage.questions.0.answers.6.text:Stečaj
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:10710.0
+passage.questions.0.answers.5.text:Nasilje v družini
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:10709.0
+passage.questions.0.answers.4.text:Zloraba otrok
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:10708.0
+passage.questions.0.answers.3.text:Ponuja pomoč pri razvezi zakonske zveze
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:10707.0
+passage.questions.0.answers.2.text:Nudi pravno svetovanje prebivalcem z nizkimi dohodki, ki izpolnjujejo pogoje
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:10706.0
+passage.questions.0.answers.1.text:Zlorabe družine in stečaj
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:10705
+passage.questions.0.answers.0.text:Dajte nepovratna sredstva ljudem z nizkimi dohodki
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:10704
+idx:186

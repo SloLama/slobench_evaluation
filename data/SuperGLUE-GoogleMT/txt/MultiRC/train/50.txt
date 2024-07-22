@@ -1,0 +1,232 @@
+version:1.1
+passage.text:Jack in Mackenzie sta si želela, da bi se med prostim časom v šoli nekaj zabavala. Vedeli so, da ima knjižnica čas za zgodbe v ponedeljek, torek in sredo. Mati jim je rekla, da lahko vsak čas za zgodbo odidejo v knjižnico. Spakirali so avto in se odpeljali do knjižnice, pripravljeni na zabavno jutro. Ko so prispeli v zgodbo, je bilo veliko drugih otrok njihove starosti, ki so sedeli prekrižanih nog in bili pripravljeni na zgodbo dneva. Učitelj jim je rekel, da bodo brali &quot;Divjega konja&quot;. Začela je pripovedovati o Majesticu, divjem konju, ki ga ni bilo mogoče umiriti. Njegovi ljudje so ga skušali in poskusili zlomiti, toda bil je po srcu divji. Vsakič, ko so ga peljali k reki, da bi pil, je tekel naravnost v vodo in se zmočil! Pljuskal je in se igral, dokler ni bil pripravljen za vrnitev domov, kjer je spal ure in ure, ko se je obrabil.
+passage.questions.9.question:Ko so spakirali avto, kam so se šli zabavat zjutraj v torek?
+passage.questions.9.idx:605.0
+passage.questions.9.answers.3.text:Park
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:3155.0
+passage.questions.9.answers.2.text:Reka
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:3154.0
+passage.questions.9.answers.1.text:Šola
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:3153.0
+passage.questions.9.answers.0.text:Knjižnica
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3152.0
+passage.questions.8.question:Kako je bilo konju ime v zgodbi?
+passage.questions.8.idx:604.0
+passage.questions.8.answers.3.text:Veličastno
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:3151.0
+passage.questions.8.answers.2.text:Thomas
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3150.0
+passage.questions.8.answers.1.text:Konj
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:3149.0
+passage.questions.8.answers.0.text:Barney
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3148.0
+passage.questions.7.question:Kaj bi počel v zgodbi o Majesticu, vsakič ko bi ga peljali k reki, da bi pil vodo?
+passage.questions.7.idx:603.0
+passage.questions.7.answers.5.text:Tekel bi naravnost v vodo in se namočil
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:3147.0
+passage.questions.7.answers.4.text:Povejte zgodbe
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:3146.0
+passage.questions.7.answers.3.text:Spi
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:3145.0
+passage.questions.7.answers.2.text:Namočite se
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3144.0
+passage.questions.7.answers.1.text:Piti vodo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:3143.0
+passage.questions.7.answers.0.text:Pojdi v vodo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3142.0
+passage.questions.6.question:Kako je ime konju, ki bi tekel naravnost v vodo in se zmočil?
+passage.questions.6.idx:602.0
+passage.questions.6.answers.3.text:Albert
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3141.0
+passage.questions.6.answers.2.text:Veličastno
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:3140.0
+passage.questions.6.answers.1.text:Brian
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:3139.0
+passage.questions.6.answers.0.text:Major Konj
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3138.0
+passage.questions.5.question:Kaj bi Majestic naredil, ko bi ga pripeljali do reke, da bi pil?
+passage.questions.5.idx:601.0
+passage.questions.5.answers.5.text:Tekel bi naravnost v vodo in se namočil
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:3137.0
+passage.questions.5.answers.4.text:Mirno pijte vodo
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3136.0
+passage.questions.5.answers.3.text:Namočite se
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3135.0
+passage.questions.5.answers.2.text:Teči ob reki
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3134.0
+passage.questions.5.answers.1.text:Beži pred ljudmi
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3133.0
+passage.questions.5.answers.0.text:Pojdi v vodo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3132.0
+passage.questions.4.question:Kakšno zgodbo sta Jack in Mackenzie slišala v torek ob zgodbi o knjižnici?
+passage.questions.4.idx:600.0
+passage.questions.4.answers.4.text:Sneguljčica
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:3131.0
+passage.questions.4.answers.3.text:Divji konj
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3130.0
+passage.questions.4.answers.2.text:Divji Veličastni
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3129.0
+passage.questions.4.answers.1.text:Zgodba o divjem zajcu
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3128.0
+passage.questions.4.answers.0.text:Zgodba o Majesticu
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3127.0
+passage.questions.3.question:Kako sta Jack in Mackenzie prišla do knjižnice?
+passage.questions.3.idx:599.0
+passage.questions.3.answers.5.text:Z avtom
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:3126.0
+passage.questions.3.answers.4.text:Hodili so
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3125.0
+passage.questions.3.answers.3.text:Vzela jih je mama
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:3124.0
+passage.questions.3.answers.2.text:Tja sem se peljal
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:3123.0
+passage.questions.3.answers.1.text:Z avtobusom
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3122.0
+passage.questions.3.answers.0.text:Moj čoln
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3121.0
+passage.questions.2.question:Kaj bi naredil Majestic vsakič, ko bi ga peljali k vodi na pijačo, dokler ni napočil čas za domov.
+passage.questions.2.idx:598.0
+passage.questions.2.answers.5.text:Jokaj
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:3120.0
+passage.questions.2.answers.4.text:Skoči v reko
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:3119.0
+passage.questions.2.answers.3.text:Namočite se
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3118.0
+passage.questions.2.answers.2.text:Pljuskajte in igrajte
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:3117.0
+passage.questions.2.answers.1.text:Igrajte se z drugimi konji
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:3116.0
+passage.questions.2.answers.0.text:Mirno pijte vodo iz reke
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:3115.0
+passage.questions.13.question:Majestic je bil glavni lik katere zgodbe?
+passage.questions.13.idx:609.0
+passage.questions.13.answers.3.text:Divji zajec
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:3173.0
+passage.questions.13.answers.2.text:Veličastno
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:3172.0
+passage.questions.13.answers.1.text:Divji konj
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3171.0
+passage.questions.13.answers.0.text:Veličastni konj
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:3170.0
+passage.questions.12.question:Koga sta videla Jack in Mackenzie v knjižnici?
+passage.questions.12.idx:608.0
+passage.questions.12.answers.5.text:Veličastno
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:3169.0
+passage.questions.12.answers.4.text:Njihova mati
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:3168.0
+passage.questions.12.answers.3.text:Njihov najboljši prijatelj
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:3167.0
+passage.questions.12.answers.2.text:Drugi otroci
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:3166.0
+passage.questions.12.answers.1.text:Veliko otrok
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:3165.0
+passage.questions.12.answers.0.text:Drugi otroci njihove starosti
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:3164.0
+passage.questions.11.question:Kdo pripoveduje zgodbo Majestic?
+passage.questions.11.idx:607.0
+passage.questions.11.answers.3.text:Otroci
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:3163.0
+passage.questions.11.answers.2.text:Mackenzie
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:3162.0
+passage.questions.11.answers.1.text:Jack
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:3161.0
+passage.questions.11.answers.0.text:Učitelj
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:3160.0
+passage.questions.10.question:Kateri dan sta šla Jack in Mackenzie v knjižnico?
+passage.questions.10.idx:606.0
+passage.questions.10.answers.3.text:Torek
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3159.0
+passage.questions.10.answers.2.text:Danes
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3158.0
+passage.questions.10.answers.1.text:Ponedeljek
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3157.0
+passage.questions.10.answers.0.text:Petek
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:3156.0
+passage.questions.1.question:Kam gresta Jack in Mckenzie?
+passage.questions.1.idx:597.0
+passage.questions.1.answers.3.text:Zabava
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:3114.0
+passage.questions.1.answers.2.text:V knjižnico
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3113.0
+passage.questions.1.answers.1.text:Šola
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3112.0
+passage.questions.1.answers.0.text:Muzej
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:3111.0
+passage.questions.0.question:Na kateri dan v tednu je učitelj prebral &quot;Divji konj&quot;?
+passage.questions.0.idx:596
+passage.questions.0.answers.3.text:Torek
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3110.0
+passage.questions.0.answers.2.text:Sobota
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3109.0
+passage.questions.0.answers.1.text:Petek
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3108
+passage.questions.0.answers.0.text:Nedelja
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3107
+idx:50

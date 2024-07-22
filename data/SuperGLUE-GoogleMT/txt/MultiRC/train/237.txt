@@ -1,0 +1,44 @@
+version:1.1
+passage.text:Shelly si je želela psičko. Mamico in očeta je vsak dan prosila za enega. Rekla jim je, da bo pomagala skrbeti za psičko, če jo bo imela. Njena mama in očka sta se pogovorila in rekla, da bosta Shelly dobila novega psička. Mamica jo je odpeljala do pasjega kilograma, da si je lahko izbrala želenega. Vsi mladički pri pasjem funtu potrebujejo ljubeč dom. Shelly je šla v vsako kletko in vsakemu psičku pogledala v oči in se z vsakim pogovarjala. Po vsakem je mamici rekla: &quot;Ne, to ni zame.&quot; Končno je zagledala črno-belega, v katerega se je zaljubila. Vpila je: &quot;Mami, to je ta!&quot; Njena mamica je delavko prosila, naj psičko odpelje ven, da se Shelly prepriča. Shelly in psička sta se takoj zaljubila. Shelly in njena mamica sta črno-belega psička odnesla domov s seboj. Shelly je bila tako navdušena, da je govorila vse do doma. Po trdem premišljevanju je Shelly dobila ime za svojega novega psička, Spot. Zdaj ima Shelly novega najboljšega prijatelja in vsak dan se igrata skupaj, ko se Shelly vrne iz šole.
+passage.questions.3.question:Kaj je Shelly rekla, da bi naredila s psičkom, če bi ga lahko imela?
+passage.questions.3.idx:2628.0
+passage.questions.3.answers.1.text:Pomagala bi skrbeti za psičko
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:13851.0
+passage.questions.3.answers.0.text:Ubila ga bo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:13850.0
+passage.questions.2.question:Kako se je Shelly odločila, katera psička je prava zanjo?
+passage.questions.2.idx:2627.0
+passage.questions.2.answers.2.text:Shelly je šla v vsako kletko in vsakemu psičku pogledala v oči in se pogovarjala s psom
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:13849.0
+passage.questions.2.answers.1.text:Vsakega psička si je pogledala v oči in mamici povedala, ali je pravi ali ne
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:13848.0
+passage.questions.2.answers.0.text:Pes je rekel Shelly
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:13847.0
+passage.questions.1.question:Kaj je rekla Shelly, ko je našla psičko, ki ji je bila všeč?
+passage.questions.1.idx:2626.0
+passage.questions.1.answers.2.text:&quot;Mamica, to je ta!&quot;
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:13846.0
+passage.questions.1.answers.1.text:Mamica, to je ena!
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13845.0
+passage.questions.1.answers.0.text:&quot;Ne, to ni zame.&quot;
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13844.0
+passage.questions.0.question:Kako je ime novi najboljši prijateljici Shelly?
+passage.questions.0.idx:2625
+passage.questions.0.answers.2.text:Tony
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13843.0
+passage.questions.0.answers.1.text:Pika
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13842
+passage.questions.0.answers.0.text:Spot
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:13841
+idx:237

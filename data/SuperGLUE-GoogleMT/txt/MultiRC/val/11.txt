@@ -1,0 +1,94 @@
+version:1.1
+passage.text:Pet neodvisnih organizacij iz Salt Lakea, ki zagotavljajo pravne storitve revnim, etničnim manjšinam, upokojencem in invalidom, se je združilo in pridobilo stavbo v središču mesta na zahodni strani, kjer bodo imeli svoje pisarne. Novi pravni center Skupnosti na naslovu 205 N. 400 West je projekt &quot;In pravičnost za vse&quot;, ki je do tega podviga skupna kampanja zbiranja sredstev s strani zavezništva neprofitnih ponudnikov brezplačnih pravnih storitev. &quot;In pravičnost za vse&quot;, ki zbira donacije predvsem od odvetnikov in fundacij iz Utaha, je bila prva skupna kampanja zbiranja sredstev agencij za pravne storitve v državi, pravni center Skupnosti pa je prvi skupni projekt pisarn pravnih skupin javnih služb. Društvo za pravno pomoč iz Salt Lakea, Invalidski pravni center, Multikulturni pravni center, projekt prostovoljcev za starejše odvetnike in pravne službe v Utahu si bodo delili nov objekt, prejšnjo sredo pa so člani njihovih uprav organizirali ogled pravnega centra Skupnosti. gostijo uslužbenci petih agencij. Vse agencije si lahko delijo isto recepcijo in čakalnico strank. Stavba je blizu, čez cesto od West High in dve ulici od Gatewaya. Ima lastno parkirišče, kar je težko najti v središču mesta in kar predstavlja težavo tako osebju kot strankam. Z lastništvom in delitvijo stavbe in neplačilom najemnine petkrat bodo neprofitne agencije vsako leto prihranile približno 375.000 ameriških dolarjev. Moja pomočnica Charity Christenson je poudarila, da bo skupni objekt učinkovit tudi za tiste, ki potrebujejo pravne storitve. Ženski, ki obupa po zaščitnem nalogu, na primer, ne bo treba več teči po mestu, da bi našla pravo agencijo. Po ogledu smo našli Jayeja Olafsona na recepciji za piškote in piškote v prvem nadstropju. Jaye in njen mož Erik sta lastnika Tomax Technologies in sta bila prodajalca stavbe. Jaye je pojasnil, kolikšen del prenove je zgolj razkril tisto, kar je že bilo tam. Tla iz trdega lesa, leseni stropi in notranje stene iz opeke in kamna so bili skriti za oblogami in staro barvo. Obožuje stavbo in so se izselili le zato, ker je podjetje preraslo prostor. Tako so za Tomax prenovili staro stavbo podjetja Sweet Candy Company. Olafsonovi so navdušeni nad novimi lastniki. Pojasnila je, da je bila stavba kot doma, zato je bilo pomembno, kdo bo tam živel.
+passage.questions.4.question:Katerih pet skupin deluje v okviru projekta &quot;In pravičnost za vse&quot;?
+passage.questions.4.idx:110.0
+passage.questions.4.answers.3.text:Zakonska statutarna družba, Salvation Army, Salt demokratska družba, Tomax tehnologije, Erik in Co
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:520.0
+passage.questions.4.answers.2.text:Društvo za pravno pomoč iz Salt Lakea, Invalidski pravni center, Multikulturni pravni center, projekt prostovoljcev za starejše odvetnike in pravne službe v Utahu
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:519.0
+passage.questions.4.answers.1.text:Utah odvetniki in fundacije, je bila prva skupna kampanja zbiranja sredstev agencij za pravne storitve v državi, pravni center Skupnosti pa je prvi skupni projekt pisarn pravnih skupin za javne službe
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:518.0
+passage.questions.4.answers.0.text:Društvo odvetnikov v Utahu, Invalidski center, pravne uprave v Utahu, Projekt prostovoljcev za revščino in Program pravne pomoči v Utahu
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:517.0
+passage.questions.3.question:Kdo so bili prejšnji lastniki stavbe, ki so se izselili zaradi podjetja, ki je potrebovalo več prostora?
+passage.questions.3.idx:109.0
+passage.questions.3.answers.5.text:Zahodno visoko
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:516.0
+passage.questions.3.answers.4.text:Jaye in Erik
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:515.0
+passage.questions.3.answers.3.text:Podjetje Sweet Candy
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:514.0
+passage.questions.3.answers.2.text:Jaye in Eric Olafson
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:513.0
+passage.questions.3.answers.1.text:Erik in Christenson
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:512.0
+passage.questions.3.answers.0.text:Dobrodelna Christenson
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:511.0
+passage.questions.2.question:Kakšen je naslov novega pravnega centra, ki ga je kupilo pet pravnih organizacij iz Salt Lakea?
+passage.questions.2.idx:108
+passage.questions.2.answers.5.text:205 N. 400 zahodno
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:510.0
+passage.questions.2.answers.4.text:205 W. 400 sever
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:509.0
+passage.questions.2.answers.3.text:400 N. 205 zahodno
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:508.0
+passage.questions.2.answers.2.text:405 N. 200 zahodno
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:507.0
+passage.questions.2.answers.1.text:Pravni center skupnosti, Zahodna ulica
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:506
+passage.questions.2.answers.0.text:205 severna Kalifornija
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:505
+passage.questions.1.question:Katera dva področja stavbe si bo delilo vseh pet agencij?
+passage.questions.1.idx:107
+passage.questions.1.answers.3.text:Kuhinja in park
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:504.0
+passage.questions.1.answers.2.text:Recepcija in čakalnica strank
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:503.0
+passage.questions.1.answers.1.text:Pisarne in sobe za oddih
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:502
+passage.questions.1.answers.0.text:Parkirišče in kopalnice
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:501
+passage.questions.0.question:Kako bo nova stavba poleg parkiranja še pomagala neprofitnim agencijam?
+passage.questions.0.idx:106
+passage.questions.0.answers.6.text:Lahko prodajajo nove sobe in površine
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:500.0
+passage.questions.0.answers.5.text:Prištinska lokacija
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:499.0
+passage.questions.0.answers.4.text:Z lastništvom in souporabo stavbe lahko vsako leto prihranijo 375.000 USD
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:498.0
+passage.questions.0.answers.3.text:Vsako leto jim prihranite 375.000 USD in bodite učinkovitejši, če imate več storitev na enem mestu
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:497.0
+passage.questions.0.answers.2.text:Tla iz trdega lesa
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:496.0
+passage.questions.0.answers.1.text:Zmanjšana najemnina z delitvijo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:495
+passage.questions.0.answers.0.text:Oglaševanje
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:494
+idx:11

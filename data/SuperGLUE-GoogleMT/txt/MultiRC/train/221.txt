@@ -1,0 +1,306 @@
+version:1.1
+passage.text:ATLANTA, Georgia (CNN) - Na zemljišču, ki se nahaja v nebotičnikih v središču Atlante v državi Georgia, skupina prebivalcev pomanjkanje dostopa do svežih proizvodov spreminja v oživitev starih tradicij in samopopolnitev. Mestno kmetovanje je način, kako se Afroameričani lahko povežejo z zemljo, pravi Cashawn Myers iz HABESHA. Vrtovi HABESHA so eden izmed mnogih urbanih vrtov, ki rastejo po vsej državi. Na tem vrtu skupnosti, ki se nahaja na gospodarsko depresivnem območju mesta, znanem kot Mechanicsville, uspeva sadje in zelenjava. A vrt ima še večji namen. Žetev pomaga prehraniti nekatere najnujnejše člane soseske. &quot;Gre za ponovno prebujanje. Skoraj kot da gre za renesanso,&quot; pravi Cashawn Myers, direktor podjetja HABESHA Inc. &quot;Obstaja ganski pregovor, ki pravi Sankofa. Sankofa pomeni vrnitev v svojo preteklost, da se lahko premaknete naprej. Tudi če pogledate Ko smo med zasužnjevanjem prišli sem, smo bili pripeljani sem, da obdelujemo zemljo, ker smo to počeli na celini. Tako res, to počne veliko ljudi zdaj, &quot;je dejal. Myers meni, da je urbano kmetovanje način, kako se mnogi Afroameričani ponovno povezati s svojo preteklostjo. iReport.com: Pokažite nam svojo urbano kmetijo. &quot;Šli so skozi proces Sankofe in se odpravili na tisto, kar so tradicionalno počeli, to je povezavo z Zemljo, da lahko gredo naprej in rastejo,&quot; pravi. Toda vrtovi HABESHA niso edinstveni. Nekdanji profesionalni košarkar Will Allen, ki velja za enega vodilnih mestnih kmetov v državi in ustanovitelj podjetja Growing Power Inc., ocenjuje, da je v notranjosti Amerike na stotine tisoč urbanih vrtov. Mestne kmetije pomagajo nahraniti ljudi, ohranjati soseske.
+passage.questions.9.question:Kateri profesionalni športnik je povezan s Habesho?
+passage.questions.9.idx:2454.0
+passage.questions.9.answers.2.text:Will Allen
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:12961.0
+passage.questions.9.answers.1.text:Kobe Bryant
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:12960.0
+passage.questions.9.answers.0.text:Wilt Chamberlain
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:12959.0
+passage.questions.8.question:Kako je ganski pregovor povezan z mestnim kmetovanjem?
+passage.questions.8.idx:2453.0
+passage.questions.8.answers.4.text:Ker vam omogoča povezavo z zemljo
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:12958.0
+passage.questions.8.answers.3.text:Ljudem pomaga, da se povežejo z zemljo, da se lahko premikajo naprej in rastejo
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:12957.0
+passage.questions.8.answers.2.text:&quot;Šli so skozi proces Sankofe in se lotili tistega, kar so tradicionalno počeli, to je povezave z Zemljo, da lahko gredo naprej in rastejo,&quot; pravi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:12956.0
+passage.questions.8.answers.1.text:Ker gre predvsem za zdravljenje
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:12955.0
+passage.questions.8.answers.0.text:Pomaga pri prehranjevanju potrebnih družin
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:12954.0
+passage.questions.7.question:V katerem mestu mestno kmetovanje pomaga najnujnejšim prebivalcem?
+passage.questions.7.idx:2452.0
+passage.questions.7.answers.3.text:Atlanta
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:12953.0
+passage.questions.7.answers.2.text:Decatur
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:12952.0
+passage.questions.7.answers.1.text:Mechanicsville
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:12951.0
+passage.questions.7.answers.0.text:Los Angeles
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:12950.0
+passage.questions.6.question:Kako mesto Mechanicsville pomaga služiti večjemu namenu v svoji skupnosti?
+passage.questions.6.idx:2451.0
+passage.questions.6.answers.4.text:Pomaga pri izobraževanju
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:12949.0
+passage.questions.6.answers.3.text:Z obiranjem sadja in zelenjave za prehrano najnujnejših članov soseske
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:12948.0
+passage.questions.6.answers.2.text:Zagotavlja brezplačno delovno silo za skupnost
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:12947.0
+passage.questions.6.answers.1.text:Pridelki se razdelijo najbolj potrebnim družinam v skupnosti
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:12946.0
+passage.questions.6.answers.0.text:Pomaga pri prehrani najbolj potrebnih članov skupnosti
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:12945.0
+passage.questions.5.question:Zakaj nekdanji profesionalni košarkar Will Allen opisuje urbano kmetovanje z besedami: &quot;V tem trenutku je preseganje gibanja. To je bolj revolucija&quot;
+passage.questions.5.idx:2450.0
+passage.questions.5.answers.4.text:Ker ocenjuje, da je v notranjih mestih po vsej Ameriki na stotine tisoč urbanih vrtov
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:12944.0
+passage.questions.5.answers.3.text:Ker se je mestno kmetovanje šele začelo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:12943.0
+passage.questions.5.answers.2.text:Ker mestno kmetovanje ni izredno dobro in izgublja priljubljenost
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:12942.0
+passage.questions.5.answers.1.text:Ker vrtovi navdihujejo lepoto v mestih
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:12941.0
+passage.questions.5.answers.0.text:Ker je po ZDA na stotisoče urbanih vrtov
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:12940.0
+passage.questions.4.question:Zakaj Cashawn Myers občuti urbano kmetovanje kot &quot;skorajda renesanso&quot; in način za ponovno povezavo s preteklostjo in rast?
+passage.questions.4.idx:2449.0
+passage.questions.4.answers.4.text:Ker so bili črnci v prejšnjih generacijah sužnji, so afriški Američani, ki se ukvarjajo z mestnim kmetovanjem, koristen način kmetovanja
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:12939.0
+passage.questions.4.answers.3.text:Urbano kmetovanje je edinstveno
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:12938.0
+passage.questions.4.answers.2.text:Ker Afroameričanom omogoča obdelavo zemlje, kot so to storili, ko so prvič prišli v Ameriko
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:12937.0
+passage.questions.4.answers.1.text:Ker so afriške Američane pripeljali sem, da bi obdelovali zemljo, je vrnitev v preteklost način za napredovanje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:12936.0
+passage.questions.4.answers.0.text:Ker še nikoli ni bilo narejeno
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:12935.0
+passage.questions.3.question:Kakšnemu namenu služi urbano kmetovanje?
+passage.questions.3.idx:2448.0
+passage.questions.3.answers.5.text:Zagotavlja sveže pridelke za revne družine
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:12934.0
+passage.questions.3.answers.4.text:Afroameričanom omogočite, da se povežejo z zemljo
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:12933.0
+passage.questions.3.answers.3.text:Ljudem pomaga, da se ponovno povežejo s svojimi koreninami in zemljo
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:12932.0
+passage.questions.3.answers.2.text:Afroameričani naj se naučijo več o rastlinah
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12931.0
+passage.questions.3.answers.1.text:Za gojenje sadja in zelenjave ter hranjenje potrebnih
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:12930.0
+passage.questions.3.answers.0.text:Zagotavlja uporabo zemljišč, ki bi bila sicer prosta zemljišča
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:12929.0
+passage.questions.2.question:Kaj je večji namen teh vrtov?
+passage.questions.2.idx:2447.0
+passage.questions.2.answers.4.text:Da bi nahranili najnujnejše prebivalce
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:12928.0
+passage.questions.2.answers.3.text:Hranjenje lačnih družin
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:12927.0
+passage.questions.2.answers.2.text:Da bodo vrtnarji dobro izgledali v očeh mesta
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12926.0
+passage.questions.2.answers.1.text:Biti izobraževalno orodje
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12925.0
+passage.questions.2.answers.0.text:Hranjenje bogatih družin
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:12924.0
+passage.questions.17.question:Kateri izraz opisuje skupnostni vrt v Mechanicsvilleu?
+passage.questions.17.idx:2462.0
+passage.questions.17.answers.4.text:Onkraj gibanja
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:13003.0
+passage.questions.17.answers.3.text:Sankofa
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:13002.0
+passage.questions.17.answers.2.text:Ustavitev ponovnega prebujanja
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:13001.0
+passage.questions.17.answers.1.text:Mestni proizvodi
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:13000.0
+passage.questions.17.answers.0.text:Mestno kmetovanje
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:12999.0
+passage.questions.16.question:Čemu so namenjene mestne kmetije?
+passage.questions.16.idx:2461.0
+passage.questions.16.answers.6.text:Pomagati ljudem, da se povežejo z zemljo
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:12998.0
+passage.questions.16.answers.5.text:Mestno kmetovanje je način, kako se Afroameričani lahko povežejo z zemljo, mestno kmetovanje je način, da se mnogi Afroameričani ponovno povežejo s svojo preteklostjo, pomagajo hraniti nekatere najnujnejše člane soseske, pomagajo hraniti ljudi, vzdržujejo soseske
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:12997.0
+passage.questions.16.answers.4.text:Za vzdrževanje sosesk
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:12996.0
+passage.questions.16.answers.3.text:Da nahrani ljudi
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:12995.0
+passage.questions.16.answers.2.text:Da bi afroameriški narod ponovno izvedel dejanja, običajna med suženjstvom
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:12994.0
+passage.questions.16.answers.1.text:Pomagajte pri hranjenju Afroameričanov
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:12993.0
+passage.questions.16.answers.0.text:Za okras
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:12992.0
+passage.questions.15.question:So mestne kmetije pogoste?
+passage.questions.15.idx:2460.0
+passage.questions.15.answers.4.text:Pogosti so v mnogih mestih
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:12991.0
+passage.questions.15.answers.3.text:Da
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:12990.0
+passage.questions.15.answers.2.text:Ne
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:12989.0
+passage.questions.15.answers.1.text:Urbane kmetije obstajajo po vsej državi, na stotine tisoč pa v mestnih skupnostih
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:12988.0
+passage.questions.15.answers.0.text:Sploh niso pogosti
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:12987.0
+passage.questions.14.question:Kakšen je izvor pregovora, ki pomeni; se vrniti v svojo preteklost, da se lahko premaknete naprej?
+passage.questions.14.idx:2459.0
+passage.questions.14.answers.4.text:Prihaja iz Egipta
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:12986.0
+passage.questions.14.answers.3.text:Temelji na starem duhovniku sužnja
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:12985.0
+passage.questions.14.answers.2.text:Gana
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:12984.0
+passage.questions.14.answers.1.text:Prihaja iz Gane in je Sankofa
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:12983.0
+passage.questions.14.answers.0.text:To je ganski pregovor
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:12982.0
+passage.questions.13.question:Cashawn Myers, predsednik HABESHA, se sklicuje na pregovor Sankofa. Kaj pomeni postopek skozi Sankofo?
+passage.questions.13.idx:2458.0
+passage.questions.13.answers.4.text:Sankofa pomeni vrnitev v svojo preteklost s tradicionalnimi stvarmi, da lahko greste naprej in rastete
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:12981.0
+passage.questions.13.answers.3.text:Pomeni obnovo suženjstva
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:12980.0
+passage.questions.13.answers.2.text:Pomeni razmišljati
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:12979.0
+passage.questions.13.answers.1.text:Pomeni vrnitev na zemljo, da gremo naprej
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:12978.0
+passage.questions.13.answers.0.text:Pomeni vrnitev v svojo preteklost, da se lahko premaknete naprej
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:12977.0
+passage.questions.12.question:Katere akcije izvaja skupina prebivalcev, da bi Afroameričane povezala z zemljo?
+passage.questions.12.idx:2457.0
+passage.questions.12.answers.4.text:Zemljišče obdelujejo z urbanim vrtnarjenjem
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:12976.0
+passage.questions.12.answers.3.text:Postavitev prostovoljstva
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:12975.0
+passage.questions.12.answers.2.text:Mestno kmetovanje
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:12974.0
+passage.questions.12.answers.1.text:Oblikujejo banko hrane, da preskrbijo sadje in zelenjavo
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:12973.0
+passage.questions.12.answers.0.text:Mestno kmetovanje
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:12972.0
+passage.questions.11.question:Kako se Afroameričani v Atlanti krepijo zaradi omejenega dostopa do svežih pridelkov?
+passage.questions.11.idx:2456.0
+passage.questions.11.answers.5.text:Trudijo se biti zdravi
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:12971.0
+passage.questions.11.answers.4.text:Ponovno se povežejo z zemljo in gojijo lastne pridelke
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:12970.0
+passage.questions.11.answers.3.text:Izdelujejo lastne pridelke
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:12969.0
+passage.questions.11.answers.2.text:Iščejo vlado, da jim bo priskrbela hrano
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:12968.0
+passage.questions.11.answers.1.text:So mestno kmetovanje
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:12967.0
+passage.questions.11.answers.0.text:Zagotavljajo hrano najrevnejšim družinam v njihovi soseski
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:12966.0
+passage.questions.10.question:Poimenujte večje mesto, kjer je vrt HABESHA?
+passage.questions.10.idx:2455.0
+passage.questions.10.answers.3.text:Atlanta
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:12965.0
+passage.questions.10.answers.2.text:Philadelphia
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:12964.0
+passage.questions.10.answers.1.text:New York
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:12963.0
+passage.questions.10.answers.0.text:Pittsburgh
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:12962.0
+passage.questions.1.question:Kakšno je stališče nekdanjega profesionalnega košarkarja Willa Allena do urbanega kmetovanja?
+passage.questions.1.idx:2446.0
+passage.questions.1.answers.4.text:Velja za enega vodilnih državnih kmetov v državi in ustanovitelj podjetja Growing Power Inc., ocenjuje, da je v notranjih mestih po vsej Ameriki na stotine tisoč urbanih vrtov. Mestne kmetije pomagajo hraniti ljudi, ohranjati soseske »&quot; V tem trenutku ni več mogoče premikati. To je bolj kot revolucija, &quot;pravi Allen
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:12923.0
+passage.questions.1.answers.3.text:Zdi se mu, da &quot;v tem trenutku ni več gibanja.&quot;
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:12922.0
+passage.questions.1.answers.2.text:Meni, da je lažno
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12921.0
+passage.questions.1.answers.1.text:Pravi, da je to &quot;bolj kot revolucija&quot;.
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:12920.0
+passage.questions.1.answers.0.text:Pravi, da je v Ameriki le nekaj urbanih vrtov
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12919.0
+passage.questions.0.question:Kaj je Sankofa in kaj to pomeni?
+passage.questions.0.idx:2445
+passage.questions.0.answers.3.text:Nahranite najnujnejše člane soseske
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:12918.0
+passage.questions.0.answers.2.text:Sankofa je ganski pregovor, ki pomeni vrnitev v svojo preteklost, da se lahko premaknete naprej
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:12917.0
+passage.questions.0.answers.1.text:To je ganski pregovor, ki pomeni vrnitev v preteklost, da se lahko premaknete naprej
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:12916
+passage.questions.0.answers.0.text:Pomeni vrnitev v svojo preteklost, da se lahko premaknete naprej
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:12915
+idx:221

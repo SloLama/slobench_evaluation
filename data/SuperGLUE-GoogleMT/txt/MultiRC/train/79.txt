@@ -1,0 +1,188 @@
+version:1.1
+passage.text:Ko sem vstopil v prelaz, so se ogromne skale začele zapirati v vsej svoji divji, skrivnostni impresivnosti, ko se je nenadoma, ko sem vneto gledal nase, na vidiku zasledila siva dlakava bitja, ki so se mi zataknila nekakšno gibanje brez kosti, kot medvedi. Nikoli se ne obrnem nazaj, čeprav sem pogosto tako nagnjen, in v tem primeru se je v takem okolju vse zdelo izjemno neugodno za mirno sprejemanje tako mračnega podjetja. Zatirajoč svoj strah, sem kmalu ugotovil, da so bila nenavadna bitja, čeprav so tako poraščena kot medvedi in ukrivljena kot vrhovi borov, dovolj pokončna, da so pripadala naši lastni vrsti. Izkazalo se je, da niso nič bolj grozljivi kot mono indijanci, oblečeni v kože modrih zajcev. Tako moški kot ženske so vztrajno prosili za viski in tobak in zdeli so se tako navajeni zanikanja, da jih je bilo nemogoče prepričati, da jih nimam. Zdi se, da razen imen teh dveh civilizacijskih produktov ne razumeta niti besede angleško; toda pozneje sem izvedel, da se odpravljajo v dolino Yosemite, da se nekaj časa pogostijo s postrvmi in si nabavijo tovor želodov, ki jih bodo skozi prelaz odpeljali nazaj do svojih koč na obali Mono jezera.
+passage.questions.9.question:Zakaj se je nagnil k vrnitvi nazaj?
+passage.questions.9.idx:927.0
+passage.questions.9.answers.2.text:Bil je nagnjen, da se je vrnil nazaj, ker se je na vidiku pojavila siva dlakava bitja, ki so se kot nekakšna medveda gibanja brez kosti vrtela proti njemu
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:4823.0
+passage.questions.9.answers.1.text:Strah
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4822.0
+passage.questions.9.answers.0.text:Bolečine v vratu
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4821.0
+passage.questions.8.question:Koga je pripovedovalec spoznal na svoji poti in kaj naj bi počel?
+passage.questions.8.idx:926.0
+passage.questions.8.answers.3.text:Mono indijski
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:4820.0
+passage.questions.8.answers.2.text:Indija
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4819.0
+passage.questions.8.answers.1.text:Kitajska
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4818.0
+passage.questions.8.answers.0.text:Srečal je Mono Indijance, ki so hodili v dolino po postrvi in želodu
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4817.0
+passage.questions.7.question:Kam je vodila podaja?
+passage.questions.7.idx:925.0
+passage.questions.7.answers.4.text:Himalaje
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:4816.0
+passage.questions.7.answers.3.text:Prelaz vodi v dolino Yosemite
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:4815.0
+passage.questions.7.answers.2.text:Obala mono jezera
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4814.0
+passage.questions.7.answers.1.text:Indija
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4813.0
+passage.questions.7.answers.0.text:Kitajska
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4812.0
+passage.questions.6.question:Kako je lahko ugotovil, da mono Indijanci ne razumejo angleško?
+passage.questions.6.idx:924.0
+passage.questions.6.answers.2.text:Njihova obleka in otožnost
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:4811.0
+passage.questions.6.answers.1.text:Ker jih je skušal prepričati, da nima viskija ali tobaka
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:4810.0
+passage.questions.6.answers.0.text:Povedali so
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4809.0
+passage.questions.5.question:Kaj je pripovedovalec razmišljal, da bi počel, ko so se Indijanci prvič obrnili nanje in kako se je počutil?
+passage.questions.5.idx:923.0
+passage.questions.5.answers.3.text:Razmišljal je, da bi se vrnil nazaj, ker se je bal
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:4808.0
+passage.questions.5.answers.2.text:Pobegnil stran
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4807.0
+passage.questions.5.answers.1.text:Potlačil njegov strah
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4806.0
+passage.questions.5.answers.0.text:Poskušal jih je ubiti
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4805.0
+passage.questions.4.question:Kaj so si neznanci želeli in v čem so bili oblečeni?
+passage.questions.4.idx:922.0
+passage.questions.4.answers.6.text:Hočejo viski in tobak
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:4804.0
+passage.questions.4.answers.5.text:Seks
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:4803.0
+passage.questions.4.answers.4.text:Želeno zlato
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4802.0
+passage.questions.4.answers.3.text:Maske za obrabo
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4801.0
+passage.questions.4.answers.2.text:Nosi kožo žajblja
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4800.0
+passage.questions.4.answers.1.text:Jakne
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4799.0
+passage.questions.4.answers.0.text:Želeli so tobak in viski, na sebi pa so imeli kože žajblja,
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4798.0
+passage.questions.3.question:Kateri dve angleški besedi sta poznali?
+passage.questions.3.idx:921.0
+passage.questions.3.answers.1.text:Hvala
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4797.0
+passage.questions.3.answers.0.text:Viski in tobak
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4796.0
+passage.questions.2.question:Katera dva izdelka so lahko poimenovali mono indijanci?
+passage.questions.2.idx:920.0
+passage.questions.2.answers.4.text:Poimenovali so lahko samo viski in tobak
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:4795.0
+passage.questions.2.answers.3.text:Hrana
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4794.0
+passage.questions.2.answers.2.text:Zlato
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4793.0
+passage.questions.2.answers.1.text:Droge
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:4792.0
+passage.questions.2.answers.0.text:Viski in tobak
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4791.0
+passage.questions.12.question:Kakšne barve so bile zajčje kože?
+passage.questions.12.idx:930.0
+passage.questions.12.answers.5.text:Zelena
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:4836.0
+passage.questions.12.answers.4.text:rjav
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:4835.0
+passage.questions.12.answers.3.text:rdeča
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:4834.0
+passage.questions.12.answers.2.text:Žajbljevi zajci
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:4833.0
+passage.questions.12.answers.1.text:siva
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:4832.0
+passage.questions.12.answers.0.text:Rumena
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:4831.0
+passage.questions.11.question:Kdo je potoval v dolino Yosemite?
+passage.questions.11.idx:929.0
+passage.questions.11.answers.2.text:Skupina Mono Indijancev
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:4830.0
+passage.questions.11.answers.1.text:Kitajska
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4829.0
+passage.questions.11.answers.0.text:Medved
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4828.0
+passage.questions.10.question:Zakaj se je vse zdelo mračno?
+passage.questions.10.idx:928.0
+passage.questions.10.answers.3.text:Ker so ga skale obdajale in so se mu strašna bitja kot medvedi premikala
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:4827.0
+passage.questions.10.answers.2.text:Duh
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4826.0
+passage.questions.10.answers.1.text:Živali
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4825.0
+passage.questions.10.answers.0.text:Divja okolica
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4824.0
+passage.questions.1.question:Iz katerega plemena so bili moški in ženske?
+passage.questions.1.idx:919.0
+passage.questions.1.answers.3.text:Mono
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4790.0
+passage.questions.1.answers.2.text:Kitajska
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4789.0
+passage.questions.1.answers.1.text:Mono inidans
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:4788.0
+passage.questions.1.answers.0.text:Pirati
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:4787.0
+passage.questions.0.question:Kaj so bila čudna bitja?
+passage.questions.0.idx:918
+passage.questions.0.answers.2.text:Zmaj
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4786.0
+passage.questions.0.answers.1.text:Tiger
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4785
+passage.questions.0.answers.0.text:Mono Indijanci
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4784
+idx:79

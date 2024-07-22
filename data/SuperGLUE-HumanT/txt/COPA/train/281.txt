@@ -1,0 +1,6 @@
+﻿choice1:Tekmovalec je vodil.
+choice2:Tekmovalec je pritisnil na gumb.
+idx:281
+label:1
+premise:Voditelj oddaje je prosil tekmovalca za odgovor.
+question:cause

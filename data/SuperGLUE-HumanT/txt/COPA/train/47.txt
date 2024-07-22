@@ -1,0 +1,6 @@
+﻿choice1:Pacient je krvavel.
+choice2:Pacient je postal napet.
+idx:47
+label:1
+premise:Sestra je pripravila injekcijo.
+question:effect

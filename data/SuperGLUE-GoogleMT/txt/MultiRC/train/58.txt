@@ -1,0 +1,151 @@
+version:1.1
+passage.text:(CNN) - Jo-Wilfried Tsonga je v sredo končal upanje Rogerja Federerja, da bo osvojil rekordno enakovredni sedmi naslov v Wimbledonu, ko je 12. francoski nosilec organiziral osupljiv boj za uvrstitev v polfinale. Zdi se, da je Federer križaril v zadnjih štirih, potem ko je dobil prva dva niza, toda Tsonga je na 179 tekmah za grand slam s tega izhodišča dosegel prvi poraz na tretjem mestu Švice. Šele 16-kratni prvak za grand slam je šele tretjič v bleščeči karieri 29-letnice predal dvosmerno prednost. Tsonga, ki je zasedel 19. mesto na svetu, je na sredinskem igrišču zmagal s 3-6 6-7 (3-7) 6-4 6-4 6-4, s čimer je služil ljubezni, ko si je prislužil spopad z drugim nosilcem Novakom Đokovićem. Srb, ki je v finalu odprtega prvenstva Avstralije leta 2008 premagal Tsongo, je končal sanjski tek Avstralskega 18-letnega Bernarda Tomica. Tsonga je Federerja šele drugič v šestih srečanjih premagal Federerja, prvič na travi. &quot;Bilo je neverjetno. Igral sem neverjetno. Nikoli se ni enostavno vrniti proti Rogerju. Tako sem vesel, to je noro,&quot; je 26-letnik povedal novinarjem po prvem uvrstitvi v polfinale v Wimbledonu. &quot;Je največji prvak v športu. Toliko je dosegel in je najboljši igralec na svetu. Neverjetno je bilo, da sta se dva niza in se vrnila. Res sem dobro služil. Proti Đokoviću bom moral izstopiti in narediti spet isto. &quot; Federer je zdaj dve leti zapored izgubil v četrtfinalu, leta 2010 ga je premagal morebitni podprvak Tomas Berdych. &quot;Jo je igral odlično. Res od začetka do konca se ne spomnim, da bi videl točko brejka, potem ko sem ga zlomil v prva tekma, &quot;je dejal Federer.
+passage.questions.9.question:Katera dva igralca sta v četrtfinalu premagala Federerja?
+passage.questions.9.idx:709.0
+passage.questions.9.answers.4.text:Novak Đoković
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:3709.0
+passage.questions.9.answers.3.text:Jo-Wilfried Tsonga
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:3708.0
+passage.questions.9.answers.2.text:Tomas Berdych
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3707.0
+passage.questions.9.answers.1.text:Đokovič
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3706.0
+passage.questions.9.answers.0.text:Tsonga
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3705.0
+passage.questions.8.question:Kdo je bil teniški igralec, ki je premagal Federerja?
+passage.questions.8.idx:708.0
+passage.questions.8.answers.2.text:Tomas Berdych
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3704.0
+passage.questions.8.answers.1.text:Đokovič
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:3703.0
+passage.questions.8.answers.0.text:Jo-Wilfried Tsonga
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:3702.0
+passage.questions.7.question:Kateri srbski igralec je na OP Avstralije leta 2008 premagal Tsongo?
+passage.questions.7.idx:707.0
+passage.questions.7.answers.2.text:Tomas Berdych
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3701.0
+passage.questions.7.answers.1.text:Roger Federer
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:3700.0
+passage.questions.7.answers.0.text:Novak Đoković
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3699.0
+passage.questions.6.question:Koga je Tsonga premagal, da si je prislužil spopad z drugim nosilcem Novakom Đokovićem?
+passage.questions.6.idx:706.0
+passage.questions.6.answers.2.text:Tomas Berdych
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3698.0
+passage.questions.6.answers.1.text:Roger Federer
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3697.0
+passage.questions.6.answers.0.text:Bernard Tomic
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3696.0
+passage.questions.5.question:Kateri teniški igralec je šele tretjič v svoji karieri predal dvosmerno vodstvo?
+passage.questions.5.idx:705.0
+passage.questions.5.answers.2.text:Roger Federer
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3695.0
+passage.questions.5.answers.1.text:Jo-Wilfried Tsonga
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3694.0
+passage.questions.5.answers.0.text:Jo-Winfried
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3693.0
+passage.questions.4.question:Kako se je imenoval turnir?
+passage.questions.4.idx:704.0
+passage.questions.4.answers.2.text:Finale odprtega prvenstva Avstralije
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3692.0
+passage.questions.4.answers.1.text:Wimbledon
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3691.0
+passage.questions.4.answers.0.text:Odprto prvenstvo Avstralije
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3690.0
+passage.questions.3.question:Kdo je v finalu Australian Opena 2008 premagal Tsongo?
+passage.questions.3.idx:703.0
+passage.questions.3.answers.2.text:Bernard Tomic
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3689.0
+passage.questions.3.answers.1.text:Roger Federer
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3688.0
+passage.questions.3.answers.0.text:Novak Đoković
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3687.0
+passage.questions.2.question:Kdo se je vrnil proti Federerju?
+passage.questions.2.idx:702.0
+passage.questions.2.answers.3.text:Novak Djokovic in BernRd Tomic
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3686.0
+passage.questions.2.answers.2.text:Jo-Wilfried Tsonga
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:3685.0
+passage.questions.2.answers.1.text:Novak Đoković
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:3684.0
+passage.questions.2.answers.0.text:Tsonga
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:3683.0
+passage.questions.10.question:Kdo je bil teniški igralec, ki je izgubil proti Jo-Wilfriedu Tsongi?
+passage.questions.10.idx:710.0
+passage.questions.10.answers.3.text:Federer
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3713.0
+passage.questions.10.answers.2.text:Đokovič
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3712.0
+passage.questions.10.answers.1.text:Roger Federer
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:3711.0
+passage.questions.10.answers.0.text:Bernard Tomic
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:3710.0
+passage.questions.1.question:Poraz Federerja s Tsongo je bil prva izguba iz dveh nizov prednosti na koliko tekmah za grand slam in kolikokrat je Roger Federer izgubil s te iste točke?
+passage.questions.1.idx:701.0
+passage.questions.1.answers.5.text:Odlomek ne omenja dvojice prednosti
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:3682.0
+passage.questions.1.answers.4.text:Najprej na 179 tekmah za grand slam in tretji poraz Rogerja Federerja iz dveh nizov prednosti
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:3681.0
+passage.questions.1.answers.3.text:179 in 2
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3680.0
+passage.questions.1.answers.2.text:Šestnajst tekem za grand slam
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3679.0
+passage.questions.1.answers.1.text:179 in 1
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3678.0
+passage.questions.1.answers.0.text:179 in 3
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:3677.0
+passage.questions.0.question:S katerimi igralci je Roger Federer izgubil na zaporednih tekmah polfinala Wimbledona?
+passage.questions.0.idx:700
+passage.questions.0.answers.4.text:Jo-Wilfried Tsonga in Bernard Tomic
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3676.0
+passage.questions.0.answers.3.text:Novak Đoković in Bernard Tomić
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3675.0
+passage.questions.0.answers.2.text:Jo-Wilfried Tsonga in Thomas Berdych
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3674.0
+passage.questions.0.answers.1.text:Odlomek ne govori o Federerjevem porazu na polfinalnih tekmah
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3673
+passage.questions.0.answers.0.text:Jo-Wilfried Tsonga in Tomas Berdych
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3672
+idx:58

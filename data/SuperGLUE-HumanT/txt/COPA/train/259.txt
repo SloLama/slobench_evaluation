@@ -1,0 +1,6 @@
+choice1:Moja družina je organizirala pogreb.
+choice2:Moja družina je organizirala obletnico.
+idx:259
+label:0
+premise:Moja babica je umrla.
+question:effect

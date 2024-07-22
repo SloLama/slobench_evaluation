@@ -1,0 +1,6 @@
+choice1:Deklica je pojedla piškote, ki jih je spekla njena mama.
+choice2:Deklica je utrgala rožo za svojo mamo.
+idx:220
+label:1
+premise:Deklica je hotela osrečiti svojo mamo.
+question:effect

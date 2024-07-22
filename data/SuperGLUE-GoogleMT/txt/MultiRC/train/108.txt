@@ -1,0 +1,152 @@
+version:1.1
+passage.text:Pismo z dopisom še vedno nosi ime okrožja Bexar Legal Aid, čeprav organizacija ni več. Teksaška podeželska pravna pomoč - znana po neustrašnem in včasih kontroverznem zagovoru najrevnejših revnih - je prejšnji teden prevzela še štiri korporacije, ki so služile pravnim potrebam revnih v jugozahodnem Teksasu, vključno s tisto v okrožju Bexar. Nova organizacija za pravno pomoč v 68 okrožjih še ni imenovana in se razteza od El Pasa do Corpus Christi, Harlingena do Austina. Vodja supervelike odvetniške družbe ima velike načrte. &quot;Bolj kot število primerov, ki jih zaključimo, me zanima, kaj lahko kot zagovorniki storimo za reševanje resnih težav revščine,&quot; je dejal David Hall, izvršni direktor TRLA. V dolini Rio Grande so Hallovi odvetniki ustanovili ločene skupine za pomoč lastnikom in prebivalcem malih podjetij s posojili z nizkimi obrestmi in pravnim zastopanjem. Imajo tudi pravno službo, ki pomaga delavcem migrantom iz Teksasa v Kentucky. Zdaj je Hall dejal, da želi storiti storitve za revne učinkovitejše tako, da sodeluje s študenti prava, ki bodo obravnavali manj zapletene pravne zadeve, kar bo omogočilo, da bodo pooblaščeni odvetniki na sodišču odnašali bolj &quot;učinkovite&quot; primere. &quot;Kar zadeva moramo obravnavati čim bolj učinkovito, s čimer izkoristimo čas odvetnika, ki vstopi tja, in povečamo število ljudi, ki jim lahko hkrati pomagajo,&quot; je dejal Hall. Njegov načrt je, da 110 odvetnikov postavi v ekipe, ki se ukvarjajo s specializiranimi pravnimi vprašanji. Želi razširiti pravno kliniko, ki jo že ima s pravno fakulteto Univerze St. Mary, da bi vključila študente na pravni fakulteti Univerze v Teksasu. Študenti prava pri razgovoru s potencialnimi strankami St. Mary jim pomagajo pri izpolnjevanju pravnih dokumentov in se javljajo na telefone za pravno telefonsko linijo, s čimer osvobodijo odvetnike TRLA za zapletene primere, je dejal Hall. Do konca septembra je Hall dejal, da bodo vsi odvetniki, ki delajo z revnimi na območju 68 okrožij, postavljeni v isto računalniško omrežje, da bodo lahko predali primere najboljšim razpoložljivim odvetnikom. Lani so se člani upravnega odbora nekdanje pravne pomoči osrednjega Teksasa in okrožja Bexar združenju upirali, češ da so bile združitve opravljene nezakonito in brez prispevka članov upravnega odbora. Trdili so tudi, da je Hallov sporni slog oviral njihovo zmožnost pridobivanja sredstev iz kongresa. TRLA je sprožila polemike leta 1996, ko so njeni odvetniki z glasovanjem v odsotnosti izpodbijali pravice 800 vojaških uslužbencev, da volijo na volitvah v okrožju Val Verde, potem ko je nekdanji član Ku Klux Klan osvojil mesto okrožnega komisarja. Brendan Gill, nekdanji izvršni direktor skupine Bexar County, je dejal, da je od takrat združitev videl kot pozitivno potezo Južnega Teksasa. &quot;Vedno sem vedel, da je treba združiti dobre točke, tako kot sem vedel, da obstajajo slabe točke,&quot; je dejal Gill.
+passage.questions.9.question:Kakšne so funkcije Hallovih podjetij v dolini Rio Grand?
+passage.questions.9.idx:1283.0
+passage.questions.9.answers.4.text:Pomoč lastnikom in prebivalcem malih podjetij s posojili z nizkimi obrestmi in pravnim zastopanjem
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:6582.0
+passage.questions.9.answers.3.text:Zagotavljanje pravnih storitev za pravne osebe
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:6581.0
+passage.questions.9.answers.2.text:Reševanje resnih problemov revščine
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:6580.0
+passage.questions.9.answers.1.text:Pomoč pri posojilih z nizkimi obrestmi, pravni zastopnik za revne in delujejo kot pravna veja za delavce migrante iz Teksasa in Kentuckyja
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:6579.0
+passage.questions.9.answers.0.text:Lastnikom majhnih podjetij in prebivalcem pomagajte z posojili z nizkimi obrestmi in pravnim zastopanjem, pomagajte delavcem migrantom iz Teksasa v Kentucky
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:6578.0
+passage.questions.8.question:Kdo želi razširiti pravno kliniko, ki jo že ima, s pravno fakulteto St. Mary&#39;s University?
+passage.questions.8.idx:1282.0
+passage.questions.8.answers.3.text:David Hall
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:6577.0
+passage.questions.8.answers.2.text:Člani upravnega odbora za nekdanjo pravno pomoč osrednjega Teksasa in okrožja Bexar
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:6576.0
+passage.questions.8.answers.1.text:Brendan Gill, izvršni direktor skupine Bexar
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:6575.0
+passage.questions.8.answers.0.text:Člani upravnega odbora
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:6574.0
+passage.questions.7.question:Kdo se je upiral združitvi in zakaj?
+passage.questions.7.idx:1281.0
+passage.questions.7.answers.4.text:Pravna pomoč osrednjega Teksasa in pravna pomoč okrožja Bexar, ker je oteževalo pridobivanje sredstev od kongresa
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:6573.0
+passage.questions.7.answers.3.text:Člani upravnega odbora za nekdanjo pravno pomoč osrednjega Teksasa in okrožja Bexar County, ker so rekli, da so bile združitve opravljene nezakonito in brez njihovega vložka
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:6572.0
+passage.questions.7.answers.2.text:Kongres, združitev bi zahtevala dodatna sredstva
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:6571.0
+passage.questions.7.answers.1.text:Člani upravnega odbora za nekdanjo pravno pomoč osrednjega Teksasa in okrožja Bexar County so to opravili brez njihove odobritve
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:6570.0
+passage.questions.7.answers.0.text:Odvetniki, ki delajo z revnimi na območju 68 okrožij, ker je Hallov sporni slog oviral njihovo zmožnost zbiranja sredstev iz kongresa
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:6569.0
+passage.questions.6.question:Kdo ima pravno službo, ki pomaga delavcem migrantom iz Teksasa v Kentucky?
+passage.questions.6.idx:1280.0
+passage.questions.6.answers.4.text:David Hall
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:6568.0
+passage.questions.6.answers.3.text:Ločene skupine, ki so jih ustanovili Hallovi odvetniki
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:6567.0
+passage.questions.6.answers.2.text:Pravna pomoč za podeželje v Teksasu
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:6566.0
+passage.questions.6.answers.1.text:Brendan Gill, izvršni direktor skupine Bexar
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:6565.0
+passage.questions.6.answers.0.text:Hall, izvršni direktor Teksaške ruralne pravne pomoči
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:6564.0
+passage.questions.5.question:Koliko odvetnikov naj bi pripeljali na krov in zajeli katere pravne fakultete?
+passage.questions.5.idx:1279.0
+passage.questions.5.answers.5.text:68 odvetnikov, ki zajemajo pravno fakulteto Univerze St. Mary&#39;s in pravno fakulteto Univerze v Teksasu
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:6563.0
+passage.questions.5.answers.4.text:220
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:6562.0
+passage.questions.5.answers.3.text:110 odvetnikov, ki zajemata pravno fakulteto Univerze St. Mary in pravno fakulteto Univerze v Teksasu
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:6561.0
+passage.questions.5.answers.2.text:110 odvetnikov, vključno s pravno fakulteto St. Mary&#39;s in University of Texas
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:6560.0
+passage.questions.5.answers.1.text:68
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:6559.0
+passage.questions.5.answers.0.text:110
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:6558.0
+passage.questions.4.question:Kakšnim delavcem pomaga TRLA?
+passage.questions.4.idx:1278.0
+passage.questions.4.answers.2.text:Visoko usposobljeni delavci
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:6557.0
+passage.questions.4.answers.1.text:Delavci migranti
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:6556.0
+passage.questions.4.answers.0.text:Najrevnejši med revnimi
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:6555.0
+passage.questions.3.question:Kdo načrtuje, da bo 110 odvetnikov postavilo v ekipe, ki se bodo ukvarjale s specializiranimi pravnimi vprašanji?
+passage.questions.3.idx:1277.0
+passage.questions.3.answers.4.text:David Hall
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:6554.0
+passage.questions.3.answers.3.text:Pravna pomoč za podeželje v Teksasu
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:6553.0
+passage.questions.3.answers.2.text:Brendan Gill, izvršni direktor skupine Bexar
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:6552.0
+passage.questions.3.answers.1.text:Hallov načrt
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:6551.0
+passage.questions.3.answers.0.text:Hall, izvršni direktor Teksaške ruralne pravne pomoči
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:6550.0
+passage.questions.2.question:Kako je prvo ime direktorja, katerega odvetniki so ustanovili ločene skupine za pomoč lastnikom majhnih podjetij in prebivalcem pri posojilih z nizkimi obrestmi v dolini Rio Grande?
+passage.questions.2.idx:1276.0
+passage.questions.2.answers.3.text:dvorana
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:6549.0
+passage.questions.2.answers.2.text:Gill
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:6548.0
+passage.questions.2.answers.1.text:David
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:6547.0
+passage.questions.2.answers.0.text:Daniel
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6546.0
+passage.questions.1.question:Koliko okrožij služi Teksaška pravna pomoč za podeželje?
+passage.questions.1.idx:1275.0
+passage.questions.1.answers.2.text:34
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:6545.0
+passage.questions.1.answers.1.text:68
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:6544.0
+passage.questions.1.answers.0.text:110
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:6543.0
+passage.questions.0.question:Kdo je trdil, da je Hallov sporni slog oviral njihovo zmožnost pridobivanja sredstev iz kongresa?
+passage.questions.0.idx:1274
+passage.questions.0.answers.2.text:Člani upravnega odbora za nekdanjo pravno pomoč osrednjega Teksasa in okrožja Bexar
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:6542.0
+passage.questions.0.answers.1.text:Študenti prava pri St. Mary&#39;s
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:6541
+passage.questions.0.answers.0.text:Brendan Gill, izvršni direktor skupine Bexar
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:6540
+idx:108

@@ -1,0 +1,60 @@
+version:1.1
+passage.text:863. SESTAVINE. - Ostanki kuhane telečje glave, 1-1 / 2 litra alkoholne pijače, v kateri je bila kuhana glava, 1 rezilo tolkle mace, 1 čebula mlet, kup slanih zelišč, sol in beli poper po okusu, zgostitev masla in moke, rumenjaki 2 jajc, 1 žlica limoninega soka, kroglice iz kaše. _Mode _.-- Odstranite vse kosti z glave in meso narežite na lepe kvadratne koščke. V ponvico damo 1–2 litra tekočine, v kateri smo kuhali, z macelo, čebulo, zelišči in začimbami v zgornjem razmerju; pustimo, da 3/4 ure nežno vre, nato precedimo in damo v meso. Ko je povsem vroče, omako zgostite z malo masla, povaljanega v moki, in tik pred jedjo fricasseeja dajte stepene rumenjake jajc in limoninega soka; vendar bodite še posebej pozorni, ko dodate dve zadnji sestavini, da omaka ne zavre ali pa se bo zavila. Okrasite s kroglicami iz forme in zvitimi rezinami pečene slanine. Da bi zagotovili gladko omako, je dobro najprej meso pospraviti, nato pa v omako dodati jajca: ko so ta nastavljena, lahko omako prelijemo po mesu.
+passage.questions.2.question:Ali je meso telečje glave še vedno v loncu v času, ko je izrečena izreka 5?
+passage.questions.2.idx:4051.0
+passage.questions.2.answers.6.text:Ne, meso telečje glave ni hkrati v loncu, ko je izrečena kazen
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:21485.0
+passage.questions.2.answers.5.text:Ne, najprej bi morali pospraviti meso
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:21484.0
+passage.questions.2.answers.4.text:Delno
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:21483.0
+passage.questions.2.answers.3.text:Da, meso telečje glave je hkrati v loncu, ko je izrečena kazen
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:21482.0
+passage.questions.2.answers.2.text:Da
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:21481.0
+passage.questions.2.answers.1.text:Ne
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:21480.0
+passage.questions.2.answers.0.text:Nadomešča ga pečena slanina
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21479.0
+passage.questions.1.question:Ali je meso odstranjeno iz kosti pred vrenjem ali po njem?
+passage.questions.1.idx:4050.0
+passage.questions.1.answers.4.text:Brez vrenja
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:21478.0
+passage.questions.1.answers.3.text:Meso odstranimo iz kosti pred vrenjem
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21477.0
+passage.questions.1.answers.2.text:Po
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:21476.0
+passage.questions.1.answers.1.text:Po vrenju
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:21475.0
+passage.questions.1.answers.0.text:Meso po vrenju odstranimo iz kosti
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21474.0
+passage.questions.0.question:Je vrenje v stavku 4 narejeno pred ali po tem, ko je teleta prekuhana?
+passage.questions.0.idx:4049
+passage.questions.0.answers.4.text:Med vrenjem
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:21473.0
+passage.questions.0.answers.3.text:Ko je teleta prekuhana
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:21472.0
+passage.questions.0.answers.2.text:Preden je teleta prekuhana
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:21471.0
+passage.questions.0.answers.1.text:Prej
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21470
+passage.questions.0.answers.0.text:Po
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21469
+idx:352

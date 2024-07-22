@@ -1,0 +1,191 @@
+version:1.1
+passage.text:Pomagal je sionističnim vzrokom. Einstein je bil vodilni pri oblikovanju Hebrejske univerze v Jeruzalemu, ki se je odprla leta 1925 in je bila med prvim svetom guvernerjev. Pred tem, leta 1921, ga je biokemik in predsednik Svetovne sionistične organizacije Chaim Weizmann prosil za pomoč pri zbiranju sredstev za načrtovano univerzo. Predložil je tudi različne predloge glede začetnih programov. Med temi je svetoval najprej ustanovitev Kmetijskega inštituta, da bi uredili nepozidana zemljišča. Temu bi moral slediti kemijski inštitut in inštitut za mikrobiologijo za boj proti različnim epidemijam, kot je malarija, ki jo je označil za &quot;zlo&quot;, ki spodkopava tretjino razvoja države. Pomembna je bila tudi ustanovitev inštituta za orientalistiko, ki bi vključeval jezikovne tečaje v hebrejščini in arabščini za znanstveno raziskovanje države in njenih zgodovinskih spomenikov. Chaim Weizmann je pozneje postal prvi izraelski predsednik. Po njegovi smrti novembra 1952 in na zahtevo Ezriela Carlebacha je premier David Ben-Gurion Einsteinu ponudil mesto izraelskega predsednika, večinoma slovesno mesto. Ponudbo je predstavil izraelski veleposlanik v Washingtonu Abba Eban, ki je pojasnil, da ponudba &quot;uteleša najgloblje spoštovanje, ki ga judovsko ljudstvo lahko izrazi pri katerem koli od svojih sinov&quot;. Einstein je to zavrnil in v svojem odgovoru zapisal, da je &quot;globoko ganjen&quot; in &quot;hkrati žalosten in sram&quot;, da tega ne more sprejeti.
+passage.questions.9.question:Kdo je umrl prvi predsednik Izraela, komu je bila zapored ponujena služba?
+passage.questions.9.idx:2774.0
+passage.questions.9.answers.5.text:Einstein
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:14641.0
+passage.questions.9.answers.4.text:David Ben-Gurion
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:14640.0
+passage.questions.9.answers.3.text:Abba Eban
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:14639.0
+passage.questions.9.answers.2.text:Judovsko ljudstvo
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:14638.0
+passage.questions.9.answers.1.text:Ezriel Carlebach
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:14637.0
+passage.questions.9.answers.0.text:Washington
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:14636.0
+passage.questions.8.question:Kateri so pomembni položaji Chaima Weizmana v izraelski / sionistični zgodovini?
+passage.questions.8.idx:2773.0
+passage.questions.8.answers.4.text:Častni predsednik Izraela
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:14635.0
+passage.questions.8.answers.3.text:Prvi predsednik Izraela
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:14634.0
+passage.questions.8.answers.2.text:Drugi predsednik Izraela
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:14633.0
+passage.questions.8.answers.1.text:Predsednik Izraela
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:14632.0
+passage.questions.8.answers.0.text:Predsednik svetovne sionistične organizacije
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:14631.0
+passage.questions.7.question:Leta 1921 je Chaim Wiezzman prosil nekoga, naj mu pomaga pri zbiranju denarja za Hebrejsko univerzo v Jeruzalemu. Koga je vprašal?
+passage.questions.7.idx:2772.0
+passage.questions.7.answers.5.text:Einstein
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:14630.0
+passage.questions.7.answers.4.text:David Ben-Gurion
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:14629.0
+passage.questions.7.answers.3.text:Svet guvernerjev
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:14628.0
+passage.questions.7.answers.2.text:Vzroki sionistov
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:14627.0
+passage.questions.7.answers.1.text:Biokemik
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14626.0
+passage.questions.7.answers.0.text:Hebrejska univerza v Jeruzalemu
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:14625.0
+passage.questions.6.question:Kakšno stališče je Einstein zavrnil, čeprav je bil &quot;žalosten in sram&quot;, ker ga ni sprejel?
+passage.questions.6.idx:2771.0
+passage.questions.6.answers.4.text:Prvi izraelski predsednik
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:14624.0
+passage.questions.6.answers.3.text:Izraelski veleposlanik v Washingtonu
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:14623.0
+passage.questions.6.answers.2.text:Judovsko ljudstvo
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:14622.0
+passage.questions.6.answers.1.text:Predsednik Izraela
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:14621.0
+passage.questions.6.answers.0.text:Predsednik univerze
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:14620.0
+passage.questions.5.question:Kakšno stališče je Einsteinu ponudil premier Ben-Gurion in ga je sprejel?
+passage.questions.5.idx:2770.0
+passage.questions.5.answers.4.text:Premier, je bil hkrati globoko ganjen in sram
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:14619.0
+passage.questions.5.answers.3.text:Dekan fakultete je rekel Ne
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:14618.0
+passage.questions.5.answers.2.text:Predsednik Izraela in št
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:14617.0
+passage.questions.5.answers.1.text:Izraelski veleposlanik v Washingtonu je dejal Ne
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:14616.0
+passage.questions.5.answers.0.text:Predsednik Izraela (ni sprejet)
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14615.0
+passage.questions.4.question:Kako je Einstein pomagal ustanoviti univerzo v Jeruzalemu?
+passage.questions.4.idx:2769.0
+passage.questions.4.answers.6.text:Vzpostavil ga je
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:14614.0
+passage.questions.4.answers.5.text:Prvi profesor na Hebrejski univerzi v Jeruzalemu
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:14613.0
+passage.questions.4.answers.4.text:Prodal zemljo
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:14612.0
+passage.questions.4.answers.3.text:Bil je biokemik in predsednik Svetovne sionistične organizacije
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:14611.0
+passage.questions.4.answers.2.text:Zbrana sredstva
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:14610.0
+passage.questions.4.answers.1.text:Odprl jo je leta 1925
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:14609.0
+passage.questions.4.answers.0.text:Pomagal je zbrati sredstva in predloge za začetne programe
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14608.0
+passage.questions.3.question:Kdo je Einsteinu predstavil ponudbo za slovesno predsedniško mesto?
+passage.questions.3.idx:2768.0
+passage.questions.3.answers.6.text:David Ben-Gurion
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:14607.0
+passage.questions.3.answers.5.text:Sinovi
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:14606.0
+passage.questions.3.answers.4.text:Abba Eban
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:14605.0
+passage.questions.3.answers.3.text:Izraelski veleposlanik v Washingtonu
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:14604.0
+passage.questions.3.answers.2.text:Predsednik vlade
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:14603.0
+passage.questions.3.answers.1.text:Judovsko ljudstvo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:14602.0
+passage.questions.3.answers.0.text:Carlebach
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:14601.0
+passage.questions.2.question:Na kakšen način je Einstein prispeval k razvoju Hebrejske univerze v Jeruzalemu?
+passage.questions.2.idx:2767.0
+passage.questions.2.answers.4.text:Ustanovitev inštituta za orientalske študije
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:14600.0
+passage.questions.2.answers.3.text:Naredil nekaj začetnih predlogov programa
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:14599.0
+passage.questions.2.answers.2.text:Prvi predsednik
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:14598.0
+passage.questions.2.answers.1.text:Predsednik Izraela
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14597.0
+passage.questions.2.answers.0.text:Znanstveno raziskovanje države in njenih zgodovinskih spomenikov
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:14596.0
+passage.questions.1.question:Katera vprašanja je Einstein želel obravnavati v svojih akademskih predlogih univerzi?
+passage.questions.1.idx:2766.0
+passage.questions.1.answers.3.text:Študij hebrejščine in arabščine za znanstveno raziskovanje, malarijo, razvoj neurejene zemlje
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:14595.0
+passage.questions.1.answers.2.text:Prvi predsednik
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:14594.0
+passage.questions.1.answers.1.text:Dviganje denarja
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:14593.0
+passage.questions.1.answers.0.text:Biološka raziskava
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:14592.0
+passage.questions.0.question:Kako se je počutil Einstein, ko je moral zavrniti ponudbo, da bi postal izraelski predsednik?
+passage.questions.0.idx:2765
+passage.questions.0.answers.5.text:Globoko ganjen
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:14591.0
+passage.questions.0.answers.4.text:Srečno
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:14590.0
+passage.questions.0.answers.3.text:Sprejel ga je
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14589.0
+passage.questions.0.answers.2.text:Prenosil ga je na sinove
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:14588.0
+passage.questions.0.answers.1.text:Naenkrat žalosten in sram
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:14587
+passage.questions.0.answers.0.text:Od takrat se ni odzval, saj ga je bilo sram
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:14586
+idx:249

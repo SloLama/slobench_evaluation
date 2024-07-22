@@ -1,0 +1,152 @@
+version:1.1
+passage.text:Madrid, Španija (CNN) - Svojci ženske, ki je umrla v nesreči španskega letalskega prevoznika, so pomotoma dobili posmrtne ostanke druge žrtve, nato pa so jih oblasti prosile, naj jih vrnejo, je v četrtek poročala partnerska mreža CNN +. Žrtev nesreče so najprej razpisali v kongresnem centru Madria. Madridski sodnik je sprožil preiskavo napake in sodni viri pravijo, da prvotni znak kaže, da do zmede ni prišlo zaradi pravilne identifikacije žrtve, temveč pri dostavi napačnih ostankov zadevni družini, poroča CNN +. Družinska sreda je prejela žaro s številko 104 in povedal je, da vsebuje pepel njune ljubljene Pilar Gonzalez Ferreira, ki je umrla v nesreči. Ko pa se je družina pripravljala na odhod iz Madrida, so uradniki poklicali, naj jim sporočijo napako, in prosili za vrnitev žare 104, poroča CNN +. Namesto žare 104 naj bi družina prejela žaro 134, v kateri so dejansko posmrtni ostanki Pilar Gonzalez, poroča CNN +, ki se je sklicevala na sodne vire in drugo družino, ki je v nesreči prav tako izgubila sorodnika. Letalo Spanair MD82 je prejšnji teden strmoglavilo na madridskem letališču, ko je letalo poskušalo vzleteti, pri čemer je umrlo 154 ljudi. Letalo, ki je šlo proti španskim Kanarskim otokom, se je uspelo le nekoliko dvigniti, preden se je hitro spustilo desno od vzletno-pristajalne steze, njegov zadnji del je najprej udaril ob tla, tik ob asfaltu. Potem je letalo brez nadzora zdrsnilo in se odbilo vsaj trikrat, ko je prevozilo 1.200 metrov (3.840 čevljev) po neravnem terenu in eksplodiralo ter v povodju počivalo, je na novinarski konferenci v Madridu povedal najvišji uradnik preiskovalne komisije v torek. Mnoga telesa so bila močno požgana od ognja, oblasti pa so z vzorci DNK izvedle številne identifikacije.
+passage.questions.9.question:Koliko žrtev je CNN poročal, da je umrlo v nesreči?
+passage.questions.9.idx:592.0
+passage.questions.9.answers.2.text:154
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3096.0
+passage.questions.9.answers.1.text:104
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:3095.0
+passage.questions.9.answers.0.text:134
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:3094.0
+passage.questions.8.question:Kje so bile žrtve španskega letalskega prevoznika?
+passage.questions.8.idx:591.0
+passage.questions.8.answers.2.text:V kongresnem centru v Madridu
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:3093.0
+passage.questions.8.answers.1.text:Madridski kongresni center
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:3092.0
+passage.questions.8.answers.0.text:Kongresni center Madria
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:3091.0
+passage.questions.7.question:Kam je španski MD82 bil predviden, ko se je zgodila nesreča?
+passage.questions.7.idx:590.0
+passage.questions.7.answers.3.text:Tajna služba
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:3090.0
+passage.questions.7.answers.2.text:Španski Kanarski otoki
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3089.0
+passage.questions.7.answers.1.text:Kanarski otoki
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3088.0
+passage.questions.7.answers.0.text:Španska Barcelona
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3087.0
+passage.questions.6.question:Kje so bili prvič postavljeni ostanki Pilar Gonzalez Ferreira?
+passage.questions.6.idx:589.0
+passage.questions.6.answers.1.text:V kongresnem centru Madria
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3086.0
+passage.questions.6.answers.0.text:Bolnišnica Madria
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3085.0
+passage.questions.5.question:So svojci Pilar Gonzalez Ferreira prejeli njene posmrtne ostanke v prvi žari, ki so jim jih dali?
+passage.questions.5.idx:588.0
+passage.questions.5.answers.2.text:Da
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3084.0
+passage.questions.5.answers.1.text:Ne
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3083.0
+passage.questions.5.answers.0.text:Leta
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3082.0
+passage.questions.4.question:Je šlo za hudo letalsko nesrečo?
+passage.questions.4.idx:587.0
+passage.questions.4.answers.2.text:Da, po padcu in eksploziji letala je bilo 154 ljudi ubitih in močno opečenih
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3081.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3080.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3079.0
+passage.questions.3.question:Kakšno je število žare, ki so jo prvič prejeli svojci Pilar Gonzalez Ferreira?
+passage.questions.3.idx:586.0
+passage.questions.3.answers.1.text:104
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3078.0
+passage.questions.3.answers.0.text:134
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3077.0
+passage.questions.2.question:Kje so se vsi ostanki pravilno vrnili družinam?
+passage.questions.2.idx:585.0
+passage.questions.2.answers.2.text:Da
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:3076.0
+passage.questions.2.answers.1.text:Ne, posmrtni ostanki Pilar Gonzalez Ferreire sprva niso bili pravilno vrnjeni družini. Posmrtni ostanki so bili pravilno identificirani, vendar je družina zaradi napake pri dostavi namesto 134 prejela napačno Urno št. 104
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:3075.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:3074.0
+passage.questions.12.question:Je bil prvotni znak, da so bili posmrtni ostanki Pilar Gonzalez Ferreira pravilno identificirani?
+passage.questions.12.idx:595.0
+passage.questions.12.answers.1.text:Ramzi Binalshibh
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:3106.0
+passage.questions.12.answers.0.text:Da
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:3105.0
+passage.questions.11.question:Družino katere žrtve so prosili, naj vrne žaro 104?
+passage.questions.11.idx:594.0
+passage.questions.11.answers.1.text:Pilar Gonzalez Ferreira
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:3104.0
+passage.questions.11.answers.0.text:Ramos Sanchez
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3103.0
+passage.questions.10.question:Kako je bila umorjena Pilar Gonzalez Ferreira?
+passage.questions.10.idx:593.0
+passage.questions.10.answers.5.text:V letalski nesreči med vzletom na letališču v Madridu. Letalo je eksplodiralo po drsenju 1200 m po neravnem terenu
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:3102.0
+passage.questions.10.answers.4.text:Nesreča helikopterja
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:3101.0
+passage.questions.10.answers.3.text:Letalska nesreča
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3100.0
+passage.questions.10.answers.2.text:Cestna nesreča
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3099.0
+passage.questions.10.answers.1.text:Nesreča španskega letalskega prevoznika
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:3098.0
+passage.questions.10.answers.0.text:Uradniki
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:3097.0
+passage.questions.1.question:Kaj je bil vir napake in kako je bila odpravljena?
+passage.questions.1.idx:584.0
+passage.questions.1.answers.3.text:Pri dostavi napake ostaja zadevni družini in uradniki so poklicali, naj jim sporočijo napako, in prosili za vrnitev žare
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3073.0
+passage.questions.1.answers.2.text:Barnett
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3072.0
+passage.questions.1.answers.1.text:Med identifikacijo posmrtnih ostankov žrtve je bila razrešena s pravilno identifikacijo žrtve
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3071.0
+passage.questions.1.answers.0.text:Madridski sodnik je sprožil preiskavo napake, napačni posmrtni ostanki pa so bili dostavljeni zadevni družini. V sredo je družina Pilar Gonzalez Ferreira prejela žaro s številko 104 in rekli so ji, da vsebuje pepel njihove ljubljene. Ko pa se je družina pripravljala na odhod iz Madrida, so jih uradniki poklicali, da jim sporočijo napako, in prosili za vrnitev žare 104
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:3070.0
+passage.questions.0.question:Kako se je zgodila nesreča?
+passage.questions.0.idx:583
+passage.questions.0.answers.3.text:Med vzletom je zadnji del letala zadel vzletno-pristajalno stezo, preden je zdrsnil in eksplodiral na tleh
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3069.0
+passage.questions.0.answers.2.text:Letalo, namenjeno proti španskim Kanarskim otokom, se je uspelo le nekoliko dvigniti, preden se je hitro spustilo desno od vzletno-pristajalne steze, pri čemer je njegov zadnji del zadel ob tla, tik ob asfaltu
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3068.0
+passage.questions.0.answers.1.text:Med pristankom letala
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3067
+passage.questions.0.answers.0.text:Praznuje
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3066
+idx:49

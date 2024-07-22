@@ -1,0 +1,147 @@
+version:1.1
+passage.text:Čeprav so bili v zgodovinski ostanki iz obdobja paleolitika, neolitika in bronaste dobe odkriti v dolini Manzanares, je bila Madridu pred nenadnim dvigom v glavno mesto leta 1561 precej neznanstvena. V obdobju mnogih stoletij, ki so bila v španski zgodovini ključnega pomena, je bil pomen Madrida zanemarljiv. Rimljani so na Iberskem polotoku zgradili svojo najnaprednejšo postojanko, vendar v Madridu niso pustili ničesar novega. Vojske severnoafriških nomadov, namenjene širjenju islama, so napadle polotok v desetih letih in zajele večino Španije. Če je Madrid v teh ključnih dogodkih odigral kakršno koli vlogo, o tem še ni zapisov. Prva trdna sklicevanja na to nejasno naselje na Kastilski planoti, ki ga varuje grozeča gorska veriga Guadarrama, se pojavijo v 9. stoletju. Arabsko ime za &quot;kraj številnih izvirov&quot;, ki je bilo različno zapisano kot Magerit, Mayrit ali Magrit, se je sčasoma razvilo v Madrid. Zaselek je v zgodovinske kronike vstopil zaradi svojega vojaškega pomena; nahajala se je blizu glavne črte upora proti krščanski ponovni osvojitvi. V stoletjih boja je braniška mavrska vojska na višini Madrida, ki je poveljevala dolini Manzanares, zgradila celovito utrdbo ali Alcázar. Po več neuspelih spopadih so krščanske sile Alfonsa VI leta 1083. zavzele Madrid. Alcázar je postal utrdba kastiljske krone. Med protuofenzivo leta 1109 so mesto preplavili Mavri, vendar je pokristjanjena trdnjava obstajala. Mavri so bili pregnani iz mesta, vendar so skoraj štiri stoletja ostali pod nadzorom južne Španije. Medtem je Madrid leta 1308 na kratko izstopal, ko so kralj Ferdinand IV. In njegov Cortes, zgodnja različica parlamenta, imeli formalno srečanje v novonastalem mestu. Od takrat so španski kralji začeli obiskovati Madrid, kjer je bil zrak poživljajoč in lov odličen. Ferdinand in Isabella, katoliška monarha, ki sta združila vse španske province, sta Madrid prvič obiskala leta 1477.
+passage.questions.8.question:Zakaj je bil pomen Madrida v španski zgodovini zanemarljiv?
+passage.questions.8.idx:1821.0
+passage.questions.8.answers.4.text:Katolištvo
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:9498.0
+passage.questions.8.answers.3.text:Zgodovina napadov
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:9497.0
+passage.questions.8.answers.2.text:O tem ni nobenega zapisa
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:9496.0
+passage.questions.8.answers.1.text:Kralji niso obiskali
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:9495.0
+passage.questions.8.answers.0.text:Rimljani v Madridu niso pustili ničesar posledic
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:9494.0
+passage.questions.7.question:Zakaj so španski kralji obiskali Madrid?
+passage.questions.7.idx:1820.0
+passage.questions.7.answers.5.text:Zaradi formalnega sestanka
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:9493.0
+passage.questions.7.answers.4.text:Zgodnja različica parlamenta, ki se je formalno sestala v novonastalem mestu, zrak je bil poživljajoč in lov odličen
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:9492.0
+passage.questions.7.answers.3.text:Dober zrak
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:9491.0
+passage.questions.7.answers.2.text:Ker je bil zrak poživljajoč in lov odličen
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:9490.0
+passage.questions.7.answers.1.text:Ženske
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:9489.0
+passage.questions.7.answers.0.text:Dober lov
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:9488.0
+passage.questions.6.question:Po katerem letu so španski kralji začeli obiskovati Madrid?
+passage.questions.6.idx:1819.0
+passage.questions.6.answers.2.text:1477
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:9487.0
+passage.questions.6.answers.1.text:1561
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:9486.0
+passage.questions.6.answers.0.text:1308
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:9485.0
+passage.questions.5.question:Katero državo so vojske severnoafriških nomadov preplavile po napadu?
+passage.questions.5.idx:1818.0
+passage.questions.5.answers.2.text:Rim
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:9484.0
+passage.questions.5.answers.1.text:Španija
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:9483.0
+passage.questions.5.answers.0.text:Italija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:9482.0
+passage.questions.4.question:Kdo je preplavil večino Španije?
+passage.questions.4.idx:1817.0
+passage.questions.4.answers.4.text:Rimljani
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:9481.0
+passage.questions.4.answers.3.text:Kristjani
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:9480.0
+passage.questions.4.answers.2.text:Severnoafriški nomadi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:9479.0
+passage.questions.4.answers.1.text:Vojske severnoafriških nomadov
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:9478.0
+passage.questions.4.answers.0.text:Vojske severnoafriških sil
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:9477.0
+passage.questions.3.question:Kdo je prehitel Rimljane?
+passage.questions.3.idx:1816.0
+passage.questions.3.answers.4.text:Severnoafriški nomadi nameravajo širiti islam
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:9476.0
+passage.questions.3.answers.3.text:Indijanci
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:9475.0
+passage.questions.3.answers.2.text:Krščanske sile
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:9474.0
+passage.questions.3.answers.1.text:Vojske afriških nomadov
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:9473.0
+passage.questions.3.answers.0.text:Severnoafriški nomadi
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:9472.0
+passage.questions.2.question:Kateri polotok je napadla vojska severnoafriških nomadov?
+passage.questions.2.idx:1815.0
+passage.questions.2.answers.3.text:Severnoafriški
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:9471.0
+passage.questions.2.answers.2.text:Iberski polotok
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9470.0
+passage.questions.2.answers.1.text:Sibirski
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:9469.0
+passage.questions.2.answers.0.text:Iberski
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:9468.0
+passage.questions.1.question:Zaradi česar so španski kralji začeli obiskovati Madrid
+passage.questions.1.idx:1814.0
+passage.questions.1.answers.6.text:Zrak je poživljal
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:9467.0
+passage.questions.1.answers.5.text:Dober zrak
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:9466.0
+passage.questions.1.answers.4.text:Zgodnja različica parlamenta se je tam formalno sestala
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:9465.0
+passage.questions.1.answers.3.text:Zaradi lova
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:9464.0
+passage.questions.1.answers.2.text:Odličen lov
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:9463.0
+passage.questions.1.answers.1.text:Bili so radovedni glede tega
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:9462.0
+passage.questions.1.answers.0.text:Ženske
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9461.0
+passage.questions.0.question:Kje je vojska, ki je vodila večino Španije? .
+passage.questions.0.idx:1813
+passage.questions.0.answers.3.text:Rim
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:9460.0
+passage.questions.0.answers.2.text:Severnoafriški
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:9459.0
+passage.questions.0.answers.1.text:Severna afrika
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:9458
+passage.questions.0.answers.0.text:Egipt
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:9457
+idx:162

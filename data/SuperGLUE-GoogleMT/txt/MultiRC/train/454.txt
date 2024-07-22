@@ -1,0 +1,130 @@
+version:1.1
+passage.text:Reuters Holdings PLC je dejal, da je Michael Reupke odstopil z mesta generalnega direktorja za zasledovanje nedoločenih interesov, kar je novinska organizacija označila za &quot;sporazumno ločitev&quot;. G. Reupke, 52-letni in 27-letni veteran Reutersa, je bil generalni direktor podjetja za informacijske storitve le šest mesecev. Njegovo imenovanje na to delovno mesto, ki ima višje upravne, kadrovske in politične odgovornosti, je sledilo nekajletnemu mandatu glavnega urednika Reutersa. Noben naslednik ni bil imenovan, naloge gospoda Reupkeja pa bodo razdeljene med tri druge vodilne direktorje Reutersa, so sporočili iz podjetja. V telefonskem intervjuju je gospod Reupke dejal, da je bil njegov odhod iz &quot;osebnih razlogov&quot;, ki jih ni želel natančno navesti. &quot;Za moj odhod ni nobenega poslovnega razloga,&quot; niti nesoglasja glede politike, je dodal. Zavrnil je tudi poročila, da je njegov odhod izhajal iz razočaranja, ker mesto generalnega direktorja ni privedlo tudi do direktorskega odbora pri londonski novinarski organizaciji. G. Reupke je bil eden od treh izvršnih direktorjev Reutersovega osemčlanskega izvršnega odbora, ki ni bil tudi član upravnega odbora družbe. &quot;Če bi izbiral ljudi jutrišnjega dne, bi izbral ljudi, ki so zdaj v odboru,&quot; je dejal. Tiskovni predstavnik Reutersa je dejal, da odhod odraža &quot;nobene spremembe v strategiji ali dobičku.&quot; Mark Shepperd, analitik pri londonskem UBS Philips &amp; Drew, je dejal: &quot;Mislim, da bo (odhod) za podjetje dokaj nepomemben. Bil bi zelo presenečen, če bi njegov odhod nakazal kakršno koli spremembo strategije ali pričakovanja o dobičku.&quot; Na Londonski borzi so delnice Reutersa zrasle za pet penijev na 913 penijev (14,43 dolarja). Na ameriškem trgu brez recepta so se ameriške depozitarne delnice družbe Reuters, ki predstavljajo po tri delnice na londonskem trgu, kotirale nespremenjeno na 43.875 ameriških dolarjev. Starejši od treh vodstvenih delavcev, ki bodo prevzeli dolžnosti gospoda Reupkeja, je 58-letni Nigel Judah, finančni direktor in direktor uprave Reutersa. Peter Holland, 45, namestnik generalnega direktorja, postane direktor korporativnih zadev. In Patrick Mannix, 46, mednarodni tehnični vodja, postane direktor skupinskih programov za kakovost.
+passage.questions.7.question:Kakšen položaj je imel Reupke pred enim letom?
+passage.questions.7.idx:5125.0
+passage.questions.7.answers.4.text:Generalni direktor
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:27209.0
+passage.questions.7.answers.3.text:Bil je glavni urednik
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:27208.0
+passage.questions.7.answers.2.text:Izvršni direktor
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:27207.0
+passage.questions.7.answers.1.text:Direktor
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:27206.0
+passage.questions.7.answers.0.text:Generalni direktor podjetja za informacijske storitve
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:27205.0
+passage.questions.6.question:Ali dejavnost v ameriških depozitarnih delnicah Reutersa odraža mnenje Marka Shepperda?
+passage.questions.6.idx:5124.0
+passage.questions.6.answers.2.text:Da. Shres za Reuters ni bil spremenjen
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:27204.0
+passage.questions.6.answers.1.text:Ne. Reutersove delnice so se spremenile
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:27203.0
+passage.questions.6.answers.0.text:Pomanjkanje dobička ali izgube vrednosti odraža njegovo mnenje, da odhod ne bi smel močno vplivati na podjetje
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:27202.0
+passage.questions.5.question:Kateri trije starejši direktorji Reutersa si delijo vlogo, ki jo je zapustil Reupke?
+passage.questions.5.idx:5123.0
+passage.questions.5.answers.7.text:William Bell
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:27201.0
+passage.questions.5.answers.6.text:Mike Smith
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:27200.0
+passage.questions.5.answers.5.text:Ni navedeno v odstavku
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:27199.0
+passage.questions.5.answers.4.text:Mark Shepperd
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:27198.0
+passage.questions.5.answers.3.text:Patrick Mannix
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:27197.0
+passage.questions.5.answers.2.text:Peter Holland
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:27196.0
+passage.questions.5.answers.1.text:Nigel Judah
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:27195.0
+passage.questions.5.answers.0.text:Reupke
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:27194.0
+passage.questions.4.question:So se delnice Reutersa na londonski borzi zvišale zaradi navedene spremembe strategije?
+passage.questions.4.idx:5122.0
+passage.questions.4.answers.3.text:Ne. V strategiji ni prišlo do spremembe
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:27193.0
+passage.questions.4.answers.2.text:Ne, dvignili so se, toda tiskovni predstavnik Reutersa je dejal, da ni prišlo do sprememb v strategiji ali dobičku
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:27192.0
+passage.questions.4.answers.1.text:Iz besedila ni jasno
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:27191.0
+passage.questions.4.answers.0.text:Da. Prišlo je do spremembe strategije
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:27190.0
+passage.questions.3.question:Ali so bili vsi generalni direktorji Reutersa: zasedali položaje v upravnem odboru, niso bili v upravnem odboru ali so se razlikovali glede tega, ali so zasedli položaje v upravnem odboru?
+passage.questions.3.idx:5121.0
+passage.questions.3.answers.2.text:Zasedal funkcije v upravnem odboru
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:27189.0
+passage.questions.3.answers.1.text:Razlikujejo se glede tega, ali so zasedli funkcije v upravnem odboru
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:27188.0
+passage.questions.3.answers.0.text:Niso bili na položajih v upravnem odboru
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:27187.0
+passage.questions.2.question:Kakšen vpliv je imel Reupkov odhod na Reuters?
+passage.questions.2.idx:5120.0
+passage.questions.2.answers.4.text:Reupkov odhod ni spremenil strategije ali dobička. Delnice družbe so se zvišale za pet penijev na 913 penijev (14,43 dolarja), ameriški trg brez recepta pa se je zaprl na 43.875 dolarjev.
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:27186.0
+passage.questions.2.answers.3.text:Brez sprememb
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:27185.0
+passage.questions.2.answers.2.text:Moteč vpliv
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:27184.0
+passage.questions.2.answers.1.text:Reuters je v njegovi odsotnosti propadel
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:27183.0
+passage.questions.2.answers.0.text:Malo do nič
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:27182.0
+passage.questions.1.question:Poimenujte eno osebo, ki jo je Reupke imenoval &quot;Jutrišnji ljudje&quot;.
+passage.questions.1.idx:5119.0
+passage.questions.1.answers.4.text:Ljudje v izvršnem odboru
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:27181.0
+passage.questions.1.answers.3.text:Reupke
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:27180.0
+passage.questions.1.answers.2.text:Ljudje v upravnem odboru
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:27179.0
+passage.questions.1.answers.1.text:Peter Holland
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:27178.0
+passage.questions.1.answers.0.text:Nigel Judah
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:27177.0
+passage.questions.0.question:Kdo je naslednik, imenovan po odstopu Michaela Reupkeja?
+passage.questions.0.idx:5118
+passage.questions.0.answers.3.text:Michael Smith
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:27176.0
+passage.questions.0.answers.2.text:Noben naslednik ni bil imenovan. Reupkove naloge bodo razdeljene med tri druge vodilne direktorje Reutersa
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:27175.0
+passage.questions.0.answers.1.text:Nigel Judah
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:27174
+passage.questions.0.answers.0.text:Peter Holland
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:27173
+idx:454

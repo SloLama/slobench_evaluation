@@ -1,0 +1,6 @@
+﻿choice1:Ni se izpostavljal bolezni.
+choice2:Bil je cepljen proti bolezni.
+idx:27
+label:1
+premise:Otrok je postal imun na bolezen.
+question:cause

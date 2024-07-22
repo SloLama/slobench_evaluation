@@ -1,0 +1,6 @@
+choice1:Pozdravil je blagajničarja.
+choice2:Uporabil je kupon.
+idx:7
+label:1
+premise:Dobil je popust na svoj nakup.
+question:cause

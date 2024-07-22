@@ -1,0 +1,272 @@
+version:1.1
+passage.text:Najvišja točka vala je greben. Najnižja točka je korito. Navpična razdalja med grebenom in koritom je višina vala. Višina vala se imenuje tudi amplituda. Vodoravna razdalja med dvema grebenoma je valovna dolžina. Tako amplituda kot valovna dolžina sta merilo velikosti valov. Velikost oceanskega vala je odvisna od tega, kako hitro, na kako veliki razdalji in kako dolgo piha veter. Večji kot je vsak od teh dejavnikov, večji bo val. Nekateri največji valovi se pojavijo pri orkanih. Orkan je nevihta, ki nastane nad oceanom. Njeni vetrovi lahko pihajo več kot 150 milj na uro! Tudi vetrovi potujejo na velike razdalje in lahko trajajo več dni.
+passage.questions.9.question:Kakšni so orkanski vetrovi?
+passage.questions.9.idx:678.0
+passage.questions.9.answers.4.text:Vodoravna razdalja med dvema grebenoma je valovna dolžina
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:3592.0
+passage.questions.9.answers.3.text:Vetrovi lahko pihajo več kot 150 milj na uro in potujejo na velike razdalje, ki trajajo več dni
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:3591.0
+passage.questions.9.answers.2.text:Več kot 150 milj na uro
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3590.0
+passage.questions.9.answers.1.text:Nevihta, ki nastane nad oceanom
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3589.0
+passage.questions.9.answers.0.text:Manj kot 100 milj na uro
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:3588.0
+passage.questions.8.question:Kako izračunate višino vala?
+passage.questions.8.idx:677.0
+passage.questions.8.answers.6.text:Navpična razdalja med najvišjo in najnižjo točko vala
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:3587.0
+passage.questions.8.answers.5.text:Vodoravna razdalja med dvema grebenoma
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:3586.0
+passage.questions.8.answers.4.text:Med plavanjem
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:3585.0
+passage.questions.8.answers.3.text:Tako amplituda kot valovna dolžina sta merilo velikosti valov
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:3584.0
+passage.questions.8.answers.2.text:Navpična razdalja med grebenom in koritom je višina vala
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:3583.0
+passage.questions.8.answers.1.text:Vodoravna razdalja med dvema koritoma
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:3582.0
+passage.questions.8.answers.0.text:Navpična razdalja med grebenom in koritom
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:3581.0
+passage.questions.7.question:Kolikšna je navpična razdalja med grebenom in koritom?
+passage.questions.7.idx:676.0
+passage.questions.7.answers.5.text:Pogostost
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3580.0
+passage.questions.7.answers.4.text:Višina valov
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:3579.0
+passage.questions.7.answers.3.text:Višina vala
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3578.0
+passage.questions.7.answers.2.text:Razdalja je višina vala, imenovana tudi amplituda
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3577.0
+passage.questions.7.answers.1.text:Amplituda
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3576.0
+passage.questions.7.answers.0.text:Valovna dolžina
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3575.0
+passage.questions.6.question:Kaj vemo o vetru iz odstavka?
+passage.questions.6.idx:675.0
+passage.questions.6.answers.6.text:Vetrovi lahko pihajo več kot 150 milj na uro! Poslano 12: Tudi vetrovi potujejo na velike razdalje in lahko trajajo več dni
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:3574.0
+passage.questions.6.answers.5.text:Vetrovi potujejo na velike razdalje
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:3573.0
+passage.questions.6.answers.4.text:Vetrovi ne morejo trajati več kot eno uro
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:3572.0
+passage.questions.6.answers.3.text:Kako dolgo piha veter, določa velikost valov. Pihajo lahko 150+ mph
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:3571.0
+passage.questions.6.answers.2.text:Vetrovi lahko trajajo več dni
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:3570.0
+passage.questions.6.answers.1.text:Vetrovi ne morejo potovati na velike razdalje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:3569.0
+passage.questions.6.answers.0.text:Kako hitro, na kako veliki razdalji in kako dolgo piha veter
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3568.0
+passage.questions.5.question:Katere so najvišje in najnižje točke vala?
+passage.questions.5.idx:674.0
+passage.questions.5.answers.6.text:Korito in greben
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:3567.0
+passage.questions.5.answers.5.text:Najvišja točka je greben, najnižja pa korito
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:3566.0
+passage.questions.5.answers.4.text:Najnižje je korito in najvišje greben
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:3565.0
+passage.questions.5.answers.3.text:Greben in korito
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3564.0
+passage.questions.5.answers.2.text:Amplituda in valovna dolžina
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3563.0
+passage.questions.5.answers.1.text:Valovna dolžina
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3562.0
+passage.questions.5.answers.0.text:Najnižje je Crest in Najvišje je Trough
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3561.0
+passage.questions.4.question:Kaj v odstavku piše o orkanih?
+passage.questions.4.idx:673.0
+passage.questions.4.answers.6.text:Nad deželo nastajajo orkani
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:3560.0
+passage.questions.4.answers.5.text:Vodoravna razdalja med dvema grebenoma je valovna dolžina
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:3559.0
+passage.questions.4.answers.4.text:Vetrovi lahko pihajo več kot 150 milj na uro
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:3558.0
+passage.questions.4.answers.3.text:Nastanejo nad oceani in ustvarijo nekaj največjih valov
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3557.0
+passage.questions.4.answers.2.text:Orkan je nevihta, ki nastane nad oceanom. Poslano 11: Njeni vetrovi lahko pihajo več kot 150 milj na uro!
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3556.0
+passage.questions.4.answers.1.text:Nevihta, ki nastane nad oceanom
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3555.0
+passage.questions.4.answers.0.text:Orkani ne povzročajo velike škode
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3554.0
+passage.questions.3.question:Kolikokrat je omenjen veter?
+passage.questions.3.idx:672.0
+passage.questions.3.answers.3.text:3.
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:3553.0
+passage.questions.3.answers.2.text:Manj kot pet
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:3552.0
+passage.questions.3.answers.1.text:1.
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3551.0
+passage.questions.3.answers.0.text:Več kot pet
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3550.0
+passage.questions.2.question:Kako so najnižje in najvišje točke vala povezane z njegovo amplitudo?
+passage.questions.2.idx:671.0
+passage.questions.2.answers.5.text:Korito in greben
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:3549.0
+passage.questions.2.answers.4.text:Najvišja točka vala je greben
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3548.0
+passage.questions.2.answers.3.text:Navpična razdalja med najvišjo točko vala in najnižjo točko vala je višina vala, ki se imenuje tudi njegova amplituda
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3547.0
+passage.questions.2.answers.2.text:Valovna dolžina
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3546.0
+passage.questions.2.answers.1.text:Najnižje je Crest in Najvišje je Trough
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:3545.0
+passage.questions.2.answers.0.text:Navpična razdalja med grebenom in koritom je višina vala. Poslano 4: Višina vala se imenuje tudi amplituda
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:3544.0
+passage.questions.12.question:Zakaj bi bili ob drugih dejavnikih oceanski val večji, če bi veter pihal 150 milj na uro, kot če bi veter pihal 100 milj na uro?
+passage.questions.12.idx:681.0
+passage.questions.12.answers.6.text:Poveča amplitudo vala
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:3612.0
+passage.questions.12.answers.5.text:Ker hitrejši veter traja dlje
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:3611.0
+passage.questions.12.answers.4.text:Ker bo hitrejša hitrost vetra povzročila, da bo val večji od počasnejše hitrosti vetra
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:3610.0
+passage.questions.12.answers.3.text:Velikost oceanskega vala je odvisna od tega, kako hitro, na kako veliki razdalji in kako dolgo piha veter
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:3609.0
+passage.questions.12.answers.2.text:Večji kot je veter, večji bo val
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:3608.0
+passage.questions.12.answers.1.text:Ker hitrejši veter neposredno zadene ocean
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:3607.0
+passage.questions.12.answers.0.text:Višina vala se imenuje tudi amplituda
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:3606.0
+passage.questions.11.question:Kakšna je razlika med valovno dolžino in amplitudo?
+passage.questions.11.idx:680.0
+passage.questions.11.answers.6.text:Navpična razdalja med grebenom in koritom je višina vala. in Vodoravna razdalja med dvema grebenoma je valovna dolžina
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:3605.0
+passage.questions.11.answers.5.text:Vodoravna razdalja med dvema koritoma je valovna dolžina, navpična razdalja med grebenom in koritom pa amplituda
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:3604.0
+passage.questions.11.answers.4.text:Vodoravna razdalja med dvema grebenoma je amplituda, navpična razdalja med grebenom in koritom pa se imenuje valovna dolžina
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:3603.0
+passage.questions.11.answers.3.text:Amplituda je navpična razdalja (višina vala). Valovna dolžina meri vodoravno razdaljo (med dvema grebenoma)
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:3602.0
+passage.questions.11.answers.2.text:Oba sta enaka
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:3601.0
+passage.questions.11.answers.1.text:Tako amplituda kot valovna dolžina sta merilo velikosti valov
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:3600.0
+passage.questions.11.answers.0.text:Vodoravna razdalja med dvema grebenoma je valovna dolžina, višina vala pa se imenuje tudi amplituda
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:3599.0
+passage.questions.10.question:Kako se imenujejo najvišja in najnižja točka glede višine valov?
+passage.questions.10.idx:679.0
+passage.questions.10.answers.5.text:Korito in greben
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:3598.0
+passage.questions.10.answers.4.text:Najnižje je korito in najvišje greben
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:3597.0
+passage.questions.10.answers.3.text:Amplituda in valovna dolžina
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:3596.0
+passage.questions.10.answers.2.text:Grb in korito
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:3595.0
+passage.questions.10.answers.1.text:Valovna dolžina
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3594.0
+passage.questions.10.answers.0.text:Najnižje je Crest in Najvišje je Trough
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:3593.0
+passage.questions.1.question:Kaj vemo o valovni dolžini iz odstavka?
+passage.questions.1.idx:670.0
+passage.questions.1.answers.6.text:To je merilo velikosti valov
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:3543.0
+passage.questions.1.answers.5.text:Navpična razdalja med grebenom in koritom
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:3542.0
+passage.questions.1.answers.4.text:Vodoravna razdalja med dvema grebenoma je valovna dolžina
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:3541.0
+passage.questions.1.answers.3.text:Vodoravna razdalja med dvema grebenoma
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3540.0
+passage.questions.1.answers.2.text:Imenuje se tudi amplituda
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3539.0
+passage.questions.1.answers.1.text:Navpična razdalja med grebenom in koritom je višina vala
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3538.0
+passage.questions.1.answers.0.text:To je razdalja med dvema grebenoma in je dejavnik velikosti valov
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:3537.0
+passage.questions.0.question:Kaj je nasprotje grebena vala?
+passage.questions.0.idx:669
+passage.questions.0.answers.4.text:Korito vala
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:3536.0
+passage.questions.0.answers.3.text:Najnižja točka vala
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3535.0
+passage.questions.0.answers.2.text:Skozi
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3534.0
+passage.questions.0.answers.1.text:Amplituda
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3533
+passage.questions.0.answers.0.text:Valovna dolžina
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3532
+idx:56

@@ -1,0 +1,89 @@
+version:1.1
+passage.text:Tom igra bilijar v zapuščeni dvorani ob bazenu, z dvema žogama vtakne dve žogi, nato pa Jerryja zbudi, tako da strelja z desetimi žogami v žep, kjer spi. Jerry se prebudi ravno pravočasno, da se izogne 10-metrski žogi, in se izvede do vrnitve žoge, kjer 10 in 13 razbijeta miško med seboj. Jerry je jezen in stopi skozi žep, najprej ničesar ne vidi, a po nekaj korakih nazaj do žepa opazi Toma, ki sedi za njim. Jerry poskuša skočiti v drug kotni žep, toda Tom s tako močno silo strelja, da se ta vrže v žep, se zavrti nazaj in Jerryja odvrne nazaj k Tomu, ki je s svojo palico naredil rampo za miško pomaknite navzgor. Jerry se ustavi na vrhu palice, nato pa ga Tom odpihne in nato izstreli tok kroglic, da miška postane ravna. Ves vlak se odbije nazaj proti mački, žogice pa se zložijo na Tomov konec mize. Tom zaporedoma s svojo palico strelja vse kroglice, nato pa poskuša ustreliti Jerryja, vendar miška visi na konici palice. Mačka, kot da bi rekel: &quot;Naj bo po tvojem&quot;, se kredi in z Jerryjem ustreli 8-žogo. Miška pade s konice palice, nato pa jo z osmimi kroglami vali v krogih in Tom prisili Jerryja, da skoči skozi stojalo za žoge, kot da bi bil cirkusant. Tom ga nato zažge, da doda dodatno stopnjo muke, in ko Jerry to doseže z ravnotežjem, Tom zavrže goreč stojalo in strelja z 8 žogami čez mizo in nazaj.
+passage.questions.3.question:Kako je Jerry prišel na vrh palice za bazen?
+passage.questions.3.idx:1664.0
+passage.questions.3.answers.6.text:Tom je iztočil iz klančine
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:8613.0
+passage.questions.3.answers.5.text:Tam so ga postavili kroglice
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:8612.0
+passage.questions.3.answers.4.text:Tom ga je postavil tja
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:8611.0
+passage.questions.3.answers.3.text:Vzpel se je na steber
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:8610.0
+passage.questions.3.answers.2.text:Še kaj
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8609.0
+passage.questions.3.answers.1.text:Tom je streljal žogo na Jerryja, zaradi česar se je začel kotaliti. Tom je palico za bazen uporabljal kot rampo, da je Jerry zdrsnil navzgor
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:8608.0
+passage.questions.3.answers.0.text:Tom je naredil rampo s palico za bazen
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:8607.0
+passage.questions.2.question:Zakaj je miška padla s konice iztočnice?
+passage.questions.2.idx:1663.0
+passage.questions.2.answers.6.text:Bil je utrujen
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:8606.0
+passage.questions.2.answers.5.text:Ni ga hotel več zadržati
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:8605.0
+passage.questions.2.answers.4.text:Bil je uporabljen za streljanje žoge 8
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:8604.0
+passage.questions.2.answers.3.text:Jerry ga je poskušal uporabiti za streljanje žoge 8
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:8603.0
+passage.questions.2.answers.2.text:Še kaj
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8602.0
+passage.questions.2.answers.1.text:Pade
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8601.0
+passage.questions.2.answers.0.text:Ker ga Jerry ustreli s konice
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8600.0
+passage.questions.1.question:Kaj Tom prižge?
+passage.questions.1.idx:1662.0
+passage.questions.1.answers.4.text:8-žogo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8599.0
+passage.questions.1.answers.3.text:Žoga
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:8598.0
+passage.questions.1.answers.2.text:Iztočnica
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:8597.0
+passage.questions.1.answers.1.text:Še kaj
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8596.0
+passage.questions.1.answers.0.text:Stojalo za žogice
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:8595.0
+passage.questions.0.question:Zakaj je Jerry jezen?
+passage.questions.0.idx:1661
+passage.questions.0.answers.6.text:Ujel se je med 10. in 13. žogo
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:8594.0
+passage.questions.0.answers.5.text:Tom ga je zbudil
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:8593.0
+passage.questions.0.answers.4.text:Tom ga spet poskuša pojesti
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:8592.0
+passage.questions.0.answers.3.text:Še kaj
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:8591.0
+passage.questions.0.answers.2.text:Ker ni hotel igrati
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8590.0
+passage.questions.0.answers.1.text:Tom je med spanjem streljal z žogo 10 proti njemu
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8589
+passage.questions.0.answers.0.text:Ker ga je Tom prebudil
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:8588
+idx:146

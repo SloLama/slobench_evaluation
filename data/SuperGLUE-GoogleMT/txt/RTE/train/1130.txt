@@ -1,0 +1,4 @@
+hypothesis:Steve Boone je član GIMPS.
+idx:1130
+label:not_entailment
+premise:Prvih nekaj primerkov Mersenne je 3, 7, 31, 127 in 8191. Za preverjanje teh številk je bilo treba uporabiti različno programsko in strojno opremo. Vsako številko je neodvisno preverilo več članov verifikacijske skupine GIMPS z uporabo 16-jedrnih sistemov različnih konfiguracij. Oba primera je GIMPS objavil 16. septembra. Pred tema dvema odkritjema sta profesorja UCMO Curtis Cooper in Steven Boone v Missouriju v Združenih državah Amerike odkrila dve največji znani praštevili in njuni zapisi so trajali skoraj tri leta. V preteklosti so praštevila, ki jih je odkril GIMPS, večja od predhodno najdenih. Edina izjema je bila, ko je bila 29. Mersenne prime odkrita po 30. in 31. uri. GIMPS je ustanovil diplomant MIT George Woltman leta 1996 in našel 12 primerkov Mersenne ali približno eno na leto v povprečju.

@@ -1,0 +1,87 @@
+version:1.1
+passage.text:Film se začne s kratkim prednaslovnim posnetkom prekinjenega intervjuja voditelja Grega Palasta z direktorjem volitev na Floridi Claytonom Robertsom, ki odide. Palast Georgea Busha predstavlja s posebnim sklicevanjem na njegovo priljubljeno podobo vojnega junaka, ki je bila v javnosti zacementirana s pristankom na letalu USS Abraham Lincoln za govor, ki ga je leta 2003 opravil v misiji. Vendar Palast trdi, da je Bush uporabil vpliv svojega očeta, da bi si privoščil izogibanje osnutka pri Texas Air National Guard, ki mu nato ni služil. Palast zgodbo pobere z Bushovo kampanjo za predsedniške volitve v ZDA leta 2000, kjer trdi, da sta guverner Floride Jeb Bush in državna sekretarka Floride Katherine Harris uporabila svoj vpliv za čiščenje in popuščanje glasovnic črno volilcev, ki so večinoma podpirali Gore, na lažnem seznamu prestopnikov zasebno podjetje DBT / ChoicePoint za 4 milijone ameriških dolarjev. Palast nadaljuje s preučevanjem donatorjev podjetij za Bushovo volilno kampanjo, kot je direktor Enrona Ken Lay, ki je kot član Busheve pionirske mreže prispeval ogromne vsote prek družine in prijateljev in za katere trdi, da so pozneje izkoristili Bushovo predsedstvo z višjo vlado. imenovanja, pogodbe brez ponudb, izvršni nalogi in deregulacija. Palast opisuje tisto, kar imenuje Bushev cikel, kjer člani Bushove družine z denarjem pridobijo politično funkcijo, nato pa pisarno dobijo še več denarja, že od senatorja Prescotta Busha, ki je financiral vstop družine v naftni posel, navaja primer Bushove Harken Energy, ki je dobil pogodbo za vrtanje v Perzijskem zalivu, zahvaljujoč predsedstvu Busha Snr.
+passage.questions.2.question:Kako je bila v njegovi kampanji uporabljena podoba vojnega junaka Georgea W. Busha?
+passage.questions.2.idx:1974.0
+passage.questions.2.answers.7.text:Zaradi opravljenega poslanstva je bil prikazan kot junak
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:10265.0
+passage.questions.2.answers.6.text:Ljudem pokazati, da je nesmrten
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:10264.0
+passage.questions.2.answers.5.text:Bush je bil razstavljen kot vojni junak, ki je pristal na letalu USS Abraham Lincoln, vendar dejansko ni služil
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:10263.0
+passage.questions.2.answers.4.text:S služenjem v narodni gardi
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:10262.0
+passage.questions.2.answers.3.text:Z govorom
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:10261.0
+passage.questions.2.answers.2.text:S pristankom letalonosilke
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:10260.0
+passage.questions.2.answers.1.text:Da bi ljudi prestrašil
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:10259.0
+passage.questions.2.answers.0.text:Z uporabo očetovega vpliva
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:10258.0
+passage.questions.1.question:Kdo so finančni ponudniki, ki prispevajo k Bushevi kampanji, za katero trdi Palast?
+passage.questions.1.idx:1973.0
+passage.questions.1.answers.9.text:Greg Palast
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:10257.0
+passage.questions.1.answers.8.text:DBTVChoicePoint
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:10256.0
+passage.questions.1.answers.7.text:Obame
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:10255.0
+passage.questions.1.answers.6.text:Clintonovi
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:10254.0
+passage.questions.1.answers.5.text:Enron CEO
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:10253.0
+passage.questions.1.answers.4.text:Texas Air National Guard
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:10252.0
+passage.questions.1.answers.3.text:Aduti
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10251.0
+passage.questions.1.answers.2.text:Ken Lay
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:10250.0
+passage.questions.1.answers.1.text:Ken Lay in Prescott Bush
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:10249.0
+passage.questions.1.answers.0.text:Družina Bush
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:10248.0
+passage.questions.0.question:Katere metode Palast trdi, da je Bush uporabljal med volilno kampanjo?
+passage.questions.0.idx:1972
+passage.questions.0.answers.7.text:Izvršna naročila
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:10247.0
+passage.questions.0.answers.6.text:Ne oddajte ponudb
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:10246.0
+passage.questions.0.answers.5.text:Izpraznite in popustite glasovnice Goreu, ki podpira volivce
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:10245.0
+passage.questions.0.answers.4.text:Znebili so se črnih glasov
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:10244.0
+passage.questions.0.answers.3.text:Čiščenje in popust glasovnic temnopoltih volivcev, podpornikov podjetij, ki so se okoristili z Bushevim predsedstvom in Bushevim ciklom
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:10243.0
+passage.questions.0.answers.2.text:Izstopite iz intervjujev
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10242.0
+passage.questions.0.answers.1.text:Ukradli so denar
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:10241
+passage.questions.0.answers.0.text:Uporabili so izsiljevanje
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:10240
+idx:179

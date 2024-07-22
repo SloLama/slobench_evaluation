@@ -1,0 +1,242 @@
+version:1.1
+passage.text:Če segrejete taborni ogenj, začnete z velikim kupom palic in hlodov. Ko ogenj gori, se sklad počasi krči. Do konca večera ostane le še majhen kup pepela. Kaj se je zgodilo z zadevo, s katero ste začeli? Ali so ga plameni uničili? Morda se zdi tako. Kaj misliš, da se je zgodilo? Resnica je, da še vedno obstaja enaka količina snovi. Les se ni spremenil le v pepel, temveč tudi v ogljikov dioksid, vodno paro in druge pline. Plini so odplavali v zrak in za seboj pustili le pepel. Čeprav je bila snov spremenjena, je ni ustvarila ali uničila. Ker še vedno obstaja enaka količina snovi, lahko rečemo, da je snov ohranjena. Morda se sprašujete, kako je to mogoče ohraniti, če zdaj nekaj manjka? Predpostavimo, da ste izmerili maso lesa, preden ste ga zažgali. Predpostavimo, da ste tudi ujeli pline, ki jih je sproščal goreči les, in izmerili njihovo maso in maso pepela. Kaj bi našli Pepel in plini skupaj imajo enako maso kot les, s katerim ste začeli. Ta primer ponazarja zakon o ohranjanju mase.
+passage.questions.9.question:Ko ogenj gori, kakšen kup se počasi krči?
+passage.questions.9.idx:4080.0
+passage.questions.9.answers.3.text:Snop palic
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:21639.0
+passage.questions.9.answers.2.text:Sklad pepela
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:21638.0
+passage.questions.9.answers.1.text:Pepel
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:21637.0
+passage.questions.9.answers.0.text:Snop palic in hlodov
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:21636.0
+passage.questions.8.question:Kaj se zgodi s palicami in hlodi v tabornem ognju?
+passage.questions.8.idx:4079.0
+passage.questions.8.answers.4.text:Pretvorijo se v pepel in pline
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:21635.0
+passage.questions.8.answers.3.text:Pretvorijo se v ogenj in toploto
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:21634.0
+passage.questions.8.answers.2.text:Ko ogenj gori, se sklad počasi krči in nekaj časa kasneje ostane le majhen kup pepela
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:21633.0
+passage.questions.8.answers.1.text:Trajno se izločijo iz zemlje
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:21632.0
+passage.questions.8.answers.0.text:Spremenijo se v kup pepela
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:21631.0
+passage.questions.7.question:Kateri zakon ponazarja dejstvo, da imajo pepel in plini skupaj enako maso kot les, s katerim ste začeli?
+passage.questions.7.idx:4078.0
+passage.questions.7.answers.2.text:Zakon enake in nasprotne reakcije
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:21630.0
+passage.questions.7.answers.1.text:Zakon o ohranjanju mase
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:21629.0
+passage.questions.7.answers.0.text:Zakon prenosa energije
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:21628.0
+passage.questions.6.question:Pepel in plini na primeru česa?
+passage.questions.6.idx:4077.0
+passage.questions.6.answers.5.text:Primer vodne pare in ogljikovega dioksida
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:21627.0
+passage.questions.6.answers.4.text:Zakon o ohranjanju mase
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:21626.0
+passage.questions.6.answers.3.text:Proti snovi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:21625.0
+passage.questions.6.answers.2.text:Zadeva
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:21624.0
+passage.questions.6.answers.1.text:Primer ognja in toplote
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:21623.0
+passage.questions.6.answers.0.text:Primer ostankov levo nazaj, ko je nekaj zgorelo
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:21622.0
+passage.questions.5.question:Ali nastane kakšna zadeva, ko kurite les v tabornem ognju?
+passage.questions.5.idx:4076.0
+passage.questions.5.answers.5.text:Zadeve ni mogoče ustvariti ali uničiti
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:21621.0
+passage.questions.5.answers.4.text:Ja
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:21620.0
+passage.questions.5.answers.3.text:Ne, zaradi ohranjanja mase
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:21619.0
+passage.questions.5.answers.2.text:Ne
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:21618.0
+passage.questions.5.answers.1.text:Mogoče
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:21617.0
+passage.questions.5.answers.0.text:Zadevo je mogoče ustvariti ali uničiti
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21616.0
+passage.questions.4.question:Kaj lahko povzroči, da se les spremeni v pepel, ogljikov dioksid, vodno paro in druge pline?
+passage.questions.4.idx:4075.0
+passage.questions.4.answers.7.text:Pepel
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:21615.0
+passage.questions.4.answers.6.text:Taborni ogenj
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:21614.0
+passage.questions.4.answers.5.text:Ogenj
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:21613.0
+passage.questions.4.answers.4.text:Zakon o ohranjanju mase
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:21612.0
+passage.questions.4.answers.3.text:Hladno
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:21611.0
+passage.questions.4.answers.2.text:Sežiganje lesa
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:21610.0
+passage.questions.4.answers.1.text:Voda
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21609.0
+passage.questions.4.answers.0.text:Vročina
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:21608.0
+passage.questions.3.question:Kako se snov ohranja po opeklinah lesa?
+passage.questions.3.idx:4074.0
+passage.questions.3.answers.4.text:Zadeva ima različne oblike
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:21607.0
+passage.questions.3.answers.3.text:Ustvari se nova snov, ki nadomesti uničeno snov
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:21606.0
+passage.questions.3.answers.2.text:Pepel in plini skupaj imajo enako prvotno maso
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:21605.0
+passage.questions.3.answers.1.text:Pepel in plini imajo enako sestavo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:21604.0
+passage.questions.3.answers.0.text:Predpostavimo, da ste tudi ujeli pline, ki jih je sproščal goreči les, in izmerili njihovo maso in maso pepela; pepel in plini skupaj imajo enako maso kot les, s katerim ste začeli
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:21603.0
+passage.questions.2.question:Ko v kampu zažgete les, lesena snov konča na tleh (večinoma kot pepel), kam pa gre preostala zadeva?
+passage.questions.2.idx:4073.0
+passage.questions.2.answers.4.text:V zrak (kot ogljikov dioksid, vodna para in drugi plini)
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:21602.0
+passage.questions.2.answers.3.text:Spremembe je spremenil v ogljikov dioksid, vodno paro in druge pline
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:21601.0
+passage.questions.2.answers.2.text:Potuje po zraku
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:21600.0
+passage.questions.2.answers.1.text:V zraku je uničen
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:21599.0
+passage.questions.2.answers.0.text:Spremeni se v zrak in toploto
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21598.0
+passage.questions.12.question:Kaj ostane, ko se kup zmanjša?
+passage.questions.12.idx:4083.0
+passage.questions.12.answers.4.text:Pepel
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:21655.0
+passage.questions.12.answers.3.text:Vodna para in drugi plini, preden se spustijo v zrak
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:21654.0
+passage.questions.12.answers.2.text:Majhen kup pepela
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:21653.0
+passage.questions.12.answers.1.text:Nič
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:21652.0
+passage.questions.12.answers.0.text:Majhen kup pepela
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:21651.0
+passage.questions.11.question:Kaj se je zgodilo z lesom?
+passage.questions.11.idx:4082.0
+passage.questions.11.answers.4.text:Bila je popolnoma uničena
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:21650.0
+passage.questions.11.answers.3.text:Pretvorijo se v vodno paro, ogljikov dioksid in druge pline
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:21649.0
+passage.questions.11.answers.2.text:V celoti se pretvorijo v pepel
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:21648.0
+passage.questions.11.answers.1.text:Les se ni spremenil le v pepel, temveč tudi v ogljikov dioksid, vodno paro in druge pline, ki so odplavali v zrak in za seboj pustili le pepel
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:21647.0
+passage.questions.11.answers.0.text:Pretvorili so ga v pepel
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:21646.0
+passage.questions.10.question:Ko ostane sveženj palic in hlodov, kaj ostane?
+passage.questions.10.idx:4081.0
+passage.questions.10.answers.5.text:Pepel
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:21645.0
+passage.questions.10.answers.4.text:Velik kup pepela
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:21644.0
+passage.questions.10.answers.3.text:Samo pepel, vsa druga snov je spremenila obliko in se oddaljila od ognja
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:21643.0
+passage.questions.10.answers.2.text:Samo pepel, vsa druga snov je bila uničena
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:21642.0
+passage.questions.10.answers.1.text:Majhen kup pepela
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:21641.0
+passage.questions.10.answers.0.text:Les se ni spremenil le v pepel, temveč tudi v ogljikov dioksid, vodno paro in druge pline
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:21640.0
+passage.questions.1.question:Ali se katera koli stvar uniči, ko kurite les v tabornem ognju?
+passage.questions.1.idx:4072.0
+passage.questions.1.answers.4.text:Samo spremeni obliko
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:21597.0
+passage.questions.1.answers.3.text:Ne, zaradi ohranjanja mase
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:21596.0
+passage.questions.1.answers.2.text:Ne
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:21595.0
+passage.questions.1.answers.1.text:Izhlapi v nič
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21594.0
+passage.questions.1.answers.0.text:Mogoče
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:21593.0
+passage.questions.0.question:Kaj se je z zadevo spremenilo pri gorenju ognja?
+passage.questions.0.idx:4071
+passage.questions.0.answers.7.text:Vsa zadeva se spremeni v ogenj
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:21592.0
+passage.questions.0.answers.6.text:Nastalo je več snovi
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:21591.0
+passage.questions.0.answers.5.text:Bila je uničena
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:21590.0
+passage.questions.0.answers.4.text:Spremenil se je v vodno paro
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:21589.0
+passage.questions.0.answers.3.text:Spremenil se je v ogljikov dioksid
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:21588.0
+passage.questions.0.answers.2.text:Spremenilo se je v pepel
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:21587.0
+passage.questions.0.answers.1.text:Spremenilo se je v druge pline
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:21586
+passage.questions.0.answers.0.text:Les se je spremenil v ogljikov dioksid, vodno paro in druge pline, ki so odplavali v zrak in za seboj pustili le pepel
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21585
+idx:354

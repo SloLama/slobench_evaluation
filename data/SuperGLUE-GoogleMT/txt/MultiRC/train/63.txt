@@ -1,0 +1,244 @@
+version:1.1
+passage.text:Na zasedeno petkovo jutro na Manhattnu je devet pešcev utrpelo rane od nabojev ali drobcev, potem ko je policija sprožila točo strela na moškega s pištolo kalibra .45, ki je pravkar ubil nekdanjega sodelavca. Policisti so raztopili 16 krogov v senci Empire State Buildinga proti nezadovoljnemu nekdanjemu oblikovalcu oblačil in ga ubili, potem ko je s policijo vstopil v pištolo, so sporočile oblasti. Trije mimoidoči so utrpeli neposredne strelne rane, preostalih šest pa so po navedbah komisarja newyorške policije Raya Kellyja prizadeli drobci. Vse poškodbe je povzročila policija, je dejal v soboto. En častnik je ustrelil devet nabojev, drugi pa sedem. Policija je moškega identificirala kot 58-letnega Jeffreyja Johnsona, ki je bil lani očitno odpuščen z dela oblikovalca ženskih dodatkov v podjetju Hazan Import Co. Johnsonu, ki je služil v ameriški obalni straži sredi sedemdesetih let, sta v pištoli ostala dva naboja. Ima osem, je rekla Kelly. Policija je umorjenega sodelavca prepoznala kot Stevena Ercolina (41), ki je očitno vložil predhodno ovadbo proti njegovemu napadalcu in zatrdil, da misli, da bi ga Johnson sčasoma skušal ubiti. Oba moška sta aprila 2011 vložila pritožbo zaradi nadlegovanja, je dodala Kelly. Po njegovem profilu na LinkedInu je bil Ercolino naveden kot podpredsednik prodaje pri podjetju Hazan Import Corp. &quot;Takšnemu ljubečemu se ne bi smelo zgoditi nekaj,&quot; je dejal njegov brat Paul. &quot;Tako ga bodo vsi pogrešali. Bil je luč toliko življenj.&quot;
+passage.questions.9.question:V katerem delu New Yorka je Empire State Building?
+passage.questions.9.idx:747.0
+passage.questions.9.answers.3.text:Manhattan
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:3890.0
+passage.questions.9.answers.2.text:Kraljice
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:3889.0
+passage.questions.9.answers.1.text:New York
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:3888.0
+passage.questions.9.answers.0.text:Manhattar
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:3887.0
+passage.questions.8.question:Kako je ime orožnik?
+passage.questions.8.idx:746.0
+passage.questions.8.answers.3.text:Jeffrey Jonnathan
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:3886.0
+passage.questions.8.answers.2.text:Steven Ercolino
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3885.0
+passage.questions.8.answers.1.text:Jeffrey Johnson
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3884.0
+passage.questions.8.answers.0.text:Ray Kelly
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3883.0
+passage.questions.7.question:S kom so govorili o Ercolinovi smrti?
+passage.questions.7.idx:745.0
+passage.questions.7.answers.7.text:Paul
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:3882.0
+passage.questions.7.answers.6.text:Kelly
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:3881.0
+passage.questions.7.answers.5.text:Njegov oče
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3880.0
+passage.questions.7.answers.4.text:Jelly
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:3879.0
+passage.questions.7.answers.3.text:Njegov brat Paul
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3878.0
+passage.questions.7.answers.2.text:Njegov svak
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3877.0
+passage.questions.7.answers.1.text:Steve
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:3876.0
+passage.questions.7.answers.0.text:Njegov brat
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3875.0
+passage.questions.6.question:Kje se je zgodil incident?
+passage.questions.6.idx:744.0
+passage.questions.6.answers.3.text:Mnhatarr
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3874.0
+passage.questions.6.answers.2.text:Manhattan
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:3873.0
+passage.questions.6.answers.1.text:New York
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3872.0
+passage.questions.6.answers.0.text:Brooklyn
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3871.0
+passage.questions.5.question:Kdo je potrdil, da je vse poškodbe navzočih povzročila policija?
+passage.questions.5.idx:743.0
+passage.questions.5.answers.7.text:Paul
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:3870.0
+passage.questions.5.answers.6.text:Ray Kelly
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:3869.0
+passage.questions.5.answers.5.text:Kelly
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:3868.0
+passage.questions.5.answers.4.text:Jeffery Johnson
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3867.0
+passage.questions.5.answers.3.text:Melly
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3866.0
+passage.questions.5.answers.2.text:Newyorški policijski komisar
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3865.0
+passage.questions.5.answers.1.text:Newyorški policijski komisar Ray Kelly
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3864.0
+passage.questions.5.answers.0.text:Šef policije
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3863.0
+passage.questions.4.question:Kakšno vrsto orožja je imel orožnik Jeffery Johnson?
+passage.questions.4.idx:742.0
+passage.questions.4.answers.4.text:Kalibrska pištola
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:3862.0
+passage.questions.4.answers.3.text:16 okrogla pištola
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3861.0
+passage.questions.4.answers.2.text:Pištola kalibra .45
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3860.0
+passage.questions.4.answers.1.text:Puška
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3859.0
+passage.questions.4.answers.0.text:Puška
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3858.0
+passage.questions.3.question:Kateri dan so policisti izstrelili 16 nabojev na moškega s pištolo?
+passage.questions.3.idx:741.0
+passage.questions.3.answers.1.text:Ponedeljek
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3857.0
+passage.questions.3.answers.0.text:Petek
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3856.0
+passage.questions.2.question:Kakšna je bila Stevenova naloga pri Hazan Import?
+passage.questions.2.idx:740.0
+passage.questions.2.answers.5.text:Delavec
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:3855.0
+passage.questions.2.answers.4.text:Pobiti sodelavec
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3854.0
+passage.questions.2.answers.3.text:Arhitekt
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3853.0
+passage.questions.2.answers.2.text:Predsednik prodaje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3852.0
+passage.questions.2.answers.1.text:Oblikovalec ženskih dodatkov
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:3851.0
+passage.questions.2.answers.0.text:Podpredsednik prodaje
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:3850.0
+passage.questions.13.question:Koliko let je bil Jeffrey Johnson starejši od Stevena Ercolina?
+passage.questions.13.idx:751.0
+passage.questions.13.answers.4.text:18.
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:3909.0
+passage.questions.13.answers.3.text:20.
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:3908.0
+passage.questions.13.answers.2.text:17.
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:3907.0
+passage.questions.13.answers.1.text:Dvajset
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:3906.0
+passage.questions.13.answers.0.text:Sedemnajst
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:3905.0
+passage.questions.12.question:Koliko nabojev je Jeffrey Johnson streljal iz pištole?
+passage.questions.12.idx:750.0
+passage.questions.12.answers.3.text:Sedem
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:3904.0
+passage.questions.12.answers.2.text:6.
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:3903.0
+passage.questions.12.answers.1.text:8.
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:3902.0
+passage.questions.12.answers.0.text:Osem
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:3901.0
+passage.questions.11.question:Koliko strelov je sprožil Jeffrey Johnson?
+passage.questions.11.idx:749.0
+passage.questions.11.answers.4.text:Šest
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:3900.0
+passage.questions.11.answers.3.text:Osem
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:3899.0
+passage.questions.11.answers.2.text:6.
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:3898.0
+passage.questions.11.answers.1.text:9.
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:3897.0
+passage.questions.11.answers.0.text:8.
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3896.0
+passage.questions.10.question:Kakšna je bila starostna razlika med Jeffreyjem Johnsonom in Stevenom Ercolinom v času smrti Stevena Ercolina?
+passage.questions.10.idx:748.0
+passage.questions.10.answers.4.text:20.
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:3895.0
+passage.questions.10.answers.3.text:17.
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:3894.0
+passage.questions.10.answers.2.text:17 let
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:3893.0
+passage.questions.10.answers.1.text:Sedemnajst
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:3892.0
+passage.questions.10.answers.0.text:Pet
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:3891.0
+passage.questions.1.question:Kdo je ustrelil Jeffreyja Johnsona?
+passage.questions.1.idx:739.0
+passage.questions.1.answers.5.text:Policija
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:3849.0
+passage.questions.1.answers.4.text:Njegov prijatelj
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3848.0
+passage.questions.1.answers.3.text:Policist
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3847.0
+passage.questions.1.answers.2.text:Steven Erec
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3846.0
+passage.questions.1.answers.1.text:Steven Ercolino,
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:3845.0
+passage.questions.1.answers.0.text:Steven Eroclino
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:3844.0
+passage.questions.0.question:Koliko ljudi je bilo ranjenih?
+passage.questions.0.idx:738
+passage.questions.0.answers.4.text:Sedem
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3843.0
+passage.questions.0.answers.3.text:Devet
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3842.0
+passage.questions.0.answers.2.text:5.
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3841.0
+passage.questions.0.answers.1.text:Deset
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3840
+passage.questions.0.answers.0.text:9.
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3839
+idx:63

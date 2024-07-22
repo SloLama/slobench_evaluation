@@ -1,0 +1,6 @@
+choice1:Predmeti v vagonu so izpadli.
+choice2:Vozna kolesa so se zavrtela naprej.
+idx:75
+label:1
+premise:Potisnil sem voz.
+question:effect

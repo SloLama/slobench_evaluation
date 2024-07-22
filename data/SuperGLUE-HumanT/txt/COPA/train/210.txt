@@ -1,0 +1,6 @@
+choice1:Pošiljatelj je hotel od nje izprositi denar.
+choice2:Pošiljatelj jo je prosil za odgovor.
+idx:210
+label:0
+premise:Izbrisala je elektronsko sporočilo.
+question:cause

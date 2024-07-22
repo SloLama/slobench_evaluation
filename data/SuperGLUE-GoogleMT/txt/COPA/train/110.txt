@@ -1,0 +1,6 @@
+choice1:Šole so ji prepovedale dostop do knjižnic.
+choice2:Učitelji so od učencev zahtevali, da jo preberejo.
+idx:110
+label:0
+premise:Knjiga je bila ocenjena kot neprimerna za otroke.
+question:effect

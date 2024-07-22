@@ -1,0 +1,6 @@
+choice1:Policija je zahtevala varnostno kopijo.
+choice2:Osumljenec se je aretaciji uprl.
+idx:71
+label:1
+premise:Policija je osumljencu vklenila lisice.
+question:cause

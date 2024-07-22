@@ -1,0 +1,4 @@
+idx:9426
+label:False
+passage:Stopnja napake - stopnja napake je običajno opredeljena kot &quot;polmer&quot; (ali polovica širine) intervala zaupanja za določeno statistiko iz ankete. Eden od primerov je odstotek ljudi, ki imajo raje izdelek A v primerjavi z izdelkom B. Ko se za anketo poroča o enotni globalni stopnji napake, se to nanaša na največjo stopnjo napake za vse prijavljene odstotke z uporabo celotnega vzorca iz ankete. Če je statistika odstotek, lahko to največjo dopustno napako izračunamo kot polmer intervala zaupanja za prijavljeni odstotek 50%.
+question:je napaka enaka intervalu zaupanja

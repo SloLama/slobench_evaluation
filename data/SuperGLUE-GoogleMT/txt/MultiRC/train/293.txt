@@ -1,0 +1,177 @@
+version:1.1
+passage.text:Alex Cross je psihiater in policijski poročnik, ki živi v Detroitu s svojo ženo Marijo, njunima otrokoma, Damonom in Janelle ter babico Nano Mamo. Ko je izvedel, da je Maria noseča s svojim tretjim otrokom, Cross razmišlja, da bi sprejel službo kot profiler FBI-ja, vendar se boji Marijinega odziva, saj bi morali preseliti v Washington, DC Medtem se moški po imenu Picasso udeleži ilegalne podzemne mešane Borilni obroč borilnih veščin, kjer se spogleduje s podjetnico Fan Yau. Po brutalnem pretepanju nasprotnika je Picasso povabljen v hišo Fan Yau, kjer jo pomirja, medtem ko se spopadata, muči in ubije. Policijski kapitan Richard Brookwell na kraj zločina pokliče Crossa in njegovega partnerja Tommyja Kanea. Na poti tja Cross pripoveduje Kaneu o Marijini nosečnosti in ponudbi FBI-ja, Kane pa razkrije, da se na skrivaj hodi z njihovo kolegico Monico Ashe. Cross ugotovi, da je Picasso profesionalni morilec, in najde skico, ki jo je naredil Picasso, in razkriva, da je njegova naslednja tarča poslovnež Erich Nunemarcher. Cross, Kane in Ashe gredo v pisarno Nunemarcherja, vendar Nunemarcher njihove trditve ne upošteva. Picasso uspe vstopiti v stavbo, vendar mu Cross prepreči ubiti Nunemarcherja in po strelu Kanea pobegne. Cross analizira kapljico Picassove krvi in izve, da je psihotični nekdanji pripadnik specialnih sil in da je njegova resnična tarča izvršni direktor milijarderja Leon Mercier. Cross obvesti Mercierja, da ga Picasso morda poskuša ubiti.
+passage.questions.5.question:S kom se Cross pogovarja v tej zgodbi?
+passage.questions.5.idx:3347.0
+passage.questions.5.answers.9.text:Regrut FBI
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:17669.0
+passage.questions.5.answers.8.text:Erich
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:17668.0
+passage.questions.5.answers.7.text:Picasso
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:17667.0
+passage.questions.5.answers.6.text:Monica Ashe
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:17666.0
+passage.questions.5.answers.5.text:Kane
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:17665.0
+passage.questions.5.answers.4.text:Tommy Kane
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:17664.0
+passage.questions.5.answers.3.text:Leon
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:17663.0
+passage.questions.5.answers.2.text:Mercier
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:17662.0
+passage.questions.5.answers.1.text:Erich Nunemarcher
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:17661.0
+passage.questions.5.answers.0.text:Tommy Kane, Monica Ashe, Erich Nunemarcher, Leon Mercier
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:17660.0
+passage.questions.4.question:Navedi dva Picassova cilja?
+passage.questions.4.idx:3346.0
+passage.questions.4.answers.9.text:Nunemarcher in Cross
+passage.questions.4.answers.9.label:0,0
+passage.questions.4.answers.9.idx:17659.0
+passage.questions.4.answers.8.text:Mercier in Cross
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:17658.0
+passage.questions.4.answers.7.text:Nunemarcher in Mercier
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:17657.0
+passage.questions.4.answers.6.text:Monica Ashe, erich nunemarcher
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:17656.0
+passage.questions.4.answers.5.text:Ben
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:17655.0
+passage.questions.4.answers.4.text:Mercier in Nunemarcher
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:17654.0
+passage.questions.4.answers.3.text:Leon Mercier
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:17653.0
+passage.questions.4.answers.2.text:Erich Nunemarcher, Leon Mercier
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:17652.0
+passage.questions.4.answers.1.text:Erich Nunemarcher
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17651.0
+passage.questions.4.answers.0.text:Križ
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:17650.0
+passage.questions.3.question:Kako je do križa prišla kaplja Picassove krvi?
+passage.questions.3.idx:3345.0
+passage.questions.3.answers.8.text:Nunemarcher ga ustreli v njegovi pisarni
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:17649.0
+passage.questions.3.answers.7.text:Ker je dobil praske po rezilu
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:17648.0
+passage.questions.3.answers.6.text:Ker ga Kane ustreli
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:17647.0
+passage.questions.3.answers.5.text:Analiziranje podzemnega borilnega obroča MMA
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:17646.0
+passage.questions.3.answers.4.text:Ustreli ga partner Alexa Crossa
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:17645.0
+passage.questions.3.answers.3.text:Picasso je ustreljen
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:17644.0
+passage.questions.3.answers.2.text:Ko je Kanesa ustrelil Picasso
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:17643.0
+passage.questions.3.answers.1.text:Streljajo ga v Nunemarcherjevi pisarni
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:17642.0
+passage.questions.3.answers.0.text:Zabodel ga je
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:17641.0
+passage.questions.2.question:Koliko parov je v zgodbi romantično povezanih?
+passage.questions.2.idx:3344.0
+passage.questions.2.answers.4.text:3.
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:17640.0
+passage.questions.2.answers.3.text:Tri
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:17639.0
+passage.questions.2.answers.2.text:2.
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:17638.0
+passage.questions.2.answers.1.text:3 pari: Alex &amp; Maria, Fan Yue &amp; Picasso, Tommy Kane in Monica Ashe
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:17637.0
+passage.questions.2.answers.0.text:2 para: Alex &amp; Maria, Damon &amp; Janelle
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:17636.0
+passage.questions.1.question:Kje je Picasso spoznal žensko, ki jo je pomiril?
+passage.questions.1.idx:3343.0
+passage.questions.1.answers.7.text:Nezakonit bojni obroč mešanih borilnih veščin
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:17635.0
+passage.questions.1.answers.6.text:Nezakonit podzemni mešani borilni obroč
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:17634.0
+passage.questions.1.answers.5.text:Veliki Ben
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:17633.0
+passage.questions.1.answers.4.text:Železniška postaja
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:17632.0
+passage.questions.1.answers.3.text:Washington DC
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:17631.0
+passage.questions.1.answers.2.text:Na zabavi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:17630.0
+passage.questions.1.answers.1.text:V podzemnem boju mešanih borilnih veščin
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:17629.0
+passage.questions.1.answers.0.text:Mešani borilni prstan
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:17628.0
+passage.questions.0.question:Kdo so bili vsi Picassovi resnični in možni cilji?
+passage.questions.0.idx:3342
+passage.questions.0.answers.9.text:Fan Yau
+passage.questions.0.answers.9.label:1.0
+passage.questions.0.answers.9.idx:17625.0
+passage.questions.0.answers.8.text:Fan Yau, Monica Ashe
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:17624.0
+passage.questions.0.answers.7.text:Leon Mercier
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:17623.0
+passage.questions.0.answers.6.text:Alex Cross
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:17622.0
+passage.questions.0.answers.5.text:Tommy Kane
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:17621.0
+passage.questions.0.answers.4.text:Mercier
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:17620.0
+passage.questions.0.answers.3.text:Erich Nunemarcher, Leon Mercier
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:17619.0
+passage.questions.0.answers.2.text:Erich Nunemarcher
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:17618.0
+passage.questions.0.answers.11.text:Nunemarcher
+passage.questions.0.answers.11.label:1.0
+passage.questions.0.answers.11.idx:17627.0
+passage.questions.0.answers.10.text:Maria Cross
+passage.questions.0.answers.10.label:0,0
+passage.questions.0.answers.10.idx:17626.0
+passage.questions.0.answers.1.text:Fan Yu, Erich Nunemarcher, Leon Mercier
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:17617
+passage.questions.0.answers.0.text:Križ
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:17616
+idx:293

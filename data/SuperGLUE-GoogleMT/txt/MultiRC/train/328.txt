@@ -1,0 +1,425 @@
+version:1.1
+passage.text:Zemeljski procesi se skozi čas niso spreminjali. Zdaj se stvari dogajajo enako kot v preteklosti. Gore rastejo in gore se počasi obrabljajo. Na delu je enak postopek kot pred milijardami let. Ko se okolje spreminja, se živa bitja prilagajajo. Sčasoma se spreminjajo. Nekateri organizmi se morda ne bodo mogli prilagoditi. Izumrejo. Izumrtje pomeni, da popolnoma izumrejo. Nekateri geologi preučujejo zgodovino Zemlje. Želijo spoznati preteklost Zemlje. Uporabljajo sledi iz kamnin in fosilov. Te namige uporabljajo za smisel dogodkov. Cilj je postaviti stvari po vrstnem redu, kot so se zgodile. Vedeti želijo tudi, kako dolgo je trajalo, da so se ti dogodki zgodili.
+passage.questions.9.question:V skladu s tem odlomkom na katerem planetu gore rastejo in se obrabljajo?
+passage.questions.9.idx:3751.0
+passage.questions.9.answers.2.text:Zemlja
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:19921.0
+passage.questions.9.answers.1.text:Mars
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:19920.0
+passage.questions.9.answers.0.text:Nekateri organizmi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:19919.0
+passage.questions.8.question:Kaj preučujejo geologi, da bi jim dali namige o preteklosti Zemlje?
+passage.questions.8.idx:3750.0
+passage.questions.8.answers.9.text:Uporabljajo sledi iz kamnin in fosilov
+passage.questions.8.answers.9.label:1.0
+passage.questions.8.answers.9.idx:19918.0
+passage.questions.8.answers.8.text:Kamnine in fosili
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:19917.0
+passage.questions.8.answers.7.text:Kamnine
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:19916.0
+passage.questions.8.answers.6.text:Živali
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:19915.0
+passage.questions.8.answers.5.text:Fosili
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:19914.0
+passage.questions.8.answers.4.text:Kaj se je zgodilo v preteklosti
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:19913.0
+passage.questions.8.answers.3.text:Te namige uporabljajo za smisel dogodkov
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:19912.0
+passage.questions.8.answers.2.text:Kaj se bo dogajalo v prihodnosti
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:19911.0
+passage.questions.8.answers.1.text:Rastline
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:19910.0
+passage.questions.8.answers.0.text:Nekateri organizmi
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:19909.0
+passage.questions.7.question:Kaj poleg kamnin še preučujejo geologi, da bi našli sledi, da bi lahko razumeli pretekle dogodke?
+passage.questions.7.idx:3749.0
+passage.questions.7.answers.3.text:Živa bitja
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:19908.0
+passage.questions.7.answers.2.text:Fosili
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:19907.0
+passage.questions.7.answers.1.text:Rastline
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:19906.0
+passage.questions.7.answers.0.text:Voda
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19905.0
+passage.questions.6.question:Kaj so geologi?
+passage.questions.6.idx:3748.0
+passage.questions.6.answers.6.text:Profesorji
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:19904.0
+passage.questions.6.answers.5.text:Preučujejo ocean
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:19903.0
+passage.questions.6.answers.4.text:Preučujejo zgodovino Zemlje
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:19902.0
+passage.questions.6.answers.3.text:Znanstveniki, ki preučujejo zgodovino Zemlje, ker želijo spoznati zemeljsko preteklost
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:19901.0
+passage.questions.6.answers.2.text:Znanstveniki, ki preučujejo zgodovino Zemlje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:19900.0
+passage.questions.6.answers.1.text:Nekaj živih bitij
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:19899.0
+passage.questions.6.answers.0.text:Preučujejo zemljo
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:19898.0
+passage.questions.5.question:Katere dve stvari se lahko zgodijo živim organizmom, ko se spremeni okolje?
+passage.questions.5.idx:3747.0
+passage.questions.5.answers.9.text:Umrejo
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:19896.0
+passage.questions.5.answers.8.text:Živeti
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:19895.0
+passage.questions.5.answers.7.text:Izumreti
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:19894.0
+passage.questions.5.answers.6.text:Prehranjevanje
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:19893.0
+passage.questions.5.answers.5.text:Spreminjajo se
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:19892.0
+passage.questions.5.answers.4.text:Prilagoditi
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:19891.0
+passage.questions.5.answers.3.text:Prilagodijo se ali izumrejo
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:19890.0
+passage.questions.5.answers.2.text:Izumrtje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19889.0
+passage.questions.5.answers.10.text:Lahko napredujejo ali jih ujamejo v ujetništvo
+passage.questions.5.answers.10.label:0,0
+passage.questions.5.answers.10.idx:19897.0
+passage.questions.5.answers.1.text:Živa bitja se prilagajajo
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:19888.0
+passage.questions.5.answers.0.text:Lahko se prilagodijo ali izumrejo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:19887.0
+passage.questions.4.question:Kaj se zgodi, ko se nekateri živi organizmi ne prilagodijo spremembam v okolju?
+passage.questions.4.idx:3746.0
+passage.questions.4.answers.6.text:Cvetijo
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:19886.0
+passage.questions.4.answers.5.text:Razmnoževanje
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:19885.0
+passage.questions.4.answers.4.text:Popolnoma izumrejo
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:19884.0
+passage.questions.4.answers.3.text:Izumrejo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:19883.0
+passage.questions.4.answers.2.text:Izumrtje
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:19882.0
+passage.questions.4.answers.1.text:Izumrejo ali popolnoma izumrejo
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:19881.0
+passage.questions.4.answers.0.text:Postanejo kamenje in fosili
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:19880.0
+passage.questions.3.question:Kaj se zgodi z živim bitjem, ki se ne prilagodi spremembam?
+passage.questions.3.idx:3745.0
+passage.questions.3.answers.6.text:Razmnoževanje
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:19879.0
+passage.questions.3.answers.5.text:Popolnoma izumrejo
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:19878.0
+passage.questions.3.answers.4.text:Cvetijo in se prilagajajo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:19877.0
+passage.questions.3.answers.3.text:Izumrejo
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:19876.0
+passage.questions.3.answers.2.text:Izumrtje
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:19875.0
+passage.questions.3.answers.1.text:Postanejo kamenje in fosili
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:19874.0
+passage.questions.3.answers.0.text:Izumrejo in izumrejo
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:19873.0
+passage.questions.2.question:Čemu služijo kamnine in fosili?
+passage.questions.2.idx:3744.0
+passage.questions.2.answers.8.text:Služi kot energija
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:19872.0
+passage.questions.2.answers.7.text:Povejte nam preteklost
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:19871.0
+passage.questions.2.answers.6.text:Geologi
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:19870.0
+passage.questions.2.answers.5.text:Ljudem pomagajo spoznati preteklost Zemlje tako, da osmislijo dogodke in vrstni red njihovega dogajanja
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:19869.0
+passage.questions.2.answers.4.text:Energija
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:19868.0
+passage.questions.2.answers.3.text:Smislite dogajanje
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:19867.0
+passage.questions.2.answers.2.text:Namigi za pretekla zemljišča
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:19866.0
+passage.questions.2.answers.1.text:Izumrli
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:19865.0
+passage.questions.2.answers.0.text:Namigi zgodovine Zemlje
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:19864.0
+passage.questions.18.question:Kaj se, če se zemeljski procesi ne spremenijo?
+passage.questions.18.idx:3760.0
+passage.questions.18.answers.6.text:Okolje in živi organizmi
+passage.questions.18.answers.6.label:1.0
+passage.questions.18.answers.6.idx:19976.0
+passage.questions.18.answers.5.text:Proces
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:19975.0
+passage.questions.18.answers.4.text:Bitja izumrejo
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:19974.0
+passage.questions.18.answers.3.text:Geologi
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:19973.0
+passage.questions.18.answers.2.text:Živa bitja
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:19972.0
+passage.questions.18.answers.1.text:Bitja se prilagajajo
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:19971.0
+passage.questions.18.answers.0.text:Okolje
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:19970.0
+passage.questions.17.question:Vzorec zemeljskega procesa je?
+passage.questions.17.idx:3759.0
+passage.questions.17.answers.5.text:Brez sprememb skozi čas
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:19969.0
+passage.questions.17.answers.4.text:Ciklično
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:19968.0
+passage.questions.17.answers.3.text:Drugačen
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:19967.0
+passage.questions.17.answers.2.text:Enako
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:19966.0
+passage.questions.17.answers.1.text:Gore rastejo in venejo
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:19965.0
+passage.questions.17.answers.0.text:Ko se okolje spreminja, se živa bitja prilagajajo
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:19964.0
+passage.questions.16.question:Kaj se zgodi, ko se nekateri organizmi ne morejo prilagoditi in kaj to zanje pomeni?
+passage.questions.16.idx:3758.0
+passage.questions.16.answers.6.text:Razmnoževanje
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:19963.0
+passage.questions.16.answers.5.text:Popolnoma izumrejo
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:19962.0
+passage.questions.16.answers.4.text:Izumrejo
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:19961.0
+passage.questions.16.answers.3.text:Izumrejo in izumrejo
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:19960.0
+passage.questions.16.answers.2.text:Uspevajo in cvetijo
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:19959.0
+passage.questions.16.answers.1.text:Izumrtje
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:19958.0
+passage.questions.16.answers.0.text:Postanejo kamenje in fosili
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:19957.0
+passage.questions.15.question:Kdo preučuje kamnine, da bi izvedel več o zgodovini zemlje?
+passage.questions.15.idx:3757.0
+passage.questions.15.answers.3.text:Živa bitja
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:19956.0
+passage.questions.15.answers.2.text:Geologi
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:19955.0
+passage.questions.15.answers.1.text:Profesorji
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:19954.0
+passage.questions.15.answers.0.text:Kiparji
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:19953.0
+passage.questions.14.question:Kaj izumre, če se ne more prilagoditi?
+passage.questions.14.idx:3756.0
+passage.questions.14.answers.6.text:Kamnine
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:19952.0
+passage.questions.14.answers.5.text:Rastlina
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:19951.0
+passage.questions.14.answers.4.text:Zemlje preteklost
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:19950.0
+passage.questions.14.answers.3.text:Bitje
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:19949.0
+passage.questions.14.answers.2.text:Živa bitja
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:19948.0
+passage.questions.14.answers.1.text:Organizmi
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:19947.0
+passage.questions.14.answers.0.text:Nekateri organizmi
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:19946.0
+passage.questions.13.question:Kako geolog preučuje zgodovino Zemlje?
+passage.questions.13.idx:3755.0
+passage.questions.13.answers.6.text:Uporabljajo sledi iz kamnin in fosilov
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:19945.0
+passage.questions.13.answers.5.text:V skalah in fosilih iščejo sledi, da bi osmislili dogodke in ugotovili, kako so se zgodili
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:19944.0
+passage.questions.13.answers.4.text:Skozi zgodovinske knjige
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:19943.0
+passage.questions.13.answers.3.text:Skozi fosile in zemljo
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:19942.0
+passage.questions.13.answers.2.text:Te namige uporabljajo za smisel dogodkov
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:19941.0
+passage.questions.13.answers.1.text:Sčasoma se spreminjajo
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:19940.0
+passage.questions.13.answers.0.text:Branje
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:19939.0
+passage.questions.12.question:Kdo študira, da bi izvedel o zemeljski preteklosti?
+passage.questions.12.idx:3754.0
+passage.questions.12.answers.3.text:Odvetniki
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:19938.0
+passage.questions.12.answers.2.text:Geologi
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:19937.0
+passage.questions.12.answers.1.text:Nekateri organizmi
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:19936.0
+passage.questions.12.answers.0.text:Knjižničarji
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:19935.0
+passage.questions.11.question:V čem je Zemlja enaka preteklosti?
+passage.questions.11.idx:3753.0
+passage.questions.11.answers.8.text:Kamnine
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:19934.0
+passage.questions.11.answers.7.text:Lamdscape je enak
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:19933.0
+passage.questions.11.answers.6.text:Fosili
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:19932.0
+passage.questions.11.answers.5.text:Gore rastejo in gore se počasi obrabljajo
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:19931.0
+passage.questions.11.answers.4.text:Procesi se niso spremenili
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:19930.0
+passage.questions.11.answers.3.text:Deluje isti postopek
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:19929.0
+passage.questions.11.answers.2.text:Nič ni vnaprej
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:19928.0
+passage.questions.11.answers.1.text:Tako kot se zdaj dogajajo stvari
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:19927.0
+passage.questions.11.answers.0.text:Zemeljski procesi se ne spreminjajo in isti procesi, ki so se zgodili pred milijardami let, se nadaljujejo tudi danes
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:19926.0
+passage.questions.10.question:Kdo želi izvedeti več o zemeljski preteklosti?
+passage.questions.10.idx:3752.0
+passage.questions.10.answers.3.text:Glasbeniki
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:19925.0
+passage.questions.10.answers.2.text:Zdravniki
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:19924.0
+passage.questions.10.answers.1.text:Geologi
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:19923.0
+passage.questions.10.answers.0.text:Nekateri organizmi
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:19922.0
+passage.questions.1.question:Kakšni so cilji geologov?
+passage.questions.1.idx:3743.0
+passage.questions.1.answers.7.text:Učite se iz preteklosti
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:19863.0
+passage.questions.1.answers.6.text:Zemeljski procesi
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:19862.0
+passage.questions.1.answers.5.text:Spoznajte preteklost eath-a
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:19861.0
+passage.questions.1.answers.4.text:Zaslužiti denar
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:19860.0
+passage.questions.1.answers.3.text:Da bi vedeli, kako dolgo je trajalo, da so se zgodili ti dogodki
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:19859.0
+passage.questions.1.answers.2.text:Zaslužite veliko denarja
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:19858.0
+passage.questions.1.answers.1.text:Cilj je postaviti stvari po vrstnem redu, kot so se zgodile
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:19857.0
+passage.questions.1.answers.0.text:Da stvari postavimo po vrstnem redu, kot so se zgodile
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:19856.0
+passage.questions.0.question:Kateri je primer, kako so zemeljski procesi danes enaki kot v preteklosti?
+passage.questions.0.idx:3742
+passage.questions.0.answers.6.text:Živi organizmi se prilagajajo
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:19855.0
+passage.questions.0.answers.5.text:Gore rastejo in gore se počasi obrabljajo. Na delu je enak postopek kot pred milijardami let
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:19854.0
+passage.questions.0.answers.4.text:Živa bitja
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:19853.0
+passage.questions.0.answers.3.text:Gore rastejo in gore se počasi obrabljajo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:19852.0
+passage.questions.0.answers.2.text:Gore se obrabljajo
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:19851.0
+passage.questions.0.answers.1.text:Stvari se razvijejo in nato izginejo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:19850
+passage.questions.0.answers.0.text:Ljudje postanejo bogati in nato revni
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19849
+idx:328

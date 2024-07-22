@@ -1,0 +1,71 @@
+version:1.1
+passage.text:Tu sem, da vam povem zgodbo o robotu Karlu. Karl je prišel iz oddaljene dežele po imenu Tovarna. Karl je bil žalosten, ker mu je manjkal del, ki se imenuje guma. Potreboval bi tudi sončni zbiralnik. Vendar pa je bila guma bolj pomembna. Ko bi Karl dobil vse te dele, bi lahko odpotoval v svoj nov dom v deželi Laboratorij, v mestu Pisarna. Težko je bilo iti tja brez manjkajočih delov. Ravno ko je obupal, je Karl dobil sporočilo od gospoda X, ki je rekel, da so novi deli nared za dostavo. Robota je to zelo razveselilo. Nekaj dni pozneje so prišli deli in Karlu je vezlo dva dni dela, da si jih je namestil. Nato je Karl začel potovati, kar je bil zadnji korak k uresničitvi tega, da dobi delo. Karlu je vzelo deset dni, da pride do Laboratorija. 
+passage.questions.3.question:Kateri deli manjkajo robotu Karlu?
+passage.questions.3.idx:33.0
+passage.questions.3.answers.6.text:Vsi deli
+passage.questions.3.answers.6.label:0.0
+passage.questions.3.answers.6.idx:208.0
+passage.questions.3.answers.5.text:Sončni zbiralnik
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:207.0
+passage.questions.3.answers.4.text:Samo sončni zbiralnik
+passage.questions.3.answers.4.label:0.0
+passage.questions.3.answers.4.idx:206.0
+passage.questions.3.answers.3.text:Samo guma
+passage.questions.3.answers.3.label:0.0
+passage.questions.3.answers.3.idx:205.0
+passage.questions.3.answers.2.text:Dva dela, in sicer guma ter sončni zbiralnik
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:204.0
+passage.questions.3.answers.1.text:Guma in sončni zbiralnik
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:203.0
+passage.questions.3.answers.0.text:Guma
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:202.0
+passage.questions.2.question:Kaj je bil najpomembnejši del, ki ga je Karl moral dobiti po odhodu iz tovarne?
+passage.questions.2.idx:32.0
+passage.questions.2.answers.3.text:Okrogla guma
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:201.0
+passage.questions.2.answers.2.text:Sončni zbiralnik
+passage.questions.2.answers.2.label:0.0
+passage.questions.2.answers.2.idx:200.0
+passage.questions.2.answers.1.text:Guma in sončni zbiralnik
+passage.questions.2.answers.1.label:0.0
+passage.questions.2.answers.1.idx:199.0
+passage.questions.2.answers.0.text:Guma
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:198.0
+passage.questions.1.question:Ali gospod X namesti Karlove nove dele?
+passage.questions.1.idx:31.0
+passage.questions.1.answers.1.text:Morda
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:197.0
+passage.questions.1.answers.0.text:Sploh ne
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:196.0
+passage.questions.0.question:Kaj je potreboval Karl pred odhodom v Laboratorij?
+passage.questions.0.idx:30
+passage.questions.0.answers.6.text:Sončni zbiralnik
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:195.0
+passage.questions.0.answers.5.text:Tako gumo kot sončni zbiralnik
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:194.0
+passage.questions.0.answers.4.text:Samo sončni zbiralnik
+passage.questions.0.answers.4.label:0.0
+passage.questions.0.answers.4.idx:193.0
+passage.questions.0.answers.3.text:Samo gumo
+passage.questions.0.answers.3.label:0.0
+passage.questions.0.answers.3.idx:192.0
+passage.questions.0.answers.2.text:10 dni
+passage.questions.0.answers.2.label:0.0
+passage.questions.0.answers.2.idx:191.0
+passage.questions.0.answers.1.text:Gumo in sončni zbiralnik
+passage.questions.0.answers.1.label:1
+passage.questions.0.answers.1.idx:190
+passage.questions.0.answers.0.text:Gumo
+passage.questions.0.answers.0.label:1
+passage.questions.0.answers.0.idx:189
+idx:2

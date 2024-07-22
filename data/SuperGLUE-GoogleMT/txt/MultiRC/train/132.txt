@@ -1,0 +1,73 @@
+version:1.1
+passage.text:(CNN) - Odstavljeni honduraški predsednik Jose Manuel Zelaya ne bo ponovno imenovan za predsednika države, v sredo je glasovala velika večina honduraškega kongresa. V večurnem postopku je 111 poslancev glasovalo za predlog, da se Zelaya ne vrne na položaj. Za zavrnitev njegove ponovne vložitve je bila potrebna večina 65 glasov v 128-članskem telesu. Zelaya je bil v vojaškem udaru 28. junija odstranjen s položaja in ga je zamenjal vodja kongresa Roberto Micheletti. V sredo so poslanci glasovali eden za drugim in med oddajo glasov nagovorili zbornico, s čimer je potekal počasen postopek. Glasovanje je bilo ključni del pakta, ki so ga posredovali ZDA, ki so ga predstavniki Zelaye in Michelettija podpisali 29. oktobra, s čimer je imel Kongres pooblastilo, da odloča o usodi Zelaye. ZDA so v četrtek izrazile razočaranje nad zadnjim zavračanjem diplomatskih prizadevanj za konec politične krize v Hondurasu. Ameriški pomočnik državnega sekretarja za zadeve zahodne poloble Arturo Valenzuela je še naprej pozval honduraško vlado, naj omogoči vrnitev Zelaye in v vmesnem obdobju ustanovi vlado enotnosti, preden novi predsednik nastopi funkcijo prihodnji mesec. &quot;Razočarani smo nad to odločitvijo, saj so ZDA upale, da bo [honduraški] kongres odobril njegovo vrnitev,&quot; je dejal Valenzuela v konferenčnem klicu z novinarji v Washingtonu. &quot;Naša politika od 28. junija je dosledno načelna. Obsodila je državni udar in še naprej sprejemala predsednika Zelaya kot demokratično izvoljenega in legitimnega voditelja Hondurasa v tej politični krizi.&quot; ZDA še naprej pozivajo Honduras, naj se poleg vlade enotnosti vključi v nacionalno spravo in ustanovi komisijo za resnico, ki bo preiskovala krizo. &quot;Odsotnost demokratične, ustavne ureditve je nesprejemljiv status quo,&quot; je na konferenci povedal visoki uslužbenec ameriške administracije, ki je glede na občutljivost situacije ostal anonimen v skladu s temeljnimi pravili razpisa. &quot;Volitve so korak k dnevu, ko bo Honduras vzpostavil volilno legitimno vlado.&quot;
+passage.questions.4.question:Koliko poslancev je od 128-članskega telesa glasovalo, da Zelaya ne vrne na položaj?
+passage.questions.4.idx:1516.0
+passage.questions.4.answers.2.text:132
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:7910.0
+passage.questions.4.answers.1.text:65
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:7909.0
+passage.questions.4.answers.0.text:111
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:7908.0
+passage.questions.3.question:Kdo je še naprej sprejemal predsednika Zelaya kot demokratično izvoljenega in legitimnega voditelja Hondurasa po državnem udaru?
+passage.questions.3.idx:1515.0
+passage.questions.3.answers.4.text:Arturo Valenzuela
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:7907.0
+passage.questions.3.answers.3.text:Ekvador
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:7906.0
+passage.questions.3.answers.2.text:Roberto Micheletti
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:7905.0
+passage.questions.3.answers.1.text:Združene države
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:7904.0
+passage.questions.3.answers.0.text:Pomočnik ameriškega državnega sekretarja za zadeve zahodne poloble
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:7903.0
+passage.questions.2.question:Kdo je pozval k nacionalni spravi in ustanovitvi komisije za resnico, ki bo poleg vlade enotnosti preiskala krizo, preden bo novi predsednik prevzel funkcijo prihodnji mesec?
+passage.questions.2.idx:1514.0
+passage.questions.2.answers.3.text:Britanija
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:7902.0
+passage.questions.2.answers.2.text:Združene države
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:7901.0
+passage.questions.2.answers.1.text:Ekvador
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7900.0
+passage.questions.2.answers.0.text:Pomočnik ameriškega državnega sekretarja za zadeve zahodne poloble Arturo Valenzuela
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:7899.0
+passage.questions.1.question:Zakaj je glasovanje za 128-člansko telo potekalo počasi?
+passage.questions.1.idx:1513.0
+passage.questions.1.answers.4.text:Poslanci so glasovali eden za drugim in med oddajo glasu nagovorili zbornico
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:7898.0
+passage.questions.1.answers.3.text:Vsak poslanec je nagovoril zbornico, ko je glasoval
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:7897.0
+passage.questions.1.answers.2.text:Zakonodajalci so glasovali posamezno
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:7896.0
+passage.questions.1.answers.1.text:Mnogi poslanci so bili neodločni
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:7895.0
+passage.questions.1.answers.0.text:Bilo je mrzlo in ljudje so bili bolni
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:7894.0
+passage.questions.0.question:Kdaj se je zgodil državni udar, ki je odstavil predsednika Zelajo?
+passage.questions.0.idx:1512
+passage.questions.0.answers.2.text:29. oktober
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:7893.0
+passage.questions.0.answers.1.text:30. junija
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7892
+passage.questions.0.answers.0.text:28. junija
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:7891
+idx:132

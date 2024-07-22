@@ -1,0 +1,172 @@
+version:1.1
+passage.text:Devet družin, razseljenih zaradi požara v apartmajih Alamo Hills marca, je v sredo vložilo tožbo proti stanovanjskemu naselju. Trdijo, da bi lahko kompleks naredil več za zaščito stvari, ki so jih bili prisiljeni zapustiti po požaru. Bernard Dempsey mlajši, odvetnik pravne službe Western Michigan, skupine, ki zastopa najemnike, je dejal, da je Alamo Hills razseljenim družinam dal zelo omejeno možnost, da odstranijo stvari. &quot;Dobili so tri dni časa, da so svoje stvari spravili ven, in če se v treh dneh niso mogli odseliti, so jih zavrgli,&quot; je dejal Dempsey. &quot;Alamo Hills ga je kar vrgel ven.&quot; Po njegovih besedah so po požaru 23. marca, zaradi katerega je 78 ljudi začasno ostalo brez strehe nad glavo, plenilci izgubili lastnino. V skladu s tožbo je bilo najemnikom prepovedan vstop v njihova stanovanja po lastnino in obljubljali so, da bo kompleks zagotavljal varnost. Tiskovnega predstavnika podjetja PM One, ki upravlja Alamo Hills, ni bilo mogoče dobiti komentarja. Na 8. okrožno sodišče, ki obravnava civilne zahtevke v vrednosti manj kot 25.000 USD, je bilo vloženih devet ločenih tožb. &quot;Zahtevamo povračilo vrednosti njihovega premoženja in majhen znesek za stres - 3000 dolarjev za povrnitev stroškov iz žepa za izgubljene stvari,&quot; je dejal Dempsey. &quot;S tem se ne želijo obogatiti. Veliko tega je preprosto zato, ker so z njimi ravnali tako hudo.&quot; Dempsey je dejal, da večina najemnikov, ki so vložili tožbe, še vedno živi v stanovanjskem naselju, čeprav mnogi skušajo domove najti drugje. &quot;Nova stanovanja (dobili so jih) niso bila v zelo dobri formi. To je pravzaprav ena od trditev,&quot; je dejal.
+passage.questions.9.question:Kje je po požaru živela večina najemnikov, ki so vložili tožbe?
+passage.questions.9.idx:1772.0
+passage.questions.9.answers.3.text:Še vedno živite v apartmajskem naselju
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:9228.0
+passage.questions.9.answers.2.text:PM One
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:9227.0
+passage.questions.9.answers.1.text:Apartmaji Alamo Hills
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:9226.0
+passage.questions.9.answers.0.text:Apartmajsko naselje
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:9225.0
+passage.questions.8.question:Kateri odvetnik je po požaru v apartmajih Alamo Hills rekel, da ga je &quot;Alamo Hills pravkar vrgel ven?&quot;
+passage.questions.8.idx:1771.0
+passage.questions.8.answers.2.text:Bernard Dempsey ml
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:9224.0
+passage.questions.8.answers.1.text:Dempsey
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:9223.0
+passage.questions.8.answers.0.text:Tiskovni predstavnik PM
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:9222.0
+passage.questions.7.question:Kakšna je razlika v vrednosti med najvišjim številom civilnih zahtevkov na 8. okrožnem sodišču in povračilom, ki ga je Dempsey zahteval poleg lastnih stroškov?
+passage.questions.7.idx:1770.0
+passage.questions.7.answers.5.text:3000 dolarjev
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:9221.0
+passage.questions.7.answers.4.text:Najemnikom je bilo prepovedano vstopati v njihova stanovanja po stvari
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:9220.0
+passage.questions.7.answers.3.text:22.000 dolarjev
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:9219.0
+passage.questions.7.answers.2.text:22000 USD
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:9218.0
+passage.questions.7.answers.1.text:25000-3000
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:9217.0
+passage.questions.7.answers.0.text:Civilni zahtevki manj kot 25.000 USD in majhen znesek za stres - 3.000 USD
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:9216.0
+passage.questions.6.question:Kako je ime družbe za upravljanje, ki upravlja stanovanjsko naselje, v katerem je bilo marca razseljenih devet družin?
+passage.questions.6.idx:1769.0
+passage.questions.6.answers.3.text:PM One
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:9215.0
+passage.questions.6.answers.2.text:Apartmaji Alamo Hills
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:9214.0
+passage.questions.6.answers.1.text:Brezdomci
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:9213.0
+passage.questions.6.answers.0.text:Alamo Hills
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:9212.0
+passage.questions.5.question:Izkazalo se je, da nova stanovanja, predvidena za najemnike, niso v zelo dobri formi. Je bilo to dejstvo del pravnih zahtevkov najemnikov?
+passage.questions.5.idx:1768.0
+passage.questions.5.answers.2.text:Da, poslano 15: To je pravzaprav ena od trditev
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:9211.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:9210.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:9209.0
+passage.questions.4.question:Kaj devet družin zahteva v svojih tožbah?
+passage.questions.4.idx:1767.0
+passage.questions.4.answers.4.text:Zahtevajo povrnitev vrednosti njihovega premoženja in majhno količino stresa, ki so ga bili deležni
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:9208.0
+passage.questions.4.answers.3.text:Na 8. okrožno sodišče, ki obravnava civilne zahtevke v vrednosti manj kot 25.000 USD, je bilo vloženih devet ločenih tožb
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:9207.0
+passage.questions.4.answers.2.text:Najemnikom je bil prepovedan vstop v njihova stanovanja po lastnino in obljubili so, da bo kompleks zagotavljal varnost
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:9206.0
+passage.questions.4.answers.1.text:Povračilo vrednosti njihovega premoženja in 3.000 ameriških dolarjev povrh njihovih lastnih stroškov
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:9205.0
+passage.questions.4.answers.0.text:25000
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:9204.0
+passage.questions.3.question:Kdo je trdil, da se najemniki Alamo Hills niso želeli obogatiti s svojimi tožbami?
+passage.questions.3.idx:1766.0
+passage.questions.3.answers.4.text:Bernard Dempsey ml
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:9203.0
+passage.questions.3.answers.3.text:Odvetnik
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:9202.0
+passage.questions.3.answers.2.text:Tiskovni predstavnik PM One
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:9201.0
+passage.questions.3.answers.1.text:Dempsey
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:9200.0
+passage.questions.3.answers.0.text:Alamo Hills
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:9199.0
+passage.questions.2.question:Kaj je devet družin trdilo, da apartmaji Alamo Hills niso zaščitili?
+passage.questions.2.idx:1765.0
+passage.questions.2.answers.3.text:Njihove stvari
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:9198.0
+passage.questions.2.answers.2.text:Njihova stanovanja
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:9197.0
+passage.questions.2.answers.1.text:Po požaru 23. marca, ki je 78 ljudi začasno ostalo brez strehe nad glavo, so plenilci izgubili imetje
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:9196.0
+passage.questions.2.answers.0.text:Trdijo, da bi lahko kompleks naredil več za zaščito stvari, ki so jih bili po požaru prisiljeni zapustiti
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:9195.0
+passage.questions.10.question:Kaj je dokaz, da je kompleks prelomil obljubo, da bo zagotovil varnost?
+passage.questions.10.idx:1773.0
+passage.questions.10.answers.4.text:&quot;Dobili so tri dni časa, da so svoje stvari spravili ven, in če se v treh dneh niso mogli odseliti, so jih zavrgli,&quot; je dejal Dempsey. Poslano 5: &quot;Alamo Hills je pravkar vrgel ven.&quot;
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:9233.0
+passage.questions.10.answers.3.text:Nekatere družine so po požaru izgubile lastnino plenilcem
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:9232.0
+passage.questions.10.answers.2.text:V posest niso smeli vstopiti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:9231.0
+passage.questions.10.answers.1.text:Prebivalci so izgubili lastnino zaradi plenilcev
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:9230.0
+passage.questions.10.answers.0.text:Devet družin, razseljenih zaradi požara v apartmajih Alamo Hills marca, je v sredo vložilo tožbo proti stanovanjskemu naselju
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:9229.0
+passage.questions.1.question:Zakaj je devet družin, razseljenih zaradi požara v apartmajih Alamo Hills, vložilo tožbo proti stanovanjskemu naselju?
+passage.questions.1.idx:1764.0
+passage.questions.1.answers.4.text:Trdijo, da bi lahko kompleks bolje zaščitil njihove stvari
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:9194.0
+passage.questions.1.answers.3.text:Najemnikom je bilo prepovedano vstopati v njihova stanovanja po stvari
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:9193.0
+passage.questions.1.answers.2.text:Prekinjen najem
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:9192.0
+passage.questions.1.answers.1.text:Rekli so, da bi lahko kompleks naredil več za zaščito stvari, ki so jih bili po požaru prisiljeni zapustiti
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:9191.0
+passage.questions.1.answers.0.text:Trdijo, da bi lahko kompleks naredil več za zaščito stvari, ki so jih bili po požaru prisiljeni zapustiti
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:9190.0
+passage.questions.0.question:Zakaj je na splošno devet družin, ki jih je požar razselil v apartmajih Alamo Hills, vložilo tožbo proti stanovanjskemu naselju?
+passage.questions.0.idx:1763
+passage.questions.0.answers.4.text:Najemnikom je bil prepovedan vstop v njihova stanovanja
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:9189.0
+passage.questions.0.answers.3.text:Po požaru so bili prisiljeni opustiti
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:9188.0
+passage.questions.0.answers.2.text:Družine so povedale, da bi lahko kompleks naredil več za zaščito stvari, ki so jih bili po požaru prisiljeni zapustiti
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:9187.0
+passage.questions.0.answers.1.text:Tožena zaradi požara
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:9186
+passage.questions.0.answers.0.text:Domnevni kompleks ni zaščitil njihovih stvari
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:9185
+idx:158

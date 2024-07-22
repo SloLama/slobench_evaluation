@@ -1,0 +1,136 @@
+version:1.1
+passage.text:Francoske in britanske vezi in poklic: Hči Ferdinanda in Isabelle se je poročila s sinom in naslednikom svetega rimskega cesarja Maksimilijanom Habsburškim. Španska krona je bila pravilno predana Habsburžanom, Španija pa je ostala v njihovih rokah, dokler slabotni Carlos II ni umrl leta 1700 in ni pustil nobenega naslednika. Francija je izkoristila priložnost, da je na španskem prestolu postavila mladega vnuka Ludvika XIV. Tekmovalca iz Hapsburga sta podprli Avstrija in Britanija, ki sta v močni špansko-francoski zvezi zaznali veliko grožnjo. V kasnejši španski nasledstveni vojni (1702–1713) je večina starega kraljestva Aragón, vključno z Baleari, podprla Habsburžane. Britanija je zasegla Gibraltar - v imenu tožeče stranke Habsburg - in ga obdržala, ko se je vojna končala. Leta 1708 je Britanija kraljevi mornarici zavzela Menorko in veličastno pristanišče Mahón (Maó). Anglija se ga je držala, tudi ko so burbonske sile ob koncu vojne zajele Mallorco. Menorca je v manj kot stoletju še petkrat zamenjala Britanijo, Francijo in Španijo. Britanija je otok leta 1802 dokončno prepustila Španiji v skladu z Amiensko pogodbo. Do leta 1805 se je Španija spet pridružila Franciji in španske ladje so se skupaj s Francozi borile proti Nelsonu pri Trafalgarju. Napoleon je španskemu zavezniku zaupal in španskega kralja na silo zamenjal z lastnim bratom Josephom Bonapartejem. Francoska vojska je vkorakala, da bi si podredila državo. Španci so se uprli in ob pomoči britanskih vojakov, ki jim je poveljeval vojvoda Wellington, pregnali Francoze. Kar britanski zgodovinarji imenujejo polotočna vojna (1808–1814), je v Španiji znano kot vojna za neodvisnost. V 19. stoletju so se po Napoleonovih vojnah praktično vse španske posesti v Ameriki odcepile in nekaj tistih, ki so ostale, se je konec 19. stoletja izgubilo. Nadalje zapostavljeni Baleari so bili obdani z revščino in izbruhi bolezni. Toda proti 20. stoletju so se stvari na otokih začele izboljševati, Mallorca je požela koristi od uspešnih kmetijskih pridelkov, Menorca pa je začela izvozno čevljarsko industrijo.
+passage.questions.7.question:Koliko približno stoletij je minilo med špansko nasledstveno vojno in ko so se na Mallorci in Menorci stvari začele izboljševati?
+passage.questions.7.idx:310.0
+passage.questions.7.answers.3.text:Ena
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1675.0
+passage.questions.7.answers.2.text:3.
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1674.0
+passage.questions.7.answers.1.text:4.
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1673.0
+passage.questions.7.answers.0.text:Dva
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1672.0
+passage.questions.6.question:V katerem stoletju so Balearji zajeli revščina in izbruhi bolezni?
+passage.questions.6.idx:309.0
+passage.questions.6.answers.2.text:20.
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1671.0
+passage.questions.6.answers.1.text:18
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1670.0
+passage.questions.6.answers.0.text:19.
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:1669.0
+passage.questions.5.question:Koliko let je minilo med tem, ko so se Španci skupaj s Francozi borili proti Nelsonu pri Trafalgarju in začetkom polotočne vojne?
+passage.questions.5.idx:308.0
+passage.questions.5.answers.3.text:6 let
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1668.0
+passage.questions.5.answers.2.text:9 let
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1667.0
+passage.questions.5.answers.1.text:12 let
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1666.0
+passage.questions.5.answers.0.text:3 leta
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:1665.0
+passage.questions.4.question:Kako se imenuje otok, ki ga je Britanija leta 1802 odstopila Španiji?
+passage.questions.4.idx:307.0
+passage.questions.4.answers.5.text:Gibraltar
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:1664.0
+passage.questions.4.answers.4.text:MahÃ³n (MaÃ³)
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1663.0
+passage.questions.4.answers.3.text:Mallorca
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1662.0
+passage.questions.4.answers.2.text:Amiens
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1661.0
+passage.questions.4.answers.1.text:Trafalgar
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1660.0
+passage.questions.4.answers.0.text:Menorca
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1659.0
+passage.questions.3.question:Koliko let je minilo med smrtjo Carlosa II in začetkom španske nasledstvene vojne?
+passage.questions.3.idx:306.0
+passage.questions.3.answers.4.text:13 let
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1658.0
+passage.questions.3.answers.3.text:108 let
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1657.0
+passage.questions.3.answers.2.text:114 let
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1656.0
+passage.questions.3.answers.1.text:13 let
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1655.0
+passage.questions.3.answers.0.text:2 leti
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:1654.0
+passage.questions.2.question:Česa se je oklepala Anglija, potem ko so burbonske sile ob koncu vojne zajele Mallorco?
+passage.questions.2.idx:305.0
+passage.questions.2.answers.4.text:Mallorca
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1653.0
+passage.questions.2.answers.3.text:Amiens
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1652.0
+passage.questions.2.answers.2.text:Gibraltar
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1651.0
+passage.questions.2.answers.1.text:pristanišče MahÃ³n (MaÃ³)
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:1650.0
+passage.questions.2.answers.0.text:Menorca
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:1649.0
+passage.questions.1.question:Francoska vojska je korakala, da bi si podredila katero državo?
+passage.questions.1.idx:304.0
+passage.questions.1.answers.4.text:Britian
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1648.0
+passage.questions.1.answers.3.text:Avstrija
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:1647.0
+passage.questions.1.answers.2.text:Britanija
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1646.0
+passage.questions.1.answers.1.text:Trafalgar
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:1645.0
+passage.questions.1.answers.0.text:Španija
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:1644.0
+passage.questions.0.question:Kateri otok je Velika Britanija dokončno prepustila Španiji leta 1802?
+passage.questions.0.idx:303
+passage.questions.0.answers.6.text:kraljestvo Aragón
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:1643.0
+passage.questions.0.answers.5.text:Amiens
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1642.0
+passage.questions.0.answers.4.text:Gibraltar
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1641.0
+passage.questions.0.answers.3.text:Trafalgar
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:1640.0
+passage.questions.0.answers.2.text:Mallorca
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1639.0
+passage.questions.0.answers.1.text:Španija
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1638
+passage.questions.0.answers.0.text:Francija
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1637
+idx:26

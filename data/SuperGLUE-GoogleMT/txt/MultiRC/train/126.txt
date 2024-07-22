@@ -1,0 +1,112 @@
+version:1.1
+passage.text:William C. Walbrecher mlajši, izvršni direktor banke Nationwide s sedežem v San Franciscu, je bil imenovan za predsednika in izvršnega direktorja družbe Citadel Holding Corp. in njene glavne operativne enote Fidelity Federal Bank. Imenovanje začne veljati 13. novembra. Nasledil je Jamesa A. Taylorja, ki je marca iz zdravstvenih razlogov odstopil s položaja predsednika, predsednika in izvršnega direktorja. Edward L. Kane je nasledil gospoda Taylorja na položaju predsednika. Ločeno je Citadel v tretjem četrtletju objavil neto izgubo v višini 2,3 milijona dolarjev ali 68 centov na delnico v primerjavi s čistim prihodkom v višini 5,3 milijona dolarjev ali 1,61 dolarja na delnico leto prej. Najnovejši rezultati vključujejo nekaj nenavadnih odpisov, ki so imeli po obdavčitvi 4,9 milijona dolarjev. Vključevali so stroške, povezane z morebitno pridobitvijo zveze Save Save Savings and Loan Association, ki je bila zaključena 27. septembra 1989. Poleg tega je na poslovne rezultate vplivalo povečanje posojil in rezerv za izgube nepremičnin. V ameriški borzi s kompozitnimi delnicami so se delnice Citadele včeraj končale pri 45,75 dolarja, kar je za 25 centov manj.
+passage.questions.4.question:Zakaj je James Taylor odstopil in kdo ga je nasledil kot predsednika?
+passage.questions.4.idx:1465.0
+passage.questions.4.answers.6.text:Zdravstveni razlogi in Edward L. Kane
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:7654.0
+passage.questions.4.answers.5.text:Zdravstveni razlogi, William C. Walbrecher ml
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:7653.0
+passage.questions.4.answers.4.text:Zdravstveni razlogi in William C. Walbrecher mlajši, brat Edwarda L. Kanea
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:7652.0
+passage.questions.4.answers.3.text:Družinski razlogi, Edward L. Kane
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:7651.0
+passage.questions.4.answers.2.text:Iz zdravstvenih razlogov Edward L. Kane
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:7650.0
+passage.questions.4.answers.1.text:Slabi finančni rezultati in William C. Walbrecher ml
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:7649.0
+passage.questions.4.answers.0.text:Zdravstveni razlogi, Cecil Chadwick
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:7648.0
+passage.questions.3.question:Kaj se je včeraj zaprlo na borzi in kakšen je bil dobiček na delnico v lanskem tretjem četrtletju?
+passage.questions.3.idx:1464.0
+passage.questions.3.answers.6.text:3,21 USD na delnico, 5,67 USD na delnico
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:7647.0
+passage.questions.3.answers.5.text:1,61 USD na delnico, 3,21 USD
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:7646.0
+passage.questions.3.answers.4.text:45,75 in 2,30 USD
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:7645.0
+passage.questions.3.answers.3.text:0,25 USD za delnico, 4,51 USD za delnico
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:7644.0
+passage.questions.3.answers.2.text:45,75 dolarja in 68 centov
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:7643.0
+passage.questions.3.answers.1.text:45,75 USD in 1,61 USD
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:7642.0
+passage.questions.3.answers.0.text:Delnice so se včeraj zaključile v višini 45,75 USD, 1,61 USD na delnico, leto prej
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:7641.0
+passage.questions.2.question:Na čem je borza 1. narodne banke in kakšna je bila čista izguba v tretjem četrtletju?
+passage.questions.2.idx:1463.0
+passage.questions.2.answers.6.text:4,9 milijona dolarjev
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:7640.0
+passage.questions.2.answers.5.text:Ameriška borza z neto izgubo 2,3 milijona dolarjev
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:7639.0
+passage.questions.2.answers.4.text:5,3 milijona dolarjev
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:7638.0
+passage.questions.2.answers.3.text:Citadela s 4,9 milijona dolarjev
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:7637.0
+passage.questions.2.answers.2.text:Ameriška borza delnic (AMEX) z neto izgubo v tretjem četrtletju 2,3 milijona
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:7636.0
+passage.questions.2.answers.1.text:Valley Federal Savings z 2,3 milijona dolarjev
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7635.0
+passage.questions.2.answers.0.text:Evropska borza s 5,3 milijona dolarjev
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:7634.0
+passage.questions.1.question:Kdo je predsednik in izvršni direktor 1. narodne banke pred 13. novembrom?
+passage.questions.1.idx:1462.0
+passage.questions.1.answers.4.text:James A. Walbrecher
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:7633.0
+passage.questions.1.answers.3.text:James A Taylor
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:7632.0
+passage.questions.1.answers.2.text:Edward L. Kane
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:7631.0
+passage.questions.1.answers.1.text:Samuel E. Cullins
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:7630.0
+passage.questions.1.answers.0.text:William C. Walbrecher ml
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:7629.0
+passage.questions.0.question:Katera banka je bila potencialna pridobitev in kakšen kvater je bila s tem povezana izguba?
+passage.questions.0.idx:1461
+passage.questions.0.answers.6.text:Nacionalna banka
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:7628.0
+passage.questions.0.answers.5.text:Citadel Holding Corp., 3. četrtletje
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:7627.0
+passage.questions.0.answers.4.text:Pridobitev Valley Federal Savings and Loan Association, 3. četrtletje
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:7626.0
+passage.questions.0.answers.3.text:1. Nationwide Bank s sedežem v San Franciscu, 2. četrtletje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:7625.0
+passage.questions.0.answers.2.text:Valley Federal Savings and Loan Association, tretje četrtletje
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7624.0
+passage.questions.0.answers.1.text:Valley Federal Savings and Loan Association, 1. četrtina
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7623
+passage.questions.0.answers.0.text:Prva nacionalna banka s sedežem v San Franciscu, 1. četrtletje
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7622
+idx:126

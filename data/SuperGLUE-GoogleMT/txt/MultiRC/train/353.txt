@@ -1,0 +1,338 @@
+version:1.1
+passage.text:{{zaplet}} Leta 1964, na vrhuncu Beatlemanije, nejevoljnega Johna Lennona menedžer Brian Epstein prepriča, naj se s Freddiejem Lennonom, očetom, ki ga je zapustil sedemnajst let prej, udeleži tisk. Ko se srečata, Janez očita očetu, da ga je zapustil, oče pa pravi, da je &quot;prepustil Janezu. &#39;&#39; John in Brian hitro zapustita sestanek. Film nato skoči na leto 1967, potem ko je Brian Epstein umrl. The Beatles na tiskovni konferenci o svojem novem filmu Magical Mystery Tour. John je skeptičen glede filma, toda Paul ((((Andrew Scott ga prepriča, naj nadaljuje s to idejo. John nato povabi očeta v svoj dvorec, da bi živel z njim. Freddie Lennon pride in sreča svojega vnuka Juliana. Sedi s svojo ženo , John bere kritike čarovniške skrivnostne turneje, medtem ko primerja svojo ženo z Brigitte Bardot, za katero pravi, da se bo srečal po vrnitvi iz Indije. John najde pismo, naslovljeno nanj, na njem pa je napisana beseda &quot;Dihaj&quot;. Kasneje, ko je oče našel v sosedovi hiši, Freddie razkrije, da ima 19-letno punco Pauline, s katero želi živeti. Lennon očita očetu, da ga je spet zapustil, nato pa odide, potem ko je očetu rekel, da je ne bodo več živeli z njim. Po srečanju z Maharishi Mahesh Yogiem se Beatli hitro vrnejo v London in na tiskovni konferenci trdijo, da so naredili napako, ko so zaupali Maharishiju. Novinarji so radovedni glede novega posla Beatlov - App le Records.
+passage.questions.9.question:John in Brian hitro zapustijo sestanek s kom?
+passage.questions.9.idx:4061.0
+passage.questions.9.answers.5.text:Julian Lennon
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:21538.0
+passage.questions.9.answers.4.text:Brian Epstein
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:21537.0
+passage.questions.9.answers.3.text:Freddie
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:21536.0
+passage.questions.9.answers.2.text:Freddie Lennon
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:21535.0
+passage.questions.9.answers.1.text:John Lennnonov oče
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:21534.0
+passage.questions.9.answers.0.text:Maharishi Mahesh Yogi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:21533.0
+passage.questions.8.question:V katerem letu je Freddie Lennon rekel, da &quot;je prepustil Johnu.&quot;?
+passage.questions.8.idx:4060.0
+passage.questions.8.answers.3.text:Leto, ko se je prvič srečal s sinom
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:21532.0
+passage.questions.8.answers.2.text:1967
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:21531.0
+passage.questions.8.answers.1.text:Leta 1964
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:21530.0
+passage.questions.8.answers.0.text:1947
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:21529.0
+passage.questions.7.question:Poimenujte upravitelja Johna Lennona, ki je umrl okoli leta 1967.
+passage.questions.7.idx:4059.0
+passage.questions.7.answers.3.text:Brian
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:21528.0
+passage.questions.7.answers.2.text:Brian Epstein
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:21527.0
+passage.questions.7.answers.1.text:Andrew Scott
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:21526.0
+passage.questions.7.answers.0.text:Freddie Lennon
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:21525.0
+passage.questions.6.question:Kaj se je zgodilo tri leta po tem, ko je John leta 1964 spoznal Freddieja?
+passage.questions.6.idx:4058.0
+passage.questions.6.answers.6.text:Brian Epstein je umrl
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:21524.0
+passage.questions.6.answers.5.text:Beatli so naredili čarobno skrivnostno turnejo
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:21523.0
+passage.questions.6.answers.4.text:Njegov oče se je poročil
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:21522.0
+passage.questions.6.answers.3.text:Šel je na turnejo
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:21521.0
+passage.questions.6.answers.2.text:John Lennon se je rodil
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:21520.0
+passage.questions.6.answers.1.text:Povabil ga je, naj živi v njegovem dvorcu
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:21519.0
+passage.questions.6.answers.0.text:Janez je povabil očeta, da bi živel z njim
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:21518.0
+passage.questions.5.question:Glede katerega filma je John skeptičen?
+passage.questions.5.idx:4057.0
+passage.questions.5.answers.4.text:Rumena podmornica
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:21517.0
+passage.questions.5.answers.3.text:Beatlemania
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:21516.0
+passage.questions.5.answers.2.text:Čarobna skrivnostna tura
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:21515.0
+passage.questions.5.answers.1.text:Jogi
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:21514.0
+passage.questions.5.answers.0.text:Njihov najnovejši film
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:21513.0
+passage.questions.4.question:Katerega leta imajo Beatli tiskovno konferenco o svojem novem filmu Čarobna skrivnostna turneja?
+passage.questions.4.idx:4056.0
+passage.questions.4.answers.4.text:Leto, ko je umrl Brian Epstein
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:21512.0
+passage.questions.4.answers.3.text:Leto, ko so se Beatli razšli
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:21511.0
+passage.questions.4.answers.2.text:1967
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:21510.0
+passage.questions.4.answers.1.text:1970
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21509.0
+passage.questions.4.answers.0.text:1964
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:21508.0
+passage.questions.3.question:Do katerega filma, povezanega z Beatli, je John skeptičen?
+passage.questions.3.idx:4055.0
+passage.questions.3.answers.4.text:Rumena podmornica
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:21507.0
+passage.questions.3.answers.3.text:Čarobna skrivnostna tura
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:21506.0
+passage.questions.3.answers.2.text:Dihaj
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:21505.0
+passage.questions.3.answers.1.text:Turneja Beatlov v čarobni skrivnosti
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:21504.0
+passage.questions.3.answers.0.text:Maharishi Mahesh Yogi
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:21503.0
+passage.questions.2.question:Kako je ime človeku, ki ga John Lennon povabi v svoj dvorec?
+passage.questions.2.idx:4054.0
+passage.questions.2.answers.3.text:Njegov oče Freddie
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:21502.0
+passage.questions.2.answers.2.text:Brian Epstein
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:21501.0
+passage.questions.2.answers.1.text:Freddie Lennon
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:21500.0
+passage.questions.2.answers.0.text:Andrew Scott
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21499.0
+passage.questions.18.question:Kdo je Janezov oče?
+passage.questions.18.idx:4070.0
+passage.questions.18.answers.5.text:Freddie lenon
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:21584.0
+passage.questions.18.answers.4.text:Brian Epstein
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:21583.0
+passage.questions.18.answers.3.text:Andrew Scott
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:21582.0
+passage.questions.18.answers.2.text:Freddie
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:21581.0
+passage.questions.18.answers.1.text:Freddie Lennon
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:21580.0
+passage.questions.18.answers.0.text:Thomas Jones
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:21579.0
+passage.questions.17.question:Kakšen je Freddiejev priimek?
+passage.questions.17.idx:4069.0
+passage.questions.17.answers.4.text:Enako kot John
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:21578.0
+passage.questions.17.answers.3.text:Scott
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:21577.0
+passage.questions.17.answers.2.text:Lennon
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:21576.0
+passage.questions.17.answers.1.text:Jones
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:21575.0
+passage.questions.17.answers.0.text:Epstein
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:21574.0
+passage.questions.16.question:V katerem letu je umrl upravnik Johna Lennona?
+passage.questions.16.idx:4068.0
+passage.questions.16.answers.4.text:1967
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:21573.0
+passage.questions.16.answers.3.text:1969
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:21572.0
+passage.questions.16.answers.2.text:Izšla je letnica Magical Mystery Tour
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:21571.0
+passage.questions.16.answers.1.text:1964
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:21570.0
+passage.questions.16.answers.0.text:Leto, ko je nastal Apple Records
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:21569.0
+passage.questions.15.question:Kolikokrat je v zgodbi Freddie Lennon zapustil ali zapustil Johna Lennona?
+passage.questions.15.idx:4067.0
+passage.questions.15.answers.5.text:6-krat
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:21568.0
+passage.questions.15.answers.4.text:Nikoli ga ni zapustil
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:21567.0
+passage.questions.15.answers.3.text:2.
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:21566.0
+passage.questions.15.answers.2.text:2-krat
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:21565.0
+passage.questions.15.answers.1.text:Dvakrat
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:21564.0
+passage.questions.15.answers.0.text:3-krat
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:21563.0
+passage.questions.14.question:Koga Janez čuti zapuščenega?
+passage.questions.14.idx:4066.0
+passage.questions.14.answers.4.text:Brian Epstein
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:21562.0
+passage.questions.14.answers.3.text:Njegov oče
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:21561.0
+passage.questions.14.answers.2.text:Freddie Lennon
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:21560.0
+passage.questions.14.answers.1.text:Maharishi Mahesh Yogi
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:21559.0
+passage.questions.14.answers.0.text:Stric
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:21558.0
+passage.questions.13.question:Kako je ime sina Johna Lennona?
+passage.questions.13.idx:4065.0
+passage.questions.13.answers.4.text:Thomas
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:21557.0
+passage.questions.13.answers.3.text:Julian Lennon
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:21556.0
+passage.questions.13.answers.2.text:Freddie
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:21555.0
+passage.questions.13.answers.1.text:Brian
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:21554.0
+passage.questions.13.answers.0.text:Julian
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:21553.0
+passage.questions.12.question:Do katerega filma je John skeptičen?
+passage.questions.12.idx:4064.0
+passage.questions.12.answers.4.text:Beatlemania
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:21552.0
+passage.questions.12.answers.3.text:Čarobna skrivnostna tura
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:21551.0
+passage.questions.12.answers.2.text:Najnovejši film Beatlov
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:21550.0
+passage.questions.12.answers.1.text:Podmornica yello
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:21549.0
+passage.questions.12.answers.0.text:Maharishi Mahesh Yogi
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:21548.0
+passage.questions.11.question:Iz katerega leta sta se John in Brian hitro odpravila?
+passage.questions.11.idx:4063.0
+passage.questions.11.answers.3.text:1967
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:21547.0
+passage.questions.11.answers.2.text:1964
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:21546.0
+passage.questions.11.answers.1.text:1947
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:21545.0
+passage.questions.11.answers.0.text:Vrhunec Beatlemanije
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:21544.0
+passage.questions.10.question:V katerem letu se Janez sreča z očetom in mu očita opustitev sedemnajst let prej?
+passage.questions.10.idx:4062.0
+passage.questions.10.answers.4.text:1967
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:21543.0
+passage.questions.10.answers.3.text:Na vrhuncu Beatlemanije leta 1964
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:21542.0
+passage.questions.10.answers.2.text:1970
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:21541.0
+passage.questions.10.answers.1.text:1947
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:21540.0
+passage.questions.10.answers.0.text:1964
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:21539.0
+passage.questions.1.question:Kaj so novinarji med novinarsko konferenco Beatlov po srečanju z Maharishi Mahesh Yogi-jem najbolj zanimivi novinarji?
+passage.questions.1.idx:4053.0
+passage.questions.1.answers.6.text:Apple Records
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:21498.0
+passage.questions.1.answers.5.text:Njegov sin
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:21497.0
+passage.questions.1.answers.4.text:Podjetje za jabolka
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:21496.0
+passage.questions.1.answers.3.text:Njuno srečanje z jogijem
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21495.0
+passage.questions.1.answers.2.text:Freddie Lennon
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:21494.0
+passage.questions.1.answers.1.text:Ustvarjanje Apple Records
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:21493.0
+passage.questions.1.answers.0.text:Novo podjetje Apple Records
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21492.0
+passage.questions.0.question:Brian Epstein je umrl med dvema letoma, omenjenima v zgodbi?
+passage.questions.0.idx:4052
+passage.questions.0.answers.5.text:1967
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:21491.0
+passage.questions.0.answers.4.text:Leto, ko se je rodil John Lennon, in leto, ko ga je zapustil oče
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:21490.0
+passage.questions.0.answers.3.text:1969
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:21489.0
+passage.questions.0.answers.2.text:Leto, ko so se začeli Beatli, in leto, ko je Freddie umrl
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:21488.0
+passage.questions.0.answers.1.text:1964 in 1967
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:21487
+passage.questions.0.answers.0.text:Vrhunec beatlemanije in leto čarobne skrivnostne turneje sta izšla
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21486
+idx:353

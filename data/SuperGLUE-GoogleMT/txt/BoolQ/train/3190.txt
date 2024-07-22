@@ -1,0 +1,4 @@
+idx:3190
+label:True
+passage:Protokol za prenos datotek - FTP ne šifrira svojega prometa; vsi prenosi so v jasnem besedilu, uporabniška imena, gesla, ukaze in podatke pa lahko prebere vsak, ki lahko v omrežju izvede zajem paketov (njuhanje). Ta težava je skupna številnim specifikacijam internetnega protokola (kot so SMTP, Telnet, POP in IMAP), ki so bile oblikovane pred ustvarjanjem šifrirnih mehanizmov, kot sta TLS ali SSL.
+question:so pop uporabniška imena in gesla, ki so privzeto prikazana v jasnem besedilu

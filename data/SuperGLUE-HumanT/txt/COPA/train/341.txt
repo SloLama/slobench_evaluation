@@ -1,0 +1,6 @@
+﻿choice1:Prijatelj je pozabil prinesti svoje kosilo.
+choice2:Prijatelj je sedel poleg nje pri kosilu.
+idx:341
+label:0
+premise:Dekle je delilo svoje kosilo s prijateljem.
+question:cause

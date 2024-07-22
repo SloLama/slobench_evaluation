@@ -1,0 +1,166 @@
+version:1.1
+passage.text:Sila je vektor. Kaj je potem vektor? Pomislite, kako bi napotili prijatelja. Ne bi rekli, samo hodi pol milje. Oseba lahko hodi pol milje v napačno smer! Potrebnih je več informacij. Lahko rečete, sledite tej cesti pol milje. Lahko rečete, poiščite rastlinjak na ulici Sumter St. V obeh primerih ste navedli smer. Dali ste tudi razdaljo. Z drugimi besedami, navedli ste vektor. Niste dali samo razdalje. Oba podatka sta potrebna za iskanje lokacije. To je tako kot opisovanje sil. Za razlago sil so potrebni tako velikost kot smer. Opazite deklico na sliki 1.1. Odriva gugalnico stran od sebe. To je smer sile. Zamahu lahko da močan potisk ali šibek potisk.
+passage.questions.7.question:Kaj je vektor?
+passage.questions.7.idx:4274.0
+passage.questions.7.answers.7.text:Smer
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:22742.0
+passage.questions.7.answers.6.text:Izolator
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:22741.0
+passage.questions.7.answers.5.text:Kombinacija smeri in razdalje
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:22740.0
+passage.questions.7.answers.4.text:Gravitacijska entiteta
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:22739.0
+passage.questions.7.answers.3.text:Sila
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:22738.0
+passage.questions.7.answers.2.text:Dirigent
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:22737.0
+passage.questions.7.answers.1.text:Sila je vektor
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:22736.0
+passage.questions.7.answers.0.text:Lahko se uporablja za označevanje razdalje in smeri
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:22735.0
+passage.questions.6.question:Kako daleč je rastlinjak na Sumter St.
+passage.questions.6.idx:4273.0
+passage.questions.6.answers.4.text:3 milje
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:22734.0
+passage.questions.6.answers.3.text:Pol milje
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:22733.0
+passage.questions.6.answers.2.text:Pol ure razdalje
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:22732.0
+passage.questions.6.answers.1.text:1 miljo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:22731.0
+passage.questions.6.answers.0.text:2 milji
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:22730.0
+passage.questions.5.question:Kaj ima močan potisk ali šibek odriv s silo?
+passage.questions.5.idx:4272.0
+passage.questions.5.answers.6.text:Pojasnjuje velikost sile
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:22729.0
+passage.questions.5.answers.5.text:Gibanje sile
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:22728.0
+passage.questions.5.answers.4.text:Smer sile je neodvisna od količine sile
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:22727.0
+passage.questions.5.answers.3.text:Oba imata isto smer
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:22726.0
+passage.questions.5.answers.2.text:Spremenite njegovo hitrost
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:22725.0
+passage.questions.5.answers.1.text:Razdalja sile
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:22724.0
+passage.questions.5.answers.0.text:Povezava sile
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:22723.0
+passage.questions.4.question:Če že poznate velikost sile, kaj potem še potrebujete, da dobite znanje vektorja?
+passage.questions.4.idx:4271.0
+passage.questions.4.answers.5.text:Smer
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:22722.0
+passage.questions.4.answers.4.text:Velikost predmeta
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:22721.0
+passage.questions.4.answers.3.text:Razdalja
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:22720.0
+passage.questions.4.answers.2.text:Potisna sila
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:22719.0
+passage.questions.4.answers.1.text:Smer predmeta
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:22718.0
+passage.questions.4.answers.0.text:Vlečna sila
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:22717.0
+passage.questions.3.question:V katero smer sile deklica potiska gugalnico na sliki 1.1?
+passage.questions.3.idx:4270.0
+passage.questions.3.answers.5.text:Potiskanje gugalnice proti sebi
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:22716.0
+passage.questions.3.answers.4.text:Nihaj od sebe
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:22715.0
+passage.questions.3.answers.3.text:Proč od sebe
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:22714.0
+passage.questions.3.answers.2.text:Potiskanje gugalnice v levo
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:22713.0
+passage.questions.3.answers.1.text:Zanihaj stran od sebe
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:22712.0
+passage.questions.3.answers.0.text:Odrivala gugalnico stran od sebe
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:22711.0
+passage.questions.2.question:Katera dva podatka ponuja vektor?
+passage.questions.2.idx:4269.0
+passage.questions.2.answers.6.text:Smer
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:22710.0
+passage.questions.2.answers.5.text:Razdalja
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:22709.0
+passage.questions.2.answers.4.text:Sila in razdalja
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22708.0
+passage.questions.2.answers.3.text:Smer in sila
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:22707.0
+passage.questions.2.answers.2.text:Gibanje in razdalja
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22706.0
+passage.questions.2.answers.1.text:Velikost
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:22705.0
+passage.questions.2.answers.0.text:Smer in razdalja
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:22704.0
+passage.questions.1.question:Zakaj je za opis vektorja potrebno več informacij?
+passage.questions.1.idx:4268.0
+passage.questions.1.answers.5.text:Oseba je lahko počasnejša
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:22703.0
+passage.questions.1.answers.4.text:Oseba lahko hodi pol milje v napačno smer
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:22702.0
+passage.questions.1.answers.3.text:Oseba ima lahko večjo težo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:22701.0
+passage.questions.1.answers.2.text:Oseba lahko kljubuje gravitaciji
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22700.0
+passage.questions.1.answers.1.text:Lahko gremo narobe
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22699.0
+passage.questions.1.answers.0.text:Potrebuje smer
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22698.0
+passage.questions.0.question:Ko rečete: »Po tej cesti sledite pol kilometra«, kakšne informacije poleg razdalje posredujete?
+passage.questions.0.idx:4267
+passage.questions.0.answers.3.text:Gibanje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:22697.0
+passage.questions.0.answers.2.text:Energija
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:22696.0
+passage.questions.0.answers.1.text:Sila
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:22695
+passage.questions.0.answers.0.text:Smer
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22694
+idx:372

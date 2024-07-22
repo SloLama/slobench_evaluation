@@ -1,0 +1,4 @@
+idx:300
+label:True
+passage:Ravnina (geometrija) - do preostalega izraza dobimo tako, da najdemo poljubno točko na premici. Za to upoštevajte, da lahko katero koli točko v vesolju zapišemo kot r = c 1 n 1 + c 2 n 2 + λ (n 1 × n 2) (\ displaystyle (\ mathbf (r)) = c_ (1) ( \ mathbf (n)) _ (1) + c_ (2) (\ mathbf (n)) _ (2) + \ lambda ((\ mathbf (n)) _ (1) \ krat (\ mathbf (n)) _ (2))), saj (n 1, n 2, (n 1 × n 2)) (\ displaystyle \ ((\ mathbf (n)) _ (1), (\ mathbf (n)) _ (2 ), ((\ mathbf (n)) _ (1) \ times (\ mathbf (n)) _ (2)) \)) je osnova. Želimo najti točko, ki je na obeh ravninah (tj. Na njunem presečišču), zato vnesite to enačbo v vsako od enačb ravnin, da dobite dve hkratni enačbi, ki ju je mogoče rešiti za c 1 (\ displaystyle c_ (1)) in c 2 (\ displaystyle c_ (2)).
+question:ali je lahko ena točka v dveh različnih ravninah

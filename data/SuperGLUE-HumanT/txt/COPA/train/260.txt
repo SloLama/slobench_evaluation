@@ -1,0 +1,6 @@
+choice1:Zvezdnik je policistu ponudil podkupnino.
+choice2:Zvezdnik je tožil policista.
+idx:260
+label:0
+premise:Policist je ustavil zvezdnika.
+question:effect

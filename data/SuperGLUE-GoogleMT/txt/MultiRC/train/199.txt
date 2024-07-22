@@ -1,0 +1,126 @@
+version:1.1
+passage.text:Razmišljal sem o umu, ki je zdaj dva dni stran. Kdo je rekel, da so tisti, ki pozabijo preteklost, obsojeni na njeno ponovitev? Bojim se, da bi to lahko veljalo zame. To dodajte razlogov, zakaj pišem zdaj: da se česa spomnim, morda celo naučim - Emil Malaquez je po sončnem zahodu prispel z majhnim paketom, zavitim v pravi papir. Njegova večerna obleka je bila uradna, draga in rahlo obarvana, kot bi morala biti vsa pozabljiva umetnika. Bil je vesel človek z lahkotnim smehom in še bolj grd, kot je predlagala Tasha. Takoj mi je bil všeč. &quot;Señor Malaquez?&quot; &quot;Prosim. Pokliči me Emil. Verjetno si Bernardo. Tasha mi je veliko povedala o tebi.&quot; &quot;Vse to nezaslišano pohvalo?&quot; &quot;Vse to.&quot; &quot;Ah, čudovito je zaznavna.&quot; Dvignil je obrv, nato pa se vznemiril. &quot;Je že toliko povedala o meni?&quot; &quot;Misli, da ste genij. Vstopite.&quot; &quot;Hvala vam.&quot;
+passage.questions.5.question:Kako je pisatelju ime?
+passage.questions.5.idx:2238.0
+passage.questions.5.answers.3.text:Bernardo
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:11691.0
+passage.questions.5.answers.2.text:Emil
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:11690.0
+passage.questions.5.answers.1.text:Tasha
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:11689.0
+passage.questions.5.answers.0.text:Emil Malaquez
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:11688.0
+passage.questions.4.question:Komu je Tasha veliko govorila o Bernardu?
+passage.questions.4.idx:2237.0
+passage.questions.4.answers.5.text:Bernardovim sorodnikom
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:11687.0
+passage.questions.4.answers.4.text:Bernardo
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:11686.0
+passage.questions.4.answers.3.text:Tasha
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:11685.0
+passage.questions.4.answers.2.text:Ljudem, obsojenim ponoviti preteklost
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:11684.0
+passage.questions.4.answers.1.text:Emil
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:11683.0
+passage.questions.4.answers.0.text:Emilu Malaquezu
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:11682.0
+passage.questions.3.question:Bi lahko rekli, da gospod Malaquez vzajemno spoštuje Bernarda?
+passage.questions.3.idx:2236.0
+passage.questions.3.answers.7.text:Ja, ker ga je Tasha zelo pohvalila
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:11681.0
+passage.questions.3.answers.6.text:Ne, ker se mu je Bernarndo zdel preveč grd
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:11680.0
+passage.questions.3.answers.5.text:Da
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:11679.0
+passage.questions.3.answers.4.text:Ne, ker se mu zdi Bernardovo obnašanje nezaslišano
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:11678.0
+passage.questions.3.answers.3.text:Ne
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:11677.0
+passage.questions.3.answers.2.text:Da, ker mu je Tasha delila samo pohvale v zvezi z Bernardom in Bernardu je bil Malaquez takoj všeč
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:11676.0
+passage.questions.3.answers.1.text:Ja, povabilo, naj vstopi, nakazuje, da mu je vsaj všeč, da nadaljuje njihov sestanek, in zdi se, da je njuna skupna prijateljica Tasha o Bernardu zelo hvalila Malaqueza
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:11675.0
+passage.questions.3.answers.0.text:Mogoče
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:11674.0
+passage.questions.2.question:Čigava večerna obleka je bila uradna?
+passage.questions.2.idx:2235.0
+passage.questions.2.answers.7.text:SeÃ ± ali Malaquez
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:11673.0
+passage.questions.2.answers.6.text:Bernardo
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:11672.0
+passage.questions.2.answers.5.text:Emila Malaqueza
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:11671.0
+passage.questions.2.answers.4.text:Emil Malaquez
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:11670.0
+passage.questions.2.answers.3.text:Bernardo
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:11669.0
+passage.questions.2.answers.2.text:Tasha
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11668.0
+passage.questions.2.answers.1.text:Tasha
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:11667.0
+passage.questions.2.answers.0.text:Senor Malaquez
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:11666.0
+passage.questions.1.question:Kdo je bil vesel človek?
+passage.questions.1.idx:2234.0
+passage.questions.1.answers.4.text:Tashin oče
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11665.0
+passage.questions.1.answers.3.text:Emil Malaquez
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:11664.0
+passage.questions.1.answers.2.text:Bernardo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11663.0
+passage.questions.1.answers.1.text:Tasha
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11662.0
+passage.questions.1.answers.0.text:Senor Malaquez
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:11661.0
+passage.questions.0.question:Česa se pisatelj boji, da bi lahko zanje veljalo?
+passage.questions.0.idx:2233
+passage.questions.0.answers.5.text:Da so tisti, ki pozabijo preteklost, obsojeni na njeno ponovitev
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:11660.0
+passage.questions.0.answers.4.text:Da bo morda zaradi umne brisanje obsojen na ponavljanje preteklosti
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:11659.0
+passage.questions.0.answers.3.text:Bil je grd
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:11658.0
+passage.questions.0.answers.2.text:Da je veliko povedala o njem
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11657.0
+passage.questions.0.answers.1.text:Kaj lahko vsebuje majhen paket, ki ga je nosil Malaquez
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11656
+passage.questions.0.answers.0.text:Da lahko Emil Malaquez pride na obisk
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:11655
+idx:199

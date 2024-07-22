@@ -1,0 +1,208 @@
+version:1.1
+passage.text:Kaj pa, če dva otroka hkrati potisneta gugalnico? Bi se gugalnica zvišala? Ja, skupaj bi bila njihova sila večja. Običajno je, da se sile kombinirajo. Večina predmetov na Zemlji deluje nanje vsaj dve sili. Veste, kaj je eden izmed njih? Seveda je ta sila gravitacija. Koliko sil trenutno imate na sebi? Gravitacija vas potegne navzdol proti središču Zemlje. Noge delujejo navzdol. Držijo vas proti gravitaciji. Upoštevajte primer na sliki 1.3. Na mizi počiva knjiga. Gravitacija potegne knjigo navzdol. Ima silo 20 njutnov. Hkrati miza potisne knjigo navzgor. Njegova sila je tudi 20 njutnov. Tabela nasprotuje privlačnosti gravitacije.
+passage.questions.9.question:Navedite dva primera delovanja združenih sil na objekt
+passage.questions.9.idx:269.0
+passage.questions.9.answers.3.text:Dva otroka, ki potiskata gugalnico, knjiga počiva na mizi
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:1476.0
+passage.questions.9.answers.2.text:Miza potisne knjigo na mizo in gravitacija potegne navzdol
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1475.0
+passage.questions.9.answers.1.text:Sile se ne morejo združiti, da delujejo na predmet
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1474.0
+passage.questions.9.answers.0.text:Knjiga na mizi deluje na mizo, miza na knjigo
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:1473.0
+passage.questions.8.question:Na kateri ravni sile miza nasprotuje gravitaciji?
+passage.questions.8.idx:268.0
+passage.questions.8.answers.2.text:10 newtonov
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1472.0
+passage.questions.8.answers.1.text:20 njutnov
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1471.0
+passage.questions.8.answers.0.text:Nekoliko več kot 20 newtonov
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:1470.0
+passage.questions.7.question:Koliko sil trenutno imate na sebi?
+passage.questions.7.idx:267.0
+passage.questions.7.answers.4.text:3.
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:1469.0
+passage.questions.7.answers.3.text:Tri
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:1468.0
+passage.questions.7.answers.2.text:Dva
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:1467.0
+passage.questions.7.answers.1.text:2.
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1466.0
+passage.questions.7.answers.0.text:Gravitacija, sila navzdol
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1465.0
+passage.questions.6.question:Katere sile vplivajo na knjigo, ki počiva na mizi?
+passage.questions.6.idx:266.0
+passage.questions.6.answers.4.text:Sila gravitacije in poteg mize
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:1464.0
+passage.questions.6.answers.3.text:Gravitacija in newtoni
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1463.0
+passage.questions.6.answers.2.text:Sila navzgor
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1462.0
+passage.questions.6.answers.1.text:Toplotna sila
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1461.0
+passage.questions.6.answers.0.text:Gravitacija
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:1460.0
+passage.questions.5.question:Ali imajo vsi predmeti na Zemlji silo?
+passage.questions.5.idx:265.0
+passage.questions.5.answers.2.text:Da, vsi predmeti imajo dve sili in tudi knjiga ima silo
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1459.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1458.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1457.0
+passage.questions.4.question:Katere sile delujejo na knjigo na mizi?
+passage.questions.4.idx:264.0
+passage.questions.4.answers.3.text:Gravitacija
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:1456.0
+passage.questions.4.answers.2.text:Mediana sile
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1455.0
+passage.questions.4.answers.1.text:Miza potegne knjigo navzgor in zemlja jo potegne navzdol
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1454.0
+passage.questions.4.answers.0.text:Gravitacija in miza
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1453.0
+passage.questions.3.question:Ali so redki predmeti na Zemlji, ki nanje delujejo vsaj dve sili?
+passage.questions.3.idx:263.0
+passage.questions.3.answers.2.text:Ne. (Pogosto je.)
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1452.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1451.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:1450.0
+passage.questions.2.question:Ali gre gugalnica višja, ko nanjo pritisneta dva otroka in ne samo en otrok?
+passage.questions.2.idx:262.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:1449.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1448.0
+passage.questions.16.question:Kako bi gravitacija vplivala na knjigo, ki leži na mizi /
+passage.questions.16.idx:276.0
+passage.questions.16.answers.4.text:Knjiga bi legla na mizo od sile, ki jo je izvajala
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:1498.0
+passage.questions.16.answers.3.text:Knjiga bi bila v zraku
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:1497.0
+passage.questions.16.answers.2.text:Gravitacija bi knjigo potegnila navzdol
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:1496.0
+passage.questions.16.answers.1.text:Gravitacija bi potisnila knjigo
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:1495.0
+passage.questions.16.answers.0.text:Ne bi
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:1494.0
+passage.questions.15.question:Zakaj bi se gugalnica zvišala, ko pa jo dva otroka hkrati pritisneta?
+passage.questions.15.idx:275.0
+passage.questions.15.answers.2.text:Na gugalnico deluje več sile
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:1493.0
+passage.questions.15.answers.1.text:Skupaj bi bila njihova sila večja
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1492.0
+passage.questions.15.answers.0.text:Na gugalnici je več gravitacije
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:1491.0
+passage.questions.14.question:Kateri deli telesa jih lahko zadržijo proti gravitacijski sili?
+passage.questions.14.idx:274.0
+passage.questions.14.answers.2.text:Roke
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1490.0
+passage.questions.14.answers.1.text:Jedro
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1489.0
+passage.questions.14.answers.0.text:&quot;Noge&quot;
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:1488.0
+passage.questions.13.question:Na kateri ravni sile gravitacija potegne knjigo navzdol?
+passage.questions.13.idx:273.0
+passage.questions.13.answers.2.text:10 newtonov
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:1487.0
+passage.questions.13.answers.1.text:20 njutnov
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1486.0
+passage.questions.13.answers.0.text:Več kot 20 newtonov
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:1485.0
+passage.questions.12.question:V katero smer je sila mize na knjigo, ki počiva na njej?
+passage.questions.12.idx:272.0
+passage.questions.12.answers.1.text:Navzgor
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1484.0
+passage.questions.12.answers.0.text:Navzdol
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1483.0
+passage.questions.11.question:Kakšna enota se uporablja za silo?
+passage.questions.11.idx:271.0
+passage.questions.11.answers.1.text:Grami
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:1482.0
+passage.questions.11.answers.0.text:Newtonov
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:1481.0
+passage.questions.10.question:Koliko sil ima predmet?
+passage.questions.10.idx:270.0
+passage.questions.10.answers.3.text:3.
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1480.0
+passage.questions.10.answers.2.text:Dve sili, ki delujeta na to
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:1479.0
+passage.questions.10.answers.1.text:Vsaj dva
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:1478.0
+passage.questions.10.answers.0.text:Ena
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:1477.0
+passage.questions.1.question:Kaj te potegne dol?
+passage.questions.1.idx:261.0
+passage.questions.1.answers.3.text:Gravitacija
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1447.0
+passage.questions.1.answers.2.text:Sila
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1446.0
+passage.questions.1.answers.1.text:Sila gravitacije
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:1445.0
+passage.questions.1.answers.0.text:Neto sila
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:1444.0
+passage.questions.0.question:Če dva otroka hkrati potisneta gugalnico, se bo gugalnica zvišala?
+passage.questions.0.idx:260
+passage.questions.0.answers.1.text:&quot;Da&quot;
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:1443
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1442
+idx:23

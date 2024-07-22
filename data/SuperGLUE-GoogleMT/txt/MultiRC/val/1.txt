@@ -1,0 +1,230 @@
+version:1.1
+passage.text:Film se odpre s študentko medicine Sunito in njenimi prijatelji, ki delajo na projektu o človeških možganih. Želela bi raziskati nenavadni primer Sanjaya Singhanije, pomembnega mestnega poslovneža, ki naj bi imel anterogradno amnezijo. Njen profesor zavrne dostop do Sanjayeve evidence, saj je trenutno v preiskavi. Sunita se kljub temu odloči, da bo zadevo raziskala sama. Sanjay je predstavljen, ko surovo ubije človeka. Moškega posname s polaroidno sliko in nanjo napiše &quot;končano&quot;. Izkazalo se je, da ima Sanjay anterogradno amnezijo, kjer vsakih 15 minut izgubi spomin. Sanjay uporablja sistem fotografij, zapiskov in tetovaž na telesu, da si po vsakem ciklusu povrne spomin. Razkriva se, da se bo Sanjay na koncu maščeval za smrt svoje ljubice Kalpane in da sistematično ubija ljudi, ki so bili zanjo odgovorni. Njegov glavni cilj je &quot;Ghajini&quot;, pomembna družbena osebnost v mestu. Policijski inšpektor Arjun Yadav v primeru serijskih umorov izsledi Sanjaya do njegovega stanovanja ter ga napade in onesposobi. Yadav najde dva dnevnika, v katerih je Sanjay zapisal dogodke v letih 2005 in 2006. Film utripa v leto 2005, ko Yadav bere dnevnik. Sanjay Singhania je prikazana kot lastnica mobilne telefonije Air Voice. Med svojim poslom Sanjay pošlje svoje moške na srečanje s Kalpano, ki se bori, da bi postavila reklamni pano nad njenim stanovanjem. Lastnik oglaševalskega podjetja Kalpana to napačno razume kot romantičen napredek in glede na morebitno donosno oglaševalsko kampanjo Air Voice in druge ugodnosti Kalpana spodbuja, da sprejme uverturo.
+passage.questions.9.question:Zakaj profesor Sunite zanika dostop do Sanjayevih zapisov?
+passage.questions.9.idx:13.0
+passage.questions.9.answers.4.text:Ker je v preiskavi
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:70.0
+passage.questions.9.answers.3.text:Ker je skrivnosten
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:69.0
+passage.questions.9.answers.2.text:Ker je kriv za kakšno kršitev
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:68.0
+passage.questions.9.answers.1.text:Ker njeni prijatelji delajo na projektu o človeških možganih
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:67.0
+passage.questions.9.answers.0.text:Zadeva je trenutno v preiskavi
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:66.0
+passage.questions.8.question:Vsakih 15 minut gre Sanjay skozi kateri postopek, kar onemogoči njegove poskuse, da bi se maščeval za smrt svoje ljubice?
+passage.questions.8.idx:12.0
+passage.questions.8.answers.4.text:Z ljudmi mora govoriti
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:65.0
+passage.questions.8.answers.3.text:Pozablja na dejstva
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:64.0
+passage.questions.8.answers.2.text:Ubijati mora ljudi
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:63.0
+passage.questions.8.answers.1.text:Skupna izguba spomina
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:62.0
+passage.questions.8.answers.0.text:Mora jesti
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:61.0
+passage.questions.7.question:Kdo Suniti zavrne dostop do evidenc Sanjaya, ki naj bi imel anterogradno amnezijo, ker so v preiskavi?
+passage.questions.7.idx:11.0
+passage.questions.7.answers.6.text:Njen profesor zanika dostop do Sanjayevih zapisov
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:60.0
+passage.questions.7.answers.5.text:Profesor
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:59.0
+passage.questions.7.answers.4.text:Sanjay je zaradi zaupnosti zanikal vse svoje zapise
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:58.0
+passage.questions.7.answers.3.text:Sunitin profesor in Arjun Yadav
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:57.0
+passage.questions.7.answers.2.text:Sunitin profesor
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:56.0
+passage.questions.7.answers.1.text:Policist
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:55.0
+passage.questions.7.answers.0.text:Sanjay
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:54.0
+passage.questions.6.question:Kaj razkriva, da ima Sanjay anterogradno amnezijo?
+passage.questions.6.idx:10.0
+passage.questions.6.answers.3.text:Ker na svojem telesu uporablja sistem fotografij, zapiskov in tetovaž, da si opomore
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:53.0
+passage.questions.6.answers.2.text:Zdravniki so sklep sklenili
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:52.0
+passage.questions.6.answers.1.text:Da se z opombami in slikami spominja stvari
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:51.0
+passage.questions.6.answers.0.text:Da je opazen mestni poslovnež
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:50.0
+passage.questions.5.question:Katero dejanje lastnik podjetja Kalpana napačno razume kot romantično?
+passage.questions.5.idx:9.0
+passage.questions.5.answers.3.text:Sanjayevi možje prosijo kalpano, da je postavila reklamni pano nad njenim stanovanjem
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:49.0
+passage.questions.5.answers.2.text:Da Sanjay pošlje svoje moške k njej
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:48.0
+passage.questions.5.answers.1.text:Da ji Sanjar kupi diamantni prstan
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:47.0
+passage.questions.5.answers.0.text:Da želi Sanjay kupiti reklamni pano nad njenim stanovanjem
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:46.0
+passage.questions.4.question:Zakaj Ghajini velja za glavno tarčo Sanjaya?
+passage.questions.4.idx:8.0
+passage.questions.4.answers.4.text:Ker je verjetno povezan z umorom Kalpane
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:45.0
+passage.questions.4.answers.3.text:Vlada
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:44.0
+passage.questions.4.answers.2.text:Da bi se maščeval za smrt Kalpane
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:43.0
+passage.questions.4.answers.1.text:Ker je Ghajini sprejel denar s policijske uprave za umor Sanjaya
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:42.0
+passage.questions.4.answers.0.text:Ker sta ljubimca
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:41.0
+passage.questions.3.question:Zakaj Sanjay na svojem telesu uporablja sistem fotografij, zapiskov in tetovaž?
+passage.questions.3.idx:7.0
+passage.questions.3.answers.3.text:Ker pozabi vsakih nekaj minut
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:40.0
+passage.questions.3.answers.2.text:Ker poskuša ustvariti dokaze za policijo
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:39.0
+passage.questions.3.answers.1.text:Da si povrne spomine, ker ima anterogradno amnezijo
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:38.0
+passage.questions.3.answers.0.text:Ker obožuje fotografijo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:37.0
+passage.questions.2.question:Zakaj je Sanjay umoril moškega?
+passage.questions.2.idx:6
+passage.questions.2.answers.4.text:Ker se maščeva svojemu ljubimcu
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:36.0
+passage.questions.2.answers.3.text:Sanjay se maščuje za umor svoje ljubice Kalpane
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:35.0
+passage.questions.2.answers.2.text:Ker je bolan
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:34.0
+passage.questions.2.answers.1.text:Ker je rabil denar
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:33
+passage.questions.2.answers.0.text:Sanjay
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:32
+passage.questions.12.question:Sanjay je prvič viden, kaj počne, kar spominja s polaroidno sliko?
+passage.questions.12.idx:16.0
+passage.questions.12.answers.2.text:Brutalno zabijanje moškega
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:86.0
+passage.questions.12.answers.1.text:Pogovor s profesorjem o dokazih
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:85.0
+passage.questions.12.answers.0.text:Brutalno umoril moškega
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:84.0
+passage.questions.11.question:Zakaj Sanjay uporablja sistem fotografij, zapiskov in tetovaž na svojem telesu in sistematično ubija ljudi?
+passage.questions.11.idx:15.0
+passage.questions.11.answers.7.text:Sanjay se bo končno maščeval za smrt svoje ljubice Kalpane in da sistematično ubija ljudi, ki so bili odgovorni za to, da si po vsakem ciklu povrne spomin
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:83.0
+passage.questions.11.answers.6.text:Za okrasitev telesa
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:82.0
+passage.questions.11.answers.5.text:Želim ubiti vse
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:81.0
+passage.questions.11.answers.4.text:Boli zaradi anterogradne amnezije
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:80.0
+passage.questions.11.answers.3.text:Da bi se maščeval za smrt svoje drage Kalpane
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:79.0
+passage.questions.11.answers.2.text:Vsakih 15 minut izgubi spomin
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:78.0
+passage.questions.11.answers.1.text:Obredno se pokloni Bogu islama
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:77.0
+passage.questions.11.answers.0.text:Da si povrne spomin
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:76.0
+passage.questions.10.question:Katera oseba preiskuje primer Sanjaya Singhanije?
+passage.questions.10.idx:14.0
+passage.questions.10.answers.4.text:Kalpana
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:75.0
+passage.questions.10.answers.3.text:Ghajini
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:74.0
+passage.questions.10.answers.2.text:Profesor
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:73.0
+passage.questions.10.answers.1.text:Sunita
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:72.0
+passage.questions.10.answers.0.text:Sanjay
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:71.0
+passage.questions.1.question:Ko začne Sunita raziskovati, kaj se sprva nauči?
+passage.questions.1.idx:5
+passage.questions.1.answers.4.text:Sanjay je surovo umoril moškega
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:31.0
+passage.questions.1.answers.3.text:Da so v mestu umorjene ženske
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:30.0
+passage.questions.1.answers.2.text:Da Sanjay preiskuje umore
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:29.0
+passage.questions.1.answers.1.text:Da je Sanjar zločinec
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:28
+passage.questions.1.answers.0.text:Sprva
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:27
+passage.questions.0.question:Zakaj profesorica Sunita zavrača dostop do zapisov o Sanjay Singhaniji?
+passage.questions.0.idx:4
+passage.questions.0.answers.6.text:Anterogradna amnezija
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:26.0
+passage.questions.0.answers.5.text:Ker je trenutno v preiskavi
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:25.0
+passage.questions.0.answers.4.text:Ker so evidence v preiskavi
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:24.0
+passage.questions.0.answers.3.text:Trenutno so v preiskavi
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:23.0
+passage.questions.0.answers.2.text:Ker zapisi manjkajo
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:22.0
+passage.questions.0.answers.1.text:So zaupni
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21
+passage.questions.0.answers.0.text:Opazen mestni poslovnež
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:20
+idx:1

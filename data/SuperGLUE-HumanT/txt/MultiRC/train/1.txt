@@ -1,0 +1,74 @@
+version:1.1
+passage.text:Shod se je odvil 17. oktobra, snemanje pa je potekalo 29. februarja. Standardne snemalne tehnike se spet interpretirajo kot pretanjeno izkrivljanje: »Moore deluje tako, da ne ponudi konteksta in te navede, da to praznino zapolniš --- s popolnoma napačnimi predstavami. Sijajno je, čeprav neetično.« Kot že omenjeno zgoraj, izjava »iz mojih mrzlih, mrtvih rok« je preprosto način, na katerega Moore predstavi Hestona. Je to, razen Moorevih kritikov, kdorkoli razumel drugače? Vsekakor tega ne »pripiše govoru, v katerem to ni bilo nikoli izrečeno«, kot že rečeno, pa res ne bi imelo smisla, ko bi Moore to storil dvakrat, še posebno če je vrhunski manipulator, kot trdijo njegovi kritiki. Glede intervjuja v študentskem časopisu univerze v Georgetownu, Hoya, kjer so Hestona vprašali o primeru Rolland, zapišete: »Nobene indikacije ni, da je Heston prepoznal primer Kayle Rolland.« To je zelo naivno -- kot predsednik Nacionalne strelske zveze (NRA) je bil Heston zagotovo na tekočem z vsemi razvpitimi primeri nasilja s strelnim orožjem. Četudi ni odgovoril na ta del intervjuja, je takrat že gotovo poznal ta primer. Glede izvlečka o primeru na spletni strani NRA in poudarjanju besedne zveze »48 ur potem, ko je bila Kayla Rolland proglašena za mrtvo: edino ta kritika zdrži, vendar pa je to daleč od namernega izkrivljanja, kot trdite vi; gre za primer tega, kako lahko je spregledati dejstva zaradi Moorevega hitrega tempa.  Stavka ne poudarijo zato, da bi gledalca pretentali, da je Heston odhitel v Flint in organiziral shod (kar je jasno iz nadaljevanja), temveč zato, da se poudari, da se v besedilu v tem odstavku prvič pojavi ime »Kayla Rolland«.  
+passage.questions.3.question:Kolikokrat Moore uporabi citat »iz mojih mrzlih, mrtvih rok«?
+passage.questions.3.idx:29.0
+passage.questions.3.answers.2.text:3
+passage.questions.3.answers.2.label:0.0
+passage.questions.3.answers.2.idx:188.0
+passage.questions.3.answers.1.text:Velikokrat
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:187.0
+passage.questions.3.answers.0.text:2
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:186.0
+passage.questions.2.question:Katera organizacija je imela 17. oktobra shod v Flintu?
+passage.questions.2.idx:28.0
+passage.questions.2.answers.6.text:LCA
+passage.questions.2.answers.6.label:0.0
+passage.questions.2.answers.6.idx:185.0
+passage.questions.2.answers.5.text:USDA
+passage.questions.2.answers.5.label:0.0
+passage.questions.2.answers.5.idx:184.0
+passage.questions.2.answers.4.text:Georgetownski časopis Hoya
+passage.questions.2.answers.4.label:0.0
+passage.questions.2.answers.4.idx:183.0
+passage.questions.2.answers.3.text:NAACP
+passage.questions.2.answers.3.label:0.0
+passage.questions.2.answers.3.idx:182.0
+passage.questions.2.answers.2.text:Intervju
+passage.questions.2.answers.2.label:0.0
+passage.questions.2.answers.2.idx:181.0
+passage.questions.2.answers.1.text:Flint
+passage.questions.2.answers.1.label:0.0
+passage.questions.2.answers.1.idx:180.0
+passage.questions.2.answers.0.text:NRA
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:179.0
+passage.questions.1.question:Kdo je bil 29. februarja predsednik NRA?
+passage.questions.1.idx:27.0
+passage.questions.1.answers.5.text:Kayla
+passage.questions.1.answers.5.label:0.0
+passage.questions.1.answers.5.idx:178.0
+passage.questions.1.answers.4.text:Hoya
+passage.questions.1.answers.4.label:0.0
+passage.questions.1.answers.4.idx:177.0
+passage.questions.1.answers.3.text:Rolland
+passage.questions.1.answers.3.label:0.0
+passage.questions.1.answers.3.idx:176.0
+passage.questions.1.answers.2.text:George Hoya
+passage.questions.1.answers.2.label:0.0
+passage.questions.1.answers.2.idx:175.0
+passage.questions.1.answers.1.text:Moore
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:174.0
+passage.questions.1.answers.0.text:Charleton Heston
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:173.0
+passage.questions.0.question:Kdaj so ustrelili Kaylo Rolland?
+passage.questions.0.idx:26
+passage.questions.0.answers.4.text:17. februarja
+passage.questions.0.answers.4.label:0.0
+passage.questions.0.answers.4.idx:172.0
+passage.questions.0.answers.3.text:17. oktobra
+passage.questions.0.answers.3.label:0.0
+passage.questions.0.answers.3.idx:171.0
+passage.questions.0.answers.2.text:29. oktobra
+passage.questions.0.answers.2.label:0.0
+passage.questions.0.answers.2.idx:170.0
+passage.questions.0.answers.1.text:29. februarja
+passage.questions.0.answers.1.label:1
+passage.questions.0.answers.1.idx:169
+passage.questions.0.answers.0.text:17. februarja
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:168
+idx:1

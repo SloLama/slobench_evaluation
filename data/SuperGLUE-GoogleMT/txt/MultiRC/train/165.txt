@@ -1,0 +1,37 @@
+version:1.1
+passage.text:Peter je bil zelo žalosten psiček. Zelo dolgo je bil v trgovini z živalmi. Pravzaprav je bil tam že tri mesece! Peter je videl, da so številni drugi psički našli osebo; se je začel spraševati, zakaj ga ne bi mogel dobiti. Menil je, da mu krzno morda ni dovolj lepo ali pa lajež ni dovolj glasen. Trudil se je in poskušal ugajati vsaki osebi, ki je prišla v trgovino, vendar so vsi nabrali manjše mladičke. Vendar se je nekega dne vse to spremenilo. Sammie je prišla v trgovino in iskala zlatega psička. Želela je psičko, s katero bi se lahko stisnila. Zgodilo se je, da je bil Peter tisti dan zelo žalosten in utrujen. Sammie ga je prišla zadržati. Peter je hotel pokazati svoj lajež, a je bil preveč utrujen. Padel je prav spat. Sammie ga je imela rada takoj in rada ga je držala v naročju. Sammie je tistega dne odpeljala Petra domov in vzbudil sta veliko zabavnih spominov.
+passage.questions.1.question:Komu je Peter hotel pokazati svoj lajež?
+passage.questions.1.idx:1829.0
+passage.questions.1.answers.4.text:Vsak človek, ki je prišel v trgovino
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:9540.0
+passage.questions.1.answers.3.text:Ljudem v trgovini je hotel pokazati svoje lubje
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:9539.0
+passage.questions.1.answers.2.text:Želel je pokazati svoje lubje Sammieju
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:9538.0
+passage.questions.1.answers.1.text:Carol
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:9537.0
+passage.questions.1.answers.0.text:Sammie
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:9536.0
+passage.questions.0.question:Zakaj je bil Peter žalosten?
+passage.questions.0.idx:1828
+passage.questions.0.answers.4.text:Živel je v zavetišču
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:9535.0
+passage.questions.0.answers.3.text:Tri mesece v trgovini z živalmi
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:9534.0
+passage.questions.0.answers.2.text:Dolgo je bil v trgovini z živalmi, ne da bi ga izbrali
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:9533.0
+passage.questions.0.answers.1.text:Čeprav mu krzno ni bilo dovolj lepo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:9532
+passage.questions.0.answers.0.text:Tri mesece je bil v trgovini z živalmi in ni našel osebe
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:9531
+idx:165

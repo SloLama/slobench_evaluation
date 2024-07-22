@@ -1,0 +1,118 @@
+version:1.1
+passage.text:Kar zadeva gravure, je bilo Durerjevo delo omejeno na portrete in ilustracije za njegovo razpravo. Med portreti so kardinal-volilni mojster Albert iz Mainza; Friderik Modri, volilec Saške; humanistični učenjak Willibald Pirckheimer; Philipp Melanchthon in Erasmus iz Rotterdama. Za tiste iz zadnjega večjega dela Kardinala, Melanchthona in Durerja, narisanega portreta nürnberškega patricija Ulricha Starcka, je Durer upodobil sedeče v profilu, kar morda odraža bolj matematičen pristop. Kljub pritožbam zaradi pomanjkanja formalne klasične izobrazbe se je Durer močno zanimal za intelektualne zadeve in se veliko naučil od svojega otroškega prijatelja Willibalda Pirckheimerja, s katerim se je nedvomno posvetoval o vsebini številnih svojih slik. Veliko zadovoljstvo je dobil tudi iz prijateljstva in dopisovanja z Erazmom in drugimi učenjaki. Durerju je v življenju uspelo izdelati dve knjigi. &quot;Štiri knjige o merjenju&quot; so izšle v Nürnbergu leta 1525 in so bile prva knjiga za odrasle o matematiki v nemščini, ki sta jih pozneje citirala Galileo in Kepler Drugo, delo o mestnih utrdbah, je izšlo leta 1527. &quot;Štiri knjige o človeškem deležu&quot; so bile izdane posmrtno, kmalu po njegovi smrti leta 1528.
+passage.questions.4.question:Kdo je graviral portret kardinala-volilnega mojstra Alberta iz Mainza?
+passage.questions.4.idx:315.0
+passage.questions.4.answers.5.text:Erazem
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:1710.0
+passage.questions.4.answers.4.text:Melanchthon
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1709.0
+passage.questions.4.answers.3.text:Durer
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:1708.0
+passage.questions.4.answers.2.text:Friderik Modri
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1707.0
+passage.questions.4.answers.1.text:Pirckheimerjeva
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1706.0
+passage.questions.4.answers.0.text:Starck
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1705.0
+passage.questions.3.question:Koga je Durer narisal vratarja in se z njim posvetoval?
+passage.questions.3.idx:314.0
+passage.questions.3.answers.6.text:Erazem
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:1704.0
+passage.questions.3.answers.5.text:Willibald Pirckheimer
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:1703.0
+passage.questions.3.answers.4.text:Melanchthon
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1702.0
+passage.questions.3.answers.3.text:Philipp Melanchthon
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1701.0
+passage.questions.3.answers.2.text:Friderik Modri
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1700.0
+passage.questions.3.answers.1.text:Ulrich Starck
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1699.0
+passage.questions.3.answers.0.text:Kardinal
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1698.0
+passage.questions.2.question:Koliko knjig je Durer ustvaril skupaj?
+passage.questions.2.idx:313.0
+passage.questions.2.answers.6.text:3.
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:1697.0
+passage.questions.2.answers.5.text:Tri
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:1696.0
+passage.questions.2.answers.4.text:2.
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1695.0
+passage.questions.2.answers.3.text:1.
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1694.0
+passage.questions.2.answers.2.text:10.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1693.0
+passage.questions.2.answers.1.text:4.
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:1692.0
+passage.questions.2.answers.0.text:Pet
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1691.0
+passage.questions.1.question:S katerimi dvema učenjakoma si je Durer pogosto dopisoval?
+passage.questions.1.idx:312.0
+passage.questions.1.answers.6.text:Erazem
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:1690.0
+passage.questions.1.answers.5.text:Willibald Pirckheimer
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:1689.0
+passage.questions.1.answers.4.text:Kardinal in Friderik
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1688.0
+passage.questions.1.answers.3.text:Kardinal-volilec Albert iz Mainza
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:1687.0
+passage.questions.1.answers.2.text:Melanchthon in Starck
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1686.0
+passage.questions.1.answers.1.text:Galileo in Kepler
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:1685.0
+passage.questions.1.answers.0.text:Willibald Pirckheimer in Erasmus
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:1684.0
+passage.questions.0.question:Kaj bi lahko bil presenečen nad Durerjevim pristopom k njegovim risbam?
+passage.questions.0.idx:311
+passage.questions.0.answers.7.text:Matematični pristop zaradi pomanjkanja formalne izobrazbe
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:1683.0
+passage.questions.0.answers.6.text:Omejil se je na portrete in ilustracije
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:1682.0
+passage.questions.0.answers.5.text:Njegovo pomanjkanje formalne izobrazbe
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:1681.0
+passage.questions.0.answers.4.text:Manjkala mu je formalna izobrazba
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1680.0
+passage.questions.0.answers.3.text:Njegovo pomanjkanje spretnosti
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:1679.0
+passage.questions.0.answers.2.text:Njegova izbira barv
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1678.0
+passage.questions.0.answers.1.text:Uporabil je intelektualni pristop
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1677
+passage.questions.0.answers.0.text:Imel je matematični pristop
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1676
+idx:27

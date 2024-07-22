@@ -1,0 +1,6 @@
+choice1:Tekočina v steklenici je zmrznila.
+choice2:Tekočina v steklenici se je izlila.
+idx:80
+label:1
+premise:Nagnil sem steklenico.
+question:effect

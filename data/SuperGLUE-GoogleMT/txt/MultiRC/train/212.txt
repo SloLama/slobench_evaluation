@@ -1,0 +1,52 @@
+version:1.1
+passage.text:Zadnji knjigi pa je priložen samostojni esej o estetiki, na katerem je Durer delal med letoma 1512 in 1528, in tu izvemo za njegove teorije o &quot;idealni lepoti&quot;. Durer je zavrnil Albertijev koncept objektivne lepote in predlagal relativistično predstavo o lepoti, ki temelji na raznolikosti. Kljub temu je Durer še vedno verjel, da se resnica skriva v naravi in da obstajajo pravila, ki ukazujejo lepoto, čeprav je težko določil merila za tak kodeks. Leta 1512/13 so bila njegova tri merila funkcija (&#39;Nutz&#39;), naivna odobritev (&#39;Wohlgefallen&#39;) in srečni medij (&#39;Mittelmass&#39;). V nasprotju z Albertijem in Leonardom pa je Durerja najbolj mučilo razumevanje ne samo abstraktnih pojmov lepote, temveč tudi, kako lahko umetnik ustvari čudovite podobe. Med letoma 1512 in zadnjim osnutkom leta 1528 se je Durerjevo prepričanje razvilo iz razumevanja človeške ustvarjalnosti kot spontane ali navdihnjene do koncepta &quot;selektivne notranje sinteze&quot;. Z drugimi besedami, da umetnik gradi na bogastvu vizualnih izkušenj, da bi si predstavljal lepe stvari. Durerjevo prepričanje v sposobnosti enega samega umetnika v navdihu ga je spodbudilo, da je trdil, da &quot;lahko en človek s svojim peresom v enem dnevu nekaj skicira na polovico papirja ali pa ga s svojim majhnim železom razreže na majhen košček lesa, in izkaže se za boljše in bolj umetniško kot delo drugega, pri katerem se njegov avtor z največjo skrbnostjo trudi celo leto. &quot;
+passage.questions.4.question:Koliko let je minilo med prvim in zadnjim osnutkom Durerjevega eseja o estetiki?
+passage.questions.4.idx:2345.0
+passage.questions.4.answers.2.text:Šestnajst let
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:12374.0
+passage.questions.4.answers.1.text:Od njegovega prvega osnutka je minilo 15 let
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:12373.0
+passage.questions.4.answers.0.text:Od njegovega prvega osnutka je minilo 16 let
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:12372.0
+passage.questions.3.question:Kakšen je bil Durerjev koncept &quot;selektivne sinteze navznoter?&quot;
+passage.questions.3.idx:2344.0
+passage.questions.3.answers.2.text:Umetnik gradi na bogastvu vizualnih izkušenj, da bi si predstavljal lepe stvari
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:12371.0
+passage.questions.3.answers.1.text:Njegov koncept je bil, da umetnik gradi na bogastvu vizualnih izkušenj, da bi si lahko predstavljal lepe stvari
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:12370.0
+passage.questions.3.answers.0.text:Durerjevo prepričanje v sposobnosti enega samega umetnika nad navdihom
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:12369.0
+passage.questions.2.question:S katerim umetnikom se poleg Albertija Durer ni strinjal?
+passage.questions.2.idx:2343.0
+passage.questions.2.answers.1.text:Durer
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12368.0
+passage.questions.2.answers.0.text:Leonardo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:12367.0
+passage.questions.1.question:Katera je bila ena od Durerjevih teorij o &quot;idealni lepoti&quot;?
+passage.questions.1.idx:2342.0
+passage.questions.1.answers.2.text:Verjame, da je verjel, da se resnica skriva v naravi in da obstajajo pravila, ki ukazujejo lepoto
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:12366.0
+passage.questions.1.answers.1.text:Predlagal je relativistično pojmovanje lepote, ki temelji na raznolikosti
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:12365.0
+passage.questions.1.answers.0.text:Težko je opredelil merila za takšno kodo
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12364.0
+passage.questions.0.question:Za katera tri kriterije je Durer menil, da so koda za urejanje lepote?
+passage.questions.0.idx:2341
+passage.questions.0.answers.1.text:E je težko opredelil merila za takšno kodo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12363
+passage.questions.0.answers.0.text:Njegova tri merila so bila funkcija (&#39;Nutz&#39;), naivno odobravanje (&#39;Wohlgefallen&#39;) in srečni medij (&#39;Mittelmass&#39;)
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:12362
+idx:212

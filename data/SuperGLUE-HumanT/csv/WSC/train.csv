@@ -1,0 +1,555 @@
+idx,text,span1_index,span1_text,span2_index,span2_text,label
+0,"Mark je Peteu o sebi povedal veliko laži, ki jih je Pete vključil v svojo knjigo. On je ta, ki bi moral biti bolj skeptičen.",0,Mark,16,On,False
+1,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",0,Mami,16,ju,False
+2,"Mark je bil za petami gospoda Singerja . Slišal je , kako je poklical kapitana in mu obljubil, v žargonu, ki so ga tisto noč vsi uporabljali, da ne bo poškodovano nič razen streliva, vendar pa bi bilo najbolje, ko bi kapitan in njegova posadka ostali noter, dokler ne bo vsega konec.",5,gospoda Singerja,8,Slišal je,False
+3,"Poni se je lepo obnašal, gospod, in je bil vedno ubogljiv; vendar je nazadnje dvignil kopita in vrgel mladega gospodiča v trnovo grmovje. Želel je , da bi mu pomagal, vendar upam, da mi boste oprostili, gospod, če rečem, da mi ni bilo niti najmanj do tega.",18,mladega gospodiča,23,Želel je,True
+4,"Iz steklenice sem v skodelico nalival vodo, dokler ni bila polna.",4,skodelico,8,ni bila,True
+5,"Dan je Billu moral preprečiti, da bi se poigraval z ranjeno ptico. Zelo je sočuten.",0,Dan,13,je,True
+6,"Biografija Sama Goodmana o špartanskem generalu Ksenofontu slikovito prikaže težave, s katerimi se je soočal med otroštvom.",2,Goodmana,12,se je soočal,False
+7,"Pamina starša sta prišla domov in jo zalotila med seksom z njenim fantom, Paulom. Bila sta zelo jezna.",0,Pamina starša,14,Bila sta,True
+8,"Bob je plačal za Charliejev študij na kolidžu, zdaj pa se Charlie obnaša, kot da se to ni nikoli zgodilo. Zelo je prizadet.",0,Bob,21,je,True
+9,"Billy je jokal, ker Toby ni delil svoje igrače.",4,Toby,7,svoje,True
+10,"Emma žoge ni podala Janie , četudi je bila odprta.",4,Janie,7,je bila,True
+11,Samova risba je visela nad Tinino in res je bila videti bolje ob drugi sliki pod njo.,0,Samova risba,8,je bila videti,True
+12,"Bob je plačal za Charliejev študij na kolidžu, zdaj pa se Charlie obnaša, kot da se to ni nikoli zgodilo. Zelo je nehvaležen.",0,Bob,21,je,False
+13,"Odvetnica je priči zastavila vprašanje, vendar se je obotavljala odgovoriti .",0,Odvetnica,6,se je obotavljala odgovoriti,False
+14,"Sam je k Adamu hodil na ure francoščine, ker jo je želel govoriti tekoče.",0,Sam,10,je želel govoriti,True
+15,"Sid je predstavil svojo teorijo Marku , vendar ga ni prepričal .",5,Marku,9,ni prepričal,False
+16,"Mestni svetniki demonstrantom niso izdali dovoljenja, saj so propagirali nasilje.",2,demonstrantom,7,so propagirali,True
+17,"Ko je Tommyju sladoled padel na tla, se je Timmy zahihital, zato mu je oče namenil sočuten pogled.",9,Timmy,12,mu,False
+18,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil , še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",17,Ravnatelju,52,je bil,False
+19,"Novinarji so intervjuvali igralce iz novega filma. Bili so prijazni, zato je intervju trajal kar nekaj časa.",0,Novinarji,7,Bili so,False
+20,"Joan se je Susan vedno zahvalila za vso pomoč, ki jo je ponudila .",3,Susan,11,je ponudila,True
+21,Zaradi nevihte se je podrla smreka in treščila v streho moje hiše. Zdaj jo moram popraviti.,9,streho,13,jo,True
+22,"Beth se ni razjezila na Sally, ki jo je prekinila, zato ker se je ustavila in preštela do deset.",0,Beth,12,se je ustavila,True
+23,"Odvetnica je priči zastavila vprašanje, vendar se ga je obotavljala ponoviti .",0,Odvetnica,6,se ga je obotavljala ponoviti,True
+24,"Sir Clifford želi, da mu najdem novega konjušnika , starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj.",7,konjušnika,46,njegov,False
+25,"Ker je deževalo, sem časopis dal čez nahrbtnik, zato da ostane suh.",4,časopis,10,ostane,False
+26,"Ko bi goljufu uspelo preslepiti Sama, bi dobil veliko denarja.",2,goljufu,6,bi dobil,True
+27,"Fant je še naprej udrihal po poniju , zato ga je poni nazadnje vrgel iz sedla. John se je glasno zasmejal. »Prav mu je,« je rekel.",6,poniju,22,mu,False
+28,Biskvit sem pospravil v hladilnik. V njem je veliko ostankov.,0,Biskvit,6,njem,False
+29,Riba je pojedla glisto . Bila je okusna.,3,glisto,5,Bila je,True
+30,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš, ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",0,Babar,28,rad,False
+31,"Igralki je bilo nekoč ime Terpsihora , vendar si ga je pred nekaj leti spremenila v Tina, ker se ji zdelo, da ga je lažje izgovoriti.",5,Terpsihora,22,ga,False
+32,"Mark je spal. Bil je že dan, ko se je zbudil z Warrenovo roko na svojem ramenu.",12,Warrenovo roko,15,svojem,False
+33,"Fred si je z rokami zakril oči, ker je veter raznašal pesek. Ko je veter ponehal, jih je spustil.",4,rokami,16,jih,True
+34,"Sir Clifford želi, da mu najdem novega konjušnika, starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj.",20,stari kočijaž,45,njegov,True
+35,"Joe je plačal detektivu, potem ko je dostavil končno poročilo o primeru.",0,Joe,6,je dostavil,False
+36,"Ko je Andrea v kmetijskem letalu preletela Susan , je zagledala pristajalno stezo.",7,Susan,9,je zagledala,False
+37,"Frank je bil jezen na Toma , ker pekač, ki ga je kupil od njega, ni delal.",5,Toma,10,ga,False
+38,Lily je pretrgala svojo tišino in govorila z Donno .,8,Donno,3,svojo,False
+39,"Mačka je ležala zraven mišje luknje in čakala na miško, vendar je bila preveč previdna.",0,Mačka,11,je bila,False
+40,"C.K. je prav tako smrtonosno čeden. Dexter Haven , bledičen mlad gizdalin s sprehajalno palico z ročajem iz žada ter s kodrom, ki spi ob njegovih nogah.",7,Haven,25,njegovih,True
+41,"Sir Clifford želi, da mu najdem novega konjušnika, starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj, enkrat ko bo šel stari mož v pokoj.",0,Sir Clifford,38,njegovih,False
+42,Riba je pojedla glisto. Bila je okusna.,0,Riba,4,Bila je,False
+43,"Lionel je ugrabil znanstvenika, doktorja Vardija, ki je iznašel napravo, ki naredi živali nevidne; Lionel jo namerava uporabiti na Geoffreyju in ga poslati v vojaški bunker, da ukrade jedrsko snov.",0,Lionel,21,ga,False
+44,"Mestni svetniki demonstrantom niso izdali dovoljenja, saj so se bali nasilja.",0,Mestni svetniki,7,so se bali,True
+45,"Frank je čutil zadoščenje, ko je njegov dolgoletni tekmec Bill oznanil, da je zmagovalec tekmovanja.",9,Bill,12,je,False
+46,"Bob se je zgrudil na pločnik. Kmalu je videl Carla, kako prihaja na pomoč. Bil je zelo zaskrbljen.",0,Bob,14,Bil je,False
+47,"Dan se je usedel na zadnji sedež, medtem ko je Bill zasedel sprednjega, saj je bil njegov klic -- »Moj sedež!« -- počasnejši.",10,Bill,16,njegov,False
+48,"Susan ve vse o Anninih osebnih problemih, ker je vsiljiva.",0,Susan,8,je,True
+49,"Pete zavida Martinu, zato ker je zelo uspešen.",0,Pete,5,je,False
+50,"Billy je jokal, ker Toby ni delil svoje igrače.",0,Billy,7,svoje,False
+51,"Iz steklenice sem v skodelico nalival vodo, dokler ni bila polna.",1,steklenice,8,ni bila,False
+52,"Uporabil sem star kos blaga, da očistim nož in potem sem ga vrgel v smeti.",7,nož,11,ga,False
+53,"John je najel Billa , zato da bi lahko skrbel zanj .",3,Billa,10,zanj,False
+54,Jane je potrkala na vrata in Susan jih je odprla. Povabila jo je ven.,0,Jane,10,Povabila jo je,True
+55,"Novinarji so intervjuvali igralce iz novega filma. Bili so vztrajni, zato je intervju trajal kar nekaj časa.",0,Novinarji,7,Bili so,True
+56,"Ko je Ollie nesel Tommyja po dolgem zavitem stopnišču, so ga bolele noge.",2,Ollie,10,ga,True
+57,"Carol je bila prepričana, da Rebecca obžaluje, da je ukradla uro.",5,Rebecca,8,je ukradla,True
+58,Bob je plačal za Charliejev študij na kolidžu. Zelo je velikodušen.,4,Charliejev,9,je,False
+59,"Vsi gumbi na hrbtu Dorine kariraste obleke so bili narobe zapeti. Maude bi se morala spomniti, da ji zapne gumbe; vendar je pustila ubogo malo Doro, da se je znašla sama.",4,Dorine,27,se je znašla,True
+60,"Miza je bila do vrha obložena s hrano, zraven nje pa so bile na tleh glinene posode, košare in pet-litrsko vedro mleka.",14,tleh,9,nje,False
+61,"Mark je bil za petami gospoda Singerja. Slišal je, kako je poklical kapitana in mu obljubil, v žargonu, ki so ga tisto noč vsi uporabljali, da ne bo poškodovano nič razen streliva, vendar pa bi bilo najbolje, ko bi kapitan in njegova posadka ostali noter, dokler ne bo vsega konec.",0,Mark,41,njegova,False
+62,Mož je fanta dvignil na svoja ramena.,2,fanta,5,svoja,False
+63,"Misliš, da je Peter odgovoren za kapitanovo bolezen? Morda je podkupil kuharja, da mu je nekaj zamešal v njegovo hrano.",3,Peter,18,njegovo,False
+64,"Na znakih, ki so bili nad vrati trgovine, so bile slike, ki so kazale, kaj delajo znotraj. Čeprav se je vedno več ljudi učilo brati, je vsak obrtnik vseeno imel znake, ker ni želeli izgubiti morebitnega obiskovalca zgolj zato, ker je bil nepismen.",36,obiskovalca,40,je bil,True
+65,"Paul je poskusil poklicati Georgea po telefonu, vendar ni bil dosegljiv.",4,Georgea,8,ni bil,True
+66,Samova risba je visela nad Tinino in res je bila videti bolje ob drugi sliki nad njo.,0,Samova risba,8,je bila videti,False
+67,"Miza ne gre skozi odprtino za vrata, ker je preširoka.",0,Miza,8,je,True
+68,Emmina mama je že dolgo nazaj umrla in njeno izobrazbo je v vlogi guvernante prevzela odlična ženska.,0,Emmina mama,8,njeno,False
+69,"Bill je računalniško konzolo podal Johnu , ker je bila njegova runda.",5,Johnu,10,njegova,True
+70,"Mark je zagotovo vedel le eno stvar. Harry je vedel veliko manj, kot je vedel on .",7,Harry,15,on,False
+71,"Misliš, da je Peter odgovoren za kapitanovo bolezen? Morda je podkupil kuharja, da mu je nekaj zamešal v njegovo hrano.",6,kapitanovo,18,njegovo,True
+72,"Kaj pa tistikrat, ko si v hamburgerje narezal čebulice tulipanov, ker si mislil, da so čebula?",6,hamburgerje,14,so,False
+73,"Fred si je z rokami zakril oči , ker je veter raznašal pesek. Ko je veter ponehal, jih je spustil.",6,oči,17,jih,False
+74,"Sid je svojo teorijo razložil Marku, vendar ga ni razumel .",0,Sid,8,ni razumel,False
+75,"Tom je Ralpha zapeljal v šolo, zato da mu med vožnjo ne bi bilo dolgčas.",2,Ralpha,8,mu,False
+76,"Ko so umrli moji starši, nisem zaslužil dovolj, da bi preskrbel sebe ali mojo invalidno sestro Nelly in brez najine prijazne ravnateljice bi odšla v sirotišnico. Nelly ji pravi moj angel in za to ima dobre razloge.",21,ravnateljice,27,ji,True
+77,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval , temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",17,Ravnatelju,61,ni dodatno kaznoval,True
+78,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",17,Ravnatelju,40,ga,True
+79,"Ann je Mary vprašala, kdaj se zapre knjižnica, zato ker je pozabila .",2,Mary,10,je pozabila,False
+80,Mama je prišla zraven in sedla k Alice . Nežno je gladila njene lase in pustila deklico jokati.,7,Alice,10,je gladila,False
+81,Biskvit sem pospravil v hladilnik . V njem je veliko ostankov.,4,hladilnik,7,njem,True
+82,"Skočil sem ven po sendvič, bolj zato, da mine čas , kot pa zato, ker bi ga res hotel.",9,čas,16,ga,False
+83,"Znanstvenice preiskujejo tri vrste rib, ki so jih nedavno odkrili v Indijskem oceanu. Začele so pred dvema letoma.",0,Znanstvenice,13,Začele so,True
+84,"Bob je igral karte z Adamom in močno vodil. Ko Adam ne bi nenadoma imel nenavadno velike sreče, bi zmagal .",0,Bob,18,bi zmagal,True
+85,"Fred je še edini živeči človek, ki se spominja mojega pradedka. Bil je izjemen mož.",0,Fred,11,Bil je,False
+86,"Moj gospodar in gospodarica sta se odločila obiskati svoja prijatelja, ki sta živela okoli 75 kilometrov stran od našega doma, in sicer naj bi ju peljal James.",1,gospodar in gospodarica,24,ju,True
+87,"Ključavnico sem poskusil odpreti s ključem , vendar je nekdo odprtino za ključ zapolnil z žvečilnim gumijem in nisem ga mogel spraviti ven.",5,ključem,19,ga,False
+88,"Jane je potrkala na Susanina vrata, vendar ni odprla .",0,Jane,7,ni odprla,False
+89,"John je ukazal Billu , naj odide, zato je eno uro pozneje odšel .",3,Billu,8,je eno uro pozneje odšel,True
+90,"Billy je jokal, ker Toby ni sprejel njegove igrače.",0,Billy,7,njegove,True
+91,"James je Roberta prosil za uslugo, vendar je zavrnil .",0,James,7,je zavrnil,False
+92,"Kirilov je predsedništvo predal Šatovu , ker je bil bolj priljubljen.",4,Šatovu,7,je bil,True
+93,"Fant je še naprej udrihal po poniju, zato ga je poni nazadnje vrgel iz sedla. John se je glasno zasmejal. »Prav mu je,« je rekel.",15,John,21,mu,False
+94,Lisice se ponoči splazijo noter in napadajo kokoši . Postale so zelo predrzne.,7,kokoši,9,Postale so,False
+95,"Fred je še edini živeči človek, ki se spominja mojega pradedka . Izjemen mož je .",9,mojega pradedka,14,je,False
+96,"Potem je vzel kos železa v obliki konjskega kopita in ga tlesknil gor ter skozi podkev v kopito zabil nekaj žebljev, tako da je bila podkev pritrjena gor.",7,konjskega kopita,10,ga,False
+97,"Sir Clifford želi, da mu najdem novega konjušnika, starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj, enkrat ko bo šel stari mož v pokoj.",0,Sir Clifford,19,Njegov,True
+98,Mož je fanta dvignil na njegov pograd.,0,Mož,5,njegov,False
+99,Ta knjiga je Shakespearja predstavila Goetheju; močno je vplivala na njegovo pisanje.,3,Shakespearja,10,njegovo,False
+100,"Billy je jokal, ker Toby ni sprejel njegove igrače.",4,Toby,7,njegove,False
+101,"Bob se je zgrudil na pločnik. Kmalu je videl Carla , kako prihaja na pomoč. Bil je zelo bolan.",9,Carla,15,Bil je,False
+102,"Tom je Ralpha zapeljal v šolo, zato da mu ni bilo potrebno hoditi.",2,Ralpha,8,mu,True
+103,Anne je prejšnji mesec rodila hčerko. Ona je zelo očarljiva ženska.,0,Anne,6,Ona,True
+104,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",4,Billa,34,mu,False
+105,"Bill je računalniško konzolo podal Johnu, ker je bilo konec njegove runde.",0,Bill,10,njegove,True
+106,"Tom je šolsko torbo podal Rayu , potem ko je prišel na vrh stopnic.",5,Rayu,9,je prišel,False
+107,"Mary je dala spat svojo hčerko Anne, zato da je lahko delala .",0,Mary,9,je lahko delala,True
+108,"Gasilci so prispeli pred policaji, saj so prihajali od zelo daleč.",0,Gasilci,6,so prihajali,False
+109,"Mark je Peteu o sebi povedal veliko laži, ki jih je Pete vključil v svojo knjigo. On je ta, ki bi moral biti bolj skeptičen.",2,Peteu,16,On,True
+110,"Gasilci so prispeli pred policaji , saj so prihajali od zelo daleč.",4,policaji,7,so prihajali,True
+111,Thomson je obiskal Cooperjev grob leta 1765. Pred tem je potoval pet let.,0,Thomson,9,je potoval,True
+112,"Ko je Tatjana prispela do koče, je njena mama že spala. Pazila je, da je ne prebudi, medtem ko se je preoblekla in splezala na svoje ležišče.",2,Tatjana,7,njena,True
+113,"Med igro lovljenja je Ethan preganjal Luka , saj je bil on lovilec.",6,Luka,11,on,False
+114,"Mark je slišal Stevove korake, ko se je spuščal po lestvi. Vrata trgovine so se zaprla za njim . Stekel je pogledat ven skozi okno.",3,Stevove,17,njim,True
+115,"George je dobil zastonj karte za predstavo, vendar jih je dal Ericu, saj si jo je še posebej želel ogledati .",0,George,13,si jo je še posebej želel ogledati,False
+116,"Ko je Tatjana prispela do koče, je njena mama že spala. Pazila je, da je ne prebudi, medtem ko se je preoblekla in splezala na svoje ležišče.",8,mama,25,svoje,False
+117,"Bob je plačal za Charliejev študij na kolidžu, zdaj pa se Charlie obnaša, kot da se to ni nikoli zgodilo. Zelo je nehvaležen.",4,Charliejev,21,je,True
+118,"Wainwrightovi so gospoda Crowleyja obravnavali kot princa, dokler ni svoje oporoke napisal njim v prid; potem so se do njega vedli, kot da je smet. Ljudje so rekli, da je umrl samo zato, da se je rešil njihovega nenehnega nadlegovanja.",25,Ljudje,37,njihovega,False
+119,"Med igro lovljenja je Ethan preganjal Luka, saj je bil on lovilec.",4,Ethan,10,on,True
+120,"Tom je šolsko torbo podal Rayu, potem ko je prišel na vrh stopnic.",0,Tom,8,je prišel,True
+121,Slika v Markovi dnevni sobi prikazuje hrast. Je na desni strani knjižne police.,0,Slika,7,Je,True
+122,"Dr. Adams je obvestila Kate, da ima raka in ji predstavila nekaj možnosti za nadaljnje zdravljenje.",0,Dr. Adams,6,ima,False
+123,"Figurina se je odkotalila s police , ker ni bila vodoravna.",5,police,8,ni bila,True
+124,"Arheologi so ugotovili, da so ljudje živeli v Laputi že 20.000 let nazaj. Na bregovih reke so lovili srne.",0,Arheologi,16,so lovili,False
+125,"Pete zavida Martinu, čeprav je zelo uspešen.",0,Pete,4,je,True
+126,"Gasilci so prispeli za policaji , saj so prihajali od zelo daleč.",4,policaji,7,so prihajali,False
+127,"Paul je poskusil poklicati Georgea po telefonu, vendar ni bil uspešen.",4,Georgea,8,ni bil,False
+128,"Na znakih, ki so bili nad vrati trgovine, so bile slike, ki so kazale, kaj delajo znotraj. Čeprav se je vedno več ljudi učilo brati, je vsak obrtnik vseeno imel znake, ker ni želel izgubiti morebitnega obiskovalca zgolj zato, ker je bil nepismen.",27,obrtnik,40,je bil,False
+129,"Jane je potrkala na Susanina vrata, vendar ni bilo odgovora. Bila je razočarana.",4,Susanina,10,Bila je,False
+130,"Frank je bil jezen na Toma, ker pekač, ki mu ga je prodal ni delal.",0,Frank,11,je prodal,False
+131,Ta knjiga je Shakespearju predstavila Ovidija; močno je vplivala na njegovo pisanje.,3,Shakespearju,10,njegovo,True
+132,Thomson je obiskal Cooperjev grob leta 1765. Pred tem je potoval pet let.,3,Cooperjev,9,je potoval,False
+133,"Dostavni tovornjak je prehitel šolski avtobus , saj je bil zelo počasen.",4,šolski avtobus,8,je bil,True
+134,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",17,Ravnatelju,34,mu,True
+135,"Vrečo krompirja so položili na vrečo moke, zato je bilo najprej potrebno prestaviti njo .",0,Vrečo krompirja,13,njo,True
+136,Thomson je obiskal Cooperjev grob leta 1765. Do takrat je bil mrtev že pet let.,0,Thomson,9,je bil,False
+137,"Fant je še naprej udrihal po poniju , zato ga je poni nazadnje vrgel iz sedla. John se je glasno zasmejal. »Prav ima ,« je rekel.",6,poniju,22,ima,True
+138,"Mark je bil za petami gospoda Singerja. Slišal je , kako je poklical kapitana in mu obljubil, v žargonu, ki so ga tisto noč vsi uporabljali, da ne bo poškodovano nič razen streliva, vendar pa bi bilo najbolje, ko bi kapitan in njegova posadka ostali noter, dokler ne bo vsega konec.",0,Mark,7,Slišal je,True
+139,"Potem je vzel kos železa v obliki konjskega kopita in ga tlesknil gor ter skozi podkev v kopito zabil nekaj žebljev, tako da je bila podkev pritrjena gor.",6,obliki,10,ga,False
+140,"Dr. Adams je obvestila Kate, da se je upokojila , in ji predstavila nekaj možnosti za nadaljnje zdravljenje.",0,Dr. Adams,6,se je upokojila,True
+141,"George je dobil zastonj karte za predstavo, vendar jih je dal Ericu , saj si jo je še posebej želel ogledati .",11,Ericu,14,si jo je še posebej želel ogledati,True
+142,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš, ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",0,Babar,33,svojo,False
+143,"Jane je potrkala na Susanina vrata, vendar ji ni nihče odprl.",4,Susanina,7,ji,False
+144,"Pete zavida Martinu , čeprav je zelo uspešen.",2,Martinu,5,je,False
+145,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",1,Arthurja in Celeste,16,ju,True
+146,"Šli smo na jezero, ker so na morski obali videli morskega psa, zato je bilo tam bolj varno plavati.",7,morski obali,15,tam,False
+147,"Fant je še naprej udrihal po poniju, zato ga je poni nazadnje vrgel iz sedla. John se je glasno zasmejal. »Prav mu je,« je rekel.",0,Fant,21,mu,True
+148,"Grant je trdo delal, da pobere fižol , zato da bi on in njegova družina tisto zimo imeli dovolj hrane; njegov prijatelj Henry mu je dovolil, da ga shrani v njegov skedenj, kjer se bo posušil. Pozneje ga bosta on in Tatjana oluščila in ga skuhala za njune nedeljske večerje.",6,fižol,47,njune,False
+149,Ta knjiga je Shakespearja predstavila Goetheju ; močno je vplivala na njegovo pisanje.,5,Goetheju,11,njegovo,True
+150,"Ko je veterinar, gospod Bond , prišel pregledat črnega konja, ki je ležal na travi in stokal, ga je povsod pretipal in zamajal z glavo; njegova noga je bila zlomljena.",3,gospod Bond,18,je povsod pretipal,True
+151,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš, ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",0,Babar,31,mu,True
+152,"Kirilov je predsedništvo predal Šatovu , ker je bil manj priljubljen.",4,Šatovu,7,je bil,False
+153,"Sam je k Adamu hodil na ure francoščine, ker jo je želel govoriti tekoče.",3,Adamu,10,je želel govoriti,False
+154,"Potem je vzel kos železa v obliki konjskega kopita in ga tlesknil gor ter skozi podkev v kopito zabil nekaj žebljev, tako da je bila podkev pritrjena gor.",3,kos železa,10,ga,True
+155,"Fred naj bi pospravil v pomivalni stroj , vendar je s tem odlašal, ker je želel gledati TV. Vendar se je oddaja izkazala za dolgočasno, zato si je premislil in jo ugasnil.",5,pomivalni stroj,11,tem,False
+156,"John je tekel skozi park, ko je zagledal moškega, ki je žongliral z lubenicami. Nanj je naredil vtis.",0,John,14,Nanj,True
+157,"Na Loebnerjevem tekmovanju sodniki niso mogli ugotoviti, kateri udeleženci so bili pogovorni roboti, saj so bili preveč napredni.",3,sodniki,14,so bili,False
+158,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",9,Nelly,26,je pošiljala,False
+159,"Narednik Holmes je dekleta prosil, naj opišejo vsiljivca . Nancy policaju ni le odlično opisala močnega, trideset let starega klateža, temveč je tudi narisala grobo skico njegovega obraza.",7,vsiljivca,26,njegovega,True
+160,Lisice se ponoči splazijo noter in napadajo kokoši . Postale so zelo živčne.,7,kokoši,9,Postale so,True
+161,Jim je pomignil točaju in pokazal proti svojemu praznemu kozarcu.,0,Jim,7,svojemu,True
+162,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta , da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",0,Mami,11,sta,True
+163,"Medtem ko si je raztezala hrbet, se je ženska nasmehnila deklici.",8,ženska,3,je raztezala,True
+164,"John je obljubil Billu , da bo odšel, zato je eno uro pozneje odšel .",3,Billu,9,je eno uro pozneje odšel,False
+165,Jim je pomignil točaju in pokazal proti svojemu praznemu kozarcu.,3,točaju,7,svojemu,False
+166,"Joan se je Susan vedno zahvalila za vso pomoč, ki jo je ponudila .",0,Joan,11,je ponudila,False
+167,"James je Roberta prosil za uslugo, vendar je zavrnil .",2,Roberta,7,je zavrnil,True
+168,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",1,ravnateljica,11,ji,False
+169,"Alice si je na vse načine prizadevala preprečiti hčerki, da na zabavi laja, a smo se na koncu vsi spraševali, zakaj se obnaša tako nenavadno.",0,Alice,21,se obnaša,False
+170,"Posode nisem mogel dati na polico , ker je bila previsoko.",5,polico,8,je bila,True
+171,"Biografija Sama Goodmana o špartanskem generalu Ksenofontu slikovito prikaže težave, s katerimi se je soočal med raziskovanjem.",2,Goodmana,12,se je soočal,True
+172,"Vrečo krompirja so položili pod vrečo moke , zato je bilo najprej potrebno prestaviti njo .",5,vrečo moke,14,njo,True
+173,"Figurina se je odkotalila s police, ker ni bila pritrjena.",0,Figurina,7,ni bila,True
+174,Jane je potrkala na vrata in Susan jih je odprla. Povabila jo je noter.,6,Susan,10,Povabila jo je,True
+175,"Politiki v daljnem Washingtonu niso poznali naseljencev, zato so postavili pravila, ki naj bi jih vodila.",0,Politiki,8,so postavili,True
+176,"Miza je bila do vrha obložena s hrano , zraven nje pa so bile na tleh glinene posode, košare in pet-litrsko vedro mleka.",7,hrano,10,nje,False
+177,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš , ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",11,bogataš,24,hrepeni,False
+178,"Dostavni tovornjak je prehitel šolski avtobus, saj je bil zelo počasen.",0,Dostavni tovornjak,7,je bil,False
+179,Lily je pretrgala svojo tišino in govorila z Donno.,0,Lily,3,svojo,True
+180,"Tatjana je vedela, da je babica rada obilno pogostila svoje goste. Zdaj je Tatjana gledala, kako je babica objela Tatjanino majhno mamo v širok, koščen objem in jo nato porinila k mizi, si z ramen dvignila ruto in jo posadila na častno mesto s preprostim: ""Veliko je.""",0,Tatjana,9,svoje,False
+181,"Ko je Tatjana prispela do koče, je njena mama že spala. Pazila je , da je ne prebudi, medtem ko se je preoblekla in splezala na svoje ležišče.",2,Tatjana,11,Pazila je,True
+182,"Na Loebnerjevem tekmovanju sodniki niso mogli ugotoviti, kateri udeleženci so bili pogovorni roboti , saj so bili preveč neumni.",11,pogovorni roboti,15,so bili,False
+183,"Moj sestanek se je začel ob 4:00, vlak pa sem morala ujeti ob 4:30, tako da ni bilo veliko časa. K sreči je zamujal , tako da se je na koncu vse izšlo.",7,vlak,22,je zamujal,True
+184,"Susan je vedela, da je imel Annin sin avtomobilsko nesrečo, ker ji je to povedala .",0,Susan,12,je to povedala,False
+185,"Miza ne gre skozi odprtino za vrata, ker je preozka.",0,Miza,8,je,False
+186,"Alice je v množici iskala svojo prijateljico Jade. Ker je vedno imela srečo, jo je Alice hitro opazila.",0,Alice,9,je vedno imela,True
+187,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",0,Mami,20,sta pobegnila,False
+188,"Nihče ne gre na Facebook, da bi bil žalosten in osamljen. Vendar pa nova raziskava psihologa Georgea Lincolna z Univerze v Wisconsinu trdi, da se zaradi njega počutimo točno tako.",14,raziskava,26,njega,False
+189,"Tom je Ralpha zapeljal v šolo, zato da mu med vožnjo ne bi bilo dolgčas.",0,Tom,8,mu,True
+190,"Fred je še edini živeči človek, ki se spominja mojega pradedka . Bil je izjemen mož.",9,mojega pradedka,12,Bil je,True
+191,"Pamina starša sta prišla domov in jo zalotila med seksom z njenim fantom, Paulom. Bila sta v zadregi.",0,Pamina starša,14,Bila sta,False
+192,"Misliš, da je Peter odgovoren za kapitanovo bolezen? Morda je podkupil kuharja, da mu je nekaj zamešal v njegovo hrano.",3,Peter,9,je podkupil,True
+193,Policaji so aretirali vse člane tolpe. Poskušali so zatreti prekupčevanje z mamili v soseski.,0,Policaji,6,Poskušali so,True
+194,Metuljevo pupo sem položil na mizo in strla se je .,5,mizo,7,strla se je,False
+195,"Biografija Sama Goodmana o špartanskem generalu Ksenofontu slikovito prikaže težave, s katerimi se je soočal v otroštvu.",6,Ksenofontu,12,se je soočal,True
+196,"Politiki v daljnem Washingtonu niso poznali naseljencev, zato so postavili pravila, ki naj bi jih vodila.",6,naseljencev,8,so postavili,False
+197,"Biografija Sama Goodmana o špartanskem generalu Ksenofontu slikovito prikaže težave, s katerimi se je soočal med raziskovanjem.",6,Ksenofontu,12,se je soočal,False
+198,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš , ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",11,bogataš,29,rad,True
+199,"Madonna je odpustila svojo trenerko, ker je spala z njenim fantom.",0,Madonna,6,je spala,False
+200,"Wainwrightovi so gospoda Crowleyja obravnavali kot princa, dokler ni svoje oporoke napisal njim v prid; potem so se do njega vedli, kot da je smet. Ljudje so rekli, da je umrl samo zato, da se je rešil njihovega nenehnega nadlegovanja.",0,Wainwrightovi,37,njihovega,True
+201,"Ko je Tommyju sladoled padel na tla, se je Timmy zahihital, zato mu je oče namenil strog pogled.",2,Tommyju,12,mu,False
+202,"Bill je računalniško konzolo podal Johnu , ker je bilo konec njegove runde.",5,Johnu,11,njegove,False
+203,"Frank je bil jezen na Toma , ker pekač, ki mu ga je prodal , ni delal.",5,Toma,12,je prodal,True
+204,"Sam je k Adamu hodil na ure francoščine, ker je bilo znano, da jo tekoče govori .",0,Sam,15,govori,False
+205,Bob je plačal za Charliejev študij na kolidžu. Zelo je velikodušen.,0,Bob,9,je,True
+206,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",1,Arthurja in Celeste,5,ponju,True
+207,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",1,ravnateljica,25,ji,False
+208,Jane je potrkala na vrata in Susan jih je odprla. Povabila jo je noter.,0,Jane,10,Povabila jo je,False
+209,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",9,Nelly,25,ji,True
+210,"Pokal ne gre v rjav kovček, ker je prevelik.",0,Pokal,7,je,True
+211,"Emma žoge ni podala Janie, četudi je videla , da je bila odprta.",0,Emma,6,je videla,True
+212,"Sam je h klavirju približal stol , vendar je bil pokvarjen , zato je moral namesto tega peti.",3,klavirju,10,pokvarjen,True
+213,"Videl sem Jima , kako vpije na nekega možaka v vojaški uniformi z veliko rdečo brado. Ne vem, kdo je bil , vendar je bil videti zelo nesrečen.",2,Jima,19,je bil,False
+214,"Sir Clifford želi, da mu najdem novega konjušnika, starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj, enkrat ko bo šel stari mož v pokoj.",20,stari kočijaž,38,njegovih,True
+215,"Davea sem prosil, naj mi prinese jopico z druge strani jahte . Medtem ko ga ni bilo, sem se z roko naslonil na ograjo in nenadoma je popustila.",10,jahte,26,je popustila,False
+216,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",1,ravnateljica,11,ji,False
+217,"Fred in Alice sta imela zelo topla puhasta plašča, vendar nista bila kos mrazu Aljaske.",0,Fred in Alice,10,nista bila,False
+218,"James je Roberta prosil za uslugo, vendar ga je zavrnil.",2,Roberta,7,ga,False
+219,"Še preden so prišli do mesta , so slišali zvok, kot bi prasketala pokovka. Dora je vprašala, kaj je to , in oče je rekel, da so petarde.",5,mesta,19,to,False
+220,"Ko je Ollie nesel Tommyja po dolgem zavitem stopnišču, so njegove noge trpele.",4,Tommyja,10,njegove,False
+221,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata , ker sta pobegnila stran.",0,Mami,18,oštevata,True
+222,"Mestni svetniki demonstrantom niso izdali dovoljenja, saj so propagirali nasilje.",0,Mestni svetniki,7,so propagirali,False
+223,"Kaj pa tistikrat, ko si v hamburgerje narezal čebulice tulipanov , ker si mislil, da so čebula?",8,čebulice tulipanov,15,so,True
+224,"Videli smo fanta , ki je želel s ponijem preskočiti oviro; poni ni želel skočiti in fant ga je ošvrknil z bičem, vendar se je zgolj obrnil .",2,fanta,23,se je zgolj obrnil,False
+225,"Frank je čutil zadoščenje, ko je njegov dolgoletni tekmec Bill oznanil, da je zmagovalec tekmovanja.",0,Frank,12,je,True
+226,"Iz steklenice sem v skodelico nalival vodo, dokler ni bila prazna.",1,steklenice,8,ni bila,True
+227,"Sam je h klavirju približal stol , vendar je bil pokvarjen , zato je moral stati.",3,klavirju,10,pokvarjen,False
+228,"Sam je k Adamu hodil na ure francoščine, ker je bilo znano, da jo tekoče govori .",3,Adamu,15,govori,True
+229,"Grant je trdo delal, da pobere fižol , zato da bi on in njegova družina tisto zimo imeli dovolj hrane; njegov prijatelj Henry mu je dovolil, da ga shrani v njegov skedenj, kjer se bo posušil. Pozneje ga bosta on in Tatjana oluščila in ga skuhala za njune nedeljske večerje.",6,fižol,27,ga,True
+230,"Starejši študentje so nadlegovali mlajše, zato smo jih kaznovali.",0,Starejši študentje,7,jih,True
+231,"Gasilci so prispeli za policaji, saj so prihajali od zelo daleč.",0,Gasilci,6,so prihajali,True
+232,"John je raziskoval v knjižnici, ko je zaslišal moškega, ki si je prepeval in žvižgal. Bil je zelo jezen.",0,John,15,Bil je,True
+233,"Tatjana je nosila dve kitari in torbo in kljub temu je še vedno lahko pokazala na Freemanove : »Mar ni lepo, da so prišli , mama!«",16,Freemanove,22,so prišli,True
+234,"Uporabnik je geslo spremenil iz ""GrWQWu8JyC "" v "" willow-towered Canopy Huntertropic wrestles "" , ker si si ga zlahka zapomnil.",9,willow-towered Canopy Huntertropic wrestles,18,ga,True
+235,Steve se v vsem zgleduje po Fredu. Zelo velik vpliv ima nanj.,0,Steve,10,ima,False
+236,"Ko so pobudniki predloga prišli v mestno hišo, so bili presenečeni, da je bila soba polna nasprotnikov. Zelo očitno jih je bilo manj.",2,pobudniki,19,jih,True
+237,"Jane je potrkala na Susanina vrata, vendar ji ni odprla .",4,Susanina,8,ni odprla,True
+238,"Igralki je bilo nekoč ime Terpsihora, vendar si ga je pred nekaj leti spremenila v Tina , ker se ji zdelo, da ga je pretežko izgovoriti.",15,Tina,22,ga,False
+239,"Alice je v množici iskala svojo prijateljico Jade . Ker je vedno imela srečo, jo je Alice hitro opazila.",7,Jade,10,je vedno imela,False
+240,"Pete zavida Martinu , zato ker je zelo uspešen.",2,Martinu,6,je,True
+241,"Adam ne more oditi z dela, dokler ne pride Bob in ga nadomesti. Ko bi Bob odšel od doma pravočasno, ob tej uri ne bi bil več tukaj.",0,Adam,23,ne bi bil,True
+242,"Znanstvenice preiskujejo tri vrste rib, ki so jih nedavno odkrili v Indijskem oceanu. Pojavile so se pred dvema letoma.",0,Znanstvenice,13,Pojavile so se,False
+243,"George je dobil zastonj karte za predstavo, vendar jih je dal Ericu , četudi si jo je še posebej želel ogledati .",11,Ericu,14,si jo je še posebej želel ogledati,False
+244,"Politiki v daljnem Washingtonu niso poznali naseljencev, zato so postavili pravila, ki naj bi jih vodila.",0,Politiki,14,jih,False
+245,Lisice se ponoči splazijo noter in napadajo kokoši. Postale so zelo predrzne.,0,Lisice,8,Postale so,True
+246,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš, ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",0,Babar,32,da,False
+247,"John je obljubil Billu, da bo odšel, zato je eno uro pozneje odšel .",0,John,8,je eno uro pozneje odšel,True
+248,"Narednik Holmes je dekleta prosil, naj opišejo vsiljivca. Nancy policaju ni le odlično opisala močnega, trideset let starega klateža, temveč je tudi narisala grobo skico njegovega obraza.",0,Narednik Holmes,25,njegovega,False
+249,Ta knjiga je Shakespearju predstavila Ovidija ; bila je dober izbor njegovega pisanja.,5,Ovidija,11,njegovega,True
+250,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",4,Billa,60,ga,True
+251,"Anni je pri testu šlo veliko slabše kot njeni dobri prijateljici Lucy, saj je trdo študirala .",0,Anni,13,je trdo študirala,False
+252,"Madonna je odpustila svojo trenerko, ker ni prenesla njenega fanta.",0,Madonna,8,njenega,False
+253,"Ko je Ollie nesel Tommyja po dolgem zavitem stopnišču, so njegove noge bingljale.",2,Ollie,10,njegove,False
+254,Težko knjigo sem položil na mizo in zlomila se je .,0,Težko knjigo,7,zlomila se je,False
+255,"Bob se je zgrudil na pločnik. Kmalu je videl Carla, kako prihaja na pomoč. Bil je zelo bolan.",0,Bob,14,Bil je,True
+256,Riba je pojedla glisto. Bila je lačna.,0,Riba,4,Bila je,True
+257,"Ko je veterinar, gospod Bond, prišel pregledat črnega konja , ki je ležal na travi in stokal, ga je povsod pretipal in zamajal z glavo; njegova noga je bila zlomljena.",7,črnega konja,18,je povsod pretipal,False
+258,"Z Billyjem pred sabo John ni videl odra, ker je bil tako visok.",4,John,9,je bil,False
+259,"Frank se je počutil obupanega, ko je njegov dolgoletni tekmec Bill oznanil, da je zmagovalec tekmovanja.",10,Bill,13,je,True
+260,"Politiki v daljnem Washingtonu niso poznali naseljencev , zato so postavili pravila, ki naj bi jih vodila.",6,naseljencev,15,jih,True
+261,"Susan ve vse o Anninih osebnih problemih, ker vse izklepeta .",4,Anninih,9,izklepeta,True
+262,Steve se v vsem zgleduje po Fredu . Zelo velik vpliv ima nanj.,6,Fredu,11,ima,True
+263,"Šli smo na jezero , ker so na morski obali videli morskega psa, zato je bilo tam bolj varno plavati.",3,jezero,16,tam,True
+264,"Mark je bil za petami gospoda Singerja . Slišal je, kako je poklical kapitana in mu obljubil, v žargonu, ki so ga tisto noč vsi uporabljali, da ne bo poškodovano nič razen streliva, vendar pa bi bilo najbolje, ko bi kapitan in njegova posadka ostali noter, dokler ne bo vsega konec.",5,gospoda Singerja,42,njegova,False
+265,"Med igro lovljenja je Ethan bežal stran od Luka , saj je bil on lovilec.",8,Luka,13,on,True
+266,"Davea sem prosil, naj mi prinese jopico z druge strani jahte. Medtem ko ga ni bilo, sem se z roko naslonil na ograjo in nenadoma je popustila .",22,ograjo,25,je popustila,True
+267,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta , da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",1,Arthurja in Celeste,11,sta,False
+268,Jane je potrkala na vrata in Susan jih je odprla. Povabila jo je ven.,6,Susan,10,Povabila jo je,False
+269,"Ko so pobudniki predloga prišli v mestno hišo, so bili presenečeni, da je bila soba polna nasprotnikov. Zelo očitno jih je bilo več.",2,pobudniki,19,jih,False
+270,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata , ker sta pobegnila stran.",1,Arthurja in Celeste,18,oštevata,False
+271,"Dan se je usedel na zadnji sedež, medtem ko je Bill zasedel sprednjega, saj je bil njegov klic --»Moj sedež!« -- hitrejši.",10,Bill,16,njegov,True
+272,"Izvode našega vestnika smo želeli položiti na vse stole v dvorani, vendar jih je bilo enostavno preveč.",8,stole,12,jih,True
+273,"Novinarji so intervjuvali igralce iz novega filma. Bili so prijazni, zato je intervju trajal kar nekaj časa.",3,igralce,7,Bili so,True
+274,"Alice je v množici iskala svojo prijateljico Jade. Ker je vedno nosila rdeč turban, jo je Alice hitro opazila.",0,Alice,9,je vedno nosila,False
+275,"Po precej dolgem pogovoru je Nancy gospodinjo prepričala, da ni neposrednega razloga za preplah. Ni omenila pripetljaja z avtobusne postaje Hamilton, ker je vedela, da bi samo še povečal nelagodje gospe Gruen.",6,gospodinjo,14,Ni omenila,False
+276,"Moj gospodar in gospodarica sta se odločila obiskati svoja prijatelja , ki sta živela okoli 75 kilometrov stran od našega doma, in sicer naj bi ju peljal James.",8,svoja prijatelja,25,ju,False
+277,"Poni se je lepo obnašal, gospod, in je bil vedno ubogljiv; vendar je nazadnje dvignil kopita in vrgel mladega gospodiča v trnovo grmovje. Želel je , da bi mu pomagal, vendar upam, da mi boste oprostili, gospod, če rečem, da mi ni bilo niti najmanj do tega.",0,Poni,23,Želel je,False
+278,"Jim je tolažil Kevina , saj je bil zelo vznemirjen.",3,Kevina,6,je bil,True
+279,"Ko je Andrea v kmetijskem letalu preletela Susan, je zagledala pristajalno stezo.",2,Andrea,8,je zagledala,True
+280,"Ko je veterinar, gospod Bond , prišel pregledat črnega konja, ki je ležal na travi in stokal, ga je povsod pretipal in zamajal z glavo; njegova noga je bila zlomljena.",3,gospod Bond,25,njegova,False
+281,"Dan je Billu moral preprečiti, da bi se poigraval z ranjeno ptico. Zelo krut je .",2,Billu,14,je,True
+282,"Emma žoge ni podala Janie , četudi je videla , da je bila ta odprta.",4,Janie,7,je videla,False
+283,"Pes je preganjal mačka , ki je pobegnil na drevo. Čakal je ob drevesu.",3,mačka,10,Čakal je,False
+284,"Ann je Mary vprašala, kdaj se zapre knjižnica, ker je pozabila .",0,Ann,9,je pozabila,True
+285,"Beth se ni razjezila na Sally , ki jo je prekinila, zato ker se je ustavila in preštela do deset.",5,Sally,13,se je ustavila,False
+286,"V korenček sem zarinil žebljiček. Ko sem žebljiček potegnil ven, je bila v njem luknja.",7,žebljiček,13,njem,False
+287,"Ko je Tommyju sladoled padel na tla, se je Timmy zahihital, zato mu je oče namenil strog pogled.",9,Timmy,12,mu,True
+288,"Posode nisem mogel dati na polico, ker je bila previsoko.",0,Posode,7,je bila,False
+289,"Bidon vode sem vzel ven iz nahrbtnika, tako da je bil pri roki.",0,Bidon vode,9,je bil,True
+290,"John je tekel skozi park, ko je zagledal moškega, ki je žongliral z lubenicami. Bil je občudovanja vreden.",0,John,14,Bil je,False
+291,"Carol je bila prepričana, da je Rebecci žal, da je ukradla uro.",0,Carol,9,je ukradla,False
+292,"Mark je spal. Bil je že dan, ko se je zbudil z Warrenovo roko na svojem ramenu.",0,Mark,15,svojem,True
+293,"John ga je najel, zato da bi lahko Bill skrbel zanj.",0,John,1,ga,False
+294,"Carol je bila prepričana, da Rebecca sumi, da je ukradla uro.",0,Carol,8,je ukradla,True
+295,"Mačka je ležala zraven mišje luknje in čakala na miško, vendar je bila preveč nestrpna.",0,Mačka,11,je bila,True
+296,"Gumbnic ni lahko razporediti na enakomerno razdaljo, še posebno težko pa jih je izrezati na pravo velikost. Še tako majhen zdrs s škarjami bo zarezal preveliko luknjo, po drugi strani pa jo bo le ena sama neprerezana nit naredila preveliko.",20,zdrs,31,jo,False
+297,"Šli smo na jezero, ker so na morski obali videli morskega psa, zato je bilo tam nevarno plavati.",7,morski obali,15,tam,True
+298,"Ann je Mary vprašala, kdaj se zapre knjižnica, ampak žal je pozabila .",0,Ann,10,je pozabila,False
+299,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",4,Billa,40,ga,False
+300,"Pokal ne gre v rjav kovček, ker je premajhen.",0,Pokal,7,je,False
+301,"Doktor Adams je obvestila Kate , da ima raka in ji predstavila nekaj možnosti za nadaljnje zdravljenje.",4,Kate,7,ima,True
+302,Lisice se ponoči splazijo noter in napadajo kokoši. Postale so zelo živčne.,0,Lisice,8,Postale so,False
+303,"Mary je v posteljo položila svojo hčerko Anne, zato da bi lahko zaspala .",0,Mary,10,bi lahko zaspala,False
+304,"Fred je še edini živeči človek, ki se spominja mojega očeta, ko je bil otrok. Ko je Fred prvič videl mojega očeta, je bil star dvanajst let.",0,Fred,22,je bil,True
+305,"Fred je še edini živeči človek, ki se spominja mojega pradedka. Izjemen mož je .",0,Fred,13,je,True
+306,"Potem je vzel kos železa v obliki konjskega kopita in ga tlesknil gor ter skozi podkev v kopito zabil nekaj žebljev, tako da je bila podkev pritrjena gor.",7,konjskega kopita,10,ga,False
+307,"Susan ve vse o Anninih osebnih problemih, ker je vsiljiva.",4,Anninih,8,je,False
+308,Tom je Ralphu rekel: »Šah!« in premaknil svojega lovca.,2,Ralphu,7,svojega,False
+309,"Uporabnik je geslo spremenil iz ""GrWQWu8JyC"" v ""willow-towered Canopy Huntertropic wrestles,"" ker si si ga zlahka zapomnil.",5,"""GrWQWu8JyC""",14,ga,False
+310,"Davea sem prosil, naj mi prinese jopico z druge strani jahte. Medtem ko ga ni bilo, sem se z roko naslonil na ograjo in nenadoma je popustila.",6,jopico,25,je popustila,False
+311,"Iz steklenice sem v skodelico nalival vodo, dokler ni bila prazna.",4,skodelico,8,ni bila,False
+312,"Tom je šolsko torbo podal Rayu , potem ko je prišel na dno stopnic.",5,Rayu,9,je prišel,True
+313,Mož je fanta dvignil na svoja ramena.,0,Mož,5,svoja,True
+314,"Gumbnic ni lahko razporediti na enakomerno razdaljo, še posebno težko pa jih je izrezati na pravo velikost. Še tako majhen zdrs s škarjami bo zarezal preveliko luknjo , po drugi strani pa jo bo le ena sama neprerezana nit naredila preveliko.",26,luknjo,32,jo,True
+315,"Na Jacksona je močno vplival Arnold, čeprav je živel dve stoletji pozneje.",1,Jacksona,7,je živel,True
+316,Življenji človeka in konja sta vredni več kot nekaj lisičjih repov; vsaj morali bi biti .,0,Življenji človeka in konja,12,morali bi biti,True
+317,Mama je prišla zraven in sedla k Alice . Nežno je gladila njene lase in pustila deklico jokati.,7,Alice,12,njene,True
+318,"Ko je veterinar, gospod Bond, prišel pregledat črnega konja , ki je ležal na travi in stokal, ga je povsod pretipal in zamajal z glavo; njegova noga je bila zlomljena.",7,črnega konja,22,zamajal,False
+319,"Frank se je počutil obupanega, ko je njegov dolgoletni tekmec Bill oznanil, da je zmagovalec tekmovanja.",0,Frank,13,je,False
+320,"Jane je potrkala na Susanina vrata, vendar ni bilo odgovora. Bila je zunaj.",0,Jane,10,Bila je,False
+321,"Susan je vedela, da je imel Annin sin avtomobilsko nesrečo, zato ji je to povedala .",0,Susan,12,je to povedala,True
+322,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",0,Mami,5,ponju,False
+323,"Uporabil sem star kos blaga, da očistim nož in potem sem ga pospravil v predal.",7,nož,11,ga,True
+324,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš , ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",11,bogataš,33,da,True
+325,"Fred naj bi pospravil v pomivalni stroj , vendar je s tem odlašal, ker je želel gledati TV. Vendar se je oddaja izkazala za dolgočasno, zato si je premislil in ga prižgal.",5,pomivalni stroj,30,ga,True
+326,"Videl sem Jima , kako vpije na nekega možaka v vojaški uniformi z veliko rdečo brado. Ne vem, zakaj je vpil , vendar je bil videti zelo nesrečen.",2,Jima,19,je vpil,True
+327,"Adam ne more oditi z dela, dokler ne pride Bob in ga nadomesti. Ko bi Bob odšel od doma pravočasno, bi ob tej uri že bil tukaj.",9,Bob,20,bi ob tej uri že bil,True
+328,Oče je spečega fanta nosil v svojih rokah.,0,Oče,6,svojih,True
+329,Lily je govorila z Donno in zmotila njeno koncentracijo.,0,Lily,7,njeno,False
+330,"Davea sem prosil, naj mi prinese jopico z druge strani jahte. Medtem ko ga ni bilo, sem se z roko naslonil na ograjo in nenadoma je popustila.",19,roko,25,je popustila,False
+331,"Ko je veterinar, gospod Bond , prišel pregledat črnega konja, ki je ležal na travi in stokal, ga je povsod pretipal in zamajal z glavo; njegova noga je bila zlomljena.",3,gospod Bond,17,ga,False
+332,Težko knjigo sem položil na mizo in zlomila se je .,5,mizo,7,zlomila se je,True
+333,"Fred je še edini živeči človek, ki se spominja mojega očeta , ko je bil otrok. Ko je Fred prvič videl mojega očeta, je bil star dvanajst mesecev.",9,mojega očeta,23,je bil,True
+334,"Sara si je iz knjižnice sposodila rokopis , zato ker ga potrebuje za članek, ki ga piše. Bere ga, ko pride domov z dela.",6,rokopis,10,ga,True
+335,"James je Roberta prosil za uslugo, vendar ga je zavrnil.",0,James,7,ga,True
+336,"Fred je še edini živeči človek, ki se spominja mojega očeta, ko je bil otrok. Ko je Fred prvič videl mojega očeta, je bil star dvanajst mesecev.",0,Fred,22,je bil,False
+337,"Miza je bila do vrha obložena s hrano, zraven nje pa so bile na tleh glinene posode, košare in pet-litrsko vedro mleka.",0,Miza,9,nje,True
+338,Thomson je obiskal Cooperjev grob leta 1765. Do takrat je bil mrtev že pet let.,3,Cooperjev,9,je bil,True
+339,"Še preden so prišli do mesta, so slišali zvok , kot bi prasketala pokovka. Dora je vprašala, kaj je to , in oče je rekel, da so petarde.",8,zvok,19,to,True
+340,"Ko bi goljufu uspelo preslepiti Sama, bi izgubil veliko denarja.",2,goljufu,6,bi izgubil,False
+341,"Odvetnica je priči zastavila vprašanje, vendar se ga je obotavljala ponoviti .",2,priči,6,se ga je obotavljala ponoviti,False
+342,"Ko bi goljufu uspelo preslepiti Sama , bi dobil veliko denarja.",5,Sama,7,bi dobil,False
+343,"Adam ne more oditi z dela, dokler ne pride Bob in ga nadomesti. Ko bi Bob odšel od doma pravočasno, bi ob tej uri že bil tukaj.",0,Adam,20,bi ob tej uri že bil,False
+344,"Miza ne gre skozi odprtino za vrata , ker je preozka.",4,odprtino za vrata,9,je,True
+345,"Jim je vpil na Kevina , saj je bil zelo vznemirjen.",4,Kevina,7,je bil,False
+346,"Osel si je želel, da bi bradavica na njegovi zadnji nogi izginila, in potem tudi je .",10,nogi,15,je,False
+347,"Fred in Alice sta imela zelo topla puhasta plašča , vendar nista bila kos mrazu Aljaske.",8,plašča,11,nista bila,True
+348,"Sonce je celo dopoldne zastiral gost oblak, vendar pa se je k sreči do začetka piknika že pokazalo .",0,Sonce,9,se je k sreči do začetka piknika že pokazalo,True
+349,"Četudi sta tekli s približno enako hitrostjo, je Sue premagala Sally, ker je zelo slabo začela .",8,Sue,12,je zelo slabo začela,False
+350,Mama je prišla zraven in sedla k Alice. Nežno je gladila njene lase in pustila deklico jokati.,0,Mama,11,njene,False
+351,"Kirilov je predsedništvo predal Šatovu, ker je bil bolj priljubljen.",0,Kirilov,6,je bil,False
+352,"Osel si je želel, da bi bradavica na njegovi zadnji nogi izginila, in potem tudi je .",0,Osel,15,je,False
+353,"Tatjana je nosila dve kitari in torbo in kljub temu je še vedno lahko pokazala na Freemanove: ""Mar ni lepo, da so prišli , mama!""",3,dve kitari in torbo,21,so prišli,False
+354,"Bilo je poletno popoldne in pes je sedel sredi trate. Čez čas se je dvignil in umaknil na prostor pod drevesom, ker je bil hladnejši.",5,pes,22,je bil,False
+355,"Mark je bil za petami gospoda Singerja. Slišal je, kako je poklical kapitana in mu obljubil, v žargonu, ki so ga tisto noč vsi uporabljali, da ne bo poškodovano nič razen streliva, vendar pa bi bilo najbolje, ko bi kapitan in njegova posadka ostali noter, dokler ne bo vsega konec.",12,kapitana,41,njegova,True
+356,"Ko je veterinar, gospod Bond, prišel pregledat črnega konja , ki je ležal na travi in stokal, ga je povsod pretipal in zamajal z glavo; njegova noga je bila zlomljena.",7,črnega konja,17,ga,True
+357,Ta knjiga je Shakespearju predstavila Ovidija; bila je dober izbor njegovega pisanja.,3,Shakespearju,10,njegovega,False
+358,"Bob je igral karte z Adamom in močno vodil. Ko Adam ne bi nenadoma imel nenavadno velike sreče, bi izgubil .",5,Adamom,18,bi izgubil,True
+359,"Nihče ne gre na Facebook , da bi bil žalosten in osamljen. Vendar pa nova raziskava psihologa Georgea Lincolna z Univerze v Wisconsinu trdi, da se zaradi njega počutimo točno tako.",4,Facebook,27,njega,True
+360,"Moj sestanek se je začel ob 4:00, vlak pa sem morala ujeti ob 4:30, tako da ni bilo veliko časa. K sreči je bil kratek, tako da se je na koncu vse izšlo.",7,vlak,22,je bil,False
+361,"Paul je poskusil poklicati Georgea po telefonu, vendar ni bil dosegljiv.",0,Paul,8,ni bil,False
+362,Ženska je deklico pritisnila ob svoje prsi.,2,deklico,5,svoje,False
+363,"Mnogi ljudje začnejo brati Paulove romane in jih ne morejo odložiti. Zanimajo jih , ker Paul tako dobro piše.",4,Paulove romane,12,jih,False
+364,"Anni je pri testu šlo veliko slabše kot njeni dobri prijateljici Lucy , saj je trdo študirala .",11,Lucy,14,je trdo študirala,True
+365,"Šli smo na jezero , ker so na morski obali videli morskega psa, zato je bilo tam nevarno plavati.",3,jezero,16,tam,False
+366,Ta knjiga je Shakespearja predstavila Goetheju; bila je dober izbor njegovega pisanja.,3,Shakespearja,10,njegovega,True
+367,"Na Jacksona je močno vplival Arnold , čeprav je živel dve stoletji pozneje.",5,Arnold,8,je živel,False
+368,"Ko je Ollie nesel Tommyja po dolgem zavitem stopnišču, so njegove noge bingljale.",4,Tommyja,10,njegove,True
+369,"Julija je Kamčatka napovedala vojno Jakutsku . Ker je bila vojska v Jakutsku veliko bolje opremljena in desetkrat večja, so zmagali v roku nekaj tednov.",5,Jakutsku,19,so zmagali,True
+370,"Osel si je želel, da bi bradavica na njegovi zadnji nogi izginila, in potem tudi je .",6,bradavica,15,je,True
+371,"Mestni svetniki demonstrantom niso izdali dovoljenja, saj so se bali nasilja.",2,demonstrantom,7,so se bali,False
+372,"Arheologi so ugotovili, da so ljudje živeli v Laputi že 20.000 let nazaj. Dokaze so iskali na bregovih reke.",0,Arheologi,14,so iskali,True
+373,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",9,Nelly,22,je bila,True
+374,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",9,Nelly,11,ji,True
+375,Bob je plačal za Charliejev študij na kolidžu. Zelo je hvaležen.,0,Bob,9,je,False
+376,"Fred in Alice sta imela zelo topla puhasta plašča , vendar nista bila pripravljena na mraz Aljaske.",8,plašča,11,nista bila,False
+377,Tom je Ralphu rekel: »Šah!« in vzel njegovega lovca.,0,Tom,7,njegovega,False
+378,"Jane je potrkala na Susanina vrata, vendar ni bilo odgovora. Bila je zunaj.",4,Susanina,10,Bila je,True
+379,"Izvode našega vestnika smo želeli položiti na vse stole v dvorani, vendar jih enostavno ni bilo dovolj.",8,stole,12,jih,False
+380,"Uporabnik je geslo spremenil iz ""GrWQWu8JyC "" v "" willow-towered Canopy Huntertropic wrestles , "" ker si ga zlahka pozabil.",9,willow-towered Canopy Huntertropic wrestles,17,ga,False
+381,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",17,Ravnatelju,60,ga,False
+382,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla , in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",9,Nelly,17,je to zmogla,True
+383,"Miza ne gre skozi odprtino za vrata , ker je preširoka.",4,odprtino za vrata,9,je,False
+384,"Lionel je ugrabil znanstvenika, doktorja Vardija, ki je iznašel napravo, ki naredi živali nevidne; Lionel jo namerava uporabiti na Geoffreyju in ga poslati v vojaški bunker, da ukrade jedrsko snov.",19,Geoffreyju,21,ga,True
+385,Steve se v vsem zgleduje po Fredu . Zelo ga občuduje .,6,Fredu,10,občuduje,False
+386,"Mark je bil za petami gospoda Singerja. Slišal je, kako je poklical kapitana in mu obljubil, v žargonu, ki so ga tisto noč vsi uporabljali, da ne bo poškodovano nič razen streliva, vendar pa bi bilo najbolje, ko bi kapitan in njegova posadka ostali noter, dokler ne bo vsega konec.",0,Mark,10,je poklical,False
+387,"Mark je Peteu o sebi povedal veliko laži, ki jih je Pete vključil v svojo knjigo. On je ta, ki bi moral biti bolj resnicoljuben.",2,Peteu,16,On,False
+388,"Sir Clifford želi, da mu najdem novega konjušnika , starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj, enkrat ko bo šel stari mož v pokoj.",7,konjušnika,39,njegovih,False
+389,"Jim je tolažil Kevina, saj je bil zelo vznemirjen.",0,Jim,5,je bil,False
+390,"Z Billyjem pred sabo John ni videl odra, ker je tako nizek.",4,John,9,je,True
+391,"John je ukazal Billu, naj odide, zato je eno uro pozneje odšel .",0,John,7,je eno uro pozneje odšel,False
+392,"Ko je Tatjana prispela do koče, je njena mama že spala. Pazila je, da je ne prebudi, medtem ko se je preoblekla in splezala na svoje ležišče.",2,Tatjana,7,njena,True
+393,"Adam ne more oditi z dela, dokler ne pride Bob in ga nadomesti. Ko bi Bob odšel od doma pravočasno,ob tej uri ne bi bil več tukaj.",9,Bob,22,ne bi bil,False
+394,"Dan se je usedel na zadnji sedež, medtem ko je Bill zasedel sprednjega, saj je bil njegov klic -- »Moj sedež!« -- hitrejši.",0,Dan,16,njegov,False
+395,Lisice se ponoči splazijo noter in napadajo kokoši . Vse jih bom moral pokončati.,7,kokoši,10,jih,False
+396,"Mark je slišal Stevove korake, ko se je spuščal po lestvi. Vrata trgovine so se zaprla za njim . Stekel je pogledat ven skozi okno.",0,Mark,17,njim,False
+397,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval , temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",4,Billa,61,ni dodatno kaznoval,False
+398,"Pes je preganjal mačka, ki je pobegnil na drevo. Čakal je ob drevesu.",0,Pes,9,Čakal je,True
+399,"Sir Clifford želi, da mu najdem novega konjušnika , starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj, enkrat ko bo šel stari mož v pokoj.",7,konjušnika,18,svoj,True
+400,"Mož ni mogel dvigniti sina, ker je bil tako težek.",0,Mož,6,je bil,False
+401,"Emma žoge ni podala Janie, četudi je bila odprta.",0,Emma,6,je bila,False
+402,"Četudi sta tekli s približno enako hitrostjo, je Sue premagala Sally, ker je zelo dobro začela .",8,Sue,12,je zelo dobro začela,True
+403,"Madonna je odpustila svojo trenerko, ker ni prenesla njenega fanta.",0,Madonna,6,ni prenesla,True
+404,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš , ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",11,bogataš,34,svojo,True
+405,"Sredi koncerta na odprtem se je ulil dež , vendar se je nadaljeval do desetih.",7,dež,10,se je nadaljeval,False
+406,"George je dobil zastonj karte za predstavo, vendar jih je dal Ericu, četudi si jo je še posebej želel ogledati .",0,George,13,si jo je še posebej želel ogledati,True
+407,"Bilo je poletno popoldne in pes je sedel sredi trate. Čez čas se je dvignil in umaknil na prostor pod drevesom, ker je bil pregret.",5,pes,22,je bil,True
+408,"Dan je Billu moral preprečiti, da bi se poigraval z ranjeno ptico. Zelo krut je .",0,Dan,14,je,False
+409,"Susan je vedela, da je imel Annin sin avtomobilsko nesrečo, zato ji je to povedala .",6,Annin,12,je to povedala,False
+410,"Še preden so prišli do mesta, so slišali zvok, kot bi prasketala pokovka . Dora je vprašala, kaj je to , in oče je rekel, da so petarde.",12,pokovka,19,to,False
+411,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",1,Arthurja in Celeste,20,sta pobegnila,True
+412,"Mark je slišal Stevove korake, ko se je spuščal po lestvi. Vrata trgovine so se zaprla za njim. Stekel je pogledat ven skozi okno.",0,Mark,18,Stekel je pogledat,True
+413,"Sir Clifford želi, da mu najdem novega konjušnika , starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj, enkrat ko bo šel stari mož v pokoj.",7,konjušnika,20,Njegov,False
+414,"Ko je Andrea v kmetijskem letalu preletela Susan , je zagledala pristajalna kolesa.",7,Susan,9,je zagledala,True
+415,"Bob je igral karte z Adamom in močno vodil. Ko Adam ne bi nenadoma imel nenavadno velike sreče, bi zmagal .",5,Adamom,18,bi zmagal,False
+416,Lisice se ponoči splazijo noter in napadajo kokoši . Vse jih bom moral pokončati.,0,Lisice,10,jih,True
+417,"Med igro lovljenja je Ethan bežal stran od Luka, saj je bil on lovilec.",4,Ethan,12,on,False
+418,"C.K. je prav tako smrtonosno čeden. Dexter Haven, bledičen mlad gizdalin s sprehajalno palico z ročajem iz žada ter s kodrom, ki spi ob njegovih nogah.",20,kodrom,24,njegovih,False
+419,Ženska je objela deklico proti njeni volji.,3,deklico,5,njeni,True
+420,"Videli smo fanta, ki je želel s ponijem preskočiti oviro; poni ni želel skočiti in fant ga je ošvrknil z bičem, vendar se je zgolj obrnil .",7,ponijem,22,se je zgolj obrnil,True
+421,"Anni je pri testu šlo veliko bolje kot njeni dobri prijateljici Lucy, saj je trdo študirala .",0,Anni,13,je trdo študirala,True
+422,"Mnogi ljudje začnejo brati Paulove romane in jih ne morejo odložiti. Tako priljubljeni so , ker Paul tako dobro piše.",1,ljudje,13,so,False
+423,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla , in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",1,ravnateljica,17,je to zmogla,False
+424,"Ko je Tatjana prispela do koče, je njena mama že spala. Pazila je, da je ne prebudi, medtem ko se je preoblekla in splezala na svoje ležišče.",2,Tatjana,25,svoje,True
+425,"Bob se je zgrudil na pločnik. Kmalu je videl Carla , kako prihaja na pomoč. Bil je zelo zaskrbljen.",9,Carla,15,Bil je,True
+426,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil, še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",4,Billa,65,ga,True
+427,Metuljevo krilo sem položil na mizo in zlomilo se je .,0,Metuljevo krilo,7,zlomilo se je,True
+428,"Jane je potrkala na Susanina vrata, vendar ni bilo odgovora. Bila je razočarana.",0,Jane,10,Bila je,True
+429,"Gumbnic ni lahko razporediti na enakomerno razdaljo, še posebno težko pa jih je izrezati na pravo velikost. Še tako majhen zdrs s škarjami bo zarezal preveliko luknjo, po drugi strani pa jo bo le ena sama neprerezana nit naredila preveliko.",22,škarjami,31,jo,False
+430,Zaradi nevihte se je podrla smreka in treščila v streho moje hiše. Zdaj jo moram popraviti.,5,smreka,13,jo,False
+431,"Ker je deževalo, sem časopis dal v nahrbtnik, zato da ostane suh.",4,časopis,10,ostane,True
+432,"John ga je najel, zato da bi lahko Bill skrbel zanj.",8,Bill,1,ga,True
+433,Emmina mama je že dolgo nazaj umrla in njeno mesto je v vlogi guvernante prevzela odlična ženska.,0,Emmina,8,njeno,False
+434,"Mnogi ljudje začnejo brati Paulove romane in jih ne morejo odložiti. Tako priljubljeni so , ker Paul tako dobro piše.",4,Paulove romane,13,so,True
+435,Emmina mama je že dolgo nazaj umrla in njeno izobrazbo je v vlogi guvernante prevzela odlična ženska.,0,Emmina,8,njeno,True
+436,"Susan ve vse o Anninih osebnih problemih, ker vse izklepeta .",0,Susan,9,izklepeta,False
+437,"Bob je plačal za Charliejev študij na kolidžu, zdaj pa se Charlie obnaša, kot da se to ni nikoli zgodilo. Zelo je prizadet.",4,Charliejev,21,je,False
+438,"Dan je Billu moral preprečiti, da bi se poigraval z ranjeno ptico. Zelo je sočuten.",2,Billu,13,je,False
+439,"Jim je vpil na Kevina, saj je bil zelo vznemirjen.",0,Jim,6,je bil,True
+440,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",1,Arthurja in Celeste,13,sta,True
+441,"Joe je plačal detektivu, potem ko je dobil končno poročilo o primeru.",0,Joe,6,je dobil,True
+442,"Susan je vedela, da je imel Annin sin avtomobilsko nesrečo, zato ker ji je to povedala .",6,Annin,13,je to povedala,True
+443,"Jane je potrkala na Susanina vrata, vendar ji ni nihče odprl.",0,Jane,7,ji,True
+444,"Ko je Andrea v kmetijskem letalu preletela Susan, je zagledala pristajalna kolesa.",2,Andrea,8,je zagledala,False
+445,Tom je Ralphu rekel: »Šah!« in vzel njegovega lovca.,2,Ralphu,7,njegovega,True
+446,Odtok je zamašen z milom. Potrebno ga je odstraniti.,0,Odtok,6,ga,False
+447,"Mark je bil za petami gospoda Singerja . Slišal je, kako je poklical kapitana in mu obljubil, v žargonu, ki so ga tisto noč vsi uporabljali, da ne bo poškodovano nič razen streliva, vendar pa bi bilo najbolje, ko bi kapitan in njegova posadka ostali noter, dokler ne bo vsega konec.",5,gospoda Singerja,11,je poklical,True
+448,"Poni se je lepo obnašal, gospod, in je bil vedno ubogljiv; vendar je nazadnje dvignil kopita in vrgel mladega gospodiča v trnovo grmovje. Želel je, da bi mu pomagal, vendar upam, da mi boste oprostili, gospod, če rečem, da mi ni bilo niti najmanj do tega.",18,mladega gospodiča,27,mu,True
+449,Jim je pomignil točaju in pokazal proti njegovemu ključu od toalete.,0,Jim,7,njegovemu,False
+450,"Med menoj in odrom je steber, zato ga ne vidim .",3,odrom,7,ga,True
+451,"Ko so umrli moji starši, nisem zaslužil dovolj, da bi preskrbel sebe ali mojo invalidno sestro Nelly in brez najine prijazne ravnateljice bi odšla v sirotišnico. Nelly ji pravi moj angel in za to ima dobre razloge.",16,Nelly,27,ji,False
+452,"Ko je Tatjana prispela do koče, je njena mama že spala. Pazila je , da je ne prebudi, medtem ko se je preoblekla in splezala na svoje ležišče.",8,mama,11,Pazila je,False
+453,"Fant je še naprej udrihal po poniju, zato ga je poni nazadnje vrgel iz sedla. John se je glasno zasmejal. »Prav ima ,« je rekel.",15,John,21,ima,False
+454,"Doktor Adams je obvestila Kate , da se je upokojila in ji predstavila nekaj možnosti za nadaljnje zdravljenje.",4,Kate,7,se je upokojila,False
+455,"Mark je zagotovo vedel le eno stvar. Harry je vedel veliko manj, kot je vedel on .",0,Mark,15,on,True
+456,"Tom je šolsko torbo podal Rayu, potem ko je prišel na dno stopnic.",0,Tom,8,je prišel,False
+457,"Lionel je ugrabil znanstvenika, doktorja Vardija , ki je iznašel napravo, ki naredi živali nevidne; Lionel jo namerava uporabiti na Geoffreyju in ga poslati v vojaški bunker, da ukrade jedrsko snov.",4,doktorja Vardija,22,ga,False
+458,"Mark je Peteu o sebi povedal veliko laži, ki jih je Pete vključil v svojo knjigo. On je ta, ki bi moral biti bolj resnicoljuben.",0,Mark,16,On,True
+459,Lisice se ponoči splazijo noter in napadajo kokoši . Moral jih bom stražiti.,0,Lisice,10,jih,False
+460,Lily je govorila z Donno in zmotila njeno koncentracijo.,4,Donno,7,njeno,True
+461,"John je najel Billa, zato da bi lahko skrbel zanj .",0,John,9,zanj,True
+462,"Alice je v množici iskala svojo prijateljico Jade . Ker je vedno nosila rdeč turban, jo je Alice hitro opazila.",7,Jade,10,je vedno nosila,True
+463,"Sedel sem in se verjetno počutil podobno fantu, o katerem sem nekoč bral v romanu , ki je ubil nekega možaka in skril telo pod pod, potem pa je moral biti center zabave, medtem ko ga je ves čas skrival tam spodaj.",14,romanu,35,ga,False
+464,"Po precej dolgem pogovoru je Nancy gospodinjo prepričala, da ni neposrednega razloga za preplah. Ni omenila pripetljaja z avtobusne postaje Hamilton, ker je vedela, da bi samo še povečal nelagodje gospe Gruen.",5,Nancy,14,Ni omenila,True
+465,Zaradi nevihte se je podrla smreka in treščila v streho moje hiše. Zdaj jo moram odstraniti.,5,smreka,13,jo,True
+466,"Pes je preganjal mačka, ki je pobegnil na drevo. Čakal je na vrhu drevesa.",0,Pes,9,Čakal je,False
+467,"Grant je trdo delal, da pobere fižol, zato da bi on in njegova družina tisto zimo imeli dovolj hrane; njegov prijatelj Henry mu je dovolil, da ga shrani v njegov skedenj, kjer se bo posušil. Pozneje ga bosta on in Tatjana oluščila in ga skuhala za njune nedeljske večerje.",38,on in Tatjana,46,njune,True
+468,Zaradi nevihte se je podrla smreka in treščila v streho moje hiše. Zdaj jo moram odstraniti.,9,streho,13,jo,False
+469,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",1,ravnateljica,22,je bila,False
+470,"Misliš, da je Peter odgovoren za kapitanovo bolezen? Morda je podkupil kuharja, da mu je nekaj zamešal v njegovo hrano.",6,kapitanovo,9,je podkupil,False
+471,"Mačka je ležala zraven mišje luknje in čakala na miško , vendar je bila preveč nestrpna.",9,miško,12,je bila,False
+472,"Pes je preganjal mačka , ki je pobegnil na drevo. Čakal je na vrhu drevesa.",3,mačka,10,Čakal je,True
+473,"Novinarji so intervjuvali igralce iz novega filma. Bili so vztrajni, zato je intervju trajal kar nekaj časa.",3,igralce,7,Bili so,False
+474,"Sir Clifford želi, da mu najdem novega konjušnika, starega okoli dvajset ali enaindvajset, ki se spozna na svoj posel. Njegov stari kočijaž je vedno bolj šibek in želi si moža, ki bi delal z njim in se naučil njegovih metod in ki bi lahko prevzel njegov položaj.",0,Sir Clifford,45,njegov,False
+475,"Figurina se je odkotalila s police , ker ni bila pritrjena.",5,police,8,ni bila,False
+476,"Tatjana je vedela, da je babica rada obilno pogostila svoje goste. Zdaj je Tatjana gledala, kako je babica objela Tatjanino majhno mamo v širok, koščen objem in jo nato porinila k mizi, si z ramen dvignila ruto in jo posadila na častno mesto s preprostim: ""Veliko je.""",5,babica,9,svoje,False
+477,"Carol je bila prepričana, da Rebecca sumi, da je ukradla uro.",5,Rebecca,8,je ukradla,False
+478,Življenji človeka in konja sta vredni več kot nekaj lisičjih repov ; vsaj morali bi biti .,9,lisičjih repov,13,morali bi biti,False
+479,"Četudi sta tekli s približno enako hitrostjo, je Sue premagala Sally , ker je zelo slabo začela .",10,Sally,13,je zelo slabo začela,True
+480,"Dostavni tovornjak je prehitel šolski avtobus , saj je bil zelo hiter.",4,šolski avtobus,8,je bil,False
+481,"Sedel sem in se verjetno počutil podobno fantu, o katerem sem nekoč bral v romanu, ki je ubil nekega možaka in skril telo pod pod , potem pa je moral biti center zabave, medtem ko ga je ves čas skrival tam spodaj.",24,pod,35,ga,False
+482,Policaji so aretirali vse člane tolpe. Poskušali so prevzeti prekupčevanje z mamili v soseski.,0,Policaji,6,Poskušali so prevzeti,False
+483,"V korenček sem zarinil žebljiček. Ko sem žebljiček potegnil ven, je pustil luknjo.",7,žebljiček,10,je pustil,True
+484,"Potem ko sem videl Billa loviti muhe in jim trgati krilca, sem mu prisolil eno okoli ušes. Ravnatelju sem pokazal muhe, nekatere so bile zmečkane, druge pa so se nemočno plazile, in pokazal sem mu krilca na okenski polici. Nikoli ga še nisem videl tako jeznega; vendar ker je Bill, strahopetec, kot je bil , še vedno zavijal in se cmeril, ga ni dodatno kaznoval, temveč ga je za preostanek dneva posedel na klopco in mu prepovedal, da bi se tisti teden šel igrat ven.",4,Billa,52,je bil,True
+485,"Fred je še edini živeči človek, ki se spominja mojega očeta , ko je bil otrok. Ko je Fred prvič videl mojega očeta, je bil star dvanajst let.",9,mojega očeta,23,je bil,False
+486,"Starejši študentje so nadlegovali mlajše, zato smo jih rešili.",0,Starejši študentje,7,jih,False
+487,"Bob je igral karte z Adamom in močno vodil. Ko Adam ne bi nenadoma imel nenavadno velike sreče, bi izgubil .",0,Bob,18,bi izgubil,False
+488,"Ko je veterinar, gospod Bond , prišel pregledat črnega konja, ki je ležal na travi in stokal, ga je povsod pretipal in zamajal z glavo; njegova noga je bila zlomljena.",3,gospod Bond,22,zamajal,True
+489,"Poni se je lepo obnašal, gospod, in je bil vedno ubogljiv; vendar je nazadnje dvignil kopita in vrgel mladega gospodiča v trnovo grmovje. Želel je, da bi mu pomagal, vendar upam, da mi boste oprostili, gospod, če rečem, da mi ni bilo niti najmanj do tega.",0,Poni,27,mu,False
+490,Oče je spečega fanta nosil v njegovi košari.,0,Oče,6,njegovi,False
+491,Mama je prišla zraven in sedla k Alice. Nežno je gladila njene lase in pustila deklico jokati.,0,Mama,9,je gladila,True
+492,"Na Jacksona je močno vplival Arnold , čeprav je živel dve stoletji prej.",5,Arnold,8,je živel,True
+493,Ta knjiga je Shakespearja predstavila Goetheju ; bila je dober izbor njegovega pisanja.,5,Goetheju,11,njegovega,False
+494,"Babar se sprašuje, kako dobiti nova oblačila. K sreči zelo star bogataš , ki je že od nekdaj imel rad slončke, takoj razume, da hrepeni po imenitni obleki. Ker rad osrečuje druge, mu da svojo denarnico.",11,bogataš,32,mu,False
+495,"Uporabnik je geslo spremenil iz ""GrWQWu8JyC"" v ""willow-towered Canopy Huntertropic wrestles,"" ker si ga zlahka pozabil.",5,"""GrWQWu8JyC""",13,ga,True
+496,Policaji so aretirali vse člane tolpe . Poskušali so zatreti prekupčevanje z mamili v soseski.,4,člane tolpe,7,Poskušali so zatreti,False
+497,Riba je pojedla glisto . Bila je lačna.,3,glisto,5,Bila je,False
+498,Ženska je deklico objela proti njeni volji.,0,Ženska,5,njeni,False
+499,"Joe je plačal detektivu , potem ko je dobil končno poročilo o primeru.",3,detektivu,7,je dobil,False
+500,"Mami Arthurja in Celeste sta ponju prišli v mesto. Zelo veseli sta, da sta nazaj, vendar ju vseeno oštevata, ker sta pobegnila stran.",0,Mami,13,sta,False
+501,Tom je Ralphu rekel: »Šah!« in premaknil svojega lovca.,0,Tom,7,svojega,True
+502,"Joe je plačal detektivu , potem ko je dostavil končno poročilo o primeru.",3,detektivu,7,je dostavil,True
+503,"Vrečo krompirja so položili na vrečo moke , zato je bilo najprej potrebno prestaviti njo .",5,vrečo moke,14,njo,False
+504,"Vsi gumbi na hrbtu Dorine kariraste obleke so bili narobe zapeti. Maude bi se morala spomniti, da ji zapne gumbe; vendar je pustila ubogo malo Doro, da se je znašla sama.",11,Maude,27,se je znašla,False
+505,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",9,Nelly,11,ji,True
+506,"Kirilov je predsedništvo predal Šatovu, ker je bil manj priljubljen.",0,Kirilov,6,je bil,True
+507,"Figurina se je odkotalila s police, ker ni bila vodoravna.",0,Figurina,7,ni bila,False
+508,"Igralki je bilo nekoč ime Terpsihora, vendar si ga je pred nekaj leti spremenila v Tina , ker se ji zdelo, da ga je lažje izgovoriti.",15,Tina,22,ga,True
+509,Biskvit sem pospravil v hladilnik . V njem je veliko masla.,4,hladilnik,7,njem,False
+510,"Ko je veterinar, gospod Bond, prišel pregledat črnega konja , ki je ležal na travi in stokal, ga je povsod pretipal in zamajal z glavo; njegova noga je bila zlomljena.",7,črnega konja,25,njegova,True
+511,"Mark je slišal Stevove korake, ko se je spuščal po lestvi. Vrata trgovine so se zaprla za njim. Stekel je pogledat ven skozi okno.",3,Stevove,18,Stekel je pogledat,False
+512,"Četudi sta tekli s približno enako hitrostjo, je Sue premagala Sally , ker je zelo dobro začela .",10,Sally,13,je zelo dobro začela,False
+513,Ta knjiga je Shakespearju predstavila Ovidija ; močno je vplivala na njegovo pisanje.,5,Ovidija,11,njegovo,False
+514,Steve se v vsem zgleduje po Fredu. Zelo ga občuduje .,0,Steve,9,občuduje,True
+515,"Beth se ni razjezila na Sally , ki jo je prekinila, zato ker se je ustavila in se opravičila.",5,Sally,13,se je ustavila,True
+516,"Naša ravnateljica je najela sobo za mojo invalidno sestro Nelly in ji dala pletenje in šivanje, ko je to zmogla, in ko je bila bolna, ji je pošiljala večerje in številne lepe in prijetne stvari in bila ji je kot mati.",1,ravnateljica,26,je pošiljala,True
+517,"Na Jacksona je močno vplival Arnold, čeprav je živel dve stoletji prej.",1,Jacksona,7,je živel,False
+518,"Sedel sem in se verjetno počutil podobno fantu, o katerem sem nekoč bral v romanu, ki je ubil nekega možaka in skril telo pod pod, potem pa je moral biti center zabave, medtem ko ga je ves čas skrival tam spodaj.",30,center,34,ga,False
+519,"Fred si je z rokami zakril oči, ker je veter raznašal pesek. Ko je veter ponehal, jih je odprl.",4,rokami,16,jih,False
+520,"Ko bi goljufu uspelo preslepiti Sama , bi izgubil veliko denarja.",5,Sama,7,bi izgubil,True
+521,"Ann je Mary vprašala, kdaj se zapre knjižnica, ampak žal je pozabila .",2,Mary,10,je pozabila,True
+522,"Ko je Tommyju sladoled padel na tla, se je Timmy zahihital, zato mu je oče namenil sočuten pogled.",2,Tommyju,12,mu,True
+523,"George je dobil zastonj karte za predstavo, vendar jih je dal Ericu , ker si je niti ni posebej želel ogledati .",11,Ericu,14,si je niti ni posebej želel ogledati,False
+524,Emmina mama je že dolgo nazaj umrla in njeno mesto je v vlogi guvernante prevzela odlična ženska.,0,Emmina mama,8,njeno,True
+525,Med menoj in odrom je steber in ne vidim mimo njega .,3,odrom,10,njega,False
+526,"Vrečo krompirja so položili pod vrečo moke, zato je bilo najprej potrebno prestaviti njo .",0,Vrečo krompirja,13,njo,False
+527,"Gumbnic ni lahko razporediti na enakomerno razdaljo, še posebno težko pa jih je izrezati na pravo velikost . Še tako majhen zdrs s škarjami bo zarezal preveliko luknjo, po drugi strani pa jo bo le ena sama neprerezana nit naredila preveliko.",15,pravo velikost,32,jo,False
+528,"Beth se ni razjezila na Sally, ki jo je prekinila, zato ker se je ustavila in se opravičila.",0,Beth,12,se je ustavila,False
+529,"Alice si je na vse načine prizadevala preprečiti hčerki, da se na zabavi pogovarja, a smo se na koncu vsi spraševali, zakaj se obnaša tako nenavadno.",0,Alice,22,se obnaša,True
+530,"Sara si je iz knjižnice sposodila rokopis zato ker ga potrebuje za članek, ki ga piše. Piše ga, ko pride domov z dela.",6,rokopis,17,ga,False
+531,"Z Billyjem pred sabo John ni videl odra, ker je tako nizek.",1,Billyjem,9,je,False
+532,"Julija je Kamčatka napovedala vojno Jakutsku . Ker je bila vojska v Jakutsku veliko bolje opremljena in desetkrat večja, so izgubili v roku nekaj tednov.",5,Jakutsku,19,so izgubili,False
+533,"Fant je še naprej udrihal po poniju, zato ga je poni nazadnje vrgel iz sedla. John se je glasno zasmejal. »Prav ima ,« je rekel.",0,Fant,21,ima,False
+534,"Igralki je bilo nekoč ime Terpsihora , vendar si ga je pred nekaj leti spremenila v Tina, ker se ji zdelo, da ga je pretežko izgovoriti.",5,Terpsihora,22,ga,True
+535,Lisice se ponoči splazijo noter in napadajo kokoši . Moral jih bom stražiti.,7,kokoši,10,jih,True
+536,"Sedel sem in se verjetno počutil podobno fantu, o katerem sem nekoč bral v romanu, ki je ubil nekega možaka in skril telo pod pod, potem pa je moral biti center zabave, medtem ko ga je ves čas skrival tam spodaj.",22,telo,34,ga,True
+537,"Prvi kraj, ki se ga lahko dobro spomnim, je bil velik prijeten travnik z ribnikom ; v njem je bila čista voda. Bil je v senci dreves.",14,ribnikom,17,njem,True
+538,"Sid je svojo teorijo razložil Marku, vendar ga ni prepričal.",0,Sid,8,ni prepričal,True
+539,"Na Loebnerjevem tekmovanju sodniki niso mogli ugotoviti, kateri udeleženci so bili pogovorni roboti , saj so bili preveč napredni.",11,pogovorni roboti,15,so bili,True
+540,"Tom je Ralpha zapeljal v šolo, zato da mu ni bilo potrebno hoditi.",0,Tom,8,mu,False
+541,"Paul je poskusil poklicati Georgea po telefonu, vendar ni bil uspešen.",0,Paul,8,ni bil,True
+542,Ženska je deklico pritisnila ob svoje prsi.,0,Ženska,5,svoje,True
+543,"Anni je pri testu šlo veliko bolje kot njeni dobri prijateljici Lucy , saj je trdo študirala .",11,Lucy,14,je trdo študirala,False
+544,"John je raziskoval v knjižnici, ko je zaslišal moškega, ki si je prepeval in žvižgal. Bil je zelo neprijeten.",0,John,15,Bil je,False
+545,"Bidon vode sem vzel ven iz nahrbtnika , tako da je bil pri roki.",6,nahrbtnika,10,je bil,False
+546,Anne je prejšnji mesec rodila hčerko. Ona je zelo očarljiva deklica.,0,Anne,6,Ona,False
+547,"Mačka je ležala zraven mišje luknje in čakala na miško , vendar je bila preveč previdna.",9,miško,12,je bila,True
+548,"Prvi kraj, ki se ga lahko dobro spomnim, je bil velik prijeten travnik z ribnikom; v njem je bila čista voda. Bil je v senci dreves.",12,travnik,16,njem,False
+549,"Sonce je celo dopoldne zastiral gost oblak, vendar pa se je k sreči do začetka piknika že razkadil .",0,Sonce,9,se je k sreči do začetka piknika že razkadil,False
+550,"Medtem ko si je raztezala hrbet, se je ženska nasmehnila deklici .",10,deklici,3,je raztezala,False
+551,"Bill je računalniško konzolo podal Johnu, ker je bila njegova runda.",0,Bill,9,njegova,False
+552,"Fred in Alice sta imela zelo topla puhasta plašča, vendar nista bila pripravljena na mraz Aljaske.",0,Fred in Alice,10,nista bila,True
+553,"Skočil sem ven po sendvič , bolj zato, da mine čas, kot pa zato, ker bi ga res hotel.",4,sendvič,16,ga,True

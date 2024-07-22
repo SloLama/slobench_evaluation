@@ -1,0 +1,266 @@
+version:1.1
+passage.text:Prevajanje je prenos toplotne energije. Pojavi se med predmeti ali snovmi, ki se dotikajo. Toplotni vodniki so materiali, ki so dobri prevodniki toplote. Toplotni izolatorji so materiali, ki so slabi prevodniki toplote. Tako vodniki kot izolatorji imajo pomembno uporabo. Konvekcija je prenos toplotne energije. To se zgodi, ko se delci premikajo znotraj tekočine. Tekočina je lahko tekočina ali plin. Delci znotraj tekočine prenašajo energijo s premikom iz toplejših v hladnejša območja. Premikajo se v zank. Te zanke imenujemo konvekcijski tokovi. Sevanje je prenos toplotne energije z valovi. Ti valovi lahko potujejo skozi prazen prostor. Ko valovi dosežejo predmete, se toplota prenese na predmete. Sevanje je način, kako Sonce ogreje zemeljsko površje.
+passage.questions.9.question:Ali mora biti tekočina v konvekciji tekočina?
+passage.questions.9.idx:393.0
+passage.questions.9.answers.4.text:Lahko je tekočina ali plin
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:2015.0
+passage.questions.9.answers.3.text:Do konvekcije lahko pride v praznem prostoru
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:2014.0
+passage.questions.9.answers.2.text:Da
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:2013.0
+passage.questions.9.answers.1.text:Ne
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:2012.0
+passage.questions.9.answers.0.text:V plinu lahko pride do konvekcije
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:2011.0
+passage.questions.8.question:Kaj je primer sevalne toplote?
+passage.questions.8.idx:392.0
+passage.questions.8.answers.6.text:Tekočina
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:2010.0
+passage.questions.8.answers.5.text:Vse zvezde
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:2009.0
+passage.questions.8.answers.4.text:Plin
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:2008.0
+passage.questions.8.answers.3.text:Sonce je ogrevalo zemeljsko površje
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:2007.0
+passage.questions.8.answers.2.text:Vulkan
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2006.0
+passage.questions.8.answers.1.text:Sevalna toplota potuje v valovih skozi prazen prostor in ko zadene predmet, toploto prenese na ta predmet, kot da sonce ogreje Zemljo
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:2005.0
+passage.questions.8.answers.0.text:Sonce
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:2004.0
+passage.questions.7.question:V kateri smeri se med konvekcijo premikajo delci?
+passage.questions.7.idx:391.0
+passage.questions.7.answers.6.text:V zank
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:2003.0
+passage.questions.7.answers.5.text:Od hladnejšega do toplejšega
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:2002.0
+passage.questions.7.answers.4.text:Zanke
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:2001.0
+passage.questions.7.answers.3.text:Toplejša do hladnejša območja
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:2000.0
+passage.questions.7.answers.2.text:Od toplejšega do hladnejšega
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:1999.0
+passage.questions.7.answers.1.text:Levo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1998.0
+passage.questions.7.answers.0.text:V valovih
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:1997.0
+passage.questions.6.question:Med čim poteka prevodnost?
+passage.questions.6.idx:390.0
+passage.questions.6.answers.4.text:Predmeti
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:1996.0
+passage.questions.6.answers.3.text:Dva predmeta, ki se dotikata
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:1995.0
+passage.questions.6.answers.2.text:Prazen prostor
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1994.0
+passage.questions.6.answers.1.text:Snovi
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1993.0
+passage.questions.6.answers.0.text:Dva predmeta se ne dotikata
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1992.0
+passage.questions.5.question:Kako se imenuje, ko se toplotna energija prenaša med dvema predmetoma, ki se dotikata
+passage.questions.5.idx:389.0
+passage.questions.5.answers.3.text:Sevanje
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:1991.0
+passage.questions.5.answers.2.text:Indukcija
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1990.0
+passage.questions.5.answers.1.text:Prevajanje
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1989.0
+passage.questions.5.answers.0.text:Konvekcija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1988.0
+passage.questions.4.question:Ali so toplotni izolatorji in toplotni vodniki tako dobri prevodniki toplote?
+passage.questions.4.idx:388.0
+passage.questions.4.answers.6.text:Toplotni vodniki so slabi prevodniki toplote
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:1987.0
+passage.questions.4.answers.5.text:Da
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:1986.0
+passage.questions.4.answers.4.text:Ne
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:1985.0
+passage.questions.4.answers.3.text:Le električni vodniki so dobri prevodniki toplote
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1984.0
+passage.questions.4.answers.2.text:Ne, samo toplotni vodniki so
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1983.0
+passage.questions.4.answers.1.text:Le izolatorji so dobri prevodniki toplote
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1982.0
+passage.questions.4.answers.0.text:Toplotni izolatorji niso dobri prevodniki toplote
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1981.0
+passage.questions.3.question:Kaj je sevanje in kako se premika?
+passage.questions.3.idx:387.0
+passage.questions.3.answers.6.text:Gre za prenos toplotne energije z valovi
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:1980.0
+passage.questions.3.answers.5.text:Je predmet, ki potuje skozi izolatorje
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:1979.0
+passage.questions.3.answers.4.text:Sevanje je prenos toplotne energije z valovi in valovi potujejo skozi prazen prostor
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:1978.0
+passage.questions.3.answers.3.text:Sevanje prevaja toploto
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1977.0
+passage.questions.3.answers.2.text:Toplota se valom prenaša na predmete
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1976.0
+passage.questions.3.answers.1.text:Sevanje je prenos toplotne energije v valovih skozi prazen prostor
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1975.0
+passage.questions.3.answers.0.text:Je vodnik, ki se premika skozi tekočino
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1974.0
+passage.questions.2.question:Ali lahko konvekcija potuje skozi prazen prostor?
+passage.questions.2.idx:386
+passage.questions.2.answers.3.text:Konvekcija se zgodi, ko valovi dosežejo predmete
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1973.0
+passage.questions.2.answers.2.text:Konvekcija se pojavi v tekočini
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:1972.0
+passage.questions.2.answers.1.text:Ne, premika se skozi tekočino
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:1971
+passage.questions.2.answers.0.text:Da
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:1970
+passage.questions.15.question:Ali bi morali uporabiti vodnik ali izolator, da bi prišlo do konvekcije?
+passage.questions.15.idx:399.0
+passage.questions.15.answers.2.text:Dirigent
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:2040.0
+passage.questions.15.answers.1.text:Vodnik, ker so izolatorji slabi prevodniki toplote
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:2039.0
+passage.questions.15.answers.0.text:Izolator
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:2038.0
+passage.questions.14.question:Kaj se zgodi, ko se delci premikajo v tekočini?
+passage.questions.14.idx:398.0
+passage.questions.14.answers.4.text:Prenos energije na predmete z valovi
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:2037.0
+passage.questions.14.answers.3.text:Prevajanje
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:2036.0
+passage.questions.14.answers.2.text:Konvekcija
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:2035.0
+passage.questions.14.answers.1.text:Prenos toplotne energije
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:2034.0
+passage.questions.14.answers.0.text:Sevanje
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:2033.0
+passage.questions.13.question:Kako se premikajo delci v tekočini?
+passage.questions.13.idx:397.0
+passage.questions.13.answers.5.text:V zanko
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:2032.0
+passage.questions.13.answers.4.text:Z dotikom
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:2031.0
+passage.questions.13.answers.3.text:V konvekcijskih tokovih
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:2030.0
+passage.questions.13.answers.2.text:Prevajanje
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:2029.0
+passage.questions.13.answers.1.text:Od toplejšega do hladnejšega
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:2028.0
+passage.questions.13.answers.0.text:V valovih
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:2027.0
+passage.questions.12.question:V skladu s tem odlomkom so valovi, ki se lahko premikajo skozi prazen prostor in prenašajo toplotno energijo, del pojma?
+passage.questions.12.idx:396.0
+passage.questions.12.answers.2.text:Sevanje
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:2026.0
+passage.questions.12.answers.1.text:Prevajanje
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:2025.0
+passage.questions.12.answers.0.text:Konvekcija
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:2024.0
+passage.questions.11.question:Kakšen je postopek, v katerem se delci gibljejo znotraj in tekočino ter prenašajo toplotno energijo?
+passage.questions.11.idx:395.0
+passage.questions.11.answers.2.text:Sevanje
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2023.0
+passage.questions.11.answers.1.text:Prevajanje
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2022.0
+passage.questions.11.answers.0.text:Konvekcija
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:2021.0
+passage.questions.10.question:Kakšna je razlika med toplotnim vodnikom in toplotnim izolatorjem?
+passage.questions.10.idx:394.0
+passage.questions.10.answers.4.text:Toplotni vodniki toploto dobro prevajajo, toplotni izolatorji pa ne
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:2020.0
+passage.questions.10.answers.3.text:Izolatorji prevajajo toploto, medtem ko vodniki ne prevajajo toplote
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2019.0
+passage.questions.10.answers.2.text:Vodniki so dobri prevodniki toplote, izolatorji so slabi
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:2018.0
+passage.questions.10.answers.1.text:Toplotni vodnik toploto slabo prevaja, izolator pa toploto
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2017.0
+passage.questions.10.answers.0.text:Toplotni vodnik ustavi toploto, toplotni izolator pa toploto učinkovito prenaša
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2016.0
+passage.questions.1.question:Imenujejo se valovi, ki prenašajo toplotno energijo skozi prazen prostor
+passage.questions.1.idx:385
+passage.questions.1.answers.2.text:Sevanje
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1969.0
+passage.questions.1.answers.1.text:Prevajanje
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1968
+passage.questions.1.answers.0.text:Konvekcija
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1967
+passage.questions.0.question:Imenuje se prenos toplotne energije v tekočini
+passage.questions.0.idx:384
+passage.questions.0.answers.2.text:Sevanje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1966.0
+passage.questions.0.answers.1.text:Prevajanje
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1965
+passage.questions.0.answers.0.text:Konvekcija
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1964
+idx:32

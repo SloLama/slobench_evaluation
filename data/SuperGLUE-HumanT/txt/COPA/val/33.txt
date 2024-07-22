@@ -1,0 +1,6 @@
+choice1:Bil je začetek nove ure.
+choice2:Zdelo se je, da se ura vleče.
+idx:33
+label:0
+premise:Ura je odzvonila.
+question:cause

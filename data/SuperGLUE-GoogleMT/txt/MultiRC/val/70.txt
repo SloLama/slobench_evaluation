@@ -1,0 +1,243 @@
+version:1.1
+passage.text:Newton je prvi predlagal, da je gravitacija univerzalna. To pomeni, da gravitacija vpliva na vse predmete v vesolju. Zato se njegov zakon gravitacije imenuje zakon univerzalne gravitacije. Univerzalna gravitacija pomeni, da gravitacija vpliva na enak način na vse predmete. To je razlog, da je jabolko, ki pade z drevesa, in Luna v orbiti enaka. Univerzalna gravitacija pomeni tudi, da medtem ko vas Zemlja vleče, vi vlečete Zemljo. Pravzaprav obstaja gravitacija med vami in vsako maso okoli vas. Tudi drobne molekule plina med seboj privlači sila gravitacije. Newtonova zakonodaja je imela velik vpliv na to, kako so ljudje razmišljali o vesolju. Pojasnjuje gibanje predmetov ne samo na Zemlji, ampak tudi v vesolju.
+passage.questions.9.question:Kaj pomeni univerzalna gravitacija?
+passage.questions.9.idx:815.0
+passage.questions.9.answers.5.text:Sila predmeta
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:4120.0
+passage.questions.9.answers.4.text:To pomeni, da gravitacija vpliva na vse predmete v vesolju
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:4119.0
+passage.questions.9.answers.3.text:Vsi planeti imajo gravitacijo
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:4118.0
+passage.questions.9.answers.2.text:Gravitacija, ki drži predmete na zemlji
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4117.0
+passage.questions.9.answers.1.text:Gravitacija ne vpliva na vse
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4116.0
+passage.questions.9.answers.0.text:Pomeni, da gravitacija vpliva na vse predmete na enak način, kar pomeni, da medtem ko vas Zemlja vleče, vi vlečete Zemljo
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:4115.0
+passage.questions.8.question:Kaj vključuje zakon o univerzalni gravitaciji?
+passage.questions.8.idx:814.0
+passage.questions.8.answers.7.text:Pomeni, da ne vpliva na vse enako
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:4114.0
+passage.questions.8.answers.6.text:Ta gravitacija je univerzalna in na enak način vpliva na vse predmete v vesolju
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:4113.0
+passage.questions.8.answers.5.text:Vpliv energije gibanja
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:4112.0
+passage.questions.8.answers.4.text:Sila, ki nas drži na zemlji
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:4111.0
+passage.questions.8.answers.3.text:Univerzalna gravitacija pomeni, da gravitacija vpliva na vse predmete na enak način
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:4110.0
+passage.questions.8.answers.2.text:Polje gravitacijske sile
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4109.0
+passage.questions.8.answers.1.text:Vztrajnostna sila
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4108.0
+passage.questions.8.answers.0.text:Gravitacija vpliva na vse predmete v vesolju
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4107.0
+passage.questions.7.question:Ali je gravitacijska sila potisk ali vleka?
+passage.questions.7.idx:813.0
+passage.questions.7.answers.3.text:Vleči
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4106.0
+passage.questions.7.answers.2.text:Potisni
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4105.0
+passage.questions.7.answers.1.text:Nobenega
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4104.0
+passage.questions.7.answers.0.text:Oboje
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4103.0
+passage.questions.6.question:Zakaj obstaja gravitacija med vami in vsako maso okoli vas?
+passage.questions.6.idx:812.0
+passage.questions.6.answers.6.text:Zaradi kinetične energije
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:4102.0
+passage.questions.6.answers.5.text:Zakon univerzalne gravitacije
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:4101.0
+passage.questions.6.answers.4.text:Zaradi kemične energije
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:4100.0
+passage.questions.6.answers.3.text:Drobne molekule plina med seboj privlači sila gravitacije
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:4099.0
+passage.questions.6.answers.2.text:Ker je gravitacija univerzalna
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:4098.0
+passage.questions.6.answers.1.text:Zaradi sončne energije
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4097.0
+passage.questions.6.answers.0.text:Ker si magnet
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4096.0
+passage.questions.5.question:Kako Newtonov zakon vpliva na to, kako ljudje razmišljajo o vesolju?
+passage.questions.5.idx:811.0
+passage.questions.5.answers.4.text:Pojasnjuje kinetično energijo
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:4095.0
+passage.questions.5.answers.3.text:Pojasnjuje le gibanje predmetov na zemlji
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4094.0
+passage.questions.5.answers.2.text:Pojasnjuje gibanje predmetov ne samo na Zemlji, ampak tudi v vesolju
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4093.0
+passage.questions.5.answers.1.text:Zaradi njih je vse osredotočeno na Zemljo
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4092.0
+passage.questions.5.answers.0.text:Pomislil je, da je osredotočen na sonce
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4091.0
+passage.questions.4.question:Kaj je predlagal Newton?
+passage.questions.4.idx:810.0
+passage.questions.4.answers.6.text:Fuzija je univerzalna
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:4090.0
+passage.questions.4.answers.5.text:Predlagal je, da je gravitacija univerzalna, kar pomeni, da gravitacija vpliva na vse predmete v vesolju
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:4089.0
+passage.questions.4.answers.4.text:Gravitacija je univerzalna
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:4088.0
+passage.questions.4.answers.3.text:Newton je prvi predlagal, da gravitacija ni univerzalna
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4087.0
+passage.questions.4.answers.2.text:Gibanje je univerzalno
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4086.0
+passage.questions.4.answers.1.text:kinetična energija je za vse predmete enaka
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4085.0
+passage.questions.4.answers.0.text:Newton je prvi predlagal, da je gravitacija univerzalna
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4084.0
+passage.questions.3.question:Kaj je Newtonov zakon gravitacije imenovan zakon univerzalne gravitacije?
+passage.questions.3.idx:809.0
+passage.questions.3.answers.4.text:To pomeni, da gravitacija vpliva na vse predmete v vesolju
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:4083.0
+passage.questions.3.answers.3.text:Ker se ukvarja z gibanjem predmetov
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:4082.0
+passage.questions.3.answers.2.text:Ker gre za napor
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:4081.0
+passage.questions.3.answers.1.text:Gravitacija je univerzalna. To pomeni, da gravitacija vpliva na vse predmete v vesolju
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4080.0
+passage.questions.3.answers.0.text:Ker je gravitacija povsod okoli vas
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4079.0
+passage.questions.2.question:Kako so po zakonu univerzalne gravitacije jabolko, ki pade z drevesa, in Luna v orbiti enako?
+passage.questions.2.idx:808
+passage.questions.2.answers.6.text:Enaki so na način, da na njih vpliva gravitacija, saj na vse predmete gravitacija vpliva enako
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:4078.0
+passage.questions.2.answers.5.text:Univerzalna gravitacija pomeni, da gravitacija vpliva na vse predmete na enak način
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:4077.0
+passage.questions.2.answers.4.text:Oba sta dirigenta
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4076.0
+passage.questions.2.answers.3.text:Ker imata oba polarnost
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4075.0
+passage.questions.2.answers.2.text:Vse se zgodi zaradi zunanjih sil
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4074.0
+passage.questions.2.answers.1.text:Obema primanjkuje energije
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:4073
+passage.questions.2.answers.0.text:Vse se zgodi zaradi pomanjkanja gravitacije
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:4072
+passage.questions.11.question:Kakšen je bil učinek Newtonovega zakona?
+passage.questions.11.idx:817.0
+passage.questions.11.answers.6.text:Ljudje so se bali tvegati
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:4129.0
+passage.questions.11.answers.5.text:Newtonova zakonodaja ni imela velikega vpliva na to, kako so ljudje razmišljali o vesolju
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:4128.0
+passage.questions.11.answers.4.text:Newtonov zakon je močno vplival na to, kako ljudje razmišljajo o vesolju, saj pojasnjuje gibanje predmetov ne samo na Zemlji, ampak tudi v vesolju
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:4127.0
+passage.questions.11.answers.3.text:Newtonova zakonodaja je imela velik vpliv na to, kako so ljudje razmišljali o vesolju
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:4126.0
+passage.questions.11.answers.2.text:Ljudje so spremenili način uporabe električne energije
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4125.0
+passage.questions.11.answers.1.text:Odločili so se, da je zemlja okrogla
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4124.0
+passage.questions.11.answers.0.text:Imel velik vpliv na to, kako so ljudje razmišljali o vesolju
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:4123.0
+passage.questions.10.question:Ali gibanje predmetov v vesolju pojasnjuje Newtonov zakon univerzalne gravitacije?
+passage.questions.10.idx:816.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:4122.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:4121.0
+passage.questions.1.question:Zakaj Newtonov zakon gravitacije imenujemo zakon univerzalne gravitacije?
+passage.questions.1.idx:807
+passage.questions.1.answers.6.text:To je središče vesolja
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:4071.0
+passage.questions.1.answers.5.text:Newton je prvi predlagal, da gravitacija vpliva na vse predmete v vesolju
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:4070.0
+passage.questions.1.answers.4.text:Vključuje sončno energijo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:4069.0
+passage.questions.1.answers.3.text:Ker vpliva na vse
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:4068.0
+passage.questions.1.answers.2.text:Ker ne vpliva na nič
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4067.0
+passage.questions.1.answers.1.text:Vključuje gibanje vseh stvari
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:4066
+passage.questions.1.answers.0.text:Pomeni, da gravitacija vpliva na vse predmete v vesolju
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:4065
+passage.questions.0.question:Kako je Newtonov zakon vplival na ljudi?
+passage.questions.0.idx:806
+passage.questions.0.answers.6.text:Vplivalo na način razmišljanja ljudi o svetu
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:4064.0
+passage.questions.0.answers.5.text:Pojasnila je gravitacijo
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:4063.0
+passage.questions.0.answers.4.text:Dodala je k komunikaciji
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4062.0
+passage.questions.0.answers.3.text:Imel velik vpliv na to, kako so ljudje razmišljali o vesolju
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4061.0
+passage.questions.0.answers.2.text:Newtonova zakonodaja je imela velik vpliv na to, kako so ljudje razmišljali o vesolju
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:4060.0
+passage.questions.0.answers.1.text:Zaradi tega smo postali pametnejši
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4059
+passage.questions.0.answers.0.text:Vpliv na to, kako so ljudje razmišljali o vesolju. Pojasnjuje gibanje predmetov ne samo na Zemlji, ampak tudi v vesolju
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4058
+idx:70

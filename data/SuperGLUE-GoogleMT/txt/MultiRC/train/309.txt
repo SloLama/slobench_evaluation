@@ -1,0 +1,581 @@
+version:1.1
+passage.text:Čeprav so Bin Laden, Atef in KSM najprej razmišljali, da bi za izvajanje letalskih operacij uporabili uveljavljene člane Al Kaide, je konec leta 1999 prihod štirih ambicioznih džihadistov iz Nemčije v Kandahar nenadoma predstavljal privlačnejšo alternativo. Skupina v Hamburgu je delila protiameriško vnemo ostalih kandidatov za operacijo, dodala pa je ogromne prednosti tekočega znanja angleščine in poznavanja življenja na Zahodu, ki temelji na letih, ki jih je vsak član skupine preživel v Nemčiji. Ni presenetljivo, da bi Mohamed Atta, Ramzi Binalshibh, Marwan al Shehhi in Ziad Jarrah postali ključni igralci zarote 11. septembra. Mohamed Atta se je rodil 1. septembra 1968 v Kafr el Sheikhu v Egiptu v družini srednjega razreda, ki jo je vodil njegov oče, odvetnik. Po diplomi na univerzi v Kairu leta 1990 z arhitekturnim inženiringom je Atta nekaj let delal kot urbanist v Kairu. Jeseni 1991 je nemško družino, ki jo je spoznal v Kairu, prosil, naj mu pomaga nadaljevati šolanje v Nemčiji. Predlagali so mu, naj pride v Hamburg, in ga povabili, naj vsaj sprva živi tam z njimi. Po končanem tečaju nemščine je Atta prvič odpotoval v Nemčijo julija 1992. Na kratko je bival v Stuttgartu, nato pa se jeseni 1992 preselil v Hamburg k družini gostiteljici. Po vpisu na univerzo v Hamburgu se je takoj preusmeril na mestni tečaj inženirstva in načrtovanja na Tehnični univerzi v Hamburgu-Harburgu, kjer bi ostal registriran kot študent do jeseni 1999. Zdi se, da se je dokaj resno prijavil študiral (vsaj v primerjavi s prijatelji džihadisti) in dejansko diplomiral tik pred potovanjem v Afganistan. V šoli je Atta naletela na zelo inteligentnega in primerno prijetnega z odličnim znanjem nemškega jezika. Ko je Atta prišel v Nemčijo, je bil videti religiozen, vendar ne fanatično. To bi se spremenilo, še posebej, ker je njegova težnja po uveljavljanju vodstva postajala vse bolj izrazita. Po besedah Binalshibha je Atta leta 1995 želel organizirati muslimansko študentsko združenje v Hamburgu. Jeseni 1997 se je pridružil delovni skupini v mošeji Quds v Hamburgu, skupini, namenjeni premostitvi vrzeli med muslimani in kristjani. Atta pa se je izkazal za slabega mostu zaradi svoje abrazivne in vedno bolj dogmatične osebnosti. Toda med tistimi, ki so delili njegova prepričanja, je Atta izstopal kot odločevalec.
+passage.questions.9.question:Kje je Mohamed Atta živel v Nemčiji?
+passage.questions.9.idx:3516.0
+passage.questions.9.answers.9.text:Berlin
+passage.questions.9.answers.9.label:0,0
+passage.questions.9.answers.9.idx:18608.0
+passage.questions.9.answers.8.text:Ostal je v hotelih
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:18607.0
+passage.questions.9.answers.7.text:Hamburg
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:18606.0
+passage.questions.9.answers.6.text:Ostal je pri nemški družini, ki jo je spoznal v Kairu
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:18605.0
+passage.questions.9.answers.5.text:Stuttgart
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:18604.0
+passage.questions.9.answers.4.text:Ostal je pri odvetniku
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:18603.0
+passage.questions.9.answers.3.text:Ostal je v univerzitetni stanovanjski dvorani
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:18602.0
+passage.questions.9.answers.2.text:Ostal je pri očetu
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:18601.0
+passage.questions.9.answers.1.text:Stuttgart in Hamburg
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:18600.0
+passage.questions.9.answers.0.text:Kandahar
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:18599.0
+passage.questions.8.question:Kdo so bili štirje ambiciozni džihadisti iz Nemčije, ki so prispeli v Kandaharin konec leta 1999?
+passage.questions.8.idx:3515.0
+passage.questions.8.answers.9.text:Bin Laden, Atef, Ziad Jarrah in KSM
+passage.questions.8.answers.9.label:0,0
+passage.questions.8.answers.9.idx:18596.0
+passage.questions.8.answers.8.text:Ramzi Binalshibh
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:18595.0
+passage.questions.8.answers.7.text:Al Kaida
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:18594.0
+passage.questions.8.answers.6.text:Mohamed Atta, Ramzi Binalshibh, Marwan al Shehhi in Ziad Jarrah
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:18593.0
+passage.questions.8.answers.5.text:KSM
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:18592.0
+passage.questions.8.answers.4.text:Ziad Jarrah
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:18591.0
+passage.questions.8.answers.3.text:Marwan al Shehhi
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:18590.0
+passage.questions.8.answers.2.text:Atef
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:18589.0
+passage.questions.8.answers.11.text:Hamburg
+passage.questions.8.answers.11.label:0,0
+passage.questions.8.answers.11.idx:18598.0
+passage.questions.8.answers.10.text:Bin Laden
+passage.questions.8.answers.10.label:0,0
+passage.questions.8.answers.10.idx:18597.0
+passage.questions.8.answers.1.text:Mohamed Atta
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:18588.0
+passage.questions.8.answers.0.text:ZDA
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:18587.0
+passage.questions.7.question:Kateri skupini se je pridružil Atta, ki ni uspel združiti dveh religij?
+passage.questions.7.idx:3514.0
+passage.questions.7.answers.4.text:Al Kaida
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:18586.0
+passage.questions.7.answers.3.text:Džamija Quds
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:18585.0
+passage.questions.7.answers.2.text:Muslimansko študentsko združenje
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:18584.0
+passage.questions.7.answers.1.text:Delovna skupina pri mošeji Quds
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:18583.0
+passage.questions.7.answers.0.text:Skupina prijateljev džihadista
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:18582.0
+passage.questions.6.question:Na kakšen tečaj se je Atta preusmeril, kjer je diplomiral, medtem ko je živel z družino gostiteljico v Hamburgu?
+passage.questions.6.idx:3513.0
+passage.questions.6.answers.3.text:Inženiring in načrtovanje
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:18581.0
+passage.questions.6.answers.2.text:Mestno inženirstvo in načrtovanje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:18580.0
+passage.questions.6.answers.1.text:Arhitekturno inženirstvo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:18579.0
+passage.questions.6.answers.0.text:Nemško
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:18578.0
+passage.questions.5.question:Kdo je v hamburški skupini
+passage.questions.5.idx:3512.0
+passage.questions.5.answers.9.text:Al Kaida
+passage.questions.5.answers.9.label:0,0
+passage.questions.5.answers.9.idx:18574.0
+passage.questions.5.answers.8.text:KSM
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:18573.0
+passage.questions.5.answers.7.text:Ziad Jarrah
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:18572.0
+passage.questions.5.answers.6.text:Mohamed Atta Ramzi Binalshibh, Marwan al Shehhi in Ziad Jarrah
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:18571.0
+passage.questions.5.answers.5.text:Atta
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:18570.0
+passage.questions.5.answers.4.text:Marwan al Shehhi
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:18569.0
+passage.questions.5.answers.3.text:Atef
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:18568.0
+passage.questions.5.answers.2.text:Ziad
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:18567.0
+passage.questions.5.answers.12.text:Hamburg
+passage.questions.5.answers.12.label:0,0
+passage.questions.5.answers.12.idx:18577.0
+passage.questions.5.answers.11.text:Bin Laden
+passage.questions.5.answers.11.label:0,0
+passage.questions.5.answers.11.idx:18576.0
+passage.questions.5.answers.10.text:Ramzi Binalshibh
+passage.questions.5.answers.10.label:1.0
+passage.questions.5.answers.10.idx:18575.0
+passage.questions.5.answers.1.text:Mohamed Atta
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:18566.0
+passage.questions.5.answers.0.text:ZDA
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:18565.0
+passage.questions.4.question:Kdo so štirje džihadisti, ki so v Kandahar prispeli leta 1999
+passage.questions.4.idx:3511.0
+passage.questions.4.answers.9.text:Ramzi Binalshibh
+passage.questions.4.answers.9.label:1.0
+passage.questions.4.answers.9.idx:18562.0
+passage.questions.4.answers.8.text:Al Kaida
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:18561.0
+passage.questions.4.answers.7.text:Mohamed Atta, Ramzi Binalshibh, Marwan al Shehhi in Ziad Jarrah
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:18560.0
+passage.questions.4.answers.6.text:KSM
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:18559.0
+passage.questions.4.answers.5.text:Ziad Jarrah
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:18558.0
+passage.questions.4.answers.4.text:Bin Laden, Mohamed Atta in Ziad Jarrah
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:18557.0
+passage.questions.4.answers.3.text:Marwan al Shehhi
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:18556.0
+passage.questions.4.answers.2.text:Atef
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:18555.0
+passage.questions.4.answers.11.text:Hamburg
+passage.questions.4.answers.11.label:0,0
+passage.questions.4.answers.11.idx:18564.0
+passage.questions.4.answers.10.text:Bin Laden
+passage.questions.4.answers.10.label:0,0
+passage.questions.4.answers.10.idx:18563.0
+passage.questions.4.answers.1.text:Mohamed Atta
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:18554.0
+passage.questions.4.answers.0.text:ZDA
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:18553.0
+passage.questions.3.question:Koliko let po diplomi na univerzi v Kairu je minilo, preden je Mohamed Atta odpotoval v Nemčijo
+passage.questions.3.idx:3510.0
+passage.questions.3.answers.7.text:3.
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:18552.0
+passage.questions.3.answers.6.text:Štiri
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:18551.0
+passage.questions.3.answers.5.text:Manj kot 3
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:18550.0
+passage.questions.3.answers.4.text:2.
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:18549.0
+passage.questions.3.answers.3.text:1.
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:18548.0
+passage.questions.3.answers.2.text:Skoraj 2 leti
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:18547.0
+passage.questions.3.answers.1.text:1 leto
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:18546.0
+passage.questions.3.answers.0.text:Takoj
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18545.0
+passage.questions.21.question:Kdo je bil študent na Tehnični univerzi Hamburg-Harburg do leta 1999?
+passage.questions.21.idx:3528.0
+passage.questions.21.answers.4.text:Ramzi Binalshibh
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:18693.0
+passage.questions.21.answers.3.text:Ziad Jarrah
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:18692.0
+passage.questions.21.answers.2.text:Atta
+passage.questions.21.answers.2.label:1.0
+passage.questions.21.answers.2.idx:18691.0
+passage.questions.21.answers.1.text:Marwan al Shehhi
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:18690.0
+passage.questions.21.answers.0.text:Mohamed Atta
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:18689.0
+passage.questions.20.question:Kje je Atta živel pred selitvijo v Hamburg?
+passage.questions.20.idx:3527.0
+passage.questions.20.answers.4.text:Nemčija
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:18688.0
+passage.questions.20.answers.3.text:Stuttgart
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:18687.0
+passage.questions.20.answers.2.text:Egipt
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:18686.0
+passage.questions.20.answers.1.text:Afganistanu
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:18685.0
+passage.questions.20.answers.0.text:Kairo
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:18684.0
+passage.questions.2.question:Kdo so bili džihadisti, ki so se sestali v Nemčiji in ugotovili, da bo tekoče znanje angleščine izboljšalo možnosti za uspešen napad na ZDA?
+passage.questions.2.idx:3509.0
+passage.questions.2.answers.9.text:Ramzi Binalshibh
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:18541.0
+passage.questions.2.answers.8.text:Al Kaida
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:18540.0
+passage.questions.2.answers.7.text:Mohamed Atta, Ramzi Binalshibh, Marwan al Shehhi in Ziad Jarrah
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:18539.0
+passage.questions.2.answers.6.text:KSM
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:18538.0
+passage.questions.2.answers.5.text:Ziad Jarrah
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:18537.0
+passage.questions.2.answers.4.text:Marwan al Shehhi
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:18536.0
+passage.questions.2.answers.3.text:Bin Laden, Atef in KSM
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:18535.0
+passage.questions.2.answers.2.text:Atef
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:18534.0
+passage.questions.2.answers.12.text:Atef, KSM, Marwan al Shehhi in Ziad Jarrah
+passage.questions.2.answers.12.label:0,0
+passage.questions.2.answers.12.idx:18544.0
+passage.questions.2.answers.11.text:Hamburg
+passage.questions.2.answers.11.label:0,0
+passage.questions.2.answers.11.idx:18543.0
+passage.questions.2.answers.10.text:Bin Laden
+passage.questions.2.answers.10.label:1.0
+passage.questions.2.answers.10.idx:18542.0
+passage.questions.2.answers.1.text:Mohamed Atta
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:18533.0
+passage.questions.2.answers.0.text:ZDA
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:18532.0
+passage.questions.19.question:Kakšni so bili začetni načrti voditeljev letalskih napadov, preden so zamenjali načrte?
+passage.questions.19.idx:3526.0
+passage.questions.19.answers.8.text:Za napad z avtomobilskimi bombami
+passage.questions.19.answers.8.label:0,0
+passage.questions.19.answers.8.idx:18683.0
+passage.questions.19.answers.7.text:Bin Laden
+passage.questions.19.answers.7.label:0,0
+passage.questions.19.answers.7.idx:18682.0
+passage.questions.19.answers.6.text:Ramzi Binalshibh
+passage.questions.19.answers.6.label:0,0
+passage.questions.19.answers.6.idx:18681.0
+passage.questions.19.answers.5.text:KSM
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:18680.0
+passage.questions.19.answers.4.text:Ziad Jarrah
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:18679.0
+passage.questions.19.answers.3.text:Marwan al Shehhi
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:18678.0
+passage.questions.19.answers.2.text:Atef
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:18677.0
+passage.questions.19.answers.1.text:Mohamed Atta
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:18676.0
+passage.questions.19.answers.0.text:Za sodelovanje pripadnikov Al Kaide za izvedbo letalskih operacij
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:18675.0
+passage.questions.18.question:So bili ključni akterji zarote 11. septembra, ki so izvajali letalske operacije, ustanovljeni člani Al Kaide?
+passage.questions.18.idx:3525.0
+passage.questions.18.answers.1.text:Ni določeno
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:18674.0
+passage.questions.18.answers.0.text:Da
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:18673.0
+passage.questions.17.question:Kdo se je leta 1992 preselil v Hamburg?
+passage.questions.17.idx:3524.0
+passage.questions.17.answers.5.text:Bin Laden
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:18672.0
+passage.questions.17.answers.4.text:Ramzi Binalshibh
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:18671.0
+passage.questions.17.answers.3.text:Ziad Jarrah
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:18670.0
+passage.questions.17.answers.2.text:Atta
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:18669.0
+passage.questions.17.answers.1.text:Marwan al Shehhi
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:18668.0
+passage.questions.17.answers.0.text:Mohamed Atta
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:18667.0
+passage.questions.16.question:Kakšne starosti je bil Mohamed Atta, ko je diplomiral iz arhitekturnega inženirstva?
+passage.questions.16.idx:3523.0
+passage.questions.16.answers.5.text:1990
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:18666.0
+passage.questions.16.answers.4.text:1992
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:18665.0
+passage.questions.16.answers.3.text:Še ne 22.
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:18664.0
+passage.questions.16.answers.2.text:1999
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:18663.0
+passage.questions.16.answers.1.text:22.
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:18662.0
+passage.questions.16.answers.0.text:1991
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:18661.0
+passage.questions.15.question:Kdaj se je rodil Mohammad Atta in kdaj se je preselil v Nemčijo?
+passage.questions.15.idx:3522.0
+passage.questions.15.answers.6.text:Mohamed Atta se je rodil 1. septembra 1968 v Kafr el Sheikhu v Egiptu. Po opravljenem tečaju nemščine je Atta julija 1992 prvič odpotoval v Nemčijo
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:18660.0
+passage.questions.15.answers.5.text:1965, Kandahar
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:18659.0
+passage.questions.15.answers.4.text:1968, Hamburg
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:18658.0
+passage.questions.15.answers.3.text:1992
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:18657.0
+passage.questions.15.answers.2.text:1991
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:18656.0
+passage.questions.15.answers.1.text:Kairo
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:18655.0
+passage.questions.15.answers.0.text:Kafr el Sheikh, Egipt
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:18654.0
+passage.questions.14.question:Kdaj se je Atta pridružil delovni skupini? Kakšen je bil izid pridružitve?
+passage.questions.14.idx:3521.0
+passage.questions.14.answers.6.text:Odlično kot most med muslimani in kristjani
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:18653.0
+passage.questions.14.answers.5.text:Jeseni 1997 se je pridružil delovni skupini v mošeji Quds v Hamburgu, skupini, namenjeni premostitvi vrzeli med muslimani in kristjani. Atta pa se je izkazal za slabega mostu zaradi svoje abrazivne in vedno bolj dogmatične osebnosti
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:18652.0
+passage.questions.14.answers.4.text:1997, postal odločevalec
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:18651.0
+passage.questions.14.answers.3.text:1995
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:18650.0
+passage.questions.14.answers.2.text:Slaba predstava kot most med muslimani in kristjani
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:18649.0
+passage.questions.14.answers.1.text:1996, postal vodja
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:18648.0
+passage.questions.14.answers.0.text:1997
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:18647.0
+passage.questions.13.question:Katere šole je obiskoval Mohamed Atta?
+passage.questions.13.idx:3520.0
+passage.questions.13.answers.9.text:Univerza v Edinburgu
+passage.questions.13.answers.9.label:0,0
+passage.questions.13.answers.9.idx:18646.0
+passage.questions.13.answers.8.text:Univerza v Kairu
+passage.questions.13.answers.8.label:1.0
+passage.questions.13.answers.8.idx:18645.0
+passage.questions.13.answers.7.text:Univerza v Kairu, Univerza v Hamburgu in Tehnična univerza v Hamburgu-Harburg
+passage.questions.13.answers.7.label:1.0
+passage.questions.13.answers.7.idx:18644.0
+passage.questions.13.answers.6.text:Univerza v Hamburgu
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:18643.0
+passage.questions.13.answers.5.text:MIT
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:18642.0
+passage.questions.13.answers.4.text:Univerza v Nemčiji
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:18641.0
+passage.questions.13.answers.3.text:Tehnična univerza Hamburg-Harburg
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:18640.0
+passage.questions.13.answers.2.text:Tehniška univerza v Hamburgu
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:18639.0
+passage.questions.13.answers.1.text:Univerza Harward
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:18638.0
+passage.questions.13.answers.0.text:Tehnična univerza v Kairu
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:18637.0
+passage.questions.12.question:Kje se je rodil Mohamed Atta in katero univerzo je obiskoval, da bi dobil diplomo in arhitekt?
+passage.questions.12.idx:3519.0
+passage.questions.12.answers.9.text:Univerza v Kairu
+passage.questions.12.answers.9.label:1.0
+passage.questions.12.answers.9.idx:18636.0
+passage.questions.12.answers.8.text:Rodil se je v Kafr el Sheikh v Egiptu in obiskoval kairsko univerzo
+passage.questions.12.answers.8.label:1.0
+passage.questions.12.answers.8.idx:18635.0
+passage.questions.12.answers.7.text:Univerza v Hamburgu
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:18634.0
+passage.questions.12.answers.6.text:Rojen v Kafr el Sheikhu in študiral na univerzi v Kairu
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:18633.0
+passage.questions.12.answers.5.text:Rojen v Kairu in študiral na kairski univerzi
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:18632.0
+passage.questions.12.answers.4.text:V Kafr el Sheikh, univerza v Kairu
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:18631.0
+passage.questions.12.answers.3.text:V Kandaharju, univerza Edinburg
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:18630.0
+passage.questions.12.answers.2.text:Rojen v Kafr el Sheikhu in študiral v
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:18629.0
+passage.questions.12.answers.1.text:Kairo
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:18628.0
+passage.questions.12.answers.0.text:Kafr el Sheikh, Egipt
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:18627.0
+passage.questions.11.question:Katera skupina iz Nemčije je postala ključni akterji v zaroti 11. septembra
+passage.questions.11.idx:3518.0
+passage.questions.11.answers.9.text:KSM
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:18623.0
+passage.questions.11.answers.8.text:Hamburška skupina
+passage.questions.11.answers.8.label:1.0
+passage.questions.11.answers.8.idx:18622.0
+passage.questions.11.answers.7.text:Ziad Jarrah
+passage.questions.11.answers.7.label:1.0
+passage.questions.11.answers.7.idx:18621.0
+passage.questions.11.answers.6.text:Bin Laden, Mohamed Atta in Ziad Jarrah
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:18620.0
+passage.questions.11.answers.5.text:Nemška družina, ki je nekoč potovala v Kairo
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:18619.0
+passage.questions.11.answers.4.text:Skupina ambicioznih džihadistov
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:18618.0
+passage.questions.11.answers.3.text:Skupina ljudi s tehnične univerze v Hamburgu
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:18617.0
+passage.questions.11.answers.2.text:Marwan al Shehhi
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:18616.0
+passage.questions.11.answers.12.text:Bin Laden
+passage.questions.11.answers.12.label:0,0
+passage.questions.11.answers.12.idx:18626.0
+passage.questions.11.answers.11.text:Ramzi Binalshibh
+passage.questions.11.answers.11.label:1.0
+passage.questions.11.answers.11.idx:18625.0
+passage.questions.11.answers.10.text:Mohamed Atta, Ramzi Binalshibh, Marwan al Shehhi in Ziad Jarrah
+passage.questions.11.answers.10.label:1.0
+passage.questions.11.answers.10.idx:18624.0
+passage.questions.11.answers.1.text:Atef
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:18615.0
+passage.questions.11.answers.0.text:Mohamed Atta
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:18614.0
+passage.questions.10.question:Kdo je leta 1991 prosil nemško družino, naj mu pomaga nadaljevati šolanje?
+passage.questions.10.idx:3517.0
+passage.questions.10.answers.4.text:Ramzi Binalshibh
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:18613.0
+passage.questions.10.answers.3.text:Ziad Jarrah
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:18612.0
+passage.questions.10.answers.2.text:Atta
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:18611.0
+passage.questions.10.answers.1.text:Marwan al Shehhi
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:18610.0
+passage.questions.10.answers.0.text:Mohamed Atta
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:18609.0
+passage.questions.1.question:Koliko je star Mohamed Atta, ko je diplomiral na univerzi v Kairu
+passage.questions.1.idx:3508.0
+passage.questions.1.answers.8.text:Skoraj 22 let
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:18531.0
+passage.questions.1.answers.7.text:20 let
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:18530.0
+passage.questions.1.answers.6.text:25.
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:18529.0
+passage.questions.1.answers.5.text:21.
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:18528.0
+passage.questions.1.answers.4.text:V svojih dvajsetih letih
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:18527.0
+passage.questions.1.answers.3.text:26.
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:18526.0
+passage.questions.1.answers.2.text:22.
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18525.0
+passage.questions.1.answers.1.text:Malo čez 20
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:18524.0
+passage.questions.1.answers.0.text:22 let
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18523.0
+passage.questions.0.question:Kaj je Atta pripeljalo v Nemčijo in kako dolgo je bil tam?
+passage.questions.0.idx:3507
+passage.questions.0.answers.6.text:7 let
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:18522.0
+passage.questions.0.answers.5.text:Nadaljevalno izobraževanje
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:18521.0
+passage.questions.0.answers.4.text:5 let
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:18520.0
+passage.questions.0.answers.3.text:Leta 1992 smo odšli živeti k družini gostiteljici in se do leta 1999, skupaj 7 let, udeleževali univerze v Hamburgu
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:18519.0
+passage.questions.0.answers.2.text:Konča tečaj iz nemščine skoraj 7 let
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:18518.0
+passage.questions.0.answers.1.text:Sponzorstvo iz nemščine, 5 let
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18517
+passage.questions.0.answers.0.text:Denar
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:18516
+idx:309

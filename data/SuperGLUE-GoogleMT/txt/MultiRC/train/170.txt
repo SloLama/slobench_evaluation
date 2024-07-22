@@ -1,0 +1,436 @@
+version:1.1
+passage.text:V 3. in 4. poglavju smo opisali, kako je ameriška vlada prilagodila svoje obstoječe agencije in zmogljivosti za reševanje nastajajoče grožnje Usame Bin Ladena in njegovih sodelavcev. Po bombardiranju ameriških veleposlaništev v Keniji in Tanzaniji avgusta 1998 so predsednik Bill Clinton in njegovi glavni pomočniki raziskovali načine, kako Bin Ladena izgnati iz Afganistana ali ga morda ujeti ali celo ubiti. Čeprav so prizadevanja po motenjih po vsem svetu dosegla nekaj uspehov, je jedro organizacije Bin Ladna ostalo nedotaknjeno. Predsednik Clinton je bil globoko zaskrbljen zaradi Bin Ladena. S svojim svetovalcem za nacionalno varnost, Samuelom &quot;Sandy&quot; Bergerjem, sta zagotovila, da imajo poseben dnevni seznam poročil, ki jim daje najnovejše informacije o prijavljeni lokaciji Bin Ladena. Predsednik Clinton je v javnosti večkrat govoril o grožnji terorizma, pri čemer se je skliceval na teroristična taborišča za usposabljanje, a o Bin Ladnu in o Al Kaidi ničesar ni povedal. Pojasnil nam je, da je bil to namenoma namenjen temu, da bi se izognili izboljšanju Bin Ladnove postave, tako da bi mu dali nepotrebno publiciteto. Njegovi govori so se osredotočili zlasti na nevarnost nedržavnih akterjev ter kemičnega in biološkega orožja. Ko se je bližalo tisočletje, najbolj oglaševane skrbi niso bile zaradi terorizma, temveč zaradi okvar računalnikov - strahu Y2K. Nekateri vladni uradniki so bili zaskrbljeni, da bi te okvare izkoristili teroristi. 30. novembra 1999 je jordanska obveščevalna služba prestregla telefonski klic med Abu Zubaydah, dolgoletnim zaveznikom Bin Ladena, in Khadrom Abu Hosharjem, palestinskim ekstremistom. Abu Zubaydah je dejal: &quot;Časa za trening je konec.&quot; Zaradi suma, da je bil to signal Abu Hosharja za začetek teroristične akcije, je jordanska policija prijela Abu Hosharja in 15 drugih ter o tem obvestila Washington. Eden od 16, Raed Hijazi, se je rodil v Kaliforniji palestinskim staršem; po otroštvu na Bližnjem vzhodu se je vrnil v severno Kalifornijo, zatekel se je k skrajnim islamističnim prepričanjem in se nato odpravil v kamp Khaldan Abu Zubaydah v Afganistanu, kjer je spoznal osnove gverilskega bojevanja. Abu Hosharja je z mlajšim bratom rekrutiral v ohlapno zaroto za napad na judovske in ameriške cilje v Jordaniji. Po koncu leta 1996, ko je bil Abu Hoshar aretiran in zaprt, se je Hijazi preselil nazaj v ZDA, delal kot taksist v Bostonu in poslal denar nazaj kolegom spletkarjem. Po izpustitvi Abu Hosharja se je Hijazi vozil med Bostonom in Jordanijo, kjer je zbiral denar in zaloge. Z Abu Hosharjem je rekrutiral v Turčiji in Siriji ter v Jordaniji; s pomočjo Abu Zubaydah je Abu Hoshar poslal te nabornike v Afganistan na usposabljanje.
+passage.questions.9.question:Kaj je skrbelo nekatere uradnike, ko je bila večina ljudi zaskrbljena zaradi okvar računalnikov z Y2K?
+passage.questions.9.idx:1870.0
+passage.questions.9.answers.3.text:Skrbelo jih je, da bo terorist izkoristil okvare
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:9768.0
+passage.questions.9.answers.2.text:Kemično in biološko orožje
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:9767.0
+passage.questions.9.answers.1.text:Nedržavni igralci
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:9766.0
+passage.questions.9.answers.0.text:Teroristi bi okvare izkoristili
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:9765.0
+passage.questions.8.question:Kako je bilo ime teroristu, rojenemu v Kaliforniji, ki ga je jordanska policija aretirala skupaj s 15 drugimi?
+passage.questions.8.idx:1869.0
+passage.questions.8.answers.3.text:Raed Hijaz
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:9764.0
+passage.questions.8.answers.2.text:Raed Hijazi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:9763.0
+passage.questions.8.answers.1.text:Abu Zubaydah
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:9762.0
+passage.questions.8.answers.0.text:Khadr Abu Hoshar
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:9761.0
+passage.questions.7.question:Kdo je bil skupaj z mlajšim bratom rekrutiran v Abu Hosharju?
+passage.questions.7.idx:1868.0
+passage.questions.7.answers.7.text:Bin Laden
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:9760.0
+passage.questions.7.answers.6.text:Bill Clinton
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:9759.0
+passage.questions.7.answers.5.text:Hijazi
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:9758.0
+passage.questions.7.answers.4.text:Abu Hoshar
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:9757.0
+passage.questions.7.answers.3.text:Še kaj
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:9756.0
+passage.questions.7.answers.2.text:Usama Bin Laden
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:9755.0
+passage.questions.7.answers.1.text:Abu Zubaydah
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:9754.0
+passage.questions.7.answers.0.text:Raed Hijazi
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:9753.0
+passage.questions.6.question:Kakšno vrsto okvar bi izkoristili nekateri teroristi?
+passage.questions.6.idx:1867.0
+passage.questions.6.answers.9.text:Biološko orožje
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:9751.0
+passage.questions.6.answers.8.text:Puščanje v beli hiši
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:9750.0
+passage.questions.6.answers.7.text:Terorizem
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:9749.0
+passage.questions.6.answers.6.text:Računalniške okvare / strahovi Y2K
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:9748.0
+passage.questions.6.answers.5.text:Računalniške okvare, povezane z Y2K
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:9747.0
+passage.questions.6.answers.4.text:Še kaj
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:9746.0
+passage.questions.6.answers.3.text:Računalnik
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:9745.0
+passage.questions.6.answers.2.text:Kemično in biološko orožje
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:9744.0
+passage.questions.6.answers.10.text:Strah Y2K
+passage.questions.6.answers.10.label:1.0
+passage.questions.6.answers.10.idx:9752.0
+passage.questions.6.answers.1.text:Letalske okvare
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:9743.0
+passage.questions.6.answers.0.text:Računalniške okvare
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:9742.0
+passage.questions.5.question:Zaradi bombnih napadov so ameriške agencije rešile nastajajočo grožnjo Usame Bin Ladena
+passage.questions.5.idx:1866.0
+passage.questions.5.answers.5.text:Zaradi bombardiranja ameriških veleposlaništev v Keniji in Tanzaniji avgusta 1998 so ameriške agencije rešile nastajajočo grožnjo Usame Bin Ladna
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:9741.0
+passage.questions.5.answers.4.text:Bombardiranje ameriških veleposlaništev
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:9740.0
+passage.questions.5.answers.3.text:Bombaški napadi v Bostonu, ameriške agencije za reševanje nastajajoče grožnje Usame Bin Ladena
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:9739.0
+passage.questions.5.answers.2.text:Avgustovsko bombardiranje ameriških veleposlaništev v Keniji in Tanzaniji
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:9738.0
+passage.questions.5.answers.1.text:Avgust 1997 bombardiranje ameriških veleposlaništev
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:9737.0
+passage.questions.5.answers.0.text:Bombardiranje ameriških veleposlaništev v Afganistanu
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:9736.0
+passage.questions.4.question:Kdo je veljal za grožnjo vladi ZDA?
+passage.questions.4.idx:1865.0
+passage.questions.4.answers.4.text:Vlada
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:9735.0
+passage.questions.4.answers.3.text:Samuel &quot;Sandy&quot; Berger
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:9734.0
+passage.questions.4.answers.2.text:Kaladan
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:9733.0
+passage.questions.4.answers.1.text:Usama Bin Laden
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:9732.0
+passage.questions.4.answers.0.text:Usama Bin Laden
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:9731.0
+passage.questions.3.question:Kdaj je Abu Zubaydah rekel: &quot;Čas za trening je mimo.&quot;
+passage.questions.3.idx:1864.0
+passage.questions.3.answers.9.text:Pred Y2K
+passage.questions.3.answers.9.label:0,0
+passage.questions.3.answers.9.idx:9727.0
+passage.questions.3.answers.8.text:30.
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:9726.0
+passage.questions.3.answers.7.text:Avgust 1998
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:9725.0
+passage.questions.3.answers.6.text:30. novembra 1999
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:9724.0
+passage.questions.3.answers.5.text:Po 9
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:9723.0
+passage.questions.3.answers.4.text:30. november 1999
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:9722.0
+passage.questions.3.answers.3.text:Še kaj
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:9721.0
+passage.questions.3.answers.2.text:99
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:9720.0
+passage.questions.3.answers.12.text:Konec leta 1996
+passage.questions.3.answers.12.label:0,0
+passage.questions.3.answers.12.idx:9730.0
+passage.questions.3.answers.11.text:30. november 1998
+passage.questions.3.answers.11.label:0,0
+passage.questions.3.answers.11.idx:9729.0
+passage.questions.3.answers.10.text:30. novembra
+passage.questions.3.answers.10.label:1.0
+passage.questions.3.answers.10.idx:9728.0
+passage.questions.3.answers.1.text:1996
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:9719.0
+passage.questions.3.answers.0.text:11.
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:9718.0
+passage.questions.2.question:Na kateri datum je Abu Zubaydah rekel: &quot;Čas za trening je končan.&quot;?
+passage.questions.2.idx:1863.0
+passage.questions.2.answers.5.text:30. novembra 1999
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:9717.0
+passage.questions.2.answers.4.text:30. avgusta 1998
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:9716.0
+passage.questions.2.answers.3.text:Po koncu leta 1996 je Abu Zubaydah dejal: &quot;Čas za trening je končan.&quot;
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:9715.0
+passage.questions.2.answers.2.text:1999
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9714.0
+passage.questions.2.answers.1.text:November 1999
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:9713.0
+passage.questions.2.answers.0.text:30. novembra 1999 je Abu Zubaydah dejal: &quot;Čas za trening je končan.&quot;
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:9712.0
+passage.questions.16.question:Svetovalec za nacionalno varnost Samuel Berger in njegov zavarovalec sta imela dnevna poročila o prijavljeni lokaciji Bin Ladena
+passage.questions.16.idx:1877.0
+passage.questions.16.answers.5.text:Bill Clinton
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:9832.0
+passage.questions.16.answers.4.text:Predsednik Clinton
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:9831.0
+passage.questions.16.answers.3.text:Predsednik Clinton in svetovalec za nacionalno varnost Samuel Berger sta zavarovana, da sta imela vsakodnevna poročila o prijavljeni lokaciji Bin Ladena
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:9830.0
+passage.questions.16.answers.2.text:Abu Zubaydah
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:9829.0
+passage.questions.16.answers.1.text:Abu Zubaydah in Samuel Berger sta zavarovala, da imata vsakodnevna poročila o prijavljeni lokaciji Bin Ladena
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:9828.0
+passage.questions.16.answers.0.text:Raed Hijazi
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:9827.0
+passage.questions.15.question:Predsednik Clinton, skupaj s katero vrhunsko pomočjo preučuje možnosti glede Bin Ladena, vključno z izgonom iz Afganistana in usmrtitvijo?
+passage.questions.15.idx:1876.0
+passage.questions.15.answers.9.text:Ameriška vlada
+passage.questions.15.answers.9.label:0,0
+passage.questions.15.answers.9.idx:9824.0
+passage.questions.15.answers.8.text:Njegovi glavni pomočniki
+passage.questions.15.answers.8.label:1.0
+passage.questions.15.answers.8.idx:9823.0
+passage.questions.15.answers.7.text:Še kaj
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:9822.0
+passage.questions.15.answers.6.text:Al Gore
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:9821.0
+passage.questions.15.answers.5.text:Usama Bin Laden
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:9820.0
+passage.questions.15.answers.4.text:Ameriška veleposlaništva
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:9819.0
+passage.questions.15.answers.3.text:Berger
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:9818.0
+passage.questions.15.answers.2.text:Samuel &quot;Sandy&quot; Berger
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:9817.0
+passage.questions.15.answers.11.text:George Bush
+passage.questions.15.answers.11.label:0,0
+passage.questions.15.answers.11.idx:9826.0
+passage.questions.15.answers.10.text:Samuel Berger
+passage.questions.15.answers.10.label:1.0
+passage.questions.15.answers.10.idx:9825.0
+passage.questions.15.answers.1.text:Abu Zubaydah
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:9816.0
+passage.questions.15.answers.0.text:Raed Hijazi
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:9815.0
+passage.questions.14.question:Katera obveščevalna agencija je novembra 1999 prestregla klic in koga aretirala, da bi ustavila teroristični napad?
+passage.questions.14.idx:1875.0
+passage.questions.14.answers.9.text:Jordanska inteligenca. Abu Hoshar in 15 drugih
+passage.questions.14.answers.9.label:1.0
+passage.questions.14.answers.9.idx:9810.0
+passage.questions.14.answers.8.text:Jordanska inteligenca
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:9809.0
+passage.questions.14.answers.7.text:CIA. Bin Laden
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:9808.0
+passage.questions.14.answers.6.text:Še kaj
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:9807.0
+passage.questions.14.answers.5.text:Jordanska obveščevalna služba je prestregla klic in aretirala Abuja Hosharja
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:9806.0
+passage.questions.14.answers.4.text:CIA
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:9805.0
+passage.questions.14.answers.3.text:Iranska inteligenca. Abu Zubaydah
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:9804.0
+passage.questions.14.answers.2.text:Jordanska inteligenca. Abu Hoshar in Raed Hijazi
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:9803.0
+passage.questions.14.answers.13.text:FBI
+passage.questions.14.answers.13.label:0,0
+passage.questions.14.answers.13.idx:9814.0
+passage.questions.14.answers.12.text:Ameriška vlada
+passage.questions.14.answers.12.label:0,0
+passage.questions.14.answers.12.idx:9813.0
+passage.questions.14.answers.11.text:Abu Zubaydah, dolgoletni Bin Ladenov zaveznik
+passage.questions.14.answers.11.label:0,0
+passage.questions.14.answers.11.idx:9812.0
+passage.questions.14.answers.10.text:Abu Hoshar in 15 drugih
+passage.questions.14.answers.10.label:1.0
+passage.questions.14.answers.10.idx:9811.0
+passage.questions.14.answers.1.text:Khadr Abu Hoshar, palestinski ekstremist
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:9802.0
+passage.questions.14.answers.0.text:Jordanska obveščevalna služba je prestregla klic in aretirala Abuja Hosherja in 15 drugih
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:9801.0
+passage.questions.13.question:Kdo je bil skupaj z Abu Hosharjem eden od 15 teroristov, ki so jih jordanske oblasti aretirale?
+passage.questions.13.idx:1874.0
+passage.questions.13.answers.7.text:Bin Laden
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:9800.0
+passage.questions.13.answers.6.text:Bill Clinton
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:9799.0
+passage.questions.13.answers.5.text:Hijazi
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:9798.0
+passage.questions.13.answers.4.text:Abu Hoshar
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:9797.0
+passage.questions.13.answers.3.text:Usama Bin Laden
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:9796.0
+passage.questions.13.answers.2.text:Abu Zubaydah
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:9795.0
+passage.questions.13.answers.1.text:Raed Hijazi
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:9794.0
+passage.questions.13.answers.0.text:Nekaj drugega
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:9793.0
+passage.questions.12.question:Predsednik Clinton je pogosto govoril o terorističnih taboriščih, toda ali se je Bin Laden skliceval poimensko in kaj je bil razlog za njegovo izbiro?
+passage.questions.12.idx:1873.0
+passage.questions.12.answers.9.text:Ne, ker se je nameraval izogniti izboljšanju postave Bin Ladena, tako da mu je dal nepotrebno publiciteto
+passage.questions.12.answers.9.label:1.0
+passage.questions.12.answers.9.idx:9789.0
+passage.questions.12.answers.8.text:Ker so bile podrobnosti strogo tajne
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:9788.0
+passage.questions.12.answers.7.text:Ne, da mu ne bi dal legitimnosti
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:9787.0
+passage.questions.12.answers.6.text:Ne, ker je sovražil ime Bin Laden
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:9786.0
+passage.questions.12.answers.5.text:Da bi se izognili izboljšanju Bin Ladnove postave
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:9785.0
+passage.questions.12.answers.4.text:Na Bin Ladena se ni skliceval posebej, ker se je želel izogniti izboljšanju Bin Ladnove postave, tako da mu je dal nepotrebno publiciteto
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:9784.0
+passage.questions.12.answers.3.text:Da, hotel je, da ga ljudje najdejo
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:9783.0
+passage.questions.12.answers.2.text:Ne, ni vedel, kdo je
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:9782.0
+passage.questions.12.answers.12.text:Ne, da mu ne bi dala publicitete
+passage.questions.12.answers.12.label:1.0
+passage.questions.12.answers.12.idx:9792.0
+passage.questions.12.answers.11.text:Odločil se je, da ne bo omenjal imen, da Bin Ladnu ne bo dal publicitete
+passage.questions.12.answers.11.label:1.0
+passage.questions.12.answers.11.idx:9791.0
+passage.questions.12.answers.10.text:Da bi se izognili nepotrebni reklami
+passage.questions.12.answers.10.label:1.0
+passage.questions.12.answers.10.idx:9790.0
+passage.questions.12.answers.1.text:Ne, o Bin Ladnu je povedal malo, o Al Kaidi pa nič. s tem namenom naj bi se izognili izboljšanju postave Bin Ladena, tako da bi mu dali nepotrebno publiciteto
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:9781.0
+passage.questions.12.answers.0.text:Da bi se izognili zmedam v državnem ministrstvu
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:9780.0
+passage.questions.11.question:Je bil predsednik Clinton zaskrbljen in kaj je želela ameriška vlada narediti Bin Ladnu?
+passage.questions.11.idx:1872.0
+passage.questions.11.answers.5.text:Da, in vlada ga je hotela izgnati iz Afganistana ali po možnosti ujeti ali celo ubiti
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:9779.0
+passage.questions.11.answers.4.text:Bin Laden
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:9778.0
+passage.questions.11.answers.3.text:Predsednik Clinton je bil zaskrbljen in želeli so, da bi ga ujeli, ubili ali pregnali iz Afganistana?
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:9777.0
+passage.questions.11.answers.2.text:Da, in vlada je hotela, da ga aretirajo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:9776.0
+passage.questions.11.answers.1.text:Ne, vlada pa je želela, da ga pošljejo v Afganistan na usposabljanje
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:9775.0
+passage.questions.11.answers.0.text:Predsednik
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:9774.0
+passage.questions.10.question:Zakaj Clinton ni omenil Bin Ladena in Al Kaide, ko je izrazil zaskrbljenost zaradi terorizma?
+passage.questions.10.idx:1871.0
+passage.questions.10.answers.4.text:Skrbi zaradi okvar računalnika
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:9773.0
+passage.questions.10.answers.3.text:Bin Laden
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:9772.0
+passage.questions.10.answers.2.text:Da bi se izognili nepotrebni reklami
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:9771.0
+passage.questions.10.answers.1.text:Da bi se izognili povečanju postave Bin Ladena z nepotrebnimi nazornostmi
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:9770.0
+passage.questions.10.answers.0.text:Da bi se izognili izboljšanju Bin Ladnove postave
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:9769.0
+passage.questions.1.question:Kaj se je leta 2000 propadalo in zakaj je to skrbelo vladne uradnike?
+passage.questions.1.idx:1862.0
+passage.questions.1.answers.3.text:Leta 2000 so se računalniki pokvarili in vladni uradniki so se bali, da bi teroristi to izkoristili kot prednost
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:9711.0
+passage.questions.1.answers.2.text:Računalniki, ker bi lahko te okvare teroristi izkoristili
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:9710.0
+passage.questions.1.answers.1.text:Vlada
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:9709.0
+passage.questions.1.answers.0.text:Jordanska obveščevalna služba zaradi terorističnih taborišč za usposabljanje
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9708.0
+passage.questions.0.question:Kdo je pomagal Abu Hashnerju pri novačenju v Turčiji, Siriji in Jordaniji?
+passage.questions.0.idx:1861
+passage.questions.0.answers.7.text:Bin Laden
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:9707.0
+passage.questions.0.answers.6.text:Bill Clinton
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:9706.0
+passage.questions.0.answers.5.text:Hijazi
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:9705.0
+passage.questions.0.answers.4.text:Abu Hoshar
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:9704.0
+passage.questions.0.answers.3.text:Še kaj
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:9703.0
+passage.questions.0.answers.2.text:Usama Bin Laden
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:9702.0
+passage.questions.0.answers.1.text:Abu Zubaydah
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:9701
+passage.questions.0.answers.0.text:Raed Hijazi
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:9700
+idx:170

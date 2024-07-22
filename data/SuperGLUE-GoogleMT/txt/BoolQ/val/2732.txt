@@ -1,0 +1,4 @@
+idx:2732
+label:False
+passage:Univerzalna koda izdelka - UPC (tehnično se nanaša na UPC-A) je sestavljena iz 12 številskih številk, ki so enolično dodeljene vsaki trgovski enoti. UPC je skupaj s povezano črtno kodo EAN tudi črtna koda, ki se v glavnem uporablja za skeniranje trgovskih predmetov na prodajnem mestu, v skladu s specifikacijami GS1. Podatkovne strukture UPC so sestavni del GTIN-ov in sledijo globalni specifikaciji GS1, ki temelji na mednarodnih standardih. Toda nekateri trgovci na drobno (oblačila, pohištvo) ne uporabljajo sistema GS1 (prej druge simbolike črtnih kod ali sistemi številk izdelkov). Po drugi strani nekateri trgovci na drobno uporabljajo simboliko črtne kode EAN / UPC, vendar brez uporabe GTIN (samo za izdelke, ki se prodajajo v lastnih trgovinah).
+question:je upc koda enaka črtni kodi

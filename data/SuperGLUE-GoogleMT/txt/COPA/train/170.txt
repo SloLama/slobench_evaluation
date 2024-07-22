@@ -1,0 +1,6 @@
+choice1:Motocikel se je ustavil.
+choice2:Motocikel je streljal naprej.
+idx:170
+label:1
+premise:Motorist je zavrtel plin.
+question:effect

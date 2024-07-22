@@ -1,0 +1,72 @@
+version:1.1
+passage.text:Kapetan Rome Francesco Totti je v soboto postavil nov rekord v seriji A, ko je njegova ekipa podrla Ceseno s 5: 1. Dva zgodnja zadetka 35-letnega napadalca sta dosegla 211 golov za Romo, kar pomeni, da je za en klub dosegel več golov kot kateri koli drug igralec v zgodovini Serie A. Po njegovem številu presega prejšnji rekord 210, ki ga je postavil plodni švedski napadalec Gunnar Nordahl, ki je v petdesetih igral za AC Milan. &quot;To je tisto, kar sem si že od nekdaj želel, da oblečem to majico in premagam en rekord za drugim,&quot; je dejal Totti, poroča AFP. &quot;Prehitel sem Nordahla in na to sem ponosen. Zdaj ciljam na Altafini,&quot; je dodal, poroča AFP. Brazilec Jose Altafini je skupni tretji strelec (skupaj z Giuseppejem Meazzo) v zgodovini Serie A z 216 goli. Zgodaj Totti in zadetek Fabija Borinija sta v zgolj osmih minutah Romo povišala s 3: 0. Juan in Miralem Pjanic sta v drugem polčasu dodala nadaljnje zadetke, potem ko je CM Eder zadel gol za Ceseno na lestvici ure. Zmaga Rome dvigne na šesto mesto - čeprav jih bo Napoli znova prehitel, če bodo v nedeljo zmagali v Sieni - in poveča možnosti za uvrstitev v evropski nogomet prihodnjo sezono. Cesena pa ostaja zataknjena v težavah, ko lebdi tik nad vznožjem lestvice na 18. mestu s 15 točkami.
+passage.questions.2.question:Koliko golov je Francesco Totti od sobote dosegel Romi?
+passage.questions.2.idx:1846.0
+passage.questions.2.answers.5.text:Dva zadetka
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:9649.0
+passage.questions.2.answers.4.text:211
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:9648.0
+passage.questions.2.answers.3.text:210
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:9647.0
+passage.questions.2.answers.2.text:Skoraj 216
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9646.0
+passage.questions.2.answers.1.text:211 zadetkov
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:9645.0
+passage.questions.2.answers.0.text:216 golov
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:9644.0
+passage.questions.1.question:Koliko je star Francesco Totti?
+passage.questions.1.idx:1845.0
+passage.questions.1.answers.6.text:Skoraj 36
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:9643.0
+passage.questions.1.answers.5.text:30.
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:9642.0
+passage.questions.1.answers.4.text:Star 37 let
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:9641.0
+passage.questions.1.answers.3.text:35
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:9640.0
+passage.questions.1.answers.2.text:Star 35 let
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:9639.0
+passage.questions.1.answers.1.text:51
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:9638.0
+passage.questions.1.answers.0.text:34
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9637.0
+passage.questions.0.question:Po Nordahlu, čigar rekord želi Francesco premagati?
+passage.questions.0.idx:1844
+passage.questions.0.answers.7.text:Brazilec
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:9636.0
+passage.questions.0.answers.6.text:Švedski napadalec
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:9635.0
+passage.questions.0.answers.5.text:Jose Altafini
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:9634.0
+passage.questions.0.answers.4.text:Gunnar Nordahl
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:9633.0
+passage.questions.0.answers.3.text:Fabio Borini
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:9632.0
+passage.questions.0.answers.2.text:Altafini
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:9631.0
+passage.questions.0.answers.1.text:216 golov
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:9630
+passage.questions.0.answers.0.text:Giuseppe Meazza
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:9629
+idx:168

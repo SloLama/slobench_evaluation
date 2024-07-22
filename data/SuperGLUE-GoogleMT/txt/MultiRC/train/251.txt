@@ -1,0 +1,190 @@
+version:1.1
+passage.text:Zmaga in katastrofa: 20. stoletje je zaznamovalo izjemno sproščanje energij, ki so bile založene v 250 letih izolacije Tokugawe. Do leta 1930 se je proizvodnja surovin potrojila v primerjavi z letom 1900, industrijsko blago se je povečalo dvanajstkrat, težka industrija pa je galopirala proti zrelosti. Britanija je vodila Ailies iz prve svetovne vojne v velikih naročilih za strelivo, Japonska pa je širila prodajo industrijskih izdelkov na azijske in druge trge, odrezane od običajnih evropskih dobaviteljev. Trgovski ladijski promet se je podvojil in dohodek desetkrat povečal, ko so bile uničene evropske flote. Zastoji v tridesetih letih prejšnjega stoletja, ki jih je povzročil evropski povojni kriz, so bili le spodbuda za podvojitev prizadevanj z diverzifikacijo težke industrije v strojni, metalurški in kemični sektor. Tudi strašni potres v Tokiu leta 1923, ki je stal več kot 100.000 življenj in milijarde dolarjev, je bil nov spodbudo zaradi gradbenega razcveta, ki je sledil. Na vrhu tega gospodarskega vzpona so bili konglomerati zaibatsu - ducat družinsko vodenih kombinatov, ki so bili vključeni v rudarstvo, proizvodnjo, trženje, ladijski promet in bančništvo. Te strogo nadzorovane komercialne piramide so bile pravi dediči starih fevdnih struktur. Napredek Japonske v smeri parlamentarne demokracije se je v tridesetih letih ustavil zaradi naraščajočega nacionalizma, ki so ga vladi naložili generali in admirali. Razglasili so poslanstvo Japonske, da svojim zaostalim azijskim sosedom prinese napredek v jeziku, ki ni tako zelo drugačen od jezika Evropejcev v Afriki ali ZDA v Latinski Ameriki. Po ruski revoluciji leta 1917 je bila Sovjetska zveza glavna nevarnost za japonsko varnost, vojska pa je menila, da potrebuje Mandžurijo in katero koli drugo kitajsko ozemlje, ki ga je lahko nadzorovala, kot blažilnik ruskega napredka. Leta 1931 so Japonci zasedli Mandžurijo. In potem je leta 1937 vojska s priljubljeno podporo ultradesničarskih skupin preglasila parlamentarni odpor v Tokiu in začela vojno proti kitajskim nacionalistom. Do leta 1938 so imeli Nanking, Hankow in Canton. Japonska ekspanzionistična politika je vodila do neposrednega soočenja z Zahodom. Japonska je upala, da bo vojna v Evropi odvrnila Sovjetsko zvezo od vmešavanja v Vzhodno Azijo, tako da bo imela Japonska po porazu Francije proste roke na Kitajskem in prek zavezništva z Nemčijo na francoski IndoChina. ZDA so se na japonski vdor na IndoChina odzvale s trgovinskim in gorivskim embargom, s čimer so prekinile 90 odstotkov oskrbe Japonske. Rezultat je bil napad na ameriško floto pri Pearl Harborju (7. decembra 1941) in popolna vojna.
+passage.questions.7.question:Katere so bile nekatere od strogo nadzorovanih komercialnih piramid na Japonskem?
+passage.questions.7.idx:2801.0
+passage.questions.7.answers.7.text:Ultr-desničarske skupine
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:14790.0
+passage.questions.7.answers.6.text:Trguje
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:14789.0
+passage.questions.7.answers.5.text:Kombiniranje bančništva in ladijskega prometa
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:14788.0
+passage.questions.7.answers.4.text:Ducat družinskih kombinacij različnih industrij
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:14787.0
+passage.questions.7.answers.3.text:Ekspanzionisti
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:14786.0
+passage.questions.7.answers.2.text:Konglomerati Zaibatsu
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:14785.0
+passage.questions.7.answers.1.text:Kombinacije, vključene v rudarstvo, proizvodnjo, trženje, ladijski promet in bančništvo
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:14784.0
+passage.questions.7.answers.0.text:Rudarstvo, proizvodnja, trženje, ladijski promet in bančništvo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:14783.0
+passage.questions.6.question:Zakaj je Japonska leta 1931 zasedla Mandžurijo?
+passage.questions.6.idx:2800.0
+passage.questions.6.answers.6.text:Za zaščito Japonske pred rusko invazijo
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:14782.0
+passage.questions.6.answers.5.text:Za širjenje japonske kulture
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:14781.0
+passage.questions.6.answers.4.text:Za zaščito pred kitajskim napredkom
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:14780.0
+passage.questions.6.answers.3.text:Zgraditi obrambno območje pred Rusi
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:14779.0
+passage.questions.6.answers.2.text:Kot blažilnik ruskega napredka
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:14778.0
+passage.questions.6.answers.1.text:Japonska je verjela, da potrebuje ozemlje za zaščito pred ruskim napredkom
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:14777.0
+passage.questions.6.answers.0.text:Za gradnjo ladij
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:14776.0
+passage.questions.5.question:Kateri dogodek je konglomeratom zaibatsu omogočil, da izkoristijo gospodarski vzpon?
+passage.questions.5.idx:2799.0
+passage.questions.5.answers.6.text:Potres leta 1923 v Tokiu
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:14775.0
+passage.questions.5.answers.5.text:Potres leta 1923 v Toyku
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:14774.0
+passage.questions.5.answers.4.text:Potreba po proizvodnji in gradnji
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:14773.0
+passage.questions.5.answers.3.text:Prva svetovna vojna
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:14772.0
+passage.questions.5.answers.2.text:Ruska revolucija 1917
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:14771.0
+passage.questions.5.answers.1.text:Kitajski potres leta 1933
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:14770.0
+passage.questions.5.answers.0.text:Ruska revolucija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:14769.0
+passage.questions.4.question:Kdo je razglasil poslanstvo Japonske, da svojim zaostalim azijskim sosedom prinese napredek?
+passage.questions.4.idx:2798.0
+passage.questions.4.answers.6.text:Tokugawa
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:14768.0
+passage.questions.4.answers.5.text:Generali in admirali
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:14767.0
+passage.questions.4.answers.4.text:Kitajska
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:14766.0
+passage.questions.4.answers.3.text:Japonska vlada
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:14765.0
+passage.questions.4.answers.2.text:Sovjetska zveza
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:14764.0
+passage.questions.4.answers.1.text:Japonski generali in admirali
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:14763.0
+passage.questions.4.answers.0.text:Nacionalisti
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14762.0
+passage.questions.3.question:Katera država je do leta 1938 imela Nanking, Hankow in Kanton?
+passage.questions.3.idx:2797.0
+passage.questions.3.answers.5.text:Japonski
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:14761.0
+passage.questions.3.answers.4.text:Sovjetska zveza
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:14760.0
+passage.questions.3.answers.3.text:Kitajska
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:14759.0
+passage.questions.3.answers.2.text:Japonska vlada
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:14758.0
+passage.questions.3.answers.1.text:Rusija
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:14757.0
+passage.questions.3.answers.0.text:Japonska
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:14756.0
+passage.questions.2.question:Kako dolgo po zasedbi Mandžurije je Japonska držala Nanking?
+passage.questions.2.idx:2796.0
+passage.questions.2.answers.6.text:7 let
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:14755.0
+passage.questions.2.answers.5.text:Osem let
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:14754.0
+passage.questions.2.answers.4.text:Sedem let
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:14753.0
+passage.questions.2.answers.3.text:Približno 7 let
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:14752.0
+passage.questions.2.answers.2.text:Manj kot 5 let
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:14751.0
+passage.questions.2.answers.1.text:Do tridesetih let 20. stoletja
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14750.0
+passage.questions.2.answers.0.text:7. decembra 1941
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:14749.0
+passage.questions.1.question:Kaj je povzročilo napad na ameriško floto v Pearl Harborju?
+passage.questions.1.idx:2795.0
+passage.questions.1.answers.6.text:Japonska invazija na Britian
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:14748.0
+passage.questions.1.answers.5.text:Ameriški trgovinski in gorivni embargo na Japonsko
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:14747.0
+passage.questions.1.answers.4.text:Zavezništvo Japonske z Nemčijo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:14746.0
+passage.questions.1.answers.3.text:Trgovinski in gorivni embargo Združenih držav proti Japonski
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:14745.0
+passage.questions.1.answers.2.text:Vojna v Evropi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:14744.0
+passage.questions.1.answers.1.text:Vojna s kitajskimi nacionalisti
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:14743.0
+passage.questions.1.answers.0.text:Embargo na trgovino in gorivo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:14742.0
+passage.questions.0.question:Kakšno dejanje zoper Japonsko je povzročilo napad na Pearl Harbor?
+passage.questions.0.idx:2794
+passage.questions.0.answers.7.text:Embargo na gorivo
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:14741.0
+passage.questions.0.answers.6.text:Embargo ZDA
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:14740.0
+passage.questions.0.answers.5.text:Ameriški trgovinski in gorivni embargo na Japonsko
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:14739.0
+passage.questions.0.answers.4.text:Ruski napredek
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:14738.0
+passage.questions.0.answers.3.text:Bomba v Hirošimi
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14737.0
+passage.questions.0.answers.2.text:Prevzem parlamenta s strani vojske
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:14736.0
+passage.questions.0.answers.1.text:Trgovinski embargo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:14735
+passage.questions.0.answers.0.text:Embargo na trgovino in gorivo
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:14734
+idx:251

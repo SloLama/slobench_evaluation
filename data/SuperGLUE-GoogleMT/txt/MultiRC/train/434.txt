@@ -1,0 +1,188 @@
+version:1.1
+passage.text:Rolfe je odložil psa, ki ga je držal, in šel ven v vežo. Pes ga je spremljal in ga prijateljsko prepiral. Rolfe je najprej pregledal spalnico, v kateri je videl vstop inšpektorja Chippenfielda. Bila je majhna soba z zakonsko posteljo. Bila je lepo opremljena v beli barvi, z belimi zavesami in izdelki iz toaletne mize iz slonovine, ki so se ujemali. Pogled po sobi je prepričal Rolfeja, da se moški v njem ne more skrivati. Inšpektor je vrata omare odprl, obleke in drugi izdelki ženskega oblačila, ki jih je vseboval, pa so se vrgli na tla. Drugega skrivališča ni bilo mogoče, razen pod posteljo, in neusmiljena roka inšpektorja je odtrgala ogrinjala iz bele muslinaste postelje, ki so razkrivale spodnjo stran. Rolfe je spet odšel v vežo in vstopil v sobo poleg spalnice. Očitno je bilo to stanovanje uporabljeno kot jedilnica, saj je vsebovalo veliko mizo, nekaj stolov, majhno kredenco, stojalo za žgane pijače, ohišje za knjige in okraske ter dve majhni hrastovi stiskalnici. Jasno je, da v njem ni bilo mesta, kjer bi se človek lahko skril. Naslednja soba je bila kopalnica, ki je bila prav tako prazna. Nasproti kopalnice je bila majhna spalnica, zelo komaj opremljena, ki ni ponujala možnosti prikrivanja. Nato se je prehod odprl v veliko prostorno kuhinjo, celotno širino prostorov na obeh straneh veže in kuhinja je stanovanje dokončala.
+passage.questions.9.question:Kakšno sobo je pregledal Rolfe?
+passage.questions.9.idx:4894.0
+passage.questions.9.answers.8.text:Vrtec
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:26086.0
+passage.questions.9.answers.7.text:Preddverje
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:26085.0
+passage.questions.9.answers.6.text:Bila je majhna soba z zakonsko posteljo
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:26084.0
+passage.questions.9.answers.5.text:Jedilnica
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:26083.0
+passage.questions.9.answers.4.text:Soba za goste
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:26082.0
+passage.questions.9.answers.3.text:Kopalnica
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:26081.0
+passage.questions.9.answers.2.text:Spalnica
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:26080.0
+passage.questions.9.answers.1.text:Klet
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:26079.0
+passage.questions.9.answers.0.text:Kuhinja
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:26078.0
+passage.questions.8.question:Kakšno barvo je dobila oprema v prvi sobi Rolfe?
+passage.questions.8.idx:4893.0
+passage.questions.8.answers.1.text:Krema
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:26077.0
+passage.questions.8.answers.0.text:Bela
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:26076.0
+passage.questions.7.question:Čemu je služila soba ob spalnici?
+passage.questions.7.idx:4892.0
+passage.questions.7.answers.3.text:Uporabljali so ga za jedilnico
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:26075.0
+passage.questions.7.answers.2.text:Za lajšanje črevesja
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:26074.0
+passage.questions.7.answers.1.text:To je bil WC
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:26073.0
+passage.questions.7.answers.0.text:Bila je jedilnica
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:26072.0
+passage.questions.6.question:Kakšne barve so bile zavese v spalnici?
+passage.questions.6.idx:4891.0
+passage.questions.6.answers.1.text:Saten
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26071.0
+passage.questions.6.answers.0.text:Bela
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:26070.0
+passage.questions.5.question:Kdo je bil tam pred Rolfejem?
+passage.questions.5.idx:4890.0
+passage.questions.5.answers.1.text:Inšpektor Chippenfield
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:26069.0
+passage.questions.5.answers.0.text:Pes
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:26068.0
+passage.questions.4.question:Kaj je pes naredil po Rolfeju, razen njega?
+passage.questions.4.idx:4889.0
+passage.questions.4.answers.3.text:Pes ga je spremljal in se mu prijateljsko prepiral
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:26067.0
+passage.questions.4.answers.2.text:Pobegnilo je
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:26066.0
+passage.questions.4.answers.1.text:Spremljalo je Rolfeja
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:26065.0
+passage.questions.4.answers.0.text:Škripalo je okoli Rolfeja
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:26064.0
+passage.questions.3.question:V kateri sobi je Rolfe našel zakonsko posteljo?
+passage.questions.3.idx:4888.0
+passage.questions.3.answers.4.text:Prva soba
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:26063.0
+passage.questions.3.answers.3.text:Soba nasproti kopalnice
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:26062.0
+passage.questions.3.answers.2.text:Spalnica, v katero je vstopil inšpektor Chippenfield
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:26061.0
+passage.questions.3.answers.1.text:Spalnica
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26060.0
+passage.questions.3.answers.0.text:Majhna spalnica
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:26059.0
+passage.questions.2.question:Katero sobo je Rolfe pregledal po jedilnici?
+passage.questions.2.idx:4887.0
+passage.questions.2.answers.1.text:Kopalnica
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:26058.0
+passage.questions.2.answers.0.text:Majhna spalnica
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:26057.0
+passage.questions.15.question:Kako je ime inšpektorja, ki je naglo odprl vrata garderobe?
+passage.questions.15.idx:4900.0
+passage.questions.15.answers.1.text:Chippenfield
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:26102.0
+passage.questions.15.answers.0.text:Rolfe
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:26101.0
+passage.questions.14.question:Koliko spalnic je pregledal Rolfe?
+passage.questions.14.idx:4899.0
+passage.questions.14.answers.2.text:Tri
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:26100.0
+passage.questions.14.answers.1.text:Štiri
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:26099.0
+passage.questions.14.answers.0.text:2.
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:26098.0
+passage.questions.13.question:Zakaj je Rolfe ustavil iskanje v prvi sobi?
+passage.questions.13.idx:4898.0
+passage.questions.13.answers.2.text:Ker so bila vsa skrivališča prazna
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:26097.0
+passage.questions.13.answers.1.text:Ni bilo prostora za počitek
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:26096.0
+passage.questions.13.answers.0.text:Ni se bilo mogoče skriti
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:26095.0
+passage.questions.12.question:Koga je pes spremljal?
+passage.questions.12.idx:4897.0
+passage.questions.12.answers.1.text:Inšpektor Chippenfield
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:26094.0
+passage.questions.12.answers.0.text:Rolfe
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:26093.0
+passage.questions.11.question:Kako je izgledala majhna soba?
+passage.questions.11.idx:4896.0
+passage.questions.11.answers.2.text:Komaj je bil opremljen
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:26092.0
+passage.questions.11.answers.1.text:Bila je lepo opremljena v beli barvi, z belimi zavesami in izdelki iz toaletne mize iz slonovine, ki so se ujemali
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:26091.0
+passage.questions.11.answers.0.text:Bila je močno opremljena
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:26090.0
+passage.questions.10.question:Koliko spalnic je bilo?
+passage.questions.10.idx:4895.0
+passage.questions.10.answers.2.text:Tri
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:26089.0
+passage.questions.10.answers.1.text:Štiri
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:26088.0
+passage.questions.10.answers.0.text:Brez kopalnice so bile 3 spalnice
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:26087.0
+passage.questions.1.question:Kam je pes sledil Rolfeju?
+passage.questions.1.idx:4886.0
+passage.questions.1.answers.1.text:V dvorano
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26056.0
+passage.questions.1.answers.0.text:Na dvorišče
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26055.0
+passage.questions.0.question:Katera soba je bila opremljena v beli barvi?
+passage.questions.0.idx:4885
+passage.questions.0.answers.2.text:Jedilnica
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:26054.0
+passage.questions.0.answers.1.text:Prva spalnica
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26053
+passage.questions.0.answers.0.text:Druga spalnica
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:26052
+idx:434

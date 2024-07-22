@@ -1,0 +1,6 @@
+choice1:Iz strnišča mu je zrasla brada.
+choice2:Njegovo strnišče je izginilo.
+idx:94
+label:1
+premise:Z britvico je šel čez brado.
+question:effect

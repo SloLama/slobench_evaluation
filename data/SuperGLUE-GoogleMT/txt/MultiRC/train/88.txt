@@ -1,0 +1,205 @@
+version:1.1
+passage.text:Adrienne Saunders je srečno poročena s svojim možem trgovcem z umetnicami Jackom. Imata hčerko Mary. Adrienne sliši od prijatelja, da je mislila, da je videla Jacka v mestu, ko je trdil, da je na poslovnem potovanju zunaj mesta. Adrienne se sooči z njim, vendar zanika, da je v mestu, in njuno življenje se nadaljuje. Kmalu zatem je kustos muzeja skrivnostno umorjen in relikvija, ki jo je Jack kupil za muzej, je ponarejena. Jack je osumljen, nato pa Adrienne od policije prejme obvestilo, da je Jack umrl v prometni nesreči. Ko poskuša zaključiti Jackove zadeve, Adrienne začne sumiti, da je njen mož zamenjal identiteto s sošolcem iz srednje šole Frank Sullivanom. Ko zagleda sliko moža iz srednje šole, ki jo pripisujejo Sullivanu, je prepričana. Izsledi sorodnika Saundersa, ki potrdi, da sta bila Frank in Jack v srednji šoli neločljiva. Ko je Jack umrl, sorodnik Franka ni več videl. Pojasnila je, da je bil Frankov oče alkoholik in da je njegova mati delala kot operater mitnice. Adrienne napoti k Frankovi materi, ki živi v zapuščenem stanovanju v Brooklynu. Frankova mama z grenkobo sprejema novico, da ima vnukinjo in pove Adrienne, da je bil Frank vedno sebičen in da je ni nikoli pogledal. V Adriennenem podstrešju se skriva zalezovalec. Med spanjem pride v posteljo Adrienne in jo poboža. Opazuje Mary, ki jo ponoči straši moški v njeni sobi.
+passage.questions.9.question:Kako letopis potrjuje Adriennin dvom o identiteti njenega moža?
+passage.questions.9.idx:1041.0
+passage.questions.9.answers.2.text:Imenuje se Frank Sullivan
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:5416.0
+passage.questions.9.answers.1.text:Adrienne dvomi, da je njen mož Jack zamenjal identiteto s sošolcem iz srednje šole Frank Sullivan, kar potrdi po ogledu letopisa
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:5415.0
+passage.questions.9.answers.0.text:Pogrešan je
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5414.0
+passage.questions.8.question:Kako je ime Jackovi hčerki?
+passage.questions.8.idx:1040.0
+passage.questions.8.answers.2.text:Mary
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:5413.0
+passage.questions.8.answers.1.text:Mary Saunders
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:5412.0
+passage.questions.8.answers.0.text:Angela
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:5411.0
+passage.questions.7.question:Kako se Adrienne prepriča, da je njen mož zamenjal identiteto?
+passage.questions.7.idx:1039.0
+passage.questions.7.answers.2.text:Zagleda sliko svojega moža v letopisu
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:5410.0
+passage.questions.7.answers.1.text:Marija ji pove
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:5409.0
+passage.questions.7.answers.0.text:Njegov letopis
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:5408.0
+passage.questions.6.question:Katere zločine je storil Frank?
+passage.questions.6.idx:1038.0
+passage.questions.6.answers.2.text:Jo zalezuje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:5407.0
+passage.questions.6.answers.1.text:Umor, lažno predstavljanje, goljufija
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:5406.0
+passage.questions.6.answers.0.text:Umor
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:5405.0
+passage.questions.5.question:Kdo je pravi Marijin oče?
+passage.questions.5.idx:1037.0
+passage.questions.5.answers.3.text:Frank
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:5404.0
+passage.questions.5.answers.2.text:Jack
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5403.0
+passage.questions.5.answers.1.text:Frank Sullivan
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:5402.0
+passage.questions.5.answers.0.text:Sullivan
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5401.0
+passage.questions.4.question:Kdo od Frankovih družinskih članov je omenjen?
+passage.questions.4.idx:1036.0
+passage.questions.4.answers.6.text:Nečak
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:5400.0
+passage.questions.4.answers.5.text:Njegova žena, hči in mati
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:5399.0
+passage.questions.4.answers.4.text:Žena
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:5398.0
+passage.questions.4.answers.3.text:Mati
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:5397.0
+passage.questions.4.answers.2.text:Vnuk
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:5396.0
+passage.questions.4.answers.1.text:Vnukinja
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:5395.0
+passage.questions.4.answers.0.text:Hči
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:5394.0
+passage.questions.3.question:Kdo gleda letopis?
+passage.questions.3.idx:1035.0
+passage.questions.3.answers.2.text:Adrienne
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:5393.0
+passage.questions.3.answers.1.text:Adrienne Saunders
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:5392.0
+passage.questions.3.answers.0.text:Mary
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:5391.0
+passage.questions.2.question:Ko Jack umre, zakaj Frankov sorodnik nikoli več ne vidi Franka?
+passage.questions.2.idx:1034.0
+passage.questions.2.answers.2.text:Frank umre
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5390.0
+passage.questions.2.answers.1.text:Ukrade mu identiteto
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:5389.0
+passage.questions.2.answers.0.text:Ker se je izkazalo, da sta Frank in Jack zamenjala identiteto, zato je res Frank umrl
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:5388.0
+passage.questions.16.question:V katerem mestu živi operater mitnice?
+passage.questions.16.idx:1048.0
+passage.questions.16.answers.1.text:Arizono
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:5438.0
+passage.questions.16.answers.0.text:Brooklyn
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:5437.0
+passage.questions.15.question:Katere moteče informacije Adrienne sliši od prijatelja in kako jih razloži?
+passage.questions.15.idx:1047.0
+passage.questions.15.answers.3.text:Adrienne dvomi, da je bil njen mož Jack v mestu, ko je trdil, da je na službenem potovanju, vendar ji zagotavlja, da je bil resnično zunaj mesta, potem ko se je soočila
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:5436.0
+passage.questions.15.answers.2.text:Sooči se z njim
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:5435.0
+passage.questions.15.answers.1.text:Ima sina
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:5434.0
+passage.questions.15.answers.0.text:Jack je bil v mestu
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:5433.0
+passage.questions.14.question:Kdo usmeri Adrienne k Frankovi materi?
+passage.questions.14.idx:1046.0
+passage.questions.14.answers.2.text:Mary
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:5432.0
+passage.questions.14.answers.1.text:Sorodnik Franka Sullivana
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:5431.0
+passage.questions.14.answers.0.text:Sorodnik
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:5430.0
+passage.questions.13.question:Kaj se na koncu zgodi s Frankom?
+passage.questions.13.idx:1045.0
+passage.questions.13.answers.2.text:Ponoči se prikrade v ženino posteljo, obišče pa tudi hčerkino sobo
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:5429.0
+passage.questions.13.answers.1.text:Poročiti se
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:5428.0
+passage.questions.13.answers.0.text:Izginil
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:5427.0
+passage.questions.12.question:Kaj se je zgodilo z Jackom?
+passage.questions.12.idx:1044.0
+passage.questions.12.answers.2.text:Frank ga je umoril in mu ukradel identiteto
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:5426.0
+passage.questions.12.answers.1.text:Jack je v prometni nesreči
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:5425.0
+passage.questions.12.answers.0.text:Jack se utopi
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:5424.0
+passage.questions.11.question:Zakaj se Adrienne ponoči prestraši v svoji sobi?
+passage.questions.11.idx:1043.0
+passage.questions.11.answers.2.text:Adrienne se prestraši, ko zagleda moškega, ki jo zalezuje, medtem ko ponoči spi v svoji spalnici
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:5423.0
+passage.questions.11.answers.1.text:Zalezovalec
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:5422.0
+passage.questions.11.answers.0.text:Veter
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:5421.0
+passage.questions.10.question:Katera oseba je v resnici Marijin oče: Jack Saunders ali Frank Sullivan?
+passage.questions.10.idx:1042.0
+passage.questions.10.answers.3.text:Frank
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:5420.0
+passage.questions.10.answers.2.text:Jack
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:5419.0
+passage.questions.10.answers.1.text:Jack Saunders
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:5418.0
+passage.questions.10.answers.0.text:Frank Sullivan
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:5417.0
+passage.questions.1.question:Za kakšen zločin je Jack osumljen?
+passage.questions.1.idx:1033.0
+passage.questions.1.answers.1.text:goljufije
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:5387.0
+passage.questions.1.answers.0.text:Umor
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5386.0
+passage.questions.0.question:Kakšen tip človeka je Frank?
+passage.questions.0.idx:1032
+passage.questions.0.answers.2.text:Sebično in skrivnostno
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:5385.0
+passage.questions.0.answers.1.text:Lažne
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5384
+passage.questions.0.answers.0.text:Pristen
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5383
+idx:88

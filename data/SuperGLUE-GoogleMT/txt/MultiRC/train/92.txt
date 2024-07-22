@@ -1,0 +1,301 @@
+version:1.1
+passage.text:Fizične lastnosti vključujejo stanje snovi. Ta stanja poznamo kot trdna, tekoča ali plinasta. Lastnosti lahko vključujejo tudi barvo in vonj. Na primer, kisik je plin. Je glavni del zraka, ki ga vdihavamo. Je brez barve in vonja. Klor je tudi plin. V nasprotju s kisikom je klor zelenkaste barve. Ima močan, oster vonj. Ste že kdaj zavohali čistilna sredstva, ki se uporabljajo po vašem domu? Če je tako, ste verjetno zavonjali klor. Drug kraj, kjer bi lahko zavohali klor, je na javnem bazenu. Klor se uporablja za ubijanje bakterij, ki lahko rastejo v vodi. Druge fizikalne lastnosti vključujejo trdoto, ledišče in vrelišče. Nekatere snovi imajo sposobnost raztapljanja v drugih snoveh. Nekaterih snovi ni mogoče raztopiti. Na primer, sol se zlahka raztopi v vodi. Olje se v vodi ne raztopi.
+passage.questions.9.question:Katere so nekatere lastnosti kisika?
+passage.questions.9.idx:1094.0
+passage.questions.9.answers.4.text:obarvan z močnim vonjem
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:5607.0
+passage.questions.9.answers.3.text:brez vonja
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:5606.0
+passage.questions.9.answers.2.text:brezbarven
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:5605.0
+passage.questions.9.answers.1.text:brez barve in vonja
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:5604.0
+passage.questions.9.answers.0.text:je plin, brez barve in vonja
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:5603.0
+passage.questions.8.question:Kakšne so fizikalne lastnosti snovi?
+passage.questions.8.idx:1093.0
+passage.questions.8.answers.4.text:kemična vezava
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:5602.0
+passage.questions.8.answers.3.text:stanje snovi, barva in vonj
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:5601.0
+passage.questions.8.answers.2.text:zmrzovanje
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:5600.0
+passage.questions.8.answers.1.text:trdna snov, tekočina ali plin
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:5599.0
+passage.questions.8.answers.0.text:vrelišče
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:5598.0
+passage.questions.7.question:Kateri dve kontrastni snovi se raztapljata v vodi?
+passage.questions.7.idx:1092.0
+passage.questions.7.answers.3.text:sol in železo
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:5597.0
+passage.questions.7.answers.2.text:olje in sol
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:5596.0
+passage.questions.7.answers.1.text:sol in kisik
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:5595.0
+passage.questions.7.answers.0.text:Kisik in klor
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:5594.0
+passage.questions.6.question:Kako se razlikujeta kisik in klor?
+passage.questions.6.idx:1091.0
+passage.questions.6.answers.3.text:Klor je brezbarven, kisik pa zelenkast
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:5593.0
+passage.questions.6.answers.2.text:eden ima vonj, drugi ne
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:5592.0
+passage.questions.6.answers.1.text:klor ima barvo in kisik je brezbarven
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:5591.0
+passage.questions.6.answers.0.text:Kisik je brez vonja in brez barve. V nasprotju s kisikom je klor zelenkaste barve. Ima močan, oster vonj.
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:5590.0
+passage.questions.5.question:Katera dva plina se primerjata v članku?
+passage.questions.5.idx:1090.0
+passage.questions.5.answers.2.text:dušik in kisik
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5589.0
+passage.questions.5.answers.1.text:vodik in kisik
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:5588.0
+passage.questions.5.answers.0.text:Kisik in klor
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5587.0
+passage.questions.4.question:Kaj vključujejo fizikalne lastnosti?
+passage.questions.4.idx:1089.0
+passage.questions.4.answers.5.text:kemična vezava
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:5586.0
+passage.questions.4.answers.4.text:kemijska struktura
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:5585.0
+passage.questions.4.answers.3.text:vrelišče
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:5584.0
+passage.questions.4.answers.2.text:stanje snovi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:5583.0
+passage.questions.4.answers.1.text:barva in vonj
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:5582.0
+passage.questions.4.answers.0.text:temperatura taljenja
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:5581.0
+passage.questions.3.question:Kako se v skladu s tem odlomkom sol in olje razlikujeta, če se pomešata z vodo?
+passage.questions.3.idx:1088.0
+passage.questions.3.answers.2.text:olje se raztopi v vodi, sol pa ne
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:5580.0
+passage.questions.3.answers.1.text:Sol se raztopi v vodi, olje pa v vodi.
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:5579.0
+passage.questions.3.answers.0.text:sol se raztopi v vodi, olje pa ne
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:5578.0
+passage.questions.2.question:Poimenujte sonce, ki je brez vonja v vseh fizičnih oblikah.
+passage.questions.2.idx:1087.0
+passage.questions.2.answers.5.text:ogljik
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:5577.0
+passage.questions.2.answers.4.text:plin
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:5576.0
+passage.questions.2.answers.3.text:kisik
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:5575.0
+passage.questions.2.answers.2.text:oksidacija
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5574.0
+passage.questions.2.answers.1.text:zadeve
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:5573.0
+passage.questions.2.answers.0.text:Klor
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5572.0
+passage.questions.19.question:Kateri plin iz tega odstavka je najverjetneje zelen?
+passage.questions.19.idx:1104.0
+passage.questions.19.answers.1.text:klor
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:5644.0
+passage.questions.19.answers.0.text:Kisik
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:5643.0
+passage.questions.18.question:Katerim od omenjenih fizikalnih stanj najverjetneje manjka lastnost trdote?
+passage.questions.18.idx:1103.0
+passage.questions.18.answers.2.text:trdna snov in plin
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:5642.0
+passage.questions.18.answers.1.text:Plin in tekočina
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:5641.0
+passage.questions.18.answers.0.text:tekočina in plin
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:5640.0
+passage.questions.17.question:Kateri plin najdemo v čistilnih izdelkih?
+passage.questions.17.idx:1102.0
+passage.questions.17.answers.1.text:kisik
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:5639.0
+passage.questions.17.answers.0.text:Klor
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:5638.0
+passage.questions.16.question:Kateri plin je glavni del zraka, ki ga vdihavamo?
+passage.questions.16.idx:1101.0
+passage.questions.16.answers.1.text:klor
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:5637.0
+passage.questions.16.answers.0.text:Kisik
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:5636.0
+passage.questions.15.question:navedite 1 primer snovi, ki se lahko raztopi v vodi, in en primer snovi, ki se ne.
+passage.questions.15.idx:1100.0
+passage.questions.15.answers.2.text:pesek in olje
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:5635.0
+passage.questions.15.answers.1.text:sol lahko raztopimo v vodi
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:5634.0
+passage.questions.15.answers.0.text:olja ni mogoče raztopiti v vodi
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:5633.0
+passage.questions.14.question:Katere so nekatere sekundarne lastnosti snovi?
+passage.questions.14.idx:1099.0
+passage.questions.14.answers.2.text:barvna in kemijska vezava
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:5632.0
+passage.questions.14.answers.1.text:barva in vonj
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:5631.0
+passage.questions.14.answers.0.text:vonj in trdota.
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:5630.0
+passage.questions.13.question:Kakšne so fizikalne lastnosti snovi in koliko primarnih stanj obstaja za snov?
+passage.questions.13.idx:1098.0
+passage.questions.13.answers.3.text:trdna snov in plin
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:5629.0
+passage.questions.13.answers.2.text:3 države
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:5628.0
+passage.questions.13.answers.1.text:trdna tekočina in plin
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:5627.0
+passage.questions.13.answers.0.text:Fizikalne lastnosti snovi so znane tudi kot stanja snovi, ki obstajajo 3.
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:5626.0
+passage.questions.12.question:Kje sta dve mesti, kjer bi lahko uporabili klor?
+passage.questions.12.idx:1097.0
+passage.questions.12.answers.5.text:v zraku
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:5625.0
+passage.questions.12.answers.4.text:v ozračju
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:5624.0
+passage.questions.12.answers.3.text:Uporablja se lahko za čiščenje doma ali bazenov.
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:5623.0
+passage.questions.12.answers.2.text:javni bazen in čistilna sredstva
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:5622.0
+passage.questions.12.answers.1.text:čistilna sredstva
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:5621.0
+passage.questions.12.answers.0.text:bazen
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:5620.0
+passage.questions.11.question:Kje bi našli klor?
+passage.questions.11.idx:1096.0
+passage.questions.11.answers.4.text:v zraku
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:5619.0
+passage.questions.11.answers.3.text:v bazenu
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:5618.0
+passage.questions.11.answers.2.text:čistilna sredstva
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:5617.0
+passage.questions.11.answers.1.text:v čistilnih izdelkih, bazenih
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:5616.0
+passage.questions.11.answers.0.text:bazen
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:5615.0
+passage.questions.10.question:Kakšne lastnosti ima klor?
+passage.questions.10.idx:1095.0
+passage.questions.10.answers.6.text:brez vonja
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:5614.0
+passage.questions.10.answers.5.text:brezbarven
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:5613.0
+passage.questions.10.answers.4.text:ima vonj
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:5612.0
+passage.questions.10.answers.3.text:je plin, zelenkaste barve, ima močan oster vonj
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:5611.0
+passage.questions.10.answers.2.text:obarvana
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:5610.0
+passage.questions.10.answers.1.text:zelena barva
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:5609.0
+passage.questions.10.answers.0.text:oster vonj
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:5608.0
+passage.questions.1.question:Zakaj se klor uporablja v našem vsakdanjem življenju in kako?
+passage.questions.1.idx:1086.0
+passage.questions.1.answers.5.text:uporablja se pri dihanju
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:5571.0
+passage.questions.1.answers.4.text:uporablja se kot osvežilec zraka
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:5570.0
+passage.questions.1.answers.3.text:uniči bakterije v vodi in se zmeša v bazenu
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:5569.0
+passage.questions.1.answers.2.text:Ubija klice, najdemo ga v čistilih za gospodinjstvo in v bazenih brez kalčkov.
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:5568.0
+passage.questions.1.answers.1.text:uporabljamo ga za vzdrževanje čistih bazenov
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:5567.0
+passage.questions.1.answers.0.text:ubijajo bakterije
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5566.0
+passage.questions.0.question:Poimenujte tri snovi in navedite ter poimenujte plin, ki je v zraku, ki ga dihamo, da ostanemo živi.
+passage.questions.0.idx:1085
+passage.questions.0.answers.6.text:Klor
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:5565.0
+passage.questions.0.answers.5.text:zadeve
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:5564.0
+passage.questions.0.answers.4.text:dušik
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:5563.0
+passage.questions.0.answers.3.text:kisik
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:5562.0
+passage.questions.0.answers.2.text:plin
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:5561.0
+passage.questions.0.answers.1.text:trdna
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5560
+passage.questions.0.answers.0.text:tekočina
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:5559
+idx:92

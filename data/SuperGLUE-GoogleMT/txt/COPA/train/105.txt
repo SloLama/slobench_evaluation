@@ -1,0 +1,6 @@
+choice1:Uporabniki so poročali o nevarnih stranskih učinkih.
+choice2:Uporabniki so na recept dobili dopolnitve.
+idx:105
+label:0
+premise:Farmacevtska družba je odpoklicala zdravilo.
+question:cause

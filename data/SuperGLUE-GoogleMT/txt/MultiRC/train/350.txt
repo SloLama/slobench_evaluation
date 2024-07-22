@@ -1,0 +1,126 @@
+version:1.1
+passage.text:Leta 1964, na vrhuncu Beatlemanije, nejevoljnega Johna Lennona menedžer Brian Epstein prepriča, naj ob prisotnosti tiska sreča Freddieja Lennona, očeta, ki ga je zapustil sedemnajst let prej. Ko se srečata, Janez očita očetu, da ga je zapustil, oče pa pravi, da je &quot;prepustil Janezu. &#39;&#39; John in Brian hitro zapustita sestanek. Film nato skoči na leto 1967, potem ko je Brian Epstein umrl. The Beatles na tiskovni konferenci o svojem novem filmu Magical Mystery Tour. John je skeptičen do filma, a Paul ga prepriča, naj nadaljuje s to idejo. Janez nato povabi očeta v svoj dvorec, da bi živel z njim. Freddie Lennon prispe in spozna svojega vnuka Juliana. John, ko sedi s svojo ženo, bere kritike čarobne skrivnostne turneje, medtem ko primerja svojo ženo z Brigitte Bardot, za katero pravi, da se bo srečal po vrnitvi iz Indije. Janez najde pismo, naslovljeno nanj, na katerem je napisana beseda &quot;Dihaj&quot;. Kasneje, ko je oče našel v sosedovi hiši, Freddie razkrije, da ima 19-letno dekle po imenu Pauline, s katero želi živeti. Lennon očita očetu, da ga je spet zapustil, nato pa odide, potem ko je očetu rekel, da ne bo več živel z njim. Po srečanju z Maharishi Mahesh Yogiem se Beatli hitro vrnejo v London in na tiskovni konferenci pravijo, da so naredili napako, ko so zaupali Maharishiju. Novinarji so radovedni glede novega posla Beatlov - Apple Recordsa.
+passage.questions.5.question:Za koliko dogodkov je tisk prisoten?
+passage.questions.5.idx:4038.0
+passage.questions.5.answers.4.text:3.
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:21413.0
+passage.questions.5.answers.3.text:2.
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:21412.0
+passage.questions.5.answers.2.text:1.
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:21411.0
+passage.questions.5.answers.1.text:Več kot dvakrat
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:21410.0
+passage.questions.5.answers.0.text:4.
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21409.0
+passage.questions.4.question:Kolikokrat je John Lennon njegovega očeta Freddieja Lennona obtožil, da ga je zapustil ali zapustil?
+passage.questions.4.idx:4037.0
+passage.questions.4.answers.6.text:Vsaj dvakrat
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:21408.0
+passage.questions.4.answers.5.text:3.
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:21407.0
+passage.questions.4.answers.4.text:2.
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:21406.0
+passage.questions.4.answers.3.text:0
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:21405.0
+passage.questions.4.answers.2.text:1.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:21404.0
+passage.questions.4.answers.1.text:Več kot dvakrat
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21403.0
+passage.questions.4.answers.0.text:4.
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:21402.0
+passage.questions.3.question:Kako so Beatli razpravljali o svoji filmski čarobni skrivnostni turneji in svojih poslovnih Apple Records?
+passage.questions.3.idx:4036.0
+passage.questions.3.answers.6.text:Glede partnerstva so bili optimistični
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:21401.0
+passage.questions.3.answers.5.text:Radijski intervju
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:21400.0
+passage.questions.3.answers.4.text:Napišejo poročilo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:21399.0
+passage.questions.3.answers.3.text:Nad tem so bili navdušeni
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:21398.0
+passage.questions.3.answers.2.text:Imeli so tiskovno konferenco
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:21397.0
+passage.questions.3.answers.1.text:Glede filma skeptičen
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:21396.0
+passage.questions.3.answers.0.text:Tiskovne konference
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:21395.0
+passage.questions.2.question:Kakšno je ime filma, do katerega je John skeptičen?
+passage.questions.2.idx:4035.0
+passage.questions.2.answers.4.text:Beatli
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:21394.0
+passage.questions.2.answers.3.text:Čarobna skrivnostna tura
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:21393.0
+passage.questions.2.answers.2.text:Dihaj
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:21392.0
+passage.questions.2.answers.1.text:Čarobna tura
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:21391.0
+passage.questions.2.answers.0.text:Maharishi
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21390.0
+passage.questions.1.question:Koliko moških je v času Beatlemanije čustveno vplivalo na Johna Lennona?
+passage.questions.1.idx:4034.0
+passage.questions.1.answers.4.text:3.
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:21389.0
+passage.questions.1.answers.3.text:Manj kot dve
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21388.0
+passage.questions.1.answers.2.text:1.
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:21387.0
+passage.questions.1.answers.1.text:6.
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21386.0
+passage.questions.1.answers.0.text:Vsaj tri
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21385.0
+passage.questions.0.question:Zakaj Janez očita očetu, da ga je spet zapustil?
+passage.questions.0.idx:4033
+passage.questions.0.answers.7.text:Ker njegov oče ne podpira Johnovega filma
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:21384.0
+passage.questions.0.answers.6.text:Slišal ga je, kako se o sebi slabo pogovarja s prijateljem
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:21383.0
+passage.questions.0.answers.5.text:Poskuša mu ukrasti denar
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:21382.0
+passage.questions.0.answers.4.text:Freddie razkrije, da ima 19-letno punco Pauline, s katero želi živeti
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:21381.0
+passage.questions.0.answers.3.text:Boril se je z Johnom
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:21380.0
+passage.questions.0.answers.2.text:Za to, da nikogar ne ljubim
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:21379.0
+passage.questions.0.answers.1.text:Potem ko mu je oče rekel, da odhaja k 19-letnemu dekletu
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21378
+passage.questions.0.answers.0.text:Ker njegov oče želi živeti s svojim dekletom, namesto da bi živel z Johnom
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21377
+idx:350

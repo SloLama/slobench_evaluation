@@ -1,0 +1,295 @@
+version:1.1
+passage.text:Kakšen čas je imel Dawson&#39;s Landing! Vse življenje je spal, zdaj pa komaj ni imel priložnosti za prikimavanje, tako da so se veliki dogodki in tresljajoča presenečenja hitro pojavili drug za drugim: v petek zjutraj, prvi pogled na Real Nobility, tudi velik sprejem pri teti Patsy Cooper&#39;s , tudi velik roparski napad; Petkov večer, dramatično brcanje dediča glavnega občana v prisotnosti štiristo ljudi; Sobotno jutro, nastop kot praktični odvetnik že dolgo potopljenega Pudd&#39;nhead Wilsona; Sobotni večer, dvoboj med glavnim občanom in naslovom neznanca. Ljudje so bili na dvoboj bolj ponosni kot na vse ostale dogodke skupaj. V njihovo mesto je bila slava, da se je kaj takega zgodilo tam. V njihovih očeh so ravnatelji dosegli vrh človeške časti. Vsi so se poklonili svojim imenom; njihove pohvale so bile v vseh ustih. Celo podrejeni duelistov so prišli po lep del javnega odobravanja: zato je Pudd&#39;nhead Wilson nenadoma postal človek posledic. Ko so ga v soboto zvečer pozvali, naj se poteguje za župansko mesto, je tvegal poraz, a v nedeljo zjutraj se mu je zdel moški in uspeh zagotovljen.
+passage.questions.9.question:Kateri je bil najslavnejši dogodek na Dawson&#39;s Landing?
+passage.questions.9.idx:540.0
+passage.questions.9.answers.3.text:Volitve župana
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:2846.0
+passage.questions.9.answers.2.text:Dvoboj
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:2845.0
+passage.questions.9.answers.1.text:Razbojniški napad
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2844.0
+passage.questions.9.answers.0.text:Veliki sprejem pri teti Patsy Cooper
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:2843.0
+passage.questions.8.question:Čigava imena in pohvale so bile vsem v ustih?
+passage.questions.8.idx:539.0
+passage.questions.8.answers.5.text:Ravnatelji dvoboja
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:2842.0
+passage.questions.8.answers.4.text:Mestni
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:2841.0
+passage.questions.8.answers.3.text:Imena 400 prisotnih ljudi zaradi dramatičnega brcanja dediča glavnega občana
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:2840.0
+passage.questions.8.answers.2.text:Duelists &#39;
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:2839.0
+passage.questions.8.answers.1.text:Teta Patsy Cooper
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:2838.0
+passage.questions.8.answers.0.text:Glavni državljan in Pudd&#39;nhead Wilson
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:2837.0
+passage.questions.7.question:Koga so vsi hvalili, ker so dosegli čast?
+passage.questions.7.idx:538.0
+passage.questions.7.answers.3.text:Teta Patsy Cooper
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2836.0
+passage.questions.7.answers.2.text:Dvoboji
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2835.0
+passage.questions.7.answers.1.text:Vsi v mestu
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2834.0
+passage.questions.7.answers.0.text:Roparji
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2833.0
+passage.questions.6.question:V čem je Pudd&#39;nhead Wilson zagotovil svoj uspeh?
+passage.questions.6.idx:537.0
+passage.questions.6.answers.4.text:Njegova kandidatura za župansko mesto
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:2832.0
+passage.questions.6.answers.3.text:Dvoboj
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:2831.0
+passage.questions.6.answers.2.text:Veliki sprejem pri teti Patsy Cooper
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2830.0
+passage.questions.6.answers.1.text:Volitve župana
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:2829.0
+passage.questions.6.answers.0.text:Razbojniški napad
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:2828.0
+passage.questions.5.question:Kako se imenuje mesto, v katerem se dogaja dogodek?
+passage.questions.5.idx:536.0
+passage.questions.5.answers.3.text:Ime ni navedeno
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:2827.0
+passage.questions.5.answers.2.text:Pristanek Dawson
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:2826.0
+passage.questions.5.answers.1.text:Cooperjeva
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2825.0
+passage.questions.5.answers.0.text:Pravo plemstvo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2824.0
+passage.questions.4.question:Kako vemo, da je bilo Dawson&#39;s Landing dolgočasno mesto?
+passage.questions.4.idx:535.0
+passage.questions.4.answers.4.text:Pravi, da je vse življenje spal, dokler se niso zgodile vznemirljive stvari
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2823.0
+passage.questions.4.answers.3.text:Teta Patsy Cooper pravi, da je
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:2822.0
+passage.questions.4.answers.2.text:Dedič glavnega občana zavpije o tem, ko ga brca pred štiristo ljudmi
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2821.0
+passage.questions.4.answers.1.text:Ker piše, da je vse življenje spal
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2820.0
+passage.questions.4.answers.0.text:Sploh ni bilo dolgočasno mesto
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2819.0
+passage.questions.3.question:Kako so ravnatelji dosegli vrh človeške časti?
+passage.questions.3.idx:534.0
+passage.questions.3.answers.5.text:Z napadom roparjev
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:2818.0
+passage.questions.3.answers.4.text:Prijatelji
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:2817.0
+passage.questions.3.answers.3.text:Z dvobojem
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:2816.0
+passage.questions.3.answers.2.text:Z volitvami župana
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2815.0
+passage.questions.3.answers.1.text:Tako da ne počne nič drugače kot običajno
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2814.0
+passage.questions.3.answers.0.text:Ljudje so si v čast ogledali dogodek na Dawson&#39;s Landingu
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:2813.0
+passage.questions.2.question:Kako so se ljudje odzvali na ta dogodek?
+passage.questions.2.idx:533.0
+passage.questions.2.answers.5.text:Bili so prestrašeni
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2812.0
+passage.questions.2.answers.4.text:Njihovo mesto je bilo v slavo
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:2811.0
+passage.questions.2.answers.3.text:S svojimi imeni so se poklonili s pohvalo
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2810.0
+passage.questions.2.answers.2.text:Nekateri so ga imeli radi, nekateri pa sovražili
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2809.0
+passage.questions.2.answers.1.text:Bili so jezni, da se je to zgodilo
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:2808.0
+passage.questions.2.answers.0.text:Ponosni so bili na to
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:2807.0
+passage.questions.16.question:Kdo je poleg dvobojevcev še prejel mestne časti?
+passage.questions.16.idx:547.0
+passage.questions.16.answers.5.text:Teta Patsy Cooper
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:2882.0
+passage.questions.16.answers.4.text:Čast so prejeli tudi podrejeni dvobojevalca
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:2881.0
+passage.questions.16.answers.3.text:Roparji
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:2880.0
+passage.questions.16.answers.2.text:Podrejeni dvobojevalcev
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:2879.0
+passage.questions.16.answers.1.text:Predsednik
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:2878.0
+passage.questions.16.answers.0.text:Dedič glavnega državljana
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:2877.0
+passage.questions.15.question:Kaj je glavni državljan sodeloval pri tem, da so podrejeni delili javno potrditev?
+passage.questions.15.idx:546.0
+passage.questions.15.answers.3.text:Dvoboj
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:2876.0
+passage.questions.15.answers.2.text:Dramatično brcanje
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2875.0
+passage.questions.15.answers.1.text:Volitve župana
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:2874.0
+passage.questions.15.answers.0.text:Rop
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:2873.0
+passage.questions.14.question:Koliko časa so se spremenile možnosti Pudd&#39;nhead Wilsona, da je bil izvoljen za župana?
+passage.questions.14.idx:545.0
+passage.questions.14.answers.5.text:Samo v petek zvečer
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:2872.0
+passage.questions.14.answers.4.text:Od sobote zvečer do nedelje zjutraj
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:2871.0
+passage.questions.14.answers.3.text:Od petka do nedelje
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:2870.0
+passage.questions.14.answers.2.text:24 ur
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:2869.0
+passage.questions.14.answers.1.text:Teden
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:2868.0
+passage.questions.14.answers.0.text:Eno noč
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:2867.0
+passage.questions.13.question:Kaj so v soboto prosili Pudd&#39;nhead Wilson?
+passage.questions.13.idx:544.0
+passage.questions.13.answers.5.text:Kandidirajte za župana
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:2866.0
+passage.questions.13.answers.4.text:brcni dediča glavnega občana
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:2865.0
+passage.questions.13.answers.3.text:Udeležite se velikega sprejema
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:2864.0
+passage.questions.13.answers.2.text:Bojna glava
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:2863.0
+passage.questions.13.answers.1.text:Sodelujte v drugem dvoboju
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:2862.0
+passage.questions.13.answers.0.text:Kandidirajte za župansko mesto
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:2861.0
+passage.questions.12.question:Zakaj se je Dawson&#39;s Landing zbudil?
+passage.questions.12.idx:543.0
+passage.questions.12.answers.5.text:Ker so podrejeni dvobojevalcev tekali naokrog in vpili, da bi zbudili vse
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:2860.0
+passage.questions.12.answers.4.text:Veliki dogodki in presenečenja so se dogajali eden za drugim
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:2859.0
+passage.questions.12.answers.3.text:Pravo plemstvo, veliki sprejem, roparsko napad, brcanje, dvoboj
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:2858.0
+passage.questions.12.answers.2.text:Ker se je veliko ljudi preselilo nazaj v mesto
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:2857.0
+passage.questions.12.answers.1.text:Ravnatelj je organiziral dvoboje po vsem mestu
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:2856.0
+passage.questions.12.answers.0.text:Dogodki, ki se končajo z veličastnim dvobojem
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:2855.0
+passage.questions.11.question:V katerem mestu je bil slavnostni sprejem pri teti Patsy Cooper?
+passage.questions.11.idx:542.0
+passage.questions.11.answers.3.text:Pristanek Dawson
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:2854.0
+passage.questions.11.answers.2.text:Nejasno
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2853.0
+passage.questions.11.answers.1.text:Majhno mesto brez imena
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2852.0
+passage.questions.11.answers.0.text:Pudd&#39;nhead
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:2851.0
+passage.questions.10.question:Koga so prosili, da se v soboto zvečer poteguje za župansko mesto?
+passage.questions.10.idx:541.0
+passage.questions.10.answers.3.text:Pudd&#39;nhead Wilson
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:2850.0
+passage.questions.10.answers.2.text:Neznanec z naslovom
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:2849.0
+passage.questions.10.answers.1.text:Teta Patsy Cooper
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2848.0
+passage.questions.10.answers.0.text:Glavni občan
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2847.0
+passage.questions.1.question:Na kateri dan se je zgodil dogodek, ki se ga je večina ljudi ponašala?
+passage.questions.1.idx:532.0
+passage.questions.1.answers.4.text:Nedelja
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2806.0
+passage.questions.1.answers.3.text:Petek
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:2805.0
+passage.questions.1.answers.2.text:Petek zvečer
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2804.0
+passage.questions.1.answers.1.text:Sobota
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:2803.0
+passage.questions.1.answers.0.text:Petek in sobota
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:2802.0
+passage.questions.0.question:Kje se je dogajal dvoboj?
+passage.questions.0.idx:531
+passage.questions.0.answers.4.text:V sosednjem mestu
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:2801.0
+passage.questions.0.answers.3.text:V vseh drugih dogodkih skupaj
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2800.0
+passage.questions.0.answers.2.text:V neimenovanem mestu
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2799.0
+passage.questions.0.answers.1.text:Teta Patsy Cooper
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2798
+passage.questions.0.answers.0.text:Pristanek Dawson
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2797
+idx:46

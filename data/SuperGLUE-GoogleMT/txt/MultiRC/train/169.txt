@@ -1,0 +1,181 @@
+version:1.1
+passage.text:Torej, kaj je gravitacija? Tipična definicija gravitacije je, da gre za silo. Povzroča privlačnost med dvema masama. V skladu s to definicijo ima vse, kar ima maso, silo. Vsak predmet deluje gravitacijsko na druge predmete. Ni pomembno, kako majhen je, ima gravitacijo. Več snovi ima predmet, več teže ima. Vaš svinčnik ima majhen del gravitacije, vendar ga je premalo, da bi ga opazili. Kaj pa planet? Imel bi veliko gravitacijo. Gravitacija predmetov vleče druge predmete. Do trenja pride le med predmeti, ki se dotikajo. Gravitacija lahko deluje med predmeti, ki se ne dotikajo. Dejansko lahko gravitacija deluje na zelo velike razdalje. Kje drugje lahko čutite gravitacijo?
+passage.questions.9.question:Kako predmeti delujejo pod gravitacijo?
+passage.questions.9.idx:1856.0
+passage.questions.9.answers.4.text:trenje povzroča privlačnost med dvema masama
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:9684.0
+passage.questions.9.answers.3.text:prihaja do trenja
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:9683.0
+passage.questions.9.answers.2.text:gravitacija povzroča privlačnost med dvema masama
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:9682.0
+passage.questions.9.answers.1.text:je poteg
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:9681.0
+passage.questions.9.answers.0.text:Vsak predmet izvaja gravitacijo na druge predmete, ne glede na to, kako majhen je, in več snovi ima predmet, večjo gravitacijo ima.
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:9680.0
+passage.questions.8.question:Bi imel planet večjo težnost kot svinčnik?
+passage.questions.8.idx:1855.0
+passage.questions.8.answers.1.text:št
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:9679.0
+passage.questions.8.answers.0.text:ja
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:9678.0
+passage.questions.7.question:Ali je velikost pomembna glede tega, ali ima predmet gravitacijo ali ne?
+passage.questions.7.idx:1854.0
+passage.questions.7.answers.1.text:ja
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:9677.0
+passage.questions.7.answers.0.text:št
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:9676.0
+passage.questions.6.question:Kako se gravitacija in trenje razlikujeta?
+passage.questions.6.idx:1853.0
+passage.questions.6.answers.2.text:trenja se pojavljajo povsod
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:9675.0
+passage.questions.6.answers.1.text:Do trenja pride le med predmeti, ki se ne dotikajo; Gravitacija lahko deluje med predmeti, ki se dotikajo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:9674.0
+passage.questions.6.answers.0.text:Do trenja pride le med predmeti, ki se dotikajo. Gravitacija lahko deluje med predmeti, ki se ne dotikajo.
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:9673.0
+passage.questions.5.question:Kaj bi preprečilo, da bi gravitacija vplivala na dva predmeta?
+passage.questions.5.idx:1852.0
+passage.questions.5.answers.2.text:Če se dva predmeta dotikata, gravitacija ne more delovati med njima.
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:9672.0
+passage.questions.5.answers.1.text:Če sta dva predmeta predaleč, gravitacija ne more delovati med njima.
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:9671.0
+passage.questions.5.answers.0.text:razdalja
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:9670.0
+passage.questions.4.question:Ali vsi predmeti delujejo gravitacijsko?
+passage.questions.4.idx:1851.0
+passage.questions.4.answers.3.text:Da, dokler je dovolj blizu.
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:9669.0
+passage.questions.4.answers.2.text:Da, dokler je magnetno.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:9668.0
+passage.questions.4.answers.1.text:Da, dokler je dovolj velik.
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:9667.0
+passage.questions.4.answers.0.text:Da, vsa telesa delujejo gravitacijsko, ne glede na velikost in maso.
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:9666.0
+passage.questions.3.question:Kateri dejavniki vplivajo na gravitacijo?
+passage.questions.3.idx:1850.0
+passage.questions.3.answers.4.text:Ali je predmet kovinski ali ne.
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:9665.0
+passage.questions.3.answers.3.text:razdalja
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:9664.0
+passage.questions.3.answers.2.text:Trenje med dvema telesoma.
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:9663.0
+passage.questions.3.answers.1.text:več snovi ima, več gravitacije ima
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:9662.0
+passage.questions.3.answers.0.text:maso
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:9661.0
+passage.questions.2.question:Kako masa vpliva na silo, ki deluje?
+passage.questions.2.idx:1849.0
+passage.questions.2.answers.2.text:Več snovi ima predmet, manj teže ima
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:9660.0
+passage.questions.2.answers.1.text:Večja kot je masa telesa, večja je sila, ki deluje
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:9659.0
+passage.questions.2.answers.0.text:Ni pomembno, kako majhen je, ima gravitacijo.
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:9658.0
+passage.questions.13.question:Kaj povzroči gravitacija predmetov?
+passage.questions.13.idx:1860.0
+passage.questions.13.answers.4.text:nič
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:9699.0
+passage.questions.13.answers.3.text:trenje
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:9698.0
+passage.questions.13.answers.2.text:atrakcija
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:9697.0
+passage.questions.13.answers.1.text:izvajati in privlačiti ter vleči druge predmete
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:9696.0
+passage.questions.13.answers.0.text:potisnite in povlecite
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:9695.0
+passage.questions.12.question:Ali ima zemlja gravitacijo?
+passage.questions.12.idx:1859.0
+passage.questions.12.answers.2.text:št
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:9694.0
+passage.questions.12.answers.1.text:ja
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:9693.0
+passage.questions.12.answers.0.text:Zemlja ima veliko gravitacijo, več snovi ima predmet, več gravitacije ima
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:9692.0
+passage.questions.11.question:Ali je velikost pomembna pri gravitaciji?
+passage.questions.11.idx:1858.0
+passage.questions.11.answers.3.text:ja
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:9691.0
+passage.questions.11.answers.2.text:Do trenja pride le med predmeti, ki se ne dotikajo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:9690.0
+passage.questions.11.answers.1.text:št
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:9689.0
+passage.questions.11.answers.0.text:vsak predmet ima gravitacijo, ne glede na to, kako majhen je
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:9688.0
+passage.questions.10.question:V čem se trenje razlikuje od gravitacije?
+passage.questions.10.idx:1857.0
+passage.questions.10.answers.2.text:trenja se pojavljajo povsod
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:9687.0
+passage.questions.10.answers.1.text:Trenje se pojavi le med predmeti, ki se dotikajo, gravitacija pa lahko deluje med predmeti, ki se ne dotikajo.
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:9686.0
+passage.questions.10.answers.0.text:trenja se pojavijo le, če se dotaknejo
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:9685.0
+passage.questions.1.question:Na kaj kaže standardna definicija gravitacije?
+passage.questions.1.idx:1848.0
+passage.questions.1.answers.2.text:Manj snovi ima predmet, več teže ima
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:9657.0
+passage.questions.1.answers.1.text:karkoli brez mase izvaja silo
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:9656.0
+passage.questions.1.answers.0.text:Vse, kar ima maso, deluje silo gravitacije in jo lahko izvaja na druge predmete
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:9655.0
+passage.questions.0.question:Kaj je gravitacija?
+passage.questions.0.idx:1847
+passage.questions.0.answers.4.text:trol
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:9654.0
+passage.questions.0.answers.3.text:razdalja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:9653.0
+passage.questions.0.answers.2.text:sila
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:9652.0
+passage.questions.0.answers.1.text:Sila odbijanja med dvema masama
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:9651
+passage.questions.0.answers.0.text:Sila privlačnosti med dvema masama
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:9650
+idx:169

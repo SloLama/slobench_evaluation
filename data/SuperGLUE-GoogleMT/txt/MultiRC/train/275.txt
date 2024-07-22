@@ -1,0 +1,270 @@
+version:1.1
+passage.text:(CNN) - Shain Gandee, eno od zvezd MTV-jevega resničnostnega šova &quot;Buckwild&quot;, so našli mrtvega skupaj z dvema osebama v okrožju Kanawha v Zahodni Virginiji, so v ponedeljek sporočile oblasti. &quot;To je zelo žalosten in tragičen dogodek,&quot; je dejal komisar okrožja Kanawha Kent Carper. &quot;Živimo v zelo majhni skupnosti. Naše misli in molitve so v družini Gandee.&quot; 21-letnega Gandeeja so našli mrtvega v vozilu skupaj s stricem Davidom Dwightom Gandeejem (48) in Donaldom Robertom Myersom (27), so sporočile oblasti. Producent filma &quot;Buckwild&quot; govori o oddaji. &quot;Danes po objavi informacij o pogrešanju Shaina Gandeeja je šerif okrožja Kanawha prejel obvestilo o vozilu invalida v gozdnatem predelu blizu kraja Thaxton Hollow, Sissonville, okrožje Kanawha, WV,&quot; je dejal šerifovo pisarno. &quot;Poslanci in člani prostovoljne gasilske enote Sissonville so za dostop do tega vozila uporabili vsa terenska vozila, Ford Bronco iz leta 1984, ki je pripadal družini Gandee. Vozilo je bilo na blatnem območju ob obrabljeni poti. V notranjosti so bila telesa treh ljudi.&quot; V poznejši izdaji je šerif dejal, da je bilo vozilo delno potopljeno v blato. Bilo je neenakomerno, a pokončno; njegov dušilec je bil pod gladino. Blato je prekrivalo spodnji del Broncovih sovoznikovih vrat, voznikova stran, kjer je sedel mlajši Gandee, pa je bila prosta, so sporočili iz šerifove pisarne. Gandee je bil vesel življenja pred smrtjo. Bil je eden od devetih članov zasedbe &quot;Buckwild&quot;. Oddaja spremlja skupino mladih odraslih, ki se poskušajo zabavati v Sissonvilleu v Zahodni Virginiji in vlečejo kaskade, kot je spreminjanje smetišča v bazen ali preprosto jahanje po gozdu na svojih terenskih vozilih. Gandeeju so zaračunali kot nekdanjega kralja maturantskega plesa, ki je opravil &quot;vse naloge, od rudarjenja premoga do tega, da je bil smetar&quot;.
+passage.questions.9.question:Koliko dni je pogrešal Shain Gandee pred svojo smrtjo?
+passage.questions.9.idx:3121.0
+passage.questions.9.answers.4.text:Manj kot 1 dan
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:16477.0
+passage.questions.9.answers.3.text:Več kot mesec dni
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:16476.0
+passage.questions.9.answers.2.text:Zgodilo se je isti dan
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:16475.0
+passage.questions.9.answers.1.text:Teden
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:16474.0
+passage.questions.9.answers.0.text:Trije dnevi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:16473.0
+passage.questions.8.question:Je okrožje Kanawha velika ali majhna skupnost?
+passage.questions.8.idx:3120.0
+passage.questions.8.answers.3.text:Zelo velik
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:16472.0
+passage.questions.8.answers.2.text:Velik
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:16471.0
+passage.questions.8.answers.1.text:Zelo majhen
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:16470.0
+passage.questions.8.answers.0.text:Vmes
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:16469.0
+passage.questions.7.question:Je bil sklad vozil v blatu?
+passage.questions.7.idx:3119.0
+passage.questions.7.answers.5.text:Da, voznikova stran je bila pod blato
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:16468.0
+passage.questions.7.answers.4.text:Delno je bil potopljen v blato
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:16467.0
+passage.questions.7.answers.3.text:Ne, popolnoma brez blata
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:16466.0
+passage.questions.7.answers.2.text:Da
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:16465.0
+passage.questions.7.answers.1.text:Da, vozilo je bilo delno potopljeno v blato
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:16464.0
+passage.questions.7.answers.0.text:Plenilec
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:16463.0
+passage.questions.6.question:Na katerem območju je bilo najdeno vozilo, v katerem je umrl Shain Gandee?
+passage.questions.6.idx:3118.0
+passage.questions.6.answers.4.text:V okrožju Kanawha, vendar zunaj Sissonvillea
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:16462.0
+passage.questions.6.answers.3.text:Ugotovljeno vozilo je bilo v blatnem območju
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:16461.0
+passage.questions.6.answers.2.text:Na gozdnatem območju zunaj okrožja Kanawha
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:16460.0
+passage.questions.6.answers.1.text:V bližini Thaxton Hollow, Sissonville
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:16459.0
+passage.questions.6.answers.0.text:V središču Sissonvillea
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:16458.0
+passage.questions.5.question:Kje so našli mrtvega Shain Gandeeja?
+passage.questions.5.idx:3117.0
+passage.questions.5.answers.4.text:V njegovem domu
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:16457.0
+passage.questions.5.answers.3.text:Zraven vozila v gozdnatem predelu v Sissonvilleu
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:16456.0
+passage.questions.5.answers.2.text:V vozilu v eni od ulic Sissonvillea
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:16455.0
+passage.questions.5.answers.1.text:Shain Gandee so našli mrtvega v avtomobilu v okrožju Kanawha v Zahodni Virginiji
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:16454.0
+passage.questions.5.answers.0.text:V vozilu na gozdnatem območju v Sissonvilleu
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:16453.0
+passage.questions.4.question:Ali je Kent Carper rekel &quot;Naše misli in molitve so v družini Gandee.&quot;?
+passage.questions.4.idx:3116.0
+passage.questions.4.answers.5.text:Vlada
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:16452.0
+passage.questions.4.answers.4.text:Ne, ni maral niti Gandeeja niti njegove družine
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:16451.0
+passage.questions.4.answers.3.text:Da, v izjavi za CNN
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:16450.0
+passage.questions.4.answers.2.text:Da
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:16449.0
+passage.questions.4.answers.1.text:Ne, Kent Carper ni govoril na to temo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:16448.0
+passage.questions.4.answers.0.text:Ne, šerif je bil
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:16447.0
+passage.questions.3.question:V čem je bilo vozilo Shain Gandeeja delno potopljeno, ko so ga oblasti našle?
+passage.questions.3.idx:3115.0
+passage.questions.3.answers.3.text:Blato
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:16446.0
+passage.questions.3.answers.2.text:Živi pesek
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:16445.0
+passage.questions.3.answers.1.text:Voda
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:16444.0
+passage.questions.3.answers.0.text:Pesek
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:16443.0
+passage.questions.2.question:Kdo je sodeloval v preiskavi Gandejeve smrti?
+passage.questions.2.idx:3114.0
+passage.questions.2.answers.4.text:Šerif okrožja Kanawha, prostovoljna gasilska enota Sissonville
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:16442.0
+passage.questions.2.answers.3.text:Osem članov ekipe iz Buckwilda
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:16441.0
+passage.questions.2.answers.2.text:Komesar okrožja Kanawha Kent Carper, šerifova pisarna in prostovoljna gasilska enota
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:16440.0
+passage.questions.2.answers.1.text:Proizvajalci Buckwild in šerif
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:16439.0
+passage.questions.2.answers.0.text:Njegov stric David Dwight Gandee in Donald Robert Myers
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:16438.0
+passage.questions.14.question:Zakaj je bil Ford Bronco leta 1984 družine Gandee delno potopljen v blato?
+passage.questions.14.idx:3126.0
+passage.questions.14.answers.5.text:Ramzi Binalshibh
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:16505.0
+passage.questions.14.answers.4.text:Nejasno je
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:16504.0
+passage.questions.14.answers.3.text:Voznik se je namerno zataknil
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:16503.0
+passage.questions.14.answers.2.text:Bilo je na blatnem območju ob obrabljeni poti
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:16502.0
+passage.questions.14.answers.1.text:Morilci so to storili namerno
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:16501.0
+passage.questions.14.answers.0.text:Vozilo ni bilo blizu blata
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:16500.0
+passage.questions.13.question:Je bil dušilec forda Bronco najverjetneje omenjen na voznikovi ali sovoznikovi strani?
+passage.questions.13.idx:3125.0
+passage.questions.13.answers.5.text:Barnett
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:16499.0
+passage.questions.13.answers.4.text:Potnikova stran, saj je bil dušilec pod površino, in blato je prekrivalo spodnji del Broncovih sopotniških vrat
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:16498.0
+passage.questions.13.answers.3.text:Ni navedeno, na kateri strani avtomobila je bil dušilec zvoka
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:16497.0
+passage.questions.13.answers.2.text:Obe strani avtomobila sta bili pod površjem
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:16496.0
+passage.questions.13.answers.1.text:Voznikova stran avtomobila
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:16495.0
+passage.questions.13.answers.0.text:Potniška stran avtomobila
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:16494.0
+passage.questions.12.question:Je bil Shain Gandee sam, ko so ga našli mrtvega?
+passage.questions.12.idx:3124.0
+passage.questions.12.answers.4.text:Ne, našli so ga še dve osebi
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:16493.0
+passage.questions.12.answers.3.text:Da
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:16492.0
+passage.questions.12.answers.2.text:Shain Gandee je bil najden mrtev skupaj z dvema osebama: njegovim stricem Davidom Dwightom Gandeejem in Donaldom Robertom Myersom
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:16491.0
+passage.questions.12.answers.1.text:Ne, našli so ga s stricem in še dvema osebama
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:16490.0
+passage.questions.12.answers.0.text:Ne, našli so ga še dva igralca
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:16489.0
+passage.questions.11.question:Kaj je bila tema televizijske oddaje Buckwild?
+passage.questions.11.idx:3123.0
+passage.questions.11.answers.5.text:Zabava v Sissonvilleu v Zahodni Virginiji
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:16488.0
+passage.questions.11.answers.4.text:Devet mladih ljudi živi v eni hiši mesece
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:16487.0
+passage.questions.11.answers.3.text:Devet mladih išče novo
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:16486.0
+passage.questions.11.answers.2.text:Devet mladih poskuša rešiti umor enega od svojih prijateljev
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:16485.0
+passage.questions.11.answers.1.text:Različni načini zabave
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:16484.0
+passage.questions.11.answers.0.text:Devet mladih, ki poskušajo postati resni odrasli v velikem mestu
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:16483.0
+passage.questions.10.question:Kateri žalosten in tragičen dogodek se je zgodil v okrožju Kanawha?
+passage.questions.10.idx:3122.0
+passage.questions.10.answers.4.text:Znana zvezda resničnostnega šova je bila umorjena
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:16482.0
+passage.questions.10.answers.3.text:Shain Gandee in še dva sta bila najdena mrtva
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:16481.0
+passage.questions.10.answers.2.text:Najdeno je vozilo, v katerem so trije možje
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:16480.0
+passage.questions.10.answers.1.text:Umorjena je bila tričlanska družina
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:16479.0
+passage.questions.10.answers.0.text:Gandee, njegov stric in njegov bratranec so našli mrtve
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:16478.0
+passage.questions.1.question:Kaj je predpostavka oddaje &quot;Buckwild&quot;?
+passage.questions.1.idx:3113.0
+passage.questions.1.answers.4.text:Devet mladih odraslih najde načine za zabavo v Sissonvilleu v Zahodni Virginiji
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:16437.0
+passage.questions.1.answers.3.text:Resničnostni šov, ki spremlja skupino mladih odraslih, ki se zabavajo v Sissonvilleu v Zahodni Virginiji
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:16436.0
+passage.questions.1.answers.2.text:Kriminalistična oddaja o policistu, ki skuša rešiti umor devetih mladih v Sissonvilleu
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16435.0
+passage.questions.1.answers.1.text:Dokumentarni film o vozilu, v katerem so našli tri trupla
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:16434.0
+passage.questions.1.answers.0.text:Zabavna predstava, katere tri zvezde so našli mrtve v vozilu
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:16433.0
+passage.questions.0.question:Kdo je bil Shain Gandee?
+passage.questions.0.idx:3112
+passage.questions.0.answers.5.text:Ena od zvezd Buckwilda
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:16432.0
+passage.questions.0.answers.4.text:Proizvajalec Buckwild
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:16431.0
+passage.questions.0.answers.3.text:Potnik v najdenem vozilu
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:16430.0
+passage.questions.0.answers.2.text:Shain Gandee je bil ena od zvezd resničnostnega šova &quot;Buckwild&quot;
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:16429.0
+passage.questions.0.answers.1.text:Stric ene od zvezd Buckwilda
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:16428
+passage.questions.0.answers.0.text:Peklenski ogenj
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:16427
+idx:275

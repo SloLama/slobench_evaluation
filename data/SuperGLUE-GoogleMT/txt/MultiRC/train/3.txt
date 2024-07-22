@@ -1,0 +1,126 @@
+version:1.1
+passage.text:Talibani in ameriška pomoč. Po napadih 11. septembra so morali konservativci nekako razložiti dejstvo, da je ameriška vlada novim zločincem du jour dala 245 milijonov dolarjev. Ne glede na to, da so avtorji, kot je Robert Scheer, že maja 2001. opozorili na pomoč talibanom. Ne glede na to, da tega niso storili zaradi neke humanitarne motivacije, temveč zaradi nasilnega izvrševanja prepovedi opijevega maka. Ne glede na to, da v režimu, ki ga nadzorujejo vojskovodje, ni pomembno, kdo je pooblaščen za razdeljevanje pomoči - vladajoči regionalni vojskovodje bodo prevzeli nadzor nad njo in jo uporabili v svojo korist. Ne glede na to, da so prav ta argument uporabili jastrebi v nasprotju s pošiljanjem humanitarne pomoči iraškemu Sadamu Husseinu. Ne glede na to, da so talibani kljub dogovoru še naprej prodajali opij. Ne glede na to, da je vse to o filmu dokumentirano na spletni strani Michaela Moorea. Umorstva orožja. Statistika je Moorejeva najšibkejša točka in presenetljivo je, da se njegovi kritiki na njih ne zadržujejo dlje. To pa zato, ker dobro vedo, da ima Moore prav: ZDA imajo veliko več umorov (tako s pištolo kot z orožjem) kot v večini drugih držav prvega sveta. Njegova glavna napaka je, da ne uporablja podatkov, popravljenih s populacijo, njegova druga napaka pa je, da ne navaja svojih virov (in, kot pravilno poudarjate, verjetno uporablja različne metode poročanja za različne države). Dobra primerjava mednarodnih stopenj umorov je na voljo na relativno nevtralni spletni strani guncite.com.
+passage.questions.5.question:Kdo so &quot;zločinci&quot;, ki so od vlade ZDA prejeli 245 milijonov dolarjev?
+passage.questions.5.idx:39.0
+passage.questions.5.answers.4.text:Države
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:245.0
+passage.questions.5.answers.3.text:Michael Moore
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:244.0
+passage.questions.5.answers.2.text:Iračan Sadam Husein
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:243.0
+passage.questions.5.answers.1.text:Talibani
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:242.0
+passage.questions.5.answers.0.text:Iran
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:241.0
+passage.questions.4.question:Koliko denarja je ameriška vlada namenila novim zločincem?
+passage.questions.4.idx:38.0
+passage.questions.4.answers.5.text:11 milijonov dolarjev
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:240.0
+passage.questions.4.answers.4.text:500 milijonov dolarjev
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:239.0
+passage.questions.4.answers.3.text:240 milijonov
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:238.0
+passage.questions.4.answers.2.text:245 milijonov dolarjev
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:237.0
+passage.questions.4.answers.1.text:Ameriška vlada je novim zločincem du jour namenila 2001 milijonov dolarjev
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:236.0
+passage.questions.4.answers.0.text:300 milijonov dolarjev
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:235.0
+passage.questions.3.question:Kdo je kljub dogovoru nadaljeval prodajo opija?
+passage.questions.3.idx:37.0
+passage.questions.3.answers.5.text:Sadam Husein
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:234.0
+passage.questions.3.answers.4.text:ameriški
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:233.0
+passage.questions.3.answers.3.text:Talibani
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:232.0
+passage.questions.3.answers.2.text:Iraška vlada je nadaljevala s prodajo opija
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:231.0
+passage.questions.3.answers.1.text:Robert Scheer
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:230.0
+passage.questions.3.answers.0.text:Vojskovodje
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:229.0
+passage.questions.2.question:Kateri avtor je opozoril na pomoč talibanom?
+passage.questions.2.idx:36.0
+passage.questions.2.answers.4.text:Sadam Husein
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:228.0
+passage.questions.2.answers.3.text:George W. Bush
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:227.0
+passage.questions.2.answers.2.text:Robert Scheer in Michael Moore
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:226.0
+passage.questions.2.answers.1.text:Michael Moore
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:225.0
+passage.questions.2.answers.0.text:Robert Scheer
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:224.0
+passage.questions.1.question:Za katero temo Michael Moore ne navaja svojih virov?
+passage.questions.1.idx:35.0
+passage.questions.1.answers.6.text:Primerjave revščine
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:223.0
+passage.questions.1.answers.5.text:Film o njegovi spletni strani
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:222.0
+passage.questions.1.answers.4.text:Opij
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:221.0
+passage.questions.1.answers.3.text:Nasilni zločin
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:220.0
+passage.questions.1.answers.2.text:Primerjave humanitarne pomoči
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:219.0
+passage.questions.1.answers.1.text:Stopnja umorov v ZDA (tako z orožjem kot z orožjem)
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:218.0
+passage.questions.1.answers.0.text:Umorstva orožja
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:217.0
+passage.questions.0.question:Za kaj je bilo namenjenih 245 milijonov dolarjev pomoči talibanom?
+passage.questions.0.idx:34
+passage.questions.0.answers.7.text:Humanitarna pomoč
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:216.0
+passage.questions.0.answers.6.text:Izobraževanje
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:215.0
+passage.questions.0.answers.5.text:Spopadanje s talibanskimi nasilnimi dejanji.
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:214.0
+passage.questions.0.answers.4.text:Stabilizacija vlade
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:213.0
+passage.questions.0.answers.3.text:Zmanjšanje umorov orožja
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:212.0
+passage.questions.0.answers.2.text:245 milijonov dolarjev je bilo namenjenih za pošiljanje humanitarne pomoči
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:211.0
+passage.questions.0.answers.1.text:Dogovor
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:210
+passage.questions.0.answers.0.text:Namenjen je bil ustavitvi nasilnega izvrševanja prepovedi opijevega maka s strani Talibanov
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:209
+idx:3

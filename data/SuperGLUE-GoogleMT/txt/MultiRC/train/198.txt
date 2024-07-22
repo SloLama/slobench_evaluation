@@ -1,0 +1,266 @@
+version:1.1
+passage.text:LONDON, Anglija (CNN) - Najbolj pričakovani animirani film letos prihaja na velika platna ta konec tedna, ko se po vsem svetu odpira &quot;The Simpsons Movie&quot;. Projekcijska soba se je z ustvarjalcem Mattom Groeningom in pisateljem Al Jeanom v Londonu pogovarjala o vseh najljubših dvodimenzionalnih rumenih družinah. Matt Groening, Simpsonsov supremo, je s svojimi kreacijami na premieri filma v Springfieldu povedal, da je Matt Groening za Screening Room povedal, da so povpraševanje po filmu spodbudili oboževalci. &quot;V zadnjih 18 letih imamo oboževalce, ki si prizadevajo za film,&quot; je dejal. Kot je pojasnil pisatelj Al Jean, je film zaživel štiri leta. &quot;Zares nas je dolgo zadržalo, da je bilo dovolj ljudi, ki so sodelovali v oddaji in filmu,&quot; je dejal. &quot;Nekaj časa smo se pogovarjali o snemanju filma po končani oddaji, vendar predstava nikoli ni končana! Tako se je resnično začelo leta 2003, ko smo začeli delati na tej zgodbi, ki je postala film.&quot; Tudi tehnologija je odigrala svojo vlogo. Jean je nadaljeval: &quot;Tehnologija snemanja tega filma v resnici še ni bila niti približno pet let nazaj. Na primer, nekoč se je zgodila ta šala. David Silverman, režiser, je začel risati in ko sem jo postavljal, je šla v film je bil rezan dan kasneje. Prehod iz smole na rez v dveh dneh je precej impresiven. &quot; Njegovi ustvarjalci upajo, da bo &quot;The Simpsons Movie&quot; zadovoljil dolgoletne oboževalce in družino Homerja in Marge pripeljal k novemu občinstvu. Groening je v Projekcijski sobi povedal: &quot;Ta film je zasnovan tako, da časti ljudi, ki jim je bila oddaja všeč ves ta čas, zato je v njih veliko majhnih podrobnosti, majhni liki in stvari, ki jih poznajo in imajo radi, toda tudi mi želimo, da se ljudje, ki ne poznajo družine, ne bi povsem zmedli. To je popolna filmska izkušnja, a spet imamo veliko majhnih podrobnosti, ki jih bodo dobili le resnični, resnično trdi oboževalci. &quot; Ljubitelji lahko pričakujejo, da jih bo zabavalo veliko napak z risbami. Groening je dejal: &quot;Ko vidiš, da nekdo v živo-akcijskem filmu pade s strehe, je smešno - vsem je všeč. Ni pa tako smešno kot takrat, ko Homer pade s strehe.
+passage.questions.9.question:Koliko časa je trajalo, da je film &quot;Simpsonov film&quot; zaživel?
+passage.questions.9.idx:2226.0
+passage.questions.9.answers.5.text:Pet let
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:11625.0
+passage.questions.9.answers.4.text:Dva dni
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:11624.0
+passage.questions.9.answers.3.text:Štiri leta
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:11623.0
+passage.questions.9.answers.2.text:4 leta
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:11622.0
+passage.questions.9.answers.1.text:Dve leti
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:11621.0
+passage.questions.9.answers.0.text:5 let
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:11620.0
+passage.questions.8.question:V katerem letu je zaživel film &quot;The Simpsons&quot;?
+passage.questions.8.idx:2225.0
+passage.questions.8.answers.3.text:2003
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:11619.0
+passage.questions.8.answers.2.text:2009
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:11618.0
+passage.questions.8.answers.1.text:2007
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:11617.0
+passage.questions.8.answers.0.text:18 let
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:11616.0
+passage.questions.7.question:Kako je bilo ime intervjuvanem subjektu, ki je govoril z ustvarjalcem filma?
+passage.questions.7.idx:2224.0
+passage.questions.7.answers.5.text:Al Jean
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:11615.0
+passage.questions.7.answers.4.text:Zaslonska soba
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:11614.0
+passage.questions.7.answers.3.text:Projekcijska soba
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:11613.0
+passage.questions.7.answers.2.text:dvodimenzionalna rumena družina
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:11612.0
+passage.questions.7.answers.1.text:Zelena soba
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:11611.0
+passage.questions.7.answers.0.text:Matt Groening
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:11610.0
+passage.questions.6.question:Kateri vir je pomagal, da sta Jean in David Silverman lahko v dveh dneh prešla s terena na rez?
+passage.questions.6.idx:2223.0
+passage.questions.6.answers.5.text:razmetavanje
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:11609.0
+passage.questions.6.answers.4.text:Igralci
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:11608.0
+passage.questions.6.answers.3.text:Šala
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:11607.0
+passage.questions.6.answers.2.text:Nova tehnologija
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:11606.0
+passage.questions.6.answers.1.text:dan kasneje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:11605.0
+passage.questions.6.answers.0.text:precej impresivno
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:11604.0
+passage.questions.5.question:Zakaj je bil Jean navdušen nad časom, ki ga je potreboval za rezanje šale?
+passage.questions.5.idx:2222.0
+passage.questions.5.answers.5.text:Ker je trajalo le dva dni
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:11603.0
+passage.questions.5.answers.4.text:Dvodnevni zaključek
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:11602.0
+passage.questions.5.answers.3.text:Odrezali so ga v manj kot enem dnevu
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:11601.0
+passage.questions.5.answers.2.text:En teden zaključek
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:11600.0
+passage.questions.5.answers.1.text:Rezanje je bilo veliko počasneje kot običajno
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:11599.0
+passage.questions.5.answers.0.text:V dveh dneh je šlo od smole do reza
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:11598.0
+passage.questions.4.question:Kakšne barve je Homerjeva in Margeina družina?
+passage.questions.4.idx:2221.0
+passage.questions.4.answers.1.text:Modra
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11597.0
+passage.questions.4.answers.0.text:Rumena
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:11596.0
+passage.questions.3.question:Kako je bilo ime ustvarjalca (-ev) filma &quot;The Simpsons Movie&quot;?
+passage.questions.3.idx:2220.0
+passage.questions.3.answers.3.text:Al Jean
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:11595.0
+passage.questions.3.answers.2.text:David Silverman
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:11594.0
+passage.questions.3.answers.1.text:Jerry Springer
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:11593.0
+passage.questions.3.answers.0.text:Matt Groening
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:11592.0
+passage.questions.2.question:Kje je bila premiera &quot;Simpsonovega filma&quot;?
+passage.questions.2.idx:2219.0
+passage.questions.2.answers.5.text:LONDON, Anglija
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:11591.0
+passage.questions.2.answers.4.text:London
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11590.0
+passage.questions.2.answers.3.text:projekcijsko sobo
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:11589.0
+passage.questions.2.answers.2.text:Kalifornija
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11588.0
+passage.questions.2.answers.1.text:Springfield, Vermont
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:11587.0
+passage.questions.2.answers.0.text:resno leta 2003
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:11586.0
+passage.questions.15.question:Kdo se je šalil z Davidom Silvermanom?
+passage.questions.15.idx:2232.0
+passage.questions.15.answers.2.text:Al Jean
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:11654.0
+passage.questions.15.answers.1.text:Matt Lowery
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:11653.0
+passage.questions.15.answers.0.text:Matt Groening
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:11652.0
+passage.questions.14.question:Kaj je ena od nezgod risanke?
+passage.questions.14.idx:2231.0
+passage.questions.14.answers.4.text:Odpadanje iz sobe
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:11651.0
+passage.questions.14.answers.3.text:Homer pade s strehe
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:11650.0
+passage.questions.14.answers.2.text:Padanje s pečine
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:11649.0
+passage.questions.14.answers.1.text:Padec s strehe
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:11648.0
+passage.questions.14.answers.0.text:Petje
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:11647.0
+passage.questions.13.question:Kako se imenuje najbolj pričakovani animirani film, ki sta ga ustvarila Matt Groening in pisatelj Al Jean?
+passage.questions.13.idx:2230.0
+passage.questions.13.answers.6.text:Film Simpsonov
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:11646.0
+passage.questions.13.answers.5.text:Homerjeva in Margeina družina
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:11645.0
+passage.questions.13.answers.4.text:Simpsons: Film
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:11644.0
+passage.questions.13.answers.3.text:Projekcijska soba
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:11643.0
+passage.questions.13.answers.2.text:Svet igrač
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:11642.0
+passage.questions.13.answers.1.text:risane nezgode
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:11641.0
+passage.questions.13.answers.0.text:Springfield, Vermont
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:11640.0
+passage.questions.12.question:Kdo je citiran rekel: &quot;V zadnjih 18 letih smo oboževalci zahtevali film.&quot;?
+passage.questions.12.idx:2229.0
+passage.questions.12.answers.2.text:Oprah
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:11639.0
+passage.questions.12.answers.1.text:Al Jean
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:11638.0
+passage.questions.12.answers.0.text:Matt Groening
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:11637.0
+passage.questions.11.question:Koliko let je bil film zamujen, ker je bilo treba imeti dovolj ljudi za film in predstavo?
+passage.questions.11.idx:2228.0
+passage.questions.11.answers.6.text:Štiri
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:11636.0
+passage.questions.11.answers.5.text:Štiri leta
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:11635.0
+passage.questions.11.answers.4.text:18.
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:11634.0
+passage.questions.11.answers.3.text:5.
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:11633.0
+passage.questions.11.answers.2.text:4.
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:11632.0
+passage.questions.11.answers.1.text:19.
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:11631.0
+passage.questions.11.answers.0.text:Pet
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:11630.0
+passage.questions.10.question:Kdo je ustvarjalec in pisec najbolj nestrpno pričakovanega letošnjega animiranega filma?
+passage.questions.10.idx:2227.0
+passage.questions.10.answers.3.text:Al Jean
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:11629.0
+passage.questions.10.answers.2.text:Sean Carter
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:11628.0
+passage.questions.10.answers.1.text:Beyonce
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:11627.0
+passage.questions.10.answers.0.text:Matt Groening
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:11626.0
+passage.questions.1.question:Ali je ustvarjalec filma rekel: &quot;Kaj nas je res dolgo držalo, da imamo dovolj ljudi, ki so sodelovali v oddaji in filmu?&quot;
+passage.questions.1.idx:2218.0
+passage.questions.1.answers.2.text:Mogoče
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11585.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11584.0
+passage.questions.1.answers.0.text:Ne (rekel je pisatelj.)
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:11583.0
+passage.questions.0.question:Kako se je imenoval pisatelj filma &quot;The Simpsons Movie&quot;?
+passage.questions.0.idx:2217
+passage.questions.0.answers.4.text:Homer
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:11582.0
+passage.questions.0.answers.3.text:Al Jean
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:11581.0
+passage.questions.0.answers.2.text:David Silverman
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11580.0
+passage.questions.0.answers.1.text:projekcijsko sobo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11579
+passage.questions.0.answers.0.text:Matt Groening
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:11578
+idx:198

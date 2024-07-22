@@ -1,0 +1,188 @@
+version:1.1
+passage.text:Na gravitacijsko potencialno energijo vpliva položaj. Tako kot listi na drevesih lahko tudi vse, kar je dvignjeno, lahko pade. Ima potencialno energijo. Primere ljudi z gravitacijsko potencialno energijo lahko vidite na spodnji sliki 1.5. Gravitacijska potencialna energija je odvisna od dveh stvari. Odvisno od njegove teže, ker lahko velika padajoča skala povzroči več škode kot list, ki pade z drevesa. Odvisna je tudi od njegove višine nad tlemi. Tako kot rolkar, višja je rampa, hitreje bo šel, ko bo prišel do dna. Kot vsa energija ima tudi gravitacijska potencialna energija zmožnost dela. V tem primeru lahko teža prinese silo. Za nas je bolj pomembno, da lahko povzroči spremembe. Kakšno spremembo lahko zahtevate? Gravitacijska potencialna energija lahko povzroči gibanje.
+passage.questions.9.question:Kateri dve stvari vplivata na silo padca?
+passage.questions.9.idx:1058.0
+passage.questions.9.answers.4.text:Višina in teža predmeta, ki pada
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:5480.0
+passage.questions.9.answers.3.text:Obseg in gradivo
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:5479.0
+passage.questions.9.answers.2.text:Dvignjen lahko pade
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:5478.0
+passage.questions.9.answers.1.text:Teža in višina nad tlemi
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:5477.0
+passage.questions.9.answers.0.text:Kinetična energija
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5476.0
+passage.questions.8.question:Kakšen vpliv ima gravitacijska potencialna energija na liste?
+passage.questions.8.idx:1057.0
+passage.questions.8.answers.3.text:Spreminjajo barvo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:5475.0
+passage.questions.8.answers.2.text:Lahko pade
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:5474.0
+passage.questions.8.answers.1.text:Gravitacijska potencialna energija
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:5473.0
+passage.questions.8.answers.0.text:Omogoča premikanje
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:5472.0
+passage.questions.7.question:Navedite primer gravitacijske potencialne energije
+passage.questions.7.idx:1056.0
+passage.questions.7.answers.2.text:Listi lahko padajo z drevesa, rolkar pa z rampe
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:5471.0
+passage.questions.7.answers.1.text:Listi na drevesih, ki letijo v vetru
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:5470.0
+passage.questions.7.answers.0.text:Gorski
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:5469.0
+passage.questions.6.question:Od česa sta odvisni gravitacijska potencialna energija?
+passage.questions.6.idx:1055.0
+passage.questions.6.answers.3.text:Gravitacijska potencialna energija je odvisna od teže in višine nad tlemi
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:5468.0
+passage.questions.6.answers.2.text:Višina teža
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:5467.0
+passage.questions.6.answers.1.text:Teža in višina nad tlemi
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:5466.0
+passage.questions.6.answers.0.text:Gibanje in trenje
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:5465.0
+passage.questions.5.question:Navedite dva primera učinka gravitacijske potencialne energije, ki sta podana v odstavku.
+passage.questions.5.idx:1054.0
+passage.questions.5.answers.5.text:Pustite na tresu
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:5464.0
+passage.questions.5.answers.4.text:Listi spreminjajo barvo, rolkar pada
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:5463.0
+passage.questions.5.answers.3.text:Večjo škodo lahko povzroči težka drevesna veja in hitrost, ki jo rolkar doseže na klančini
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:5462.0
+passage.questions.5.answers.2.text:Listi padajo, rolkar se premika navzdol
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:5461.0
+passage.questions.5.answers.1.text:Velika padajoča skala
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:5460.0
+passage.questions.5.answers.0.text:Skateboarder
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:5459.0
+passage.questions.4.question:Kakšno spremembo lahko povzroči gravitacijska potencialna energija?
+passage.questions.4.idx:1053.0
+passage.questions.4.answers.2.text:Trenje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:5458.0
+passage.questions.4.answers.1.text:Gibanje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:5457.0
+passage.questions.4.answers.0.text:Sprememba, ki jo povzroča, je gibanje
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:5456.0
+passage.questions.3.question:Od česa sta odvisni gravitacijska energija?
+passage.questions.3.idx:1052.0
+passage.questions.3.answers.4.text:Višina
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:5455.0
+passage.questions.3.answers.3.text:Utež
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:5454.0
+passage.questions.3.answers.2.text:Teža predmeta in njegova višina nad tlemi
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:5453.0
+passage.questions.3.answers.1.text:Teža in višina nad tlemi
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:5452.0
+passage.questions.3.answers.0.text:Volume abd material
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:5451.0
+passage.questions.2.question:Kakšno spremembo lahko povzroči gravitacijska potencialna energija?
+passage.questions.2.idx:1051.0
+passage.questions.2.answers.2.text:Trenje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5450.0
+passage.questions.2.answers.1.text:Gibanje
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:5449.0
+passage.questions.2.answers.0.text:Tial energija ima sposobnost dela
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:5448.0
+passage.questions.12.question:Katera je najpomembnejša sprememba gravitacijske potencialne energije?
+passage.questions.12.idx:1061.0
+passage.questions.12.answers.3.text:Dostavite, da se rolkarji premikajo
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:5491.0
+passage.questions.12.answers.2.text:Trenje
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:5490.0
+passage.questions.12.answers.1.text:Gibanje
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:5489.0
+passage.questions.12.answers.0.text:Sposobnost povzročanja gibanja
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:5488.0
+passage.questions.11.question:Zakaj se rolkar, ki je na klančini, lahko pomakne navzdol na dno klančine?
+passage.questions.11.idx:1060.0
+passage.questions.11.answers.2.text:Je nestabilen
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:5487.0
+passage.questions.11.answers.1.text:Ker rolkar ima gravitacijsko potencialno energijo, ki povzroča gibanje
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:5486.0
+passage.questions.11.answers.0.text:Ima gravitacijsko potencialno energijo
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:5485.0
+passage.questions.10.question:Katere dve stvari lahko naredi gravitacijska potencialna energija?
+passage.questions.10.idx:1059.0
+passage.questions.10.answers.3.text:Priskrbite silo in opravite delo
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:5484.0
+passage.questions.10.answers.2.text:Sposobnost podajanja sile in sprožitve gibanja
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:5483.0
+passage.questions.10.answers.1.text:Sprememba, gibanje
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:5482.0
+passage.questions.10.answers.0.text:Skrči in razširi predmete
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:5481.0
+passage.questions.1.question:Od česa je odvisna gravitacijska potencialna energija?
+passage.questions.1.idx:1050.0
+passage.questions.1.answers.3.text:Višina in prostornina predmeta
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:5447.0
+passage.questions.1.answers.2.text:Obseg in gradivo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5446.0
+passage.questions.1.answers.1.text:Teža in višina nad tlemi
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:5445.0
+passage.questions.1.answers.0.text:Višina in teža
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5444.0
+passage.questions.0.question:Kakšen položaj bi moral imeti objekt, da bi imel gravitacijsko potencialno energijo?
+passage.questions.0.idx:1049
+passage.questions.0.answers.4.text:Nad tlemi
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:5443.0
+passage.questions.0.answers.3.text:Na tleh
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:5442.0
+passage.questions.0.answers.2.text:Višje
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:5441.0
+passage.questions.0.answers.1.text:Predmet bi moral biti naravnost na tleh
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:5440
+passage.questions.0.answers.0.text:Predmet bi moral biti v dvignjenem položaju; kamor koli objekt lahko pade
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:5439
+idx:89

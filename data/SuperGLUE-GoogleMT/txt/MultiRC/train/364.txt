@@ -1,0 +1,136 @@
+version:1.1
+passage.text:Grim je sam izginil zgoraj in se približno deset minut kasneje vrnil v uniformi šerifanskega častnika - se pravi sirske vojske Emirja Feisula. Nič pametnejšega ne more biti, nič bolje izračunanega, da bi človeka preoblekel. Preobleka, kot vam lahko reče vsak igralec ali detektiv, ni toliko stvar ličenja kot predlog. Le malo manir - neizučenih navad je tisto, kar jih je mogoče prepoznati. Predlagati si, da ste nekdo drug, je tisto, k čemur bi morali stremeti, ne pa prikrivanje, kdo v resnici ste. Grimova koža je bila zagorela v arabski kampanji pod Lawrenceom proti Turkom. Shereefianska čelada je kompromis med Vzhodom in Zahodom, saj ima trak blaga, ki visi za njim do ramen in pokriva ušesa na obeh straneh, namesto arabske pokrivala. Kaki uniforma je imela ravno dovolj orientalskega pridiha, da jo je razlikovala od britanske častnice. Noben moški, neizkušen, ne bi sanjal, da bi jo izbral; iz preprostega razloga, da se mu ne zdi dovolj preoblečen. A Grim je bil zdaj videti povsem tako kot nekdo drug, da je bilo težko verjeti, da je isti človek, ki je bil v sobi deset minut prej. Njegova mimika sirskega vojaškega sprehoda - mešanica ponosa in želje, da se ne zdi ponosen - je bila popolna.
+passage.questions.9.question:Kako je opisan izraz &quot;preobleka&quot;?
+passage.questions.9.idx:4195.0
+passage.questions.9.answers.2.text:Preobleka, kot vam lahko reče vsak igralec ali detektiv, ni toliko stvar ličenja kot predlog
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:22290.0
+passage.questions.9.answers.1.text:Preobleka je majhna manira, neraziskane navade, ki prepoznajo
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:22289.0
+passage.questions.9.answers.0.text:Opisano je, da ni toliko stvar izdelave, temveč le malo manir in neizučenih navad
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:22288.0
+passage.questions.8.question:Zakaj je Grim izginil zgoraj?
+passage.questions.8.idx:4194.0
+passage.questions.8.answers.2.text:Da bi se preoblekel v sirskega vojaka
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:22287.0
+passage.questions.8.answers.1.text:Da se spremeni v njegovo preobleko
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:22286.0
+passage.questions.8.answers.0.text:Da bi dobili preobleko
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:22285.0
+passage.questions.7.question:Kateri vidik uniforme ga je ločil od britanskega vojaka?
+passage.questions.7.idx:4193.0
+passage.questions.7.answers.2.text:Kaki zelena barva uniforme
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:22284.0
+passage.questions.7.answers.1.text:Čelada je imela trak blaga, ki je visel za njo do ramen in pokrival ušesa na obeh straneh, da je nadomestil arabsko pokrivalo
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:22283.0
+passage.questions.7.answers.0.text:Uniforma je imela dovolj orientalskega pridiha, da se je razlikoval od britanskega vojaka
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:22282.0
+passage.questions.6.question:Kakšna njegova oblačila verodostojna?
+passage.questions.6.idx:4192.0
+passage.questions.6.answers.2.text:Ne, njegovi maniri in hoja pomagajo prikriti
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:22281.0
+passage.questions.6.answers.1.text:Da, njegova oblačila so bila popolnoma podobna šerifanskemu častniku
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:22280.0
+passage.questions.6.answers.0.text:Ne, vendar je lahko manipuliral z oblačili, da so šla mimo
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:22279.0
+passage.questions.5.question:Kaj si je Grim prizadeval posnemati?
+passage.questions.5.idx:4191.0
+passage.questions.5.answers.3.text:Šerifski častnik s popolnim sirskim vojaškim sprehodom
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:22278.0
+passage.questions.5.answers.2.text:Poskušal je posnemati Lawrenca, ki je vodil kampanjo proti Turkom
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:22277.0
+passage.questions.5.answers.1.text:Sirski vojaški sprehod
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:22276.0
+passage.questions.5.answers.0.text:Vojaški pogled
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:22275.0
+passage.questions.4.question:S kakšno drugo preobleko se je Grim skril?
+passage.questions.4.idx:4190.0
+passage.questions.4.answers.2.text:Nosil je šerifansko čelado
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:22274.0
+passage.questions.4.answers.1.text:Spreminjal je svoje manire in hodil, da bi se ujel s pravim šerifanskim častnikom
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:22273.0
+passage.questions.4.answers.0.text:Za posnemanje je uporabljal manire častnikov
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:22272.0
+passage.questions.3.question:Kakšno preobleko je oblekel Grim?
+passage.questions.3.idx:4189.0
+passage.questions.3.answers.2.text:Oblekel je uniformo
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:22271.0
+passage.questions.3.answers.1.text:Oblekel je uniformo za shereefanskega častnika
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:22270.0
+passage.questions.3.answers.0.text:Oblekel je uniformo šerifskega častnika sirske vojske Emirja Feisula
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:22269.0
+passage.questions.2.question:Ko je Grim za 10 minut izginil zgoraj, na koga je prišel preoblečen?
+passage.questions.2.idx:4188.0
+passage.questions.2.answers.4.text:Turški militant
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22268.0
+passage.questions.2.answers.3.text:Spustil se je preoblečen v šerifanskega častnika - se pravi sirske vojske Emirja Feisula
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:22267.0
+passage.questions.2.answers.2.text:Spustil se je preoblečen v britanskega častnika
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22266.0
+passage.questions.2.answers.1.text:Shereefian častnik
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:22265.0
+passage.questions.2.answers.0.text:Šerifski častnik sirske vojske
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:22264.0
+passage.questions.10.question:S kakšno uniformo se je Grim preoblekel?
+passage.questions.10.idx:4196.0
+passage.questions.10.answers.2.text:Uniforma šerifanskega častnika
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:22293.0
+passage.questions.10.answers.1.text:Uporabil je uniformo šerifskega častnika sirske vojske Emirja Feisula
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:22292.0
+passage.questions.10.answers.0.text:Uporabil je vojaško uniformo
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:22291.0
+passage.questions.1.question:Kdo je bil vodja sirske vojske?
+passage.questions.1.idx:4187.0
+passage.questions.1.answers.2.text:Živel v Nemčiji
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22263.0
+passage.questions.1.answers.1.text:Emir Feisul
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:22262.0
+passage.questions.1.answers.0.text:Shereefian
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:22261.0
+passage.questions.0.question:Kaj vse poleg ličil naredi dobro preobleko?
+passage.questions.0.idx:4186
+passage.questions.0.answers.3.text:Oblačila
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:22260.0
+passage.questions.0.answers.2.text:Majhne manire
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:22259.0
+passage.questions.0.answers.1.text:Glas in naglas sta večja preobleka
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:22258
+passage.questions.0.answers.0.text:Le malo manir - neizučenih navad je tisto, kar jih je mogoče prepoznati
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22257
+idx:364

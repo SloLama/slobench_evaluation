@@ -1,0 +1,47 @@
+version:1.1
+passage.text:Sally je imela zelo razburljive poletne počitnice. V poletni tabor je šla prvič. Spoprijateljila se je z deklico Tino. V svoji kabini sta si delila pograd. Sallyjeva najljubša dejavnost je bila hoja po gozdu, ker je uživala v naravi. Tina je imela rada umetnost in obrt. Skupaj so izdelali nekaj umetnin z uporabo listov, ki so jih našli v gozdu. Tudi po padcu v vodo je Sally še vedno uživala v vožnji s kanuji. Ko je bilo tabora konec, je bila žalostna, vendar je obljubila, da bo ohranila stike s svojim novim prijateljem. Sally je šla z družino na plažo tudi poleti. Obožuje plažo. Sally je zbirala školjke in nekaj poslala svoji prijateljici Tini, da je z njimi lahko izdelovala nekaj umetniških del. Sally je rada lovila s svojimi brati, kuhala na žaru z očetom in plavala v oceanu z mamo. Poletje je bilo zabavno, vendar se je Sally zelo veselila vrnitve v šolo. Pogrešala je prijatelje in učitelje. Z navdušenjem jim je pripovedovala o svojih poletnih počitnicah.
+passage.questions.3.question:Kako se je Sally počutila ob vrnitvi v šolo in kako je prijateljem in učiteljem pripovedovala o svojih poletnih počitnicah
+passage.questions.3.idx:448.0
+passage.questions.3.answers.2.text:Žalostna je bila, ko se je vrnila v šolo, a je navdušena pripovedovala prijateljem in učiteljem o svojih poletnih počitnicah
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2266.0
+passage.questions.3.answers.1.text:Navdušena je bila, da se je vrnila v šolo, pogrešala je prijatelje in učitelje ter jim želela povedati o svojih poletnih počitnicah
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:2265.0
+passage.questions.3.answers.0.text:Sally je bila navdušena, da se je vrnila v šolo, in svojim prijateljem in učiteljem je pripovedovala o svojih poletnih počitnicah
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2264.0
+passage.questions.2.question:Kje je Sally to poletje dobila novega prijatelja in kako se je imenoval?
+passage.questions.2.idx:447
+passage.questions.2.answers.2.text:V poletnem kampu je dobila novega prijatelja in ji je bilo ime Tina
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2263.0
+passage.questions.2.answers.1.text:Sally je v zimskem kampu dobila novo prijateljico, imenovala se je Tina
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:2262
+passage.questions.2.answers.0.text:Na plaži je dobila novega prijatelja in ji je bilo ime Tina
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:2261
+passage.questions.1.question:Kam je šla Sally z družino to poletje in kaj je Sally tam zbirala?
+passage.questions.1.idx:446
+passage.questions.1.answers.2.text:Sally je to poletje odšla v poletni tabor in nabirala liste
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2260.0
+passage.questions.1.answers.1.text:Sally je šla z družino na plažo in na plaži ni zbrala školjk
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:2259
+passage.questions.1.answers.0.text:Sally je to poletje odšla na plažo in zbrala nekaj školjk
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2258
+passage.questions.0.question:Kako Sally občuti plažo in kakšno dejavnost je tam počela z mamo?
+passage.questions.0.idx:445
+passage.questions.0.answers.2.text:Sally obožuje plažo in skupaj z mamo kuha na žaru
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2257.0
+passage.questions.0.answers.1.text:Sally obožuje plažo in je šla plavat z mamo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:2256
+passage.questions.0.answers.0.text:Sally obožuje plažo in se je z mamo odpravila v ocean
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:2255
+idx:39

@@ -1,0 +1,6 @@
+choice1:Ni se cepila.
+choice2:Posvojena je bila.
+idx:150
+label:0
+premise:Otrok je ujel življenjsko nevarno bolezen.
+question:cause

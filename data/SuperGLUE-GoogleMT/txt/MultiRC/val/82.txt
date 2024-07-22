@@ -1,0 +1,152 @@
+version:1.1
+passage.text:V baru je delal drag humanoidni robot. Obrnil se je proti Sarinemu valu in jo poznal s kimanjem, nekaj trenutkov kasneje je pred njo postavil naguban kozarec peneče tekočine. Čudil sem se gladkosti in koordinaciji robota. Jasno je, da je šlo za vrhunski model. Sarah je kozarec prenesla na mojo prosto roko in me potegnila stran od šanka, da sem se še malo predstavil, Alexis pa je za nama. Večer sem preživel predvsem v poslušanju. Poslušal in si nadeval obraz z vsemi ponujenimi koščki fine hrane. Nihče ni imel nič proti; Sarin ožji krog je bil zadovoljen, da je naš krog kavčev napolnil z veliko klepetanja. Ray, debel moški, ki je bil siv tam, kjer ni bil plešast. Zheng, kratek in temen ter suh, z zelo intenzivnim pogledom. Malo mi je bilo neprijetno. Kishori, drobna, lasje so ji bili nanizani v vrsto pletenic, ki so ji segale skoraj do pasu. Kategoriziral sem jih glede na njihov videz, v upanju, da jih bom pozneje spet lahko izbral iz množice. Večina njihovega kramljanja mi je bila nesmiselna - zgodbe o vsakodnevnih aktivnostih, kako so bili takšni in drugačni videni v taki in taki mizi ob kosilu in moje ni bilo to presenečenje in zakaj ne kuhar je nekoč pripravil ta prijeten izbor predjedi za ples, toda tista valjana mesna peciva so spomnila enega od peciv na Zemlji, in to je bilo nekako zanimivo dejstvo. Po prvih pol urah sem nehal trošiti napore, da bi imena in zgodbe ter tračeve držali naravnost. Nisem se naučil nič koristnega. Lahko bi že začel spraševati, vendar sem se najprej želel opredeliti. Nocoj je bil za opazovanje. Vendar se nisem trudil iskati druge skupine potencialno bolj zanimivih ljudi. Vsi so bili videti enako: skupki družabnih metuljev, obkroženi z manj primernimi, obešalniki, krogom, s katerim so delili trače.
+passage.questions.9.question:Kateri tip robota je upravljal lokal?
+passage.questions.9.idx:952.0
+passage.questions.9.answers.3.text:Dragi, vrhunski humanoid
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:4847.0
+passage.questions.9.answers.2.text:Neroden
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4846.0
+passage.questions.9.answers.1.text:Humanoid
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:4845.0
+passage.questions.9.answers.0.text:Vrhunski
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:4844.0
+passage.questions.8.question:Kakšne namige imamo, da gre za družabno srečanje, ki v našem svetu ne poteka?
+passage.questions.8.idx:951.0
+passage.questions.8.answers.3.text:Obstaja visokotehnološki robot natakar in eden od ljudi omenja, da jo pecivo spominja na hrano na Zemlji
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:4843.0
+passage.questions.8.answers.2.text:Dragi humanoidni robot
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:4842.0
+passage.questions.8.answers.1.text:Peneča tekočina
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4841.0
+passage.questions.8.answers.0.text:Sarahina oblačila
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4840.0
+passage.questions.7.question:Kaj sem počel zvečer?
+passage.questions.7.idx:950.0
+passage.questions.7.answers.3.text:Ples
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4839.0
+passage.questions.7.answers.2.text:Polnjenje obraza
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4838.0
+passage.questions.7.answers.1.text:Poslušam
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4837.0
+passage.questions.7.answers.0.text:Nataknil mi je obraz, poslušal in opazoval
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4836.0
+passage.questions.6.question:Je to obrat za revne stranke?
+passage.questions.6.idx:949.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4835.0
+passage.questions.6.answers.0.text:Ne
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4834.0
+passage.questions.5.question:Je žanr tega izbora zgodovinska fikcija?
+passage.questions.5.idx:948.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4833.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4832.0
+passage.questions.4.question:Sarah ga predstavi še trem gostom. Poimenujte jih.
+passage.questions.4.idx:947.0
+passage.questions.4.answers.5.text:Zheng
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:4831.0
+passage.questions.4.answers.4.text:Ray, Zheng in Kishori
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:4830.0
+passage.questions.4.answers.3.text:Kishori
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:4829.0
+passage.questions.4.answers.2.text:žarek
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4828.0
+passage.questions.4.answers.1.text:Janez
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4827.0
+passage.questions.4.answers.0.text:Luka
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4826.0
+passage.questions.3.question:Kdo sta dva člana Sarinega ožjega kroga?
+passage.questions.3.idx:946.0
+passage.questions.3.answers.5.text:Zheng
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:4825.0
+passage.questions.3.answers.4.text:Andre
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:4824.0
+passage.questions.3.answers.3.text:Ray in Zheng
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4823.0
+passage.questions.3.answers.2.text:Kishori
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4822.0
+passage.questions.3.answers.1.text:Tina
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4821.0
+passage.questions.3.answers.0.text:žarek
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4820.0
+passage.questions.2.question:Zakaj govornik ni poiskal druge skupine za pogovor?
+passage.questions.2.idx:945
+passage.questions.2.answers.2.text:Zdi se, da so bile druge skupine ljudi zelo podobne skupini, s katero je govoril
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:4819.0
+passage.questions.2.answers.1.text:Vsi so bili videti enako
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:4818
+passage.questions.2.answers.0.text:Sara je sramežljiva
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:4817
+passage.questions.1.question:Koga me je Sarah predstavila?
+passage.questions.1.idx:944
+passage.questions.1.answers.5.text:Zheng
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:4816.0
+passage.questions.1.answers.4.text:Ray, Zheng in Khisori
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:4815.0
+passage.questions.1.answers.3.text:Lola
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4814.0
+passage.questions.1.answers.2.text:Sarah
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4813.0
+passage.questions.1.answers.1.text:Kishori
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:4812
+passage.questions.1.answers.0.text:žarek
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:4811
+passage.questions.0.question:Katere so bile Zhengove lastnosti?
+passage.questions.0.idx:943
+passage.questions.0.answers.5.text:Temno
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:4810.0
+passage.questions.0.answers.4.text:Humanoid
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4809.0
+passage.questions.0.answers.3.text:Kratek, temen, suh in mi je neprijetno
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4808.0
+passage.questions.0.answers.2.text:Vitka
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:4807.0
+passage.questions.0.answers.1.text:Kratek
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4806
+passage.questions.0.answers.0.text:Vrhunec
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4805
+idx:82

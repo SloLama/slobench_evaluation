@@ -1,0 +1,6 @@
+choice1:Garancija na prenosnem računalniku je potekla.
+choice2:Baterija na prenosnem računalniku se je izpraznila.
+idx:297
+label:1
+premise:Zaslon na prenosnem računalniku se je stemnil.
+question:cause

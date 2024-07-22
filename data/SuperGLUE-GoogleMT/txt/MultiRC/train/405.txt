@@ -1,0 +1,39 @@
+version:1.1
+passage.text:Njegovo izgnanstvo je trajalo skoraj leto in pol. Že dolgo pred tem je prišel odziv v njegovo korist. Novi konzuli so bili do njega naklonjeni; Klodijeva drznost se je Pompeju že gnusila; Cezar je bil odsoten s svojimi legijami v Galiji; lastni prijatelji, ki so bili ves čas dejavni v njegovo korist (čeprav jih je v svojem nemirnem razpoloženju obtoževal apatije), so to spremembo izkoristili, med njenimi akterji je bil velikodušen tekmec Hortenzij; in vse podivjano nasilje Klodije in njegove stranke je le nekaj časa odlašalo vrnitev, ki je niso mogli preprečiti. Predlog za njegov odpoklic je bil nazadnje vložen z neizmerno večino. Ciceron je imel ob tej priložnosti enega izjemnega zaveznika. Nekega dne, ko je bilo znano, da je senat razpravljal o njegovem odpoklicu, je v gledališču igrala Ennijeva Andromaha. Priljubljeni igralec Esop, čigar ime je prišlo do nas v povezavi z imenom Roscius, je igral glavnega junaka. Veliki govornik je bil njegov učenec in ga je očitno imel za osebnega prijatelja. Z vso silo svoje dovršene umetnosti je v Andromahein žalost za njenim odsotnim očetom vrgel lastna čustva do Cicerona. Besede v delu so bile presenetljivo primerne in ni okleval, da je vstavil besedno zvezo ali dve, ko je govoril o človeku
+passage.questions.2.question:Kako dolgo je trajalo njegovo izgnanstvo, preden je bila odpoklic izvedena z neizmerno večino?
+passage.questions.2.idx:4598.0
+passage.questions.2.answers.2.text:Deset let
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:24281.0
+passage.questions.2.answers.1.text:Leto in pol
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:24280.0
+passage.questions.2.answers.0.text:Tri leta
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24279.0
+passage.questions.1.question:Ko je bil odpoklic končno izveden z neizmerno večino. Kdo je bil ob tej priložnosti izjemen zaveznik?
+passage.questions.1.idx:4597.0
+passage.questions.1.answers.3.text:Cesar
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:24278.0
+passage.questions.1.answers.2.text:Ciceron
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24277.0
+passage.questions.1.answers.1.text:Hortenzij
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:24276.0
+passage.questions.1.answers.0.text:Klodije
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:24275.0
+passage.questions.0.question:Nekega dne, ko je bilo znano, da je senat razpravljal o njegovem odpoklicu, je v gledališču igrala Ennijeva Andromaha. Kdo je igral glavnega junaka?
+passage.questions.0.idx:4596
+passage.questions.0.answers.2.text:Esop
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:24274.0
+passage.questions.0.answers.1.text:Etos
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:24273
+passage.questions.0.answers.0.text:Roscius
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:24272
+idx:405

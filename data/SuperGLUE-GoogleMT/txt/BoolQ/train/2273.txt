@@ -1,0 +1,4 @@
+idx:2273
+label:True
+passage:Zahteva – odgovor - Zaradi enostavnosti se ta vzorec običajno izvede povsem sinhrono, kot pri klicih spletnih storitev prek HTTP-ja, ki drži povezavo odprto in čaka, da je odgovor dostavljen ali pa poteče časovno obdobje. Zahteva - odgovor pa se lahko izvede tudi asinhrono, pri čemer se odgovor vrne ob neznanem kasneje. To se pogosto imenuje &quot;sinhronizacija nad asinhronizacijo&quot; ali &quot;sinhronizacija / asinhronizacija&quot; in je pogosto pri izvedbah integracije aplikacij podjetja (EAI), kjer je treba pred izvajanjem počasnega združevanja, časovno intenzivnih funkcij ali človeškega poteka dela odgovor je mogoče oblikovati in dostaviti.
+question:http uporablja komunikacijski slog zahteva / odziv

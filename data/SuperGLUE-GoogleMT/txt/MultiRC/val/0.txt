@@ -1,0 +1,71 @@
+version:1.1
+passage.text:Kaj povzroča spremembo gibanja? Uporaba sile. Vsakič, ko objekt spremeni gibanje, je bila uporabljena sila. Na kakšen način se to lahko zgodi? Sila lahko povzroči, da se predmet v mirovanju začne premikati. Sile lahko povzročijo, da se predmeti pospešijo ali upočasnijo. Sile lahko povzročijo, da se gibljivi predmet ustavi. Sile lahko povzročijo tudi spremembo smeri. Skratka, sile povzročajo spremembe v gibanju. Premikajoči se objekt lahko spremeni hitrost, smer ali oboje. Vemo, da spremembe gibanja zahtevajo silo. Vemo, da velikost sile določa spremembo gibanja. Koliko se gibanje predmetov spremeni ob uporabi sile, je odvisno od dveh stvari. Odvisno od moči sile. Odvisno je tudi od mase predmetov. Pomislite na nekaj preprostih nalog, ki jih lahko redno opravljate. Lahko vzamete baseball. To zahteva le zelo majhno silo.
+passage.questions.3.question:Kateri dejavniki povzročajo spremembe gibanja predmeta, ki se giblje?
+passage.questions.3.idx:3.0
+passage.questions.3.answers.6.text:Kdo uporablja silo
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:19.0
+passage.questions.3.answers.5.text:Uporaba sile
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:18.0
+passage.questions.3.answers.4.text:Moč uporabljene sile
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:17.0
+passage.questions.3.answers.3.text:Hitrost, smer ali tako hitrost kot smer predmeta
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:16.0
+passage.questions.3.answers.2.text:Masa predmeta
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15.0
+passage.questions.3.answers.1.text:Masa predmeta
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:14.0
+passage.questions.3.answers.0.text:Oblika predmeta
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:13.0
+passage.questions.2.question:Ali ima masa predmeta zelo malo vpliva na to, koliko se spremeni njegovo gibanje, ko nanj deluje sila?
+passage.questions.2.idx:2
+passage.questions.2.answers.3.text:Da
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:12.0
+passage.questions.2.answers.2.text:Spremembe gibanja so odvisne samo od moči uporabljene sile
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11.0
+passage.questions.2.answers.1.text:Ne
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:10
+passage.questions.2.answers.0.text:Koliko se gibanje predmetov spremeni, ko se uporabi sila, ima zelo malo opravka z maso predmetov
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:9
+passage.questions.1.question:Kaj nanesete na predmet, da se premakne ali ustavi?
+passage.questions.1.idx:1
+passage.questions.1.answers.4.text:Pritisk
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8.0
+passage.questions.1.answers.3.text:Sila
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:7.0
+passage.questions.1.answers.2.text:Uporabite silo na žogo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:6.0
+passage.questions.1.answers.1.text:Nič, ustavilo se bo samo od sebe
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:5
+passage.questions.1.answers.0.text:Moč
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:4
+passage.questions.0.question:Bi masa baseballa vplivala na to, koliko sile morate uporabiti, da jo dvignete?
+passage.questions.0.idx:0
+passage.questions.0.answers.3.text:To je odvisno od oblike baseballa
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3.0
+passage.questions.0.answers.2.text:Manj masa, manjša uporabljena sila
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:1
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:0
+idx:0

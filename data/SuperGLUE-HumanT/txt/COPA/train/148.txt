@@ -1,0 +1,6 @@
+choice1:Zapeljal je skozi križišče.
+choice2:Opazil je nasedlo vozilo.
+idx:148
+label:1
+premise:Voznik je ustavil ob robu ceste.
+question:cause

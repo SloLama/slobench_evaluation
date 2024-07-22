@@ -1,0 +1,388 @@
+version:1.1
+passage.text:Arheološka skupina raziskuje nekatere kaverne pod zemljo. Dr. Campbell in dr. Hughes sta voditelja arheološke odprave in se ločita. Medtem ko dr. Hughes najde tuje truplo s fosiliziranim diamantom, dr. Campbell najde hijeroglife za ceno zabave, razen Hughesa in njega samega. Dve leti kasneje Campbell in njegova pomočnica Holly izkopavata kosti Yonggaryja, ogromnega dinozavra, 50-krat večjega od tiranozavra. Od nikoder okoli mesta počasi pobijajo ljudi. Medtem ko Holly dela, dr. Hughes, ki je že dve leti pravno mrtev, gre k Holly in ji reče, naj ustavi kopanje. Dr. Campbell pride v šotor in odpravi dr. Hughesa. Holly zapusti ekspedicijo, ko se zgodi nova &quot;nesreča&quot;. V mestnem baru dr. Hughes najde Holly in jo odpelje nazaj v njeno hotelsko sobo ter ji pove, zakaj misli, da bodo kosti dinozavra, ki mu pravi Yonggary, prinesle konec sveta. Po razlagi Holly in Hughes odideta na mesto, da bi ustavila Campbella, vendar je prepozno in Nezemljani obudijo Yonggaryja. Po prvem nastopu Yonggaryja pride vojska in odpelje Holly in Campbella v vojaško bazo, ko Yonggaryja tujci spet pošljejo. Vojska pošlje helikopterje po Yonggaryja, a jih uniči. Nato Yonggaryja pošljejo v mesto in naredi nekaj škode, kjer ga napadijo nekateri curki. Nato Yonggaryja odpeljejo v elektrarno, kjer ga napadnejo vojaki raketnih blokov. Med bojem Hughes in Holly ugotovita, da je diamant na čelu Yonggaryja naprava, ki tujcem daje nadzor nad Yonggaryjem.
+passage.questions.9.question:Kaj vojska pošlje po velikanskem dinozavru?
+passage.questions.9.idx:4116.0
+passage.questions.9.answers.3.text:Sekljalniki
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:21865.0
+passage.questions.9.answers.2.text:Soliders
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:21864.0
+passage.questions.9.answers.1.text:Tiranozaver rex
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:21863.0
+passage.questions.9.answers.0.text:Bombarderji
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:21862.0
+passage.questions.8.question:Na kateri strani so ljudje nenadoma pobiti?
+passage.questions.8.idx:4115.0
+passage.questions.8.answers.4.text:Arheološko najdišče
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:21861.0
+passage.questions.8.answers.3.text:Arheološka odprava
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:21860.0
+passage.questions.8.answers.2.text:Dvorišče
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:21859.0
+passage.questions.8.answers.1.text:Kopajte spletno mesto
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:21858.0
+passage.questions.8.answers.0.text:Kamp
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:21857.0
+passage.questions.7.question:Kaj je arheolog, ki je Holly pomočnica, našel na odpravi?
+passage.questions.7.idx:4114.0
+passage.questions.7.answers.4.text:Jogarry
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:21856.0
+passage.questions.7.answers.3.text:Dinozaver
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:21855.0
+passage.questions.7.answers.2.text:Nezemljani
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:21854.0
+passage.questions.7.answers.1.text:Diamanti
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:21853.0
+passage.questions.7.answers.0.text:Dr. Cambell je našel hieroglife
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:21852.0
+passage.questions.6.question:Kakšno je bilo vedenje Yonggaryja?
+passage.questions.6.idx:4113.0
+passage.questions.6.answers.4.text:Pasivno
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:21851.0
+passage.questions.6.answers.3.text:Nevarno
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:21850.0
+passage.questions.6.answers.2.text:Mirno
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:21849.0
+passage.questions.6.answers.1.text:Uničeni helikopterji in so mestu naredili nekaj škode
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:21848.0
+passage.questions.6.answers.0.text:Strinjam se
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:21847.0
+passage.questions.5.question:Kam je Holly odšla, ko je zapustila odpravo?
+passage.questions.5.idx:4112.0
+passage.questions.5.answers.4.text:Klub
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:21846.0
+passage.questions.5.answers.3.text:Hotelska soba
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:21845.0
+passage.questions.5.answers.2.text:Domov
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:21844.0
+passage.questions.5.answers.1.text:Mestni bar
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:21843.0
+passage.questions.5.answers.0.text:Po
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21842.0
+passage.questions.4.question:S kom je Holly delala na arheoloških najdiščih?
+passage.questions.4.idx:4111.0
+passage.questions.4.answers.4.text:Dr. Campbell
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:21841.0
+passage.questions.4.answers.3.text:Yonggary
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:21840.0
+passage.questions.4.answers.2.text:Dinozavri
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:21839.0
+passage.questions.4.answers.1.text:Vojska
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21838.0
+passage.questions.4.answers.0.text:Kosti dinozavra
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:21837.0
+passage.questions.3.question:Ali je Holly poznala dr. Hughesa in dr. Campbella?
+passage.questions.3.idx:4110.0
+passage.questions.3.answers.3.text:Hodila je z dr. Hughesom
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:21836.0
+passage.questions.3.answers.2.text:Prej je delala z njimi
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:21835.0
+passage.questions.3.answers.1.text:Da
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:21834.0
+passage.questions.3.answers.0.text:Ne
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:21833.0
+passage.questions.22.question:Katere tri stvari napadajo Yonggaryja?
+passage.questions.22.idx:4129.0
+passage.questions.22.answers.7.text:Solid rakete
+passage.questions.22.answers.7.label:1.0
+passage.questions.22.answers.7.idx:21932.0
+passage.questions.22.answers.6.text:Jets
+passage.questions.22.answers.6.label:1.0
+passage.questions.22.answers.6.idx:21931.0
+passage.questions.22.answers.5.text:T- REX
+passage.questions.22.answers.5.label:0,0
+passage.questions.22.answers.5.idx:21930.0
+passage.questions.22.answers.4.text:Kamnine
+passage.questions.22.answers.4.label:0,0
+passage.questions.22.answers.4.idx:21929.0
+passage.questions.22.answers.3.text:Nezemljani
+passage.questions.22.answers.3.label:0,0
+passage.questions.22.answers.3.idx:21928.0
+passage.questions.22.answers.2.text:Sekljalniki
+passage.questions.22.answers.2.label:1.0
+passage.questions.22.answers.2.idx:21927.0
+passage.questions.22.answers.1.text:Uradniki
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:21926.0
+passage.questions.22.answers.0.text:Choppers, Jets in Vojaki raketnih paketov
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:21925.0
+passage.questions.21.question:Kdo ali kaj se bori, ko Hughes in Holly ugotovita, da je diamant na čelu Yongarryja naprava, ki tujcem daje nadzor nad Yongarryjem?
+passage.questions.21.idx:4128.0
+passage.questions.21.answers.5.text:Jogarry
+passage.questions.21.answers.5.label:1.0
+passage.questions.21.answers.5.idx:21924.0
+passage.questions.21.answers.4.text:Kamnine
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:21923.0
+passage.questions.21.answers.3.text:Nezemljani
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:21922.0
+passage.questions.21.answers.2.text:Vojska in Yongarry
+passage.questions.21.answers.2.label:1.0
+passage.questions.21.answers.2.idx:21921.0
+passage.questions.21.answers.1.text:Soliders
+passage.questions.21.answers.1.label:1.0
+passage.questions.21.answers.1.idx:21920.0
+passage.questions.21.answers.0.text:Predsednik
+passage.questions.21.answers.0.label:0,0
+passage.questions.21.answers.0.idx:21919.0
+passage.questions.20.question:Kje je bil tuj truplo prvotno našel dr. Hughes?
+passage.questions.20.idx:4127.0
+passage.questions.20.answers.5.text:Hughes
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:21918.0
+passage.questions.20.answers.4.text:Gore
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:21917.0
+passage.questions.20.answers.3.text:Arheološka odprava
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:21916.0
+passage.questions.20.answers.2.text:Jame
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:21915.0
+passage.questions.20.answers.1.text:Kaverne pod zemljo
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:21914.0
+passage.questions.20.answers.0.text:Umazanija
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:21913.0
+passage.questions.2.question:Kaj je napadel Yonggaryja po curkih?
+passage.questions.2.idx:4109.0
+passage.questions.2.answers.6.text:Solid rakete
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:21832.0
+passage.questions.2.answers.5.text:Jets
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:21831.0
+passage.questions.2.answers.4.text:Marinci
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:21830.0
+passage.questions.2.answers.3.text:Nezemljani
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:21829.0
+passage.questions.2.answers.2.text:Pištole
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:21828.0
+passage.questions.2.answers.1.text:Sekljalniki
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:21827.0
+passage.questions.2.answers.0.text:Vojska
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:21826.0
+passage.questions.19.question:Kaj raziskujeta dr. Hughes in dr. Campbell?
+passage.questions.19.idx:4126.0
+passage.questions.19.answers.4.text:Podzemlje
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:21912.0
+passage.questions.19.answers.3.text:Kaverne
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:21911.0
+passage.questions.19.answers.2.text:Gore
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:21910.0
+passage.questions.19.answers.1.text:Kamnine
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:21909.0
+passage.questions.19.answers.0.text:Kaverne pod zemljo
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:21908.0
+passage.questions.18.question:Kaj se zgodi, ko Campbell in Holly izkopljeta Yonggaryjeve kosti?
+passage.questions.18.idx:4125.0
+passage.questions.18.answers.5.text:Ljudje počasi pobijajo okoli mesta in dr. Hughes reče Holly, naj ustavi kopanje
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:21907.0
+passage.questions.18.answers.4.text:Ljudi ne pobijajo
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:21906.0
+passage.questions.18.answers.3.text:Dr. Hughes pove Holly, naj ustavi kopanje
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:21905.0
+passage.questions.18.answers.2.text:Ljudje se po mestu počasi ubijajo od nikoder
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:21904.0
+passage.questions.18.answers.1.text:Kar naprej kopajo
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:21903.0
+passage.questions.18.answers.0.text:Jogari napadejo vojaki raketnih paketov
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:21902.0
+passage.questions.17.question:Kaj je vojska poslala na napad na Yonggary pred reaktivci?
+passage.questions.17.idx:4124.0
+passage.questions.17.answers.3.text:Marinci
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:21901.0
+passage.questions.17.answers.2.text:Sekljalniki
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:21900.0
+passage.questions.17.answers.1.text:Vojaki raketnih paketov
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:21899.0
+passage.questions.17.answers.0.text:Bombarderji
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:21898.0
+passage.questions.16.question:S kom je bil Yonggary povezan?
+passage.questions.16.idx:4123.0
+passage.questions.16.answers.3.text:Vojska
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:21897.0
+passage.questions.16.answers.2.text:Dinsoaurs
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:21896.0
+passage.questions.16.answers.1.text:Dr Campbell
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:21895.0
+passage.questions.16.answers.0.text:Nezemljani
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:21894.0
+passage.questions.15.question:Kje je velikanski dinozaver napadli vojaki raketnih orodij?
+passage.questions.15.idx:4122.0
+passage.questions.15.answers.2.text:Nakupovalni center
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:21893.0
+passage.questions.15.answers.1.text:Vojaška baza
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:21892.0
+passage.questions.15.answers.0.text:Elektrarna
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:21891.0
+passage.questions.14.question:Kaj se zgodi, ko Yonggaryja pošljejo tujci?
+passage.questions.14.idx:4121.0
+passage.questions.14.answers.6.text:Sekalniki ne pridejo
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:21890.0
+passage.questions.14.answers.5.text:Vojska pošlje helikopterje, a jih uniči
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:21889.0
+passage.questions.14.answers.4.text:Napadajo ga vojaki raketnih nabojev
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:21888.0
+passage.questions.14.answers.3.text:Uničuje helikopterje in mestu povzroča nekaj škode
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:21887.0
+passage.questions.14.answers.2.text:Uniči helikopterje
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:21886.0
+passage.questions.14.answers.1.text:Vojska pošilja helikopterje za Yonggaryjem
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:21885.0
+passage.questions.14.answers.0.text:He uničuje helikopterjev
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:21884.0
+passage.questions.13.question:Kdo nadzoruje Yonggaryja?
+passage.questions.13.idx:4120.0
+passage.questions.13.answers.4.text:Holly
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:21883.0
+passage.questions.13.answers.3.text:Prijatelji
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:21882.0
+passage.questions.13.answers.2.text:Tujci
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:21881.0
+passage.questions.13.answers.1.text:Fosilizirani diamant
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:21880.0
+passage.questions.13.answers.0.text:Vojska
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:21879.0
+passage.questions.12.question:Kdo je napadel Yonggaryja?
+passage.questions.12.idx:4119.0
+passage.questions.12.answers.4.text:Solid rakete
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:21878.0
+passage.questions.12.answers.3.text:Nezemljani
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:21877.0
+passage.questions.12.answers.2.text:Sekljalniki
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:21876.0
+passage.questions.12.answers.1.text:Vojska
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:21875.0
+passage.questions.12.answers.0.text:Zaobljuba
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:21874.0
+passage.questions.11.question:Je dr. Hughes videl Holly po njeni odpovedi?
+passage.questions.11.idx:4118.0
+passage.questions.11.answers.4.text:Pokliče jo
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:21873.0
+passage.questions.11.answers.3.text:Reši jo pred tujci
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:21872.0
+passage.questions.11.answers.2.text:Odpelje jo na večerjo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:21871.0
+passage.questions.11.answers.1.text:Da
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:21870.0
+passage.questions.11.answers.0.text:Jo najde
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:21869.0
+passage.questions.10.question:Kakšna je bila &quot;nesreča&quot;, zaradi katere je Holly zapustila odpravo?
+passage.questions.10.idx:4117.0
+passage.questions.10.answers.2.text:Iskanje kosti
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:21868.0
+passage.questions.10.answers.1.text:Nekdo je bil umorjen
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:21867.0
+passage.questions.10.answers.0.text:Ljudje so pobiti
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:21866.0
+passage.questions.1.question:Kam je šel Yonggary, potem ko je uničil helikopterje?
+passage.questions.1.idx:4108.0
+passage.questions.1.answers.3.text:Sekljalniki
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21825.0
+passage.questions.1.answers.2.text:Mesto
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:21824.0
+passage.questions.1.answers.1.text:Gore
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21823.0
+passage.questions.1.answers.0.text:Vojaška baza
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:21822.0
+passage.questions.0.question:Kakšno napravo je našel dr. Hughes, ki tujcem daje nadzor nad Yonggaryjem?
+passage.questions.0.idx:4107
+passage.questions.0.answers.1.text:Daljinec
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21821
+passage.questions.0.answers.0.text:Fosiliziran diamant
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21820
+idx:357

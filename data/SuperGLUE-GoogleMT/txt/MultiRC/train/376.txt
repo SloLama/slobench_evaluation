@@ -1,0 +1,268 @@
+version:1.1
+passage.text:Program pravne pomoči pri nasilju v družini zapolnjuje vrzel v pravnih virih za žrtve nasilja v družini, ki si ne morejo privoščiti odvetnika. Vsi, ki so preživeli nasilje v družini v Jacksonu, Vicksburgu, Hattiesburgu, Oxfordu in Pascagouli, lahko dobijo pomoč. Julia Crockett, namestnica direktorja Central Southwest Mississippi Legal Services Corp., je dejala, da naj bi program pomagal skoraj 1000 žrtvam nasilja v družini. Crockett je dejal, da pravna pomoč žrtvam nasilja v družini omogoča, da si znova zgradijo življenje. &quot;Zlostavljalec jim je dal občutek, da jim nihče ne bo nič pomagal, zato so, ko pridejo k nam, obupani,&quot; je dejala. &quot;Tisti, ki potrebujejo pravno pomoč in je ne dobijo, se počutijo popolnoma izgubljene. Ker se potem počutijo prisiljeni ostati v tej situaciji.&quot; Crockett je dejal, da program, ki ga financira 300.000 ameriških dolarjev ministrstva za pravosodje ZDA, nima ekonomskih omejitev glede tega, kdo lahko dobi pomoč. Pravne storitve običajno pomagajo revnim. Gladys Bunzy, ki je dejala, da je bila osem let v nasilnem odnosu s fantom, je dejala, da je takšen program že zdavnaj in bi lahko bil rešilec za tiste, ki uidejo nasilnim odnosom. &quot;Ko sem se končno odločil oditi, sem mu izrekel prepoved približevanja in to je bilo 50 dolarjev, toda 50 dolarjev mi je bilo dobro porabljeno,&quot; je dejal Bunzy (40). &quot;Za ljudi, ki si tega ne morejo privoščiti, bo to bodi božji dar ... Če ženska ve, da bo dobila pomoč, ki ji bo v breme, če ji bo zakon pomagal držati to osebo stran od nje. &quot; Gwen Bouie-Haynes, direktorica Centra za storitve nasilja v družini za katoliške dobrodelne ustanove Inc., je dejala, da preživeli v družini pogosto nimajo denarja za pravno zastopanje. &quot;Pravna pomoč je glavno vprašanje žensk, ki bežijo iz nasilja v družini,&quot; je dejala. &quot;Ženske pogosto potrebujejo takojšnjo pravno pomoč zaradi zaščite matere in otroka. Če želite dobiti zaščitni nalog, vas mora zastopati odvetnik.&quot; Crockett je dejal, da se je pilotni program začel leta 1998 v družinskem zavetišču Haven House Family, zavetišču za nasilje v družini za ženske in otroke v Vicksburgu. Program je pomagal žrtvam v 90 sodnih zadevah in tam je potekalo 150 pravnih svetovanj.
+passage.questions.9.question:Koliko let je imela Bunzy, ko je vstopila v nasilno zvezo?
+passage.questions.9.idx:4309.0
+passage.questions.9.answers.3.text:34
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:22896.0
+passage.questions.9.answers.2.text:40
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:22895.0
+passage.questions.9.answers.1.text:70
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:22894.0
+passage.questions.9.answers.0.text:32
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:22893.0
+passage.questions.8.question:Kakšen je postopek za pridobitev zaščitnega naloga?
+passage.questions.8.idx:4308.0
+passage.questions.8.answers.2.text:Zahtevo morate vložiti na sodišču
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:22892.0
+passage.questions.8.answers.1.text:Plačilo honorarja in pridobitev odvetnika
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:22891.0
+passage.questions.8.answers.0.text:Zastopati vas mora odvetnik
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:22890.0
+passage.questions.7.question:Direktor podjetja, ki trdi, da ima pravna pomoč žrtvam nasilja v družini način, da si znova zgradijo življenje?
+passage.questions.7.idx:4307.0
+passage.questions.7.answers.4.text:Direktor Central Southwest Mississippi Legal Services Corp
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:22889.0
+passage.questions.7.answers.3.text:Central Southwest Mississippi Legal Services Corp
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:22888.0
+passage.questions.7.answers.2.text:Center za nasilje v družini za dobrodelne dobrodelne ustanove inc
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:22887.0
+passage.questions.7.answers.1.text:Direktor družinskega zavetišča Haven House
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:22886.0
+passage.questions.7.answers.0.text:DHHS
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:22885.0
+passage.questions.6.question:Kaj sta bila dva razloga, zaradi katerih ženske ne iščejo pomoči?
+passage.questions.6.idx:4306.0
+passage.questions.6.answers.2.text:Zlostavljalec je začutil, da jim nihče ne bo nič pomagal. Nimajo denarja za pravno zastopanje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:22884.0
+passage.questions.6.answers.1.text:Vedno obstajajo načini, kako to rešiti s svojimi odvetniki. Sram jih je prositi za pomoč zaradi socialne stigme, povezane z nasiljem v družini
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:22883.0
+passage.questions.6.answers.0.text:Iskanje pravne pomoči in prepričanje, da jim tako ali tako ne bo nihče pomagal
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:22882.0
+passage.questions.5.question:Ali obstajajo programi, ki lahko pomagajo preživelim družinskim nasiljem v Vicksburgu?
+passage.questions.5.idx:4305.0
+passage.questions.5.answers.4.text:Program pravne pomoči pri nasilju v družini
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:22881.0
+passage.questions.5.answers.3.text:Da, Program pravne pomoči pri nasilju v družini pomaga preživelim, ki se nahajajo v Vicksburgu
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:22880.0
+passage.questions.5.answers.2.text:Program storitev nasilja v družini Center za katoliške dobrodelne ustanove
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:22879.0
+passage.questions.5.answers.1.text:McDonaldova hiša
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:22878.0
+passage.questions.5.answers.0.text:Družinsko zavetišče Haven House
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:22877.0
+passage.questions.4.question:Kdo je v članku zagovarjal takojšnjo pomoč ženskam in otrokom?
+passage.questions.4.idx:4304.0
+passage.questions.4.answers.1.text:Julia Crockett
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:22876.0
+passage.questions.4.answers.0.text:Gwen Bouie-Haynes
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:22875.0
+passage.questions.3.question:Zakaj je pravna pomoč glavna ovira za ženske, ki se morajo rešiti nasilnega odnosa?
+passage.questions.3.idx:4303.0
+passage.questions.3.answers.4.text:Za zaščitno odredbo vas mora zastopati odvetnik
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:22874.0
+passage.questions.3.answers.3.text:Nočejo oditi
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:22873.0
+passage.questions.3.answers.2.text:Ženske pogosto potrebujejo takojšnjo pravno pomoč, da se zaščitijo, za zaščitni nalog pa potrebujejo odvetnika
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:22872.0
+passage.questions.3.answers.1.text:Za pravno pomoč potrebujejo dovoljenje partnerja
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22871.0
+passage.questions.3.answers.0.text:Pogosto nimajo denarja in imajo otroke
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:22870.0
+passage.questions.2.question:Direktor Centra za storitve nasilja v družini za katoliške dobrodelne ustanove Inc. je dejal, da je pravna pomoč glavno vprašanje za koga?
+passage.questions.2.idx:4302.0
+passage.questions.2.answers.3.text:Ženske, ki bežijo iz nasilja v družini
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:22869.0
+passage.questions.2.answers.2.text:Delavci migranti
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22868.0
+passage.questions.2.answers.1.text:Otroci
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:22867.0
+passage.questions.2.answers.0.text:Ženske žrtve in njihovi otroci
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:22866.0
+passage.questions.19.question:Kateri program financira 300.000 dolarjev ameriškega ministrstva za pravosodje?
+passage.questions.19.idx:4319.0
+passage.questions.19.answers.1.text:Program pravne pomoči pri nasilju v družini
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:22936.0
+passage.questions.19.answers.0.text:Program storitev nasilja v družini Center za katoliške dobrodelne ustanove
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:22935.0
+passage.questions.18.question:Kdo je sprožil pilotni program na tej lokaciji v Vicksburgu?
+passage.questions.18.idx:4318.0
+passage.questions.18.answers.4.text:Družinsko zavetje Haven House Inc.
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:22934.0
+passage.questions.18.answers.3.text:Center za nasilje v družini za katoliške dobrodelne ustanove
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:22933.0
+passage.questions.18.answers.2.text:Julia Crockette
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:22932.0
+passage.questions.18.answers.1.text:Central Southwest Mississippi Legal Services Corp
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:22931.0
+passage.questions.18.answers.0.text:Crockett v zavetišču Haven House Inc.
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:22930.0
+passage.questions.17.question:Če program uspe pomagati količini ljudi, ki si jih želijo, koliko povprečnega denarja bi porabili za vsako žrtev?
+passage.questions.17.idx:4317.0
+passage.questions.17.answers.2.text:300
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:22929.0
+passage.questions.17.answers.1.text:50
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:22928.0
+passage.questions.17.answers.0.text:500
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:22927.0
+passage.questions.16.question:Prebivalci nasilja v družini v Jacksonu, Vicksburgu, Hattiesburgu, Oxfordu in Pascagouli lahko dobijo pomoč pri katerem programu?
+passage.questions.16.idx:4316.0
+passage.questions.16.answers.2.text:Program pravne pomoči pri nasilju v družini
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:22926.0
+passage.questions.16.answers.1.text:Varni glasovi
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:22925.0
+passage.questions.16.answers.0.text:Program zavetja družine Haven House
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:22924.0
+passage.questions.15.question:Na kakšen način je družinsko zavetišče Haven House pomagalo ljudem?
+passage.questions.15.idx:4315.0
+passage.questions.15.answers.4.text:Žrtvam je pomagal v 90 sodnih zadevah in tam je potekalo 150 pravnih svetovanj
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:22923.0
+passage.questions.15.answers.3.text:Zaščitila je ženske in otroke v nasilnih situacijah in pomagala žrtvam v sodnih zadevah
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:22922.0
+passage.questions.15.answers.2.text:Organizacija je plačala skoraj 3000 žrtev nasilja v družini
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:22921.0
+passage.questions.15.answers.1.text:Dal jim je stanovanje
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:22920.0
+passage.questions.15.answers.0.text:Pravno zastopanje in pravni svetovalec
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:22919.0
+passage.questions.14.question:Katera skupina upa, da bo pomagala 1000 žrtvam nasilja v družini?
+passage.questions.14.idx:4314.0
+passage.questions.14.answers.3.text:Program pravne pomoči pri nasilju v družini
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:22918.0
+passage.questions.14.answers.2.text:Družinsko zavetišče Haven House
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:22917.0
+passage.questions.14.answers.1.text:Central Southwest Mississippi Legal Services Corp
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:22916.0
+passage.questions.14.answers.0.text:South west mississippi legal services corp
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:22915.0
+passage.questions.13.question:Kateri vladni subjekt je za pravno pomoč pri nasilju v družini prejel stotisoče dolarjev?
+passage.questions.13.idx:4313.0
+passage.questions.13.answers.2.text:Lokalni skladi Jacksona, Vicksburga, Hattiesburga, Oxforda in Pascagoule
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:22914.0
+passage.questions.13.answers.1.text:Oddelek za pravosodje ZDA
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:22913.0
+passage.questions.13.answers.0.text:Ameriški izobraževalni oddelek
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:22912.0
+passage.questions.12.question:Koliko stane odredba o zaščiti in ali jo mora vložiti odvetnik?
+passage.questions.12.idx:4312.0
+passage.questions.12.answers.4.text:50 USD in zastopati vas mora odvetnik
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:22911.0
+passage.questions.12.answers.3.text:100 USD in jih lahko vložite sami
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:22910.0
+passage.questions.12.answers.2.text:50 dolarjev, ja
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:22909.0
+passage.questions.12.answers.1.text:150 dolarjev, ne
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:22908.0
+passage.questions.12.answers.0.text:50 dolarjev, ki jih je vložil pravni zastopnik, št
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:22907.0
+passage.questions.11.question:Na kakšen način lahko program pravne pomoči pri nasilju v družini pomaga žrtvam nasilja v družini?
+passage.questions.11.idx:4311.0
+passage.questions.11.answers.4.text:Skrivam te
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:22906.0
+passage.questions.11.answers.3.text:Omogoča jim obnovo življenja in nudi pravno pomoč
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:22905.0
+passage.questions.11.answers.2.text:Pomagajte žrtvi, da se preseli
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:22904.0
+passage.questions.11.answers.1.text:Zastopanje, pomoč pri pridobitvi naloga za zaščito
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:22903.0
+passage.questions.11.answers.0.text:Izdajte prepoved približevanja zoper zlorabe
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:22902.0
+passage.questions.10.question:Katere so nekatere največje težave žensk v nasilnih domačih razmerah?
+passage.questions.10.idx:4310.0
+passage.questions.10.answers.4.text:Iskanje zavetja
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:22901.0
+passage.questions.10.answers.3.text:Ni denarja za iskanje pravne pomoči
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:22900.0
+passage.questions.10.answers.2.text:Potreba po takojšnji pravni pomoči za zaščito matere in otroka
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:22899.0
+passage.questions.10.answers.1.text:Ženske v nasilnih situacijah se soočajo s težavami, kot so pomanjkanje denarja in občutek prisiljenosti, da ostanejo v trenutnem položaju
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:22898.0
+passage.questions.10.answers.0.text:Ženske si ponavadi ne morejo privoščiti odvetnika
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:22897.0
+passage.questions.1.question:Kakšen program naj bi Julia Crockett pomagala skoraj 1000 žrtvam nasilja v družini?
+passage.questions.1.idx:4301.0
+passage.questions.1.answers.1.text:Program pravne pomoči pri nasilju v družini
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:22865.0
+passage.questions.1.answers.0.text:Program storitev nasilja v družini Center za katoliške dobrodelne ustanove
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:22864.0
+passage.questions.0.question:Kdo je rekel, da je pravna pomoč glavno vprašanje žensk, ki trpijo nasilje v družini?
+passage.questions.0.idx:4300
+passage.questions.0.answers.1.text:Julia Crockett
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:22863
+passage.questions.0.answers.0.text:Gwen Bouie-Haynes
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22862
+idx:376

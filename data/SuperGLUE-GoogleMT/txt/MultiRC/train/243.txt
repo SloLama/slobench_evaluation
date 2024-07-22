@@ -1,0 +1,124 @@
+version:1.1
+passage.text:Ratners Group PLC, hitro rastoči draguljarski draguljar s sedežem v Londonu, je po drugi zaskrbljenosti povišal ceno posebnega draguljarja Weisfield&#39;s Inc. s sedežem v Seattlu na 57,50 dolarja na delnico ali 62,1 milijona dolarjev s 50 na delnico ali 55 milijonov dolarjev. je dejal, da bo pripravljen preseči prvotno ponudbo podjetja Ratners. Druga skrb ni bila ugotovljena. Predsednik Ratnersa, Gerald Ratner, je dejal, da dogovor ostaja &quot;velika korist za Ratners&quot;. Včeraj sredi popoldneva so se v Londonu delnice Ratnersove podražile za 2 penija (1,26 centa) pri 260 penih (1,64 dolarja). Sladkana ponudba sprejema več kot 50% delničarjev Weisfielda, dokončana pa naj bi bila do 10. decembra. Prevzem Weisfieldove 87 trgovin poveča prisotnost podjetja Ratners v ZDA na 450 trgovin. Približno 30% dobička podjetja Ratners že izhaja iz ZDA
+passage.questions.7.question:Kakšna skrb je Ratners Group PLC spodbudila, da je zvišal ceno svojih delnic družbe Weisfield&#39;s Inc. na 57,50 USD na delnico?
+passage.questions.7.idx:2698.0
+passage.questions.7.answers.3.text:Želeli so povečati svoj ameriški presedan
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:14286.0
+passage.questions.7.answers.2.text:Obstajal je pomislek, ki je bil pripravljen preseči prvotno ponudbo ocenjevalcev
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:14285.0
+passage.questions.7.answers.1.text:Zales
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14284.0
+passage.questions.7.answers.0.text:Drugi pomislek ni bil ugotovljen
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:14283.0
+passage.questions.6.question:Kolikšen odstotek delničarjev Weisfielda je sprejel sladko ponudbo?
+passage.questions.6.idx:2697.0
+passage.questions.6.answers.5.text:40%
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:14282.0
+passage.questions.6.answers.4.text:60%
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:14281.0
+passage.questions.6.answers.3.text:75%
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:14280.0
+passage.questions.6.answers.2.text:Manj kot 50%
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:14279.0
+passage.questions.6.answers.1.text:55%
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:14278.0
+passage.questions.6.answers.0.text:Ponudbo je sprejelo več kot petdeset odstotkov delničarjev Weisfielda
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:14277.0
+passage.questions.5.question:Kako velika bi bila prisotnost draguljarja s sedežem v Londonu po prevzemu?
+passage.questions.5.idx:2696.0
+passage.questions.5.answers.3.text:450
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:14276.0
+passage.questions.5.answers.2.text:550
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:14275.0
+passage.questions.5.answers.1.text:Imeli bi 450 trgovin
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:14274.0
+passage.questions.5.answers.0.text:Imeli bi 87 trgovin
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:14273.0
+passage.questions.4.question:Kdo je povzročil, da je Ratners zvišal svojo ceno?
+passage.questions.4.idx:2695.0
+passage.questions.4.answers.3.text:Nikoli niso bili identificirani
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:14272.0
+passage.questions.4.answers.2.text:Drugi skrbnik je dejal, da bo pripravljen preseči prvotno ponudbo Ratnerja
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:14271.0
+passage.questions.4.answers.1.text:Želeli so povečati svoj ameriški presedan
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:14270.0
+passage.questions.4.answers.0.text:Za nakup več trgovin
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:14269.0
+passage.questions.3.question:Koliko denarja Weisfield zasluži na trgovino s to pridobitvijo?
+passage.questions.3.idx:2694.0
+passage.questions.3.answers.4.text:713.793 USD
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:14268.0
+passage.questions.3.answers.3.text:Na trgovino zaslužijo približno 710.000 dolarjev
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:14267.0
+passage.questions.3.answers.2.text:1,4 milijona dolarjev
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:14266.0
+passage.questions.3.answers.1.text:61,2 milijona
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:14265.0
+passage.questions.3.answers.0.text:Na trgovino zaslužijo 57,50
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:14264.0
+passage.questions.2.question:Kje je sedež podjetja Ratners Group PLC?
+passage.questions.2.idx:2693.0
+passage.questions.2.answers.1.text:London
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:14263.0
+passage.questions.2.answers.0.text:Seattlu
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:14262.0
+passage.questions.1.question:Koliko trgovin Weisfielda bo družba Ratners likvidirala in kupila do 10. decembra?
+passage.questions.1.idx:2692.0
+passage.questions.1.answers.4.text:87 trgovin
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:14261.0
+passage.questions.1.answers.3.text:450 trgovin
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:14260.0
+passage.questions.1.answers.2.text:87
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:14259.0
+passage.questions.1.answers.1.text:Pridobiti bo treba sedeminosemdeset trgovin
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:14258.0
+passage.questions.1.answers.0.text:450
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:14257.0
+passage.questions.0.question:Je bila povišana cena delnice dobra ali slaba stvar za Ratners Group PLC?
+passage.questions.0.idx:2691
+passage.questions.0.answers.4.text:Nobenemu podjetju Ratners ni treba plačati več denarja za podjetje
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:14256.0
+passage.questions.0.answers.3.text:To ni bilo dobro, saj je zagotovilo, da ponudba drugega koncerna ne bo sprejeta
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14255.0
+passage.questions.0.answers.2.text:Ta posel je bil za Ratnerse v dobro
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:14254.0
+passage.questions.0.answers.1.text:Slab
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:14253
+passage.questions.0.answers.0.text:Dobro
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:14252
+idx:243

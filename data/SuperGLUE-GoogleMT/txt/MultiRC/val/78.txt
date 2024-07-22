@@ -1,0 +1,276 @@
+version:1.1
+passage.text:Rimljani: Legenda pravi, da je Rim ustanovil Romulus, ga je z bratom dvojčkom Remom ustanovil Mars z Vestalke in ga zapustil na Palatinskem hribu, da bi ga dojil volk. Zgodovinarji se strinjajo z ustvarjalci mitov, da sta najdišče in tradicionalni datum ustanovitve 753 pr. N. Št. Skoraj pravi. Pod etruščansko prevlado je bil Rim monarhija, dokler upor leta 510 pr. N. Št. Ni vzpostavil patricijske republike, ki je trajala pet stoletij. V nasprotju z drugimi italijanskimi mesti, oslabljenimi z notranjim rivalstvom in nestabilno vlado, je Rim moč črpal iz trdne aristokracije konzulov in senatov, ki so vladali nad plebeji, ponosnimi na svoje rimsko državljanstvo in le redko upornimi. Rimljani so si hitro opomogli od galske invazije 390 pr. N. Št. Z vojaškim osvajanjem, ki ga je okrepila mreža cest z imeni, ki obstajajo do danes: Via Appia, Flaminia, Aurelia. Vse ceste so res vodile do Rima in iz njega. Do 250 pr. N. Št. Je mestno prebivalstvo naraslo na impresivnih 100.000. Rimska moč se je razširila po vsem Sredozemlju z zmago v punskih vojnah proti Kartagini (danes Tunizija) in osvajanjih v Makedoniji, Mali Aziji, Španiji in južni Franciji. Preostala Italija je sodelovala le z davčnimi prispevki za vojna prizadevanja in manjšim sodelovanjem v trgovini in kolonizaciji. Nezadovoljstvo se je pojavilo, ko so nekdanja etruščanska ali grška mesta, kot so Kapua, Sirakuza in Taranto, podpirala Hanibalovo invazijo leta 218 pr.n.št. Tretja in zadnja punska vojna se je končala leta 149 pred našim štetjem, čeprav je bila nacionalna solidarnost še daleč. Pod Julijem Cezarjem, izvoljenim leta 59 pr
+passage.questions.9.question:Kakšen je bil čas med koncem tretje punske vojne in izvolitvijo Julija Cezarja, ki je prinesel nacionalno solidarnost?
+passage.questions.9.idx:906.0
+passage.questions.9.answers.4.text:90 let
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:4614.0
+passage.questions.9.answers.3.text:59
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:4613.0
+passage.questions.9.answers.2.text:250
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4612.0
+passage.questions.9.answers.1.text:100 let
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4611.0
+passage.questions.9.answers.0.text:89
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4610.0
+passage.questions.8.question:Kakšna metoda je bila, da je Rim prevzel nadzor nad polotokom?
+passage.questions.8.idx:905.0
+passage.questions.8.answers.5.text:Ceste in vojaška osvajanja
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:4609.0
+passage.questions.8.answers.4.text:Vojni napor
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:4608.0
+passage.questions.8.answers.3.text:Invazija
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4607.0
+passage.questions.8.answers.2.text:Mirno pogajanje
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4606.0
+passage.questions.8.answers.1.text:Upor
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4605.0
+passage.questions.8.answers.0.text:Vojaško osvajanje
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4604.0
+passage.questions.7.question:V katerem letu se je rimsko prebivalstvo povečalo na 100.000 posameznikov?
+passage.questions.7.idx:904.0
+passage.questions.7.answers.4.text:Do 250 pr
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:4603.0
+passage.questions.7.answers.3.text:200 pr
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4602.0
+passage.questions.7.answers.2.text:250 pr
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4601.0
+passage.questions.7.answers.1.text:Po 250 pr
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:4600.0
+passage.questions.7.answers.0.text:149 pr
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4599.0
+passage.questions.6.question:Kateri dogodek je v Rimu pet stoletij ustanovil patricijsko republiko?
+passage.questions.6.idx:903.0
+passage.questions.6.answers.5.text:Invazija
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:4598.0
+passage.questions.6.answers.4.text:Pod etruščansko
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:4597.0
+passage.questions.6.answers.3.text:Pod prusko
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:4596.0
+passage.questions.6.answers.2.text:Upor leta 510 pr
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:4595.0
+passage.questions.6.answers.1.text:Rivalstva
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4594.0
+passage.questions.6.answers.0.text:Upor
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4593.0
+passage.questions.5.question:Prebivalstvo katerega mesta se je povečalo na 100.000 za 250 pr.
+passage.questions.5.idx:902.0
+passage.questions.5.answers.4.text:Rim
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4592.0
+passage.questions.5.answers.3.text:Tunizija
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4591.0
+passage.questions.5.answers.2.text:Benetke
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4590.0
+passage.questions.5.answers.1.text:Kartagina
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4589.0
+passage.questions.5.answers.0.text:Sredozemsko
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4588.0
+passage.questions.4.question:Kakšno je splošno soglasje o ustanovitvi Rima?
+passage.questions.4.idx:901.0
+passage.questions.4.answers.4.text:Rim sta ustanovila Romul in Rem na Palatinskem griču okoli leta 753 pr
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:4587.0
+passage.questions.4.answers.3.text:Mars je bil Romulov in Remov oče
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4586.0
+passage.questions.4.answers.2.text:Spletna stran in tradicionalni datum ustanovitve leta 753 pr. N. Št. Sta povsem prava
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4585.0
+passage.questions.4.answers.1.text:Rim je ustanovil Romul
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:4584.0
+passage.questions.4.answers.0.text:Romul je imel brata dvojčka po imenu Rem
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4583.0
+passage.questions.3.question:Kolikokrat je bil vstaj v Rimu?
+passage.questions.3.idx:900.0
+passage.questions.3.answers.3.text:3.
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4582.0
+passage.questions.3.answers.2.text:Dvakrat, sprva, ko se je monarhija končala, in spet, ko je napadel Hannibal
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4581.0
+passage.questions.3.answers.1.text:6.
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4580.0
+passage.questions.3.answers.0.text:5.
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4579.0
+passage.questions.2.question:Kaj so storili Rimljani, ko so si opomogli od galske invazije leta 390 pr.
+passage.questions.2.idx:899
+passage.questions.2.answers.6.text:Nad polotokom so prevzeli vojaško osvajanje
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:4578.0
+passage.questions.2.answers.5.text:Učinkovit nadzor polotoka
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:4577.0
+passage.questions.2.answers.4.text:Učinkovit nadzor morja
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4576.0
+passage.questions.2.answers.3.text:Razširite svojo moč
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4575.0
+passage.questions.2.answers.2.text:Povečalo prebivalstvo mesta
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4574.0
+passage.questions.2.answers.1.text:Z vojaškim osvajanjem prevzel učinkovit nadzor nad polotokom
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:4573
+passage.questions.2.answers.0.text:Ustanovila patricijsko republiko
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:4572
+passage.questions.14.question:Kdaj se je število prebivalcev Rima povečalo na 100.000?
+passage.questions.14.idx:911.0
+passage.questions.14.answers.4.text:Pred 250 pr
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:4641.0
+passage.questions.14.answers.3.text:Do 250 pr
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:4640.0
+passage.questions.14.answers.2.text:260 pr
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:4639.0
+passage.questions.14.answers.1.text:250 pr
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:4638.0
+passage.questions.14.answers.0.text:390 pr
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:4637.0
+passage.questions.13.question:Kako dolgo je Rim vladal kot monarhija?
+passage.questions.13.idx:910.0
+passage.questions.13.answers.4.text:243 let
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:4636.0
+passage.questions.13.answers.3.text:241
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:4635.0
+passage.questions.13.answers.2.text:510
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:4634.0
+passage.questions.13.answers.1.text:390
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:4633.0
+passage.questions.13.answers.0.text:233 let
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:4632.0
+passage.questions.12.question:Kdaj se je Rim spremenil v patricijsko republiko?
+passage.questions.12.idx:909.0
+passage.questions.12.answers.5.text:10 pr
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:4631.0
+passage.questions.12.answers.4.text:520 pr
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:4630.0
+passage.questions.12.answers.3.text:510 pr
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:4629.0
+passage.questions.12.answers.2.text:390 pr
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:4628.0
+passage.questions.12.answers.1.text:510 pr
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:4627.0
+passage.questions.12.answers.0.text:750 pr
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:4626.0
+passage.questions.11.question:Katere tri moderne rimske ceste so prispevale k ideji, da vse ceste vodijo v Rim in iz njega?
+passage.questions.11.idx:908.0
+passage.questions.11.answers.4.text:Preko Appia, Flaminia, Aurelia
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:4625.0
+passage.questions.11.answers.3.text:Etruščanski, italijanski, sredozemski
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4624.0
+passage.questions.11.answers.2.text:Apia, Firence, Aurora
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4623.0
+passage.questions.11.answers.1.text:Romul, Rem
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4622.0
+passage.questions.11.answers.0.text:Makedonija, Mala Azija, Španija
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4621.0
+passage.questions.10.question:Kdaj so Rimljani prevzeli nadzor nad polotokom?
+passage.questions.10.idx:907.0
+passage.questions.10.answers.5.text:Nekaj let po 390 pr
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:4620.0
+passage.questions.10.answers.4.text:10 pr
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:4619.0
+passage.questions.10.answers.3.text:390 pr
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:4618.0
+passage.questions.10.answers.2.text:380 pr
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4617.0
+passage.questions.10.answers.1.text:510 pr
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4616.0
+passage.questions.10.answers.0.text:750 pr
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:4615.0
+passage.questions.1.question:V katerem letu je bil po mitu ustanovljen Rim in na katerem mestu?
+passage.questions.1.idx:898
+passage.questions.1.answers.5.text:Palatinski grič, 753 pr
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:4571.0
+passage.questions.1.answers.4.text:753 pr
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:4570.0
+passage.questions.1.answers.3.text:510 pr
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4569.0
+passage.questions.1.answers.2.text:510 pr.n.št. &amp; Misty Hill
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4568.0
+passage.questions.1.answers.1.text:753 pr. N. Št. In hrib Palatin
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:4567
+passage.questions.1.answers.0.text:Sredozemsko
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:4566
+passage.questions.0.question:Kateri voditelj je Rimu dal nacionalno solidarnost?
+passage.questions.0.idx:897
+passage.questions.0.answers.4.text:Nikolaja
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4565.0
+passage.questions.0.answers.3.text:Julij Cezar
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4564.0
+passage.questions.0.answers.2.text:Italijani
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4563.0
+passage.questions.0.answers.1.text:Kartažani
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:4562
+passage.questions.0.answers.0.text:Hannibal
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4561
+idx:78

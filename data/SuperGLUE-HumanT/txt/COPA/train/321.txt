@@ -1,0 +1,6 @@
+﻿choice1:Prodajalec mu ga je prodal.
+choice2:Pogajal se je s prodajalcem.
+idx:321
+label:1
+premise:Stranka je menila, da je spominek predrag.
+question:effect

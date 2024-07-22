@@ -1,0 +1,290 @@
+version:1.1
+passage.text:Lastnosti snovi so odvisne od vrst atomov, iz katerih je snov sestavljena. Materija lahko obstaja v dveh oblikah. Lahko je čista snov. To pomeni, da se ne meša z ničemer. Lahko je tudi kombinacija različnih snovi. To pomeni, da gre lahko za mešanico različnih vrst atomov. Lahko se spomnite, da se atomi razlikujejo glede na število protonov, ki jih vsebujejo. Nekateri atomi vsebujejo samo en proton, kot je vodik. Drugi atomi vsebujejo veliko protonov. Obstaja veliko vrst atomov. Helij ima na primer dva protona. Atom kisika ima osem. Voda je sestavljena iz dveh vrst atomov. Voda je sestavljena iz dveh atomov vodika in enega atoma kisika. Obstaja samo toliko vrst atomov. Te atome lahko zmešamo v skoraj neomejeno količino snovi. Kako torej imenujemo snov, ki ima samo eno vrsto atoma?
+passage.questions.9.question:Če je snov čista snov, ali je z nečim pomešana?
+passage.questions.9.idx:3318.0
+passage.questions.9.answers.3.text:Ne, to pomeni, da se ne meša z ničemer
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:17481.0
+passage.questions.9.answers.2.text:Da
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:17480.0
+passage.questions.9.answers.1.text:Čista snov
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:17479.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:17478.0
+passage.questions.8.question:Kateri dve obliki snovi obstajata?
+passage.questions.8.idx:3317.0
+passage.questions.8.answers.5.text:Čista snov
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:17477.0
+passage.questions.8.answers.4.text:Mešanica snovi
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:17476.0
+passage.questions.8.answers.3.text:Lahko je čista snov ali pa je lahko tudi kombinacija različnih snovi
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:17475.0
+passage.questions.8.answers.2.text:Lahko je mešanica različnih vrst atomov
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:17474.0
+passage.questions.8.answers.1.text:Vodik
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:17473.0
+passage.questions.8.answers.0.text:Helij
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:17472.0
+passage.questions.7.question:Kaj vsebuje voda?
+passage.questions.7.idx:3316.0
+passage.questions.7.answers.6.text:Dušik
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:17471.0
+passage.questions.7.answers.5.text:Atomi vodika in kisika
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:17470.0
+passage.questions.7.answers.4.text:Dve vrsti atomov. Voda je sestavljena iz dveh atomov vodika in enega atoma kisika
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:17469.0
+passage.questions.7.answers.3.text:Ogljik
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:17468.0
+passage.questions.7.answers.2.text:Kisik
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:17467.0
+passage.questions.7.answers.1.text:Vodik
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:17466.0
+passage.questions.7.answers.0.text:Helij
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:17465.0
+passage.questions.6.question:Kateri sta dve vrsti atomov po odstavku?
+passage.questions.6.idx:3315.0
+passage.questions.6.answers.5.text:Mešanica
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:17464.0
+passage.questions.6.answers.4.text:Atomi, ki vsebujejo samo en proton, in atomi, ki vsebujejo veliko protonov
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:17463.0
+passage.questions.6.answers.3.text:Vodik
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:17462.0
+passage.questions.6.answers.2.text:Kisik
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:17461.0
+passage.questions.6.answers.1.text:Čisto
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:17460.0
+passage.questions.6.answers.0.text:Helij
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:17459.0
+passage.questions.5.question:Kaj pomeni čista snov?
+passage.questions.5.idx:3314.0
+passage.questions.5.answers.4.text:To pomeni, da se ne meša z ničemer
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:17458.0
+passage.questions.5.answers.3.text:To pomeni, da gre lahko za mešanico različnih vrst atomov
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:17457.0
+passage.questions.5.answers.2.text:Ena vrsta atoma
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:17456.0
+passage.questions.5.answers.1.text:Z vsaj dvema istima atomoma
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:17455.0
+passage.questions.5.answers.0.text:Mešano z drugimi snovmi
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:17454.0
+passage.questions.4.question:Koliko protonov vsebujejo atomi?
+passage.questions.4.idx:3313.0
+passage.questions.4.answers.4.text:Dva protona
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:17453.0
+passage.questions.4.answers.3.text:Nekateri atomi vsebujejo samo en proton, drugi atomi pa veliko protonov
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:17452.0
+passage.questions.4.answers.2.text:Lahko vsebujejo enega ali več
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:17451.0
+passage.questions.4.answers.1.text:Nekateri atomi vsebujejo samo en proton, kot je vodik. Drugi atomi vsebujejo veliko protonov
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17450.0
+passage.questions.4.answers.0.text:Vedno vsebujejo 1
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:17449.0
+passage.questions.3.question:Koliko več protonov ima helij kot vodik?
+passage.questions.3.idx:3312.0
+passage.questions.3.answers.4.text:3.
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:17448.0
+passage.questions.3.answers.3.text:1. Vodik ima samo en proton, zakaj ima helij 2 protona. 2-1 = 1
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:17447.0
+passage.questions.3.answers.2.text:Vleči protone
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:17446.0
+passage.questions.3.answers.1.text:1.
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:17445.0
+passage.questions.3.answers.0.text:Helij ima en proton več kot vodik
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:17444.0
+passage.questions.2.question:Iz katerih atomov je sestavljena voda?
+passage.questions.2.idx:3311.0
+passage.questions.2.answers.5.text:Atomi vodika in kisika
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:17443.0
+passage.questions.2.answers.4.text:Pozitivno
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:17442.0
+passage.questions.2.answers.3.text:Kisik
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:17441.0
+passage.questions.2.answers.2.text:Vodik
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:17440.0
+passage.questions.2.answers.1.text:Helij
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:17439.0
+passage.questions.2.answers.0.text:2 vodika in 1 atom kisika
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:17438.0
+passage.questions.15.question:Katera oblika snovi se ne meša z ničemer?
+passage.questions.15.idx:3324.0
+passage.questions.15.answers.3.text:Mešanica
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:17513.0
+passage.questions.15.answers.2.text:Čista snov
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:17512.0
+passage.questions.15.answers.1.text:Kombinacija različnih snovi
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:17511.0
+passage.questions.15.answers.0.text:Čisto
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:17510.0
+passage.questions.14.question:Katera dva atoma sestavlja voda?
+passage.questions.14.idx:3323.0
+passage.questions.14.answers.6.text:Voda je sestavljena iz dveh atomov vodika in enega atoma kisika
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:17509.0
+passage.questions.14.answers.5.text:Atomi vodika in kisika
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:17508.0
+passage.questions.14.answers.4.text:Ogljik
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:17507.0
+passage.questions.14.answers.3.text:Helij in vodik
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:17506.0
+passage.questions.14.answers.2.text:Kisik
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:17505.0
+passage.questions.14.answers.1.text:Vodik
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:17504.0
+passage.questions.14.answers.0.text:Helij
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:17503.0
+passage.questions.13.question:Ali imajo nekateri atomi veliko protonov, drugi pa zelo malo?
+passage.questions.13.idx:3322.0
+passage.questions.13.answers.3.text:Nekateri atomi vsebujejo samo en proton. Drugi atomi vsebujejo veliko protonov
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:17502.0
+passage.questions.13.answers.2.text:Da
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:17501.0
+passage.questions.13.answers.1.text:Atomi vsebujejo en proton
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:17500.0
+passage.questions.13.answers.0.text:Ne
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:17499.0
+passage.questions.12.question:V kakšnih dveh oblikah lahko snov obstaja?
+passage.questions.12.idx:3321.0
+passage.questions.12.answers.5.text:Mešanica
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:17498.0
+passage.questions.12.answers.4.text:Dva protona
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:17497.0
+passage.questions.12.answers.3.text:Atomi
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:17496.0
+passage.questions.12.answers.2.text:Lahko je čista snov ali pa je lahko tudi kombinacija različnih snovi
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:17495.0
+passage.questions.12.answers.1.text:Čisto
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:17494.0
+passage.questions.12.answers.0.text:Ioni
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:17493.0
+passage.questions.11.question:Katera vrsta snovi pomeni, da jo lahko sestavlja mešanica različnih vrst atomov?
+passage.questions.11.idx:3320.0
+passage.questions.11.answers.3.text:Mešanica
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:17492.0
+passage.questions.11.answers.2.text:Kombinacija različnih snovi
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:17491.0
+passage.questions.11.answers.1.text:Čista snov
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:17490.0
+passage.questions.11.answers.0.text:Čisto
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:17489.0
+passage.questions.10.question:V kakšnih dveh oblikah lahko obstaja snov?
+passage.questions.10.idx:3319.0
+passage.questions.10.answers.6.text:Mešanica
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:17488.0
+passage.questions.10.answers.5.text:Atomi
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:17487.0
+passage.questions.10.answers.4.text:Čista snov in kombinacija različnih snovi
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:17486.0
+passage.questions.10.answers.3.text:Lahko je čista snov ali pa je lahko tudi kombinacija različnih snovi
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:17485.0
+passage.questions.10.answers.2.text:Kombinacija različnih snovi
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:17484.0
+passage.questions.10.answers.1.text:Kemikalije
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:17483.0
+passage.questions.10.answers.0.text:Čisto
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:17482.0
+passage.questions.1.question:Če je snov sestavljena iz različnih vrst snovi, je lahko sestavljena iz številnih različnih vrst česa?
+passage.questions.1.idx:3310.0
+passage.questions.1.answers.3.text:Lahko je mešanica različnih vrst atomov
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:17437.0
+passage.questions.1.answers.2.text:Atomi
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:17436.0
+passage.questions.1.answers.1.text:Voda
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:17435.0
+passage.questions.1.answers.0.text:Kombinacija različnih snovi
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:17434.0
+passage.questions.0.question:Kateri sta dve obliki snovi?
+passage.questions.0.idx:3309
+passage.questions.0.answers.4.text:Atomi
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:17433.0
+passage.questions.0.answers.3.text:Čista snov ali zmes snovi
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:17432.0
+passage.questions.0.answers.2.text:Lahko je čista snov ali pa je lahko tudi kombinacija različnih snovi
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:17431.0
+passage.questions.0.answers.1.text:Kisik
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:17430
+passage.questions.0.answers.0.text:En protoni in lahko protoni
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:17429
+idx:290

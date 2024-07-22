@@ -1,0 +1,255 @@
+version:1.1
+passage.text:Washington (CNN) - Pacifiška otoška država Palau se je strinjala, da bo sprejela 17 kitajskih muslimanov v ameriškem zaporniškem taborišču v zalivu Guantanamo na Kubi, je v sredo dejal veleposlanik države v ZDA. Zemljevid prikazuje pacifiško otoško državo Palau glede na Kitajsko. Podrobnosti o premestitvi še vedno potekajo, je za CNN povedal veleposlanik Hersey Kyota. Toda Kyota je dejal, da se je njegova država, nekdanje ozemlje ameriškega pacifiškega zaupanja, strinjala, da bo prijela etnične ujgurske zapornike &quot;iz humanitarnih razlogov&quot; in zaradi &quot;posebnih odnosov&quot; med Palaujem in ZDA. Tiskovni predstavnik ameriškega zunanjega ministrstva Ian Kelly napovedi ni komentiral in novinarjem dejal: &quot;Še vedno sodelujemo v tekočih razpravah.&quot; Sporazum vključuje nekaj ameriške pomoči za Palau, je dejal Kyota, a dejal je, da je treba te podrobnosti še razdelati. Država s približno 20.000 prebivalci je približno 1.000 milj jugovzhodno od Manile na Filipinih in približno 4.600 milj zahodno od Havajev. Po navedbah kongresnih revizorjev je Palau po neodvisnosti leta 1994 prejel skoraj 900 milijonov ameriških dolarjev pomoči, od obrambe pa je odvisen od Washingtona. &quot;Dogovor o svobodnem združevanju&quot; med Palaujem in ZDA je na pregledu, Kelly pa je dejala, da kakršna koli dodatna ponudba pomoči &quot;ni povezana z nobenim drugim pogovorom z vlado Palaua.&quot; Ujgure so obtožili, da so v Afganistanu prejemali orožje in vojaško usposabljanje.
+passage.questions.9.question:Kakšne narodnosti ima 17 kitajskih muslimanov v zalivu Guantanamo?
+passage.questions.9.idx:3829.0
+passage.questions.9.answers.6.text:Filipino
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:20338.0
+passage.questions.9.answers.5.text:Havajski
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:20337.0
+passage.questions.9.answers.4.text:Ujgurski
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:20336.0
+passage.questions.9.answers.3.text:ameriški
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:20335.0
+passage.questions.9.answers.2.text:Afganistanci
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:20334.0
+passage.questions.9.answers.1.text:Pridržani so etnični Ujguri
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:20333.0
+passage.questions.9.answers.0.text:Kitajski
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:20332.0
+passage.questions.8.question:Kam so bili premeščeni zaporniki?
+passage.questions.8.idx:3828.0
+passage.questions.8.answers.4.text:Nacija pacifiškega otoka
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:20331.0
+passage.questions.8.answers.3.text:Palau
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:20330.0
+passage.questions.8.answers.2.text:Filipini
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:20329.0
+passage.questions.8.answers.1.text:Washington
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:20328.0
+passage.questions.8.answers.0.text:Havaji
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:20327.0
+passage.questions.7.question:Kje so trenutno zaprti Ujgurci?
+passage.questions.7.idx:3827.0
+passage.questions.7.answers.7.text:Palau
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:20326.0
+passage.questions.7.answers.6.text:Zaliv Guantanamo
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:20325.0
+passage.questions.7.answers.5.text:Kuba,
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:20324.0
+passage.questions.7.answers.4.text:Trenutno so v zalivu Guantanamo
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:20323.0
+passage.questions.7.answers.3.text:Pacifiški otoki
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:20322.0
+passage.questions.7.answers.2.text:Zaliv Guantanamo na Kubi
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:20321.0
+passage.questions.7.answers.1.text:Afganistanu
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:20320.0
+passage.questions.7.answers.0.text:Manilla, Filipini
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:20319.0
+passage.questions.6.question:Katera država ima 20.000 prebivalcev?
+passage.questions.6.idx:3826.0
+passage.questions.6.answers.5.text:Palau
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:20318.0
+passage.questions.6.answers.4.text:Pacifiški otoki
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:20317.0
+passage.questions.6.answers.3.text:Kitajska
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:20316.0
+passage.questions.6.answers.2.text:Filipini
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:20315.0
+passage.questions.6.answers.1.text:Afganistanu
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:20314.0
+passage.questions.6.answers.0.text:Filipini
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:20313.0
+passage.questions.5.question:Kdo je veleposlanik v ZDA s Palaua?
+passage.questions.5.idx:3825.0
+passage.questions.5.answers.4.text:Hersey Kyota
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:20312.0
+passage.questions.5.answers.3.text:Kyota
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:20311.0
+passage.questions.5.answers.2.text:Veleposlanik Palau
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:20310.0
+passage.questions.5.answers.1.text:Ujgurji
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:20309.0
+passage.questions.5.answers.0.text:Ian Kelly
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:20308.0
+passage.questions.4.question:Kakšen je dogovor med Palauom in ZDA?
+passage.questions.4.idx:3824.0
+passage.questions.4.answers.6.text:Poseben odnos
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:20307.0
+passage.questions.4.answers.5.text:Skoraj 900 milijonov dolarjev
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:20306.0
+passage.questions.4.answers.4.text:Humanitarni sporazum
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:20305.0
+passage.questions.4.answers.3.text:Pomoč za pridržane
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:20304.0
+passage.questions.4.answers.2.text:Kompakt svobodnega združevanja
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:20303.0
+passage.questions.4.answers.1.text:Vključuje nekaj pomoči ZDA
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:20302.0
+passage.questions.4.answers.0.text:Palau bo prevzel kitajske muslimane, ZDA pa Palau denarno pomoč
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:20301.0
+passage.questions.3.question:Katera država ima približno 20.000 prebivalcev?
+passage.questions.3.idx:3823.0
+passage.questions.3.answers.6.text:Palau
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:20300.0
+passage.questions.3.answers.5.text:Pacifiški otoki
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:20299.0
+passage.questions.3.answers.4.text:Kitajska
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:20298.0
+passage.questions.3.answers.3.text:Filipini
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:20297.0
+passage.questions.3.answers.2.text:Afganistanu
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:20296.0
+passage.questions.3.answers.1.text:Filipini
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:20295.0
+passage.questions.3.answers.0.text:Pacifiška otoška država Palau
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:20294.0
+passage.questions.2.question:Kje je 17 pridržanih kitajskih muslimanov, ki so obtoženi vojaškega usposabljanja?
+passage.questions.2.idx:3822.0
+passage.questions.2.answers.5.text:Kitajska
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:20293.0
+passage.questions.2.answers.4.text:Filipini
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:20292.0
+passage.questions.2.answers.3.text:Afganistanu
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:20291.0
+passage.questions.2.answers.2.text:Washington
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:20290.0
+passage.questions.2.answers.1.text:Havaji
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:20289.0
+passage.questions.2.answers.0.text:Filipini
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:20288.0
+passage.questions.11.question:Kako se imenujejo kitajski muslimani?
+passage.questions.11.idx:3831.0
+passage.questions.11.answers.4.text:Havajci
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:20350.0
+passage.questions.11.answers.3.text:Kyota
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:20349.0
+passage.questions.11.answers.2.text:Palau
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:20348.0
+passage.questions.11.answers.1.text:Etnične pripadnice
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:20347.0
+passage.questions.11.answers.0.text:Ujgurji
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:20346.0
+passage.questions.10.question:Kaj so bili obtoženi kitajski muslimani?
+passage.questions.10.idx:3830.0
+passage.questions.10.answers.6.text:Prejemanje orožja iz Afganistana
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:20345.0
+passage.questions.10.answers.5.text:Vključen v tekoče razprave
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:20344.0
+passage.questions.10.answers.4.text:Kršitev trgovinskih sporazumov
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:20343.0
+passage.questions.10.answers.3.text:Prejemanje orožja in vojaško usposabljanje v Afganistanu
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:20342.0
+passage.questions.10.answers.2.text:Vojaško usposabljanje iz Afganistana
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:20341.0
+passage.questions.10.answers.1.text:Pomoč sovražniku
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:20340.0
+passage.questions.10.answers.0.text:Bombardiranje State Departmenta
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:20339.0
+passage.questions.1.question:Kakšna je novica, ki poroča o zgodbi?
+passage.questions.1.idx:3821.0
+passage.questions.1.answers.5.text:BBC
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:20287.0
+passage.questions.1.answers.4.text:CNBC
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:20286.0
+passage.questions.1.answers.3.text:Aljazeera
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:20285.0
+passage.questions.1.answers.2.text:CNN
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:20284.0
+passage.questions.1.answers.1.text:MSNBC
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:20283.0
+passage.questions.1.answers.0.text:ZDA
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:20282.0
+passage.questions.0.question:Kako se imenuje narod, ki drži zapornike?
+passage.questions.0.idx:3820
+passage.questions.0.answers.6.text:Združene države
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:20281.0
+passage.questions.0.answers.5.text:Palau
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:20280.0
+passage.questions.0.answers.4.text:Manilla
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:20279.0
+passage.questions.0.answers.3.text:Kuba
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:20278.0
+passage.questions.0.answers.2.text:Kitajska
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:20277.0
+passage.questions.0.answers.1.text:Afganistanu
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:20276
+passage.questions.0.answers.0.text:Združene države
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:20275
+idx:333

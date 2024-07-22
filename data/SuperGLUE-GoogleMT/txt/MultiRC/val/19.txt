@@ -1,0 +1,444 @@
+version:1.1
+passage.text:Einstein in Maric sta se poročila januarja 1903. Maja 1904 se je v Bernu v Švici rodil prvi sin para Hans Albert Einstein. Njun drugi sin Eduard se je rodil v Zürichu julija 1910. Leta 1914 sta se zakonca ločila; Einstein se je preselil v Berlin, njegova žena pa je ostala v Zürichu s svojimi sinovi. Ločila sta se 14. februarja 1919, ko sta pet let živela ločeno. Eduard, ki ga je njegov oče imenoval &quot;Tete&quot; (za petit), je imel okvaro pri približno 20 letih in je bila diagnosticirana s shizofrenijo. Njegova mati je skrbela zanj in tudi on je bil nekaj časa zavezan azilom, vključno s polnim delovnim časom po njeni smrti. Zdi se, da zakon z Maričem ni bil prav srečen. V pismih, razkritih leta 2015, je Einstein pisal svoji zgodnji ljubezni Marie Winteler o svoji poroki in še vedno močnih občutkih do Marie. Leta 1910 ji je zapisal, da &quot;vsako srčno ljubezen mislim nate iz srca in sem tako nesrečen, kot je lahko samo moški&quot;, medtem ko je bila njegova žena noseča z njunim drugim otrokom. Einstein je govoril o &quot;zgrešeni ljubezni&quot; in &quot;zgrešenem življenju&quot; glede svoje ljubezni do Marie. Einstein se je z Elso Lowenthal poročil 2. junija 1919, potem ko je imel zvezo z njo od leta 1912. Bila je prvi bratranec po materi in drugi bratranec po očetu. Leta 1933 so se izselili v ZDA. Leta 1935 so Elsi Einstein diagnosticirali težave s srcem in ledvicami; umrla je decembra 1936.
+passage.questions.9.question:Komu je Einstein pisal, ko je bila njegova žena Marič noseča z njunim drugim otrokom?
+passage.questions.9.idx:207.0
+passage.questions.9.answers.4.text:Srčna ljubezen
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:1066.0
+passage.questions.9.answers.3.text:Njegova žena
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1065.0
+passage.questions.9.answers.2.text:Marie Winteler
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:1064.0
+passage.questions.9.answers.1.text:Moški
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1063.0
+passage.questions.9.answers.0.text:Njun drugi otrok
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1062.0
+passage.questions.8.question:Kako dolgo je bil Einstein v zvezi z Elzo, preden se je ločil od Mariča?
+passage.questions.8.idx:206.0
+passage.questions.8.answers.4.text:2 leti
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:1061.0
+passage.questions.8.answers.3.text:4 leta
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:1060.0
+passage.questions.8.answers.2.text:5 let
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1059.0
+passage.questions.8.answers.1.text:14 let
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1058.0
+passage.questions.8.answers.0.text:16 let
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1057.0
+passage.questions.7.question:Je bil leta 1930 Einsteinovemu starejšemu ali mlajšemu sinu diagnosticirana shizofrenija?
+passage.questions.7.idx:205.0
+passage.questions.7.answers.1.text:Starejši
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1056.0
+passage.questions.7.answers.0.text:Mlajši
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1055.0
+passage.questions.6.question:Kdo ni ostal v Zürichu po ločitvi Alberta in Mariča?
+passage.questions.6.idx:204.0
+passage.questions.6.answers.6.text:Einstein
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:1054.0
+passage.questions.6.answers.5.text:Eduard
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:1053.0
+passage.questions.6.answers.4.text:Tete
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:1052.0
+passage.questions.6.answers.3.text:Elsa
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:1051.0
+passage.questions.6.answers.2.text:Marič
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1050.0
+passage.questions.6.answers.1.text:Lady Lowenthal
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1049.0
+passage.questions.6.answers.0.text:Hans
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1048.0
+passage.questions.5.question:V čem je Einstein podoben svojemu očetu?
+passage.questions.5.idx:203.0
+passage.questions.5.answers.2.text:Oba imata v ljubezenskem življenju nezvestobo
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1047.0
+passage.questions.5.answers.1.text:Einstein in njegov oče sta pisala svoji zgodnji ljubezni Marie Winteler
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1046.0
+passage.questions.5.answers.0.text:Povezava z Elzo Lowenthal od leta 1912
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1045.0
+passage.questions.4.question:Kako dolgo sta bila Einstein in Maric zakonito poročena?
+passage.questions.4.idx:202.0
+passage.questions.4.answers.4.text:2 leti
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1044.0
+passage.questions.4.answers.3.text:4 leta
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1043.0
+passage.questions.4.answers.2.text:6 let
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1042.0
+passage.questions.4.answers.1.text:5 let
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1041.0
+passage.questions.4.answers.0.text:16 let
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1040.0
+passage.questions.3.question:Kje je živela Elsa Einstein, ko so ji diagnosticirali težave s srcem in ledvicami?
+passage.questions.3.idx:201.0
+passage.questions.3.answers.3.text:Združene države
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:1039.0
+passage.questions.3.answers.2.text:Zürich
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1038.0
+passage.questions.3.answers.1.text:V srcu Einsteina
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1037.0
+passage.questions.3.answers.0.text:December 1936
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1036.0
+passage.questions.23.question:Kako dolgo sta bila Einstein in Maric poročena, preden se jima je rodil prvi otrok?
+passage.questions.23.idx:221.0
+passage.questions.23.answers.5.text:Vsaj 1 leto
+passage.questions.23.answers.5.label:1.0
+passage.questions.23.answers.5.idx:1152.0
+passage.questions.23.answers.4.text:4 leta
+passage.questions.23.answers.4.label:0,0
+passage.questions.23.answers.4.idx:1151.0
+passage.questions.23.answers.3.text:1 leto in 4 mesece
+passage.questions.23.answers.3.label:1.0
+passage.questions.23.answers.3.idx:1150.0
+passage.questions.23.answers.2.text:5 let
+passage.questions.23.answers.2.label:0,0
+passage.questions.23.answers.2.idx:1149.0
+passage.questions.23.answers.1.text:14 let
+passage.questions.23.answers.1.label:0,0
+passage.questions.23.answers.1.idx:1148.0
+passage.questions.23.answers.0.text:16 let
+passage.questions.23.answers.0.label:0,0
+passage.questions.23.answers.0.idx:1147.0
+passage.questions.22.question:Kdo je mati &quot;Tete&quot;?
+passage.questions.22.idx:220.0
+passage.questions.22.answers.7.text:Einstein
+passage.questions.22.answers.7.label:0,0
+passage.questions.22.answers.7.idx:1146.0
+passage.questions.22.answers.6.text:Eduard
+passage.questions.22.answers.6.label:0,0
+passage.questions.22.answers.6.idx:1145.0
+passage.questions.22.answers.5.text:2. sin
+passage.questions.22.answers.5.label:0,0
+passage.questions.22.answers.5.idx:1144.0
+passage.questions.22.answers.4.text:Elsa
+passage.questions.22.answers.4.label:0,0
+passage.questions.22.answers.4.idx:1143.0
+passage.questions.22.answers.3.text:Marič
+passage.questions.22.answers.3.label:1.0
+passage.questions.22.answers.3.idx:1142.0
+passage.questions.22.answers.2.text:Hansov mlajši brat
+passage.questions.22.answers.2.label:0,0
+passage.questions.22.answers.2.idx:1141.0
+passage.questions.22.answers.1.text:Oče
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:1140.0
+passage.questions.22.answers.0.text:Hans
+passage.questions.22.answers.0.label:0,0
+passage.questions.22.answers.0.idx:1139.0
+passage.questions.21.question:Kolikokrat je bil Einstein poročen?
+passage.questions.21.idx:219.0
+passage.questions.21.answers.2.text:Najprej
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:1138.0
+passage.questions.21.answers.1.text:Drugič
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:1137.0
+passage.questions.21.answers.0.text:Dvakrat
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:1136.0
+passage.questions.20.question:Einstein in Elsa sta bila poročena?
+passage.questions.20.idx:218.0
+passage.questions.20.answers.5.text:7 let
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:1135.0
+passage.questions.20.answers.4.text:10 let
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:1134.0
+passage.questions.20.answers.3.text:4 leta
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:1133.0
+passage.questions.20.answers.2.text:17 let
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:1132.0
+passage.questions.20.answers.1.text:5 let
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:1131.0
+passage.questions.20.answers.0.text:16 let
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:1130.0
+passage.questions.2.question:Kako dolgo sta bila Einstein in Maric poročena, preden se jima je rodil drugi otrok?
+passage.questions.2.idx:200
+passage.questions.2.answers.4.text:4 leta
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:1035.0
+passage.questions.2.answers.3.text:7 let in 6 mesecev
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:1034.0
+passage.questions.2.answers.2.text:5 let
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1033.0
+passage.questions.2.answers.1.text:14 let
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:1032
+passage.questions.2.answers.0.text:16 let
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1031
+passage.questions.19.question:Kako dolgo je trajal zakon staršev Alberta Einsteina?
+passage.questions.19.idx:217.0
+passage.questions.19.answers.4.text:20 let
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:1129.0
+passage.questions.19.answers.3.text:15 let
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:1128.0
+passage.questions.19.answers.2.text:5 let
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:1127.0
+passage.questions.19.answers.1.text:Starša Alberta Einsteina sta bila poročena 16 let
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:1126.0
+passage.questions.19.answers.0.text:16 let
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:1125.0
+passage.questions.18.question:Kdaj so se rodili otroci Einsteina in Mariča?
+passage.questions.18.idx:216.0
+passage.questions.18.answers.4.text:1914
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:1124.0
+passage.questions.18.answers.3.text:1904
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:1123.0
+passage.questions.18.answers.2.text:1912
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:1122.0
+passage.questions.18.answers.1.text:1910
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:1121.0
+passage.questions.18.answers.0.text:1903
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:1120.0
+passage.questions.17.question:Kdo je ostal v Zürichu po ločitvi Alberta in Mariča?
+passage.questions.17.idx:215.0
+passage.questions.17.answers.7.text:Einstein
+passage.questions.17.answers.7.label:0,0
+passage.questions.17.answers.7.idx:1119.0
+passage.questions.17.answers.6.text:Eduard
+passage.questions.17.answers.6.label:1.0
+passage.questions.17.answers.6.idx:1118.0
+passage.questions.17.answers.5.text:Tete
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:1117.0
+passage.questions.17.answers.4.text:Elsa
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:1116.0
+passage.questions.17.answers.3.text:Marič
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:1115.0
+passage.questions.17.answers.2.text:Oče
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:1114.0
+passage.questions.17.answers.1.text:Tretji sin
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:1113.0
+passage.questions.17.answers.0.text:Hans
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:1112.0
+passage.questions.16.question:Koga so v zgodbi imenovali &quot;Tete&quot;?
+passage.questions.16.idx:214.0
+passage.questions.16.answers.7.text:Einstein
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:1111.0
+passage.questions.16.answers.6.text:Eduard
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:1110.0
+passage.questions.16.answers.5.text:2. sin
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:1109.0
+passage.questions.16.answers.4.text:Elsa
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:1108.0
+passage.questions.16.answers.3.text:Marič
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:1107.0
+passage.questions.16.answers.2.text:Hansov mlajši brat
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:1106.0
+passage.questions.16.answers.1.text:Oče
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:1105.0
+passage.questions.16.answers.0.text:Hans
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:1104.0
+passage.questions.15.question:Kdo je nekoč v zgodbi klical Eduarda &quot;Tete&quot;?
+passage.questions.15.idx:213.0
+passage.questions.15.answers.7.text:Einstein
+passage.questions.15.answers.7.label:1.0
+passage.questions.15.answers.7.idx:1103.0
+passage.questions.15.answers.6.text:Eduard
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:1102.0
+passage.questions.15.answers.5.text:2. sin
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:1101.0
+passage.questions.15.answers.4.text:Elsa
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:1100.0
+passage.questions.15.answers.3.text:Marič
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:1099.0
+passage.questions.15.answers.2.text:Hansov mlajši brat
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:1098.0
+passage.questions.15.answers.1.text:Oče
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:1097.0
+passage.questions.15.answers.0.text:Hans
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:1096.0
+passage.questions.14.question:Einstein in Maric sta bila poročena?
+passage.questions.14.idx:212.0
+passage.questions.14.answers.4.text:20 let
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:1095.0
+passage.questions.14.answers.3.text:3 leta
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:1094.0
+passage.questions.14.answers.2.text:5 let
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1093.0
+passage.questions.14.answers.1.text:14 let
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1092.0
+passage.questions.14.answers.0.text:16 let
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:1091.0
+passage.questions.13.question:Zakaj je Marič moral skrbeti za Eduarda pri 20 letih?
+passage.questions.13.idx:211.0
+passage.questions.13.answers.3.text:Eduard, je imel okvaro pri približno 20 letih in je bila diagnosticirana s shizofrenijo
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:1090.0
+passage.questions.13.answers.2.text:Njun zakon ni bil srečen
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:1089.0
+passage.questions.13.answers.1.text:Oče ga je klical &quot;Tete&quot;
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1088.0
+passage.questions.13.answers.0.text:Bil je droben
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:1087.0
+passage.questions.12.question:Kdo je skrbel za &quot;Tetea&quot;, potem ko so mu diagnosticirali shizofrenijo?
+passage.questions.12.idx:210.0
+passage.questions.12.answers.7.text:Einstein
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:1086.0
+passage.questions.12.answers.6.text:Eduard
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:1085.0
+passage.questions.12.answers.5.text:2. sin
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:1084.0
+passage.questions.12.answers.4.text:Elsa
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:1083.0
+passage.questions.12.answers.3.text:Marič
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:1082.0
+passage.questions.12.answers.2.text:Hansov mlajši brat
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1081.0
+passage.questions.12.answers.1.text:Oče
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:1080.0
+passage.questions.12.answers.0.text:Hans
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1079.0
+passage.questions.11.question:Čigav zakon &quot;se zdi, da ni bil zelo srečen&quot;?
+passage.questions.11.idx:209.0
+passage.questions.11.answers.6.text:Einstein
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:1078.0
+passage.questions.11.answers.5.text:Eduard
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:1077.0
+passage.questions.11.answers.4.text:Tete
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:1076.0
+passage.questions.11.answers.3.text:Elsa
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:1075.0
+passage.questions.11.answers.2.text:Marič
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:1074.0
+passage.questions.11.answers.1.text:Lady Lowenthal
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:1073.0
+passage.questions.11.answers.0.text:Hans
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:1072.0
+passage.questions.10.question:Kako dolgo je trajala zunajzakonska zveza Alberta Einsteina z Elzo?
+passage.questions.10.idx:208.0
+passage.questions.10.answers.4.text:Pet let
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:1071.0
+passage.questions.10.answers.3.text:7 let
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:1070.0
+passage.questions.10.answers.2.text:20 let
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:1069.0
+passage.questions.10.answers.1.text:17 let
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1068.0
+passage.questions.10.answers.0.text:24 let
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:1067.0
+passage.questions.1.question:Koliko je bil Hans star, ko se mu je rodil brat?
+passage.questions.1.idx:199
+passage.questions.1.answers.5.text:1904
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1030.0
+passage.questions.1.answers.4.text:20.
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1029.0
+passage.questions.1.answers.3.text:6.
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1028.0
+passage.questions.1.answers.2.text:1910
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1027.0
+passage.questions.1.answers.1.text:10.
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1026
+passage.questions.1.answers.0.text:4.
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1025
+passage.questions.0.question:Koliko časa je minilo, potem ko se je oče Alberta Einsteina ločil od matere, da se je ponovno poročil?
+passage.questions.0.idx:198
+passage.questions.0.answers.2.text:3 mesece in 18 dni
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1024.0
+passage.questions.0.answers.1.text:Minili so približno štirje meseci
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:1023
+passage.questions.0.answers.0.text:Pet let
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1022
+idx:19

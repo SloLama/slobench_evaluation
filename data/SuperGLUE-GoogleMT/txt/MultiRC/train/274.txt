@@ -1,0 +1,239 @@
+version:1.1
+passage.text:Zvočni valovi so mehanski valovi. Potujejo lahko samo skozi snov. Ne morejo potovati skozi prazen prostor. To je v 1600-ih letih pokazal znanstvenik Robert Boyle. Boyle je v zaprti stekleni kozarec postavil uro, ki je tiktakala. Uro je bilo slišati, kako tiktaka po zraku in kozarcu kozarca. Potem je Boyle izčrpal zrak iz kozarca. Ura je še vedno tekla, kljuka pa ni bilo slišati. To je zato, ker zvok ne bi mogel potovati brez delcev zraka za prenos zvočne energije. Ali še kje ni mogoče slišati zvoka? Tukaj je namig: ali obstaja kje drugje, kjer ni molekul zraka? Tako je, v vesolju zvoka ni mogoče prenesti. Se torej astronavti lahko slišijo? Da, lahko, ker so v zaprtih vesoljskih postajah ali oblekah pod pritiskom, v obeh primerih pa so obdane z molekulami zraka. Če bi zapustili svojo vesoljsko ladjo in ne bi uporabljali elektronike, se ne bi mogli slišati. Naslednjič, ko si boste ogledali znanstvenofantastični film, pomislite na to dejstvo. Ko sovražna tuja bitja uničijo vesoljske ladje, ne bi slišali nobenega zvoka. Zvočni valovi lahko potujejo skozi številne vrste snovi.
+passage.questions.9.question:Kaj je v Boyleovem poskusu naredil, da se ura v kozarcu ni več slišala?
+passage.questions.9.idx:3108.0
+passage.questions.9.answers.5.text:Kozarcu je dodal zrak.
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:16407.0
+passage.questions.9.answers.4.text:izklopil uro
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:16406.0
+passage.questions.9.answers.3.text:odstranil vodo
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:16405.0
+passage.questions.9.answers.2.text:znižala prostornino zraka
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:16404.0
+passage.questions.9.answers.1.text:Zavrel zrak
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:16403.0
+passage.questions.9.answers.0.text:Izčrpal je zrak.
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:16402.0
+passage.questions.8.question:Kdo je dokazal, da zvok ne more potovati skozi prazen prostor, ampak samo snov?
+passage.questions.8.idx:3107.0
+passage.questions.8.answers.3.text:Albert Einstein
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:16401.0
+passage.questions.8.answers.2.text:Aristotel
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:16400.0
+passage.questions.8.answers.1.text:poskus pod vodo
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:16399.0
+passage.questions.8.answers.0.text:Robert Boyle
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:16398.0
+passage.questions.7.question:Ali lahko zvočni valovi potujejo skozi prazen prostor?
+passage.questions.7.idx:3106.0
+passage.questions.7.answers.2.text:seveda
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:16397.0
+passage.questions.7.answers.1.text:zagotovo ne
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:16396.0
+passage.questions.7.answers.0.text:Ne, samo skozi snov.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:16395.0
+passage.questions.6.question:Kako astronavti slišijo?
+passage.questions.6.idx:3105.0
+passage.questions.6.answers.4.text:skozi atmosfero vesolja
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:16394.0
+passage.questions.6.answers.3.text:prek slušalk
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:16393.0
+passage.questions.6.answers.2.text:Preko elektronike.
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:16392.0
+passage.questions.6.answers.1.text:Slišijo skozi molekule zraka v svojih vesoljskih ladjah.
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:16391.0
+passage.questions.6.answers.0.text:skozi zrak v njihovih vesoljskih oblekah
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:16390.0
+passage.questions.5.question:Zakaj ne slišite v vakuumu?
+passage.questions.5.idx:3104.0
+passage.questions.5.answers.3.text:ker vam ušesa tam ne delajo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:16389.0
+passage.questions.5.answers.2.text:tam zvok ni tako glasen
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:16388.0
+passage.questions.5.answers.1.text:Mehanski valovi lahko potujejo samo skozi snov.
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:16387.0
+passage.questions.5.answers.0.text:Ni delcev zraka.
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:16386.0
+passage.questions.4.question:Kako je Robert Boyle dokazal lastnosti zvočnih valov?
+passage.questions.4.idx:3103.0
+passage.questions.4.answers.6.text:pištolo v vesolju
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:16385.0
+passage.questions.4.answers.5.text:vpiti v vakuumu
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:16384.0
+passage.questions.4.answers.4.text:boyle dokazano z enačbami
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:16383.0
+passage.questions.4.answers.3.text:Odstranil je zrak iz notranjosti ure, ki je tiktakala, in nehala je hrupiti.
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:16382.0
+passage.questions.4.answers.2.text:Z uro v kozarcu z vodo in ni bilo zvoka.
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:16381.0
+passage.questions.4.answers.1.text:boyle je postavil uro v kozarec brez zraka, ni bilo zvoka
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:16380.0
+passage.questions.4.answers.0.text:Eksplozija v kozarcu, ki je ni bilo slišati.
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:16379.0
+passage.questions.3.question:Po čem se lahko premikajo zvočni valovi?
+passage.questions.3.idx:3102.0
+passage.questions.3.answers.6.text:prazen prostor
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:16378.0
+passage.questions.3.answers.5.text:praznina
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:16377.0
+passage.questions.3.answers.4.text:Voda
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:16376.0
+passage.questions.3.answers.3.text:vakuum
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:16375.0
+passage.questions.3.answers.2.text:kisik
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:16374.0
+passage.questions.3.answers.1.text:zadeve.
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:16373.0
+passage.questions.3.answers.0.text:zrak
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:16372.0
+passage.questions.2.question:Zakaj bi v znanstvenofantastičnem filmu, ko nezemljani uničijo vesoljsko ladjo, slišali zvok?
+passage.questions.2.idx:3101.0
+passage.questions.2.answers.6.text:ker so vesoljci sesali zvok
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:16371.0
+passage.questions.2.answers.5.text:Ker na zemlji ni molekul zraka.
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:16370.0
+passage.questions.2.answers.4.text:Ker so molekule zraka v prostoru pregoste.
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:16369.0
+passage.questions.2.answers.3.text:ker so eksplozije v vesolju tihe
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:16368.0
+passage.questions.2.answers.2.text:brez molekul zraka v vesolju
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:16367.0
+passage.questions.2.answers.1.text:v vesolju zvoka ni mogoče prenesti
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:16366.0
+passage.questions.2.answers.0.text:ker v zraku ni delcev zraka, kamor bi zvok lahko potoval
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:16365.0
+passage.questions.12.question:Kako se astronavti slišijo?
+passage.questions.12.idx:3111.0
+passage.questions.12.answers.8.text:boljši sluh
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:16426.0
+passage.questions.12.answers.7.text:s pomočjo gravitacije
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:16425.0
+passage.questions.12.answers.6.text:posebno usposabljanje
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:16424.0
+passage.questions.12.answers.5.text:Boyle jih nosi s svojim praznim kozarcem.
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:16423.0
+passage.questions.12.answers.4.text:preko zračnih oblek pod pritiskom
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:16422.0
+passage.questions.12.answers.3.text:So v zaprtih vesoljskih postajah ali oblekah pod pritiskom. V obeh primerih so obkroženi z molekulami zraka, če pa bi zapustili vesoljsko ladjo in ne bi uporabljali elektronike, se ne bi mogli slišati.
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:16421.0
+passage.questions.12.answers.2.text:Slišijo skozi molekule zraka v svojih vesoljskih ladjah.
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:16420.0
+passage.questions.12.answers.1.text:čeprav elektronika
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:16419.0
+passage.questions.12.answers.0.text:v zaprtih prostorih
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:16418.0
+passage.questions.11.question:Kako je Robert Boyle dokazal, kako potujejo zvočni valovi?
+passage.questions.11.idx:3110.0
+passage.questions.11.answers.4.text:Saj ni.
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:16417.0
+passage.questions.11.answers.3.text:vpiti v vesolju
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:16416.0
+passage.questions.11.answers.2.text:dal je uro v škatlo pod vodo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:16415.0
+passage.questions.11.answers.1.text:eksplozija pod vodo
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:16414.0
+passage.questions.11.answers.0.text:V kozarec je položil uro, ki je tiktakala, nato pa iz kozarca odstranil zrak.
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:16413.0
+passage.questions.10.question:Kako potujejo zvočni valovi?
+passage.questions.10.idx:3109.0
+passage.questions.10.answers.4.text:preko praznega prostora
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:16412.0
+passage.questions.10.answers.3.text:skozi vesolje
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:16411.0
+passage.questions.10.answers.2.text:v vakuumu
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:16410.0
+passage.questions.10.answers.1.text:Skozi snov
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:16409.0
+passage.questions.10.answers.0.text:potovanje v zraku
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:16408.0
+passage.questions.1.question:Kateri znanstvenik je dokazal, da zvočni valovi ne morejo potovati skozi prazen prostor, tako da je v zaprti stekleni kozarec postavil uro, ki je odtehtala?
+passage.questions.1.idx:3100.0
+passage.questions.1.answers.2.text:Einstein
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16364.0
+passage.questions.1.answers.1.text:Aristotel
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:16363.0
+passage.questions.1.answers.0.text:Boyle
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:16362.0
+passage.questions.0.question:Zakaj se astronavti slišijo, tudi če zvoka ni mogoče prenesti v vesolje?
+passage.questions.0.idx:3099
+passage.questions.0.answers.4.text:ker vpijejo
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:16361.0
+passage.questions.0.answers.3.text:ja, ker so v spce molekule zraka
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:16360.0
+passage.questions.0.answers.2.text:ker imajo posebno usposabljanje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:16359.0
+passage.questions.0.answers.1.text:Imajo posebno elektroniko.
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:16358
+passage.questions.0.answers.0.text:So v zaprtih vesoljskih postajah ali oblekah pod pritiskom, kar pomeni, da so obkrožene z molekulami zraka
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:16357
+idx:274

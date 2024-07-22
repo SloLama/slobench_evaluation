@@ -1,0 +1,221 @@
+version:1.1
+passage.text:Skozi stoletja je bilo življenje tukaj vedno dovolj enostavno, da je pritegnilo stalen tok priseljencev. Zaradi bogatih virov hrane bi Malezija lahko postala vabljivo mesto za sodobnike Java Man - leta 230.000 pr. N. Št. Toda doslej so bili najzgodnejši sledovi homo sapiensa v državi, najdeni v jami Niah na severu Sarawaka, fragmenti lobanje iz okoli 40.000 pr. Na polotoku so najstarejše s človekom povezane relikvije (10.000 pr. N. Št.) Kamnodobna orodja Negritosa. Ti majhni, temni melanezijci so po vrsti sorodni avstralskim staroselcem in so danes omejeni na gozdove severnega visokogorja. Do 2.000 pr. N. Št. So te plašne, nežne nomade, ki so lovili z lokom in puščico, valovi močnih priseljencev, ki so prihajali v pomožnih kanujih, opremljenih z jadri, pregnali z obale. Mongoli iz Južne Kitajske ter polinezijski in malajski narodi s Filipinov in indonezijskih otokov so se naselili ob rekah polotoka in severnega Bornea. Ukvarjali so se s poševnim gojenjem jamsov in prosa, tehniko, ki je izčrpala zemljo in naložila polnomadski obstoj iz ene čistine džungle v drugo. Družine so živele v lesenih hišah, kakršne še danes vidimo med ibanskimi ljudstvi Sarawak. Vsakokrat, ko je zakon ustvaril novo družino, so komunalnemu stanovanju dodali še eno enoto. Drugi težki migranti z južnega morja so se naselili ob obalah - mornarji, ribiči, trgovci (večinoma pirati) - evfemistično znani kot oranžni laut (morski ljudje).
+passage.questions.9.question:Kateri ljudje so se ukvarjali s kmetijskimi tehnikami poševnice in kurjenja?
+passage.questions.9.idx:3390.0
+passage.questions.9.answers.8.text:Polinezijci
+passage.questions.9.answers.8.label:1.0
+passage.questions.9.answers.8.idx:17882.0
+passage.questions.9.answers.7.text:Ribiči
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:17881.0
+passage.questions.9.answers.6.text:Mongoli iz Južne Kitajske
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:17880.0
+passage.questions.9.answers.5.text:Malajska ljudstva
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:17879.0
+passage.questions.9.answers.4.text:Mornarji
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:17878.0
+passage.questions.9.answers.3.text:Trgovci
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:17877.0
+passage.questions.9.answers.2.text:Mongoli
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:17876.0
+passage.questions.9.answers.1.text:Mongoli iz Južne Kitajske ter polinezijskih in malajskih ljudstev
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:17875.0
+passage.questions.9.answers.0.text:Malajski narodi s Filipinov
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:17874.0
+passage.questions.8.question:Kaj bi dodali lesenim hišicam Ibanovega prebivalstva, ko bi bili poročeni?
+passage.questions.8.idx:3389.0
+passage.questions.8.answers.3.text:Vsakokrat, ko je zakon ustvaril novo družino, so komunalnemu stanovanju dodali še eno enoto
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:17873.0
+passage.questions.8.answers.2.text:Dnevnik
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:17872.0
+passage.questions.8.answers.1.text:Druga enota
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:17871.0
+passage.questions.8.answers.0.text:Jadra
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:17870.0
+passage.questions.7.question:Iz katerega leta so najzgodnejše človeške sledi v Maleziji?
+passage.questions.7.idx:3388.0
+passage.questions.7.answers.4.text:40.000 pr
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:17869.0
+passage.questions.7.answers.3.text:Do leta 1800 ad
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:17868.0
+passage.questions.7.answers.2.text:230.000 pr
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:17867.0
+passage.questions.7.answers.1.text:40.000 pr
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:17866.0
+passage.questions.7.answers.0.text:230.000 pr
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:17865.0
+passage.questions.6.question:Kaj so Mongoli in Malaj storili Negritosom?
+passage.questions.6.idx:3387.0
+passage.questions.6.answers.4.text:Zanje so dali posebno mesto
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:17864.0
+passage.questions.6.answers.3.text:Odpeljal jih je nazaj z obale
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:17863.0
+passage.questions.6.answers.2.text:Odpeljali so jih nazaj z obale
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:17862.0
+passage.questions.6.answers.1.text:Odpeljali so jih nazaj, ko so pristali na obali
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:17861.0
+passage.questions.6.answers.0.text:Nastanili so se na svoji zemlji
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:17860.0
+passage.questions.5.question:Katere so bile najstarejše relikvije, povezane s človekom, na polotoku?
+passage.questions.5.idx:3386.0
+passage.questions.5.answers.2.text:Lok in puščica
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:17859.0
+passage.questions.5.answers.1.text:Kamnodobna orodja Negritosa
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:17858.0
+passage.questions.5.answers.0.text:Lobanje
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:17857.0
+passage.questions.4.question:Kdo se je nekoč ukvarjal s poševnico in jamom prosa?
+passage.questions.4.idx:3385.0
+passage.questions.4.answers.6.text:Polinezijci
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:17856.0
+passage.questions.4.answers.5.text:Malezijci
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:17855.0
+passage.questions.4.answers.4.text:Malajska ljudstva
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:17854.0
+passage.questions.4.answers.3.text:Iban
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:17853.0
+passage.questions.4.answers.2.text:Mongoli iz Južne Kitajske ter polinezijski in malajski narodi s Filipinov in indonezijskih otokov
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:17852.0
+passage.questions.4.answers.1.text:Mongoli
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17851.0
+passage.questions.4.answers.0.text:Malajski narodi s Filipinov
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:17850.0
+passage.questions.3.question:Kaj bi lahko pritegnilo zgodnje priseljence v Malezijo?
+passage.questions.3.idx:3384.0
+passage.questions.3.answers.3.text:Obilni viri hrane
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:17849.0
+passage.questions.3.answers.2.text:Veliko zemlje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:17848.0
+passage.questions.3.answers.1.text:Viri hrane
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:17847.0
+passage.questions.3.answers.0.text:Dolge lesene hiše
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:17846.0
+passage.questions.2.question:Kje je danes mogoče najti Negritos?
+passage.questions.2.idx:3383.0
+passage.questions.2.answers.4.text:Severno višavje
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:17845.0
+passage.questions.2.answers.3.text:Gozdovi severnega visokogorja
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:17844.0
+passage.questions.2.answers.2.text:Južna morja
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:17843.0
+passage.questions.2.answers.1.text:Severni Borneo
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:17842.0
+passage.questions.2.answers.0.text:Ob obalah
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:17841.0
+passage.questions.12.question:Kako se imenujejo ljudje, ki so danes zaprti v gozdove severnega visokogorja?
+passage.questions.12.idx:3393.0
+passage.questions.12.answers.3.text:Melanezijci
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:17895.0
+passage.questions.12.answers.2.text:Negritos
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:17894.0
+passage.questions.12.answers.1.text:Mongoli
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:17893.0
+passage.questions.12.answers.0.text:Malezijci
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:17892.0
+passage.questions.11.question:Zakaj so se lesene hišice sčasoma povečale?
+passage.questions.11.idx:3392.0
+passage.questions.11.answers.4.text:Poroke so ustvarile nove družine
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:17891.0
+passage.questions.11.answers.3.text:Vsakokrat sta rasla, ko si je zakon ustvaril novo družino
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:17890.0
+passage.questions.11.answers.2.text:Dodali so enoto vsakič, ko je bila nova družina sklenjena s poroko
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:17889.0
+passage.questions.11.answers.1.text:Dodajajo hiše po vsem območju
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:17888.0
+passage.questions.11.answers.0.text:Ko so vstopili novi migranti
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:17887.0
+passage.questions.10.question:Katere so najstarejše relikvije na polotoku, povezane s človekom?
+passage.questions.10.idx:3391.0
+passage.questions.10.answers.3.text:10.000 pr
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:17886.0
+passage.questions.10.answers.2.text:Kamnodobna orodja Negritosa
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:17885.0
+passage.questions.10.answers.1.text:2.000 pr
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:17884.0
+passage.questions.10.answers.0.text:Hiše na drevesih
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:17883.0
+passage.questions.1.question:Kdo so bili plašni, nežni nomadi, ki so jih pregnali z obale?
+passage.questions.1.idx:3382.0
+passage.questions.1.answers.4.text:Polinezijci
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:17840.0
+passage.questions.1.answers.3.text:Malajska ljudstva
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:17839.0
+passage.questions.1.answers.2.text:Negritos
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:17838.0
+passage.questions.1.answers.1.text:Melanezijci
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:17837.0
+passage.questions.1.answers.0.text:Mongoli
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:17836.0
+passage.questions.0.question:Katere so najstarejše s človekom povezane relikvije na polotoku?
+passage.questions.0.idx:3381
+passage.questions.0.answers.3.text:Kamnodobna orodja Negritosa
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:17835.0
+passage.questions.0.answers.2.text:10000 pr
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:17834.0
+passage.questions.0.answers.1.text:Negritos
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:17833
+passage.questions.0.answers.0.text:Mongoli
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:17832
+idx:297

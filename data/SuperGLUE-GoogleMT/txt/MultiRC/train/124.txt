@@ -1,0 +1,117 @@
+version:1.1
+passage.text:Preprosto povedano, energija je sposobnost povzročitve sprememb. Energija lahko povzroči številne vrste sprememb. Pomislite, kdaj imate veliko energije. Zmorete veliko stvari. Ko nimaš veliko energije, lahko sediš in delaš zelo malo. Podobno se zgodi z delci snovi, ko se dodaja energija. Več energije je, hitreje se delci snovi premikajo. Tudi energija je razlog, da se lahko premikate. Pravzaprav je snov vedno v gibanju. Lahko se celo spremeni iz ene oblike v drugo. Električno energijo lahko na primer pretvorimo v toplotno energijo. To vidite vsakič, ko uporabite toaster. Energija povzroči spremembo snovi, ko dvignete roko. Energijo lahko uporabimo za premikanje snovi. Energijo porabite za korak naprej. Zahvaljujoč energiji se vaše telo premika. Energijo gibljive snovi imenujemo kinetična energija.
+passage.questions.5.question:Ko energijo uporabite za korak naprej, kako se temu reče?
+passage.questions.5.idx:1448.0
+passage.questions.5.answers.5.text:Kinetična energija
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:7575.0
+passage.questions.5.answers.4.text:Toplotna energija
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:7574.0
+passage.questions.5.answers.3.text:Pretvorjena energija
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:7573.0
+passage.questions.5.answers.2.text:Spremeni se
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:7572.0
+passage.questions.5.answers.1.text:Gibanje
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:7571.0
+passage.questions.5.answers.0.text:Električna energija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:7570.0
+passage.questions.4.question:Kaj se zgodi z delci z malo energije v nasprotju z delci z veliko energije?
+passage.questions.4.idx:1447.0
+passage.questions.4.answers.6.text:Delci se premikajo hitreje
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:7569.0
+passage.questions.4.answers.5.text:Spreobrnjeni so
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:7568.0
+passage.questions.4.answers.4.text:Spremeni se
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:7567.0
+passage.questions.4.answers.3.text:Delci se ne premikajo toliko
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:7566.0
+passage.questions.4.answers.2.text:Delci z malo energije se premikajo počasi, medtem ko se delci z veliko energije premikajo hitro. Več energije je, hitreje se delci snovi premikajo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:7565.0
+passage.questions.4.answers.1.text:Postanejo električna energija
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:7564.0
+passage.questions.4.answers.0.text:Več energije kot so delci hitrejši
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:7563.0
+passage.questions.3.question:Pravilno ali napačno. Materija lahko spreminja oblike, čeprav običajno ni v gibanju?
+passage.questions.3.idx:1446.0
+passage.questions.3.answers.2.text:Lažno
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:7562.0
+passage.questions.3.answers.1.text:Lažno. Snov je vedno v gibanju
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:7561.0
+passage.questions.3.answers.0.text:Prav
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7560.0
+passage.questions.2.question:Primer tega je uporaba toasterja?
+passage.questions.2.idx:1445.0
+passage.questions.2.answers.5.text:Električna energija se pretvori v toplotno energijo ali pretvorbo
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:7559.0
+passage.questions.2.answers.4.text:Pretvarjanje energije ali oblik, ki spreminjajo energijo
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:7558.0
+passage.questions.2.answers.3.text:Toplotna energija
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:7557.0
+passage.questions.2.answers.2.text:Gibanje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:7556.0
+passage.questions.2.answers.1.text:Energija vode
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7555.0
+passage.questions.2.answers.0.text:kinetična energija
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:7554.0
+passage.questions.1.question:Dviganje roke, hoja in premikanje so vse vrste energije?
+passage.questions.1.idx:1444.0
+passage.questions.1.answers.4.text:Prenos energije
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:7553.0
+passage.questions.1.answers.3.text:Kinetična energija
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:7552.0
+passage.questions.1.answers.2.text:Toplotna energija
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:7551.0
+passage.questions.1.answers.1.text:Gibanje
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:7550.0
+passage.questions.1.answers.0.text:Električna energija
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:7549.0
+passage.questions.0.question:Kaj se zgodi, ko ima nekdo veliko energije v primerjavi z malo energije?
+passage.questions.0.idx:1443
+passage.questions.0.answers.6.text:Veliko se premikate v primerjavi z malo
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:7548.0
+passage.questions.0.answers.5.text:Spremeni se
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:7547.0
+passage.questions.0.answers.4.text:Zmorete veliko stvari. Kadar nimaš veliko energije, lahko sediš in delaš zelo malo
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:7546.0
+passage.questions.0.answers.3.text:Električna energija
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:7545.0
+passage.questions.0.answers.2.text:Hitrejši delci se premikajo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7544.0
+passage.questions.0.answers.1.text:kinetična energija
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7543
+passage.questions.0.answers.0.text:Ste zgovorni in ne zgovorni
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7542
+idx:124

@@ -1,0 +1,4 @@
+idx:2430
+label:False
+passage:Drevo (podatkovna struktura) - ta podatkovna struktura definira usmerjeni graf, in če je le-to drevo, je treba dodati pogoj na njegovo globalno strukturo (njeno topologijo), in sicer, da lahko največ en sklic kaže na katero koli dano vozlišče (a vozlišče ima največ enega nadrejenega) in nobeno vozlišče v drevesu ne kaže na koren. Dejansko mora imeti vsako vozlišče (razen korena) natanko enega starša, koren pa ne sme imeti staršev.
+question:lahko vozlišče v drevesu ima dva starša

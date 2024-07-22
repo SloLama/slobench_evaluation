@@ -1,0 +1,6 @@
+choice1:Predsednik je podal veto na osnutek zakona.
+choice2:Zakonodajalec je sprejel osnutek zakona.
+idx:76
+label:1
+premise:Lobisti so zakonodajalca prepričali, naj podpre osnutek zakona.
+question:effect

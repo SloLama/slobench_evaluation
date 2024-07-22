@@ -1,0 +1,6 @@
+choice1:Pes je grizel kost.
+choice2:Pes si je poškodoval šapo.
+idx:64
+label:1
+premise:Družina je peljala psa k veterinarju.
+question:cause

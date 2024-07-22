@@ -1,0 +1,6 @@
+choice1:Stanodajalec je odklenil vrata.
+choice2:Stanodajalec je popravil vrata.
+idx:40
+label:0
+premise:Najemnik je izgubil ključe od stanovanja.
+question:effect

@@ -1,0 +1,362 @@
+version:1.1
+passage.text:Eric, mladi fant, je po branju knjige navdušen nad svojim rojstnim dnevom in verjame, da bo zanj prišel vlak, kljub neveri njegove sestre Jill. Nekaj ur kasneje se nadzorni stolp železniške postaje zbudi in v okrogli hiši Tillie, mladi mali modri preklopni motor, skupaj s svojim najboljšim ptičjim prijateljem Chipom zbudi še štiri vlake: Georgia, prijazen večnamenski motor, Farnsworth, zataknjen potniški motor, Jebediah, dotrajan star motor, in Pete, osorni tovornjak. Potem ko stolp Farnsworthu in Peteu dodeli službo, poskuša Tillie pomagati z mlekom, dodeljenim Jebediah, vendar stolp vztraja, da je premajhna za to službo. Georgia je zadolžena za vlečenje rojstnodnevnega vlaka. Klovn z imenom Rollo pripelje igrače v vlak, med njimi Stretch, košarkar; Missy, balerina; priročen Pandy, panda; Perky, slon; in Grumpella, polnjena ptica. Med njenim potovanjem se Georgia pokvari in jo Doc odpelje nazaj v okroglo hišo. Rollo, ki je levo za sabo, na koncu upošteva Docov nasvet, da označi enega od ostalih motorjev, ki se vračajo z vsakodnevnih voženj čez goro. Farnsworth in Pete zavrneta ponudbo za vleko vlaka. Medtem Tillie prosi stolp, naj reši nasedli vlak, a vztraja, da Tillie tega dela ne bo nikoli opravila. Jebediah zaradi starosti zavrne svojo ponudbo za vleko vlaka in se vrne v okroglo hišo. Chip in Tillie se prikradeta mimo spalnega stolpa in vlečeta rojstni dan na goro.
+passage.questions.9.question:Kdo so trije človeški liki?
+passage.questions.9.idx:669.0
+passage.questions.9.answers.7.text:Jebediah
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:3376.0
+passage.questions.9.answers.6.text:Živahno
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:3375.0
+passage.questions.9.answers.5.text:Eric
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:3374.0
+passage.questions.9.answers.4.text:Raztegniti
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:3373.0
+passage.questions.9.answers.3.text:Čip
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:3372.0
+passage.questions.9.answers.2.text:Eric, Jill in Rollo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3371.0
+passage.questions.9.answers.1.text:Missy
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:3370.0
+passage.questions.9.answers.0.text:Stolp
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:3369.0
+passage.questions.8.question:Kakšen motor je namenjen za vlečenje rojstnodnevnega vlaka?
+passage.questions.8.idx:668.0
+passage.questions.8.answers.5.text:Dotrajan star motor
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:3368.0
+passage.questions.8.answers.4.text:Pete
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:3367.0
+passage.questions.8.answers.3.text:Prijazen večnamenski motor
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:3366.0
+passage.questions.8.answers.2.text:Farnsworth
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3365.0
+passage.questions.8.answers.1.text:Georgia
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3364.0
+passage.questions.8.answers.0.text:Zataknjen potniški motor
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3363.0
+passage.questions.7.question:V katerem vlaku vozijo igrače?
+passage.questions.7.idx:667.0
+passage.questions.7.answers.2.text:Farnsworth
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3362.0
+passage.questions.7.answers.1.text:Vlak za rojstni dan
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3361.0
+passage.questions.7.answers.0.text:Vlak za mleko
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3360.0
+passage.questions.6.question:Katere vrste motorjev prejmejo svoje naloge s stolpa?
+passage.questions.6.idx:666.0
+passage.questions.6.answers.5.text:Zataknjen potniški motor in osorni tovorni motor
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:3359.0
+passage.questions.6.answers.4.text:Mladi mali modri preklopni motor
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:3358.0
+passage.questions.6.answers.3.text:Pete
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3357.0
+passage.questions.6.answers.2.text:Zataknjen potniški motor in osorni tovorni motor
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:3356.0
+passage.questions.6.answers.1.text:Farnsworth
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:3355.0
+passage.questions.6.answers.0.text:Georgia
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3354.0
+passage.questions.5.question:Kolikokrat Tillie rečejo, da ne more vleči vlaka?
+passage.questions.5.idx:665.0
+passage.questions.5.answers.6.text:3.
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:3353.0
+passage.questions.5.answers.5.text:2.
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:3352.0
+passage.questions.5.answers.4.text:Trikrat
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3351.0
+passage.questions.5.answers.3.text:1.
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3350.0
+passage.questions.5.answers.2.text:Dvakrat
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3349.0
+passage.questions.5.answers.1.text:Enkrat
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3348.0
+passage.questions.5.answers.0.text:Dvakrat
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3347.0
+passage.questions.4.question:Kakšno službo ima Doc?
+passage.questions.4.idx:664.0
+passage.questions.4.answers.2.text:Doktor
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3346.0
+passage.questions.4.answers.1.text:Da se Georgia vrne v okroglo hišo
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:3345.0
+passage.questions.4.answers.0.text:Povlecite vlak za rojstni dan
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3344.0
+passage.questions.3.question:Kateri motor, razen Tillie, lahko in ne more vleči rojstnodnevnega vlaka?
+passage.questions.3.idx:663.0
+passage.questions.3.answers.4.text:Jebediah
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:3343.0
+passage.questions.3.answers.3.text:Pete
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3342.0
+passage.questions.3.answers.2.text:Farnsworth
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3341.0
+passage.questions.3.answers.1.text:Čip
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3340.0
+passage.questions.3.answers.0.text:Stolp
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3339.0
+passage.questions.21.question:Kateri vlak se pokvari pod oskrbo Gruzije?
+passage.questions.21.idx:681.0
+passage.questions.21.answers.2.text:Igrače trenirajo
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:3429.0
+passage.questions.21.answers.1.text:Vlak za rojstni dan
+passage.questions.21.answers.1.label:1.0
+passage.questions.21.answers.1.idx:3428.0
+passage.questions.21.answers.0.text:Vlak za mleko
+passage.questions.21.answers.0.label:0,0
+passage.questions.21.answers.0.idx:3427.0
+passage.questions.20.question:Kako je ime klovnu, ki je ostal?
+passage.questions.20.idx:680.0
+passage.questions.20.answers.2.text:Rollo
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:3426.0
+passage.questions.20.answers.1.text:Čip
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:3425.0
+passage.questions.20.answers.0.text:Doc
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:3424.0
+passage.questions.2.question:So motorji resnični ali pa so le del Ericovih sanj?
+passage.questions.2.idx:662
+passage.questions.2.answers.2.text:Samo del Ericovih sanj
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:3338.0
+passage.questions.2.answers.1.text:Ericove sanje
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:3337
+passage.questions.2.answers.0.text:Motorji so resnični
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:3336
+passage.questions.19.question:Kdo vodi igrače v vlak? Kaj počne Rollo, potem ko je zapustil
+passage.questions.19.idx:679.0
+passage.questions.19.answers.6.text:Stretch, potegne rojstnodnevni vlak
+passage.questions.19.answers.6.label:0,0
+passage.questions.19.answers.6.idx:3423.0
+passage.questions.19.answers.5.text:Označite enega od ostalih motorjev, ki se vračajo z vsakodnevnih voženj čez goro
+passage.questions.19.answers.5.label:1.0
+passage.questions.19.answers.5.idx:3422.0
+passage.questions.19.answers.4.text:Rollo pripelje igrače v vlak. Rollo zastavi enega izmed ostalih motorjev
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:3421.0
+passage.questions.19.answers.3.text:Rollo
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:3420.0
+passage.questions.19.answers.2.text:Ostani na mestu
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:3419.0
+passage.questions.19.answers.1.text:Pete
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:3418.0
+passage.questions.19.answers.0.text:Rollo, zastavi enega izmed ostalih motorjev, ki se vračajo iz vsakodnevnega delovanja
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:3417.0
+passage.questions.18.question:Glede na stolp, kateri tip motorja ne more vleči vlaka za mleko?
+passage.questions.18.idx:678.0
+passage.questions.18.answers.4.text:Tillie
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:3416.0
+passage.questions.18.answers.3.text:Jebediah
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:3415.0
+passage.questions.18.answers.2.text:Dotrajan star motor
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:3414.0
+passage.questions.18.answers.1.text:Prijazen večnamenski motor
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:3413.0
+passage.questions.18.answers.0.text:Mladi mali preklopni motor
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:3412.0
+passage.questions.17.question:Kateri motor vleče igrače v goro?
+passage.questions.17.idx:677.0
+passage.questions.17.answers.2.text:Georgia
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:3411.0
+passage.questions.17.answers.1.text:Farnsworth
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:3410.0
+passage.questions.17.answers.0.text:Tillie
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:3409.0
+passage.questions.16.question:V kateri vlak Rollo vodi igrače?
+passage.questions.16.idx:676.0
+passage.questions.16.answers.4.text:Grumpella
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:3408.0
+passage.questions.16.answers.3.text:Pete
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:3407.0
+passage.questions.16.answers.2.text:Farnsworth
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:3406.0
+passage.questions.16.answers.1.text:Na mlečni vlak
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:3405.0
+passage.questions.16.answers.0.text:Na rojstnodnevni vlak
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:3404.0
+passage.questions.15.question:Kdo poleg Jebediah še zavrne njihove ponudbe za vleko vlaka?
+passage.questions.15.idx:675.0
+passage.questions.15.answers.2.text:Georgia
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:3403.0
+passage.questions.15.answers.1.text:Doc in Tillie
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:3402.0
+passage.questions.15.answers.0.text:Farnsworth in Pete
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:3401.0
+passage.questions.14.question:Zakaj je Jebediah zavrnil njihovo ponudbo za vleko vlaka? Kaj verjame Eric?
+passage.questions.14.idx:674.0
+passage.questions.14.answers.3.text:Premajhna je za to službo
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:3400.0
+passage.questions.14.answers.2.text:To so bile sanje
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:3399.0
+passage.questions.14.answers.1.text:Ker je premajhen za službo, zanj vlak ne bo prišel
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:3398.0
+passage.questions.14.answers.0.text:Zaradi svoje starosti
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:3397.0
+passage.questions.13.question:Kaj Tillie prosi stolp? Kdo je zadolžen za vlečenje rojstnodnevnega vlaka?
+passage.questions.13.idx:673.0
+passage.questions.13.answers.4.text:Dodelite Jebediah
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:3396.0
+passage.questions.13.answers.3.text:Jebediah
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:3395.0
+passage.questions.13.answers.2.text:Vrni se Georgia v okroglo hišo, doc
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:3394.0
+passage.questions.13.answers.1.text:Za reševanje nasedlega vlaka, Georgia
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3393.0
+passage.questions.13.answers.0.text:Georgia
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:3392.0
+passage.questions.12.question:Katera dela Tillie prosi stolp?
+passage.questions.12.idx:672.0
+passage.questions.12.answers.3.text:Rešite rojstni dan
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:3391.0
+passage.questions.12.answers.2.text:Označite enega od ostalih motorjev
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:3390.0
+passage.questions.12.answers.1.text:Označite vlak, ki se vrača
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:3389.0
+passage.questions.12.answers.0.text:Odpeljite igrače v vlak
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:3388.0
+passage.questions.11.question:Kateri vlaki zavrnejo prošnjo za vlečenje rojstnodnevnega vlaka?
+passage.questions.11.idx:671.0
+passage.questions.11.answers.7.text:Tillie
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:3387.0
+passage.questions.11.answers.6.text:Jebediah
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:3386.0
+passage.questions.11.answers.5.text:Farnsworth, Pete in Jebediah
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:3385.0
+passage.questions.11.answers.4.text:Pete
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:3384.0
+passage.questions.11.answers.3.text:Farnsworth
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:3383.0
+passage.questions.11.answers.2.text:Čip
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:3382.0
+passage.questions.11.answers.1.text:Georgia
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:3381.0
+passage.questions.11.answers.0.text:Stolp
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3380.0
+passage.questions.10.question:Kakšno delo opravlja Georgia, ko jo Doc odpelje nazaj v okroglo hišo?
+passage.questions.10.idx:670.0
+passage.questions.10.answers.2.text:Vlečenje vlaka za mleko
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3379.0
+passage.questions.10.answers.1.text:Reševanje nasedlega vlaka
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3378.0
+passage.questions.10.answers.0.text:Vlečenje rojstnodnevnega vlaka
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3377.0
+passage.questions.1.question:Kaj se zgodi nekaj ur kasneje? Kaj poskuša Tillie?
+passage.questions.1.idx:661
+passage.questions.1.answers.2.text:Tille ostaja pri miru
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3335.0
+passage.questions.1.answers.1.text:Tillie odpelje igrače v vlak, da označi druge motorje
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3334
+passage.questions.1.answers.0.text:Tille prosi stolp, naj reši nasedli vlak
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:3333
+passage.questions.0.question:Kateri vlaki nočejo rešiti nasedlega rojstnodnevnega vlaka?
+passage.questions.0.idx:660
+passage.questions.0.answers.7.text:Grumpella
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:3332.0
+passage.questions.0.answers.6.text:Tillie
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:3331.0
+passage.questions.0.answers.5.text:Jebediah
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:3330.0
+passage.questions.0.answers.4.text:Rollo
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3329.0
+passage.questions.0.answers.3.text:Pete
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3328.0
+passage.questions.0.answers.2.text:Farnsworth
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3327.0
+passage.questions.0.answers.1.text:Georgia
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3326
+passage.questions.0.answers.0.text:Missy
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3325
+idx:56

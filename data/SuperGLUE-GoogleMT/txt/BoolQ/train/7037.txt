@@ -1,0 +1,4 @@
+idx:7037
+label:True
+passage:Nizkopasovni filter - V elektronskem nizkoprepustnem RC filtru za napetostne signale se visoke frekvence v vhodnem signalu oslabijo, vendar ima filter malo dušenja pod mejno frekvenco, ki jo določa njegova RC časovna konstanta. Pri trenutnih signalih deluje podobno vezje z vzporednim uporom in kondenzatorjem na podoben način. (Glej trenutni delilnik, ki je podrobneje obravnavan spodaj.)
+question:je rc vezje nizkoprepustni filter

@@ -1,0 +1,168 @@
+version:1.1
+passage.text:Reke, ki tečejo po položnih pobočjih, se premikajo počasneje. Premikajo se veliko počasneje kot gorski potok. Ti počasi tekoči potoki ustvarjajo drugačne značilnosti kot gorski potoki. Počasno gibanje vode bolj razjeda stranice kanalov kot dno. Prav tako nastajajo velike krivulje v toku. Te krivulje imenujemo meandri. Meandre povzročajo erozija in usedanje. Ne pozabite, da hitreje gibljiva voda hitreje povzroča erozijo. Počasnejša premikajoča se voda počasneje razgrajuje material. Če se voda premika dovolj počasi, se usedlina, ki se prenaša, lahko usede. To usedanje ali odlaganje usedlin je odlaganje. Krivulje imenujemo meandri, ker počasi tavajo po kopnem. Ko meandri erodirajo iz ene strani v drugo, ustvarijo poplavno ravnico. To je široko, ravno območje na obeh straneh reke. Sčasoma lahko meander postane odrezan od preostale reke. To tvori osovinsko jezero.
+passage.questions.9.question:Ali gorski potoki tečejo počasneje kot reke, ki tečejo po položnih pobočjih?
+passage.questions.9.idx:2877.0
+passage.questions.9.answers.7.text:Gibajo se hitreje
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:15263.0
+passage.questions.9.answers.6.text:Gibajo se počasneje
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:15262.0
+passage.questions.9.answers.5.text:Tečejo hitreje
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:15261.0
+passage.questions.9.answers.4.text:Da
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:15260.0
+passage.questions.9.answers.3.text:Ne
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:15259.0
+passage.questions.9.answers.2.text:Tečejo z enako hitrostjo
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:15258.0
+passage.questions.9.answers.1.text:Tečejo počasneje
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:15257.0
+passage.questions.9.answers.0.text:Ne. (Reke, ki tečejo po položnih pobočjih, se gibljejo veliko počasneje kot gorski potoki.)
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:15256.0
+passage.questions.8.question:Kateri tok lahko ustvari usedanje?
+passage.questions.8.idx:2876.0
+passage.questions.8.answers.3.text:Počasno gibanje vode
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:15255.0
+passage.questions.8.answers.2.text:Meander
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:15254.0
+passage.questions.8.answers.1.text:Počasi tekoči tokovi
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:15253.0
+passage.questions.8.answers.0.text:Hitro tekoči tokovi
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:15252.0
+passage.questions.7.question:Kdaj pride do odlaganja?
+passage.questions.7.idx:2875.0
+passage.questions.7.answers.4.text:Ko se usedlina premakne
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:15251.0
+passage.questions.7.answers.3.text:Ko se voda premika dovolj počasi, da se usedlina umiri
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:15250.0
+passage.questions.7.answers.2.text:Voda se premika dovolj počasi, usedlina, ki se prenaša, se lahko usede. Takrat pride do odlaganja
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:15249.0
+passage.questions.7.answers.1.text:Ko odpadne usedlina
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:15248.0
+passage.questions.7.answers.0.text:Ko voda teče po položnih pobočjih
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:15247.0
+passage.questions.6.question:Pravilno ali napačno. Meandri so velike krivine v počasnem toku.
+passage.questions.6.idx:2874.0
+passage.questions.6.answers.1.text:Lažno
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:15246.0
+passage.questions.6.answers.0.text:Prav
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:15245.0
+passage.questions.5.question:Ali voda, ki se hitro giblje, hitreje povzroča erozijo kot počasi?
+passage.questions.5.idx:2873.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:15244.0
+passage.questions.5.answers.0.text:Mogoče
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15243.0
+passage.questions.4.question:Katera dva procesa tvorita velike krivulje v potokih?
+passage.questions.4.idx:2872.0
+passage.questions.4.answers.3.text:Rečna voda teče po položnih pobočjih in tvori meandre
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:15242.0
+passage.questions.4.answers.2.text:Počasi premikajoči se potoki ustvarjajo drugačne značilnosti kot gorski potoki, počasi gibljiva voda razjeda stranice njihovih kanalov bolj kot dno
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:15241.0
+passage.questions.4.answers.1.text:Erozija in odlaganje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15240.0
+passage.questions.4.answers.0.text:Meandri in poplavne ravnice
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:15239.0
+passage.questions.3.question:Pravilno ali napačno. Voda, ki se zelo hitro premika, povzroča odlaganje.
+passage.questions.3.idx:2871.0
+passage.questions.3.answers.1.text:Lažno
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:15238.0
+passage.questions.3.answers.0.text:Prav
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15237.0
+passage.questions.2.question:Ali se v potokih oblikujejo velike krivulje, ko se voda hitro premika?
+passage.questions.2.idx:2870.0
+passage.questions.2.answers.4.text:Nastanejo v počasni vodi
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:15236.0
+passage.questions.2.answers.3.text:Da
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15235.0
+passage.questions.2.answers.2.text:Hitrejša voda tvori krivulje
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:15234.0
+passage.questions.2.answers.1.text:Ne (nastanejo iz počasi tekoče vode.)
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15233.0
+passage.questions.2.answers.0.text:Mogoče
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15232.0
+passage.questions.11.question:Kako se imenuje široko, ravno območje na obeh straneh reke?
+passage.questions.11.idx:2879.0
+passage.questions.11.answers.2.text:Planota
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:15271.0
+passage.questions.11.answers.1.text:Meander
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:15270.0
+passage.questions.11.answers.0.text:Poplavno območje
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:15269.0
+passage.questions.10.question:Kakšno je ravno območje na obeh straneh reke?
+passage.questions.10.idx:2878.0
+passage.questions.10.answers.4.text:Poplavna ravnica
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:15268.0
+passage.questions.10.answers.3.text:Poplavna ravnica
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:15267.0
+passage.questions.10.answers.2.text:Meander
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:15266.0
+passage.questions.10.answers.1.text:Breg reke
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:15265.0
+passage.questions.10.answers.0.text:Tok
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:15264.0
+passage.questions.1.question:Ali bo voda, ki teče po položnih pobočjih, razjedla več strani kanalov ali dna?
+passage.questions.1.idx:2869.0
+passage.questions.1.answers.3.text:Dno
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:15231.0
+passage.questions.1.answers.2.text:Strani
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:15230.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15229.0
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:15228.0
+passage.questions.0.question:Ali meandri povzročajo oljna jezera?
+passage.questions.0.idx:2868
+passage.questions.0.answers.2.text:Da
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15227.0
+passage.questions.0.answers.1.text:Mogoče
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:15226
+passage.questions.0.answers.0.text:Ko so odrezani od preostale reke
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:15225
+idx:257

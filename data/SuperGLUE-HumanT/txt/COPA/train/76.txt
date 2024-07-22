@@ -1,0 +1,6 @@
+choice1:Družina ga je spodbujala, naj neha kaditi.
+choice2:Bil je odvisen od nikotina.
+idx:76
+label:1
+premise: Močno si je želel cigarete.
+question:cause

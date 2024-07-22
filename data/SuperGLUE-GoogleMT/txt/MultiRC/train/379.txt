@@ -1,0 +1,144 @@
+version:1.1
+passage.text:Albanščina je leta 1854 kot indoevropski jezik dokazal nemški filolog Franz Bopp. Albanski jezik je lastna veja indoevropske jezikovne družine. Nekateri učenjaki verjamejo, da albanščina izhaja iz ilirskega, drugi pa trdijo, da izvira iz dako-traškega. (Ilirski in dako-traški jezik pa bi lahko bila tesno povezana jezika; glej trako-ilirski jezik.) Albanski jezik pri vzpostavljanju daljših odnosov pogosto primerjajo z baltoslovanskim na eni strani in germanskim na drugi strani, ki imata številne izoglos z albanščino. Poleg tega je albanščina doživela premik samoglasnikov, v katerem je poudarjeno, da je dolg o padel na a, podobno kot pri prvem in nasproti drugega. Podobno je albanski jezik vzel stare sorodnike jos in ga inovativno uporabljal izključno za opredelitev pridevnikov, podobno kot je balto-slovanski izraz uporabljal to besedo za določitev končnic pridevnikov. Kulturna renesansa se je najprej izrazila z razvojem albanskega jezika na področju cerkvenih besedil in publikacij, predvsem katoliške regije na severu, pa tudi pravoslavnih na jugu. Protestantske reforme so okrepile upanje za razvoj lokalnega jezika in literarne tradicije, ko je klerik Gjon Buzuku v albanski jezik vnesel katoliško liturgijo in poskušal narediti za albanski jezik tisto, kar je Luther naredil za nemščino.
+passage.questions.8.question:Albanski jezik je uporabil jos za opredelitev pridevnikov in naredil še kakšen premik?
+passage.questions.8.idx:4347.0
+passage.questions.8.answers.3.text:način, kako je balto-slovanski uporabil to besedo
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:23096.0
+passage.questions.8.answers.2.text:Premik samoglasnika z O na A
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:23095.0
+passage.questions.8.answers.1.text:Zagotoviti natančen konec pridevnikov
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:23094.0
+passage.questions.8.answers.0.text:Kulturna renesansa
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:23093.0
+passage.questions.7.question:Od jezikov, ki jih učenjaki primerjajo z albanskim jezikom, ki je najbolj povezan z albanskim jezikom in zakaj?
+passage.questions.7.idx:4346.0
+passage.questions.7.answers.2.text:Znanstveniki verjamejo, da je baltoslovanski jezik najtesneje povezan z albanskim jezikom zaradi glasovne uporabe samoglasnikov med &quot;a&quot; in &quot;o&quot;.
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:23092.0
+passage.questions.7.answers.1.text:Baltoslovanski, zaradi premika samoglasnikov in inovativno uporabljenih starih sorodnih josov
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23091.0
+passage.questions.7.answers.0.text:Germansko, zaradi izoglos
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:23090.0
+passage.questions.6.question:V kateri nealbanski jezikovni družini je poudarek že dolgo padel?
+passage.questions.6.idx:4345.0
+passage.questions.6.answers.1.text:Germansko
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:23089.0
+passage.questions.6.answers.0.text:Baltoslovanski
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:23088.0
+passage.questions.5.question:Kateri večji jezikovni družini pripada Daco-Thrycian?
+passage.questions.5.idx:4344.0
+passage.questions.5.answers.3.text:Lokalni jeziki
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:23087.0
+passage.questions.5.answers.2.text:Germansko
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:23086.0
+passage.questions.5.answers.1.text:Albanski
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:23085.0
+passage.questions.5.answers.0.text:Indoevropski
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:23084.0
+passage.questions.4.question:Katera tri področja verskih besedil so pripomogla k razvoju albanskega jezika?
+passage.questions.4.idx:4343.0
+passage.questions.4.answers.8.text:Premiki samoglasnikov
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:23083.0
+passage.questions.4.answers.7.text:Izoglose
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:23082.0
+passage.questions.4.answers.6.text:pravoslavni
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:23081.0
+passage.questions.4.answers.5.text:Protestantski
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:23080.0
+passage.questions.4.answers.4.text:Katoliški
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:23079.0
+passage.questions.4.answers.3.text:Katoliška liturgija
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:23078.0
+passage.questions.4.answers.2.text:Cerkveno besedilo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:23077.0
+passage.questions.4.answers.1.text:Cerkvene publikacije
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:23076.0
+passage.questions.4.answers.0.text:Stari sorodnik jos
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:23075.0
+passage.questions.3.question:Kateri indoevropski jezik naj bi izhajal iz ilirskega?
+passage.questions.3.idx:4342.0
+passage.questions.3.answers.2.text:Dakotraški
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:23074.0
+passage.questions.3.answers.1.text:Albanski
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:23073.0
+passage.questions.3.answers.0.text:Trako-ilirski
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:23072.0
+passage.questions.2.question:V kateri nealbanski jezikovni družini se je dvignilo na o?
+passage.questions.2.idx:4341.0
+passage.questions.2.answers.2.text:Germansko
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:23071.0
+passage.questions.2.answers.1.text:Ilirski
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:23070.0
+passage.questions.2.answers.0.text:Baltoslovanski
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:23069.0
+passage.questions.1.question:Kateri večji jezikovni družini pripada ilirski jezik?
+passage.questions.1.idx:4340.0
+passage.questions.1.answers.3.text:Lokalni jeziki
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:23068.0
+passage.questions.1.answers.2.text:Germansko
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23067.0
+passage.questions.1.answers.1.text:Albanski
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:23066.0
+passage.questions.1.answers.0.text:Indoevropski
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:23065.0
+passage.questions.0.question:Kateri so razlogi za uporabo albanskega jezika?
+passage.questions.0.idx:4339
+passage.questions.0.answers.8.text:Premiki samoglasnikov
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:23064.0
+passage.questions.0.answers.7.text:Izoglose
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:23063.0
+passage.questions.0.answers.6.text:pravoslavni
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:23062.0
+passage.questions.0.answers.5.text:Protestantski
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:23061.0
+passage.questions.0.answers.4.text:Katoliški
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:23060.0
+passage.questions.0.answers.3.text:Katoliška liturgija
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:23059.0
+passage.questions.0.answers.2.text:Cerkveno besedilo
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23058.0
+passage.questions.0.answers.1.text:Cerkvene publikacije
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:23057
+passage.questions.0.answers.0.text:Stari sorodnik jos
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23056
+idx:379

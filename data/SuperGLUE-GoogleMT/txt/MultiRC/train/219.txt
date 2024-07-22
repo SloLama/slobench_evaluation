@@ -1,0 +1,109 @@
+version:1.1
+passage.text:{{lang}} se osredotoči na človeka, ki se ponoči sprehaja po ulici. Skrit pod klobukom in deževno jakno stremi k enemu cilju: najti krivca - tistega, ki bi ga lahko odgovoril za svoje trpljenje. Če bi hotel, bi se z njim lahko soočil, vendar mu za to primanjkuje drznosti. Razmišlja o samomoru, vendar mu pogum še enkrat odpove. Zdi se, da mu možnosti ne predstavljajo izhoda in ga osebno ne bi zadovoljile. Finley ne krivi samega sebe, ampak samo druge. V tem primeru se ozira na svoje dekle, Violet. Violeto utopi v kopeli, medtem ko ji daje masažo, kar je zanje postalo običajen ritual. Na eni strani to počne iz zlonamernosti, na drugi pa, da ji je le še enkrat blizu. S tem dejanjem želi prebiti naraščajočo razdaljo, ki jo je začutil med njima, čeprav je dejanski rezultat povzročanje največje možne osamljenosti, ko se spremeni v pošast. Finley se le z zadnjim dnem zaveda, da njegova dejanja daleč presegajo Violetina.
+passage.questions.4.question:Kaj Finley išče ponoči?
+passage.questions.4.idx:2438.0
+passage.questions.4.answers.6.text:Njegov lastni konec je samomor
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:12881.0
+passage.questions.4.answers.5.text:Da bi našel tistega, ki bi ga lahko odgovoril za svoje trpljenje, vendar mu primanjkuje drznosti za soočenje
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:12880.0
+passage.questions.4.answers.4.text:Ženske
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:12879.0
+passage.questions.4.answers.3.text:Njegova punca, Violet
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:12878.0
+passage.questions.4.answers.2.text:Pohajkuje po ulicah in išče nekoga, ki bi bil kriv za njegovo trpljenje
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:12877.0
+passage.questions.4.answers.1.text:Moški
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:12876.0
+passage.questions.4.answers.0.text:Da bi našli krivca
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:12875.0
+passage.questions.3.question:Zakaj Finley svojega trpljenja ne konča s samomorom?
+passage.questions.3.idx:2437.0
+passage.questions.3.answers.6.text:Želi začutiti svoje trpljenje
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:12874.0
+passage.questions.3.answers.5.text:Osebno ga ne bi zadovoljilo
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:12873.0
+passage.questions.3.answers.4.text:Ker ga dekle odvrne
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:12872.0
+passage.questions.3.answers.3.text:Ker ima rad svoje življenje
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:12871.0
+passage.questions.3.answers.2.text:Ker mu primanjkuje naporov, da bi fizično storil samomor
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12870.0
+passage.questions.3.answers.1.text:Ker mu pogum zataji tako, kot da se sooči s krivcem
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:12869.0
+passage.questions.3.answers.0.text:Ker mu pogum tega ne uspe
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:12868.0
+passage.questions.2.question:Komu se Finley zdi vzrok njegovega trenutnega trpljenja?
+passage.questions.2.idx:2436.0
+passage.questions.2.answers.4.text:Krivec, tisti, za katerega misli, da je lahko odgovoren
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:12867.0
+passage.questions.2.answers.3.text:Včasih drugi, včasih on sam
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:12866.0
+passage.questions.2.answers.2.text:Moški
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:12865.0
+passage.questions.2.answers.1.text:Vijolična
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:12864.0
+passage.questions.2.answers.0.text:Himeself
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:12863.0
+passage.questions.1.question:Kaj se Finley zave, ko je Violet mrtva?
+passage.questions.1.idx:2435.0
+passage.questions.1.answers.6.text:Da njegova dejanja daleč presegajo Violetina
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:12862.0
+passage.questions.1.answers.5.text:Da lahko za njeno smrt krivi samo druge
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:12861.0
+passage.questions.1.answers.4.text:Čuti osamljenost in njegova dejanja so slabša od Violetinih
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:12860.0
+passage.questions.1.answers.3.text:Da je njegovo zlodelo daleč nadvladalo Vijolice
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:12859.0
+passage.questions.1.answers.2.text:Končno je srečen
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12858.0
+passage.questions.1.answers.1.text:Da njegova dejanja presežejo Violetino in da je povzročil največjo možno osamljenost, ko se spremeni v pošast
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:12857.0
+passage.questions.1.answers.0.text:Krivca je bila tista Violeta
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12856.0
+passage.questions.0.question:Kaj je Finley počel z Violet, preden jo je ubil?
+passage.questions.0.idx:2434
+passage.questions.0.answers.5.text:Podpis ji
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:12855.0
+passage.questions.0.answers.4.text:Skupni ritual med njima, ko si jo masažijo v kopeli
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:12854.0
+passage.questions.0.answers.3.text:Ponoči smo se sprehajali po ulici
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:12853.0
+passage.questions.0.answers.2.text:Skupaj sta bila v postelji
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:12852.0
+passage.questions.0.answers.1.text:Z masažo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:12851
+passage.questions.0.answers.0.text:Naredite ji masažo v kopeli, da ji bo blizu
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:12850
+idx:219

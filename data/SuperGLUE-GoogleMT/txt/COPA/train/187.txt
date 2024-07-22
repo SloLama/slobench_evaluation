@@ -1,0 +1,6 @@
+choice1:V računalniku je izbrisala stare datoteke.
+choice2:V računalnik je namestila novo programsko opremo.
+idx:187
+label:1
+premise:Ženska je nadgradila računalniško strojno opremo.
+question:effect

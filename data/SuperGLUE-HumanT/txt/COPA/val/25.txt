@@ -1,0 +1,6 @@
+choice1:Prekoračil je omejitev hitrosti.
+choice2:Povozil je žebelj.
+idx:25
+label:1
+premise:Vozniku je počila guma.
+question:cause

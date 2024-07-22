@@ -1,0 +1,411 @@
+version:1.1
+passage.text:Kot je bilo omenjeno zgoraj, so načrtovalci in voditelji napadov zasedevalcev 11. septembra porabili od 400.000 do 500.000 dolarjev. Razpoložljivi dokazi kažejo, da je 19 operativcev financirala Al Kaida bodisi z bančnimi nakazili bodisi z gotovino, ki jo je zagotovila KSM, ki so jo prenašali v ZDA ali deponirali na tuje račune in imeli dostop do te države. Naša preiskava ni odkrila nobenega verodostojnega dokaza, da je katera koli oseba v ZDA ugrabiteljem bistveno finančno pomagala. Podobno nismo videli nobenega dokaza, da bi katera koli tuja vlada ali tuji vladni uradnik zagotavljala kakršna koli sredstva. Nismo našli dokazov, da so člani hamburške celice (Atta, Shehhi, Jarrah in Binalshibh) prejemali sredstva od Al Kaide pred koncem leta 1999. Zdi se, da so se podpirali. KSM, Binalshibh in še en pospeševalec zapletov Mustafa al Hawsawi sta vsak prejela denar, v nekaterih primerih morda celo 10.000 ameriških dolarjev, za izvedbo svojih vlog v zapletu. Potem ko so se hamburški naborniki pridružili zaroti 11. septembra, jim je Al Kaida začela dajati denar. Naše znanje o financiranju v tem obdobju, preden so operativci vstopili v ZDA, ostaja motno. Po navedbah KSM so člani hamburške celice prejeli po 5000 dolarjev za vrnitev v Nemčijo iz Afganistana, potem ko so bili izbrani, da se pridružijo zaroti, in dobili dodatna sredstva za potovanje iz Nemčije v ZDA. Finančne transakcije spletkarjev so podrobneje obravnavane v poglavju 7. Zahteve za uspešen napad Ker so se nekateri osrednji operativci pripravljali na odhod v ZDA, bi lahko voditelji Al Kaide razmislili o tem, kaj bi morali narediti, da bi lahko organizirati in voditi zapleteno mednarodno teroristično operacijo za povzročitev katastrofalne škode. Menimo, da bi tak seznam zahtev vključeval vodje, ki bi lahko ocenili, odobrili in nadzorovali načrtovanje in vodenje operacije; komunikacije, ki omogočajo načrtovanje in vodenje operativcev in tistih, ki bi jim pomagali; kadrovski sistem, ki bi lahko kandidate zaposlil, preveril, indoktriniral in jim omogočil potrebno usposabljanje; obveščevalna prizadevanja za zbiranje potrebnih informacij in oblikovanje ocen sovražnikovih moči in slabosti; sposobnost premikanja ljudi; in sposobnost zbiranja in premikanja potrebnega denarja. Podatki, ki smo jih predstavili o razvoju letalskih operacij, kažejo, kako je do pomladi in poletja 2000 Al Kaida lahko izpolnila te zahteve. Konec maja 2000 sta bila dva operativca, ki sta bila dodeljena letalski operaciji, že v ZDA. Kmalu bi prispeli trije od štirih članov hamburške celice.
+passage.questions.9.question:Približno koliko denarja so zaroparji 11. septembra porabili za načrtovanje in izvedbo napada?
+passage.questions.9.idx:362.0
+passage.questions.9.answers.4.text:Približno 450.000 USD
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:1965.0
+passage.questions.9.answers.3.text:Več kot 500.000 USD
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1964.0
+passage.questions.9.answers.2.text:Manj kot 400.000 USD
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1963.0
+passage.questions.9.answers.1.text:10.000 USD
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1962.0
+passage.questions.9.answers.0.text:Med 400.000 in 500.000 USD
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:1961.0
+passage.questions.8.question:Komu verjamejo, da terorističnemu denarju NI dal denarja?
+passage.questions.8.idx:361.0
+passage.questions.8.answers.6.text:Vsaka tuja vlada
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:1960.0
+passage.questions.8.answers.5.text:Al queda
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:1959.0
+passage.questions.8.answers.4.text:Hamburg
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:1958.0
+passage.questions.8.answers.3.text:Al Kaida
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:1957.0
+passage.questions.8.answers.2.text:Vsaka oseba v ZDA, kateri koli tuji vladni ali tuji vladni uradnik
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:1956.0
+passage.questions.8.answers.1.text:Tuji vladni ali tuji vladni uradnik
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:1955.0
+passage.questions.8.answers.0.text:Binalshibh
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1954.0
+passage.questions.7.question:Koliko so zapravili risalci 11. septembra in koliko so dali hamburškim operaterjem glede na njihovo vlogo v zapletu?
+passage.questions.7.idx:360.0
+passage.questions.7.answers.6.text:10.000 do 56.000 dolarjev. 25000 USD s strani operaterjev
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:1953.0
+passage.questions.7.answers.5.text:Okoli 500.000 dolarjev
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:1952.0
+passage.questions.7.answers.4.text:150.000 dolarjev
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:1951.0
+passage.questions.7.answers.3.text:5000 dolarjev
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:1950.0
+passage.questions.7.answers.2.text:10.000 USD
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1949.0
+passage.questions.7.answers.1.text:Med 400.000 in 500.000 USD. Operaterji skoraj 10.000 USD
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:1948.0
+passage.questions.7.answers.0.text:Za načrtovanje in izvedbo napada so spletkarji zapravili nekje od 400.000 do 500.000 dolarjev. Člani hamburške celice so prejeli po 5000 dolarjev za vrnitev v Nemčijo iz Afganistana, potem ko so bili izbrani, da se pridružijo zaroti, in dobili dodatna sredstva za potovanje iz Nemčije v ZDA
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1947.0
+passage.questions.6.question:Koliko operativcev je že bilo v ZDA in koga so čakali?
+passage.questions.6.idx:359.0
+passage.questions.6.answers.6.text:Dva
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:1946.0
+passage.questions.6.answers.5.text:Bilo jih je 19 in čakali so 3
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:1945.0
+passage.questions.6.answers.4.text:Trije drugi člani celice
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:1944.0
+passage.questions.6.answers.3.text:Tam so bili in čakali so na štiri
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1943.0
+passage.questions.6.answers.2.text:Dva, Hambergova člana celice
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:1942.0
+passage.questions.6.answers.1.text:19.
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1941.0
+passage.questions.6.answers.0.text:Še en pospeševalec zapletov
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1940.0
+passage.questions.5.question:Kdaj so člani Al Kaide, ki načrtujejo napade 11. septembra, prispeli v ZDA?
+passage.questions.5.idx:358.0
+passage.questions.5.answers.7.text:V letu 1990
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:1939.0
+passage.questions.5.answers.6.text:September
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:1938.0
+passage.questions.5.answers.5.text:Konec leta 1999
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:1937.0
+passage.questions.5.answers.4.text:Maj 2000
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:1936.0
+passage.questions.5.answers.3.text:Konec maja 2000
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1935.0
+passage.questions.5.answers.2.text:Konec maja 2000 sta bila dva operativca, ki sta bila dodeljena letalski operaciji, že v ZDA. Kmalu bi prispeli trije od štirih članov hamburške celice
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1934.0
+passage.questions.5.answers.1.text:9.
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1933.0
+passage.questions.5.answers.0.text:11.
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1932.0
+passage.questions.4.question:Kdo se je preživljal, preden jim je Al Kaida začela financirati konec leta 1999?
+passage.questions.4.idx:357.0
+passage.questions.4.answers.5.text:Hamburg
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:1931.0
+passage.questions.4.answers.4.text:Al Kaida
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:1930.0
+passage.questions.4.answers.3.text:KSM
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1929.0
+passage.questions.4.answers.2.text:KSM in Binalshib
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1928.0
+passage.questions.4.answers.1.text:Člani hamburške celice
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1927.0
+passage.questions.4.answers.0.text:Tuja vlada
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1926.0
+passage.questions.3.question:Kaj so preiskovalci sklenili glede vladnega financiranja terorističnih napadov?
+passage.questions.3.idx:356.0
+passage.questions.3.answers.6.text:Foriegnova vlada ni financirala ničesar
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:1925.0
+passage.questions.3.answers.5.text:Uradniki tujih vlad so sodelovali z Al Kaido
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:1924.0
+passage.questions.3.answers.4.text:Nobena vlada ni financirala napada
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:1923.0
+passage.questions.3.answers.3.text:Za vsem je stala vlada Foriegn
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1922.0
+passage.questions.3.answers.2.text:Dve vladi sta financirali
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1921.0
+passage.questions.3.answers.1.text:Naša preiskava ni odkrila nobenega verodostojnega dokaza, da je katera koli oseba v Združenih državah ugrabiteljem zagotovila znatno finančno pomoč.
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1920.0
+passage.questions.3.answers.0.text:Foriegnova vlada je financirala Hamburg
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1919.0
+passage.questions.2.question:V katerem obdobju je Al-Kaida lahko izpolnila zahteve za uspešen napad?
+passage.questions.2.idx:355.0
+passage.questions.2.answers.5.text:Pred letom 1999
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:1918.0
+passage.questions.2.answers.4.text:Do pomladi in poletja 2000
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:1917.0
+passage.questions.2.answers.3.text:Konec leta 1999
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1916.0
+passage.questions.2.answers.2.text:Poletje 2000
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:1915.0
+passage.questions.2.answers.1.text:9.
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:1914.0
+passage.questions.2.answers.0.text:11.
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:1913.0
+passage.questions.17.question:Kdaj so operativci, ki so bili razporejeni na letala, prispeli v ZDA?
+passage.questions.17.idx:370.0
+passage.questions.17.answers.7.text:Med majem in junijem leta 2000
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:2020.0
+passage.questions.17.answers.6.text:September
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:2019.0
+passage.questions.17.answers.5.text:Konec leta 1999
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:2018.0
+passage.questions.17.answers.4.text:Maj 2000
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:2017.0
+passage.questions.17.answers.3.text:Julija 2000
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:2016.0
+passage.questions.17.answers.2.text:9.
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:2015.0
+passage.questions.17.answers.1.text:11.
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:2014.0
+passage.questions.17.answers.0.text:Konec maja 2000 sta bila v ZDA že dva operativca, dodeljena operaciji letal. Trije od štirih članov hamburške celice bodo kmalu prispeli
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:2013.0
+passage.questions.16.question:Kolikšen znesek so spletkarji financirali za napad? Kateri subjekti so financirali te načrtovalce?
+passage.questions.16.idx:369.0
+passage.questions.16.answers.7.text:Kot je bilo omenjeno zgoraj, so zaroparji 11. septembra za načrtovanje in izvedbo napada zapravili od 400.000 do 500.000 dolarjev. Razpoložljivi dokazi kažejo, da je 19 operativcev financirala Al Kaida bodisi z bančnimi nakazili bodisi z gotovino, ki jo je zagotovila KSM Združeni
+passage.questions.16.answers.7.label:1.0
+passage.questions.16.answers.7.idx:2012.0
+passage.questions.16.answers.6.text:Okoli 500.000 dolarjev
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:2011.0
+passage.questions.16.answers.5.text:Al Kaida
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:2010.0
+passage.questions.16.answers.4.text:KSM
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:2009.0
+passage.questions.16.answers.3.text:10.000 USD
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:2008.0
+passage.questions.16.answers.2.text:Med 400.000 in 560.000 USD. Tuja vlada je financirala spletkarje
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:2007.0
+passage.questions.16.answers.1.text:Med 400.000 in 500.000 USD. Al Queda je financirala spletkarje
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:2006.0
+passage.questions.16.answers.0.text:Foriegnova vlada
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:2005.0
+passage.questions.15.question:Do katerega meseca sta bila oba operativca v Združenih državah Amerike in katere informacije smo zagotovili, da je bila Al Queda tako uspešna?
+passage.questions.15.idx:368.0
+passage.questions.15.answers.5.text:Konec junija in trening
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:2004.0
+passage.questions.15.answers.4.text:September
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:2003.0
+passage.questions.15.answers.3.text:Maj, razvoj letalskih operacij
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:2002.0
+passage.questions.15.answers.2.text:Pomlad in poletje 2000
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:2001.0
+passage.questions.15.answers.1.text:Dostop do komunikacijskih sistemov
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:2000.0
+passage.questions.15.answers.0.text:Konec maja in razvoj letalskih operacij
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:1999.0
+passage.questions.14.question:Kdo se je preživljal pred koncem leta 1999?
+passage.questions.14.idx:367.0
+passage.questions.14.answers.5.text:Hamburg
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:1998.0
+passage.questions.14.answers.4.text:Al Kaida
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:1997.0
+passage.questions.14.answers.3.text:KSM
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:1996.0
+passage.questions.14.answers.2.text:Al Queda
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:1995.0
+passage.questions.14.answers.1.text:Tuja vlada
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:1994.0
+passage.questions.14.answers.0.text:Člani hamburške celice
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:1993.0
+passage.questions.13.question:Kaj ostaja motno pri znanju, ki smo ga poznali v tem obdobju, in koliko denarja je prejel vsak član Hambergove celice?
+passage.questions.13.idx:366.0
+passage.questions.13.answers.6.text:poznavanje financiranja
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:1992.0
+passage.questions.13.answers.5.text:Financiranje, 5000 USD
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:1991.0
+passage.questions.13.answers.4.text:Ko so operativci vstopili v ZDA
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:1990.0
+passage.questions.13.answers.3.text:10.000 USD
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:1989.0
+passage.questions.13.answers.2.text:Znanje o financiranju pred tem obdobjem je bilo motno in vsak član Hambergove celice je prejel 5000 dolarjev
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:1988.0
+passage.questions.13.answers.1.text:Znesek porabljenega denarja je nejasen in vsak član Hambergove celice je dobil 10.000 USD
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:1987.0
+passage.questions.13.answers.0.text:5000 dolarjev
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:1986.0
+passage.questions.12.question:Po kateri uri bi kmalu prispeli trije od štirih članov hamburške celice?
+passage.questions.12.idx:365.0
+passage.questions.12.answers.5.text:Konec leta 1999
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:1985.0
+passage.questions.12.answers.4.text:September 2000
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:1984.0
+passage.questions.12.answers.3.text:Po letu 2001
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:1983.0
+passage.questions.12.answers.2.text:Po maju 2000
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:1982.0
+passage.questions.12.answers.1.text:9.
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:1981.0
+passage.questions.12.answers.0.text:11.
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1980.0
+passage.questions.11.question:Kateri celični operativci so prispeli v ZDA kmalu po maju 2000?
+passage.questions.11.idx:364.0
+passage.questions.11.answers.6.text:Al Kaida
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:1979.0
+passage.questions.11.answers.5.text:KSM
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:1978.0
+passage.questions.11.answers.4.text:Mustafa al Hawsawi
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:1977.0
+passage.questions.11.answers.3.text:KSM, Binalshibh
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:1976.0
+passage.questions.11.answers.2.text:Člani hamburške celice
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:1975.0
+passage.questions.11.answers.1.text:Atta, Shehhi, Jarrah in Binalshibh
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:1974.0
+passage.questions.11.answers.0.text:Hamburška celica
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:1973.0
+passage.questions.10.question:Kdaj leta 2000 al Queada izpolnjuje zahteve in v katerem poglavju najdete več podrobnosti o finančnih transakcijah?
+passage.questions.10.idx:363.0
+passage.questions.10.answers.6.text:Zahteve so izpolnili konec maja, več podrobnosti pa najdete v 7. poglavju
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:1972.0
+passage.questions.10.answers.5.text:9. poglavje
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:1971.0
+passage.questions.10.answers.4.text:7. poglavje
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:1970.0
+passage.questions.10.answers.3.text:Več podrobnosti o finančnih transakcijah najdete v 7. poglavju al Queada izpolnjuje zahteve, potem ko so se člani Hamberga pridružili zaroti
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:1969.0
+passage.questions.10.answers.2.text:Pred majem
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:1968.0
+passage.questions.10.answers.1.text:Pomlad in poletje, 7. poglavje
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:1967.0
+passage.questions.10.answers.0.text:Do pomladi in poletja
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:1966.0
+passage.questions.1.question:Od kod denar za financiranje risalcev 11. septembra in od kod ni?
+passage.questions.1.idx:354.0
+passage.questions.1.answers.6.text:19 operativcev je financirala Al Kaida bodisi z bančnimi nakazili bodisi z gotovino, ki jo je zagotovila KSM, ki so jo prenesli v ZDA ali položili na tuje račune in do katere so dostopali iz te države. Nobenega verodostojnega dokaza, da je katera koli oseba v ZDA ugrabiteljem dala pomembne podatke finančne pomoči, ni dokazov, da je katera koli tuja vlada ali tuji državni uradnik priskrbel kakršna koli sredstva
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:1912.0
+passage.questions.1.answers.5.text:Iz KSM, ne iz Al Quede
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1911.0
+passage.questions.1.answers.4.text:ZDA
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1910.0
+passage.questions.1.answers.3.text:Iz Al Quede. Ne od nobene tuje vlade ali tujega vladnega uradnika
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1909.0
+passage.questions.1.answers.2.text:Al Kaida
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:1908.0
+passage.questions.1.answers.1.text:KSM
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:1907.0
+passage.questions.1.answers.0.text:Tuja vlada
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:1906.0
+passage.questions.0.question:Katere zahteve je Al Kaida lahko izpolnila do pomladi in poleti 2000?
+passage.questions.0.idx:353
+passage.questions.0.answers.8.text:&quot;Kaj so morali storiti, da so lahko organizirali in izvedli zapleteno mednarodno teroristično operacijo za povzročitev katastrofalne škode.&quot;
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:1905.0
+passage.questions.0.answers.7.text:Letalo
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:1904.0
+passage.questions.0.answers.6.text:Skrivno skrivališče
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:1903.0
+passage.questions.0.answers.5.text:Sposobnost premikanja ljudi
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:1902.0
+passage.questions.0.answers.4.text:Pištole
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1901.0
+passage.questions.0.answers.3.text:Načrtovanje operacije
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1900.0
+passage.questions.0.answers.2.text:Zahteve za oceno, odobritev in nadzor načrtovanja in vodenja operacije
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1899.0
+passage.questions.0.answers.1.text:Bombe, pištole, osebje itd
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1898
+passage.questions.0.answers.0.text:Zadostna komunikacija
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1897
+idx:31

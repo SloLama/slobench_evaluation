@@ -1,0 +1,136 @@
+version:1.1
+passage.text:Očeh je preživel, ko so ga na koncu prejšnjega filma streljali in zabodli, od takrat pa je bil institucionaliziran v Puget Soundu v Washingtonu, kjer je v delavnici preživljal čas gradnje manekenskih hiš. Oče mu je določil novega zdravnika z imenom Joseph Danvers in mu začel zaupati, da si pridobi njegovo zaupanje, na koncu pa ga je med sejo umoril tako, da ga je z rezilom, pretihotapljenim iz delavnice, zabodel v vrat. Potem, ko je očim ubil Danversa, je s samo nožnico s smrtno palico do smrti premagal sumljivega stražarja z imenom Ralph Smith in vzel uniformo ter se uspešno izmuznil iz sanitarije. Očeh se je po oropanju in umoru potujočega prodajalca spremenil v hotel, iz časopisnih osmrtnic si vzel ime Doctor Gene F. Clifford in odpotoval v Palm Meadows v Los Angelesu, potem ko je v epizodi Dream House videl oglas zanj. Gene prispe v Palm Meadows in sreča nepremičninsko agentko Carol Grayland ter naja hišo čez cesto od nje in njenega sina Todda. Med sejo z sosedskimi ženami Gene izve, da se je Carolin mož zobozdravnik Philip pobegnil s svojo ljubico prejšnje leto. Gene se začne dodeljevati Carol, sčasoma pa zmaga nad njo in Toddom. Geneov načrt za poroko s Carol se kmalu zaplete, ko se Phil vrne in se želi spraviti s svojo ženo. Gene potrebuje Phila s poti, prepriča Carol, da ga pošlje na sestanek, med katerim ga Gene ubije s polomljeno steklenico in nato prikrije Philovo izginotje tako, da se zdi, da je preprosto spet pobegnil.
+passage.questions.7.question:Kako je očim umoril zdravnika in Ralpha Smitha?
+passage.questions.7.idx:4394.0
+passage.questions.7.answers.3.text:Zdravnika je umoril tako, da ga je z rezilom zabodel v vrat in Ralpha Smitha do smrti premagal z lastno palico
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:23270.0
+passage.questions.7.answers.2.text:Premagaj jih
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:23269.0
+passage.questions.7.answers.1.text:Zabodel zdravnika in pretepel Smitha
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23268.0
+passage.questions.7.answers.0.text:Zabodel jih je
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:23267.0
+passage.questions.6.question:Kaj je storil očim, potem ko se je umoril in se izmuznil iz sanatorija?
+passage.questions.6.idx:4393.0
+passage.questions.6.answers.6.text:Spreminjal svoj videz
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:23266.0
+passage.questions.6.answers.5.text:Vzel si je novo ime
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:23265.0
+passage.questions.6.answers.4.text:Nastanitev v hotelu
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:23264.0
+passage.questions.6.answers.3.text:Vzel je ime &quot;Dr. Gene F. Clifford&quot;
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:23263.0
+passage.questions.6.answers.2.text:Prispel v hotel, spremenil svoj videz in si iz časopisnih osmrtnic vzel ime Doctor Gene F. Clifford in odpotoval v Palm Meadows v Los Angelesu, ko je videl oglas zanjo v epizodi Dream House
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23262.0
+passage.questions.6.answers.1.text:Zamolčal potujočega prodajalca
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:23261.0
+passage.questions.6.answers.0.text:Preselil v Los Angeles
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:23260.0
+passage.questions.5.question:Kdo je umoril očim, potem ko je ubil novega zdravnika Josepha Danversa?
+passage.questions.5.idx:4392.0
+passage.questions.5.answers.4.text:Ralph Smith
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:23259.0
+passage.questions.5.answers.3.text:Stražar
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:23258.0
+passage.questions.5.answers.2.text:Carol Grayland
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:23257.0
+passage.questions.5.answers.1.text:Zdravnik Gene F. Clifford
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:23256.0
+passage.questions.5.answers.0.text:Potujoči prodajalec
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:23255.0
+passage.questions.4.question:Koliko ljudi ubije očim v zavodu Puget Sound?
+passage.questions.4.idx:4391.0
+passage.questions.4.answers.4.text:3.
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:23254.0
+passage.questions.4.answers.3.text:Tri
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:23253.0
+passage.questions.4.answers.2.text:Dva
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:23252.0
+passage.questions.4.answers.1.text:2.
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:23251.0
+passage.questions.4.answers.0.text:1.
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:23250.0
+passage.questions.3.question:S kom se očim namerava poročiti?
+passage.questions.3.idx:4390.0
+passage.questions.3.answers.4.text:Nepremičninski agent
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:23249.0
+passage.questions.3.answers.3.text:Carol Grayland
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:23248.0
+passage.questions.3.answers.2.text:Zobozdravnik
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:23247.0
+passage.questions.3.answers.1.text:Doktor Clifford
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:23246.0
+passage.questions.3.answers.0.text:Carol
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:23245.0
+passage.questions.2.question:Kaj imata poleg zdravnikov še doktor Joseph Danvers in zdravnik Gene F. Clifford?
+passage.questions.2.idx:4389.0
+passage.questions.2.answers.3.text:Oba sta mrtva
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:23244.0
+passage.questions.2.answers.2.text:Živeli so v Los Angelesu
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:23243.0
+passage.questions.2.answers.1.text:Oni
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:23242.0
+passage.questions.2.answers.0.text:Živeli so v Puget Soundu
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:23241.0
+passage.questions.1.question:Kje je očim živel, preden je umoril zdravnika in Ralpha Smitha?
+passage.questions.1.idx:4388.0
+passage.questions.1.answers.4.text:Oče je bil institucionaliziran v Puget Soundu v Washingtonu
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:23240.0
+passage.questions.1.answers.3.text:V Puget Soundu
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:23239.0
+passage.questions.1.answers.2.text:Los Angeles
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23238.0
+passage.questions.1.answers.1.text:V zvezni državi Washington
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:23237.0
+passage.questions.1.answers.0.text:V zavodu
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:23236.0
+passage.questions.0.question:Katere tri predmete uporablja očim, da ubije Josepha, Ralpha in Phila?
+passage.questions.0.idx:4387
+passage.questions.0.answers.3.text:Steklenica, nož, palica
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:23235.0
+passage.questions.0.answers.2.text:nož, palica, steklenica
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23234.0
+passage.questions.0.answers.1.text:(druge permutacije)
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:23233
+passage.questions.0.answers.0.text:Rezilo, nočna palica, zlomljena steklenica
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:23232
+idx:384

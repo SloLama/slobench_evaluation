@@ -1,0 +1,363 @@
+version:1.1
+passage.text:Potem ko je Jean-Claude Joseph postal invalid v napadu mačet ob obisku rodnega Haitija, je potreboval pomoč pri prepričevanju svojega najemodajalca, da ga je preselil iz stanovanja v petem nadstropju v stanovanje v pritličju. Isaac Benjamin se je ujel v birokratski snafu, ki mu je več kot dve leti odvzel plačila za socialno varnost. Zgodba o Marthi, ženski iz Sierre Leone, je bila bolj prepričljiva. Pretepana, posiljena in mučena v svoji politično represivni domovini je za pobeg v Ameriko zavestno uporabila tuji potni list, a so jo priseljenske oblasti ob njenem prihodu ujele. Obupno je prosila za politični azil. Ne takšnih primerov, ki vodijo do revolucionarnih preobratov v zakonu, ampak tistih primerov, ki jih iz dneva v dan vodijo odvetniki za pravno brezpravne osebe, ki se nimajo kam drugam obrniti. Delo odvetnikov iz pravne službe New Jerseyja bo izpostavljeno v enournem dokumentarnem filmu &quot;Iskanje pravičnosti&quot;, ki bo danes predvajan ob 21.00 v New Jersey Network. Dokumentarec, ki ga je izdalo NYD2, komunikacijsko podjetje s sedežem v Somersetu, prikazuje zgodovino primerov strank, katerih potrebe so segale od stanovanja do boja proti deportaciji. Joseph, 54-letni naturalizirani državljan, se je obrnil na pravno službo, ko se je najemodajalec njegovega zvezno subvencioniranega stanovanjskega naselja v Elizabeth oglušil na njegovo prošnjo za pritlično stanovanje. Ko je med poskusom ropa izgubil uporabo leve roke pri preprečevanju napada mačet, je Joseph dejal, da se je vedno težje pogajati o petih stopnicah, ki so pritegnile živila ali perilo, kadar je bilo dvigalo stavbe v okvari. &quot;S tem mi je postalo nemogoče ostati zgoraj,&quot; je dejal in pokazal na brazgotine na podlakti. &quot;Če ne morem nositi živil ali perila, kako lahko živim?&quot; &quot;To je bil prepričljiv primer,&quot; je dejal odvetnik pravne službe Stephen St. Hilaire. &quot;Ključno za nas - in ves čas moramo sprejemati težke odločitve, ali bomo sprejeli primer - je bilo vizualiziranje, kaj mora storiti, da pridemo do petega nadstropja in se borimo z vrečo živil,&quot; je dejal. 53-letni Benjamin iz Jersey Cityja je po operaciji dvojnega obvoda, ko so pregledi prenehali prihajati, zbiral invalidnost socialne varnosti. Povedal je, da agencija trdi, da ni vrnil obrazca za posodobitev zdravstvenega stanja. &quot;Toda kar me je pripeljalo do tega, da mi niso dali vedeti, da ga niso dobili, so me preprosto odrezali,&quot; je dejal in dodal, da se sam ne more pogajati o birokraciji za socialno varnost.
+passage.questions.9.question:Koliko je star Jean-Claude Joseph in kaj se je zgodilo z njegovo levo roko?
+passage.questions.9.idx:2827.0
+passage.questions.9.answers.7.text:42.5
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:14955.0
+passage.questions.9.answers.6.text:Star 54 let
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:14954.0
+passage.questions.9.answers.5.text:52 je bil poškodovan v ropu
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:14953.0
+passage.questions.9.answers.4.text:54
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:14952.0
+passage.questions.9.answers.3.text:37
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:14951.0
+passage.questions.9.answers.2.text:54, je bil poškodovan v napadu mačet
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:14950.0
+passage.questions.9.answers.1.text:54 je bil poškodovan v prometni nesreči
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:14949.0
+passage.questions.9.answers.0.text:Joseph je star 54 let in pri napadu mačet je izgubil uporabo leve roke
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:14948.0
+passage.questions.8.question:Koga so mučili v domovini in kdo jo je ujel?
+passage.questions.8.idx:2826.0
+passage.questions.8.answers.6.text:Martho so mučili v domovini in priseljenske oblasti so jo ujele med pobegom
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:14947.0
+passage.questions.8.answers.5.text:Martha, priseljenske oblasti
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:14946.0
+passage.questions.8.answers.4.text:Priseljevanje
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:14945.0
+passage.questions.8.answers.3.text:Martha
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:14944.0
+passage.questions.8.answers.2.text:Fred
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:14943.0
+passage.questions.8.answers.1.text:Stephen St. Hilaire
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:14942.0
+passage.questions.8.answers.0.text:Policaji
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:14941.0
+passage.questions.7.question:Zakaj je Benjamin iz New Jersyja iskal pravno pomoč?
+passage.questions.7.idx:2825.0
+passage.questions.7.answers.6.text:Da bi ugovarjal njegovi ukinitvi invalidnine za socialno varnost?
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:14940.0
+passage.questions.7.answers.5.text:Da dobim SS nazaj
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:14939.0
+passage.questions.7.answers.4.text:Za nakup hiše
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:14938.0
+passage.questions.7.answers.3.text:Prodaja stanovanje
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:14937.0
+passage.questions.7.answers.2.text:Želel se je preseliti v pritlično stanovanje
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:14936.0
+passage.questions.7.answers.1.text:Iskal je azil
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14935.0
+passage.questions.7.answers.0.text:Njegovi pregledi socialne varnosti niso več prihajali
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:14934.0
+passage.questions.6.question:Kaj je Benjaminu postalo nemogoče?
+passage.questions.6.idx:2824.0
+passage.questions.6.answers.7.text:Sprehod po stopnicah
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:14933.0
+passage.questions.6.answers.6.text:Prenašanje živil po stopnicah
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:14932.0
+passage.questions.6.answers.5.text:Za Benjamina je nemogoče, da bi se sam pogajal o birokraciji socialne varnosti
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:14931.0
+passage.questions.6.answers.4.text:Plačevanje računov
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:14930.0
+passage.questions.6.answers.3.text:Sam se pogaja o birokraciji za socialno varnost
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:14929.0
+passage.questions.6.answers.2.text:Odnašanje njegovih stvari gor
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:14928.0
+passage.questions.6.answers.1.text:Petje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:14927.0
+passage.questions.6.answers.0.text:Dobro izgleda
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:14926.0
+passage.questions.5.question:Zakaj je Martha prišla v Ameriko?
+passage.questions.5.idx:2823.0
+passage.questions.5.answers.9.text:Iz Sierre Leone je pobegnila, da bi iskala azil
+passage.questions.5.answers.9.label:1.0
+passage.questions.5.answers.9.idx:14925.0
+passage.questions.5.answers.8.text:Bila je posiljena
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:14924.0
+passage.questions.5.answers.7.text:Obiskati zdravnika
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:14923.0
+passage.questions.5.answers.6.text:Premagan
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:14922.0
+passage.questions.5.answers.5.text:Samo zato, ker
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:14921.0
+passage.questions.5.answers.4.text:Da obišče njenega brata
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:14920.0
+passage.questions.5.answers.3.text:Počitnice
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:14919.0
+passage.questions.5.answers.2.text:Mučili so jo
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:14918.0
+passage.questions.5.answers.1.text:Posiljeno in tortue
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:14917.0
+passage.questions.5.answers.0.text:Poiščite azil
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14916.0
+passage.questions.4.question:Za koga se je Stephen St. Hilaire zdel prepričljiv?
+passage.questions.4.idx:2822.0
+passage.questions.4.answers.7.text:Mark Adams
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:14915.0
+passage.questions.4.answers.6.text:54-letni moški
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:14914.0
+passage.questions.4.answers.5.text:Jožefov primer
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:14913.0
+passage.questions.4.answers.4.text:Wesley
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:14912.0
+passage.questions.4.answers.3.text:Martha
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:14911.0
+passage.questions.4.answers.2.text:Jožef
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:14910.0
+passage.questions.4.answers.1.text:Jean-claude
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:14909.0
+passage.questions.4.answers.0.text:Joesph
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14908.0
+passage.questions.3.question:Zakaj je domači Haiti Jean-Claude izgubil roko?
+passage.questions.3.idx:2821.0
+passage.questions.3.answers.7.text:Vržen je bil ven
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:14907.0
+passage.questions.3.answers.6.text:Napadli so ga z mačeto
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:14906.0
+passage.questions.3.answers.5.text:Bil je ustreljen
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:14905.0
+passage.questions.3.answers.4.text:Zažgal ga je
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:14904.0
+passage.questions.3.answers.3.text:Poškodovan ob napadu
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:14903.0
+passage.questions.3.answers.2.text:Med poskusom ropa mačet mu je bila poškodovana leva roka
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:14902.0
+passage.questions.3.answers.1.text:Napad mačet
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:14901.0
+passage.questions.3.answers.0.text:Prodal je svoj dom
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:14900.0
+passage.questions.2.question:Kdo je ustvaril Quest for Justice?
+passage.questions.2.idx:2820.0
+passage.questions.2.answers.5.text:Komunikacijsko podjetje
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:14899.0
+passage.questions.2.answers.4.text:Pravne storitve New Jersey
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:14898.0
+passage.questions.2.answers.3.text:New Jersey Network
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:14897.0
+passage.questions.2.answers.2.text:NYD2
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:14896.0
+passage.questions.2.answers.1.text:Martha
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14895.0
+passage.questions.2.answers.0.text:jaz sem
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:14894.0
+passage.questions.14.question:Zakaj je nemogoče, da bi Jožef živel zgoraj?
+passage.questions.14.idx:2832.0
+passage.questions.14.answers.7.text:Izgubil je roko
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:14987.0
+passage.questions.14.answers.6.text:Bil je slep
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:14986.0
+passage.questions.14.answers.5.text:Z eno roko nisem mogel nositi ničesar
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:14985.0
+passage.questions.14.answers.4.text:Izgubil je nogo
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:14984.0
+passage.questions.14.answers.3.text:Izgubil je uporabo leve roke in ne more nositi živil gor
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:14983.0
+passage.questions.14.answers.2.text:Bil je izbirčen
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:14982.0
+passage.questions.14.answers.1.text:Ne more hoditi
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:14981.0
+passage.questions.14.answers.0.text:Ne more nositi torb
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:14980.0
+passage.questions.13.question:Kdo misli, da se ljudje v pravnih službah težko odločajo, ali bodo obravnavali primere.
+passage.questions.13.idx:2831.0
+passage.questions.13.answers.5.text:Odvetnik za pravne storitve Stephen St. Hilaire
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:14979.0
+passage.questions.13.answers.4.text:Žan
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:14978.0
+passage.questions.13.answers.3.text:Martha
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:14977.0
+passage.questions.13.answers.2.text:Stephen St. Hilaire
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:14976.0
+passage.questions.13.answers.1.text:54-letni naturalizirani državljan
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:14975.0
+passage.questions.13.answers.0.text:Isaac Benjamin
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:14974.0
+passage.questions.12.question:V katerem omrežju bo predvajan dokumentarni film &quot;Iskanje pravičnosti&quot;?
+passage.questions.12.idx:2830.0
+passage.questions.12.answers.3.text:PBS
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:14973.0
+passage.questions.12.answers.2.text:NBC
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:14972.0
+passage.questions.12.answers.1.text:Omrežje New Jersey
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:14971.0
+passage.questions.12.answers.0.text:ABC
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:14970.0
+passage.questions.11.question:Zakaj je socialna varnost odrezala Benjamina iz Jersey Cityja?
+passage.questions.11.idx:2829.0
+passage.questions.11.answers.6.text:Obrazca za posodobitev ni bilo vrnjeno
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:14969.0
+passage.questions.11.answers.5.text:Obrazca ni uspel vrniti
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:14968.0
+passage.questions.11.answers.4.text:Prekomerna telesna teža
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:14967.0
+passage.questions.11.answers.3.text:Odvetniku je lagal
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:14966.0
+passage.questions.11.answers.2.text:Izgubil je roko
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:14965.0
+passage.questions.11.answers.1.text:Bil je grd
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:14964.0
+passage.questions.11.answers.0.text:Pravijo, da ni vrnil obrazca za posodobitev zdravstvenega stanja
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:14963.0
+passage.questions.10.question:Kdo je pomagal domačemu Haitiju Jean-Claudeu Josephu, ko njegov najemodajalec ni mogel prilagoditi svoje invalidnosti?
+passage.questions.10.idx:2828.0
+passage.questions.10.answers.6.text:Pravna pomoč
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:14962.0
+passage.questions.10.answers.5.text:Sosed pes
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:14961.0
+passage.questions.10.answers.4.text:Odvetnik za pravne storitve po imenu Stephen St. Hilaire
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:14960.0
+passage.questions.10.answers.3.text:Nihče
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:14959.0
+passage.questions.10.answers.2.text:Pravne storitve
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:14958.0
+passage.questions.10.answers.1.text:Pravne službe New Jerseyja
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:14957.0
+passage.questions.10.answers.0.text:Sodnik
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:14956.0
+passage.questions.1.question:Kdo se je trudil, da bi ostal zgoraj in zakaj?
+passage.questions.1.idx:2819.0
+passage.questions.1.answers.6.text:Pes
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:14893.0
+passage.questions.1.answers.5.text:Joseph se je trudil, da bi ostal zgoraj, ker mu je po izgubi leve roke postalo težko nositi prtljago
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:14892.0
+passage.questions.1.answers.4.text:Joseph, ne more uporabiti ene roke
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:14891.0
+passage.questions.1.answers.3.text:Jožef, se trudi nositi predmete po stopnicah
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:14890.0
+passage.questions.1.answers.2.text:Maria, ne more hoditi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:14889.0
+passage.questions.1.answers.1.text:Jean-Claude, napadli so ga v njegovi domovini Haiti
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:14888.0
+passage.questions.1.answers.0.text:Benjamin
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:14887.0
+passage.questions.0.question:Zakaj je Martha iz Sierre Leone prosila za politični azil v ZDA?
+passage.questions.0.idx:2818
+passage.questions.0.answers.8.text:Njen mož je umrl
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:14886.0
+passage.questions.0.answers.7.text:Premagana je bila
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:14885.0
+passage.questions.0.answers.6.text:V domovini je bila prestrašena
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:14884.0
+passage.questions.0.answers.5.text:Izgubila je službo
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:14883.0
+passage.questions.0.answers.4.text:Njena domovina je bila politično represivna
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:14882.0
+passage.questions.0.answers.3.text:Utrudila se je od svoje države
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14881.0
+passage.questions.0.answers.2.text:Posiljen in pretepen v svoji državi
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:14880.0
+passage.questions.0.answers.1.text:Ker so jo tepli, posilili in mučili
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:14879
+passage.questions.0.answers.0.text:Želela je pobegniti
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:14878
+idx:254

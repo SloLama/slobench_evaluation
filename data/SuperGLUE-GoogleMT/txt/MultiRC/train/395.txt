@@ -1,0 +1,78 @@
+version:1.1
+passage.text:Približate se vratom hiše prijateljev. Kaj je prva stvar, ki jo naredite pred vstopom? Seveda si obrišete noge. Ste premišljen obiskovalec. Na srečo je ob vratih lep košček preproge, s katerim si lahko obrišete čevlje. Škoda, da ima vaša skrb svojo ceno. Ko obrišete noge na preprogi, se dotaknete medeninastega trkalca na vratih. Med roko in kovino nenadoma preskoči iskra. Začutite električni udar. Zakaj mislite, da pride do električnega udara? Ko pride do nenadnega praznjenja statične elektrike, pride do električnega udara. Se vam je to že kdaj zgodilo? Ste se dotaknili kovinskega kljuka in ste prejeli neprijeten električni udar? Razlog, da vas šokira, je gibanje električnega naboja. Gibljivi električni naboji ustvarjajo tudi strele. To je tudi isti razlog, da električni tok teče skozi kable in žice.
+passage.questions.2.question:Presenetiš se zaradi premikajočih se električnih nabojev in kaj prav tako ustvarja premikajoče se električne naboje?
+passage.questions.2.idx:4505.0
+passage.questions.2.answers.9.text:Vijaki
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:23847.0
+passage.questions.2.answers.8.text:Kratek stik
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:23846.0
+passage.questions.2.answers.7.text:Ogenj
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:23845.0
+passage.questions.2.answers.6.text:Potres
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:23844.0
+passage.questions.2.answers.5.text:Voda se dvigne
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:23843.0
+passage.questions.2.answers.4.text:Bolečina
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:23842.0
+passage.questions.2.answers.3.text:Draženje
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:23841.0
+passage.questions.2.answers.2.text:Strela
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:23840.0
+passage.questions.2.answers.1.text:Pritrdilni vijaki
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:23839.0
+passage.questions.2.answers.0.text:Strele
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:23838.0
+passage.questions.1.question:Kakšno ceno plačate, ko obrišete noge o kos preproge in posežete po medeninastem ročaju vrat?
+passage.questions.1.idx:4504.0
+passage.questions.1.answers.5.text:Dobiš električni udar
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:23837.0
+passage.questions.1.answers.4.text:Ustvarite izpust statične elektrike
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:23836.0
+passage.questions.1.answers.3.text:Pretresen si
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:23835.0
+passage.questions.1.answers.2.text:Dajete hrano, ki vam ni všeč
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:23834.0
+passage.questions.1.answers.1.text:Trkaš
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:23833.0
+passage.questions.1.answers.0.text:Udari strela
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:23832.0
+passage.questions.0.question:Kaj je prva stvar, ki jo naredite pred vstopom v hišo prijateljev?
+passage.questions.0.idx:4503
+passage.questions.0.answers.6.text:potrkajte
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:23831.0
+passage.questions.0.answers.5.text:Pozvonite
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:23830.0
+passage.questions.0.answers.4.text:Sezuj si čevlje
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:23829.0
+passage.questions.0.answers.3.text:Potrkaš na vrata
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:23828.0
+passage.questions.0.answers.2.text:Obriši mi čevlje
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23827.0
+passage.questions.0.answers.1.text:Očistite čevlje
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:23826
+passage.questions.0.answers.0.text:Obrišite si noge
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:23825
+idx:395

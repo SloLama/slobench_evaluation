@@ -1,0 +1,70 @@
+version:1.1
+passage.text:Kritiki pravijo, da to v primerjavi z drugimi zdravniki, kot so psihiatri z medicinsko sestro ali medicinske sestre, ki imajo vsaj šest let medicinske izobrazbe in klinične izkušnje, še ni dovolj. Niti Davison niti večina drugih nasprotnikov RxP ne dvomi o učinkovitosti zdravil. Njihov največji ugovor je pojem, da se psihologija spremeni v poklic predpisovanja. Na področju, ki si je dolgo in težko prizadevalo dokazati, da je um, razpoloženje in vedenje mogoče empirično preučevati, je Davison v zadnjem desetletju opazil &quot;vznemirljive dogodke&quot;, ki dokazujejo veljavnost različnih psihoterapevtskih posegov in psihosocialno-vedenjskih modelov na na katerih temeljijo. &quot;Čas je poseben, da opustimo psihološko znanost ali jo pretvorimo v medicinsko,&quot; pojasnjuje Elaine M. Heiby z univerze na Havajih, ki predseduje odboru 1000-članskega Ameriškega združenja za uporabno in preventivno psihologijo, ki ga skrbi medikalizacija psihologije. &quot;Zagotavljanje, da psihologi, ki se ukvarjajo s prakso, daje pacientom posege na podlagi najboljše razpoložljive psihološke znanosti, bi moralo biti prednostna naloga APA,&quot; trdi Scott Lilienfeld z univerze Emory, predsednik Društva za znanost klinične psihologije (SSCP). Nasprotniki RxP se bolj kot katera koli filozofska izdaja psihologije bojijo, da bo gibanje spodkopalo znanost, ki jo imajo radi. Verjamejo, da bodo biomedicinske zahteve neizogibno pronicale v učni načrt psihologije na račun tradicionalne psihološke znanosti in metodologije, če bo predpis predpisov postal norma. Lilienfeld meni, da se mnogi klinični psihologi že nezadostno izobražujejo v osnovah, kot so načrtovanje in vrednotenje raziskav. Nasprotniki RxP APA bremenijo, da je potisnil svojo agendo glede pravic na recept, ne da bi ustrezno ocenil njegovo podporo na terenu. 300-članski SSCP je edina skupina znotraj APA, ki se je formalno opredelila do privilegijev na recept. APA je na avgustovskem sestanku predvidel 30 minut za razpravo o RxP, vendar njeno vodstvo verjame, da že ima natančen občutek za podporo svoji politiki RxP. &quot;Razen te majhne glasovne manjšine člani ravno nismo dobili veliko razlogov za to,&quot; pravi predsednik APA Philip G. Zimbardo z univerze Stanford. Ker so privilegiji na recept zdaj resničnost v eni državi, nekateri nasprotniki RxP priznavajo, da je morda prepozno. Letos imajo štiri države poleg Nove Mehike - Gruzija, Havaji, Illinois in Tennessee - sprejeto zakonodajo o privilegijih na recept za psihologe. V zadnjem desetletju je takšne zakone obravnavalo 14 državnih zakonodajalcev. Med leti 1991 in 1997 je demonstracijski projekt ameriškega ministrstva za obrambno psihofarmakologijo, ki je vključeval dve do štiri leta usposabljanja, dal 10 vojaških psihologov, ki znajo pisati recepte.
+passage.questions.4.question:Kateri predsednik APA je na avgustovskem zasedanju predvidel 30 minut za razpravo o RxP?
+passage.questions.4.idx:2267.0
+passage.questions.4.answers.2.text:Philip G. Zimbardo
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:11899.0
+passage.questions.4.answers.1.text:Scott Lilienfield
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11898.0
+passage.questions.4.answers.0.text:Scott Lilienfeld
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:11897.0
+passage.questions.3.question:Katero področje si je dolgo in težko prizadevalo dokazati, da je um, razpoloženje in vedenje mogoče empirično preučevati?
+passage.questions.3.idx:2266.0
+passage.questions.3.answers.3.text:Kiropraktika
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:11896.0
+passage.questions.3.answers.2.text:Psihologija
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:11895.0
+passage.questions.3.answers.1.text:Področje psihologije
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:11894.0
+passage.questions.3.answers.0.text:Nevroznanost
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:11893.0
+passage.questions.2.question:Kaj je največji ugovor nasprotnikov RxP?
+passage.questions.2.idx:2265.0
+passage.questions.2.answers.4.text:Njihov največji ugovor je, da psiholog ne bo dovolil pisanja receptov
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:11892.0
+passage.questions.2.answers.3.text:Njihov največji ugovor je pojem, da se psihologija spremeni v poklic predpisovanja
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:11891.0
+passage.questions.2.answers.2.text:Pojem spreminjanja psihologije v poklic na recept
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:11890.0
+passage.questions.2.answers.1.text:Stalo bo preveč denarja
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:11889.0
+passage.questions.2.answers.0.text:Pojem spreminjanja psihologije v poklic predpisovanja
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:11888.0
+passage.questions.1.question:Kdo je predsednik edine skupine v APA, ki se je formalno opredelil do privilegijev na recept?
+passage.questions.1.idx:2264.0
+passage.questions.1.answers.3.text:Davison
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:11887.0
+passage.questions.1.answers.2.text:Philip G. Zimbardo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11886.0
+passage.questions.1.answers.1.text:Mike Lewis
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11885.0
+passage.questions.1.answers.0.text:Scott Lilienfeld
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:11884.0
+passage.questions.0.question:V kakšnem stanju so zdaj privilegiji na recept?
+passage.questions.0.idx:2263
+passage.questions.0.answers.2.text:Tennessee
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11883.0
+passage.questions.0.answers.1.text:Kalifornija
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11882
+passage.questions.0.answers.0.text:Nova Mehika
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:11881
+idx:203

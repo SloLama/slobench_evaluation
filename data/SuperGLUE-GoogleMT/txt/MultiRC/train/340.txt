@@ -1,0 +1,276 @@
+version:1.1
+passage.text:Marsha se rada igra s svojim prijateljem z rezanci. Imela jo je dolgo časa, tako da je zdaj temno rjave barve. Ko jo je mama prvič naredila, je bila bela. Tisto noč, ko je srečala svojega prijatelja z rezanci, je bila noč špagetov. Marsha je imela najljubšo večerjo špagete, ki so bili vsak torek zvečer. Nekega torka je kos špagetov padel na kuhinjska tla. Marsha je bila videti kot moški, zato ga je obdržala. Svojega novega rezanca je poimenovala Joey in ga vodila kamor koli je šla. Včasih se Joey nekoliko posuši, zato ji je mama Marsha rekla, naj ga vsakih nekaj dni namaka v vodi. Nekajkrat je družinski pes Mika poskušal vzeti Joeyja od Marsha in ga pojesti! Od zdaj naprej Marsha še posebej skrbi, da je Joey ves čas varen in zdrav. Čez dan ga hrani v plastični vrečki v žepu. Ponoči ga položi pod blazino. Obožuje Joeya in želi biti z njim vedno prijatelj.
+passage.questions.9.question:Kako je bilo ime Marshain prijatelj z rezanci?
+passage.questions.9.idx:3918.0
+passage.questions.9.answers.2.text:Jolly
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:20817.0
+passage.questions.9.answers.1.text:Tom
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:20816.0
+passage.questions.9.answers.0.text:Joey
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:20815.0
+passage.questions.8.question:Kakšne barve je bil prijatelj Marsha rezanci, ko ga je prvič videla?
+passage.questions.8.idx:3917.0
+passage.questions.8.answers.2.text:Bila je bela
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:20814.0
+passage.questions.8.answers.1.text:rjav
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:20813.0
+passage.questions.8.answers.0.text:Temno rjava
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:20812.0
+passage.questions.7.question:Koga ima v plastični vrečki v žepu?
+passage.questions.7.idx:3916.0
+passage.questions.7.answers.1.text:Joey
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:20811.0
+passage.questions.7.answers.0.text:Joey, njen prijatelj z rezanci
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:20810.0
+passage.questions.6.question:Kdo je naredil Joeyja?
+passage.questions.6.idx:3915.0
+passage.questions.6.answers.5.text:Večerja
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:20809.0
+passage.questions.6.answers.4.text:Marsha
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:20808.0
+passage.questions.6.answers.3.text:Marsha mati
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:20807.0
+passage.questions.6.answers.2.text:Mika
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:20806.0
+passage.questions.6.answers.1.text:Rojen je bil
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:20805.0
+passage.questions.6.answers.0.text:Marsha mama
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:20804.0
+passage.questions.5.question:Kakšne barve je Joey prikazoval v svojem življenju?
+passage.questions.5.idx:3914.0
+passage.questions.5.answers.3.text:Rumena, oranžna
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:20803.0
+passage.questions.5.answers.2.text:Temno rjava
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:20802.0
+passage.questions.5.answers.1.text:Bela
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:20801.0
+passage.questions.5.answers.0.text:Modra
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:20800.0
+passage.questions.4.question:V katerem dnevu je Marsha mama naredila rezance?
+passage.questions.4.idx:3913.0
+passage.questions.4.answers.3.text:Dan
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:20799.0
+passage.questions.4.answers.2.text:Zvečer
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:20798.0
+passage.questions.4.answers.1.text:Noč
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:20797.0
+passage.questions.4.answers.0.text:Zjutraj
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:20796.0
+passage.questions.3.question:Katera noč je bila, ko je Marsha srečala svojega prijatelja z rezanci?
+passage.questions.3.idx:3912.0
+passage.questions.3.answers.3.text:Torek
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:20795.0
+passage.questions.3.answers.2.text:Ena noč špagetov
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:20794.0
+passage.questions.3.answers.1.text:Neko nedeljo zvečer
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:20793.0
+passage.questions.3.answers.0.text:Četrtek
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:20792.0
+passage.questions.20.question:Kakšne barve je Marsha dolgoletna prijateljica?
+passage.questions.20.idx:3929.0
+passage.questions.20.answers.2.text:Temno rjava
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:20857.0
+passage.questions.20.answers.1.text:Bela
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:20856.0
+passage.questions.20.answers.0.text:Modra
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:20855.0
+passage.questions.2.question:Ko je rezanci padel na tla, kako se je zdelo Marsha?
+passage.questions.2.idx:3911.0
+passage.questions.2.answers.2.text:Niz
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:20791.0
+passage.questions.2.answers.1.text:Moški s palico
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:20790.0
+passage.questions.2.answers.0.text:Palica žaba
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:20789.0
+passage.questions.19.question:Ko je Marsha na tleh zagledala kos špagetov, kako se ji je zdel?
+passage.questions.19.idx:3928.0
+passage.questions.19.answers.2.text:Moški s palico
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:20854.0
+passage.questions.19.answers.1.text:Pasji pes
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:20853.0
+passage.questions.19.answers.0.text:Vrvica
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:20852.0
+passage.questions.18.question:Koga Marsha ponoči položi pod blazino?
+passage.questions.18.idx:3927.0
+passage.questions.18.answers.3.text:Pes
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:20851.0
+passage.questions.18.answers.2.text:Mike
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:20850.0
+passage.questions.18.answers.1.text:Joey
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:20849.0
+passage.questions.18.answers.0.text:Joey, njen prijatelj z rezanci
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:20848.0
+passage.questions.17.question:Kaj je povzročilo, da je Marsha začela še posebej skrbeti za Joeya?
+passage.questions.17.idx:3926.0
+passage.questions.17.answers.3.text:Pes ga je pokopal
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:20847.0
+passage.questions.17.answers.2.text:Začelo se je topiti
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:20846.0
+passage.questions.17.answers.1.text:Pes ga je poskušal pojesti
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:20845.0
+passage.questions.17.answers.0.text:Ko je Mika, družinski pes, poskušal pojesti Joeyja
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:20844.0
+passage.questions.16.question:Kakšne barve je Marshain prijatelj z rezanci?
+passage.questions.16.idx:3925.0
+passage.questions.16.answers.3.text:Temno rjava je
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:20843.0
+passage.questions.16.answers.2.text:Temno vijolična
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:20842.0
+passage.questions.16.answers.1.text:Bela
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:20841.0
+passage.questions.16.answers.0.text:Rumena
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:20840.0
+passage.questions.15.question:Katere kraje lahko Joey pričakuje, da jih bodo obdržali v 24 urah?
+passage.questions.15.idx:3924.0
+passage.questions.15.answers.4.text:V torbi in na varnem
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:20839.0
+passage.questions.15.answers.3.text:V plastični vrečki, pod Maršino blazino
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:20838.0
+passage.questions.15.answers.2.text:V plastični vrečki v Marsinem žepu podnevi in ponoči pod blazino?
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:20837.0
+passage.questions.15.answers.1.text:V žepu in pod blazino
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:20836.0
+passage.questions.15.answers.0.text:Na mizi, v maršavskem žepu
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:20835.0
+passage.questions.14.question:Kakšne barve je bil Joey, ko ga je Marsha dala pod blazino?
+passage.questions.14.idx:3923.0
+passage.questions.14.answers.2.text:Mika
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:20834.0
+passage.questions.14.answers.1.text:Temno rjava
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:20833.0
+passage.questions.14.answers.0.text:Bela
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:20832.0
+passage.questions.13.question:Kaj se je Marši zdelo nalepka?
+passage.questions.13.idx:3922.0
+passage.questions.13.answers.3.text:Rezanci
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:20831.0
+passage.questions.13.answers.2.text:Pes
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:20830.0
+passage.questions.13.answers.1.text:Kos špagetov, ki je padel na tla
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:20829.0
+passage.questions.13.answers.0.text:Vrvica
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:20828.0
+passage.questions.12.question:Kateri dan v tednu je Marsha srečala svojega prijatelja z rezanci?
+passage.questions.12.idx:3921.0
+passage.questions.12.answers.2.text:Torek
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:20827.0
+passage.questions.12.answers.1.text:Sobota
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:20826.0
+passage.questions.12.answers.0.text:Četrtek
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:20825.0
+passage.questions.11.question:Kakšne barve je bila Maršina prijateljica, preden je postala temno rjava?
+passage.questions.11.idx:3920.0
+passage.questions.11.answers.2.text:Vijolična
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:20824.0
+passage.questions.11.answers.1.text:Bela
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:20823.0
+passage.questions.11.answers.0.text:Rumena
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:20822.0
+passage.questions.10.question:Na kateri dan v tednu je Marsha spoznala Joeyja?
+passage.questions.10.idx:3919.0
+passage.questions.10.answers.3.text:Torek
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:20821.0
+passage.questions.10.answers.2.text:Ponedeljek
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:20820.0
+passage.questions.10.answers.1.text:Nedelja
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:20819.0
+passage.questions.10.answers.0.text:Četrtek
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:20818.0
+passage.questions.1.question:Kateri dan v tednu je Marsha prvič srečala svojo prijateljico?
+passage.questions.1.idx:3910.0
+passage.questions.1.answers.3.text:Torek
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:20788.0
+passage.questions.1.answers.2.text:Sobota
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:20787.0
+passage.questions.1.answers.1.text:Nedelja
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:20786.0
+passage.questions.1.answers.0.text:Četrtek
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:20785.0
+passage.questions.0.question:Kateri dan v tednu je Marsha srečala svojega prijatelja z rezanci?
+passage.questions.0.idx:3909
+passage.questions.0.answers.3.text:Torek zvečer
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:20784.0
+passage.questions.0.answers.2.text:Torek
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:20783.0
+passage.questions.0.answers.1.text:Ponedeljek
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:20782
+passage.questions.0.answers.0.text:Četrtek
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:20781
+idx:340

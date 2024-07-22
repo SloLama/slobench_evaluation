@@ -1,0 +1,6 @@
+choice1:Pipa je puščala.
+choice2:Pipa je bila izklopljena.
+idx:10
+label:0
+premise:Ženska si je popravila pipo.
+question:cause

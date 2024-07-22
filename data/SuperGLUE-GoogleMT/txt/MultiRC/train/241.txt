@@ -1,0 +1,305 @@
+version:1.1
+passage.text:Če imate na Zemlji maso 50 kg, kakšna je vaša teža v newtonih? Predmet z večjo maso gravitacija potegne z večjo silo. Masa in teža sta tesno povezani. Vendar se teža predmeta lahko spremeni, če se spremeni sila teže. Na Zemlji je sila gravitacije povsod enaka. Kako se torej spremeni sila gravitacije? Ne ostane, če ostaneš na Zemlji. Kaj če potujemo na drug planet ali luno v našem osončju? Oglejte si fotografijo astronavta Edwina E. Aldrina mlajšega, ki jo je na sliki posnel kolega astronavt Neil Armstrong. Bili so prvi ljudje, ki so hodili po Luni. Astronavt tehta na Luni manj kot na Zemlji. To je zato, ker je gravitacija lun šibkejša od Zemlje. Masa astronavtov pa se ni spremenila. Na Luni je še vedno vseboval enako količino snovi kot na Zemlji. Če bi astronavt na Zemlji tehtal 175 kilogramov, bi na Luni tehtal le 29 kilogramov. Če bi bila njegova masa na Zemlji 80 kg, kakšna bi bila njegova masa na Luni? [Slika 3]
+passage.questions.9.question:Kako sta povezana masa in teža?
+passage.questions.9.idx:2674.0
+passage.questions.9.answers.4.text:Masa in teža sta podobni
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:14154.0
+passage.questions.9.answers.3.text:Teža je odvisna od mase
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:14153.0
+passage.questions.9.answers.2.text:Niso v sorodu
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:14152.0
+passage.questions.9.answers.1.text:Maša nima nič skupnega s težo
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:14151.0
+passage.questions.9.answers.0.text:Masa in teža sta tesno povezani, vendar se teža lahko spreminja glede na gravitacijsko silo, masa pa se ne
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:14150.0
+passage.questions.8.question:Zakaj bi človek na Luni, ki tehta 175 lbs, na Luni tehtal le 29 kilogramov?
+passage.questions.8.idx:2673.0
+passage.questions.8.answers.4.text:Sila teže je večja
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:14149.0
+passage.questions.8.answers.3.text:Ker se masa spreminja, ko je na Luni
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:14148.0
+passage.questions.8.answers.2.text:Ker je gravitacija na Luni šibkejša
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:14147.0
+passage.questions.8.answers.1.text:Na težo vpliva gravitacija, zato se na Luni teža zmanjša zaradi manjše gravitacijske sile
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:14146.0
+passage.questions.8.answers.0.text:Sila teže je manjša
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:14145.0
+passage.questions.7.question:Kako se spremeni gravitacija?
+passage.questions.7.idx:2672.0
+passage.questions.7.answers.6.text:Na Zemlji ostaja enako, drugače pa bi bilo na drugem planetu ali luni v našem sončnem sistemu
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:14144.0
+passage.questions.7.answers.5.text:Ne glede na to, kje ste
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:14143.0
+passage.questions.7.answers.4.text:Gravitacija se spreminja, ko se preselite na drug planet ali luno
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:14142.0
+passage.questions.7.answers.3.text:Spreminja se s planetom
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:14141.0
+passage.questions.7.answers.2.text:Spreminja se z maso
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:14140.0
+passage.questions.7.answers.1.text:S težo se spreminja
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14139.0
+passage.questions.7.answers.0.text:Gravitacija se nikoli ne spremeni
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:14138.0
+passage.questions.6.question:Zakaj se teža človeka ne bi spremenila na Zemlji, ampak na Luni?
+passage.questions.6.idx:2671.0
+passage.questions.6.answers.4.text:Sila gravitacije je enaka v vseh krajih Zemlje, vendar se razlikuje od gravitacijske sile na Luni
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:14137.0
+passage.questions.6.answers.3.text:Ker se masa spreminja na Luni, na Zemlji pa ne
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:14136.0
+passage.questions.6.answers.2.text:Luna je manjša od Zemlje
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:14135.0
+passage.questions.6.answers.1.text:Sila teže je med Zemljo in Luno različna
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:14134.0
+passage.questions.6.answers.0.text:Ker je privlačnost gravitacije povsod na Zemlji enaka, spreminja pa se tudi na Luni
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:14133.0
+passage.questions.5.question:Kako je masa povezana s težo?
+passage.questions.5.idx:2670.0
+passage.questions.5.answers.4.text:So tesno povezani
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:14132.0
+passage.questions.5.answers.3.text:Med maso in težo ni podobnosti
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:14131.0
+passage.questions.5.answers.2.text:Masa je potrebna za gravitacijo
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:14130.0
+passage.questions.5.answers.1.text:Teža je odvisna od mase
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:14129.0
+passage.questions.5.answers.0.text:Večjo maso potegne gravitacija z večjo silo; masa in teža sta tesno povezani, vendar se teža predmeta lahko spremeni, če se spremeni sila teže
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14128.0
+passage.questions.4.question:Kako se teža in masa astronavta razlikujeta na Luni?
+passage.questions.4.idx:2669.0
+passage.questions.4.answers.5.text:Masa je enaka, vendar se teža zmanjša za šestkrat
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:14127.0
+passage.questions.4.answers.4.text:Večjo težo ima astronavt, manjšo maso bo imel na Luni
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:14126.0
+passage.questions.4.answers.3.text:Povečanje teže in mase
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:14125.0
+passage.questions.4.answers.2.text:Teža in masa sta enaki
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:14124.0
+passage.questions.4.answers.1.text:Astronavt tehta več in ima enako maso na Luni
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:14123.0
+passage.questions.4.answers.0.text:Njegova teža je manjša, masa pa ostaja enaka
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14122.0
+passage.questions.3.question:Kako sila teže vpliva na vašo težo?
+passage.questions.3.idx:2668.0
+passage.questions.3.answers.6.text:Raven gravitacije spremeni težo predmeta, ker je sila, ki se potegne navzdol in povzroči zaznano spremembo
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:14121.0
+passage.questions.3.answers.5.text:Več sila teže, manjša teža
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:14120.0
+passage.questions.3.answers.4.text:Zmanjša vašo dejansko težo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:14119.0
+passage.questions.3.answers.3.text:Več sila teže, večja teža
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:14118.0
+passage.questions.3.answers.2.text:Poveča vašo dejansko težo
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:14117.0
+passage.questions.3.answers.1.text:Ne
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:14116.0
+passage.questions.3.answers.0.text:Manj kot tehtate
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:14115.0
+passage.questions.2.question:To mersko enoto lahko uporabite namesto kilogramov. Kaj je to?
+passage.questions.2.idx:2667.0
+passage.questions.2.answers.1.text:Newtonov
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:14114.0
+passage.questions.2.answers.0.text:Kilogrami
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:14113.0
+passage.questions.15.question:Kdaj se spremeni sila teže
+passage.questions.15.idx:2680.0
+passage.questions.15.answers.5.text:Nikoli se ne spremeni
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:14190.0
+passage.questions.15.answers.4.text:Ko spremenimo planete
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:14189.0
+passage.questions.15.answers.3.text:Ko zapustite zemljo
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:14188.0
+passage.questions.15.answers.2.text:Ko se teža spremeni
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:14187.0
+passage.questions.15.answers.1.text:Ko se masa spremeni
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:14186.0
+passage.questions.15.answers.0.text:Na drugem planetu ali luni v sončnem sistemu
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:14185.0
+passage.questions.14.question:Zakaj sta Edwin E. Aldrin mlajši in Neil Armstrong manj tehtala na Luni?
+passage.questions.14.idx:2679.0
+passage.questions.14.answers.5.text:Ker se masa spreminja na Luni
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:14184.0
+passage.questions.14.answers.4.text:Sila gravitacije je bila večja
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:14183.0
+passage.questions.14.answers.3.text:Sila teže je bila manjša
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:14182.0
+passage.questions.14.answers.2.text:Ker je gravitacija na Luni šibkejša
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:14181.0
+passage.questions.14.answers.1.text:Ker je gravitacija na Luni močnejša
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:14180.0
+passage.questions.14.answers.0.text:Ker je gravitacija lun šibkejša od Zemlje. Masa astronavtov pa se ni spremenila
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:14179.0
+passage.questions.13.question:Kdo so bili prvi ljudje, ki so hodili po Luni?
+passage.questions.13.idx:2678.0
+passage.questions.13.answers.6.text:Edwin Aldrin starejši
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:14178.0
+passage.questions.13.answers.5.text:Neil Armstrong
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:14177.0
+passage.questions.13.answers.4.text:Edwin E. Armstrong
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:14176.0
+passage.questions.13.answers.3.text:Tom Hanks
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:14175.0
+passage.questions.13.answers.2.text:Edwin E. Aldrin ml
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:14174.0
+passage.questions.13.answers.1.text:John Wayne
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:14173.0
+passage.questions.13.answers.0.text:Newtonov
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:14172.0
+passage.questions.12.question:Kakšna je razlika med težo in maso?
+passage.questions.12.idx:2677.0
+passage.questions.12.answers.6.text:Masa je odvisna od gravitacijske sile
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:14171.0
+passage.questions.12.answers.5.text:Teža je v newtonih, masa pa je konstantna in se v newtonih ne meri
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:14170.0
+passage.questions.12.answers.4.text:Masa je stalna, vendar se teža spreminja
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:14169.0
+passage.questions.12.answers.3.text:Teža je odvisna od sile teže
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:14168.0
+passage.questions.12.answers.2.text:Maša se nikoli ne spremeni
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:14167.0
+passage.questions.12.answers.1.text:Masa je količina snovi, teža pa sila teže na predmet
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:14166.0
+passage.questions.12.answers.0.text:Teža se nikoli ne spremeni
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:14165.0
+passage.questions.11.question:Kako se masa in teža razlikujeta?
+passage.questions.11.idx:2676.0
+passage.questions.11.answers.4.text:Masa je konstantna, teža pa se razlikuje od teže
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:14164.0
+passage.questions.11.answers.3.text:Masa se spreminja z gravitacijsko silo
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:14163.0
+passage.questions.11.answers.2.text:Teža se spreminja z gravitacijsko silo
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:14162.0
+passage.questions.11.answers.1.text:Masa in teža sta tesno povezani, vendar se masa ne spreminja glede na težo
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:14161.0
+passage.questions.11.answers.0.text:Spremembe mase in teža so stalne
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:14160.0
+passage.questions.10.question:Zakaj astronavt na Luni tehta manj kot na zemlji
+passage.questions.10.idx:2675.0
+passage.questions.10.answers.4.text:Ker je gravitacija močnejša
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:14159.0
+passage.questions.10.answers.3.text:Lunina gravitacija je šibkejša
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:14158.0
+passage.questions.10.answers.2.text:Lunina gravitacija je šibkejša od zemeljske?
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:14157.0
+passage.questions.10.answers.1.text:Ker je gravitacija šibkejša
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:14156.0
+passage.questions.10.answers.0.text:Lunina gravitacija je močnejša
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:14155.0
+passage.questions.1.question:Kdo so astronavti, ki so manj tehtali na Luni?
+passage.questions.1.idx:2666.0
+passage.questions.1.answers.6.text:Neil Armstrong
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:14112.0
+passage.questions.1.answers.5.text:Lance Armstrong
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:14111.0
+passage.questions.1.answers.4.text:Edwin Aldrin in Neil Armstrong
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:14110.0
+passage.questions.1.answers.3.text:Edwin E. Aldrin mlajši in Neil Armstrong
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:14109.0
+passage.questions.1.answers.2.text:Edwin Aldrin starejši in Armstrong
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:14108.0
+passage.questions.1.answers.1.text:Edwin E. Aldrin ml
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:14107.0
+passage.questions.1.answers.0.text:Charles Darwin
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:14106.0
+passage.questions.0.question:Kako se spremeni sila gravitacije?
+passage.questions.0.idx:2665
+passage.questions.0.answers.4.text:To je zato, ker je gravitacija lun šibkejša od Zemlje - spremeni se, ko greš na kraj z manj gravitacije
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:14105.0
+passage.questions.0.answers.3.text:Sila gravitacije se nikoli ne spremeni
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14104.0
+passage.questions.0.answers.2.text:Sila gravitacije se spreminja glede na to, kje se nahajate v sončnem sistemu
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:14103.0
+passage.questions.0.answers.1.text:Spreminja se s spremembo mase
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:14102
+passage.questions.0.answers.0.text:Spreminja se s spremembo teže
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:14101
+idx:241

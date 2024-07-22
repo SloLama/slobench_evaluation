@@ -1,0 +1,242 @@
+version:1.1
+passage.text:IBM je v sredo tukaj odprl razvejano in dovršeno tovarno polprevodnikov, ki je za gradnjo in opremo stala več kot 2,5 milijarde dolarjev, kar je največja posamezna kapitalska naložba, ki jo je podjetje doslej izvedlo. Tovarna, ki se odpre, ko podjetje z računalniškimi čipi propada, je za IBM draga in tvegana poteza. To pa je tudi izraz zaupanja podjetja, da lahko ostane tehnološko vodilno v visoko konkurenčni svetovni industriji polprevodnikov, in zaveza, da je najboljše mesto za izvajanje te strategije v New Yorku. IBM je med proizvajalci računalnikov izjema, ker še vedno veliko vlaga v raziskave za pospeševanje načrtovanja, izdelave in materialov, ki se uporabljajo v polprevodniških čipih. Za raziskave in razvoj polprevodnikov letno porabi več kot 500 milijonov dolarjev. Tovarna bo proizvajala široko paleto specializiranih polprevodnikov, ki se uporabljajo v vsem, od največjih računalnikov z velikimi računalniki do mobilnih telefonov in igralnih konzol. Nova tovarna je del IBM-ovega prizadevanja, da pridobi močno vodilno vlogo pri izdelavi čipov poleg poslovanja z osebnimi računalniki, kjer imajo prednost Intel in vzhodnoazijski proizvajalci čipov. &quot;Jedro naše strategije je voditi v tehnologiji in napasti visokozmogljive segmente trga,&quot; je dejal John Kelly, višji podpredsednik, zadolžen za IBM-ovo tehnološko skupino. Prednost, da je bila tovarna za izdelavo polprevodnikov tukaj, je pojasnil Kelly, bila ta, da je bila zelo blizu svojih raziskovalnih laboratorijev v bližini okrožja Westchester, New York. čim hitreje je ključnega pomena. &quot;Kar imenujemo čas od laboratorija do faba, mora biti čim bližje ničli,&quot; je dejala Kelly. &quot;Če bi bila naša strategija kaj drugega kot to, da bi bili na prvem mestu, bi tovarno postavili v Azijo.&quot; Nova tovarna, ki bo normalno začela s proizvodnjo v začetku prihodnjega leta, bo zaposlovala približno 1000 ljudi.
+passage.questions.9.question:Kaj bo IBM proizvajal v zvezni državi New York?
+passage.questions.9.idx:4338.0
+passage.questions.9.answers.9.text:Mobilni telefoni in poslovanje z video igrami
+passage.questions.9.answers.9.label:0,0
+passage.questions.9.answers.9.idx:23055.0
+passage.questions.9.answers.8.text:Dragi polprevodniki
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:23054.0
+passage.questions.9.answers.7.text:Čipi za pametne telefone
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:23053.0
+passage.questions.9.answers.6.text:Konzole za video igre
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:23052.0
+passage.questions.9.answers.5.text:Glavni računalniki
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:23051.0
+passage.questions.9.answers.4.text:Mobilni telefon
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:23050.0
+passage.questions.9.answers.3.text:Oven
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:23049.0
+passage.questions.9.answers.2.text:Trdi diski
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:23048.0
+passage.questions.9.answers.1.text:Posel z mobilnimi čipi
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:23047.0
+passage.questions.9.answers.0.text:Specializirani polprevodniki
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:23046.0
+passage.questions.8.question:Za katero vrsto raziskav IBM trenutno porabi več kot 500 milijonov dolarjev na leto?
+passage.questions.8.idx:4337.0
+passage.questions.8.answers.6.text:Tehnologija
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:23045.0
+passage.questions.8.answers.5.text:Računalniški čipi
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:23044.0
+passage.questions.8.answers.4.text:Nove izboljšave operacijskega sistema
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:23043.0
+passage.questions.8.answers.3.text:Računalnik
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:23042.0
+passage.questions.8.answers.2.text:Polprevodnik
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:23041.0
+passage.questions.8.answers.1.text:Raziskave in razvoj polprevodnikov
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:23040.0
+passage.questions.8.answers.0.text:IBM veliko vlaga v raziskave in razvoj polprevodniških čipov, ki se uporabljajo v vsem, od velikih računalnikov do mobilnih telefonov in igralnih konzol
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:23039.0
+passage.questions.7.question:Kje bo IBM odpiral novo tovarno polprevodnikov in koliko bo to stalo?
+passage.questions.7.idx:4336.0
+passage.questions.7.answers.6.text:Tovarna bo v zvezni državi New York, gradnja in oprema pa bo stala več kot 2,5 milijarde dolarjev
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:23038.0
+passage.questions.7.answers.5.text:Januarja bo to stalo 30 milijard
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:23037.0
+passage.questions.7.answers.4.text:New York
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:23036.0
+passage.questions.7.answers.3.text:Westchester, NY
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:23035.0
+passage.questions.7.answers.2.text:2,5 milijarde dolarjev
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:23034.0
+passage.questions.7.answers.1.text:Veliko
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:23033.0
+passage.questions.7.answers.0.text:M je v sredo tukaj odprl razprostrto in dovršeno tovarno polprevodnikov, ki je za gradnjo in opremo stala več kot 2,5 milijarde USD
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:23032.0
+passage.questions.6.question:Kaj meni IBM-ov višji podpredsednik, odgovoren za njihovo tehnološko skupino, John Kelly, da je lokacija nove tovarne tako pomembna?
+passage.questions.6.idx:4335.0
+passage.questions.6.answers.6.text:Ni v Aziji
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:23031.0
+passage.questions.6.answers.5.text:Čim prej hočejo najboljše
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:23030.0
+passage.questions.6.answers.4.text:Tako je mogoče hitreje izdelati boljše žetone
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:23029.0
+passage.questions.6.answers.3.text:Zmanjšali se bodo stroški
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:23028.0
+passage.questions.6.answers.2.text:Poleg tega, da bo na to območje prinesla 1000 delovnih mest, bo nova tovarna zelo blizu IBM-ovih raziskovalnih laboratorijev v okrožju Westchester, NY, da bo zagotovila, da bo čas laboratorija do fab čim bližje ničli.
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23027.0
+passage.questions.6.answers.1.text:Če želite podaljšati čas od laboratorija do faba
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:23026.0
+passage.questions.6.answers.0.text:Čas od laboratorija do faba se skrajša
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:23025.0
+passage.questions.5.question:Koliko ljudi bo zaposlovala nova tovarna polprevodnikov IBM?
+passage.questions.5.idx:4334.0
+passage.questions.5.answers.4.text:5000
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:23024.0
+passage.questions.5.answers.3.text:Veliko manj kot 1000
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:23023.0
+passage.questions.5.answers.2.text:Približno 1.000 ljudi
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:23022.0
+passage.questions.5.answers.1.text:Nekaj
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:23021.0
+passage.questions.5.answers.0.text:Več kot 950 ljudi
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:23020.0
+passage.questions.4.question:Kje je bila zgrajena največja enkratna kapitalska naložba podjetja IBM?
+passage.questions.4.idx:4333.0
+passage.questions.4.answers.5.text:Westchester
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:23019.0
+passage.questions.4.answers.4.text:Azija
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:23018.0
+passage.questions.4.answers.3.text:New York
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:23017.0
+passage.questions.4.answers.2.text:Severovzhod ZDA
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:23016.0
+passage.questions.4.answers.1.text:Upstate New York
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:23015.0
+passage.questions.4.answers.0.text:IBM je odprl novo raven za njihovo podjetje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:23014.0
+passage.questions.3.question:Kaj je bil razlog, da IBM nove tovarne ni postavil v Azijo?
+passage.questions.3.idx:4332.0
+passage.questions.3.answers.6.text:Stroški
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:23013.0
+passage.questions.3.answers.5.text:Biti blizu raziskovalnega laboratorija v zvezni državi New York, da bi čim bolj zmanjšali čas od laboratorija do faba
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:23012.0
+passage.questions.3.answers.4.text:Želeli so ohraniti službo v ZDA
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:23011.0
+passage.questions.3.answers.3.text:Za izdelavo vrhunske tehnologije
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:23010.0
+passage.questions.3.answers.2.text:Želeli so biti blizu svojega laboratorija
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:23009.0
+passage.questions.3.answers.1.text:Biti ameriški
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:23008.0
+passage.questions.3.answers.0.text:Bil je zelo blizu svojih raziskovalnih laboratorijev v bližini okrožja Westchester v New Yorku. Za napredovanje v napredni tehnologiji čipov je po njegovem mnenju ključnega pomena čim hitrejši premik inovacij iz laboratorijev v tovarno
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:23007.0
+passage.questions.2.question:Kaj pomeni čas &quot;lab-to-fab&quot;?
+passage.questions.2.idx:4331.0
+passage.questions.2.answers.8.text:Čas med laboratorijskimi raziskavami in izdelavo izdelka
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:23006.0
+passage.questions.2.answers.7.text:Ključnega pomena je čim hitrejša selitev inovacij iz laboratorijev v tovarno
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:23005.0
+passage.questions.2.answers.6.text:Čim hitreje premaknite novosti iz laboratorijev v tovarno
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:23004.0
+passage.questions.2.answers.5.text:Strategija je bila vse prej kot to, da je na čelu
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:23003.0
+passage.questions.2.answers.4.text:Čudovita produkcija
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:23002.0
+passage.questions.2.answers.3.text:Biti visoko konkurenčen
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:23001.0
+passage.questions.2.answers.2.text:Laboratorij do tovarne
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:23000.0
+passage.questions.2.answers.1.text:Čudovite ideje
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:22999.0
+passage.questions.2.answers.0.text:Čas je potreben od selitve stvari iz raziskovalnih laboratorijev v tovarne
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:22998.0
+passage.questions.1.question:Koga IBM vidi kot svojo tehnološko konkurenco?
+passage.questions.1.idx:4330.0
+passage.questions.1.answers.7.text:Intel
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:22997.0
+passage.questions.1.answers.6.text:Posel z osebnimi računalniki
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:22996.0
+passage.questions.1.answers.5.text:Proizvajalci Intel in vzhodnoazijskih čipov
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:22995.0
+passage.questions.1.answers.4.text:Samsung
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:22994.0
+passage.questions.1.answers.3.text:Intelovi in vzhodnoazijski proizvajalci čipov
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:22993.0
+passage.questions.1.answers.2.text:Okrožje Westchester
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22992.0
+passage.questions.1.answers.1.text:Apple
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22991.0
+passage.questions.1.answers.0.text:Vzhodnoazijski proizvajalci čipov
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:22990.0
+passage.questions.0.question:Kakšen je splošni cilj izdelkov, ki jih proizvaja tovarna?
+passage.questions.0.idx:4329
+passage.questions.0.answers.6.text:Imeti najboljše čipe v poslu
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:22989.0
+passage.questions.0.answers.5.text:Široka paleta specializiranih polprevodnikov, ki se uporabljajo v vsem, od največjih računalnikov z velikimi računalniki do mobilnih telefonov in igralnih konzol. Drugič, prizadevanje si pridobiti močno vodilno vlogo pri izdelavi čipov, ki presega poslovanje z osebnimi računalniki
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:22988.0
+passage.questions.0.answers.4.text:Biti vrhunski pri njihovi proizvodnji
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:22987.0
+passage.questions.0.answers.3.text:Premagati jabolko
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:22986.0
+passage.questions.0.answers.2.text:Pridobite močno vodilno vlogo pri izdelavi čipov poleg poslovanja z osebnimi računalniki
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:22985.0
+passage.questions.0.answers.1.text:Hitro jih izdelati ni pomembno
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:22984
+passage.questions.0.answers.0.text:Da bi nadaljevali poslovanje v ZDA
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:22983
+idx:378

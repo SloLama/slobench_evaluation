@@ -1,0 +1,6 @@
+choice1:Klicateljev telefon je izgubil signal.
+choice2:Klicatelj je čakal na liniji.
+idx:30
+label:1
+premise:Tajnica je dala klicatelja na čakanje.
+question:effect

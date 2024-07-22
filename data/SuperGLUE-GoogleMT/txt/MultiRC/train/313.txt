@@ -1,0 +1,89 @@
+version:1.1
+passage.text:Rakal, njen prvi častnik, je zamišljeno gledal v svojo ploščo. Bil je tisto, za kar je šlo. Opazovala je njegove graciozne prste, ki so se končali z debelimi črnimi kremplji, kako so na plošči pipali izračune. Koničasta ušesa so se muhala naprej in nazaj, lovila so vsak zvok z mostu, medtem ko je njegov dolgi rep zavijal v ritmu njegovih misli. Samo člani notranje ekipe Arrallin Insurrection so vedeli, da ni navaden &quot;beta furry&quot;. Njegovo svileno krzno, ki je bilo bledo zlato in črtasto s črnimi črtastimi trakovi, je bilo popolnoma obarvano v čisto črno, griva pa je bila obrezana in redčena, tako da se ni ločila od ostalega plašča. Njegove oči so bile obdelane in zatemnjene do bogate vijolične barve, da bi prikrila briljantno zlato rumeno barvo, ki bi ga označevala za Alfa Arrallina in vodjo svojega panja. Trenutno je bil videti kot zaraščen volk, ki se je naučil tipkanja na dotik. Skavtska ladja se je ponovno pojavila iz luknje - briljantna pikica, ki se je pojavila iz krogle žametne črnine. Po točah je počila toča in Tara se je vrtela, da je zasedla svoj sedež na čelu. &quot;Sproži drugo sondo. Central ne bo zdrobljen, ko bo izvedel, da je drugi prehod prinesel le nekaj več kot planet razreda F in sistem belega pritlikavca. Uslužbenci 1. in 2. stopnje bi se morali pripraviti na sestanek in izselitev. Sliši se, kot da je tisti.&quot; Značilni prepih užitka se je valil skozi bete na mostu, Rakal pa je sprostil majhno režanje, kot da bi opozoril na svoje obtožbe pred lažnim upanjem. Doslej so preiskali sedemindvajset vrat in nobena ni našla ničesar, kar bi bilo vredno časa vstajenja. Tara ni pustila, da bi jih vrtoglavi upi vlekli na skalo, ki bi pomenila konec projekta, in vrste Arrallin.
+passage.questions.3.question:Kaj so poslali, da so našli drugo sondo?
+passage.questions.3.idx:3567.0
+passage.questions.3.answers.5.text:Več hrane
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:18971.0
+passage.questions.3.answers.4.text:Vse, kar je vredno uporniškega časa
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:18970.0
+passage.questions.3.answers.3.text:Vrsta Arrallin
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:18969.0
+passage.questions.3.answers.2.text:Nov planet za klic domov
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:18968.0
+passage.questions.3.answers.1.text:Nov prototip
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:18967.0
+passage.questions.3.answers.0.text:Nezemeljska galaksija
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18966.0
+passage.questions.2.question:Kaj je bilo poslanstvo?
+passage.questions.2.idx:3566.0
+passage.questions.2.answers.6.text:Poslanstvo je potekalo okoli Rakala in vrste Arrallin
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:18965.0
+passage.questions.2.answers.5.text:Najti celice meglice za njihov vir energije
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:18964.0
+passage.questions.2.answers.4.text:Iskanje novega habitata
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:18963.0
+passage.questions.2.answers.3.text:Pobegniti pred terorjem revnega diktatorja
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:18962.0
+passage.questions.2.answers.2.text:Izkazalo se je vse, kar je bilo vredno vstajniškega časa
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:18961.0
+passage.questions.2.answers.1.text:Iskanje hrane in vode
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:18960.0
+passage.questions.2.answers.0.text:Najti nov planet, ki bi ga naselil
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:18959.0
+passage.questions.1.question:Kako je bil Rakal preoblečen, da mu prepreči, da bi ga prepoznali kot panja?
+passage.questions.1.idx:3565.0
+passage.questions.1.answers.6.text:Krzno je dal obarvati v črno in oči so mu zdravili
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:18958.0
+passage.questions.1.answers.5.text:Krzno mu je bilo porezano
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:18957.0
+passage.questions.1.answers.4.text:Obril si je lase in zrasel ptiča, da bi si pokril oznake
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:18956.0
+passage.questions.1.answers.3.text:Kremplji so mu bili urejeni in nosil je lažne leče, da si je pokrival oči
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:18955.0
+passage.questions.1.answers.2.text:Njegovo svileno krzno, ki je bilo bledo zlato in črtasto s črnimi črtastimi trakovi, je bilo popolnoma obarvano v čisto črno, griva pa je bila obrezana in redčena, tako da se ni ločila od ostalega plašča. Njegove oči so bile obdelane in zatemnjene do bogate vijolične barve, da bi prikrile briljantno zlato rumeno barvo, ki bi ga označevala za Alfa Arrallina in vodjo panja
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18954.0
+passage.questions.1.answers.1.text:Nosil je holografsko fatamorgano
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:18953.0
+passage.questions.1.answers.0.text:Njegove oči so bile zdravljene in zatemnjene
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:18952.0
+passage.questions.0.question:Zakaj so bile bete navdušene na mostu?
+passage.questions.0.idx:3564
+passage.questions.0.answers.5.text:Končno sta spoznala svojega vodjo
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:18951.0
+passage.questions.0.answers.4.text:Bili so se pripravljeni boriti za svoj panj
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:18950.0
+passage.questions.0.answers.3.text:Imeli so lažno upanje
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:18949.0
+passage.questions.0.answers.2.text:Prejeli so ogromno denarja
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:18948.0
+passage.questions.0.answers.1.text:Želeli so zaklad
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18947
+passage.questions.0.answers.0.text:Sliši se, kot da je to tisto
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:18946
+idx:313

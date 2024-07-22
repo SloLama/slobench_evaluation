@@ -1,0 +1,63 @@
+version:1.1
+passage.text:Ker je povečava precej hitra, lahko preprosto zgrešite preostanek stavka, zato so nekateri gledalci, kot pravilno ugotavljate, dobili napačen vtis. Pošteno bi bilo, če bi Moore na to spletno stran opozoril na to možno napačno razlago. Vendar je trditev o namernem izkrivljanju smešna iz več razlogov: a) Moore jasno trdi, da je Heston, preden je prišel v Flint, dal intervju. V odlomku omenjenega intervjuja lahko vidimo, da je od marca. Če bi Moore hotel prevarati svoje gledalce, zakaj bi to rekel in pokazal mesec objave intervjuja? b) Zakaj bi Moore v besedilu pustil vidne besede &quot;Clinton je na oddaji Today&quot;, ki je potrebna za pravilno interpretacijo označenega dela? Večkrat sem pregledal zaporedje in to besedilo je povsem mogoče videti brez premora. c) Tako intervju z &quot;nogometno mamo&quot; kot zaporedja, ki prikazujejo reli NRA, se ne trudijo izkriviti dejstva, da se je ta reli zgodil mesece po tem. Kamera se zadržuje na plakatih Busha in Cheneyja, protestnik pa je dejal, da &quot;smo želeli obvestiti NRA, da nismo pozabili na Kaylo Rolland&quot;. Histerično zatrjujete, da je intervju &quot;lahko ponarejen&quot; (na podlagi tega, da za sogovornika ni prikazano nobeno ime), če pa je Moore to ponaredil, zakaj za vraga bi moral ta stavek dati v usta protestniku, kar je neposredno v nasprotju sklep, da se je shod zgodil nekaj ur po Kaylini smrti? Zakaj Moore, mojstrski raziskovalec, ni uredil tega zaporedja? To nima smisla. Mnenja se lahko razlikujejo glede tega, kako neokusno je bilo, da je Heston organiziral profesionalni shod na lokaciji najmlajšega državnega strelskega šolanja mesece po tem, toda to zaporedje &quot;balinanja&quot; je nedvomno najbolj nepravično do Hestona. Trditve o namernem izkrivljanju pri gledanju celotne scene ne zdržijo - kot navaja &quot;Hanlonova britvica&quot;, zlobi nikoli ne bi smeli pripisovati tistega, kar lahko pripišemo nesposobnosti. Nekoliko neustrezno urejanje sporočila za javnost NRA je nekatere gledalce pripeljalo do napačnih zaključkov, kar je žal, vendar Moorovi kritiki nimajo interesa, da bi zadevo pošteno gledali. Če bi to storili, bi se sam Moore verjetno opravičil za gaf. V vsakem primeru Moore v nobenem trenutku ne daje lažnih izjav v nasprotju s trditvami kritikov, da je njegov dokumentarec &quot;poln laži&quot;.
+passage.questions.2.question:Kdaj je Heston dal intervju?
+passage.questions.2.idx:1302.0
+passage.questions.2.answers.4.text:Marec
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:6675.0
+passage.questions.2.answers.3.text:Neznano
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6674.0
+passage.questions.2.answers.2.text:Preden je prišel v Flint
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:6673.0
+passage.questions.2.answers.1.text:Ko je prišel v Flint
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:6672.0
+passage.questions.2.answers.0.text:Takoj po koncu marca
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6671.0
+passage.questions.1.question:Kakšno besedilo je gledalcem dalo napačen vtis
+passage.questions.1.idx:1301.0
+passage.questions.1.answers.6.text:Povečava je hitra
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:6670.0
+passage.questions.1.answers.5.text:Besedilo, ki naj bi razložilo shod NRA
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:6669.0
+passage.questions.1.answers.4.text:Clinton je v oddaji Today
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:6668.0
+passage.questions.1.answers.3.text:Vseeno jim je bilo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6667.0
+passage.questions.1.answers.2.text:Povečava ni dovolj počasna
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:6666.0
+passage.questions.1.answers.1.text:Besedilo iz intervjuja &quot;nogometna mama&quot;
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:6665.0
+passage.questions.1.answers.0.text:Besedilo, pri katerem je povečava precej hitra
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:6664.0
+passage.questions.0.question:Kateri intervju je bil morda ponarejen?
+passage.questions.0.idx:1300
+passage.questions.0.answers.5.text:Intervju z Eminemom
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:6663.0
+passage.questions.0.answers.4.text:Trumpov intervju
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:6662.0
+passage.questions.0.answers.3.text:Intervju &quot;nogometna mama&quot;
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:6661.0
+passage.questions.0.answers.2.text:Ni možnosti, da bi bil intervju ponarejen
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:6660.0
+passage.questions.0.answers.1.text:Intervju z ameriškim predsednikom
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:6659
+passage.questions.0.answers.0.text:Moore intervju
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:6658
+idx:110

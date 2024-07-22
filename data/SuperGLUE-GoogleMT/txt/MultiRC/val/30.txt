@@ -1,0 +1,93 @@
+version:1.1
+passage.text:Težka lesena polkna so utišala hrup hrupne vetrnice zunaj. Debela rdeča zavesa je visela nad vrati, v peči pa je zagorelo veselo hlodovine. Nad njo sta sedela moški in ženska; moški, visoko bitje zoprnega videza, z neurejenimi lasmi in nabrano brado, starost je bila očitno približno petdeset. Ženska je bila videti sedemdeset ali več. Tudi ona je bila nekoč visoka, zdaj pa ji je starost kljub svoji veliki višini namenila suh videz, podoben čarovnicam. Bila je oblečena v ohlapna, zbledela oblačila, z raztrganim šalom, prekrižanim na prsih, in imela je prestrašen, beden pogled v svojih zamegljenih starih očeh. Moža, ki je prišel domov, je razložilo nekaj besed, nato pa je v krhkih, a ne prijaznih tonih ukazal Babette sedeti in materi rekel, naj hitro pripravi večerjo. Na leseno mizo je razgrnila grobo krpo, in ko je bilo vse pripravljeno, je s peči dvignila veliko črno ponev in iz nje se izkazala dimljena, slana obara. Najmlajši sin je pridelal steklenico, ki je vsebovala tankokislinsko vino države in drugo žganje. Ko jih je postavil na mizo, je Babette opazil, da je po eni od njegovih rok, ki so bile precej manjše in bolj bele kot pri njegovih bratih, tekla dolgočasno rdeča brazgotina, ki je bila videti, kot da bi si tam močno porezal. Potem so vsi sedeli, razen stare matere, ki se je zaposlila, da jih je čakala.
+passage.questions.8.question:Koliko ljudi je znanih v hiši?
+passage.questions.8.idx:367.0
+passage.questions.8.answers.2.text:Pet: 1. Moški, ki je vstopil. 2-3: Moški in ženska pred pečjo. 4: Babette, ki stoji. 5. Sin. Ne vemo, ali je mati ista oseba kot ženska, ki sedi pred štedilnikom
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:1881.0
+passage.questions.8.answers.1.text:V hiši so vsaj 4 osebe
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:1880.0
+passage.questions.8.answers.0.text:V hiši so samo 3 osebe
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1879.0
+passage.questions.7.question:Kdo je postregel z enolončnico?
+passage.questions.7.idx:366.0
+passage.questions.7.answers.2.text:Mati
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:1878.0
+passage.questions.7.answers.1.text:Mlajši sin
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1877.0
+passage.questions.7.answers.0.text:Moška mati
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:1876.0
+passage.questions.6.question:Kdo ima brazgotino na roki?
+passage.questions.6.idx:365.0
+passage.questions.6.answers.1.text:Najmlajši sin
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1875.0
+passage.questions.6.answers.0.text:Moški, ki sedi pred pečjo
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1874.0
+passage.questions.5.question:Kdo ima brazgotino na eni od rok?
+passage.questions.5.idx:364.0
+passage.questions.5.answers.2.text:Najmlajši sin
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1873.0
+passage.questions.5.answers.1.text:Mlajši sin
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:1872.0
+passage.questions.5.answers.0.text:Moški
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1871.0
+passage.questions.4.question:Kaj sta sedla moški in ženska?
+passage.questions.4.idx:363.0
+passage.questions.4.answers.2.text:Dnevnik v bližini peči
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1870.0
+passage.questions.4.answers.1.text:Drvarni ogenj
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:1869.0
+passage.questions.4.answers.0.text:Debela rdeča zavesa
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1868.0
+passage.questions.3.question:Ali je starostna razlika med moškim in žensko, ki sedi pred pečjo, več ali manj kot 10 let?
+passage.questions.3.idx:362.0
+passage.questions.3.answers.2.text:Razlika v starosti je bila 20 let
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:1867.0
+passage.questions.3.answers.1.text:Več
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:1866.0
+passage.questions.3.answers.0.text:Starostna razlika med moškim in žensko, ki je sedela pred štedilnikom, je bila več kot 20 let
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:1865.0
+passage.questions.2.question:Kdo se zdi starejši, ženska ali moški?
+passage.questions.2.idx:361
+passage.questions.2.answers.1.text:Ženska
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:1864
+passage.questions.2.answers.0.text:Moški
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1863
+passage.questions.1.question:V čem se najmlajši sin razlikuje od svojih bratov?
+passage.questions.1.idx:360
+passage.questions.1.answers.1.text:Roke so bile manjše in bolj bele, na njem pa je bila rdeča brazgotina
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:1862
+passage.questions.1.answers.0.text:Bil je najmanjši od bratov
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1861
+passage.questions.0.question:Kaj postavi na mizo najmlajši sin?
+passage.questions.0.idx:359
+passage.questions.0.answers.2.text:Odloži steklenico tankokislinskega vina in še eno steklenico žganih pijač
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1860.0
+passage.questions.0.answers.1.text:Steklenica žganih pijač in steklenica vina
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:1859
+passage.questions.0.answers.0.text:Postavi namizno krpo in črno ponev z enolončnico
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:1858
+idx:30

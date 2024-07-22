@@ -1,0 +1,4 @@
+idx:2482
+label:False
+passage:Izpad električne energije - Računalniški sistemi in druge elektronske naprave, ki vsebujejo logično vezje, so občutljivi na izgubo podatkov ali poškodbe strojne opreme, ki jih lahko povzroči nenadna izguba moči. Sem lahko spadajo oprema za mreženje podatkov, video projektorji, alarmni sistemi in računalniki. Da bi zaščitili računalniške sisteme pred tem, lahko uporaba neprekinjenega napajanja ali „UPS-a“ zagotovi stalen pretok električne energije, če primarno napajanje za kratek čas postane nedostopno. Za zaščito pred prenapetostnimi sunki (dogodki, ko se napetosti povečajo za nekaj sekund), ki lahko poškodujejo strojno opremo, ko se napajanje obnovi, lahko uporabimo posebno napravo, imenovano prenapetostni zaščitnik, ki absorbira odvečno napetost.
+question:je val napetosti enak izpadu električne energije

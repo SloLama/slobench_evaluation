@@ -1,0 +1,4 @@
+idx:1593
+label:True
+passage:Blackjack - Ko vsi igralci zaključijo svoje kombinacije, je na vrsti prodajalec. Delitev dilerja ne bo končana, če so vsi igralci ujeli ali prejeli Blackjack. Nato trgovec razkrije skrito karto in mora zadeti, dokler karte ne seštejejo 17 ali več točk. (Na večini miz trgovec zadene tudi na &quot;mehko&quot; 17, tj. Kombinacijo asa in eno ali več drugih kart v skupni seštevki.) Igralci zmagajo tako, da ne izpadejo in imajo vsoto, ki je višja od prodajalca, ali ne in dokončanje prodajalca ali pridobivanje blackjacka, ne da bi trgovec dobil blackjack. Če imata igralec in prodajalec enak seštevek (ne upoštevamo blackjack-ov), se to imenuje &quot;push&quot; in igralec običajno ne dobi ali izgubi denarja v tej roki. V nasprotnem primeru zmaga trgovec.
+question:ali mora trgovec zadeti 16

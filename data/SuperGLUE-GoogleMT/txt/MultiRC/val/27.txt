@@ -1,0 +1,215 @@
+version:1.1
+passage.text:(CNN) - Najnovejši video posnetek varnosti letenja Air New Zealand, objavljen v torek, je že en virusni hit, a naleti na nekaj pretresov zaradi uporabe več modelov Sports Illustrated, oblečenih v bikini. Oglejte si video tukaj Prejšnje različice videoposnetka - v katerem igrajo vse od Hobitov do Beara Gryllsa do novozelandske rugby ekipe All Blacks - so revolucionirale varnostno sporočilo na letalu, ki ga letalski prevozniki dostavljajo potnikom. Nekateri najnovejši napor kritizirajo niti kot prelomne niti kot ustvarjalne, potem ko se je letalska družba skupaj z revijo Sports Illustrated lotila &quot;najlepšega videoposnetka o varnosti na svetu&quot;. Video &quot;Varnost v raju&quot;, ki se konec februarja začne pojavljati na letalih Air New Zealand, je čudovito posnet in zagotovo vesel in zabaven. Posneli so ga na Cookovih otokih, kjer je nekaj osupljivih plaž, in sovpada z 50-letnico franšize Sports Illustrated&#39;s Swimsuit. Prejšnji videoposnetki so bili duhoviti, pametni in domiselni, toda rajski videoposnetek združuje precej manj subtilno uporabo privlačnega materiala - z uporabo štirih najlepših in skromno oblečenih žensk na planetu za posredovanje informacij potnikom. Med modeli so Ariel Meredith, Chrissy Teigen, Hannah Davis in Jessica Gomes. Christie Brinkley naredi kamejo. &quot;Zdi se, da nenadoma rečejo, da je zame pomembna le moja seksualnost,&quot; je za Sydney Morning Herald dejala ena kritičarka, predavateljica z univerze Massey in feministična komentatorka Deborah Russell. Odziv družbenih medijev na video je bil predvidljivo mešan, čeprav se zdi, da večina komentatorjev na Facebooku in Twitterju podpira video - in ženske v njem. Številni so pohvalili Air New Zealand, ker je za promocijo Cookovih otokov izkoristila lepe ženske, in letalski družbi pohvalili njeno tržno moč, glede na množično pozornost medijev, ki je zdaj namenjena varnostnemu videu. Med negativnimi koti, medtem ko so nekateri komentirali, da so zgroženi, da bi bila Air New Zealand tako seksistična, so drugi rekli, da različica Sports Illustrated preprosto ni tako pametna - razočarajoče nadaljevanje ustvarjalnih videoposnetkov letalske družbe o ustvarjalni varnosti.
+passage.questions.9.question:Katere ženske so se pojavile v varnostnem videu &quot;Varnost v raju&quot;?
+passage.questions.9.idx:322.0
+passage.questions.9.answers.7.text:Christie Brinkley
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:1663.0
+passage.questions.9.answers.6.text:Jessica Gomes
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:1662.0
+passage.questions.9.answers.5.text:Hannah Davis
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:1661.0
+passage.questions.9.answers.4.text:Chrissy Teigen
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:1660.0
+passage.questions.9.answers.3.text:Ariel Meredith
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:1659.0
+passage.questions.9.answers.2.text:Deborah Russell
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:1658.0
+passage.questions.9.answers.1.text:Marie Salesar
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:1657.0
+passage.questions.9.answers.0.text:Farrah Fosset
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:1656.0
+passage.questions.8.question:Katero podjetje je ustvarilo &quot;Najlepši video o varnosti na svetu&quot;?
+passage.questions.8.idx:321.0
+passage.questions.8.answers.3.text:Air Nova Zelandija
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:1655.0
+passage.questions.8.answers.2.text:AeroFrance
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:1654.0
+passage.questions.8.answers.1.text:Australian Air
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:1653.0
+passage.questions.8.answers.0.text:Lufstansa
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:1652.0
+passage.questions.7.question:Kaj je &quot;raj&quot;, o katerem govorijo?
+passage.questions.7.idx:320.0
+passage.questions.7.answers.3.text:Cookovi otoki
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:1651.0
+passage.questions.7.answers.2.text:Florida Keys
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:1650.0
+passage.questions.7.answers.1.text:Barbados
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:1649.0
+passage.questions.7.answers.0.text:Pariz
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:1648.0
+passage.questions.6.question:Katera letalska družba se je povezala z revijo Sports Illustrated, da bi ustvarila video o varnosti?
+passage.questions.6.idx:319.0
+passage.questions.6.answers.3.text:Air Nova Zelandija
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:1647.0
+passage.questions.6.answers.2.text:AeroFrance
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:1646.0
+passage.questions.6.answers.1.text:Asian Airlines
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:1645.0
+passage.questions.6.answers.0.text:Lufstansa
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1644.0
+passage.questions.5.question:Kje je bil posnet videoposnetek &quot;Varnost v raju&quot;?
+passage.questions.5.idx:318.0
+passage.questions.5.answers.3.text:Cookovi otoki
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1643.0
+passage.questions.5.answers.2.text:Univerza Massey
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:1642.0
+passage.questions.5.answers.1.text:Pariz
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1641.0
+passage.questions.5.answers.0.text:Avstralija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:1640.0
+passage.questions.4.question:Kako je bil sprejet video &quot;Varnost v raju&quot;?
+passage.questions.4.idx:317.0
+passage.questions.4.answers.4.text:Reakcije so se mešale iz negativnih v pozitivne
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:1639.0
+passage.questions.4.answers.3.text:Hvalijo ga, ker je bil v zadnjih letih najmanj seksist
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:1638.0
+passage.questions.4.answers.2.text:Ogorčenje družbenih medijev je ogromno
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:1637.0
+passage.questions.4.answers.1.text:Vsi so ga imeli radi
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1636.0
+passage.questions.4.answers.0.text:Nekateri ga kritizirajo niti kot prelomne niti kot ustvarjalne
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:1635.0
+passage.questions.3.question:Kako bi lahko video partnerju Air New Zealand koristil pomoč pri izdelavi tega videoposnetka?
+passage.questions.3.idx:316.0
+passage.questions.3.answers.4.text:S tem, da ni treba plačati kompleta
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:1634.0
+passage.questions.3.answers.3.text:Ni sovpadlo s 50. obletnico franšize Sports Illustrated&#39;s Swimsuit
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:1633.0
+passage.questions.3.answers.2.text:Sovpada s 50. obletnico franšize Sports Illustrated&#39;s Swimsuit
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1632.0
+passage.questions.3.answers.1.text:Z zaslužkom od videoposnetka
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1631.0
+passage.questions.3.answers.0.text:S pridobivanjem prepoznavnosti
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1630.0
+passage.questions.2.question:Koliko imenovanih modelov se bo pojavilo v videoposnetku?
+passage.questions.2.idx:315
+passage.questions.2.answers.3.text:2002
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1629.0
+passage.questions.2.answers.2.text:3.
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:1628.0
+passage.questions.2.answers.1.text:4.
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:1627
+passage.questions.2.answers.0.text:5.
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:1626
+passage.questions.12.question:Koliko moških modelov je bilo predstavljenih v trenutnem videu
+passage.questions.12.idx:325.0
+passage.questions.12.answers.4.text:3.
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:1678.0
+passage.questions.12.answers.3.text:Nobenega
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:1677.0
+passage.questions.12.answers.2.text:2.
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:1676.0
+passage.questions.12.answers.1.text:0
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:1675.0
+passage.questions.12.answers.0.text:12.
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:1674.0
+passage.questions.11.question:Kakšno kariero ima Christie Brinkley?
+passage.questions.11.idx:324.0
+passage.questions.11.answers.5.text:Fotograf
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:1673.0
+passage.questions.11.answers.4.text:Voditelj novic
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:1672.0
+passage.questions.11.answers.3.text:Poročevalec
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:1671.0
+passage.questions.11.answers.2.text:Model
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:1670.0
+passage.questions.11.answers.1.text:Cameo Performance
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:1669.0
+passage.questions.11.answers.0.text:Model in igralka
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:1668.0
+passage.questions.10.question:Deborah Russel je kritizirala video, ki ga je ustvarilo katero podjetje?
+passage.questions.10.idx:323.0
+passage.questions.10.answers.3.text:Sports Illustrated
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:1667.0
+passage.questions.10.answers.2.text:Air Nova Zelandija
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:1666.0
+passage.questions.10.answers.1.text:GQ
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:1665.0
+passage.questions.10.answers.0.text:Univerza Massey
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:1664.0
+passage.questions.1.question:S katerim podjetjem je Air New Zealand sodeloval pri ustvarjanju novega videa?
+passage.questions.1.idx:314
+passage.questions.1.answers.3.text:Sports Illustrated
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1625.0
+passage.questions.1.answers.2.text:Playboy
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1624.0
+passage.questions.1.answers.1.text:GQ
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1623
+passage.questions.1.answers.0.text:BMX
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1622
+passage.questions.0.question:Kdo so bili ljudje, ki so nasprotovali odločitvam Air New Zealand?
+passage.questions.0.idx:313
+passage.questions.0.answers.4.text:Christy Brinkley
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:1621.0
+passage.questions.0.answers.3.text:Deborah Russell
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1620.0
+passage.questions.0.answers.2.text:Sports Illustrated
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:1619.0
+passage.questions.0.answers.1.text:Sarah Gomez
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1618
+passage.questions.0.answers.0.text:Deborah Russel in mediji, ki so video videli v seksu
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1617
+idx:27

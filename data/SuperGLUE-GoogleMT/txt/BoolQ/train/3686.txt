@@ -1,0 +1,4 @@
+idx:3686
+label:True
+passage:Active Directory - strežnik, na katerem se izvajajo domenske storitve Active Directory (AD DS), se imenuje krmilnik domene. Preveri in pooblasti vse uporabnike in računalnike v omrežju z domeno sistema Windows - dodeljuje in uveljavlja varnostne politike za vse računalnike ter namešča ali posodablja programsko opremo. Ko se na primer uporabnik prijavi v računalnik, ki je del domene Windows, Active Directory preveri predloženo geslo in ugotovi, ali je uporabnik sistemski skrbnik ali običajen uporabnik. Omogoča tudi upravljanje in shranjevanje informacij, zagotavlja mehanizme za preverjanje pristnosti in avtorizacije ter vzpostavlja okvir za uvajanje drugih sorodnih storitev: certifikacijske storitve, zvezne storitve, lahke imeniške storitve in storitve upravljanja pravic.
+question:je aktivni imenik enako kot krmilnik domene

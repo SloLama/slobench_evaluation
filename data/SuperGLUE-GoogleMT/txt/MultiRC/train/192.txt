@@ -1,0 +1,428 @@
+version:1.1
+passage.text:Svet lahko razdelimo na tri podnebne pasove. Prvo podnebno območje je polarno območje. Kot se sliši, je polarno območje blizu zemeljskih polov. Polarno območje ima zelo dolge in hladne zime. Brrr !!!! V bližini ekvatorja je tropsko območje. Tropsko območje je znano po tem, da je vroče in mokro. Med tema dvema območjema je zmerno območje. Tam so navadno blage temperature. Ni preveč vroče in ne prehladno. Lahko pričakujete, da so mesta v bližini ekvatorja vroča in mokra. To ni vedno tako. Včasih delujejo tudi drugi dejavniki. Ti dejavniki lahko vplivajo na lokalni podnebni tip ali regijo. Oceani in gorske verige imajo lahko velik vpliv. Lahko močno vplivajo na podnebje na nekem območju. Številni dejavniki vplivajo na podnebje na območjih.
+passage.questions.9.question:Katero od treh con je blizu ekvatorja?
+passage.questions.9.idx:2141.0
+passage.questions.9.answers.5.text:Vroče
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:11202.0
+passage.questions.9.answers.4.text:Temperatura
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:11201.0
+passage.questions.9.answers.3.text:Zmerno
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:11200.0
+passage.questions.9.answers.2.text:Tropsko območje
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:11199.0
+passage.questions.9.answers.1.text:Tropsko
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:11198.0
+passage.questions.9.answers.0.text:Polar
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:11197.0
+passage.questions.8.question:Kaj je polarno območje?
+passage.questions.8.idx:2140.0
+passage.questions.8.answers.5.text:Gorska območja
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:11196.0
+passage.questions.8.answers.4.text:Območja v bližini polov z dolgimi in hladnimi zimami
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:11195.0
+passage.questions.8.answers.3.text:Najbližje polov
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:11194.0
+passage.questions.8.answers.2.text:Na severnem in južnem polu
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:11193.0
+passage.questions.8.answers.1.text:Blizu vrha
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:11192.0
+passage.questions.8.answers.0.text:Topla območja
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:11191.0
+passage.questions.7.question:Katero podnebno območje se nahaja med ostalima geografsko?
+passage.questions.7.idx:2139.0
+passage.questions.7.answers.6.text:Srednji
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:11190.0
+passage.questions.7.answers.5.text:Temperatura
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:11189.0
+passage.questions.7.answers.4.text:Osrednji
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:11188.0
+passage.questions.7.answers.3.text:Zmerno
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:11187.0
+passage.questions.7.answers.2.text:Tropsko
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:11186.0
+passage.questions.7.answers.1.text:Zmerni pas je med polarnim in tropskim pasom
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:11185.0
+passage.questions.7.answers.0.text:Polar
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:11184.0
+passage.questions.6.question:Kako je svet razdeljen?
+passage.questions.6.idx:2138.0
+passage.questions.6.answers.5.text:Obstajata dve podnebni coni
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:11183.0
+passage.questions.6.answers.4.text:Časovni pasovi
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:11182.0
+passage.questions.6.answers.3.text:Po treh podnebnih pasovih
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:11181.0
+passage.questions.6.answers.2.text:Vroče in hladne cone
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:11180.0
+passage.questions.6.answers.1.text:Oceanske cone
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:11179.0
+passage.questions.6.answers.0.text:Svet je razdeljen na podnebne pasove
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:11178.0
+passage.questions.5.question:Kaj je tropsko območje?
+passage.questions.5.idx:2137.0
+passage.questions.5.answers.7.text:Toplo
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:11177.0
+passage.questions.5.answers.6.text:Območje blizu ekvatorja je vroče in mokro
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:11176.0
+passage.questions.5.answers.5.text:Vroče in mokro podnebje
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:11175.0
+passage.questions.5.answers.4.text:Suho
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:11174.0
+passage.questions.5.answers.3.text:Hummid
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:11173.0
+passage.questions.5.answers.2.text:Vroče in puščavsko
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:11172.0
+passage.questions.5.answers.1.text:Vroče in mokro blizu ekvatorja
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:11171.0
+passage.questions.5.answers.0.text:V bližini Ekvatorja
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:11170.0
+passage.questions.4.question:Kaj lahko vpliva na podnebje na tem območju?
+passage.questions.4.idx:2136.0
+passage.questions.4.answers.7.text:Številni dejavniki lahko vplivajo na podnebje, vključno z gorami in oceani
+passage.questions.4.answers.7.label:1.0
+passage.questions.4.answers.7.idx:11169.0
+passage.questions.4.answers.6.text:Gore
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:11168.0
+passage.questions.4.answers.5.text:Regija
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:11167.0
+passage.questions.4.answers.4.text:Samo bližina ekvatorja
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:11166.0
+passage.questions.4.answers.3.text:Različni dejavniki, kot so oceani in gorske verige
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:11165.0
+passage.questions.4.answers.2.text:Država
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:11164.0
+passage.questions.4.answers.1.text:Cona
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11163.0
+passage.questions.4.answers.0.text:Oceani
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:11162.0
+passage.questions.3.question:Na katera tri podnebna območja lahko razdelimo zemljo?
+passage.questions.3.idx:2135.0
+passage.questions.3.answers.8.text:Srednji
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:11161.0
+passage.questions.3.answers.7.text:Temperatura
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:11160.0
+passage.questions.3.answers.6.text:Ekvator, sever, jug
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:11159.0
+passage.questions.3.answers.5.text:Zunanji
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:11158.0
+passage.questions.3.answers.4.text:Center
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:11157.0
+passage.questions.3.answers.3.text:Polarna, zmerna, tropska
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:11156.0
+passage.questions.3.answers.2.text:Polarna, tropska, zmerna
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:11155.0
+passage.questions.3.answers.1.text:Tropsko
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:11154.0
+passage.questions.3.answers.0.text:Polar
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:11153.0
+passage.questions.2.question:Po čem je znano tropsko območje?
+passage.questions.2.idx:2134.0
+passage.questions.2.answers.5.text:Vroče
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:11152.0
+passage.questions.2.answers.4.text:Biti vroč in moker
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:11151.0
+passage.questions.2.answers.3.text:Mokro
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:11150.0
+passage.questions.2.answers.2.text:Biti suh in vroč
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11149.0
+passage.questions.2.answers.1.text:Sneg
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:11148.0
+passage.questions.2.answers.0.text:Blage temperature
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:11147.0
+passage.questions.18.question:V katerem od treh podnebnih pasov so dolge in hladne zime
+passage.questions.18.idx:2150.0
+passage.questions.18.answers.5.text:Zamrzovanje
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:11262.0
+passage.questions.18.answers.4.text:Temperatura
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:11261.0
+passage.questions.18.answers.3.text:Zmerno
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:11260.0
+passage.questions.18.answers.2.text:Polarno območje
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:11259.0
+passage.questions.18.answers.1.text:Tropsko
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:11258.0
+passage.questions.18.answers.0.text:Polar
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:11257.0
+passage.questions.17.question:Katere so nekatere značilnosti prvega podnebnega pasu?
+passage.questions.17.idx:2149.0
+passage.questions.17.answers.6.text:Kul
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:11256.0
+passage.questions.17.answers.5.text:Zamrzovanje
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:11255.0
+passage.questions.17.answers.4.text:Blaga
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:11254.0
+passage.questions.17.answers.3.text:Hladno
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:11253.0
+passage.questions.17.answers.2.text:Dolge in hladne zime
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:11252.0
+passage.questions.17.answers.1.text:Polarno območje ima zelo dolge in hladne zime
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:11251.0
+passage.questions.17.answers.0.text:Dolge zime
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:11250.0
+passage.questions.16.question:Po čem je znano temperaturno območje?
+passage.questions.16.idx:2148.0
+passage.questions.16.answers.4.text:Biti blag
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:11249.0
+passage.questions.16.answers.3.text:Zamrzovanje
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:11248.0
+passage.questions.16.answers.2.text:Blage temperature
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:11247.0
+passage.questions.16.answers.1.text:Hladno
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:11246.0
+passage.questions.16.answers.0.text:Biti vroče
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:11245.0
+passage.questions.15.question:Katero od treh podnebnih pasov je blizu zemeljskih polov?
+passage.questions.15.idx:2147.0
+passage.questions.15.answers.5.text:Zamrzovanje
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:11244.0
+passage.questions.15.answers.4.text:Temperatura
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:11243.0
+passage.questions.15.answers.3.text:Zmerno
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:11242.0
+passage.questions.15.answers.2.text:Polarno območje
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:11241.0
+passage.questions.15.answers.1.text:Tropsko
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:11240.0
+passage.questions.15.answers.0.text:Polar
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:11239.0
+passage.questions.14.question:Katere so tri podnebne cone na svetu?
+passage.questions.14.idx:2146.0
+passage.questions.14.answers.8.text:sever
+passage.questions.14.answers.8.label:0,0
+passage.questions.14.answers.8.idx:11238.0
+passage.questions.14.answers.7.text:Temperatura
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:11237.0
+passage.questions.14.answers.6.text:Osrednji
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:11236.0
+passage.questions.14.answers.5.text:Tropsko, polarno in zmerno
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:11235.0
+passage.questions.14.answers.4.text:Polarni pas, tropski pas in zmerni pas
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:11234.0
+passage.questions.14.answers.3.text:Ekvator, severni in južni pol
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:11233.0
+passage.questions.14.answers.2.text:Jug
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:11232.0
+passage.questions.14.answers.1.text:Tropsko
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:11231.0
+passage.questions.14.answers.0.text:Polar
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:11230.0
+passage.questions.13.question:Kakšno je podnebje na ekvatorju?
+passage.questions.13.idx:2145.0
+passage.questions.13.answers.6.text:Toplo
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:11229.0
+passage.questions.13.answers.5.text:Vroče
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:11228.0
+passage.questions.13.answers.4.text:Mokro
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:11227.0
+passage.questions.13.answers.3.text:Blaga
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:11226.0
+passage.questions.13.answers.2.text:Extreme Heat
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:11225.0
+passage.questions.13.answers.1.text:Deževno
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:11224.0
+passage.questions.13.answers.0.text:Ekvator je tropsko območje in je zelo vroč in moker
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:11223.0
+passage.questions.12.question:Ali obstajajo dejavniki, ki bi dejansko lahko povzročili, da območje v tropskem pasu ni vroče in mokro?
+passage.questions.12.idx:2144.0
+passage.questions.12.answers.4.text:Ja, živali
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:11222.0
+passage.questions.12.answers.3.text:Da
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:11221.0
+passage.questions.12.answers.2.text:Da, regija
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:11220.0
+passage.questions.12.answers.1.text:Da, podnebni tip
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:11219.0
+passage.questions.12.answers.0.text:Da, Land
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:11218.0
+passage.questions.11.question:Katera dva dejavnika lahko vplivata na podnebje na nekem območju?
+passage.questions.11.idx:2143.0
+passage.questions.11.answers.7.text:Kmetijska zemljišča
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:11217.0
+passage.questions.11.answers.6.text:Woods
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:11216.0
+passage.questions.11.answers.5.text:Drevesa in puščava
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:11215.0
+passage.questions.11.answers.4.text:Oceani in gorske verige
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:11214.0
+passage.questions.11.answers.3.text:Sonce
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:11213.0
+passage.questions.11.answers.2.text:Oceani in gore
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:11212.0
+passage.questions.11.answers.1.text:Gorci
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:11211.0
+passage.questions.11.answers.0.text:Oceani
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:11210.0
+passage.questions.10.question:Kaj je zmerno območje?
+passage.questions.10.idx:2142.0
+passage.questions.10.answers.6.text:Območje, najbližje polom
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:11209.0
+passage.questions.10.answers.5.text:Vroče podobno kot tropsko
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:11208.0
+passage.questions.10.answers.4.text:Območje med polarnim in tropskim pasom
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:11207.0
+passage.questions.10.answers.3.text:Območje v bližini ekvatorja
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:11206.0
+passage.questions.10.answers.2.text:Ves svet
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:11205.0
+passage.questions.10.answers.1.text:Blago vreme med tropskim in polarnim
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:11204.0
+passage.questions.10.answers.0.text:Območje med tropskim in polarnim območjem, kjer so temperature blage
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:11203.0
+passage.questions.1.question:V katerem območju niso temperature niti prevroče niti prehladne?
+passage.questions.1.idx:2133.0
+passage.questions.1.answers.6.text:Srednji
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:11146.0
+passage.questions.1.answers.5.text:Temperatura
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:11145.0
+passage.questions.1.answers.4.text:Osrednji
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11144.0
+passage.questions.1.answers.3.text:Zmerno območje
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:11143.0
+passage.questions.1.answers.2.text:Zmerno
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:11142.0
+passage.questions.1.answers.1.text:Tropsko
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:11141.0
+passage.questions.1.answers.0.text:Polar
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:11140.0
+passage.questions.0.question:Kakšno je vreme med ekvatorjem in prvo cono?
+passage.questions.0.idx:2132
+passage.questions.0.answers.5.text:Vroče
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:11139.0
+passage.questions.0.answers.4.text:Mokro
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:11138.0
+passage.questions.0.answers.3.text:Blaga
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:11137.0
+passage.questions.0.answers.2.text:Zmerno območje ni prevroče in ne prehladno
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:11136.0
+passage.questions.0.answers.1.text:Hladno
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11135
+passage.questions.0.answers.0.text:Suho
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:11134
+idx:192

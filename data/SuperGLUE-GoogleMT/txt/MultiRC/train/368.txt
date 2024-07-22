@@ -1,0 +1,28 @@
+version:1.1
+passage.text:V poročilu o Alžiriji iz leta 1847 je Tocqueville izjavil, da bi se morala Evropa izogniti enaki napaki, kot jo je naredila z evropsko kolonizacijo Amerik, da bi se izognila krvavim posledicam. Natančneje svoje rojake opozarja na slovesno previdnost, pri čemer jih opozarja, da če se metode, ki se uporabljajo za alžirsko ljudstvo, ne spremenijo, se bo kolonizacija končala v krvni kopeli. Tocqueville v svojem poročilu o Alžiriji vključuje, da je bila usoda njihovih vojakov in financ odvisna od tega, kako bo francoska vlada ravnala z različnim domorodnim prebivalstvom Alžirije, vključno z različnimi arabskimi plemeni, neodvisnimi Kabylesi, ki živijo v gorah Atlas, in močnim političnim voditeljem Abd- el-Kader. Tocqueville v različnih pismih in esejih o Alžiriji razpravlja o nasprotnih strategijah, s katerimi se lahko evropska država približa imperializmu. Avtor zlasti razlikuje med izrazom „prevlado“ in določeno različico „kolonizacije“. Slednji poudarja pridobitev in zaščito zemljišč in prehodov, ki obljubljajo tržno bogastvo. V primeru Alžirije je bilo pristanišče Algiers in nadzor nad Gibraltarsko ožino Tocqueville še posebej dragoceno. Vendar neposredni nadzor nad političnimi operacijami celotne Alžirije ni bil. Tako avtor poudarja prevlado nad samo nekaterimi točkami političnega vpliva kot sredstvo za kolonizacijo tržno vrednih območij. Tocqueville je trdil, da je prevladovanje z nasilnimi sredstvi, čeprav neprijetno, nujno za kolonizacijo in upravičeno z vojnimi zakoni. O takšnih zakonih se ne govori podrobno; glede na to, da je bil cilj francoske misije v Alžiriji pridobiti komercialne in vojaške interese v nasprotju s samoobrambo, je mogoče sklepati, da se Tocqueville ne bi strinjal z merili pravičnosti za teorijo pravične vojne. Nadalje, glede na to, da je Tocqueville odobril uporabo sile za odpravo civilnega bivališča na sovražnem ozemlju, njegov pristop ni v skladu s teorijami pravične teorije pravičnosti v spodnjih merilih sorazmernosti in diskriminacije.
+passage.questions.1.question:Je bil Tocqueville zainteresiran za nadzor nad vso Alžirijo? Če ne, katere dele je hotel nadzorovati?
+passage.questions.1.idx:4236.0
+passage.questions.1.answers.3.text:Ne, hotel je nadzor nad pristaniščem Algiers
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:22548.0
+passage.questions.1.answers.2.text:Ne. Gibraltarska ožina in pristanišče Alžir
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:22547.0
+passage.questions.1.answers.1.text:Ne: pristanišče Alžir in Gibraltarska ožina
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:22546.0
+passage.questions.1.answers.0.text:Da
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:22545.0
+passage.questions.0.question:V katerem poročilu je Tocqueville izjavil, da če bi se metode kolonizacije ne spremenile, bi se kolonizacija alžirskega ljudstva končala v krvni kopeli?
+passage.questions.0.idx:4235
+passage.questions.0.answers.2.text:Njegovo poročilo o Alžiriji iz leta 1847
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:22544.0
+passage.questions.0.answers.1.text:Evropsko poročilo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:22543
+passage.questions.0.answers.0.text:Njegovo poročilo o Evropi iz leta 1847
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:22542
+idx:368

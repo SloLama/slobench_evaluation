@@ -1,0 +1,257 @@
+version:1.1
+passage.text:(CNN) - Gvatemalska vlada je razglasila obleganje in poslala na stotine vojakov v severno provinco, kjer uradniki pravijo, da mehiška banda mamil prehiteva mesta in grozi prebivalcem. Predsednik Alvaro Colom je v nedeljo napovedal 30-dnevno pravilo o nujnosti v Alta Verapaz. Pravilo vojski dovoljuje, da vsakogar, ki je osumljen zarote proti vladi, aretira in zapre brez naloga, je sporočila državna tiskovna agencija AGN. &quot;Z današnjim dnem bodo združene sile ponovno prevzele ulice Alta Verapaz,&quot; je v nedeljo zjutraj objavila vladna izjava. Vladni podatki kažejo, da so celice mamilne tolpe, znane kot Los Zetas, na tem območju, da bi zaščitile poti trgovine z mamili med Hondurasom in Mehiko, &quot;s svojim težkim orožjem zastrašujejo prebivalstvo in grozijo kmetom, da se bodo zaradi kriminalnih dejavnosti odrekli svoji zemlji,&quot; poroča AGN. Obsežno stanje vladi med drugim omogoča tudi večje omejitve glede javnih zborovanj, potovalnih vizumov in dovoljenj za orožje, navaja AGN. &quot;Prebivalstvo bi moralo biti mirno. To, kar počnemo, ni namenjeno preganjanju poštenih in delovnih ljudi,&quot; je novinarjem povedal notranji minister Carlos Menocal. Menocal je dejal, da bodo v prihodnjih dneh namenjeni krepitvi regionalne varnosti, ponovni nadzor nad ozemljem, prepoznavanje kriminalnih združb in ujetje njihovih pripadnikov. Menocal je v intervjuju za CNN en Espanol prejšnji mesec dejal, da njegova država potrebuje več pomoči ZDA za boj proti kartelom, ki so vse bolj urejali nove poti prevoza mamil. &quot;Na koncu velika večina mamil potuje po Srednji Ameriki in dodelitev sredstev ali finančna podpora vlade ZDA ni enaka kot Kolumbija in Mehika,&quot; je dejal. Menocal je dejal, da so se spopadi med oblastmi in Los Zetasom še povečali.
+passage.questions.9.question:Katera združba mamil deluje v Gvatemali, za katero je bila razglašena nujna situacija?
+passage.questions.9.idx:3434.0
+passage.questions.9.answers.3.text:Los Zetas
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:18097.0
+passage.questions.9.answers.2.text:Prijatelj Binalshibha
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:18096.0
+passage.questions.9.answers.1.text:Kolumbijska banda mamil
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:18095.0
+passage.questions.9.answers.0.text:Družba gvatemalskih mamil
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:18094.0
+passage.questions.8.question:Zakaj naj bi prebivalstvo ostalo mirno?
+passage.questions.8.idx:3433.0
+passage.questions.8.answers.2.text:Za podporo tolpi
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:18093.0
+passage.questions.8.answers.1.text:Prebivalstvo naj ostane mirno, ker ukrepi niso namenjeni preganjanju poštenih delovnih ljudi
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:18092.0
+passage.questions.8.answers.0.text:Da se upira vladi
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:18091.0
+passage.questions.7.question:V kateri državi je Alta Verapaz?
+passage.questions.7.idx:3432.0
+passage.questions.7.answers.3.text:Mehika
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:18090.0
+passage.questions.7.answers.2.text:Gvatemala
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:18089.0
+passage.questions.7.answers.1.text:Kolumbija
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:18088.0
+passage.questions.7.answers.0.text:Država Alvara Koluma
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:18087.0
+passage.questions.6.question:Zakaj je gvatemalska vlada razpisala 30-dnevno pravilo za nujne primere?
+passage.questions.6.idx:3431.0
+passage.questions.6.answers.3.text:Za pomoč preprodajalcem mamil
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:18086.0
+passage.questions.6.answers.2.text:Odpraviti grožnjo z mamili
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:18085.0
+passage.questions.6.answers.1.text:Uradniki pravijo, da mehiška narko banda prehiteva mesta in grozi prebivalcem. Prav tako so se močno povečali spopadi med oblastmi in Los Zetasom
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:18084.0
+passage.questions.6.answers.0.text:Prisiliti javnost
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:18083.0
+passage.questions.5.question:Katera pot trgovine z ljudmi se uporablja v Gvatemali
+passage.questions.5.idx:3430.0
+passage.questions.5.answers.3.text:ZDA
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:18082.0
+passage.questions.5.answers.2.text:Med Hondurasom in Mehiko
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:18081.0
+passage.questions.5.answers.1.text:Mehika
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:18080.0
+passage.questions.5.answers.0.text:Kolumbija
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:18079.0
+passage.questions.4.question:Kdo je Carlos Menocal?
+passage.questions.4.idx:3429.0
+passage.questions.4.answers.2.text:Predsednik vlade
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:18078.0
+passage.questions.4.answers.1.text:Notranji minister Gvatemale
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:18077.0
+passage.questions.4.answers.0.text:Predsednik
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:18076.0
+passage.questions.3.question:Kdo je predsednik Gvatemale?
+passage.questions.3.idx:3428.0
+passage.questions.3.answers.3.text:Obama
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:18075.0
+passage.questions.3.answers.2.text:Alvaro Colom
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:18074.0
+passage.questions.3.answers.1.text:Alvaro Colom je predsednik Gvatemale
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:18073.0
+passage.questions.3.answers.0.text:Carlos Menocal
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18072.0
+passage.questions.2.question:Carlos Menocal je minister za notranje zadeve katere države?
+passage.questions.2.idx:3427.0
+passage.questions.2.answers.3.text:Mehika
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:18071.0
+passage.questions.2.answers.2.text:Gvatemala
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:18070.0
+passage.questions.2.answers.1.text:Kolumbija
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:18069.0
+passage.questions.2.answers.0.text:Država Alvara Koluma
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:18068.0
+passage.questions.18.question:Koliko dni traja izjava o obleganju?
+passage.questions.18.idx:3443.0
+passage.questions.18.answers.2.text:Eno leto
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:18132.0
+passage.questions.18.answers.1.text:15 dni
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:18131.0
+passage.questions.18.answers.0.text:30 dni
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:18130.0
+passage.questions.17.question:S kom so se povečali spopadi med vlado v Gvatemali?
+passage.questions.17.idx:3442.0
+passage.questions.17.answers.2.text:Z Los Zetasom
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:18129.0
+passage.questions.17.answers.1.text:Kolumbija
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:18128.0
+passage.questions.17.answers.0.text:Honduras
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:18127.0
+passage.questions.16.question:Kaj pravilo 30 dni v sili omogoča gvatemalski vladi?
+passage.questions.16.idx:3441.0
+passage.questions.16.answers.5.text:Leta
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:18126.0
+passage.questions.16.answers.4.text:Za aretacijo poštene javnosti
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:18125.0
+passage.questions.16.answers.3.text:Pravilo dovoljuje vojski, da vsakomur, ki je osumljen zarote proti vladi, odredi aretacijo in zapor brez naloga. Poleg tega bodo združene sile ponovno prevzele ulice Alta Verapaz. Obsežno stanje vladi med drugim omogoča tudi večje omejitve javnih zborovanj, potovalnih vizumov in dovoljenj za orožje.
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:18124.0
+passage.questions.16.answers.2.text:Za aretacijo provladnih delavcev
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:18123.0
+passage.questions.16.answers.1.text:Za aretacijo zločincev
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:18122.0
+passage.questions.16.answers.0.text:Da nabreka dobre ljudi
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:18121.0
+passage.questions.15.question:Gvatemalski uradniki menijo, da bi morale ZDA nameniti več sredstev za boj proti naraščajočemu problemu kartela glede mamil, namesto da bi se osredotočile le na to, katere države?
+passage.questions.15.idx:3440.0
+passage.questions.15.answers.3.text:Brazilija
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:18120.0
+passage.questions.15.answers.2.text:Argentina
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:18119.0
+passage.questions.15.answers.1.text:Kolumbija
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:18118.0
+passage.questions.15.answers.0.text:Kolumbija in Mehika
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:18117.0
+passage.questions.14.question:Kdo je predsednik Gvatemale?
+passage.questions.14.idx:3439.0
+passage.questions.14.answers.2.text:Carlos Menocal
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:18116.0
+passage.questions.14.answers.1.text:Obama
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:18115.0
+passage.questions.14.answers.0.text:Alvaro Colom
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:18114.0
+passage.questions.13.question:Gvatemalska vlada je zaradi dejavnosti katere zloglasne mehiške tolpe razglasila državo Seige?
+passage.questions.13.idx:3438.0
+passage.questions.13.answers.2.text:Tolpa dobre volje
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:18113.0
+passage.questions.13.answers.1.text:Los Zetas
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:18112.0
+passage.questions.13.answers.0.text:Mirovna tolpa
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:18111.0
+passage.questions.12.question:Kaj bo vojski omogočilo, da določene ljudi aretira in zapre brez naloga?
+passage.questions.12.idx:3437.0
+passage.questions.12.answers.3.text:Svoboda govora
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:18110.0
+passage.questions.12.answers.2.text:Liberalna poteza
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:18109.0
+passage.questions.12.answers.1.text:Predsednik
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:18108.0
+passage.questions.12.answers.0.text:30-dnevno pravilo o izrednih razmerah bo omogočilo vojaško aretacijo in zapor vseh, za katere se sumi zarota proti vladi, brez naloga
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:18107.0
+passage.questions.11.question:Kaj počne operacija Los Zetas?
+passage.questions.11.idx:3436.0
+passage.questions.11.answers.4.text:Los Zetas so na območju za zaščito poti trgovine z mamili med Hondurasom in Mehiko, &quot;s svojim težkim orožjem zastrašujejo prebivalstvo in grozijo kmetom, da se bodo zaradi kriminalnih dejavnosti odrekli svoji zemlji. Prav tako prehitevajo mesta in grozijo prebivalcem
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:18106.0
+passage.questions.11.answers.3.text:Hughes
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:18105.0
+passage.questions.11.answers.2.text:Dobro delaš
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:18104.0
+passage.questions.11.answers.1.text:Širjenje dobre volje
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:18103.0
+passage.questions.11.answers.0.text:Trgovina z drogami
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:18102.0
+passage.questions.10.question:Od koga bodo združene sile zavzele ulice Alta Verapaz?
+passage.questions.10.idx:3435.0
+passage.questions.10.answers.3.text:Alvaro Colom
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:18101.0
+passage.questions.10.answers.2.text:Združene sile bodo ulice Alta Verapaz zavzele iz celic ulične tolpe Los Zetas
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:18100.0
+passage.questions.10.answers.1.text:Drugar banda
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:18099.0
+passage.questions.10.answers.0.text:Carlos Menocal
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:18098.0
+passage.questions.1.question:Zakaj je notranji minister Carlos Menocal dejal, da mora biti javnost mirna?
+passage.questions.1.idx:3426.0
+passage.questions.1.answers.2.text:Za pomoč trgovcem z ljudmi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:18067.0
+passage.questions.1.answers.1.text:Za pomoč zločincem
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:18066.0
+passage.questions.1.answers.0.text:To, kar počnemo, ni namenjeno preganjanju poštenih, delovnih ljudi in operacije v prihodnjih dneh bi imele za cilj krepitev regionalne varnosti, ponovno vzpostavitev nadzora nad ozemljem, prepoznavanje kriminalnih združb in zajemanje njihovih članov
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:18065.0
+passage.questions.0.question:Med katerima dvema državama se nahaja Gvatemala?
+passage.questions.0.idx:3425
+passage.questions.0.answers.3.text:Ramzi Binalshibh
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:18064.0
+passage.questions.0.answers.2.text:Kolumbija in Honduras
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:18063.0
+passage.questions.0.answers.1.text:Kolumbija in Mehika
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18062
+passage.questions.0.answers.0.text:Mehika in Honduras
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:18061
+idx:301

@@ -1,0 +1,544 @@
+version:1.1
+passage.text:Glavni junak Preetam (((Ganesh ob obisku Eva Malla sredi močnega vetra opazi lepo dekle Nandini. Med strmenjem vanjo nehote pade v jašek. Nandini ga reši iz jame, vendar v tem procesu izgubi) svojo uro v obliki srca, ki jo je pravkar kupila. Med spremljanjem matere k Madikeriju se Preetam sooči z moškim po imenu Jaanu. Jaanu, ki je sledil Nandiniju, premaga Preetama, misleč, da je zaljubljen v Nandini. Preetam, ne da bi vedel, da je Jaanu obljubil, da ne bo dovolil nobenega blizu Nandinija, v zameno smeti Jaanuja in njegovo tolpo. V Madikeriju Preetam nepričakovano sreča Nandinija. Prepozna se in ji izrazi svojo ljubezen ter ponudi, da uro priveže kot indikacijo za njun zakon. Nandini, ki je že zaročen njegovo prošnjo zavrne. Kljub temu pa se Preetam obljubi, da se bo poročil z Nandini, če ga bo spet srečala. Medtem Preetam odkrije, da je njegov gostitelj v Madikeriju polkovnik Subbayya Nandinijev oče, ki je precej gluh, Nandinijev zakon je oddaljen le en teden. Potrt Preetam zavrže Nandinijevo uro v obliki srca. Toda Nandini ga pokliče po telefonu in mu nagaja, naj se vrne. Razveseljen Preetam odide iskati uro in jo prinese nazaj. Med iskanjem zagleda zajca, ki mu reče Devadas, in ga prinese s seboj. Ker naj bi Nandinijevi prijatelji zaradi poroke prispeli iz Mumbaija, Preetam odpelje Nandinija na železniško postajo. Vlak iz Mumbaija zamuja za pet ur, zato se Nandini in Preetam odločita za obisk bližnjega hribovskega templja.
+passage.questions.9.question:Kaj je Nandini izgubil med reševanjem Preetama iz jaška?
+passage.questions.9.idx:2651.0
+passage.questions.9.answers.5.text:Njeno srce
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:14000.0
+passage.questions.9.answers.4.text:Njena ura
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:13999.0
+passage.questions.9.answers.3.text:Njena ura v obliki srca
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:13998.0
+passage.questions.9.answers.2.text:Njena ura v obliki srca
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:13997.0
+passage.questions.9.answers.1.text:Njeni uhani
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:13996.0
+passage.questions.9.answers.0.text:Njena ogrlica v obliki srca
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:13995.0
+passage.questions.8.question:Zakaj je Nandini poklical Preetama po telefonu?
+passage.questions.8.idx:2650.0
+passage.questions.8.answers.3.text:Iščem uro
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:13994.0
+passage.questions.8.answers.2.text:Da bi ga posmehoval, naj se vrne
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:13993.0
+passage.questions.8.answers.1.text:Da se opraviči, ker sem ga zavrnil
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:13992.0
+passage.questions.8.answers.0.text:V želji, da pobere njene prijatelje
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:13991.0
+passage.questions.7.question:Kaj je počel Preetam, da ga je nekdo moral rešiti?
+passage.questions.7.idx:2649.0
+passage.questions.7.answers.5.text:Med iskanjem ure
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:13990.0
+passage.questions.7.answers.4.text:Vzel se je napačen vlak
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:13989.0
+passage.questions.7.answers.3.text:Glumil je v Nandiniju in padel v odprti jašek, nato ga je morala rešiti
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:13988.0
+passage.questions.7.answers.2.text:Medtem ko je premagal Jaanuja in njegovo tolpo
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:13987.0
+passage.questions.7.answers.1.text:Padel v jašek
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:13986.0
+passage.questions.7.answers.0.text:Izgubil sem se
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:13985.0
+passage.questions.6.question:Medtem ko je v Madikeriju, nekoga nepričakovano sreča; komu daje veliko gesto in izpoveduje svojo ljubezen?
+passage.questions.6.idx:2648.0
+passage.questions.6.answers.7.text:Devadas
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:13984.0
+passage.questions.6.answers.6.text:Lepa punca
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:13983.0
+passage.questions.6.answers.5.text:Preetamova mati
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:13982.0
+passage.questions.6.answers.4.text:Nandini
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:13981.0
+passage.questions.6.answers.3.text:Zajec
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:13980.0
+passage.questions.6.answers.2.text:Jaanu
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:13979.0
+passage.questions.6.answers.1.text:Polkovnik Subbaja
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:13978.0
+passage.questions.6.answers.0.text:Jannu
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:13977.0
+passage.questions.5.question:Kaj se je zgodilo, ko je Preetam nepričakovano naletel na Nandinija v Madikeriju?
+passage.questions.5.idx:2647.0
+passage.questions.5.answers.7.text:Vrnil ji je uro
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:13976.0
+passage.questions.5.answers.6.text:Jannu ga je pretepel
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:13975.0
+passage.questions.5.answers.5.text:Izpoveduje ji ljubezen in predlaga
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:13974.0
+passage.questions.5.answers.4.text:Dal ji je zajca
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:13973.0
+passage.questions.5.answers.3.text:Povabil jo je ven
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:13972.0
+passage.questions.5.answers.2.text:Ponudil ji je, da ji priveže uro
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:13971.0
+passage.questions.5.answers.1.text:Ignoriral jo je
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:13970.0
+passage.questions.5.answers.0.text:Priznal je svojo ljubezen
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:13969.0
+passage.questions.4.question:Kaj počne Preetam, medtem ko strmi v Nandini?
+passage.questions.4.idx:2646.0
+passage.questions.4.answers.7.text:Studderji
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:13968.0
+passage.questions.4.answers.6.text:Padel v jašek
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:13967.0
+passage.questions.4.answers.5.text:Hodi v sprehod
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:13966.0
+passage.questions.4.answers.4.text:Prizna svojo ljubezen
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:13965.0
+passage.questions.4.answers.3.text:Padel je v jašek
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:13964.0
+passage.questions.4.answers.2.text:Zaljubil se je
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:13963.0
+passage.questions.4.answers.1.text:Lovi za zajcem
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:13962.0
+passage.questions.4.answers.0.text:Pogovarja se z mamo
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:13961.0
+passage.questions.3.question:Kaj je iskal Preetam, ko je našel zajca?
+passage.questions.3.idx:2645.0
+passage.questions.3.answers.6.text:Lepa punca
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:13960.0
+passage.questions.3.answers.5.text:Vozni red vlakov
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:13959.0
+passage.questions.3.answers.4.text:Mir
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:13958.0
+passage.questions.3.answers.3.text:Njegova mama
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:13957.0
+passage.questions.3.answers.2.text:Zajec
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:13956.0
+passage.questions.3.answers.1.text:Jaanu
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13955.0
+passage.questions.3.answers.0.text:Ura
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:13954.0
+passage.questions.22.question:Kateri predmet je Preetam zavrgel, nato iskal in kaj je našel poleg tega?
+passage.questions.22.idx:2664.0
+passage.questions.22.answers.7.text:Ura in on je našel vozovnico za vlak iz Mumbaja
+passage.questions.22.answers.7.label:0,0
+passage.questions.22.answers.7.idx:14100.0
+passage.questions.22.answers.6.text:Ura in našel je zajca
+passage.questions.22.answers.6.label:1.0
+passage.questions.22.answers.6.idx:14099.0
+passage.questions.22.answers.5.text:Ura
+passage.questions.22.answers.5.label:1.0
+passage.questions.22.answers.5.idx:14098.0
+passage.questions.22.answers.4.text:Nandinijeva ura v obliki srca in zajec
+passage.questions.22.answers.4.label:1.0
+passage.questions.22.answers.4.idx:14097.0
+passage.questions.22.answers.3.text:Pismo
+passage.questions.22.answers.3.label:0,0
+passage.questions.22.answers.3.idx:14096.0
+passage.questions.22.answers.2.text:Časopis
+passage.questions.22.answers.2.label:0,0
+passage.questions.22.answers.2.idx:14095.0
+passage.questions.22.answers.1.text:Zajček in on je našel uro
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:14094.0
+passage.questions.22.answers.0.text:Zajec
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:14093.0
+passage.questions.21.question:S kom je bil Preetam, ko je nepričakovano srečal Nandinija?
+passage.questions.21.idx:2663.0
+passage.questions.21.answers.8.text:Z njegovo mamo
+passage.questions.21.answers.8.label:1.0
+passage.questions.21.answers.8.idx:14092.0
+passage.questions.21.answers.7.text:Devadas
+passage.questions.21.answers.7.label:0,0
+passage.questions.21.answers.7.idx:14091.0
+passage.questions.21.answers.6.text:Predsednik Obama
+passage.questions.21.answers.6.label:0,0
+passage.questions.21.answers.6.idx:14090.0
+passage.questions.21.answers.5.text:Zajec
+passage.questions.21.answers.5.label:0,0
+passage.questions.21.answers.5.idx:14089.0
+passage.questions.21.answers.4.text:Prijatelji
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:14088.0
+passage.questions.21.answers.3.text:Njegova mati
+passage.questions.21.answers.3.label:1.0
+passage.questions.21.answers.3.idx:14087.0
+passage.questions.21.answers.2.text:Zajec
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:14086.0
+passage.questions.21.answers.1.text:Jaanu
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:14085.0
+passage.questions.21.answers.0.text:Polkovnik Subbaja
+passage.questions.21.answers.0.label:0,0
+passage.questions.21.answers.0.idx:14084.0
+passage.questions.20.question:S kom se je soočil Preetam, ki je prav tako sledil Nandiniju?
+passage.questions.20.idx:2662.0
+passage.questions.20.answers.7.text:Devadas
+passage.questions.20.answers.7.label:0,0
+passage.questions.20.answers.7.idx:14083.0
+passage.questions.20.answers.6.text:Polkovnik Sanddays
+passage.questions.20.answers.6.label:0,0
+passage.questions.20.answers.6.idx:14082.0
+passage.questions.20.answers.5.text:Preetamova mati
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:14081.0
+passage.questions.20.answers.4.text:Jannu in njegova tolpa
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:14080.0
+passage.questions.20.answers.3.text:Prijatelji
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:14079.0
+passage.questions.20.answers.2.text:Zajec
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:14078.0
+passage.questions.20.answers.1.text:Jaanu
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:14077.0
+passage.questions.20.answers.0.text:Polkovnik Subbaja
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:14076.0
+passage.questions.2.question:Zakaj je Preetam vrgel uro Nandini in kaj je storila v zameno?
+passage.questions.2.idx:2644.0
+passage.questions.2.answers.5.text:Ker to ni bila njena ura; ga je zavrnila
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:13953.0
+passage.questions.2.answers.4.text:Odkril je, da je njen zakon čez teden dni. Draži ga, naj se vrne
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:13952.0
+passage.questions.2.answers.3.text:Popravila jo je
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13951.0
+passage.questions.2.answers.2.text:Poklical ga je, da bi ga posmehoval
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:13950.0
+passage.questions.2.answers.1.text:Bil je jezen
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13949.0
+passage.questions.2.answers.0.text:Bilo je pokvarjeno
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:13948.0
+passage.questions.19.question:Kako dolgo zamujajo Nandinijevi prijatelji?
+passage.questions.19.idx:2661.0
+passage.questions.19.answers.5.text:30 minut
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:14075.0
+passage.questions.19.answers.4.text:Manj kot 5 ur
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:14074.0
+passage.questions.19.answers.3.text:2 tedna
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:14073.0
+passage.questions.19.answers.2.text:4 ure
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:14072.0
+passage.questions.19.answers.1.text:Približno pet ur
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:14071.0
+passage.questions.19.answers.0.text:5 ur
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:14070.0
+passage.questions.18.question:Kaj Preetam vzame s seboj na železniško postajo?
+passage.questions.18.idx:2660.0
+passage.questions.18.answers.9.text:Devadas
+passage.questions.18.answers.9.label:0,0
+passage.questions.18.answers.9.idx:14068.0
+passage.questions.18.answers.8.text:Prijatelji
+passage.questions.18.answers.8.label:0,0
+passage.questions.18.answers.8.idx:14067.0
+passage.questions.18.answers.7.text:Lepa punca
+passage.questions.18.answers.7.label:1.0
+passage.questions.18.answers.7.idx:14066.0
+passage.questions.18.answers.6.text:Preetamova mati
+passage.questions.18.answers.6.label:0,0
+passage.questions.18.answers.6.idx:14065.0
+passage.questions.18.answers.5.text:Prijatelji
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:14064.0
+passage.questions.18.answers.4.text:Nandini
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:14063.0
+passage.questions.18.answers.3.text:Zajec
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:14062.0
+passage.questions.18.answers.2.text:Jaanu
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:14061.0
+passage.questions.18.answers.10.text:Ura v obliki srca in zajec
+passage.questions.18.answers.10.label:1.0
+passage.questions.18.answers.10.idx:14069.0
+passage.questions.18.answers.1.text:Ura
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:14060.0
+passage.questions.18.answers.0.text:Polkovnik Subbaja
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:14059.0
+passage.questions.17.question:Zakaj je Jaanu premagal Preetama?
+passage.questions.17.idx:2659.0
+passage.questions.17.answers.5.text:Bil je tujec
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:14058.0
+passage.questions.17.answers.4.text:Ker Jaanu želi zaščititi Nandinija
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:14057.0
+passage.questions.17.answers.3.text:Menil je, da je zaljubljen v Nandinija
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:14056.0
+passage.questions.17.answers.2.text:Ker je Jaanu zaljubljen v Nandini
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:14055.0
+passage.questions.17.answers.1.text:Ni ga maral
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:14054.0
+passage.questions.17.answers.0.text:Zaobljubil se je, da nikogar ne bo pustil v bližini Nadini
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:14053.0
+passage.questions.16.question:Kaj se je zgodilo s Preetamom, ko je prvič opazil Nadini?
+passage.questions.16.idx:2658.0
+passage.questions.16.answers.7.text:Padel je v jašek
+passage.questions.16.answers.7.label:1.0
+passage.questions.16.answers.7.idx:14052.0
+passage.questions.16.answers.6.text:Padel je v luknjo
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:14051.0
+passage.questions.16.answers.5.text:Našla sem si uro
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:14050.0
+passage.questions.16.answers.4.text:Ni mu bila všeč
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:14049.0
+passage.questions.16.answers.3.text:Videl je zvezde
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:14048.0
+passage.questions.16.answers.2.text:Ignoriral jo je
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:14047.0
+passage.questions.16.answers.1.text:Ves čas je gledal vanjo
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:14046.0
+passage.questions.16.answers.0.text:Ni strmel vanjo
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:14045.0
+passage.questions.15.question:Kdo pade v jašek?
+passage.questions.15.idx:2657.0
+passage.questions.15.answers.9.text:Preetamova mati
+passage.questions.15.answers.9.label:0,0
+passage.questions.15.answers.9.idx:14042.0
+passage.questions.15.answers.8.text:Preetam Ganesh
+passage.questions.15.answers.8.label:1.0
+passage.questions.15.answers.8.idx:14041.0
+passage.questions.15.answers.7.text:Preetam
+passage.questions.15.answers.7.label:1.0
+passage.questions.15.answers.7.idx:14040.0
+passage.questions.15.answers.6.text:Prijatelji
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:14039.0
+passage.questions.15.answers.5.text:Nandini
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:14038.0
+passage.questions.15.answers.4.text:Zajec
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:14037.0
+passage.questions.15.answers.3.text:Jaanu
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:14036.0
+passage.questions.15.answers.2.text:Polkovnik Subbaja
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:14035.0
+passage.questions.15.answers.11.text:Devadas
+passage.questions.15.answers.11.label:0,0
+passage.questions.15.answers.11.idx:14044.0
+passage.questions.15.answers.10.text:Lepa punca
+passage.questions.15.answers.10.label:0,0
+passage.questions.15.answers.10.idx:14043.0
+passage.questions.15.answers.1.text:Polkovnik Subbaja
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:14034.0
+passage.questions.15.answers.0.text:Jannu
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:14033.0
+passage.questions.14.question:Zakaj Preetam zavrže Nandinijevo uro?
+passage.questions.14.idx:2656.0
+passage.questions.14.answers.7.text:Ker ne deluje
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:14032.0
+passage.questions.14.answers.6.text:Ni je mogel najti
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:14031.0
+passage.questions.14.answers.5.text:Ugotovi, da je njen zakon čez teden dni
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:14030.0
+passage.questions.14.answers.4.text:Ker mu ni všeč
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:14029.0
+passage.questions.14.answers.3.text:Ker ona zavrne njegov predlog
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:14028.0
+passage.questions.14.answers.2.text:Ker hoče dobiti zajca z imenom Devadas
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:14027.0
+passage.questions.14.answers.1.text:Ker ga je zavrnila
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:14026.0
+passage.questions.14.answers.0.text:Bilo je pokvarjeno
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:14025.0
+passage.questions.13.question:Medtem ko išče njeno uro, na kaj naleti Preetam in kam potem odpelje Nandinija?
+passage.questions.13.idx:2655.0
+passage.questions.13.answers.7.text:Ljubezensko pismo
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:14024.0
+passage.questions.13.answers.6.text:Zajec in Mumbai
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:14023.0
+passage.questions.13.answers.5.text:Devadas
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:14022.0
+passage.questions.13.answers.4.text:Ura in železniška postaja
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:14021.0
+passage.questions.13.answers.3.text:Devadas in železniška postaja
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:14020.0
+passage.questions.13.answers.2.text:Zajec
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:14019.0
+passage.questions.13.answers.1.text:Zajec in jo odpelje na železniško postajo, ker pričakuje prijatelje za prihajajočo poroko
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:14018.0
+passage.questions.13.answers.0.text:Smeti
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:14017.0
+passage.questions.12.question:Kje Preetam izraža svojo ljubezen do Nandinija?
+passage.questions.12.idx:2654.0
+passage.questions.12.answers.4.text:Železniška postaja
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:14016.0
+passage.questions.12.answers.3.text:Jašek
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:14015.0
+passage.questions.12.answers.2.text:Eva Mall
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:14014.0
+passage.questions.12.answers.1.text:Madikeri
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:14013.0
+passage.questions.12.answers.0.text:Iz jame jaška
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:14012.0
+passage.questions.11.question:Kaj ponuja Preetam v Madikeriju, da bi izrazil svojo ljubezen do Nandinija?
+passage.questions.11.idx:2653.0
+passage.questions.11.answers.4.text:Da bi ji našel zajca
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:14011.0
+passage.questions.11.answers.3.text:Da bi našla uro
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:14010.0
+passage.questions.11.answers.2.text:Prosite njenega očeta za dovoljenje
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:14009.0
+passage.questions.11.answers.1.text:Nosi jo
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:14008.0
+passage.questions.11.answers.0.text:Zavežite si uro
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:14007.0
+passage.questions.10.question:S kom se je Preetam soočil na svojem potovanju v Madikeri in zakaj?
+passage.questions.10.idx:2652.0
+passage.questions.10.answers.5.text:Polkovnik Sanddaya
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:14006.0
+passage.questions.10.answers.4.text:Jaanu; ker želi zaščititi Nandinija
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:14005.0
+passage.questions.10.answers.3.text:Nadini
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:14004.0
+passage.questions.10.answers.2.text:Moški po imenu Jaanu, ker je mislil, da je Preetam zaljubljen v Nandini, in obljubil se je, da nikogar ne bo pustil blizu
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:14003.0
+passage.questions.10.answers.1.text:Jannu in njegova tolpa
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:14002.0
+passage.questions.10.answers.0.text:Njegova mati; ker želi zaščititi Nandini
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:14001.0
+passage.questions.1.question:Kdo je bil prisoten, ko je bil Preetam napaden v Madikeriju?
+passage.questions.1.idx:2643.0
+passage.questions.1.answers.6.text:Devadas
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:13947.0
+passage.questions.1.answers.5.text:Lepa punca
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:13946.0
+passage.questions.1.answers.4.text:Jannu in njegova tolpa
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:13945.0
+passage.questions.1.answers.3.text:Nandini
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13944.0
+passage.questions.1.answers.2.text:Preetam, njegova mati in Jaanu
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:13943.0
+passage.questions.1.answers.1.text:Zajec
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13942.0
+passage.questions.1.answers.0.text:Mati
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13941.0
+passage.questions.0.question:Je Nandini sprejel Preetamov ljubezenski predlog?
+passage.questions.0.idx:2642
+passage.questions.0.answers.4.text:Brez kakršnega koli obotavljanja
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:13940.0
+passage.questions.0.answers.3.text:Je bil že zaročen
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:13939.0
+passage.questions.0.answers.2.text:Da
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13938.0
+passage.questions.0.answers.1.text:Ne
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:13937
+passage.questions.0.answers.0.text:Sprva ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:13936
+idx:240

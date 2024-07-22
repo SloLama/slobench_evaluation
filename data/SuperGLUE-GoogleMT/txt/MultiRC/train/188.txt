@@ -1,0 +1,182 @@
+version:1.1
+passage.text:Mary je rada hodila po gozdu s svojim psom, Maxom. Max in Mary sta šla skupaj na najrazličnejše dogodivščine. Res so radi skupaj iskali borovnice in nato zaspali drug ob drugem v visoki travi. Nekega dne, ko je Mary nabirala borovnice, se je obrnila in ugotovila, da Maxa ni. Zaskrbela je in stekla iskati svojega psa. Ogledala se je na vseh njihovih najljubših mestih ... ob potoku, v njihovem skrivnem skrivališču za grmovjem malin in celo v stari kabini, ki je sedela v gozdu. Toda ubogega Maxa ni bilo nikjer več. Kljub temu se Marija ni predala. Kar naprej je iskala in našla ga je ne prav daleč. Videl je veverico in stekel, da jo lovi. Ko je Mary zaklicala Maxovo ime, je zapustil veverico in se z veseljem vrnil k njej.
+passage.questions.9.question:Kaj je storila Mary?
+passage.questions.9.idx:2094.0
+passage.questions.9.answers.2.text:Šla je iskat borovnice in odšla iskat svojega psa
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:10971.0
+passage.questions.9.answers.1.text:Sprehod po gozdu
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:10970.0
+passage.questions.9.answers.0.text:Kuhanje
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:10969.0
+passage.questions.8.question:Ali Mary skrbi za Maxa?
+passage.questions.8.idx:2093.0
+passage.questions.8.answers.1.text:Maxa ne pozna
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:10968.0
+passage.questions.8.answers.0.text:Da
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:10967.0
+passage.questions.7.question:Kje je Mary iskala Maxa in kako daleč je morala iti, da ga je našla?
+passage.questions.7.idx:2092.0
+passage.questions.7.answers.2.text:Ogledala si je vsa njuna najljubša mesta in ni ga našla prav daleč
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:10966.0
+passage.questions.7.answers.1.text:Ozrla se je povsod in ga našla nedaleč stran
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:10965.0
+passage.questions.7.answers.0.text:Nikoli ni našla max
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:10964.0
+passage.questions.6.question:Kakšne posledice je imel Max, ki je zasledoval veverico?
+passage.questions.6.idx:2091.0
+passage.questions.6.answers.3.text:Šel v posteljo brez večerje
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:10963.0
+passage.questions.6.answers.2.text:Izgubil se je
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:10962.0
+passage.questions.6.answers.1.text:Nič
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:10961.0
+passage.questions.6.answers.0.text:Prijatelji
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:10960.0
+passage.questions.5.question:Kdo je videl veverico?
+passage.questions.5.idx:2090.0
+passage.questions.5.answers.1.text:Mary
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:10959.0
+passage.questions.5.answers.0.text:Maks
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:10958.0
+passage.questions.4.question:Koga je Max lovil?
+passage.questions.4.idx:2089.0
+passage.questions.4.answers.1.text:Veverica
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:10957.0
+passage.questions.4.answers.0.text:Mary
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:10956.0
+passage.questions.3.question:Kaj je počela Mary, ko je Max zagledal veverico?
+passage.questions.3.idx:2088.0
+passage.questions.3.answers.3.text:Nabiranje borovnic
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:10955.0
+passage.questions.3.answers.2.text:Klicala je Maxovo ime
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:10954.0
+passage.questions.3.answers.1.text:Branje
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:10953.0
+passage.questions.3.answers.0.text:Marija je nabirala borovnice
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:10952.0
+passage.questions.2.question:Katere so tri najljubše Maxove točke?
+passage.questions.2.idx:2087.0
+passage.questions.2.answers.4.text:Stara kabina
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:10951.0
+passage.questions.2.answers.3.text:Tok
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:10950.0
+passage.questions.2.answers.2.text:Plaža
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:10949.0
+passage.questions.2.answers.1.text:Ob potoku skrivno skrivališče za grmičevjem malin in v stari kabini v gozdu
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:10948.0
+passage.questions.2.answers.0.text:Malinovi grmi
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:10947.0
+passage.questions.15.question:Ali Marijin pes posluša in uboga Marijo?
+passage.questions.15.idx:2100.0
+passage.questions.15.answers.1.text:Da
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:10991.0
+passage.questions.15.answers.0.text:Ne
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:10990.0
+passage.questions.14.question:Kdo se ni odpovedal iskanju Maxa?
+passage.questions.14.idx:2099.0
+passage.questions.14.answers.2.text:Sally
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:10989.0
+passage.questions.14.answers.1.text:Mary
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:10988.0
+passage.questions.14.answers.0.text:Veverica
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:10987.0
+passage.questions.13.question:Kaj sta Max in Mary rada počela v gozdu?
+passage.questions.13.idx:2098.0
+passage.questions.13.answers.3.text:Hodite, se odpravljajte na pustolovščine, nabirajte borovnice in spite v travi
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:10986.0
+passage.questions.13.answers.2.text:Obrnil se je in ugotovil, da Maxa ni bilo tam
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:10985.0
+passage.questions.13.answers.1.text:Predvajanje igranja
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:10984.0
+passage.questions.13.answers.0.text:Pojdi v staro kabino
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:10983.0
+passage.questions.12.question:Kakšen strah je Max s kakšnim rezultatom vzbudil Mary?
+passage.questions.12.idx:2097.0
+passage.questions.12.answers.3.text:Maxa ni bilo nikjer, kasneje pa ga je našla, kako lovi veverico
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:10982.0
+passage.questions.12.answers.2.text:Max bit Mary
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:10981.0
+passage.questions.12.answers.1.text:Živel v Nemčiji
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:10980.0
+passage.questions.12.answers.0.text:Max je zbežal
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:10979.0
+passage.questions.11.question:Kdo rad skupaj išče borovnice?
+passage.questions.11.idx:2096.0
+passage.questions.11.answers.2.text:Max in Mary
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:10978.0
+passage.questions.11.answers.1.text:Max in Sam
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:10977.0
+passage.questions.11.answers.0.text:Mary in Max
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:10976.0
+passage.questions.10.question:Kdo je bil Max in s kom je šel?
+passage.questions.10.idx:2095.0
+passage.questions.10.answers.3.text:Predsednik
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:10975.0
+passage.questions.10.answers.2.text:Max je Marijin pes
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:10974.0
+passage.questions.10.answers.1.text:Max je bil Marijin pes in skupaj sta šla na pustolovščine
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:10973.0
+passage.questions.10.answers.0.text:Max je Marijin brat
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:10972.0
+passage.questions.1.question:Kdo je Marija?
+passage.questions.1.idx:2086.0
+passage.questions.1.answers.1.text:Maxov lastnik
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:10946.0
+passage.questions.1.answers.0.text:Pes
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:10945.0
+passage.questions.0.question:Kaj Max uživa v lovu?
+passage.questions.0.idx:2085
+passage.questions.0.answers.1.text:Mary
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:10944
+passage.questions.0.answers.0.text:Veverice
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:10943
+idx:188

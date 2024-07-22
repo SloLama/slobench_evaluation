@@ -1,0 +1,112 @@
+version:1.1
+passage.text:Izhodišče Madeire, ki se spodobi za bujen tropski otok sredi oceana, je zavito v skrivnost in domišljijsko legendo. Nekateri trdijo, da je arhipelag tisto, kar je ostalo od Platonove izgubljene Atlantide ali del kopnega, ki je nekoč stopil celine Evrope in Amerike. Portugalski korak na kopno: Zabeležena zgodovina vulkanskega arhipelaga se začne v relativno novejšem času: 1418, ravno ko je izbruhnila zlata doba portugalskih odkritij. Pod vodstvom Henrika Navigatorja so se karavle odpravile z najzahodnejše točke Algarve na jugu Portugalske v iskanju tujih dežel, slave in bogastva. João Gonçalves Zarco, ki je jadral v službi princa Henryja, je naredil prvo od mnogih slavnih portugalskih odkritij, ki bodo vrhunec dosegli stoletje kasneje v Magellanovem zgodovinskem obkrožanju sveta. Zarco se je zgodil na majhnem vulkanskem arhipelagu, 1000 km od Lizbone. Morda je Zarco natančno vedel, kam gre, ko je o obstoju Madeire izvedel iz kastilskega vira. Konec koncev so vode Kanarskih otokov, le 445 km (275 milj) južno, že skoraj stoletje zasedale prometne ladijske poti, genoveški zemljevidi iz sredine 14. stoletja pa prikazujejo tako Madeiro kot Porto Santo. Verjetneje je bil Zarco proti Gvineji in nevihte so ga prisilile na plažo Porto Santo. Če je tako, potem je imel izjemno srečo, saj mu je uspelo pristati na edini veliki peščeni plaži na stotine kilometrov naokoli. Ni čudno, da ga je pozneje poimenoval Porto Santo (Sveto pristanišče). Naslednje leto se je Zarco vrnil, da bi zahteval večji otok, ki ga je videl od Porto Santa, in z njim sta šla Tristão Vaz Teixeira in Bartolomeu Perestrelo. Uradno so postali prvi možje, ki so stopili na močno gozdnat otok, poimenovali so ga Ilha da Madeira, &quot;Otok lesa&quot;. Portugalska krona je, navdušena nad prvim pomembnim odkritjem, takoj začela s programom kolonizacije. Zarco in Teixeira sta bila imenovana za sovladarja Madeire, Perestrelo pa Porto Santo.
+passage.questions.4.question:Je Zarco, ko je prvič pristal na vulkanskem arhipelagu, pristal na tem, kar je kasneje poimenoval &quot;Madeira&quot;?
+passage.questions.4.idx:3000.0
+passage.questions.4.answers.5.text:Plaža Porto Santo
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:15882.0
+passage.questions.4.answers.4.text:Otok Timber
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:15881.0
+passage.questions.4.answers.3.text:Da
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:15880.0
+passage.questions.4.answers.2.text:Ne
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:15879.0
+passage.questions.4.answers.1.text:Ilha da Madeira
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:15878.0
+passage.questions.4.answers.0.text:Sveto pristanišče
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:15877.0
+passage.questions.3.question:Kako je Zarco morda vedel za lokacijo vulkanskega arhipelaga, preden je pristal na njem?
+passage.questions.3.idx:2999.0
+passage.questions.3.answers.6.text:TristÃ £ o Vaz Teixeira
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:15876.0
+passage.questions.3.answers.5.text:Kastilski vir
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:15875.0
+passage.questions.3.answers.4.text:Morda je o tem izvedel od Platona
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:15874.0
+passage.questions.3.answers.3.text:Upodobitve zemljevidov Genovese
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:15873.0
+passage.questions.3.answers.2.text:Morda je o tem izvedel iz kastilskega vira
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:15872.0
+passage.questions.3.answers.1.text:Henry Navigator
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15871.0
+passage.questions.3.answers.0.text:Za njen obstoj je morda izvedel iz kastiljskega vira
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:15870.0
+passage.questions.2.question:S katero državo je bil povezan človek, ki je pristal na majhnem vulkanskem arhipelagu, 1000 km od Lizbone?
+passage.questions.2.idx:2998.0
+passage.questions.2.answers.5.text:Portugalska
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:15869.0
+passage.questions.2.answers.4.text:Lizbona
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:15868.0
+passage.questions.2.answers.3.text:Najzahodnejša točka Algarveja
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:15867.0
+passage.questions.2.answers.2.text:Madeira
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:15866.0
+passage.questions.2.answers.1.text:Genovese
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:15865.0
+passage.questions.2.answers.0.text:Južni Portugalski
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:15864.0
+passage.questions.1.question:Kako je ime enemu od otokov, ki je del kopnega, za katerega nekateri mislijo, da je nekoč stopil celine Evrope in Amerike?
+passage.questions.1.idx:2997.0
+passage.questions.1.answers.5.text:Kanarski otok
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:15863.0
+passage.questions.1.answers.4.text:Otok Timber
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:15862.0
+passage.questions.1.answers.3.text:Platonova izgubljena Atlantida
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:15861.0
+passage.questions.1.answers.2.text:Madeira
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:15860.0
+passage.questions.1.answers.1.text:Arhipelag
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:15859.0
+passage.questions.1.answers.0.text:Atlantida
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:15858.0
+passage.questions.0.question:Zakaj je kastiljski vir morda vedel za obstoj Madeire v času, ko je Zarco raziskoval?
+passage.questions.0.idx:2996
+passage.questions.0.answers.7.text:Madeira je nadomestna pot za Castilliance med hudimi nevihtami
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:15857.0
+passage.questions.0.answers.6.text:Zemljevidi so prikazovali obstoj Madeire
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:15856.0
+passage.questions.0.answers.5.text:Kastilci so bili prvi, ki so raziskali Maderijo
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:15855.0
+passage.questions.0.answers.4.text:Ker so ladijski pasovi v vodah bližnjih Kanarskih otokov obstajali že skoraj stoletje, ko je Zarco pristal na otočju. Tudi genoveški zemljevidi iz sredine 14. stoletja so upodabljali Madeiro
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:15854.0
+passage.questions.0.answers.3.text:Zemljevidi Genovese iz sredine 14. stoletja prikazujejo tako Madeiro kot Porto Santo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:15853.0
+passage.questions.0.answers.2.text:Za Madiero so izvedeli od Magellana
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:15852.0
+passage.questions.0.answers.1.text:Kanarski otoki, ki so bili: južno od Madiere oddaljeni 445 km (275 milj), so skoraj stoletje zasedali prometne prometne pasove
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:15851
+passage.questions.0.answers.0.text:Kanarski otok je že skoraj stoletje zasedel prometne prometne poti
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:15850
+idx:268

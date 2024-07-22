@@ -1,0 +1,197 @@
+version:1.1
+passage.text:Billy je imel hišno želvo, za katero je vsak dan dobro skrbel. Njegovi želvi je bilo ime Tumble. Tumble se je rad sprehajal zunaj po vrtu in kopal majhne luknje za spanje. Billy je imel Tumblea rad in bi ga obiskal zunaj, ko bi prišel iz šole. Tumblejeva najljubša hrana je bila ovsena kaša. Billy je vsak dan po pouku Tumbleu naredil veliko skledo ovsene kaše in jo odnesel ven, da je Tumble užival. Tumble bi videl Billyja in stopil do njega tako hitro, kot je želva. Billy bi odložil skledo in počakal, da je Tumble prišel do posode, da bi iz nje jedel. Ko je Tumble prišel do sklede, si je nataknil nos. Toda ovsena kaša je bila prevroča za jesti. Billy je segel in pihal po vroči ovseni kaši, da jo je Tumble jedel. Ko se je ovsena kaša dovolj ohladila, je Tumble lahko vkopal in pojedel svojo veliko skledo ovsene kaše. Billy je rad gledal, kako je Tumble jedel svojo skledo ovsene kaše, ker je Billy vsak dan dobro skrbel za Tumble.
+passage.questions.9.question:Kako se je Billy počutil glede svoje hišne želve?
+passage.questions.9.idx:845.0
+passage.questions.9.answers.2.text:Billy je skrbel za svojega ljubljenčka, ker je vsak dan skrbel za Tumble
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:4410.0
+passage.questions.9.answers.1.text:Billy ga je toleriral
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4409.0
+passage.questions.9.answers.0.text:Billy je imel rad svojo želvo
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:4408.0
+passage.questions.8.question:Kaj bi Billy naredil za Tumbleja po pouku?
+passage.questions.8.idx:844.0
+passage.questions.8.answers.2.text:Obiskal bi ga in mu dal ovsene kosmiče
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:4407.0
+passage.questions.8.answers.1.text:Prinesi mu ovsene kosmiče
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4406.0
+passage.questions.8.answers.0.text:Kopaj ga
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4405.0
+passage.questions.7.question:Kdo je bil Tumble?
+passage.questions.7.idx:843.0
+passage.questions.7.answers.2.text:Želva, Billyjev ljubljenček
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4404.0
+passage.questions.7.answers.1.text:Tumble je bil Billyjeva hišna želva
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4403.0
+passage.questions.7.answers.0.text:Pes
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4402.0
+passage.questions.6.question:Kaj je spodbudilo Tumbleja, da je tako hitro stopil proti Billyju?
+passage.questions.6.idx:842.0
+passage.questions.6.answers.1.text:Nič
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4401.0
+passage.questions.6.answers.0.text:Videl je ovsene kosmiče
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4400.0
+passage.questions.5.question:Kakšnega ljubljenčka je imel Billy?
+passage.questions.5.idx:841.0
+passage.questions.5.answers.2.text:Pes
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4399.0
+passage.questions.5.answers.1.text:Želva
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4398.0
+passage.questions.5.answers.0.text:Billy je imel hišno želvo po imenu Tumble
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4397.0
+passage.questions.4.question:Kdaj bi Billy obiskal Tumble in kaj je Tumbles najljubša hrana?
+passage.questions.4.idx:840.0
+passage.questions.4.answers.2.text:Vsako jutro
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4396.0
+passage.questions.4.answers.1.text:Billy je imel rad Tumbleja in bi ga obiskal zunaj, ko bi se vrnil domov iz šole.Tumblejeva najljubša hrana je bila ovsena kaša
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4395.0
+passage.questions.4.answers.0.text:Po šoli
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4394.0
+passage.questions.3.question:Kakšnega ljubljenčka je imel Billy in kako mu je bilo ime?
+passage.questions.3.idx:839.0
+passage.questions.3.answers.2.text:Želva z imenom tumble
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4393.0
+passage.questions.3.answers.1.text:Billy je imel hišno želvo, za katero je vsak dan dobro skrbel. Njegovi želvi je bilo ime Tumble
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:4392.0
+passage.questions.3.answers.0.text:Točka z imeni psov
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4391.0
+passage.questions.2.question:Koga je Billy vsak dan obiskal na vrtu, ko se je vrnil domov iz šole?
+passage.questions.2.idx:838.0
+passage.questions.2.answers.1.text:Njegov pes
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:4390.0
+passage.questions.2.answers.0.text:Tumble
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4389.0
+passage.questions.18.question:Zakaj Tumble ni pojedel svojih ovsenih kosmičev in kaj je Billy storil glede tega?
+passage.questions.18.idx:854.0
+passage.questions.18.answers.2.text:Bilo je prevroče in Billy je moral pihati po njem
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:4435.0
+passage.questions.18.answers.1.text:Bilo je premrzlo in Billy ga je moral ogreti
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:4434.0
+passage.questions.18.answers.0.text:Toda ovsena kaša je bila prevroča za jesti. Billy je segel in pihal po vroči ovseni kaši, da jo je Tumble jedel
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:4433.0
+passage.questions.17.question:Čemu je Tumble tako hitro hodil?
+passage.questions.17.idx:853.0
+passage.questions.17.answers.2.text:Pes
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:4432.0
+passage.questions.17.answers.1.text:Billy
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:4431.0
+passage.questions.17.answers.0.text:Posoda
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:4430.0
+passage.questions.16.question:Kaj je počel Tumble, ko je potisnil nos v skledo?
+passage.questions.16.idx:852.0
+passage.questions.16.answers.2.text:Pojesti ga
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:4429.0
+passage.questions.16.answers.1.text:Diši po ovseni kaši
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:4428.0
+passage.questions.16.answers.0.text:Prehranjevanje
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:4427.0
+passage.questions.15.question:Kaj bi Billy dal Tumbleu vsak dan zunaj?
+passage.questions.15.idx:851.0
+passage.questions.15.answers.1.text:Ovseni kosmiči
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:4426.0
+passage.questions.15.answers.0.text:Kaša
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:4425.0
+passage.questions.14.question:Kaj bi se zgodilo, če bi bila ovsena kaša prevroča za jesti?
+passage.questions.14.idx:850.0
+passage.questions.14.answers.2.text:Tumble je ne bi pojedel
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:4424.0
+passage.questions.14.answers.1.text:Billy bi pihal nanjo, dokler je Tumble ni mogel pojesti
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:4423.0
+passage.questions.14.answers.0.text:Tumble bi se opekel
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:4422.0
+passage.questions.13.question:Kakšne stvari je Tumble rad počel?
+passage.questions.13.idx:849.0
+passage.questions.13.answers.2.text:Pojdi ven in kopaj luknje za spanje
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:4421.0
+passage.questions.13.answers.1.text:Tumble se je rad sprehajal po dvorišču in kopal luknje
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:4420.0
+passage.questions.13.answers.0.text:Spite v njegovi kletki
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:4419.0
+passage.questions.12.question:Kaj bi naredil Tumble, ko bi videl Billyja?
+passage.questions.12.idx:848.0
+passage.questions.12.answers.2.text:Tumble je hitro stopil do Billyja in si vzel hrano
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:4418.0
+passage.questions.12.answers.1.text:Naredite salte
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4417.0
+passage.questions.12.answers.0.text:Teči tako hitro, kot bi šla želva
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:4416.0
+passage.questions.11.question:Kako je ime Billyjeve hišne želve?
+passage.questions.11.idx:847.0
+passage.questions.11.answers.1.text:Tumble
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:4415.0
+passage.questions.11.answers.0.text:Hitro
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4414.0
+passage.questions.10.question:Katere so bile najljubše stvari Tumbleja?
+passage.questions.10.idx:846.0
+passage.questions.10.answers.2.text:Ovsena kaša in luknje za spanje
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:4413.0
+passage.questions.10.answers.1.text:Rad je kopal luknje na vrtu in ovsene kosmiče
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:4412.0
+passage.questions.10.answers.0.text:Nogavice
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:4411.0
+passage.questions.1.question:Kdo bi vsak dan pripravil najljubšo hrano Tumble?
+passage.questions.1.idx:837.0
+passage.questions.1.answers.2.text:Ovseni kosmiči
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4388.0
+passage.questions.1.answers.1.text:Billy
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:4387.0
+passage.questions.1.answers.0.text:Kaša
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:4386.0
+passage.questions.0.question:Je Tumble pojedel ovseno kašo, potem ko je Billy pihal nanjo?
+passage.questions.0.idx:836
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4385
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4384
+idx:72

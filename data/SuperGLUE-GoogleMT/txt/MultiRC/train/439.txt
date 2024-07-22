@@ -1,0 +1,239 @@
+version:1.1
+passage.text:Nekoč sta bila tip po imenu Kevin in dekle po imenu Erin. Zelo rada sta preživljala čas skupaj. Nekega dne je Kevin odpotoval od svojega doma v Združenih državah Amerike do Erinine hiše v Angliji. Nato so mislili na nenadno potovanje okoli sveta. Najprej so z letali potovali po Evropi, kjer so videli veliko različnih ljudi in znamenitosti. Nato so se z ladjo odpeljali v Afriko in Azijo, kjer so se odpravili na izlet po gorah. Kasneje v mesecu sta se z vlakom odpravila na Kitajsko in jim je bilo omogočeno, da vidijo, kako drugačno življenje je tam tam. Nato so se z drugim letalom odpeljali v Avstralijo, kjer so se zabavali ob pogledu na kenguruje in drugačno vrsto angleško govorečih ljudi. Po tednu dni v Avstraliji sta se Kevin in Erin zares dolgo peljala z letalom do Severne Amerike, kjer sta se peljala čez deželo. Videli so vse od gora do gozdov. Obiskati so morali celo plažo! Ker sta se tako zabavala, se je Kevin z Erin vrnil domov v Anglijo, kjer sta se družila in se naslednjih nekaj dni in mesecev pogovarjala o vseh čudovitih stvareh, ki sta jih videla in naredila na potovanju.
+passage.questions.9.question:Sta Kevin in Erin živela skupaj?
+passage.questions.9.idx:4950.0
+passage.questions.9.answers.3.text:Kevin je živel v ZDA, Eric pa v Angliji
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:26357.0
+passage.questions.9.answers.2.text:Erin je bila iz Anglije, Kevin pa iz ZDA
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:26356.0
+passage.questions.9.answers.1.text:Ne
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:26355.0
+passage.questions.9.answers.0.text:Šele kasneje
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:26354.0
+passage.questions.8.question:Kevin in Erin sta na potovanju videla gore in še katera dva kraja?
+passage.questions.8.idx:4949.0
+passage.questions.8.answers.3.text:Gozdovi in plaže
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:26353.0
+passage.questions.8.answers.2.text:kenguruji in ljudje
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:26352.0
+passage.questions.8.answers.1.text:Ljudje in gozdovi
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:26351.0
+passage.questions.8.answers.0.text:Plaže, gozdovi
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:26350.0
+passage.questions.7.question:Kdo je gledal druženje s Kevinom?
+passage.questions.7.idx:4948.0
+passage.questions.7.answers.3.text:Angleško govoreči ljudje
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:26349.0
+passage.questions.7.answers.2.text:Dekle, Erin
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:26348.0
+passage.questions.7.answers.1.text:Erin
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:26347.0
+passage.questions.7.answers.0.text:Potovalni agenti
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:26346.0
+passage.questions.6.question:Katero je bila zadnja celina, ki sta jo Erin in Kevin obiskala, preden sta se vrnila na Erin dom?
+passage.questions.6.idx:4947.0
+passage.questions.6.answers.2.text:Južna Amerika
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:26345.0
+passage.questions.6.answers.1.text:Kanada
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:26344.0
+passage.questions.6.answers.0.text:Bili so v Severni Ameriki
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:26343.0
+passage.questions.5.question:Kevin in Erin sta se odpravila v katero državo, potem ko sta se peljala z vlakom?
+passage.questions.5.idx:4946.0
+passage.questions.5.answers.3.text:Afriko
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:26342.0
+passage.questions.5.answers.2.text:Nikoli se niso peljali z vlakom
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:26341.0
+passage.questions.5.answers.1.text:Avstralija in nato Severna Amerika
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:26340.0
+passage.questions.5.answers.0.text:Avstralija
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:26339.0
+passage.questions.4.question:Katere tri kraje, ki se začnejo z A, sta obiskala Kevin in Erin?
+passage.questions.4.idx:4945.0
+passage.questions.4.answers.4.text:Afriko, Avstralijo in Antarktiko
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:26338.0
+passage.questions.4.answers.3.text:Azija, Afrika, Avstralija
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:26337.0
+passage.questions.4.answers.2.text:Afriki, Avstraliji in Aziji
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:26336.0
+passage.questions.4.answers.1.text:Avstralija, Avstrija. in Aziji
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:26335.0
+passage.questions.4.answers.0.text:Aziji, Avstraliji in Afriki
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:26334.0
+passage.questions.3.question:Kje sta Kevin in Erin obiskala plažo?
+passage.questions.3.idx:4944.0
+passage.questions.3.answers.3.text:V Angliji
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:26333.0
+passage.questions.3.answers.2.text:Na izlet z ladjo
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26332.0
+passage.questions.3.answers.1.text:V Severni Ameriki
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26331.0
+passage.questions.3.answers.0.text:Na potovanju z avtom po Severni Ameriki
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:26330.0
+passage.questions.2.question:Sta Erin in Kevin potovala v Afriko pred ali po obisku Kitajske?
+passage.questions.2.idx:4943.0
+passage.questions.2.answers.3.text:Na Kitajsko so odšli po obisku Afrike
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:26329.0
+passage.questions.2.answers.2.text:Prej
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:26328.0
+passage.questions.2.answers.1.text:Na Kitajsko so odšli zadnji
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26327.0
+passage.questions.2.answers.0.text:Na Kitajsko so odšli pred Afriko
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:26326.0
+passage.questions.15.question:Kdo se je odločil za svetovno potovanje?
+passage.questions.15.idx:4956.0
+passage.questions.15.answers.3.text:Kevin in Eric
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:26385.0
+passage.questions.15.answers.2.text:Dva fanta
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:26384.0
+passage.questions.15.answers.1.text:Fant in dekle
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:26383.0
+passage.questions.15.answers.0.text:Kevin in Erin
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:26382.0
+passage.questions.14.question:V kateri državi sta bila Erin in Kevin, ko sta se odločila za potovanje okoli sveta?
+passage.questions.14.idx:4955.0
+passage.questions.14.answers.3.text:Združene države
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:26381.0
+passage.questions.14.answers.2.text:Anglija
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:26380.0
+passage.questions.14.answers.1.text:Bila sta pri Erin v hiši v Angliji
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:26379.0
+passage.questions.14.answers.0.text:Bili so v Kevinovi hiši na Kitajskem
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:26378.0
+passage.questions.13.question:Sta se oba zabavala na obisku krajev?
+passage.questions.13.idx:4954.0
+passage.questions.13.answers.4.text:Da, uživali so v obisku gorskih gozdov in celo plaž
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:26377.0
+passage.questions.13.answers.3.text:Ne, samo Erin je
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:26376.0
+passage.questions.13.answers.2.text:Da
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:26375.0
+passage.questions.13.answers.1.text:Sploh ne
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:26374.0
+passage.questions.13.answers.0.text:Oba sta se zabavala
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:26373.0
+passage.questions.12.question:Kako sta Kevin in Eric potovala po svetu?
+passage.questions.12.idx:4953.0
+passage.questions.12.answers.4.text:Potovali so samo z letalom
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:26372.0
+passage.questions.12.answers.3.text:Peš
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:26371.0
+passage.questions.12.answers.2.text:Čoln, letalo, avto in vlak
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:26370.0
+passage.questions.12.answers.1.text:Veliko različnih načinov
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:26369.0
+passage.questions.12.answers.0.text:Samo letala
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:26368.0
+passage.questions.11.question:Kako dolgo sta Kevin in Eric ostala v Avstraliji?
+passage.questions.11.idx:4952.0
+passage.questions.11.answers.4.text:En teden
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:26367.0
+passage.questions.11.answers.3.text:Teden dni sta preživela v Avstraliji
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:26366.0
+passage.questions.11.answers.2.text:Preživeli so en teden
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:26365.0
+passage.questions.11.answers.1.text:Eno noč
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:26364.0
+passage.questions.11.answers.0.text:Mesec
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:26363.0
+passage.questions.10.question:Katere celine sta Kevin in Erin obiskala na svoji svetovni turneji?
+passage.questions.10.idx:4951.0
+passage.questions.10.answers.4.text:Avstralija, Azija, Severna in Južna Amerika, Evropa in Azija
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:26362.0
+passage.questions.10.answers.3.text:Afrika, Azija, Evropa, Severna Amerika, Afrika in Avstralija
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:26361.0
+passage.questions.10.answers.2.text:Severna Amerika, Afrika, Azija in Astralija
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:26360.0
+passage.questions.10.answers.1.text:Afrika, Avstralija. Evropi, Severni Ameriki in Aziji
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:26359.0
+passage.questions.10.answers.0.text:Evropi, Afriki, Aziji, Avstraliji in Severni Ameriki
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:26358.0
+passage.questions.1.question:Kdo je letel v letalu z Erin?
+passage.questions.1.idx:4942.0
+passage.questions.1.answers.3.text:Kenguru
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:26325.0
+passage.questions.1.answers.2.text:Eric
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:26324.0
+passage.questions.1.answers.1.text:Kevin
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26323.0
+passage.questions.1.answers.0.text:Fant, Kevin
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:26322.0
+passage.questions.0.question:Kam so šli potem, ko so potovali po Evropi?
+passage.questions.0.idx:4941
+passage.questions.0.answers.3.text:Afriko
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:26321.0
+passage.questions.0.answers.2.text:Nazaj domov
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:26320.0
+passage.questions.0.answers.1.text:Afriko in Azijo
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26319
+passage.questions.0.answers.0.text:Združene države Amerike
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:26318
+idx:439

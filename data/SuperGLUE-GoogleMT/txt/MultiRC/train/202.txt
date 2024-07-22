@@ -1,0 +1,247 @@
+version:1.1
+passage.text:Z proračunom 329 milijonov dolarjev LSC zagotavlja civilno pravno pomoč ljudem z nizkimi dohodki v vseh ameriških okrožjih, je dejal Kleiman. NLAP je bil ustanovljen leta 1968. Desetletje kasneje je agencija s pomočjo donacije LSC v višini 50.000 dolarjev kupila stavbo na naslovu 438 King St. v Charlestonu in 33.000 dolarjev za nakup zgradbe na 201 King St. v Georgetownu, piše v Erlenbornovem pismu Kaynardu. Leta 1980 je NLAP uporabil 63.000 ameriških dolarjev sredstev LSC za nakup nepremičnine na naslovu 607 Main St. v Conwayu, piše v pismu. 14. novembra 2001 je NLAP prenesel naslov stavbe King Street v Charlestonu na odvetniško zbornico okrožja Charleston, v skladu s premoženjskimi evidencami okrožij. Lokalni lokal je plačal 5 dolarjev za stavbo, ki stoji med preurejeno poslovno stavbo in starinarnico. Lokalni odvetniški zbor je dejal, da bo zgradbo vzdrževal za &quot;pravne storitve za revne prebivalce okrožja Charleston in obalne Južne Karoline&quot;, piše v zapisih. Zdi se, da je stavba King Street prazna. Obvestila na vhodu usmerjajo obiskovalce v enakopravni center na aveniji West Montague v severnem Charlestonu. E. Douglas Pratt-Thomas, predsednik lokalnega odvetništva, ni bil na voljo za komentar. Charleston County ni ocenil premoženja King Street, ker je oproščen davka. Toda Randall Goldman, vodilni partner Patrick Properties, ki je lastnik stavb od 440 do 456 King St., je dejal, da ocenjuje, da bi 438 King St. prodali za med 700.000 in 900.000 USD. &quot;Zgradbo, ki je bila kupljena izključno z zveznimi dolarji za pravno pomoč, bi morali uporabljati za zagotavljanje pravnih storitev za revne ljudi v Južni Karolini,&quot; je dejal Kleiman. LSC si želi, da bi naslov šel v pravosodni center v Charlestonu, ali &quot;želimo, da 100 odstotkov prihodkov od prodaje stavbe ostane v Charlestonu. Tega denarja ne razmišljamo iz Južne Karoline,&quot; je dejal. Kleiman je dejal, da če bi sosedski pravni program v Charlestonu &quot;spoštoval njihovo obveznost, to ne bi bilo vprašanje.&quot;
+passage.questions.9.question:Lokalni lokal v okrožju Charleston je vzdrževal katero stavbo NLAP v zameno za &quot;pravne storitve&quot; do določenih rezidenc?
+passage.questions.9.idx:2261.0
+passage.questions.9.answers.9.text:438 King St
+passage.questions.9.answers.9.label:1.0
+passage.questions.9.answers.9.idx:11873.0
+passage.questions.9.answers.8.text:607 Main St. v Conwayu
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:11872.0
+passage.questions.9.answers.7.text:Zgradba King Street
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:11871.0
+passage.questions.9.answers.6.text:Zgradba Goldman
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:11870.0
+passage.questions.9.answers.5.text:Stavba v Charlestonu
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:11869.0
+passage.questions.9.answers.4.text:201 King St
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:11868.0
+passage.questions.9.answers.3.text:Kleimanov gradbenik
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:11867.0
+passage.questions.9.answers.2.text:Zgradba King Street v NCAP
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:11866.0
+passage.questions.9.answers.1.text:Stavba NCAP
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:11865.0
+passage.questions.9.answers.0.text:440 do 456 King St
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:11864.0
+passage.questions.8.question:Koliko let po nakupu stavb v Charlestonu in Georgetownu je NLAP znova kupil?
+passage.questions.8.idx:2260.0
+passage.questions.8.answers.6.text:2 leti
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:11863.0
+passage.questions.8.answers.5.text:10 let
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:11862.0
+passage.questions.8.answers.4.text:Desetletje
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:11861.0
+passage.questions.8.answers.3.text:8 let
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:11860.0
+passage.questions.8.answers.2.text:10.
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:11859.0
+passage.questions.8.answers.1.text:12 let
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:11858.0
+passage.questions.8.answers.0.text:5 let
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:11857.0
+passage.questions.7.question:Lokalni lokal je za katero zgradbo plačal 5 dolarjev?
+passage.questions.7.idx:2259.0
+passage.questions.7.answers.7.text:438 King St
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:11856.0
+passage.questions.7.answers.6.text:607 Main St. v Conwayu
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:11855.0
+passage.questions.7.answers.5.text:Zgradba NLCP
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:11854.0
+passage.questions.7.answers.4.text:Zgradba Kleiman
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:11853.0
+passage.questions.7.answers.3.text:Zgradba Goldman
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:11852.0
+passage.questions.7.answers.2.text:201 King St
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:11851.0
+passage.questions.7.answers.1.text:Zgradba King Street
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:11850.0
+passage.questions.7.answers.0.text:Zgradba King Street v Conwayu
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:11849.0
+passage.questions.6.question:Lokalni lokal v okrožju Charleston je koliko plačal za zgradbo Charelston?
+passage.questions.6.idx:2258.0
+passage.questions.6.answers.5.text:50.000 dolarjev
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:11848.0
+passage.questions.6.answers.4.text:33.000 dolarjev
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:11847.0
+passage.questions.6.answers.3.text:Kleiman Buildling
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:11846.0
+passage.questions.6.answers.2.text:5 dolarjev
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:11845.0
+passage.questions.6.answers.1.text:Zgradba Goldman
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:11844.0
+passage.questions.6.answers.0.text:Zgradba NLAP
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:11843.0
+passage.questions.5.question:Katera agencija je s pomočjo donacije LSC v višini 50.000 USD kupila stavbo na naslovu 438 King St. v Charlestonu?
+passage.questions.5.idx:2257.0
+passage.questions.5.answers.4.text:Charleston LLC
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:11842.0
+passage.questions.5.answers.3.text:LSC
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:11841.0
+passage.questions.5.answers.2.text:NLAP
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:11840.0
+passage.questions.5.answers.1.text:Randall Goldman LLC
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:11839.0
+passage.questions.5.answers.0.text:Patrick Properties
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:11838.0
+passage.questions.4.question:V katerem letu je NLAP z donacijo v višini 50.000 USD kupil stavbo v Charlestonu?
+passage.questions.4.idx:2256.0
+passage.questions.4.answers.3.text:1978
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:11837.0
+passage.questions.4.answers.2.text:2001
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:11836.0
+passage.questions.4.answers.1.text:1968
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11835.0
+passage.questions.4.answers.0.text:1980
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:11834.0
+passage.questions.3.question:Koliko let po ustanovitvi je NLAP odkupil nekaj nepremičnin na naslovu 607 Main St. v Conwayu.
+passage.questions.3.idx:2255.0
+passage.questions.3.answers.5.text:12 let kasneje
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:11833.0
+passage.questions.3.answers.4.text:5 let kasneje
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:11832.0
+passage.questions.3.answers.3.text:Desetletje
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:11831.0
+passage.questions.3.answers.2.text:8 let kasneje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:11830.0
+passage.questions.3.answers.1.text:10.
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:11829.0
+passage.questions.3.answers.0.text:10 let kasneje
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:11828.0
+passage.questions.2.question:Katero leto je NLAP kupil stavbo v Charlestonu in Georgetownu?
+passage.questions.2.idx:2254.0
+passage.questions.2.answers.3.text:1978
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:11827.0
+passage.questions.2.answers.2.text:2001
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11826.0
+passage.questions.2.answers.1.text:1968
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:11825.0
+passage.questions.2.answers.0.text:1980
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:11824.0
+passage.questions.10.question:Za katero stavbo je odvetniška zbornica okrožja Charleston plačala 5 dolarjev?
+passage.questions.10.idx:2262.0
+passage.questions.10.answers.6.text:438 King St
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:11880.0
+passage.questions.10.answers.5.text:Zgradba Kleiman
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:11879.0
+passage.questions.10.answers.4.text:607 Main St. v Conwayu
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:11878.0
+passage.questions.10.answers.3.text:Stavba King Street v Charlestonu
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:11877.0
+passage.questions.10.answers.2.text:201 King St
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:11876.0
+passage.questions.10.answers.1.text:Zgradba Goldman
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:11875.0
+passage.questions.10.answers.0.text:Zgradba West Montague
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:11874.0
+passage.questions.1.question:Katera stavba ima na vhodu obvestila, ki usmerjajo obiskovalce v center za enakopravnost na aveniji West Montague v severnem Charlestonu?
+passage.questions.1.idx:2253.0
+passage.questions.1.answers.7.text:438 King St
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:11823.0
+passage.questions.1.answers.6.text:Zgradba Kleiman
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:11822.0
+passage.questions.1.answers.5.text:Gradnja NLAP
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:11821.0
+passage.questions.1.answers.4.text:607 Main St. v Conwayu
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11820.0
+passage.questions.1.answers.3.text:Zgradba King Street v Charletsonu
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:11819.0
+passage.questions.1.answers.2.text:201 King St
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11818.0
+passage.questions.1.answers.1.text:Zgradba King Street
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:11817.0
+passage.questions.1.answers.0.text:Zgradba Goldman
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:11816.0
+passage.questions.0.question:S čim denarjem smo plačali za premoženje King Street?
+passage.questions.0.idx:2252
+passage.questions.0.answers.8.text:Odvetniška zbornica dolarjev
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:11815.0
+passage.questions.0.answers.7.text:Charleston City dolarji
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:11814.0
+passage.questions.0.answers.6.text:Nepovratna sredstva LSC v višini 50.000 USD
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:11813.0
+passage.questions.0.answers.5.text:Z dolarji zvezne pravne pomoči
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:11812.0
+passage.questions.0.answers.4.text:Dotacija LSC
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:11811.0
+passage.questions.0.answers.3.text:Kleinmanovi dolarji
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:11810.0
+passage.questions.0.answers.2.text:Prihodki od prodaje ulice 607 Main St. v Conwayu
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11809.0
+passage.questions.0.answers.1.text:Sredstva LSC
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:11808
+passage.questions.0.answers.0.text:Dolarji zvezne pomoči
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:11807
+idx:202

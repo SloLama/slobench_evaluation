@@ -1,0 +1,4 @@
+idx:1526
+label:False
+passage:Invertibilna matrica - kvadratna matrica, ki ni obrnljiva, se imenuje singularna ali izrojena. Kvadratna matrika je singularna le in samo, če je njena determinanta 0. Edinstvene matrike so redke v smislu, da kvadratna matrica, naključno izbrana iz neprekinjene enakomerne porazdelitve na svojih vnosih, skoraj nikoli ne bo singularna.
+question:ali ima kvadratna matrica vedno inverzno

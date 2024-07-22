@@ -1,0 +1,174 @@
+version:1.1
+passage.text:Gravitacija je sila, vendar ne kot druge sile, ki jih morda poznate. Gravitacija je nekoliko posebna. Veste, da je sila potisk ali povlek. Če potisnete žogo, se začne kotaliti. Če dvignete knjigo, se premakne navzgor. Zdaj pa si predstavljajte, da ste spustili žogo. Pade na tla. Ali vidiš silo, ki jo vleče navzdol? To je tisto, zaradi česar je gravitacija res kul. Neviden je. Neviden pomeni, da ga ne morete videti. A počakajte, ima še več presenečenj. Gravitacija drži planete na mestu okoli Sonca. Gravitacija preprečuje, da bi Luna odletela v vesolje. Gravitacija deluje na predmete, ki se niti ne dotikajo. Dejansko lahko gravitacija deluje na zelo velikih razdaljah. Vendar pa sila postaja šibkejša, kolikor bolj so predmeti narazen.
+passage.questions.5.question:Kako deluje gravitacija na oddaljene predmete?
+passage.questions.5.idx:454.0
+passage.questions.5.answers.8.text:Postaja močnejši, ko se oddaljujete
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:2319.0
+passage.questions.5.answers.7.text:Neobstojno
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:2318.0
+passage.questions.5.answers.6.text:Gravitacija velja za predmete, ki se ne dotikajo, vendar so sile šibkejše, čim večja je razdalja med predmeti
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:2317.0
+passage.questions.5.answers.5.text:Še vedno deluje na oddaljene predmete, kako vpliva na predmete v bližini
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:2316.0
+passage.questions.5.answers.4.text:Super
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:2315.0
+passage.questions.5.answers.3.text:Čim širi dlje, je šibkejši
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2314.0
+passage.questions.5.answers.2.text:Ne preveč dobro
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:2313.0
+passage.questions.5.answers.1.text:Postaja šibkejši, kolikor bolj oddaljeni so predmeti
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:2312.0
+passage.questions.5.answers.0.text:Tudi to ne deluje
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:2311.0
+passage.questions.4.question:Zakaj je gravitacija posebna?
+passage.questions.4.idx:453.0
+passage.questions.4.answers.8.text:Ni podoben drugim silam, ki jih morda poznate, ker je neviden
+passage.questions.4.answers.8.label:1.0
+passage.questions.4.answers.8.idx:2310.0
+passage.questions.4.answers.7.text:Vsega je konec
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:2309.0
+passage.questions.4.answers.6.text:Deluje na predmetih
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:2308.0
+passage.questions.4.answers.5.text:Ne vidiš ga
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:2307.0
+passage.questions.4.answers.4.text:Poseben je, ker je neviden
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2306.0
+passage.questions.4.answers.3.text:Deluje na predmetih, ki se niti ne dotikajo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:2305.0
+passage.questions.4.answers.2.text:Predmeti padajo
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2304.0
+passage.questions.4.answers.1.text:Je močna
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:2303.0
+passage.questions.4.answers.0.text:Neviden je
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:2302.0
+passage.questions.3.question:Kako je gravitacija posebna sila?
+passage.questions.3.idx:452.0
+passage.questions.3.answers.9.text:Potiska in vleče predmete
+passage.questions.3.answers.9.label:0,0
+passage.questions.3.answers.9.idx:2301.0
+passage.questions.3.answers.8.text:Neviden je in ga ne vidite
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:2300.0
+passage.questions.3.answers.7.text:Je neviden
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:2299.0
+passage.questions.3.answers.6.text:Stvari povzročajo padec
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:2298.0
+passage.questions.3.answers.5.text:Gravitacija je nevidna sila, ki vleče navzdol
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:2297.0
+passage.questions.3.answers.4.text:To je poteg
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:2296.0
+passage.questions.3.answers.3.text:Premika stvari
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:2295.0
+passage.questions.3.answers.2.text:To je potiskanje ali vlečenje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:2294.0
+passage.questions.3.answers.1.text:Planetom, ki krožijo okoli sonca in lune, preprečuje letenje v vesolje
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:2293.0
+passage.questions.3.answers.0.text:To je vedno potisk
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2292.0
+passage.questions.2.question:Kakšna je vloga gravitacije v vesolju?
+passage.questions.2.idx:451
+passage.questions.2.answers.6.text:Povzroča padanje zvezd
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:2291.0
+passage.questions.2.answers.5.text:Vrti planete
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:2290.0
+passage.questions.2.answers.4.text:Ustvarja planete
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2289.0
+passage.questions.2.answers.3.text:Luni preprečuje odlet v vesolje
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2288.0
+passage.questions.2.answers.2.text:Planete drži okoli sonca in luno okoli zemlje
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:2287.0
+passage.questions.2.answers.1.text:Planete drži blizu
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:2286
+passage.questions.2.answers.0.text:Planete drži na mestu okoli Sonca
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:2285
+passage.questions.1.question:Za kaj je zadolžena gravitacija?
+passage.questions.1.idx:450
+passage.questions.1.answers.8.text:Črne luknje
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:2284.0
+passage.questions.1.answers.7.text:Vlečenje predmetov
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:2283.0
+passage.questions.1.answers.6.text:Gravitacija drži planete na mestu okoli Sonca in preprečuje, da bi Luna odletela
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:2282.0
+passage.questions.1.answers.5.text:Zaščita pred soncem
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:2281.0
+passage.questions.1.answers.4.text:Odrivanje planetov stran od sonca
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2280.0
+passage.questions.1.answers.3.text:Da Luna ne odleti v vesolje
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:2279.0
+passage.questions.1.answers.2.text:Žoga odleti s tal
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2278.0
+passage.questions.1.answers.1.text:Vlečenje dveh odvisnih predmetov drug proti drugemu
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:2277
+passage.questions.1.answers.0.text:Ohranjanje naših planetov okoli sonca
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:2276
+passage.questions.0.question:Kakšen je obseg in moč gravitacije?
+passage.questions.0.idx:449
+passage.questions.0.answers.8.text:Bližje kot je predmet, močnejša je gravitacija
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:2275.0
+passage.questions.0.answers.7.text:Velika
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:2274.0
+passage.questions.0.answers.6.text:Bolj ko je predmet oddaljen, močnejša je gravitacija
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:2273.0
+passage.questions.0.answers.5.text:Bolj ko je predmet oddaljen, gravitacija je šibkejša
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:2272.0
+passage.questions.0.answers.4.text:Gravitacija lahko deluje na večjih razdaljah, vendar je šibkejša, kolikor bolj oddaljeni so predmeti
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2271.0
+passage.questions.0.answers.3.text:Gravitacija deluje na velike razdalje
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:2270.0
+passage.questions.0.answers.2.text:Bližje kot je objekt, močnejša je šibka gravitacija
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:2269.0
+passage.questions.0.answers.1.text:Slabi, večja kot je razdalja
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2268
+passage.questions.0.answers.0.text:Moč gravitacije je kljub dosegu enaka
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2267
+idx:40

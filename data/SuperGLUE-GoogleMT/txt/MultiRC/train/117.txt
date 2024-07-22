@@ -1,0 +1,576 @@
+version:1.1
+passage.text:Magnetno polje Zemlje pomaga zaščititi Zemljo in njene organizme. Ščiti nas pred škodljivimi delci, ki jih oddaja sonce. Večino delcev privlači severni in južni magnetni pol. Tu je magnetno polje Zemlje najmočnejše. Tu živi tudi razmeroma malo organizmov. Druga prednost magnetnega polja Zemlje je njegova uporaba za navigacijo. Ljudje s pomočjo kompasov zaznavajo magnetni severni pol Zemlje. Če to vedo, jim pomaga povedati smer. Mnoge živali imajo naravne &quot;kompase&quot;, ki delujejo enako dobro. Ptice, kot je vrtna pevka na sliki 1.36, uporabljajo zemeljsko magnetno polje. Z njo vodijo svoje letne migracije. Nedavne raziskave kažejo, da imajo vrvice in druge ptice selivke strukture v očeh. Te strukture jim omogočajo, da na magnetno polje Zemlje gledajo kot na vizualni vzorec.
+passage.questions.9.question:Kaj je namen kompasa in kaj zazna?
+passage.questions.9.idx:1380.0
+passage.questions.9.answers.9.text:Za zaznavanje magnetnega severnega pola Zemlje
+passage.questions.9.answers.9.label:1.0
+passage.questions.9.answers.9.idx:7207.0
+passage.questions.9.answers.8.text:Za zaznavanje magnetnega zahodnega pola Zemlje in zaznavanje strukture
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:7206.0
+passage.questions.9.answers.7.text:Navigacija in zazna zemeljski magnetni severni pol
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:7205.0
+passage.questions.9.answers.6.text:Za zaznavanje težišča
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:7204.0
+passage.questions.9.answers.5.text:Zaznavanje smeri
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:7203.0
+passage.questions.9.answers.4.text:Spoznati pravi sever in zaznati ovire
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:7202.0
+passage.questions.9.answers.3.text:Namen je, da se ne izgubite in zazna bližnje znamenitosti
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:7201.0
+passage.questions.9.answers.2.text:Zaznavanje magnetnega severnega pola Zemlje in zaznavanje smeri
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:7200.0
+passage.questions.9.answers.11.text:Kompasi za zaznavanje magnetnega severnega pola Zemlje. Če to vedo, jim pomaga povedati smer
+passage.questions.9.answers.11.label:1.0
+passage.questions.9.answers.11.idx:7209.0
+passage.questions.9.answers.10.text:Zaznavanje položaja sonca v primerjavi z zemljo
+passage.questions.9.answers.10.label:0,0
+passage.questions.9.answers.10.idx:7208.0
+passage.questions.9.answers.1.text:Povej smer in zazna vreme
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:7199.0
+passage.questions.9.answers.0.text:Zaznavanje razdalje med nebesnimi telesi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:7198.0
+passage.questions.8.question:Kaj imajo živali naravno, česar ljudje nimajo?
+passage.questions.8.idx:1379.0
+passage.questions.8.answers.8.text:Mnoge živali imajo naravne &quot;kompase&quot;, ki delujejo enako dobro
+passage.questions.8.answers.8.label:1.0
+passage.questions.8.answers.8.idx:7197.0
+passage.questions.8.answers.7.text:Naravni detektor oči
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:7196.0
+passage.questions.8.answers.6.text:Magnetizem
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:7195.0
+passage.questions.8.answers.5.text:Zračna antena
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:7194.0
+passage.questions.8.answers.4.text:Antena
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:7193.0
+passage.questions.8.answers.3.text:Polarnost
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:7192.0
+passage.questions.8.answers.2.text:Naravni kompasi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:7191.0
+passage.questions.8.answers.1.text:Naravni zaščitnik
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:7190.0
+passage.questions.8.answers.0.text:Antenski kompasi
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:7189.0
+passage.questions.7.question:Kakšne so prednosti zemeljskega magnetnega polja?
+passage.questions.7.idx:1378.0
+passage.questions.7.answers.9.text:Dati smer
+passage.questions.7.answers.9.label:0,0
+passage.questions.7.answers.9.idx:7187.0
+passage.questions.7.answers.8.text:Da povzroči gravitacijo
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:7186.0
+passage.questions.7.answers.7.text:Za omogočanje prevodnosti
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:7185.0
+passage.questions.7.answers.6.text:Pomaga zaščititi Sonce in njegovo interakcijo z Zemljo
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:7184.0
+passage.questions.7.answers.5.text:Ščiti nas pred škodljivimi delci, ki jih oddaja sonce
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:7183.0
+passage.questions.7.answers.4.text:Ščiti nas pred škodljivimi delci sonca in plovbe
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:7182.0
+passage.questions.7.answers.3.text:Absorbira protivirusne kode iz pomnilniških čipov
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:7181.0
+passage.questions.7.answers.2.text:Pomaga zaščititi Zemljo in njene organizme
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:7180.0
+passage.questions.7.answers.10.text:Navigacija
+passage.questions.7.answers.10.label:1.0
+passage.questions.7.answers.10.idx:7188.0
+passage.questions.7.answers.1.text:Vizualni vzorec
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:7179.0
+passage.questions.7.answers.0.text:Pomaga zaščititi Luno in njeno ravnovesje s soncem
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:7178.0
+passage.questions.6.question:Kako plujejo pevci in druge ptice selitve
+passage.questions.6.idx:1377.0
+passage.questions.6.answers.9.text:Uporabite magnetno polje Zemlje
+passage.questions.6.answers.9.label:1.0
+passage.questions.6.answers.9.idx:7176.0
+passage.questions.6.answers.8.text:Uporabite Moons gravitacijo
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:7175.0
+passage.questions.6.answers.7.text:Z očmi
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:7174.0
+passage.questions.6.answers.6.text:Zvok odmeva s predmetov
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:7173.0
+passage.questions.6.answers.5.text:Uporaba antene
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:7172.0
+passage.questions.6.answers.4.text:Uporabite tehnologijo Bele hiše
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:7171.0
+passage.questions.6.answers.3.text:Telepatija
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:7170.0
+passage.questions.6.answers.2.text:Uporabite sončno magnetno silo
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:7169.0
+passage.questions.6.answers.10.text:V očeh imajo strukture, ki jim omogočajo, da vidijo magnetno polje Zemlje
+passage.questions.6.answers.10.label:1.0
+passage.questions.6.answers.10.idx:7177.0
+passage.questions.6.answers.1.text:Po navodilih
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:7168.0
+passage.questions.6.answers.0.text:Strukture v njihovih očeh jim omogočajo, da magnetno polje Zemlje vidijo kot vizualni vzorec
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:7167.0
+passage.questions.5.question:Kaj jim omogočajo strukture v ptičjih očeh?
+passage.questions.5.idx:1376.0
+passage.questions.5.answers.9.text:Glejte magnetno polje Zemlje kot vizualni vzorec
+passage.questions.5.answers.9.label:1.0
+passage.questions.5.answers.9.idx:7165.0
+passage.questions.5.answers.8.text:Glejte Zemeljsko magnetno polje kot hollywoodski film
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:7164.0
+passage.questions.5.answers.7.text:Glej daleč
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:7163.0
+passage.questions.5.answers.6.text:Glejte Zemljino magnetno polje kot vizualni vzorec
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:7162.0
+passage.questions.5.answers.5.text:Vizualni vzorec
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:7161.0
+passage.questions.5.answers.4.text:Vonj Zemlje magnetno polje kot vzorec okusa
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:7160.0
+passage.questions.5.answers.3.text:Glejte Zemljino magnetno polje kot železniški tir
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:7159.0
+passage.questions.5.answers.2.text:Oglejte si več barv
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:7158.0
+passage.questions.5.answers.10.text:Slišite velike razdalje
+passage.questions.5.answers.10.label:0,0
+passage.questions.5.answers.10.idx:7166.0
+passage.questions.5.answers.1.text:Magnetno polje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:7157.0
+passage.questions.5.answers.0.text:Strukture v njihovih očeh jim omogočajo, da magnetno polje Zemlje vidijo kot vizualni vzorec
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:7156.0
+passage.questions.4.question:Kako vrtni plešari uporabljajo zemeljsko magnetno polje za vodenje migracij živali?
+passage.questions.4.idx:1375.0
+passage.questions.4.answers.9.text:Smer
+passage.questions.4.answers.9.label:0,0
+passage.questions.4.answers.9.idx:7155.0
+passage.questions.4.answers.8.text:V očeh naj imajo strukture, ki jim omogočajo, da vidijo Lunino magnetno polje kot vizualni vzorec
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:7154.0
+passage.questions.4.answers.7.text:V očeh naj imajo strukture, ki jim omogočajo, da magnetno polje Zemlje vidijo kot leteči vzorec
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:7153.0
+passage.questions.4.answers.6.text:Zvok odmeva s predmetov
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:7152.0
+passage.questions.4.answers.5.text:Uporaba antene
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:7151.0
+passage.questions.4.answers.4.text:Telepatija
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:7150.0
+passage.questions.4.answers.3.text:Vizualni vzorec
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:7149.0
+passage.questions.4.answers.2.text:Nedavne raziskave kažejo, da imajo vrvice in druge ptice selivke strukture v očeh. Te strukture jim omogočajo, da na magnetno polje Zemlje gledajo kot na vizualni vzorec
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:7148.0
+passage.questions.4.answers.1.text:V očeh naj imajo strukture, ki jim omogočajo, da magnetno polje Zemlje vidijo kot vizualni vzorec
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:7147.0
+passage.questions.4.answers.0.text:V jezikih naj imajo strukture, ki jim omogočajo, da na magnetno polje Zemlje gledajo kot na vizualni vzorec
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:7146.0
+passage.questions.3.question:Kako zemeljsko magnetno polje pomaga ljudem?
+passage.questions.3.idx:1374.0
+passage.questions.3.answers.9.text:Ščiti pred OMU s strani teroristov
+passage.questions.3.answers.9.label:0,0
+passage.questions.3.answers.9.idx:7143.0
+passage.questions.3.answers.8.text:Pomaga pri usmerjanju in ustvarja sončne žarke
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:7142.0
+passage.questions.3.answers.7.text:Pomaga zaščititi Zemljo in njene organizme. Ščiti nas pred škodljivimi delci, ki jih oddaja sonce
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:7141.0
+passage.questions.3.answers.6.text:Pomaga živalim pri potovanju in usmerjanju
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:7140.0
+passage.questions.3.answers.5.text:Ščiti nas pred škodljivimi delci, ki jih oddaja sonce
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:7139.0
+passage.questions.3.answers.4.text:Pomagajte zaznati smer
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:7138.0
+passage.questions.3.answers.3.text:Pomaga pri gravitaciji in kondenzaciji
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:7137.0
+passage.questions.3.answers.2.text:Za vizualni vzorec
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:7136.0
+passage.questions.3.answers.11.text:Za navigacijo
+passage.questions.3.answers.11.label:1.0
+passage.questions.3.answers.11.idx:7145.0
+passage.questions.3.answers.10.text:Ščiti jih pred škodljivimi delci sonca
+passage.questions.3.answers.10.label:1.0
+passage.questions.3.answers.10.idx:7144.0
+passage.questions.3.answers.1.text:Zavira nas pred škodljivimi delci, ki jih oddaja Jupiter
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:7135.0
+passage.questions.3.answers.0.text:Zavira nas pred škodljivimi delci, ki jih oddaja luna
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7134.0
+passage.questions.2.question:Navedite dve prednosti magnetnega polja Zemlje.
+passage.questions.2.idx:1373.0
+passage.questions.2.answers.9.text:Uporabite za navigacijo
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:7131.0
+passage.questions.2.answers.8.text:Uporaba za olimpijske športe
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:7130.0
+passage.questions.2.answers.7.text:Pomaga zaščititi Zemljo in njene organizme. Ščiti nas pred škodljivimi delci, ki jih oddaja sonce
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:7129.0
+passage.questions.2.answers.6.text:Pomaga živalim pri potovanju in usmerjanju
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:7128.0
+passage.questions.2.answers.5.text:Ščiti nas pred sončnim sevanjem
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:7127.0
+passage.questions.2.answers.4.text:Pomaga zaščititi Zemljo pred Luno
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:7126.0
+passage.questions.2.answers.3.text:Pomaga zaščititi Zemljo in njene organizme
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:7125.0
+passage.questions.2.answers.2.text:Škodljivi delci zaznavajo, vodijo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:7124.0
+passage.questions.2.answers.11.text:Uporabite za vlake s kroglami
+passage.questions.2.answers.11.label:0,0
+passage.questions.2.answers.11.idx:7133.0
+passage.questions.2.answers.10.text:Pomaga pri usmerjanju in ustvarja sončne žarke
+passage.questions.2.answers.10.label:0,0
+passage.questions.2.answers.10.idx:7132.0
+passage.questions.2.answers.1.text:Pomaga pri gravitaciji in kondenzaciji
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7123.0
+passage.questions.2.answers.0.text:Navigacija, smer
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:7122.0
+passage.questions.17.question:Katere vrste v tem odlomku so omenjene za uporabo zemeljskih magnetnih polj za vodenje letne migracije?
+passage.questions.17.idx:1388.0
+passage.questions.17.answers.8.text:Metulji monarh
+passage.questions.17.answers.8.label:0,0
+passage.questions.17.answers.8.idx:7280.0
+passage.questions.17.answers.7.text:Vrtna pevka
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:7279.0
+passage.questions.17.answers.6.text:Robins
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:7278.0
+passage.questions.17.answers.5.text:Golob
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:7277.0
+passage.questions.17.answers.4.text:Vrtni brivec
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:7276.0
+passage.questions.17.answers.3.text:Živali
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:7275.0
+passage.questions.17.answers.2.text:Gosi
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:7274.0
+passage.questions.17.answers.1.text:Jastreb
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:7273.0
+passage.questions.17.answers.0.text:Živalska pevka
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:7272.0
+passage.questions.16.question:Je magnetno polje Zemlje najmočnejše na vzhodu in zahodu ali severu in jugu?
+passage.questions.16.idx:1387.0
+passage.questions.16.answers.2.text:Sever in Jug
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:7271.0
+passage.questions.16.answers.1.text:Vzhod in zahod
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:7270.0
+passage.questions.16.answers.0.text:Sever in Soutn
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:7269.0
+passage.questions.15.question:Kaj je edinstveno pri severnem in južnem magnetnem polu?
+passage.questions.15.idx:1386.0
+passage.questions.15.answers.8.text:Je najtoplejša
+passage.questions.15.answers.8.label:0,0
+passage.questions.15.answers.8.idx:7268.0
+passage.questions.15.answers.7.text:Magnetno polje Zemlje je najšibkejše
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:7267.0
+passage.questions.15.answers.6.text:Letne selitve
+passage.questions.15.answers.6.label:0,0
+passage.questions.15.answers.6.idx:7266.0
+passage.questions.15.answers.5.text:Je najhladnejše
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:7265.0
+passage.questions.15.answers.4.text:Kjer je magnetno polje Zemlje najmočnejše
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:7264.0
+passage.questions.15.answers.3.text:Težišče Zemlje je najmočnejše
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:7263.0
+passage.questions.15.answers.2.text:Zemeljsko UV polje je najmočnejše
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:7262.0
+passage.questions.15.answers.1.text:Največ delcev jih privlači. Tu je magnetno polje Zemlje najmočnejše. Tu živi tudi razmeroma malo organizmov
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:7261.0
+passage.questions.15.answers.0.text:Zadržuje gravitacijski vlek planeta
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:7260.0
+passage.questions.14.question:Kje je magnetno polje Zemlje najmočnejše?
+passage.questions.14.idx:1385.0
+passage.questions.14.answers.9.text:Severni in Južni magnetni pol
+passage.questions.14.answers.9.label:1.0
+passage.questions.14.answers.9.idx:7257.0
+passage.questions.14.answers.8.text:Greenwich
+passage.questions.14.answers.8.label:0,0
+passage.questions.14.answers.8.idx:7256.0
+passage.questions.14.answers.7.text:Na severnem in južnem magnetnem polu
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:7255.0
+passage.questions.14.answers.6.text:Vzhod in zahod
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:7254.0
+passage.questions.14.answers.5.text:Vzhodni magnetni pol
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:7253.0
+passage.questions.14.answers.4.text:Osrednji magnetni pol
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:7252.0
+passage.questions.14.answers.3.text:Tropski rak
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:7251.0
+passage.questions.14.answers.2.text:Južni magnetni pol
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:7250.0
+passage.questions.14.answers.11.text:Ekvator
+passage.questions.14.answers.11.label:0,0
+passage.questions.14.answers.11.idx:7259.0
+passage.questions.14.answers.10.text:Severni magnetni pol
+passage.questions.14.answers.10.label:0,0
+passage.questions.14.answers.10.idx:7258.0
+passage.questions.14.answers.1.text:Severozahodna magnetna veriga
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:7249.0
+passage.questions.14.answers.0.text:Sever in jug
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:7248.0
+passage.questions.13.question:Kaj deluje, da zazna magnetni severni pol Zemlje, ki poleg kompasov ljudi kaže smer?
+passage.questions.13.idx:1384.0
+passage.questions.13.answers.9.text:Strukture jim omogočajo, da na magnetno polje Zemlje gledajo kot na vizualni vzorec
+passage.questions.13.answers.9.label:1.0
+passage.questions.13.answers.9.idx:7246.0
+passage.questions.13.answers.8.text:4200 koda
+passage.questions.13.answers.8.label:0,0
+passage.questions.13.answers.8.idx:7245.0
+passage.questions.13.answers.7.text:TTMP
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:7244.0
+passage.questions.13.answers.6.text:Vremenska žila
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:7243.0
+passage.questions.13.answers.5.text:Tehnologija absorpcije Bele hiše
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:7242.0
+passage.questions.13.answers.4.text:Geigerjev števec
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:7241.0
+passage.questions.13.answers.3.text:Ptica v živo
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:7240.0
+passage.questions.13.answers.2.text:Barometer
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:7239.0
+passage.questions.13.answers.10.text:Mnoge živali imajo naravne &quot;kompase&quot;, ki delujejo enako dobro
+passage.questions.13.answers.10.label:1.0
+passage.questions.13.answers.10.idx:7247.0
+passage.questions.13.answers.1.text:Le malo organizmov živi
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:7238.0
+passage.questions.13.answers.0.text:Mnoge živali imajo naravne kompase
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:7237.0
+passage.questions.12.question:Kaj v skladu s tem odlomkom ščiti zemeljske organizme pred škodljivimi delci, ki jih oddaja sonce?
+passage.questions.12.idx:1383.0
+passage.questions.12.answers.8.text:Severni pol
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:7236.0
+passage.questions.12.answers.7.text:Sončno magnetno polje
+passage.questions.12.answers.7.label:0,0
+passage.questions.12.answers.7.idx:7235.0
+passage.questions.12.answers.6.text:Lunin magnetni trak
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:7234.0
+passage.questions.12.answers.5.text:Zemeljsko magnetno polje
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:7233.0
+passage.questions.12.answers.4.text:Zemeljsko razpoko
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:7232.0
+passage.questions.12.answers.3.text:Južni pol
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:7231.0
+passage.questions.12.answers.2.text:Kompas
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:7230.0
+passage.questions.12.answers.1.text:Zemeljsko magnetno polje
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:7229.0
+passage.questions.12.answers.0.text:Ptice
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:7228.0
+passage.questions.11.question:Kje je najmočnejši zemeljski magnetni vlek?
+passage.questions.11.idx:1382.0
+passage.questions.11.answers.9.text:Ekvator
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:7227.0
+passage.questions.11.answers.8.text:Severni magnetni pol
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:7226.0
+passage.questions.11.answers.7.text:Zahodni magnetni pol
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:7225.0
+passage.questions.11.answers.6.text:Severni in južni magnetni pol
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:7224.0
+passage.questions.11.answers.5.text:Vzhodni magnetni pol
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:7223.0
+passage.questions.11.answers.4.text:Vzhodni in zahodni magnetni pol
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:7222.0
+passage.questions.11.answers.3.text:Osrednji magnetni pol
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:7221.0
+passage.questions.11.answers.2.text:Tropski rak
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:7220.0
+passage.questions.11.answers.1.text:Severni in južni centrični pol
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:7219.0
+passage.questions.11.answers.0.text:Oceani
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:7218.0
+passage.questions.10.question:Kje se nahaja zgradba, ki jo čarovniki uporabljajo za zaznavanje magnetnih polj Zemlje?
+passage.questions.10.idx:1381.0
+passage.questions.10.answers.7.text:Vrt
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:7217.0
+passage.questions.10.answers.6.text:Jezik
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:7216.0
+passage.questions.10.answers.5.text:Pero
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:7215.0
+passage.questions.10.answers.4.text:Na trebuhu
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:7214.0
+passage.questions.10.answers.3.text:V njihovih očeh
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:7213.0
+passage.questions.10.answers.2.text:Trebušna slinavka
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:7212.0
+passage.questions.10.answers.1.text:Na obrazih
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:7211.0
+passage.questions.10.answers.0.text:V ušesih
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:7210.0
+passage.questions.1.question:Zakaj na severnem in južnem polu živi malo organizmov?
+passage.questions.1.idx:1372.0
+passage.questions.1.answers.9.text:Prostora ni
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:7121.0
+passage.questions.1.answers.8.text:Magnetno polje Zemlje je najšibkejše
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:7120.0
+passage.questions.1.answers.7.text:Brez magnetnega polja Zemlje
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:7119.0
+passage.questions.1.answers.6.text:Sončno magnetno polje je najmočnejše
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:7118.0
+passage.questions.1.answers.5.text:Škodljive delce, ki jih oddaja sonce, privlačijo severni in južni magnetni pol
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:7117.0
+passage.questions.1.answers.4.text:Sončne svetlobe je zelo malo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:7116.0
+passage.questions.1.answers.3.text:Magnetno polje Zemlje je povprečno
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:7115.0
+passage.questions.1.answers.2.text:Magnetno polje Zemlje je najmočnejše
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:7114.0
+passage.questions.1.answers.1.text:Tako je mrzlo
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:7113.0
+passage.questions.1.answers.0.text:Ker je to kraj, kamor privabi večino delcev
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:7112.0
+passage.questions.0.question:S čim ptice pomagajo pri selitvi?
+passage.questions.0.idx:1371
+passage.questions.0.answers.9.text:Luni prijazni žarki
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:7111.0
+passage.questions.0.answers.8.text:Zemeljsko travmatično polje
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:7110.0
+passage.questions.0.answers.7.text:Jupitrov zaščitni ščit
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:7109.0
+passage.questions.0.answers.6.text:Oči
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:7108.0
+passage.questions.0.answers.5.text:Zvok odmeva s predmetov
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:7107.0
+passage.questions.0.answers.4.text:Uporaba antene
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:7106.0
+passage.questions.0.answers.3.text:Telepatija
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:7105.0
+passage.questions.0.answers.2.text:Zemlja
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:7104.0
+passage.questions.0.answers.1.text:Zemeljsko magnetno polje
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:7103
+passage.questions.0.answers.0.text:Strukture v njihovih očeh jim omogočajo, da magnetno polje Zemlje vidijo kot vizualni vzorec
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:7102
+idx:117

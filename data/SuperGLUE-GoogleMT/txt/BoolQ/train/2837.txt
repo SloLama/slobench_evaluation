@@ -1,0 +1,4 @@
+idx:2837
+label:True
+passage:Modul za naročniško identiteto - kartica SIM vsebuje svojo edinstveno serijsko številko (ICCID), številko mednarodne identitete mobilnega naročnika (IMSI), informacije o varnostni overitvi in šifriranju, začasne informacije, povezane z lokalnim omrežjem, seznam storitev, do katerih ima uporabnik dostop in dve gesli: osebna identifikacijska številka (PIN) za običajno uporabo in osebna koda za odblokiranje (PUC) za odklepanje PIN-a.
+question:je iccid enako kot številka sim kartice

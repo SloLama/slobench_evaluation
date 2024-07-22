@@ -1,0 +1,392 @@
+version:1.1
+passage.text:Zakon o nacionalni varnosti iz leta 1947 je ustvaril mesto direktorja centralne obveščevalne službe (DCI). Neodvisen od ministrstev za obrambo, državo, pravosodje in drugih političnih oddelkov DCI vodi ameriško obveščevalno skupnost in zagotavlja obveščevalne podatke zveznim entitetam. Edini element obveščevalne skupnosti, neodvisne od kabinetne agencije, je CIA. Kot neodvisna agencija zbira, analizira in razširja obveščevalne podatke iz vseh virov. Stranka Cie številka ena je predsednik ZDA, ki je tudi pooblaščen, da jo usmerja v izvajanje tajnih operacij. Čeprav prikrite akcije predstavljajo zelo majhen del celotnega proračuna agencije, so bile te operacije včasih kontroverzne in so sčasoma prevladovale v dojemanju javnosti o CIA v javnosti. DCI potrdi senat, vendar tehnično ni član predsednikovega kabineta. Moč direktorja po zvezni zakonodaji nad ohlapno, konfederirano &quot;obveščevalno skupnostjo&quot; je omejena. Navede prednostne naloge skupnosti in usklajuje razvoj zahtev proračuna obveščevalnih agencij za predložitev kongresu. Ta odgovornost daje marsikomu napačen vtis, da ima DCI pristojnost nad vodji teh agencij in da po potrebi preusmeri sredstva znotraj teh proračunov. Nobeno ne drži. Dejansko je bila resnična avtoriteta DCI neposredno sorazmerna z njegovo osebno bližino s predsednikom, ki je v preteklih letih naraščal in upadel, in drugimi v vladi, zlasti ministrom za obrambo. Obveščevalne agencije pri ministrstvu za obrambo predstavljajo približno 80 odstotkov vseh ameriških izdatkov za obveščevalne podatke, vključno s tistimi, ki podpirajo nacionalno bazo strank, in nekaterimi, ki podpirajo posebne potrebe obrambnega ministrstva ali vojaške službe. Ker so te agencije nameščene v obrambnem ministrstvu, so pozorne na vojaške strateške in taktične zahteve.
+passage.questions.9.question:Zakaj je DCI dragocen in potreben položaj v vladi?
+passage.questions.9.idx:120.0
+passage.questions.9.answers.2.text:DCI je pristojen za usmerjanje večjega dela ameriškega obveščevalnega proračuna za zbiranje informacij
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:570.0
+passage.questions.9.answers.1.text:Pomaga lahko različnim oddelkom
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:569.0
+passage.questions.9.answers.0.text:Nadzira lahko vse oddelke
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:568.0
+passage.questions.8.question:Kdo usklajuje razvoj proračunskih zahtev obveščevalnih agencij za predložitev kongresu?
+passage.questions.8.idx:119.0
+passage.questions.8.answers.7.text:Senatorji
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:567.0
+passage.questions.8.answers.6.text:DCI
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:566.0
+passage.questions.8.answers.5.text:Podpredsednik
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:565.0
+passage.questions.8.answers.4.text:Direktor centralne obveščevalne službe
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:564.0
+passage.questions.8.answers.3.text:Predsednik ZDA
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:563.0
+passage.questions.8.answers.2.text:Pomočnik direktorja centralne obveščevalne službe
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:562.0
+passage.questions.8.answers.1.text:Predsednik
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:561.0
+passage.questions.8.answers.0.text:CIA
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:560.0
+passage.questions.7.question:Katera neodvisna agencija zbira, analizira in razširja obveščevalne podatke iz vseh virov
+passage.questions.7.idx:118.0
+passage.questions.7.answers.5.text:CIA
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:559.0
+passage.questions.7.answers.4.text:DCI
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:558.0
+passage.questions.7.answers.3.text:FBI
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:557.0
+passage.questions.7.answers.2.text:CAI
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:556.0
+passage.questions.7.answers.1.text:Senat
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:555.0
+passage.questions.7.answers.0.text:Domovinska varnost
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:554.0
+passage.questions.6.question:Katera neodvisna agencija zbira, analizira in razširja obveščevalne podatke iz svojih virov?
+passage.questions.6.idx:117.0
+passage.questions.6.answers.9.text:CIA
+passage.questions.6.answers.9.label:1.0
+passage.questions.6.answers.9.idx:553.0
+passage.questions.6.answers.8.text:Edini element obveščevalne skupnosti, neodvisne od kabinetne agencije, je FBI
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:552.0
+passage.questions.6.answers.7.text:DCI
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:551.0
+passage.questions.6.answers.6.text:Država
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:550.0
+passage.questions.6.answers.5.text:Obramba
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:549.0
+passage.questions.6.answers.4.text:Direktor centralne obveščevalne službe
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:548.0
+passage.questions.6.answers.3.text:Ministrstvo za obrambo
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:547.0
+passage.questions.6.answers.2.text:Centralna obveščevalna služba
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:546.0
+passage.questions.6.answers.1.text:Pravičnost
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:545.0
+passage.questions.6.answers.0.text:Kongres
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:544.0
+passage.questions.5.question:Stranka Cie številka ena je _________________, ki jo ima tudi pooblastilo za usmerjanje izvajanja prikritih operacij, čeprav prikrite akcije predstavljajo zelo majhen del celotnega proračuna agencije, vendar so bile te operacije včasih sporne in so sčasoma prevladovale v dojemanju javnosti Cie?
+passage.questions.5.idx:116.0
+passage.questions.5.answers.2.text:D. pravičnosti
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:543.0
+passage.questions.5.answers.1.text:Predsednik ZDA
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:542.0
+passage.questions.5.answers.0.text:Podpredsednik
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:541.0
+passage.questions.4.question:Kateri položaj, neodvisen od ministrstev za obrambo, državo, pravosodje in drugih političnih oddelkov, je bil ustanovljen leta 1947?
+passage.questions.4.idx:115.0
+passage.questions.4.answers.2.text:DCI
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:540.0
+passage.questions.4.answers.1.text:FBI
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:539.0
+passage.questions.4.answers.0.text:Direktor Centralne obveščevalne službe (DCI)
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:538.0
+passage.questions.3.question:Kako lahko vojska koristi obstoju Cie?
+passage.questions.3.idx:114.0
+passage.questions.3.answers.2.text:CIA ve, kakšne obveščevalne podatke vojska potrebuje, in ima sredstva, da jih pridobi
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:537.0
+passage.questions.3.answers.1.text:Te agencije zelo pozorno spremljajo vojaške strateške in taktične zahteve
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:536.0
+passage.questions.3.answers.0.text:Lahko jih uporabljajo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:535.0
+passage.questions.21.question:Ali drži, da ima DCI pristojnost nad vodji teh agencij in da po potrebi preusmeri sredstva znotraj teh proračunov?
+passage.questions.21.idx:132.0
+passage.questions.21.answers.4.text:Ne, to ni res
+passage.questions.21.answers.4.label:1.0
+passage.questions.21.answers.4.idx:635.0
+passage.questions.21.answers.3.text:Ne, ni res. Moč je odvisna od osebnega odnosa med DCI in predsednikom ter obrambnim ministrom in se lahko iz leta v leto spreminja
+passage.questions.21.answers.3.label:1.0
+passage.questions.21.answers.3.idx:634.0
+passage.questions.21.answers.2.text:Ja, to je res
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:633.0
+passage.questions.21.answers.1.text:Da
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:632.0
+passage.questions.21.answers.0.text:Ne
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:631.0
+passage.questions.20.question:Kdo potrjuje DCI in koliko moči ima on ali ona?
+passage.questions.20.idx:131.0
+passage.questions.20.answers.9.text:Senat, omejen
+passage.questions.20.answers.9.label:1.0
+passage.questions.20.answers.9.idx:629.0
+passage.questions.20.answers.8.text:Čeprav DCI ni član kabineta, ga potrdi senat in ima omejena pooblastila
+passage.questions.20.answers.8.label:1.0
+passage.questions.20.answers.8.idx:628.0
+passage.questions.20.answers.7.text:DCI potrdi predsednik
+passage.questions.20.answers.7.label:1.0
+passage.questions.20.answers.7.idx:627.0
+passage.questions.20.answers.6.text:Dci potrdi senat
+passage.questions.20.answers.6.label:0,0
+passage.questions.20.answers.6.idx:626.0
+passage.questions.20.answers.5.text:Potrdil senat z omejeno močjo
+passage.questions.20.answers.5.label:1.0
+passage.questions.20.answers.5.idx:625.0
+passage.questions.20.answers.4.text:Potrdil kongres z veliko močjo
+passage.questions.20.answers.4.label:0,0
+passage.questions.20.answers.4.idx:624.0
+passage.questions.20.answers.3.text:Vsa moč
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:623.0
+passage.questions.20.answers.2.text:Senat, široko
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:622.0
+passage.questions.20.answers.10.text:Predsednik ZDA, široko
+passage.questions.20.answers.10.label:0,0
+passage.questions.20.answers.10.idx:630.0
+passage.questions.20.answers.1.text:Ljudje
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:621.0
+passage.questions.20.answers.0.text:Predsednik ZDA, omejeno
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:620.0
+passage.questions.2.question:Kdo je pooblaščen za izvajanje tajnih operacij, ki so bile sicer majhen del proračuna agencije kontroverzne in so v javnosti prevladovale o CI
+passage.questions.2.idx:113
+passage.questions.2.answers.4.text:DCI
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:534.0
+passage.questions.2.answers.3.text:FBI
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:533.0
+passage.questions.2.answers.2.text:Predsednik ZDA
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:532.0
+passage.questions.2.answers.1.text:CIA
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:531
+passage.questions.2.answers.0.text:Pred
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:530
+passage.questions.19.question:Res ali ne: Zakon o nacionalni varnosti iz leta 1947 je ustvaril nov položaj v predsedniškem kabinetu.
+passage.questions.19.idx:130.0
+passage.questions.19.answers.1.text:Lažno
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:619.0
+passage.questions.19.answers.0.text:Prav
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:618.0
+passage.questions.18.question:Katero agencijo je ustvaril Zakon o nacionalni varnosti iz leta 1947 in kakšen je bil njen namen?
+passage.questions.18.idx:129.0
+passage.questions.18.answers.7.text:CIA za zbiranje in razširjanje informacij državam, s katerimi smo v vojni
+passage.questions.18.answers.7.label:0,0
+passage.questions.18.answers.7.idx:617.0
+passage.questions.18.answers.6.text:Preusmeritev virov v druge proračune
+passage.questions.18.answers.6.label:0,0
+passage.questions.18.answers.6.idx:616.0
+passage.questions.18.answers.5.text:DCI (direktor centralne obveščevalne službe) in njegov namen je voditi obveščevalno skupnost ZDA in zagotavljati obveščevalne podatke zveznim subjektom
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:615.0
+passage.questions.18.answers.4.text:DCI, da prezre obveščevalno skupnost
+passage.questions.18.answers.4.label:0,0
+passage.questions.18.answers.4.idx:614.0
+passage.questions.18.answers.3.text:Njegov namen je usmerjati senat
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:613.0
+passage.questions.18.answers.2.text:DCI na čelu obveščevalne skupnosti
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:612.0
+passage.questions.18.answers.1.text:Nadzor nad drugimi agencijami
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:611.0
+passage.questions.18.answers.0.text:Zakon o nacionalni varnosti iz leta 1947 je ustvaril mesto direktorja centralne obveščevalne službe (DCI)
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:610.0
+passage.questions.17.question:Kolikšen delež izdatkov za obveščevalne podatke prejmejo te obveščevalne agencije, ki imajo sedež pri ministrstvu za obrambo, in zakaj?
+passage.questions.17.idx:128.0
+passage.questions.17.answers.5.text:80% za podporo delu v tujini
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:609.0
+passage.questions.17.answers.4.text:80 odstotkov - taktične potrebe
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:608.0
+passage.questions.17.answers.3.text:Pozornost na potrebe vlad
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:607.0
+passage.questions.17.answers.2.text:20 odstotkov - zbiranje obveščevalnih podatkov
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:606.0
+passage.questions.17.answers.1.text:8%
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:605.0
+passage.questions.17.answers.0.text:Prejemajo 80% in so zelo pozorni na vojaške strateške in taktične zahteve
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:604.0
+passage.questions.16.question:Kaj počne CIA in kdo je prva stranka agencije?
+passage.questions.16.idx:127.0
+passage.questions.16.answers.9.text:CIA odstrani obveščevalne podatke iz vseh virov
+passage.questions.16.answers.9.label:0,0
+passage.questions.16.answers.9.idx:603.0
+passage.questions.16.answers.8.text:Stranka Cie številka ena je predsednik Kanade
+passage.questions.16.answers.8.label:0,0
+passage.questions.16.answers.8.idx:602.0
+passage.questions.16.answers.7.text:Stranka CIA številka ena je javnost
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:601.0
+passage.questions.16.answers.6.text:Nadzor nad drugimi agencijami - DCI
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:600.0
+passage.questions.16.answers.5.text:Stranka CIA številka ena je predsednik ZDA
+passage.questions.16.answers.5.label:1.0
+passage.questions.16.answers.5.idx:599.0
+passage.questions.16.answers.4.text:CIA deluje kot neodvisna agencija, ki zbira, analizira in razširja obveščevalne podatke iz vseh virov. Stranka številka ena je predsednik ZDA
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:598.0
+passage.questions.16.answers.3.text:Kot neodvisna agencija zbira, analizira in razširja obveščevalne podatke iz vseh virov. Poslano 5: Stranka Cie številka ena je predsednik ZDA
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:597.0
+passage.questions.16.answers.2.text:Zbira obveščevalne podatke in njegova stranka številka ena so državljani Amerike
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:596.0
+passage.questions.16.answers.1.text:O analizirajte podatke iz muliple virov, predsednik ZDA
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:595.0
+passage.questions.16.answers.0.text:Izvajati tajne operacije za senat
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:594.0
+passage.questions.15.question:Kje CIA predloži priporočila za organizacijske spremembe na podlagi zbranih informacij?
+passage.questions.15.idx:126.0
+passage.questions.15.answers.3.text:Predsednik Združenih odrov
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:593.0
+passage.questions.15.answers.2.text:Na kongres
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:592.0
+passage.questions.15.answers.1.text:Ministrstvo za obrambo
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:591.0
+passage.questions.15.answers.0.text:Predsednik
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:590.0
+passage.questions.14.question:Ali ima DCI pristojnost nad vodji senata in kongresa in pooblastilo za preusmerjanje sredstev znotraj teh proračunov?
+passage.questions.14.idx:125.0
+passage.questions.14.answers.2.text:DCI nima pristojnosti za preusmerjanje sredstev znotraj teh proračunov
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:589.0
+passage.questions.14.answers.1.text:DCI je zmožen preusmeriti vire
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:588.0
+passage.questions.14.answers.0.text:Da
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:587.0
+passage.questions.13.question:Resnično ali neresnično: DCI ima pristojnost nad vodji oddelkov za obrambo, državo, pravosodje in je po potrebi pooblaščen za preusmerjanje sredstev znotraj teh proračunov.
+passage.questions.13.idx:124.0
+passage.questions.13.answers.2.text:To je resnica
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:586.0
+passage.questions.13.answers.1.text:Lažno
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:585.0
+passage.questions.13.answers.0.text:To ni res
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:584.0
+passage.questions.12.question:Katera neodvisna agencija zbira, analizira in razširja obveščevalne podatke iz vseh virov?
+passage.questions.12.idx:123.0
+passage.questions.12.answers.2.text:CIA
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:583.0
+passage.questions.12.answers.1.text:FBI
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:582.0
+passage.questions.12.answers.0.text:CIA
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:581.0
+passage.questions.11.question:Katera neodvisna agencija zagotavlja informacije predsedniku?
+passage.questions.11.idx:122.0
+passage.questions.11.answers.2.text:DCI
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:580.0
+passage.questions.11.answers.1.text:CIA
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:579.0
+passage.questions.11.answers.0.text:CIA
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:578.0
+passage.questions.10.question:Kaj je ustvarilo uradni naslov vodje obveščevalne skupnosti ZDA?
+passage.questions.10.idx:121.0
+passage.questions.10.answers.6.text:Predsednik je ustvaril uradni naslov za vodjo ameriške obveščevalne skupnosti
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:577.0
+passage.questions.10.answers.5.text:Predsednik ZDA
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:576.0
+passage.questions.10.answers.4.text:Ministrstvo za obrambo
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:575.0
+passage.questions.10.answers.3.text:Zakon o nacionalni varnosti iz leta 1999
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:574.0
+passage.questions.10.answers.2.text:Zakon o nacionalni varnosti iz leta 1947
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:573.0
+passage.questions.10.answers.1.text:Zakon o nacionalni varnosti iz leta 1893
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:572.0
+passage.questions.10.answers.0.text:Zakon o nacionalni varnosti iz leta 1947 je ustvaril mesto direktorja centralne obveščevalne službe (DCI)
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:571.0
+passage.questions.1.question:Ali je DCI povezan s CIA?
+passage.questions.1.idx:112
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:529
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:528
+passage.questions.0.question:Kaj počne edini del obveščevalne skupnosti (neodvisne od kabinetne agencije)?
+passage.questions.0.idx:111
+passage.questions.0.answers.6.text:DCI
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:527.0
+passage.questions.0.answers.5.text:Predsednik ZDA
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:526.0
+passage.questions.0.answers.4.text:Podpira posebne potrebe obrambnega ministrstva ali vojaške službe
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:525.0
+passage.questions.0.answers.3.text:Zbira, analizira in razširja inteligenco iz vseh virov
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:524.0
+passage.questions.0.answers.2.text:Edini element obveščevalne skupnosti je izvajanje tajnih operacij
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:523.0
+passage.questions.0.answers.1.text:Senat
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:522
+passage.questions.0.answers.0.text:Nič
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:521
+idx:12

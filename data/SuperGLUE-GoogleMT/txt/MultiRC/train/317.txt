@@ -1,0 +1,364 @@
+version:1.1
+passage.text:Zmerno podnebje ima zmerne temperature. Ta podnebja se razlikujejo glede na to, koliko dežja dobijo in kdaj dež pade. Na sliki 2.40 lahko vidite različne vrste zmernega podnebja. Sredozemsko podnebje najdemo na zahodnih obalah celin. Obala Kalifornije ima sredozemsko podnebje. Temperature so blage, padavine pa zmerne. Večina dežja pade pozimi, poletja pa so suha. Za prehod skozi suha poletja so pogoste kratke lesnate rastline. Podnebje morske zahodne obale najdemo tudi na zahodnih obalah celin. Obala države Washington ima tovrstno podnebje. Temperature so blage in vse leto je veliko padavin. V tem podnebju rastejo gosti jelkovi gozdovi. Vlažna subtropska podnebja najdemo na vzhodnih straneh celin. Na jugovzhodu ZDA je tovrstno podnebje. Poletja so vroča in vlažna, zime pa hladne. Skozi vse leto je padavin zmerno. V tem podnebju rastejo borovi in hrastovi gozdovi.
+passage.questions.9.question:Kakšna so poletja v vlažnih subtropskih podnebjih?
+passage.questions.9.idx:3605.0
+passage.questions.9.answers.5.text:Poletje je suho in hladno
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:19150.0
+passage.questions.9.answers.4.text:Vroče in suho
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:19149.0
+passage.questions.9.answers.3.text:Poletja so vroča in vlažna,
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:19148.0
+passage.questions.9.answers.2.text:Poletja so vroča in suha
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:19147.0
+passage.questions.9.answers.1.text:Vroče in vlažno
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:19146.0
+passage.questions.9.answers.0.text:Poletja so mokra in hladna
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:19145.0
+passage.questions.8.question:V kakšnem podnebju so poletja suha?
+passage.questions.8.idx:3604.0
+passage.questions.8.answers.5.text:Subtropsko podnebje
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:19144.0
+passage.questions.8.answers.4.text:Zmerno podnebje
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:19143.0
+passage.questions.8.answers.3.text:Sredozemsko podnebje
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:19142.0
+passage.questions.8.answers.2.text:Subtropsko
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:19141.0
+passage.questions.8.answers.1.text:Sredozemsko
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:19140.0
+passage.questions.8.answers.0.text:Podnebje morske zahodne obale
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:19139.0
+passage.questions.7.question:Katere so značilnosti sredozemskega podnebja :?
+passage.questions.7.idx:3603.0
+passage.questions.7.answers.5.text:Močan dež in sneg
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:19138.0
+passage.questions.7.answers.4.text:Temperature so blage, padavine pa zmerne
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:19137.0
+passage.questions.7.answers.3.text:Temperature so blage, padavine so zmerne, padavine padajo večinoma pozimi in poletja suha
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:19136.0
+passage.questions.7.answers.2.text:Večina dežja pade pozimi, poletja pa so suha
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:19135.0
+passage.questions.7.answers.1.text:Temperature so blage z veliko padavinami skozi celo leto
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:19134.0
+passage.questions.7.answers.0.text:Zime so hladne, poletja pa mokra
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:19133.0
+passage.questions.6.question:Kje so značilnosti zmernega podnebja?
+passage.questions.6.idx:3602.0
+passage.questions.6.answers.7.text:Zmerne temperature. Ta podnebja se razlikujejo glede na to, koliko dežja dobijo in kdaj dež pade
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:19132.0
+passage.questions.6.answers.6.text:Imajo zmerne temperature
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:19131.0
+passage.questions.6.answers.5.text:V zmernih podnebjih so zmerne temperature
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:19130.0
+passage.questions.6.answers.4.text:Hude temperature
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:19129.0
+passage.questions.6.answers.3.text:Imajo hladne zime
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:19128.0
+passage.questions.6.answers.2.text:Imajo vlažna in vroča poletja
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:19127.0
+passage.questions.6.answers.1.text:Imajo vroče zime
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:19126.0
+passage.questions.6.answers.0.text:Odvisno od tega, koliko dežja dobijo in kdaj dež pade
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:19125.0
+passage.questions.5.question:V kakšnem podnebju je veliko padavin skozi celo leto?
+passage.questions.5.idx:3601.0
+passage.questions.5.answers.5.text:Podnebje morske zahodne obale
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:19124.0
+passage.questions.5.answers.4.text:Sredozemsko podnebje
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:19123.0
+passage.questions.5.answers.3.text:Sredozemsko podnebje
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:19122.0
+passage.questions.5.answers.2.text:Vlažno subtropsko podnebje
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:19121.0
+passage.questions.5.answers.1.text:Zmerno podnebje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:19120.0
+passage.questions.5.answers.0.text:Subtropsko podnebje
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:19119.0
+passage.questions.4.question:Kako se glavne rastline razlikujejo med sredozemskim in subtropskim podnebjem?
+passage.questions.4.idx:3600.0
+passage.questions.4.answers.6.text:Rastline v Sredozemlju zmorejo veliko suhega vremena
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:19118.0
+passage.questions.4.answers.5.text:Rastline v subtropskem podnebju so narejene za hladne temperature
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:19117.0
+passage.questions.4.answers.4.text:Veliko srednjih lesnih rastlin raste v sredozemskem podnebju, medtem ko imajo borovci in hrasti raje subtropsko podnebje
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:19116.0
+passage.questions.4.answers.3.text:V sredozemskih podnebjih so pogoste kratke lesnate rastline, subtropsko podnebje pa rastejo v borovih in hrastovih gozdovih
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:19115.0
+passage.questions.4.answers.2.text:Sredozemsko podnebje ima visoka vitka drevesa
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:19114.0
+passage.questions.4.answers.1.text:Vse rastline rastejo v obeh
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:19113.0
+passage.questions.4.answers.0.text:Kratke lesnate rastline - mediteranski borovi in hrastovi gozdovi - subtropski
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:19112.0
+passage.questions.3.question:Kakšno podnebje ima obala zvezne države Washington?
+passage.questions.3.idx:3599.0
+passage.questions.3.answers.5.text:Sredozemsko podnebje
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:19111.0
+passage.questions.3.answers.4.text:Zahodna morska obala
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:19110.0
+passage.questions.3.answers.3.text:Zmerno podnebje
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:19109.0
+passage.questions.3.answers.2.text:Vlažno subtropsko podnebje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:19108.0
+passage.questions.3.answers.1.text:Morsko podnebje zahodne obale
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:19107.0
+passage.questions.3.answers.0.text:Vlažna subtropska
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:19106.0
+passage.questions.2.question:Katero podnebje ima suha poletja in mokre zime?
+passage.questions.2.idx:3598.0
+passage.questions.2.answers.5.text:Zahodna morska obala
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:19105.0
+passage.questions.2.answers.4.text:Zmerno podnebje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:19104.0
+passage.questions.2.answers.3.text:Vlažno subtropsko podnebje
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:19103.0
+passage.questions.2.answers.2.text:Sredozemsko podnebje
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:19102.0
+passage.questions.2.answers.1.text:Sredozemsko
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:19101.0
+passage.questions.2.answers.0.text:Podnebje morske zahodne obale
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:19100.0
+passage.questions.16.question:Kakšne so padavine v Sredozemlju?
+passage.questions.16.idx:3612.0
+passage.questions.16.answers.6.text:Padavine so zmerne
+passage.questions.16.answers.6.label:1.0
+passage.questions.16.answers.6.idx:19197.0
+passage.questions.16.answers.5.text:Dež večinoma pada poleti
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:19196.0
+passage.questions.16.answers.4.text:Padavine so obilne
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:19195.0
+passage.questions.16.answers.3.text:Hudo
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:19194.0
+passage.questions.16.answers.2.text:Padavin je malo
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:19193.0
+passage.questions.16.answers.1.text:Padavine so zmerne. Večina dežja pade pozimi, poletja pa so suha
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:19192.0
+passage.questions.16.answers.0.text:Največ dežja pade pozimi
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:19191.0
+passage.questions.15.question:V kateri sezoni v Kaliforniji pade večina dežja?
+passage.questions.15.idx:3611.0
+passage.questions.15.answers.4.text:Spomladi
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:19190.0
+passage.questions.15.answers.3.text:V jeseni
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:19189.0
+passage.questions.15.answers.2.text:Poleti
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:19188.0
+passage.questions.15.answers.1.text:Večina dežja pade pozimi
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:19187.0
+passage.questions.15.answers.0.text:V zimskem času
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:19186.0
+passage.questions.14.question:Kakšne so značilnosti vlažnega subtropskega podnebja?
+passage.questions.14.idx:3610.0
+passage.questions.14.answers.6.text:Skozi vse leto je padavin zmerno
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:19185.0
+passage.questions.14.answers.5.text:Poletja so vroča in vlažna, zime pa hladne. Skozi vse leto je padavin zmerno. V tem podnebju rastejo borovi in hrastovi gozdovi
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:19184.0
+passage.questions.14.answers.4.text:Poletja so vroča in vlažna, zime pa hladne
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:19183.0
+passage.questions.14.answers.3.text:Tam je hladno poletje
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:19182.0
+passage.questions.14.answers.2.text:Obstajajo hladne zime
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:19181.0
+passage.questions.14.answers.1.text:Vroča in suha poletja
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:19180.0
+passage.questions.14.answers.0.text:Pozimi je veliko padavin
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:19179.0
+passage.questions.13.question:Kakšni gozdovi so podprti v vlažnih subtropskih podnebjih?
+passage.questions.13.idx:3609.0
+passage.questions.13.answers.5.text:Hrastovi gozdovi
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:19178.0
+passage.questions.13.answers.4.text:Kratki lesnati rastlinski gozdovi
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:19177.0
+passage.questions.13.answers.3.text:Borovi in hrastovi gozdovi
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:19176.0
+passage.questions.13.answers.2.text:Brezovi gozdovi
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:19175.0
+passage.questions.13.answers.1.text:Javorjevi gozdovi
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:19174.0
+passage.questions.13.answers.0.text:Deževni gozdovi
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:19173.0
+passage.questions.12.question:V kakšnem podnebju rastejo borovi in hrastovi gozdovi?
+passage.questions.12.idx:3608.0
+passage.questions.12.answers.5.text:Sredozemsko podnebje
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:19172.0
+passage.questions.12.answers.4.text:V vlažnem subtropskem podnebju
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:19171.0
+passage.questions.12.answers.3.text:Podnebje morske zahodne obale
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:19170.0
+passage.questions.12.answers.2.text:Zmerno
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:19169.0
+passage.questions.12.answers.1.text:Zmerno podnebje
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:19168.0
+passage.questions.12.answers.0.text:Vlažna subtropska
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:19167.0
+passage.questions.11.question:O kakšnih štirih vrstah podnebja smo razpravljali?
+passage.questions.11.idx:3607.0
+passage.questions.11.answers.9.text:Saharsko podnebje
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:19166.0
+passage.questions.11.answers.8.text:Polarno podnebje
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:19165.0
+passage.questions.11.answers.7.text:Subarktično podnebje
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:19164.0
+passage.questions.11.answers.6.text:Zima pomlad poletje jesen
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:19163.0
+passage.questions.11.answers.5.text:Sredozemsko podnebje
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:19162.0
+passage.questions.11.answers.4.text:Vlažna subtropska podnebja
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:19161.0
+passage.questions.11.answers.3.text:Zmerno podnebje
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:19160.0
+passage.questions.11.answers.2.text:Zahodna obala Marine
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:19159.0
+passage.questions.11.answers.1.text:Sredozemsko
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:19158.0
+passage.questions.11.answers.0.text:Zmerno
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:19157.0
+passage.questions.10.question:Katere so nekatere značilnosti subtopičnega podnebja?
+passage.questions.10.idx:3606.0
+passage.questions.10.answers.5.text:Skozi vse leto je padavin zmerno
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:19156.0
+passage.questions.10.answers.4.text:Poletja so vroča in vlažna, zime pa hladne
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:19155.0
+passage.questions.10.answers.3.text:Poletja so hladna, zime pa nekoliko hladnejše
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:19154.0
+passage.questions.10.answers.2.text:Blaga poletja in zime
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:19153.0
+passage.questions.10.answers.1.text:Temperature so blage, dež pa zmeren
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:19152.0
+passage.questions.10.answers.0.text:So vlažna, poletja vroča in vlažna, zime so hladne in skozi vse leto padavine zmerno padajo
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:19151.0
+passage.questions.1.question:Kakšno podnebje ima jug ZDA?
+passage.questions.1.idx:3597.0
+passage.questions.1.answers.4.text:Sredozemsko podnebje
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:19099.0
+passage.questions.1.answers.3.text:Zahodna morska obala
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:19098.0
+passage.questions.1.answers.2.text:Vlažno subtropsko podnebje
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:19097.0
+passage.questions.1.answers.1.text:Zmerno podnebje
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:19096.0
+passage.questions.1.answers.0.text:Podnebje morske zahodne obale
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:19095.0
+passage.questions.0.question:Kakšno podnebje lahko najdete na jugovzhodu ZDA?
+passage.questions.0.idx:3596
+passage.questions.0.answers.5.text:Sredozemsko podnebje
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:19094.0
+passage.questions.0.answers.4.text:Zmerno podnebje
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:19093.0
+passage.questions.0.answers.3.text:Vlažno subtropsko podnebje
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:19092.0
+passage.questions.0.answers.2.text:Sredozemsko
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:19091.0
+passage.questions.0.answers.1.text:Tam najdemo vlažno subtropsko podnebje. Poletja so vroča in vlažna, zime pa hladne
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:19090
+passage.questions.0.answers.0.text:Podnebje morske zahodne obale
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:19089
+idx:317

@@ -1,0 +1,6 @@
+choice1:Ženska je vedela, da ima njena prijateljica težko obdobje.
+choice2:Ženski se je zdelo, da njena prijateljica izkorišča njeno prijaznost.
+idx:1
+label:0
+premise:Ženska je tolerirala prijateljičino naporno vedenje.
+question:cause

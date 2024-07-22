@@ -1,0 +1,476 @@
+version:1.1
+passage.text:O najstarejših prebivalcih kamene dobe evropske jugozahodne okončine je malo znanega. Stari Grki so jih imenovali Cynetes (ali Cunetes). Ne glede na njihovo poreklo se je njihova kultura razvijala pod pritiskom in vplivom tujih sil. Med številnimi napadalnimi vojskami, ki so se tu naselile in prispevale k nastajajoči portugalski kulturi, so bili Feničani, ki so se naselili na območju okoli 1.000 pr. N. Št., Sledili pa so jim Kelti, Iberci, Grki in Kartažani. Toda Rimljani, ki so prispeli konec tretjega stoletja pred našim štetjem, so najbolj vplivali na vso Iberijo. Gradili so mesta, industrijo, ceste in mostove, razvijali kmetijstvo in zapuščali latinski jezik, katerega portugalski jezik je neposreden potomka. Rimljani so jugozahodno provinco polotoka poimenovali Lusitanija, kar je nenavadno za eno od celtiberskih plemen, ki so jih premagali, in do tretjega stoletja pred našim štetjem so uvedli krščanstvo. V začetku četrtega stoletja je imel Algarve škofa s sedežem v Faroju. Toda Rim je že propadel in kmalu so horde severnih plemenov prevzele imperij. Algarva je padla pod Vizigote sredi petega stoletja. Po mavrskem pravilu Leta 711 so Mavri iz Severne Afrike pripeljali močne vojske in sprožili uničujoč napad na Iberski polotok in osvojili večino tega, kar bi postali Španija in Portugalska. Nametnili so islam in pustili neizbrisen vpliv na podeželje in prebivalstvo Algarve. Mavrsko zapuščino je še vedno mogoče videti v obliki vodnjakov in vodnih koles, skvotanih belih hiš, temnih polti ljudi in že v samem imenu regije - povzeto po Al-Gharb, kar pomeni &quot;zahodna država&quot; ( ko so Mavri osvojili ozemlje, je bilo najbolj zahodno v znanem svetu). Mavri so vladali svojim iberskim kraljestvom čez mejo v Sevilli, toda Algarve so imele svojo regionalno prestolnico in ogromno neranljivo trdnjavo. Glavno mesto je bil Chelb (ali Xelb), bil je večji in bolje branjen kot Lizbona. Danes je mesto, znano kot Silves, provincialna postojanka, katere edini oblegajoči so avtobusi turistov, ki se povzpnejo na ozke ulice do starih mavrskih obzidja.
+passage.questions.9.question:Kako so Rimljani vplivali na območje ali ga spreminjali?
+passage.questions.9.idx:1905.0
+passage.questions.9.answers.4.text:Z gradnjo, kmetijstvom, jezikom in religijo
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:9949.0
+passage.questions.9.answers.3.text:Jezik, kmetijstvo, gradbeništvo
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:9948.0
+passage.questions.9.answers.2.text:Uvedli so krščanstvo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:9947.0
+passage.questions.9.answers.1.text:Naredil družbo celoto
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:9946.0
+passage.questions.9.answers.0.text:Zgrajene skvotane bele hiše
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:9945.0
+passage.questions.8.question:Kaj je bilo glavno mesto Algarveja in kako se je tudi imenovalo?
+passage.questions.8.idx:1904.0
+passage.questions.8.answers.6.text:Chelb. Imenovali so ga tudi Silves
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:9944.0
+passage.questions.8.answers.5.text:Rim
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:9943.0
+passage.questions.8.answers.4.text:Tuje ime
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:9942.0
+passage.questions.8.answers.3.text:Xelb
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:9941.0
+passage.questions.8.answers.2.text:Chelb
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:9940.0
+passage.questions.8.answers.1.text:Chelb (ali Xelb), Silves
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:9939.0
+passage.questions.8.answers.0.text:Silves
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:9938.0
+passage.questions.7.question:Kako je bilo nekoč znano portugalsko mesto Silves?
+passage.questions.7.idx:1903.0
+passage.questions.7.answers.9.text:Feničani
+passage.questions.7.answers.9.label:0,0
+passage.questions.7.answers.9.idx:9936.0
+passage.questions.7.answers.8.text:Xelb
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:9935.0
+passage.questions.7.answers.7.text:Libson
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:9934.0
+passage.questions.7.answers.6.text:Chelb
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:9933.0
+passage.questions.7.answers.5.text:Chelb (ali Xelb)
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:9932.0
+passage.questions.7.answers.4.text:Kamena doba
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:9931.0
+passage.questions.7.answers.3.text:Cynetes
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:9930.0
+passage.questions.7.answers.2.text:Cunetes
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:9929.0
+passage.questions.7.answers.10.text:Lizbona
+passage.questions.7.answers.10.label:0,0
+passage.questions.7.answers.10.idx:9937.0
+passage.questions.7.answers.1.text:Evropska jugozahodna okončina
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:9928.0
+passage.questions.7.answers.0.text:Cynetes (ali Cunetes)
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:9927.0
+passage.questions.6.question:Kdo je prispel po Keltih in Ibercih?
+passage.questions.6.idx:1902.0
+passage.questions.6.answers.8.text:Al-Gharb
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:9926.0
+passage.questions.6.answers.7.text:Hindujščina
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:9925.0
+passage.questions.6.answers.6.text:Mavrski
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:9924.0
+passage.questions.6.answers.5.text:Feničani
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:9923.0
+passage.questions.6.answers.4.text:Grki
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:9922.0
+passage.questions.6.answers.3.text:Rimljani
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:9921.0
+passage.questions.6.answers.2.text:Kartažani
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:9920.0
+passage.questions.6.answers.1.text:Islam
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:9919.0
+passage.questions.6.answers.0.text:Cuneti
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:9918.0
+passage.questions.5.question:Kaj so Mavri počeli leta 1711?
+passage.questions.5.idx:1901.0
+passage.questions.5.answers.6.text:Vdrla v Iberijo
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:9917.0
+passage.questions.5.answers.5.text:Osvojena Španija in Portugalska, vsiljeni islam
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:9916.0
+passage.questions.5.answers.4.text:Osvojeni Rim
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:9915.0
+passage.questions.5.answers.3.text:Šel v vojno
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:9914.0
+passage.questions.5.answers.2.text:Napadel Iberski polotok
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:9913.0
+passage.questions.5.answers.1.text:Začnite napad na Iberski polotok
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:9912.0
+passage.questions.5.answers.0.text:Napadla Španija
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:9911.0
+passage.questions.4.question:Katere države ali civilizacije so vplivale na zgodnjo portugalsko kulturo, religijo in arhitekturo?
+passage.questions.4.idx:1900.0
+passage.questions.4.answers.5.text:Mavri
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:9910.0
+passage.questions.4.answers.4.text:Roman
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:9909.0
+passage.questions.4.answers.3.text:Italija
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:9908.0
+passage.questions.4.answers.2.text:Na njih so vplivali Feničani, Kelti, Iberci, Grki, Kartažani, Rimljani in nazadnje Mavri.
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:9907.0
+passage.questions.4.answers.1.text:Feničanski
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:9906.0
+passage.questions.4.answers.0.text:Sredozemsko
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:9905.0
+passage.questions.3.question:Kdo je gradil mesta, ceste in industrijo evropske jugozahodne skrajnosti?
+passage.questions.3.idx:1899.0
+passage.questions.3.answers.3.text:Grki
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:9904.0
+passage.questions.3.answers.2.text:Sicilijanci
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:9903.0
+passage.questions.3.answers.1.text:Rimljani
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:9902.0
+passage.questions.3.answers.0.text:Iberci
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:9901.0
+passage.questions.21.question:Kdo se je naselil v Iberiji okoli leta 1000 pred našim štetjem? Poimenujte dve vojski.
+passage.questions.21.idx:1917.0
+passage.questions.21.answers.6.text:Iberski
+passage.questions.21.answers.6.label:1.0
+passage.questions.21.answers.6.idx:10017.0
+passage.questions.21.answers.5.text:Pleme
+passage.questions.21.answers.5.label:0,0
+passage.questions.21.answers.5.idx:10016.0
+passage.questions.21.answers.4.text:Severnoafriški
+passage.questions.21.answers.4.label:0,0
+passage.questions.21.answers.4.idx:10015.0
+passage.questions.21.answers.3.text:Roman
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:10014.0
+passage.questions.21.answers.2.text:Amiriti, Grki
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:10013.0
+passage.questions.21.answers.1.text:Rimljani, Kelti
+passage.questions.21.answers.1.label:1.0
+passage.questions.21.answers.1.idx:10012.0
+passage.questions.21.answers.0.text:Feničani
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:10011.0
+passage.questions.20.question:Kam so krščanski Rimljani postavili škofa s sedežem v Faroju?
+passage.questions.20.idx:1916.0
+passage.questions.20.answers.9.text:Rim
+passage.questions.20.answers.9.label:0,0
+passage.questions.20.answers.9.idx:10010.0
+passage.questions.20.answers.8.text:Luzitanija
+passage.questions.20.answers.8.label:0,0
+passage.questions.20.answers.8.idx:10009.0
+passage.questions.20.answers.7.text:Najzgodnejša kamena doba
+passage.questions.20.answers.7.label:0,0
+passage.questions.20.answers.7.idx:10008.0
+passage.questions.20.answers.6.text:Italija
+passage.questions.20.answers.6.label:0,0
+passage.questions.20.answers.6.idx:10007.0
+passage.questions.20.answers.5.text:Grki
+passage.questions.20.answers.5.label:0,0
+passage.questions.20.answers.5.idx:10006.0
+passage.questions.20.answers.4.text:Algarve
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:10005.0
+passage.questions.20.answers.3.text:Prebivalci iz kamene dobe evropske jugozahodne skrajnosti
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:10004.0
+passage.questions.20.answers.2.text:Vizigoti
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:10003.0
+passage.questions.20.answers.1.text:Sevilla
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:10002.0
+passage.questions.20.answers.0.text:Skoraj sedanja Španija
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:10001.0
+passage.questions.2.question:Kdo se je razvil pod pritiskom in vplivom tujih sil?
+passage.questions.2.idx:1898.0
+passage.questions.2.answers.4.text:Plemena ljudje
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:9900.0
+passage.questions.2.answers.3.text:Rim
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:9899.0
+passage.questions.2.answers.2.text:Najstarejši prebivalci kamene dobe v jugozahodni Evropi
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9898.0
+passage.questions.2.answers.1.text:Cynetes
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:9897.0
+passage.questions.2.answers.0.text:Barje
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:9896.0
+passage.questions.19.question:Kdo je gradil mesta, industrijo, ceste, mostove in razvil kmetijstvo, da bi vplival na vso Iberijo?
+passage.questions.19.idx:1915.0
+passage.questions.19.answers.2.text:Grki
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:10000.0
+passage.questions.19.answers.1.text:Rimljani
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:9999.0
+passage.questions.19.answers.0.text:Barje
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:9998.0
+passage.questions.18.question:Kako so Mavri spremenili Portugalsko?
+passage.questions.18.idx:1914.0
+passage.questions.18.answers.4.text:Dodani vodnjaki, vodna kolesa, temnejša barva kože
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:9997.0
+passage.questions.18.answers.3.text:Predstavljena latinščina
+passage.questions.18.answers.3.label:0,0
+passage.questions.18.answers.3.idx:9996.0
+passage.questions.18.answers.2.text:Kompleksnost njihovih ljudi in ime retiona
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:9995.0
+passage.questions.18.answers.1.text:Mavrov vpliv je razviden iz njihovega prispevka vodnjakov, vodnih koles, skvotanih belih hiš, temne polti lokalnega prebivalstva in uvedbe islama kot religije
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:9994.0
+passage.questions.18.answers.0.text:Dodano nekaj vodnih stvari
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:9993.0
+passage.questions.17.question:Kaj so Rimljani lahko storili, ko so napadli Iberijo? Poimenuj dve stvari.
+passage.questions.17.idx:1913.0
+passage.questions.17.answers.9.text:Gradili so mesta in industrijo
+passage.questions.17.answers.9.label:1.0
+passage.questions.17.answers.9.idx:9992.0
+passage.questions.17.answers.8.text:Naloženi islam
+passage.questions.17.answers.8.label:0,0
+passage.questions.17.answers.8.idx:9991.0
+passage.questions.17.answers.7.text:Zgrajena mesta, razvito kmetijstvo
+passage.questions.17.answers.7.label:1.0
+passage.questions.17.answers.7.idx:9990.0
+passage.questions.17.answers.6.text:Ustvaril novo hrano
+passage.questions.17.answers.6.label:0,0
+passage.questions.17.answers.6.idx:9989.0
+passage.questions.17.answers.5.text:Narejene hiše, kmetovane
+passage.questions.17.answers.5.label:0,0
+passage.questions.17.answers.5.idx:9988.0
+passage.questions.17.answers.4.text:Uvedli krščanstvo, zgradili mesta itd
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:9987.0
+passage.questions.17.answers.3.text:Zgrajena mesta
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:9986.0
+passage.questions.17.answers.2.text:Zapustil latinski jezik
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:9985.0
+passage.questions.17.answers.1.text:Oblikoval prvi avto
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:9984.0
+passage.questions.17.answers.0.text:Vgrajena vodna kolesa
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:9983.0
+passage.questions.16.question:Koga so stari Grki klicali kineti?
+passage.questions.16.idx:1912.0
+passage.questions.16.answers.4.text:Rimljani
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:9982.0
+passage.questions.16.answers.3.text:Jamski možje
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:9981.0
+passage.questions.16.answers.2.text:Najstarejši prebivalci kamene dobe v jugozahodni Evropi
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:9980.0
+passage.questions.16.answers.1.text:Prebivalci iz kamene dobe
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:9979.0
+passage.questions.16.answers.0.text:Najzgodnejši grški prebivalci iz kamene dobe
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:9978.0
+passage.questions.15.question:Kdo je prebivalstvu Algarve vsilil islam?
+passage.questions.15.idx:1911.0
+passage.questions.15.answers.2.text:Mavri
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:9977.0
+passage.questions.15.answers.1.text:Afričani
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:9976.0
+passage.questions.15.answers.0.text:Rimljani
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:9975.0
+passage.questions.14.question:Katera religija je bila pod Mavri krščanstvo nadomeščena?
+passage.questions.14.idx:1910.0
+passage.questions.14.answers.8.text:Al-Gharb
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:9974.0
+passage.questions.14.answers.7.text:Hindujščina
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:9973.0
+passage.questions.14.answers.6.text:Mavrski
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:9972.0
+passage.questions.14.answers.5.text:Feničani
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:9971.0
+passage.questions.14.answers.4.text:Grki
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:9970.0
+passage.questions.14.answers.3.text:Rimljani
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:9969.0
+passage.questions.14.answers.2.text:Kartažani
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:9968.0
+passage.questions.14.answers.1.text:Islam
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:9967.0
+passage.questions.14.answers.0.text:Cuneti
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:9966.0
+passage.questions.13.question:Kdo je Luzitanijo predstavil krščanstvo?
+passage.questions.13.idx:1909.0
+passage.questions.13.answers.2.text:Mavri
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:9965.0
+passage.questions.13.answers.1.text:Duhovniki
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:9964.0
+passage.questions.13.answers.0.text:Rimljani
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:9963.0
+passage.questions.12.question:Kdo so bile tuje sile, pod katerimi so se razvile cinete?
+passage.questions.12.idx:1908.0
+passage.questions.12.answers.4.text:Rimljani
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:9962.0
+passage.questions.12.answers.3.text:Mediteranski ljudje
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:9961.0
+passage.questions.12.answers.2.text:Feničani, Kelti, Iberci, Grki in Kartažani
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:9960.0
+passage.questions.12.answers.1.text:Barje
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:9959.0
+passage.questions.12.answers.0.text:Stari Grki
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:9958.0
+passage.questions.11.question:Kaj je bilo pomembno na začetku četrtega stoletja do sredine petega stoletja?
+passage.questions.11.idx:1907.0
+passage.questions.11.answers.4.text:Mesto ni preživelo
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:9957.0
+passage.questions.11.answers.3.text:Algarva je padla pod Vizigote
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:9956.0
+passage.questions.11.answers.2.text:Vizigoti so padli v Argarve
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:9955.0
+passage.questions.11.answers.1.text:Severni plemeni so prevzeli Algarve
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:9954.0
+passage.questions.11.answers.0.text:Argarve je imel škofa s sedežem v Faroju
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:9953.0
+passage.questions.10.question:Kako so Grki imenovali najzgodnejše prebivalce kamene dobe jugozahodne Evrope?
+passage.questions.10.idx:1906.0
+passage.questions.10.answers.2.text:Jamski možje
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:9952.0
+passage.questions.10.answers.1.text:Cynetes
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:9951.0
+passage.questions.10.answers.0.text:Iberci
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:9950.0
+passage.questions.1.question:Cynetes (ali Cunetes) je ime, ki so ga stari Grki dajali prvotnim prebivalcem katere moderne evropske države?
+passage.questions.1.idx:1897.0
+passage.questions.1.answers.9.text:Rim
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:9894.0
+passage.questions.1.answers.8.text:Luzitanija
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:9893.0
+passage.questions.1.answers.7.text:Najzgodnejša kamena doba
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:9892.0
+passage.questions.1.answers.6.text:Italija
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:9891.0
+passage.questions.1.answers.5.text:Grki
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:9890.0
+passage.questions.1.answers.4.text:Algarve
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:9889.0
+passage.questions.1.answers.3.text:Prebivalci iz kamene dobe evropske jugozahodne skrajnosti
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:9888.0
+passage.questions.1.answers.2.text:Vizigoti
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:9887.0
+passage.questions.1.answers.10.text:Portugalska
+passage.questions.1.answers.10.label:1.0
+passage.questions.1.answers.10.idx:9895.0
+passage.questions.1.answers.1.text:Sevilla
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:9886.0
+passage.questions.1.answers.0.text:Španija
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:9885.0
+passage.questions.0.question:Kako so Grki imenovali prebivalce zgodnje kamene dobe?
+passage.questions.0.idx:1896
+passage.questions.0.answers.9.text:Lizbona
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:9884.0
+passage.questions.0.answers.8.text:Feničani
+passage.questions.0.answers.8.label:0,0
+passage.questions.0.answers.8.idx:9883.0
+passage.questions.0.answers.7.text:Xelb
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:9882.0
+passage.questions.0.answers.6.text:Libson
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:9881.0
+passage.questions.0.answers.5.text:Chelb
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:9880.0
+passage.questions.0.answers.4.text:Kamena doba
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:9879.0
+passage.questions.0.answers.3.text:Cynetes
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:9878.0
+passage.questions.0.answers.2.text:Cunetes
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:9877.0
+passage.questions.0.answers.1.text:Evropska jugozahodna okončina
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:9876
+passage.questions.0.answers.0.text:Cynetes (ali Cunetes)
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:9875
+idx:172

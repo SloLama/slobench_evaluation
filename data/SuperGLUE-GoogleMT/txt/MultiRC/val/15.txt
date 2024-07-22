@@ -1,0 +1,334 @@
+version:1.1
+passage.text:(OPRAH.com) - Chris Rock je z emmyjem nagrajeni komik, predan mož in ljubeči oče - vendar je čas, da spoznamo novo plat tega smešnega človeka. Spoznajte Chrisa Rocka, strokovnjaka za lase. To je obvoz, po katerem je nedolžna vožnja z avtomobilom zapustila Rock z idejo, ki se je preprosto ni mogel otresti. &quot;Nekega dne sem bil s hčerko, midva pa sva v avtu, ona pa z enim od prijateljev na zadnjem sedežu, malim belim prijateljem,&quot; pravi. &quot;Ravno nekako je besnila nad lasmi svoje prijateljice za moje udobje [rekoč]: &#39;Imaš čudovite lase. Oh, vaši lasje so tako dobri.&#39;&quot; Ker svojih komentarjev ni želela narediti velikega problema, Rock pravi, da jih je poskušal preigrati. &quot;[Rekel sem]:&quot; Oh, dragi, tvoji lasje so čudoviti. Daj no. &quot;Pravi.„ Če bi se res odzval, bi imela kompleks glede las. „Rock pa tega ni mogel pustiti.„ V meni je nekaj sprožilo, &quot;pravi. Oprah. com: Oprahini lasje skozi leta! Rock je odkril industrijo v višini 9 milijard dolarjev, ki vpliva na vsakodnevne dejavnosti, denarnice, samozavest in celo spolno življenje temnopoltih žensk. Ker ženske porabijo toliko časa in denarja za svoje Rock pravi, da so moški prisiljeni sprejeti politiko odpuščanja. &quot;Ne morete se dotakniti las črnk. Pogojeni ste, da niti tja ne greste, &quot;pravi.&quot; Ko sem bil zmenek, sem hodil z ženskami različnih ras. Kadarkoli sem bil z azijsko ali portoriško deklico ali belko, so mi bile roke nenehno v laseh.
+passage.questions.9.question:Zakaj se ne moreš dotakniti las črnke?
+passage.questions.9.idx:157.0
+passage.questions.9.answers.7.text:Ker ženske porabijo toliko časa in denarja za svoje lase, so moški prisiljeni sprejeti politiko izročitve
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:805.0
+passage.questions.9.answers.6.text:Ženske so zapravile veliko denarja
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:804.0
+passage.questions.9.answers.5.text:Zaradi sestavin v izdelkih za lase
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:803.0
+passage.questions.9.answers.4.text:Zaradi alergijskih razlogov
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:802.0
+passage.questions.9.answers.3.text:Striženje las
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:801.0
+passage.questions.9.answers.2.text:Zaradi časa in denarja, ki ga je vložila vanj
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:800.0
+passage.questions.9.answers.1.text:Pogojno
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:799.0
+passage.questions.9.answers.0.text:Izdelki za lase za temnopolte ženske naredijo lase izjemno krhke
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:798.0
+passage.questions.8.question:Chris Rock je rekel, da je njegova roka, kadar je bil z azijsko, portoriško ali belko, posebno del telesa teh žensk. Kaj je bilo?
+passage.questions.8.idx:156.0
+passage.questions.8.answers.5.text:Njihovi riti
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:797.0
+passage.questions.8.answers.4.text:Njihovi lasje
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:796.0
+passage.questions.8.answers.3.text:Njihov hrbet
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:795.0
+passage.questions.8.answers.2.text:Nos
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:794.0
+passage.questions.8.answers.1.text:Njihove prsi
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:793.0
+passage.questions.8.answers.0.text:Noga
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:792.0
+passage.questions.7.question:Kaj mu je odkrivanje vožnje z avtomobilom Chrisa Rocka pomagalo odkriti?
+passage.questions.7.idx:155.0
+passage.questions.7.answers.7.text:Da ni veliko izdelkov za lase za temnopolte ženske
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:791.0
+passage.questions.7.answers.6.text:Industrija las
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:790.0
+passage.questions.7.answers.5.text:Lasje
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:789.0
+passage.questions.7.answers.4.text:Industrija v višini 9 milijard dolarjev
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:788.0
+passage.questions.7.answers.3.text:Da je za hčerkine lase treba pomagati
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:787.0
+passage.questions.7.answers.2.text:Boljša pot čez mesto
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:786.0
+passage.questions.7.answers.1.text:Ogromna industrija, ki se prehranjuje s temnopoltimi ženskami
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:785.0
+passage.questions.7.answers.0.text:Industrija v višini 9 milijard dolarjev
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:784.0
+passage.questions.6.question:Kakšna je industrija, vredna 9 milijonov dolarjev, ki vpliva na življenje temnopoltih žensk?
+passage.questions.6.idx:154.0
+passage.questions.6.answers.5.text:Izdelki za lase
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:783.0
+passage.questions.6.answers.4.text:Lepota
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:782.0
+passage.questions.6.answers.3.text:Industrija las
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:781.0
+passage.questions.6.answers.2.text:Čevljarska industrija
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:780.0
+passage.questions.6.answers.1.text:Modna industrija
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:779.0
+passage.questions.6.answers.0.text:Izdelki za ličenje
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:778.0
+passage.questions.5.question:Na čigave vsakodnevne dejavnosti, denarnice, samozavest in celo spolno življenje vpliva industrija v višini 9 milijard dolarjev, ki jo je odkril Chris Rock?
+passage.questions.5.idx:153.0
+passage.questions.5.answers.7.text:Azijske ženske
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:777.0
+passage.questions.5.answers.6.text:Bele ženske
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:776.0
+passage.questions.5.answers.5.text:Črne dame
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:775.0
+passage.questions.5.answers.4.text:Portoričanke
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:774.0
+passage.questions.5.answers.3.text:Moški
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:773.0
+passage.questions.5.answers.2.text:Ameriške ženske
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:772.0
+passage.questions.5.answers.1.text:Afroameričanke
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:771.0
+passage.questions.5.answers.0.text:Črnke
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:770.0
+passage.questions.4.question:Kateri komijski nagrajenec z emmyjem trdi, da so moški pripravljeni, da se ne dotikajo črnih žensk?
+passage.questions.4.idx:152.0
+passage.questions.4.answers.5.text:Eric McCormack
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:769.0
+passage.questions.4.answers.4.text:Jim parsons
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:768.0
+passage.questions.4.answers.3.text:Chris Rock
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:767.0
+passage.questions.4.answers.2.text:Črne ženske
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:766.0
+passage.questions.4.answers.1.text:Chris rock
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:765.0
+passage.questions.4.answers.0.text:Donald Glover
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:764.0
+passage.questions.3.question:Raziskava Chrisa Rocka je pokazala, da ženske za kaj porabijo preveč časa in denarja?
+passage.questions.3.idx:151.0
+passage.questions.3.answers.5.text:Oblikovanje las
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:763.0
+passage.questions.3.answers.4.text:Nakup stvari
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:762.0
+passage.questions.3.answers.3.text:Njihovi lasje
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:761.0
+passage.questions.3.answers.2.text:Hrana
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:760.0
+passage.questions.3.answers.1.text:Njihova ličila
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:759.0
+passage.questions.3.answers.0.text:Njihova oblačila
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:758.0
+passage.questions.2.question:Katere ženske po mnenju Chrisa Rocka moškim ne dovolijo, da se jih dotikajo?
+passage.questions.2.idx:150
+passage.questions.2.answers.5.text:Azijske ženske
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:757.0
+passage.questions.2.answers.4.text:Bele ženske
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:756.0
+passage.questions.2.answers.3.text:Portoričanke
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:755.0
+passage.questions.2.answers.2.text:Črne ženske
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:754.0
+passage.questions.2.answers.1.text:Deklica
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:753
+passage.questions.2.answers.0.text:Črnke
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:752
+passage.questions.13.question:Kaj je prepričalo Chrisa Rocka, da je postal strokovnjak za lase?
+passage.questions.13.idx:161.0
+passage.questions.13.answers.7.text:Vožnja z avtomobilom
+passage.questions.13.answers.7.label:0,0
+passage.questions.13.answers.7.idx:836.0
+passage.questions.13.answers.6.text:Da bi dobili ženske
+passage.questions.13.answers.6.label:0,0
+passage.questions.13.answers.6.idx:835.0
+passage.questions.13.answers.5.text:Vožnja z avtom
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:834.0
+passage.questions.13.answers.4.text:Obvoz
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:833.0
+passage.questions.13.answers.3.text:Njegova hči
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:832.0
+passage.questions.13.answers.2.text:Prijatelj njegove hčere
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:831.0
+passage.questions.13.answers.1.text:Obvoz po vožnji z avtomobilom
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:830.0
+passage.questions.13.answers.0.text:Denar
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:829.0
+passage.questions.12.question:Kako je Chris Rock opisal hčerinega prijatelja, ki je s hčerko sedel v avtu?
+passage.questions.12.idx:160.0
+passage.questions.12.answers.6.text:Glasno ustnica
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:828.0
+passage.questions.12.answers.5.text:Večje starejše dekle
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:827.0
+passage.questions.12.answers.4.text:Mali temnopolti fant
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:826.0
+passage.questions.12.answers.3.text:Belo belo dekle
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:825.0
+passage.questions.12.answers.2.text:Črni prijatelj
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:824.0
+passage.questions.12.answers.1.text:Mali beli prijatelj
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:823.0
+passage.questions.12.answers.0.text:Črna črnka
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:822.0
+passage.questions.11.question:Zakaj Chris Rock ni veliko pripomnil glede komentarjev hčerkine lase?
+passage.questions.11.idx:159.0
+passage.questions.11.answers.5.text:Ker o laseh ni vedel ničesar
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:821.0
+passage.questions.11.answers.4.text:Razvila bi kompleks glede las
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:820.0
+passage.questions.11.answers.3.text:Odgovori
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:819.0
+passage.questions.11.answers.2.text:Da hčerki ne bi dal kompleksa
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:818.0
+passage.questions.11.answers.1.text:Da se drugo dekle ne bi počutilo neprijetno
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:817.0
+passage.questions.11.answers.0.text:Ker je imel zanjo presenečenje
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:816.0
+passage.questions.10.question:Kdo je Chris Rock?
+passage.questions.10.idx:158.0
+passage.questions.10.answers.9.text:Frizer za lase
+passage.questions.10.answers.9.label:0,0
+passage.questions.10.answers.9.idx:815.0
+passage.questions.10.answers.8.text:Predan mož in ljubeči oče
+passage.questions.10.answers.8.label:1.0
+passage.questions.10.answers.8.idx:814.0
+passage.questions.10.answers.7.text:Z emmyjem nagrajeni komik
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:813.0
+passage.questions.10.answers.6.text:Strokovnjak za lase
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:812.0
+passage.questions.10.answers.5.text:Shakespeareov igralec
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:811.0
+passage.questions.10.answers.4.text:Z emmyjem nagrajeni komik
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:810.0
+passage.questions.10.answers.3.text:Strokovnjak
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:809.0
+passage.questions.10.answers.2.text:Komik
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:808.0
+passage.questions.10.answers.1.text:Chris Rock je z emmyjem nagrajeni komik, mož, oče in strokovnjak za lase
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:807.0
+passage.questions.10.answers.0.text:Voznik taksija
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:806.0
+passage.questions.1.question:Zakaj je Chris Rock začel gledati v črne ženske lase?
+passage.questions.1.idx:149
+passage.questions.1.answers.7.text:Njegova hčerka se je belila nad belimi lasmi svoje punčke in hotel je povedati, da so tudi njeni lasje lepi
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:751.0
+passage.questions.1.answers.6.text:Zmenki
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:750.0
+passage.questions.1.answers.5.text:Dotaknite se las
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:749.0
+passage.questions.1.answers.4.text:Prijatelj njegove hčerke je vprašal o tem
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:748.0
+passage.questions.1.answers.3.text:Za razvejanje na novo polje
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:747.0
+passage.questions.1.answers.2.text:Njegove izkušnje z lasmi druge rase
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:746.0
+passage.questions.1.answers.1.text:Da bi pomagal hčerki
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:745
+passage.questions.1.answers.0.text:Roke proč
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:744
+passage.questions.0.question:Zakaj moški nimajo politike, ko gre za črne ženske lase?
+passage.questions.0.idx:148
+passage.questions.0.answers.7.text:Ženske za svojo lepoto porabijo zelo malo časa in denarja
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:743.0
+passage.questions.0.answers.6.text:Da jim ne bi dali kompleksa
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:742.0
+passage.questions.0.answers.5.text:Pogosto porabijo veliko časa in denarja, da izgleda lepo in jih ne moti pokvariti
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:741.0
+passage.questions.0.answers.4.text:Ženske porabijo toliko časa in denarja za svoje lase
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:740.0
+passage.questions.0.answers.3.text:Vključeni čas in denar
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:739.0
+passage.questions.0.answers.2.text:Da bi preprečili poškodbe
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:738.0
+passage.questions.0.answers.1.text:Razlogi za alergijo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:737
+passage.questions.0.answers.0.text:Ker kemikalije v izdelkih za lase
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:736
+idx:15

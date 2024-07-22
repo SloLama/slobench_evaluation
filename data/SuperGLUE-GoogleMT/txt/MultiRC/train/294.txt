@@ -1,0 +1,299 @@
+version:1.1
+passage.text:Ljudje so tisoče let našli fosile. Fosili so povzročali radovednost glede preteklih Zemelj. Kako so živeli ti organizmi? V kakšnem svetu so živeli? Fosili nam lahko veliko povedo o zgodovini Zemlje. V starih časih so fosili navdihovali mite in zgodbe. Te zgodbe so vključevale zgodbe o pošastih in drugih neverjetnih bitjih. Kakšno bitje poznate, ki bi lahko spodbudilo takšne zgodbe? Seveda so nekoč fosile dinozavrov zamenjali za kosti zmajev. Pred dva tisoč leti so ljudje na Kitajskem odkrili fosile. Takrat so mislili, da gre za zmajeve kosti. Zdaj vemo, da to niso bile kosti, ampak fosili. Kakšna je torej razlika?
+passage.questions.9.question:O kakšnih stvareh nam lahko govorijo fosili?
+passage.questions.9.idx:3357.0
+passage.questions.9.answers.7.text:Kako se bo borza spremenila
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:17761.0
+passage.questions.9.answers.6.text:Kako načrtovati upokojitev
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:17760.0
+passage.questions.9.answers.5.text:Katere vrste zmajev obstajajo?
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:17759.0
+passage.questions.9.answers.4.text:Kdo je bil tvoj natančni prednik
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:17758.0
+passage.questions.9.answers.3.text:Zemljina zgodovina
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:17757.0
+passage.questions.9.answers.2.text:V kakšnem svetu so živeli
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:17756.0
+passage.questions.9.answers.1.text:Zgodovina Zemlje, organizmi, ki so nekoč živeli, in kakšen je bil svet, v katerem so živeli ti organizmi.
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:17755.0
+passage.questions.9.answers.0.text:Kako stara so bila bitja
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:17754.0
+passage.questions.8.question:Kakšni so bili prvotno nekateri fosili?
+passage.questions.8.idx:3356.0
+passage.questions.8.answers.9.text:Spomeniki
+passage.questions.8.answers.9.label:0,0
+passage.questions.8.answers.9.idx:17752.0
+passage.questions.8.answers.8.text:vile
+passage.questions.8.answers.8.label:0,0
+passage.questions.8.answers.8.idx:17751.0
+passage.questions.8.answers.7.text:Kipi
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:17750.0
+passage.questions.8.answers.6.text:ptic
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:17749.0
+passage.questions.8.answers.5.text:Donald Trump
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:17748.0
+passage.questions.8.answers.4.text:Študenti
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:17747.0
+passage.questions.8.answers.3.text:zgodbe
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:17746.0
+passage.questions.8.answers.2.text:Mitske zveri
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:17745.0
+passage.questions.8.answers.10.text:Spremenjeni ljudje
+passage.questions.8.answers.10.label:0,0
+passage.questions.8.answers.10.idx:17753.0
+passage.questions.8.answers.1.text:Pošasti
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:17744.0
+passage.questions.8.answers.0.text:Neverjetna bitja
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:17743.0
+passage.questions.7.question:Kakšen vpliv so imeli fosili na ljudi v starih časih?
+passage.questions.7.idx:3355.0
+passage.questions.7.answers.7.text:Uporabljali so jih kot orožje
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:17742.0
+passage.questions.7.answers.6.text:Z lahkim dotikom bi lahko ubili človeka
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:17741.0
+passage.questions.7.answers.5.text:Če bi bili povezani z računalnikom, bi lahko oživeli
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:17740.0
+passage.questions.7.answers.4.text:Navdihnili so veliko mitov
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:17739.0
+passage.questions.7.answers.3.text:Navdihnili so veliko raziskav o zmajih
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:17738.0
+passage.questions.7.answers.2.text:Navdihnili so veliko zgodb
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:17737.0
+passage.questions.7.answers.1.text:Zamenjali so jih s kostmi
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:17736.0
+passage.questions.7.answers.0.text:Fosili so navdihnili mite in zgodbe. Te zgodbe so vključevale zgodbe o pošastih in drugih neverjetnih bitjih.
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:17735.0
+passage.questions.6.question:O katerih vprašanjih se ljudje sprašujejo zaradi fosilov?
+passage.questions.6.idx:3354.0
+passage.questions.6.answers.9.text:Je zmaj resničen?
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:17734.0
+passage.questions.6.answers.8.text:Kako velika je Zemlja?
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:17733.0
+passage.questions.6.answers.7.text:Če bi dinozavri ubijali ljudi zaradi njihove religije
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:17732.0
+passage.questions.6.answers.6.text:Če so jastogi dinozaver
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:17731.0
+passage.questions.6.answers.5.text:Če so dinozavri kolonizirali druge planete
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:17730.0
+passage.questions.6.answers.4.text:V kakšnem svetu so živeli?
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:17729.0
+passage.questions.6.answers.3.text:Katerih dinozavrov še nismo našli
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:17728.0
+passage.questions.6.answers.2.text:Kako so živeli ti organizmi?
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:17727.0
+passage.questions.6.answers.1.text:Kaj so jedli
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:17726.0
+passage.questions.6.answers.0.text:Če bi bili živi prej, kot smo mislili
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:17725.0
+passage.questions.5.question:Kaj se je zgodilo pred dva tisoč leti?
+passage.questions.5.idx:3353.0
+passage.questions.5.answers.8.text:Nastala je Kitajska
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:17724.0
+passage.questions.5.answers.7.text:Zemlja je bila ustvarjena
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:17723.0
+passage.questions.5.answers.6.text:Odkrite so bile zmajeve kosti
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:17722.0
+passage.questions.5.answers.5.text:Čas je ljudi potoval v to časovno obdobje
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:17721.0
+passage.questions.5.answers.4.text:Dinozavri so se spet dvignili
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:17720.0
+passage.questions.5.answers.3.text:Po Sibiriji so se potikali volnasti mamuti
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:17719.0
+passage.questions.5.answers.2.text:Fosile so odkrili na Kitajskem
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:17718.0
+passage.questions.5.answers.1.text:Ljudje so na Kitajskem odkrili fosile, za katere so mislili, da so zmajeve kosti, vendar so bili fosili dinozavrov.
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:17717.0
+passage.questions.5.answers.0.text:Najdeni so bili prvi fosili
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:17716.0
+passage.questions.4.question:Kaj so fosili počeli v starih časih?
+passage.questions.4.idx:3352.0
+passage.questions.4.answers.9.text:Ukradli so kraljevo krono
+passage.questions.4.answers.9.label:0,0
+passage.questions.4.answers.9.idx:17715.0
+passage.questions.4.answers.8.text:Ubijali so kmete
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:17714.0
+passage.questions.4.answers.7.text:Uporabljajte se kot orožje
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:17713.0
+passage.questions.4.answers.6.text:Nadzirali so svet
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:17712.0
+passage.questions.4.answers.5.text:Izdelajte orodje
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:17711.0
+passage.questions.4.answers.4.text:Navdihujte mite
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:17710.0
+passage.questions.4.answers.3.text:Zmotili so se, da so zmaji
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:17709.0
+passage.questions.4.answers.2.text:Navdihovali so mite in zgodbe
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:17708.0
+passage.questions.4.answers.1.text:V starih časih so fosili navdihovali mite in zgodbe, ki so vključevale zgodbe o pošastih in drugih neverjetnih bitjih.
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:17707.0
+passage.questions.4.answers.0.text:Navdihujte zgodbe
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:17706.0
+passage.questions.3.question:Na katera vprašanja so se sklicevali fosili?
+passage.questions.3.idx:3351.0
+passage.questions.3.answers.8.text:Je bil Jurski park natančen?
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:17705.0
+passage.questions.3.answers.7.text:So bili dinozavri podobni pticam?
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:17704.0
+passage.questions.3.answers.6.text:So se dinozavri obnašali kot ljudje?
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:17703.0
+passage.questions.3.answers.5.text:Od kod so bili?
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:17702.0
+passage.questions.3.answers.4.text:V kakšnem svetu so živeli?
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:17701.0
+passage.questions.3.answers.3.text:Kako so živeli ti organizmi in v kakšnem svetu so živeli?
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:17700.0
+passage.questions.3.answers.2.text:Kakšna je razlika med kostmi in fosili?
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:17699.0
+passage.questions.3.answers.1.text:Katero bitje navdihuje podobne zgodbe?
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:17698.0
+passage.questions.3.answers.0.text:Kako so živeli ti organizmi?
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:17697.0
+passage.questions.2.question:Kako dolgo nazaj in v kateri državi so bili najdeni prvi dokumentirani fosili?
+passage.questions.2.idx:3350.0
+passage.questions.2.answers.8.text:Evropi
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:17696.0
+passage.questions.2.answers.7.text:Leta 600 pred našim štetjem v Ameriki
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:17695.0
+passage.questions.2.answers.6.text:Afrika, pred 1500 leti
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:17694.0
+passage.questions.2.answers.5.text:Pred 100.000 leti v Severni Ameriki
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:17693.0
+passage.questions.2.answers.4.text:Pred 500 leti v Afriki
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:17692.0
+passage.questions.2.answers.3.text:Pred dva tisoč leti na Kitajskem
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:17691.0
+passage.questions.2.answers.2.text:pred tisočletji v Aziji
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:17690.0
+passage.questions.2.answers.1.text:Pred 2000 leti na Kitajskem
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:17689.0
+passage.questions.2.answers.0.text:Na Kitajskem so jih našli pred dva tisoč leti in naj bi bili kosti.
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:17688.0
+passage.questions.1.question:Iz česa so bile sestavljene te zgodbe?
+passage.questions.1.idx:3349.0
+passage.questions.1.answers.9.text:Kitajska
+passage.questions.1.answers.9.label:0,0
+passage.questions.1.answers.9.idx:17686.0
+passage.questions.1.answers.8.text:fosili
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:17685.0
+passage.questions.1.answers.7.text:Batman
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:17684.0
+passage.questions.1.answers.6.text:ljudje
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:17683.0
+passage.questions.1.answers.5.text:Jaka racman
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:17682.0
+passage.questions.1.answers.4.text:Zgodbe, v katerih so bile kosti pošasti in dinozavrov, so zamenjali z zmaji.
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:17681.0
+passage.questions.1.answers.3.text:Zgodbe o neverjetnih bitjih
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:17680.0
+passage.questions.1.answers.2.text:Zmaji
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:17679.0
+passage.questions.1.answers.10.text:Zemlja
+passage.questions.1.answers.10.label:0,0
+passage.questions.1.answers.10.idx:17687.0
+passage.questions.1.answers.1.text:zveri
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:17678.0
+passage.questions.1.answers.0.text:Zgodbe o pošastih
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:17677.0
+passage.questions.0.question:Kako dolgo so ljudje našli fosile in kaj so navdihnili?
+passage.questions.0.idx:3348
+passage.questions.0.answers.6.text:200, jih navdihnite z glasbo
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:17676.0
+passage.questions.0.answers.5.text:Sto let jih je navdihovalo z upanjem.
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:17675.0
+passage.questions.0.answers.4.text:60 let, jih je navdihnil z občutkom za umetnost
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:17674.0
+passage.questions.0.answers.3.text:Milijoni let so jih navdihnili z miti
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:17673.0
+passage.questions.0.answers.2.text:Na tisoče, miti in zgodbe
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:17672.0
+passage.questions.0.answers.1.text:Ljudje so tisoče let našli fosile in so navdihovali mite in zgodbe.
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:17671
+passage.questions.0.answers.0.text:Že zdavnaj, pravljice
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:17670
+idx:294

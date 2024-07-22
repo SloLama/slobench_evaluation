@@ -1,0 +1,6 @@
+choice1:Nasilnik je pobral svojega sošolca.
+choice2:Nasilnikov sošolec se je spotaknil.
+idx:274
+label:1
+premise:Nasilnik je zataknil nogo pred sošolca.
+question:effect

@@ -1,0 +1,6 @@
+choice1:Moški se je izognil svojemu sovražniku.
+choice2:Moški je izsiljeval svojega sovražnika.
+idx:223
+label:1
+premise:Moški je odkril obremenilne dokaze zoper svojega sovražnika.
+question:effect

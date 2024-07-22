@@ -1,0 +1,6 @@
+choice1:V sodni dvorani se je razburjalo.
+choice2:Žirija je objavila svojo sodbo.
+idx:15
+label:0
+premise:Sodnik je udaril v grlo.
+question:cause

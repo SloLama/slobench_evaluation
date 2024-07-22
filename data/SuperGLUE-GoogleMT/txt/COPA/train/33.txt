@@ -1,0 +1,6 @@
+choice1:Medicinska sestra je preizkusila njegove reflekse.
+choice2:Medicinska sestra mu je dala IV.
+idx:33
+label:1
+premise:Pacient je bil dehidriran.
+question:effect

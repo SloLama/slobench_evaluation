@@ -1,0 +1,216 @@
+version:1.1
+passage.text:Veliko smo se vozili - država na hrbtni strani Deauvillea, ki se oddaljuje od morja, je čudovita - zelo podobna Angliji - očarljive ozke ceste z visokimi bregovi in živo mejo na vsaki strani - velika drevesa s širijo se vejami nad glavo - odseki zelenih polj s kravami, ki se mirno pasejo, konji in kolti pa se igrajo naokoli. Je odlična pašna in rejna država. V soseščini je veliko haras (plemenskih hlevov), po velikih normanskih plakatih pa je veliko povpraševanja. Imam prijatelje, ki svojih konjev nikoli ne peljejo na deželo. Za sezono najamejo par močnih normanskih konj, ki grejo ves dan navzgor in navzdol po hribu z enakim rednim tempom in prečkajo ogromno države. Enkrat ali dvakrat smo se ustavili, ko smo bili velika zabava, dve ali tri kočije in smo si privoščili čaj v eni izmed številnih raztresenih kmečkih hiš. Vrela voda je bila težava - mleko, jabolčnik, dober kruh in maslo, sir, ki smo ga vedno našli - včasih galeta, a grelnik vode in vrela voda sta bila povsem izven njihovih navad. Vodo so kuhali v velikem črnem loncu in jo jemali z veliko žlico. Vendar nas je zabavalo in voda je res zavrela.
+passage.questions.9.question:Kje je veliko hara?
+passage.questions.9.idx:691.0
+passage.questions.9.answers.2.text:Deauville
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3643.0
+passage.questions.9.answers.1.text:Pri zvočnikih hiša prijateljev
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:3642.0
+passage.questions.9.answers.0.text:Soseščina
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:3641.0
+passage.questions.8.question:Je Deauville odlična rejna država?
+passage.questions.8.idx:690.0
+passage.questions.8.answers.1.text:Da
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3640.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3639.0
+passage.questions.7.question:Zakaj mislimo, da je govorec oseba višjega razreda?
+passage.questions.7.idx:689.0
+passage.questions.7.answers.4.text:Veliko se vozijo, včasih so del večje skupine podobnih popotnikov in pravi, da pozna veliko ljudi, ki imajo konje, ki nikoli ne gredo v državo
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:3638.0
+passage.questions.7.answers.3.text:Imajo draga oblačila
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:3637.0
+passage.questions.7.answers.2.text:Imajo prijatelje, ki so lastniki konj
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:3636.0
+passage.questions.7.answers.1.text:Zabava jih vrela voda v črnih lončkih
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:3635.0
+passage.questions.7.answers.0.text:V žepu imajo zveneče kovance
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3634.0
+passage.questions.6.question:Kje so se ustavili, kar je otežilo vrelo vodo?
+passage.questions.6.idx:688.0
+passage.questions.6.answers.3.text:Kmečke hiše
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:3633.0
+passage.questions.6.answers.2.text:Hara
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3632.0
+passage.questions.6.answers.1.text:Kmečka hiša
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3631.0
+passage.questions.6.answers.0.text:Bili smo velika zabava
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3630.0
+passage.questions.5.question:Kdo najame normanske konje?
+passage.questions.5.idx:687.0
+passage.questions.5.answers.1.text:Kmetje
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3629.0
+passage.questions.5.answers.0.text:Govorčevi prijatelji
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3628.0
+passage.questions.4.question:Ko se je avtor ustavil na čaju, je bilo mleko težko?
+passage.questions.4.idx:686.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3627.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3626.0
+passage.questions.3.question:Opišite, zakaj so živila, ki jih jedo v Deauvillu, sveža.
+passage.questions.3.idx:685.0
+passage.questions.3.answers.3.text:Imajo veliko krav, ki se pasejo
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:3625.0
+passage.questions.3.answers.2.text:Dostavljajo jih vsak dan
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3624.0
+passage.questions.3.answers.1.text:V kmečkih hišah so na voljo mleko, jabolčnik, dober kruh ter maslo in sir
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3623.0
+passage.questions.3.answers.0.text:Narejene so v harasu
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3622.0
+passage.questions.2.question:Opišite, kaj je z območjem, zaradi katerega je to dobro mesto za gojenje konj?
+passage.questions.2.idx:684.0
+passage.questions.2.answers.3.text:Bogatih ljudi je veliko
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3621.0
+passage.questions.2.answers.2.text:Veliko je sena
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3620.0
+passage.questions.2.answers.1.text:Je odlična pašna in rejna dežela
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:3619.0
+passage.questions.2.answers.0.text:Obstaja veliko dreves in polj, območje je primerno za pašo in rejo, povpraševanje pa imajo po normanskih konjih
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:3618.0
+passage.questions.17.question:Kdo za sezono najame močan normanski konj?
+passage.questions.17.idx:699.0
+passage.questions.17.answers.3.text:Govorčevi prijatelji
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:3671.0
+passage.questions.17.answers.2.text:Zvočnik
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:3670.0
+passage.questions.17.answers.1.text:Leta
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:3669.0
+passage.questions.17.answers.0.text:Prijatelji
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:3668.0
+passage.questions.16.question:Kje se povprašujejo veliki normanski plakati?
+passage.questions.16.idx:698.0
+passage.questions.16.answers.3.text:Deauville
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:3667.0
+passage.questions.16.answers.2.text:Haras
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:3666.0
+passage.questions.16.answers.1.text:Plakati, po katerih je veliko povpraševanja
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:3665.0
+passage.questions.16.answers.0.text:Hlevi za hleb
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:3664.0
+passage.questions.15.question:Kdo v prehodu ni navajen vreti vodo?
+passage.questions.15.idx:697.0
+passage.questions.15.answers.3.text:Prebivalci Deauvillea
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:3663.0
+passage.questions.15.answers.2.text:Mleko, jabolčnik, dober kruh in maslo
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:3662.0
+passage.questions.15.answers.1.text:Govorčevi prijatelji
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:3661.0
+passage.questions.15.answers.0.text:Zvočnik
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:3660.0
+passage.questions.14.question:Kaj je zabavalo avtorja in njegove spremljevalce?
+passage.questions.14.idx:696.0
+passage.questions.14.answers.3.text:Vrelo vodo v velikem črnem loncu in jo z veliko žlico vzamemo ven
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:3659.0
+passage.questions.14.answers.2.text:Normanski konji
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:3658.0
+passage.questions.14.answers.1.text:Krave na paši
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:3657.0
+passage.questions.14.answers.0.text:Veliki črni lonci
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:3656.0
+passage.questions.13.question:Ali je v državi na zadnji strani Deauvillea veliko kmečkih hiš?
+passage.questions.13.idx:695.0
+passage.questions.13.answers.1.text:Da
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:3655.0
+passage.questions.13.answers.0.text:Ne
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:3654.0
+passage.questions.12.question:Kaj se uporablja za kuhanje mleka, jabolčnika, dobrega kruha, masla in sira?
+passage.questions.12.idx:694.0
+passage.questions.12.answers.5.text:Kamin
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:3653.0
+passage.questions.12.answers.4.text:Velik črn lonec
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:3652.0
+passage.questions.12.answers.3.text:Velika žlica
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:3651.0
+passage.questions.12.answers.2.text:Kotliček
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:3650.0
+passage.questions.12.answers.1.text:Črni lonec
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:3649.0
+passage.questions.12.answers.0.text:Predsednik
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:3648.0
+passage.questions.11.question:Kateri kraj je velika pašna in rejna država?
+passage.questions.11.idx:693.0
+passage.questions.11.answers.1.text:Deauville
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:3647.0
+passage.questions.11.answers.0.text:London
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3646.0
+passage.questions.10.question:Ali ima kraj, kjer njegovi prijatelji nikoli ne vodijo konjev, veliko hara?
+passage.questions.10.idx:692.0
+passage.questions.10.answers.1.text:Da
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:3645.0
+passage.questions.10.answers.0.text:Ne
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:3644.0
+passage.questions.1.question:Na zadnji strani katere države bi lahko opazili veliko haras (vzrejnih hlevov)?
+passage.questions.1.idx:683.0
+passage.questions.1.answers.2.text:Deauville
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3617.0
+passage.questions.1.answers.1.text:London
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3616.0
+passage.questions.1.answers.0.text:Reja
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:3615.0
+passage.questions.0.question:V zadnji državi katere države so veliki normanski plakati?
+passage.questions.0.idx:682
+passage.questions.0.answers.1.text:Deauville
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3614
+passage.questions.0.answers.0.text:Normandija
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3613
+idx:57

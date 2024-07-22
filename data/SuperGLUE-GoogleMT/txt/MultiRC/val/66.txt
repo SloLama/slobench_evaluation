@@ -1,0 +1,160 @@
+version:1.1
+passage.text:Nova obzorja: Španija, izčrpana po državljanski vojni, je med drugo svetovno vojno ostala ob strani in začela gospodarsko okrevati pod zatiralnim Francovim režimom javnega reda in miru. V dvajsetih letih prejšnjega stoletja je bilo nagovarjanja elitnega tujega turizma, vendar je bilo konec petdesetih let prejšnjega stoletja, ko je ostala Evropa začela v Soncu iskati romanja v Španijo. Turizem je eksplodiral v letno južno migracijo, ki je preoblikovala špansko gospodarstvo, krajino in družbo. V želji, da bi jo izkoristila, je država svojo dušo vlila v množični turizem, ki je sprožil izpuščaj neselektivnih stavb na južni in vzhodni obali, ob skromnem upoštevanju tradicije ali estetike. Toda po toliko letih, zaprtih od ostale Evrope, je bil enako pomemben vbrizg tujih vplivov v Francovo nekoč hermetično zaprto Španijo. Še posebej Mallorca in Menorca sta zaznamovala eksplozivno rast turizma; do sedemdesetih let so bili Baleari eno najbolj priljubljenih evropskih počitniških destinacij. Franco je za svojega naslednika imenoval vnuka Alfonsa XIII., Ki je bil ustoličen za kralja Juana Carlosa I, ko je diktator umrl leta 1975. Na zaskrbljenost Franca Diehards je kralj briljantno vodil prehod v demokracijo, nato pa se je postavil nazaj , celo posredovanje med kratkim poskusom vojaškega udara. Po dolgih letih represije so bile španskim regijam, vključno z Baleari, podeljene nove svoboščine in avtonomija, njihovi jeziki in kulture pa so doživele dolgo želeno renesanso. Španija, ki je bila bolj del Evrope kot kdaj koli prej, se je leta 1986 pridružila Evropski skupnosti (danes Evropska unija), kar je dodatno spodbudilo cvetoče gospodarstvo. Turistična industrija se je še naprej širila, in čeprav je postala ena izmed prvih dveh dohodkov v Španiji, je začelo naraščati tudi spoznanje, da neomejen množični turizem vodi do škodljivih dolgoročnih posledic. Konec devetdesetih let se je nov poudarek na kakovosti in, zlasti na Balearih, na varovanju okolja končno ukoreninil - prepozno za mnoge okoljevarstvenike, vendar upam, da je še pravočasno ohranil večino naravnih lepot in edinstvenega značaja Las Islas Baleares.
+passage.questions.7.question:Katero leto se je Španija pridružila Evropski skupnosti (zdaj Evropska unija) in kakšne učinke je imela (1 pozitiven in 1 negativen)?
+passage.questions.7.idx:770.0
+passage.questions.7.answers.4.text:1950. Druga svetovna vojna se je končala. Okolje je trpelo
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:3824.0
+passage.questions.7.answers.3.text:1986. Turizem se je še naprej širil. Neomejen turizem je privedel do dolgoročnih posledic
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3823.0
+passage.questions.7.answers.2.text:1970
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3822.0
+passage.questions.7.answers.1.text:1975. Turizem se je še naprej širil. Kralj je umrl
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:3821.0
+passage.questions.7.answers.0.text:1986
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3820.0
+passage.questions.6.question:Kdaj je Španija začela širiti turizem in kakšen je bil vpliv na Španijo?
+passage.questions.6.idx:769.0
+passage.questions.6.answers.5.text:Druga svetovna vojna si je Španija gospodarsko opomogla
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:3819.0
+passage.questions.6.answers.4.text:Konec petdesetih let se je okrepilo špansko gospodarstvo
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:3818.0
+passage.questions.6.answers.3.text:Konec devetdesetih let se je ohranila španska naravna lepota
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3817.0
+passage.questions.6.answers.2.text:Konec petdesetih let, pozitiven vpliv na Španijo (gospodarstvo, krajina in družba)
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:3816.0
+passage.questions.6.answers.1.text:Konec 1850-ih
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:3815.0
+passage.questions.6.answers.0.text:Povečana regulacija trgovine
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3814.0
+passage.questions.5.question:Kdaj je turizem v Španiji eksplodiral v letno južno migracijo?
+passage.questions.5.idx:768.0
+passage.questions.5.answers.3.text:Dvajseta leta 20. stoletja
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:3813.0
+passage.questions.5.answers.2.text:Konec petdesetih let
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3812.0
+passage.questions.5.answers.1.text:1975
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3811.0
+passage.questions.5.answers.0.text:1986
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3810.0
+passage.questions.4.question:Zakaj se je konec devetdesetih let v Španiji zaživel nov poudarek na kakovosti in varovanju okolja?
+passage.questions.4.idx:767.0
+passage.questions.4.answers.6.text:Novi politiki so bili okoljevarstveniki
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:3809.0
+passage.questions.4.answers.5.text:Želeli so ohraniti lepoto in edinstven značaj dežele
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:3808.0
+passage.questions.4.answers.4.text:Naraščajoča turistična industrija je škodovala okolju
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:3807.0
+passage.questions.4.answers.3.text:Neomejen množični turizem je naredil svoj davek na okolje
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3806.0
+passage.questions.4.answers.2.text:Ugotovili so, da neomejen množični turizem vodi v dolgoročne škodljive posledice
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3805.0
+passage.questions.4.answers.1.text:Kralj Juan Carlos I je bil okoljevarstvenik
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3804.0
+passage.questions.4.answers.0.text:Španija se je pridružila Evropski skupnosti
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3803.0
+passage.questions.3.question:Zakaj je bila Španija tako osamljena in kakšen dogodek je omogočil Mallorci in Menorci eksplozije v turizmu?
+passage.questions.3.idx:766.0
+passage.questions.3.answers.5.text:Druga svetovna vojna je izolirala Španijo in pridružitev Španije Evropski skupnosti je Mallorci in Menorci omogočila eksplozije v turizmu.
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:3802.0
+passage.questions.3.answers.4.text:Francosko zatiralsko pravilo
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:3801.0
+passage.questions.3.answers.3.text:Konec Francove vladavine
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:3800.0
+passage.questions.3.answers.2.text:Španijo so obkrožili sovražniki
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3799.0
+passage.questions.3.answers.1.text:Franco je izoliral Španijo, toda vbrizg tujega vpliva je Mallorci in Menorci omogočil eksplozije v turizmu
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3798.0
+passage.questions.3.answers.0.text:Kralj Juan Carlos I je izoliral Španijo in njegova smrt je Mallorci in Menorci omogočila eksplozije v turizmu
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3797.0
+passage.questions.2.question:Zakaj v času Francovega režima v Španiji ni bil zelo visok turizem in kaj se je zgodilo, kar omogoča, da se turizem povečuje?
+passage.questions.2.idx:765
+passage.questions.2.answers.5.text:Franco je Španijo izoliral od ostale Evrope
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:3796.0
+passage.questions.2.answers.4.text:Franco je vodil zatiralski režim in želja po kapitalizaciji je omogočila povečanje turizma
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:3795.0
+passage.questions.2.answers.3.text:Franco je Španijo izoliral od Evrope in ko so ga odstavili z oblasti, so se v drugih mestih, kot sta Mallorca in Menorca, začeli povečevati turizem.
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:3794.0
+passage.questions.2.answers.2.text:Franco je zavrnil tujce in njegova smrt je omogočila, da se je turizem povečal
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3793.0
+passage.questions.2.answers.1.text:Manjkalo je turističnih krajev
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3792
+passage.questions.2.answers.0.text:Franco je izoliral Španijo, toda druga svetovna vojna je spodbudila turizem
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:3791
+passage.questions.1.question:Kateri kralj je v Španijo prinesel demokracijo in je bila demokracija uspešna?
+passage.questions.1.idx:764
+passage.questions.1.answers.6.text:Kralj Juan Carlos I je v Španijo prinesel uspešno demokracijo
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:3790.0
+passage.questions.1.answers.5.text:Franco
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:3789.0
+passage.questions.1.answers.4.text:Franco je v Španijo prinesel uspešno demokracijo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:3788.0
+passage.questions.1.answers.3.text:Kralj Juan Carlos I
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:3787.0
+passage.questions.1.answers.2.text:Alfonso XIII
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3786.0
+passage.questions.1.answers.1.text:Kralj Juan Carlos I in demokracija doživljata nekaj odpora v obliki vojaških udarov, nato pa sta doživela nove svoboščine in avtonomijo
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:3785
+passage.questions.1.answers.0.text:Alfonso XIII je v Španijo prinesel neuspešno demokracijo
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3784
+passage.questions.0.question:Kateri pomemben dogodek je državo Španijo tako želel izkoristiti za množični turizem?
+passage.questions.0.idx:763
+passage.questions.0.answers.5.text:Smrt diktatorja
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:3783.0
+passage.questions.0.answers.4.text:druga svetovna vojna
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:3782.0
+passage.questions.0.answers.3.text:Turizem v Španiji eksplodira v letno južno migracijo, ki je spremenila špansko gospodarstvo, krajino in družbo
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3781.0
+passage.questions.0.answers.2.text:Kralj Juan Carlos I je prišel na oblast
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3780.0
+passage.questions.0.answers.1.text:Francova smrt
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3779
+passage.questions.0.answers.0.text:Letna migracija na jug
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3778
+idx:66

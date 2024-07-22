@@ -1,0 +1,116 @@
+version:1.1
+passage.text:Let iz Los Angelesa v Nashville je preusmerjen na pristanek v Las Vegasu v Nevadi, ko eden od potnikov Ralph Bundt postane nasilen in napade stevardeso. Ralpha je ugriznil hrček, ki je res laboratorijska podgana, ki ga je Henry pripeljal na letalo za svoje učence. Ralph je zadržan, vendar šele preden ugrizne stevardeso Paulo. Letalo je prisilno prisilno pristalo v Las Vegasu, in ko pristane, ga kontrolor zračnega prometa noče približati vratom. Kapetan Forrest in njegov kopilot Willsy, ki ne upošteva ukazov, najdeta pomol, ki ga upravlja prtljažnik Ed Ramirez. Skoraj vsi evakuirajo letalo, razen starejšega para Bev Stevens in njenega paraliziranega nemega moža Doca Stevensa ter pilotov, ki skušajo zadržati nasilnega Ralpha v kopalnici letala. Izvedejo pa, da so zaprti z letališča. Kmalu oboroženi vojaki in nekateri znanstveniki CDC obkrožajo terminal. Ena od potnic, vojaška zdravnica po imenu Shilah Washington, razkriva, da ima v torbi v tovornem prostoru letala medicinski komplet. Glavna stevardesa Jenny, Henry, Ed, Nial Britz in Preston se prikradejo nazaj v letalo, da ga vzamejo. Vzamejo Shilahov komplet in Nialovo pištolo in poskušajo zapustiti skladišče. Medtem ko je v letalu, Jenny napada okuženi kapitan Forrest in Nial ga ustreli in ubije, vendar se zdi, da je nekaj kapetanove krvi prišlo v oko Nial.
+passage.questions.6.question:Koga ugrizne Ralph, ko postane nasilen?
+passage.questions.6.idx:228.0
+passage.questions.6.answers.4.text:Letalo
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:1185.0
+passage.questions.6.answers.3.text:Hrček
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:1184.0
+passage.questions.6.answers.2.text:Paula
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:1183.0
+passage.questions.6.answers.1.text:Stevardesa Paula
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:1182.0
+passage.questions.6.answers.0.text:Las Vegas
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:1181.0
+passage.questions.5.question:Ali se je letalo smelo približati vratom, zakaj ali zakaj ne?
+passage.questions.5.idx:227.0
+passage.questions.5.answers.4.text:Da
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:1180.0
+passage.questions.5.answers.3.text:Ne
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:1179.0
+passage.questions.5.answers.2.text:Ker so bili njihovi okuženi potniki na letu
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:1178.0
+passage.questions.5.answers.1.text:Ker je prišlo do izrednih razmer
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:1177.0
+passage.questions.5.answers.0.text:Ne, ker je potnik postal nasilen
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:1176.0
+passage.questions.4.question:Je letalo z laboratorijsko podgano pristalo v Las Vegasu?
+passage.questions.4.idx:226.0
+passage.questions.4.answers.2.text:Da
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:1175.0
+passage.questions.4.answers.1.text:Hrček
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:1174.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:1173.0
+passage.questions.3.question:Kaj je bil prvotni cilj letala in kje je pristalo?
+passage.questions.3.idx:225.0
+passage.questions.3.answers.2.text:Nashville
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:1172.0
+passage.questions.3.answers.1.text:Los Angeles
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:1171.0
+passage.questions.3.answers.0.text:Nevada
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:1170.0
+passage.questions.2.question:Kje je Ralph, potem ko ga je hrček ugriznil?
+passage.questions.2.idx:224
+passage.questions.2.answers.3.text:Letalski sedež
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:1169.0
+passage.questions.2.answers.2.text:Letalska kopalnica
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:1168.0
+passage.questions.2.answers.1.text:Spalnica
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:1167
+passage.questions.2.answers.0.text:Terminal
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:1166
+passage.questions.1.question:Ljudje se vrnejo nazaj na letalo po kaj?
+passage.questions.1.idx:223
+passage.questions.1.answers.5.text:Zabavno
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:1165.0
+passage.questions.1.answers.4.text:Seks
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:1164.0
+passage.questions.1.answers.3.text:Medicinski komplet
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:1163.0
+passage.questions.1.answers.2.text:Zlato
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:1162.0
+passage.questions.1.answers.1.text:Hudiča
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:1161
+passage.questions.1.answers.0.text:Led
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:1160
+passage.questions.0.question:Kaj povzroči, da Ralph ugrizne stevardeso?
+passage.questions.0.idx:222
+passage.questions.0.answers.6.text:Psyco
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:1159.0
+passage.questions.0.answers.5.text:Ralph se je okužil, ker ga je ugriznila ptica
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:1158.0
+passage.questions.0.answers.4.text:Ugriznila ga je laboratorijska podgana
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:1157.0
+passage.questions.0.answers.3.text:Ralph se je okužil, ker ga je ugriznil hrček, ki je res laboratorijska podgana
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:1156.0
+passage.questions.0.answers.2.text:Laboratorijska podgana
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:1155.0
+passage.questions.0.answers.1.text:Spolni užitek
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1154
+passage.questions.0.answers.0.text:Ugriznil hrček
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:1153
+idx:20

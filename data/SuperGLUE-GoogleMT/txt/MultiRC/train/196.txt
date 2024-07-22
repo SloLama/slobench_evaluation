@@ -1,0 +1,147 @@
+version:1.1
+passage.text:Težko je dobiti pravno pomoč za teptane ženske. Toda v okrožju Tarrant je bilo malo lažje najti. Ta mesec je zvezni urad za nasilje nad ženskami podelil dveletno nepovratna sredstva v višini 350.000 ameriških dolarjev za žensko pristanišče okrožja Tarrant. Denar bo zatočišču omogočil, da svojemu osebju doda drugega rednega odvetnika in sklene pogodbo s kliniko pravne fakultete na univerzi Texas Wesleyan za pro bono in študentske storitve. Najpomembneje je, da bodo sredstva pomagala zapolniti frustrirajočo vrzel. Ženska hiša, ki žrtvam nasilja v družini nudi zatočišče in doseg, že ima polno zaposlenega odvetnika. Toda tej osebi je (s parametri financiranja) prepovedano zastopati ženske v razvezi zakonske zveze ali skrbništvu nad otrokom. To za večino ubogih prebivalcev zavetišča ni težava, ki lahko brezplačno dostopa do pravne pomoči lokalno pri pravnih službah Zahodnega Teksasa. Toda veliko strank, ki jih oskrbujejo programi Women Haven, so revni delavci, ki niso upravičeni do brezplačnih pravnih storitev. Ločitve in bitke za skrbništvo so preprosto izven njihovega finančnega dosega. &quot;Ne morejo začeti prihraniti dovolj denarja za ločitev, zato so zaljubljeni,&quot; pravi Sonyia Hartwell, pridružena direktorica Women&#39;s Haven. &quot;Popolnoma so izključeni iz civilnopravnega sistema.&quot; V Teksasu, za razliko od nekaterih drugih držav, ženske, ki niso ločene, ne morejo popolnoma nadzorovati svojega dela premoženja. In ne morejo dobiti preživnine za otroka. Nepovratna sredstva bodo študentom prava zagotovila tudi dragocene izkušnje pri obravnavanju teh vrst primerov. &quot;Ne morejo na sodišče, lahko pa se pogovarjajo s strankami in opravijo vsa začetna dela, ki jih je treba opraviti&quot;, pa tudi preiskovalno delo, pravi Hartwell. In žrtev zlorabe, ki potrebujejo tovrstno pomoč, ne manjka. &quot;V 60 dneh po obešanju njenega ali njegovega skodle,&quot; pravi Hartwell iz še nepovezanega novega odvetnika, &quot;bomo imeli aktivnih 20 ali več primerov.&quot;
+passage.questions.8.question:Kdo je malo lažje najti v okrožju Tarrant?
+passage.questions.8.idx:2203.0
+passage.questions.8.answers.3.text:Iskanje zavetišč za tepene ženske
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:11542.0
+passage.questions.8.answers.2.text:Pomoč za dobro počutje
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:11541.0
+passage.questions.8.answers.1.text:Brezplačne pravne storitve
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:11540.0
+passage.questions.8.answers.0.text:Pravna pomoč zapolnjenim ženskam
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:11539.0
+passage.questions.7.question:Zakaj delajoči revni predstavljajo težavo pri pravni pomoči?
+passage.questions.7.idx:2202.0
+passage.questions.7.answers.6.text:Ne izpolnjujejo pogojev
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:11538.0
+passage.questions.7.answers.5.text:Popolnoma so izključeni iz civilnopravnega sistema
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:11537.0
+passage.questions.7.answers.4.text:V okrožju Tarrant ni nobenih težav
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:11536.0
+passage.questions.7.answers.3.text:Ne izpolnjujejo pogojev za brezplačne pravne storitve, zato ne morejo vložiti zahtevka za skrbništvo ali ločitev, ker stane preveč denarja. Popolnoma so izrezani iz pravnega sistema, zato se zataknejo
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:11535.0
+passage.questions.7.answers.2.text:Zaljubljeni so
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:11534.0
+passage.questions.7.answers.1.text:To nima učinka
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:11533.0
+passage.questions.7.answers.0.text:Lahko si privoščijo pravno pomoč
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:11532.0
+passage.questions.6.question:Kdo je &quot;popolnoma izključen iz civilnopravnega sistema&quot;?
+passage.questions.6.idx:2201.0
+passage.questions.6.answers.3.text:Bogataši
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:11531.0
+passage.questions.6.answers.2.text:Revni revni
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:11530.0
+passage.questions.6.answers.1.text:Uboge ločenke
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:11529.0
+passage.questions.6.answers.0.text:Onemogočeno
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:11528.0
+passage.questions.5.question:Kaj je drugače od življenja v Teksasu, če niste ločena ženska?
+passage.questions.5.idx:2200.0
+passage.questions.5.answers.5.text:Ne morem pridobiti preživnine za otroka
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:11527.0
+passage.questions.5.answers.4.text:Nadzor nad premoženjem
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:11526.0
+passage.questions.5.answers.3.text:Ženske, ki niso ločene, ne morejo dobiti popolnega nadzora nad svojim delom premoženja. In ne morejo dobiti preživnine za otroka
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:11525.0
+passage.questions.5.answers.2.text:Brez nadzora nad sredstvi
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:11524.0
+passage.questions.5.answers.1.text:Ne morete dobiti preživnine za otroka
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:11523.0
+passage.questions.5.answers.0.text:Ne moreš dobiti blaginje
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:11522.0
+passage.questions.4.question:Kaj bo lahko Women Haven dodala s svojim nepovratnim sredstvi?
+passage.questions.4.idx:2199.0
+passage.questions.4.answers.4.text:Več pravne pomoči
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:11521.0
+passage.questions.4.answers.3.text:Drugi odvetnik za polni delovni čas
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:11520.0
+passage.questions.4.answers.2.text:Dodajte več prostora v zavetiščih
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:11519.0
+passage.questions.4.answers.1.text:Več hrane
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:11518.0
+passage.questions.4.answers.0.text:Dodajte še enega rednega odvetnika in sklenite pogodbo s kliniko pravne fakultete na univerzi Texas Wesleyan za pro bono in študentske storitve
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:11517.0
+passage.questions.3.question:V kateri okrožju so pretepane ženske zdaj malo lažje najti pravno pomoč?
+passage.questions.3.idx:2198.0
+passage.questions.3.answers.3.text:Okrožje Tarrant
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:11516.0
+passage.questions.3.answers.2.text:Midland
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:11515.0
+passage.questions.3.answers.1.text:Okrožje Porter
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:11514.0
+passage.questions.3.answers.0.text:Tarrant
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:11513.0
+passage.questions.2.question:V kakšnem stanju ženske ne morejo pridobiti preživnine, če niso zakonito ločene?
+passage.questions.2.idx:2197.0
+passage.questions.2.answers.3.text:Oklahoma
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:11512.0
+passage.questions.2.answers.2.text:Okrožje Tarrant
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:11511.0
+passage.questions.2.answers.1.text:Teksas
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:11510.0
+passage.questions.2.answers.0.text:Kalifornija
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:11509.0
+passage.questions.1.question:V kateri državi ženske, ki niso ločene, ne morejo dobiti preživnine?
+passage.questions.1.idx:2196.0
+passage.questions.1.answers.4.text:Oklahoma
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:11508.0
+passage.questions.1.answers.3.text:TX
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:11507.0
+passage.questions.1.answers.2.text:Okrožje Tarrant
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:11506.0
+passage.questions.1.answers.1.text:Teksas
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:11505.0
+passage.questions.1.answers.0.text:Kalifornija
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:11504.0
+passage.questions.0.question:Zahvaljujoč se nepovratnim sredstvom, katero zavetišče bo zdaj lahko zaposlenemu dodalo drugega rednega odvetnika in sklenilo pogodbo z univerzo Texas Wesleyan za pro bono in študentske storitve?
+passage.questions.0.idx:2195
+passage.questions.0.answers.2.text:Ženska varna hiša okrožja Haven
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:11503.0
+passage.questions.0.answers.1.text:Zavetišča okrožja Tarrant
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:11502
+passage.questions.0.answers.0.text:Ženska havana okrožja Tarrant
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:11501
+idx:196

@@ -1,0 +1,6 @@
+choice1:Bila je močno podpluta.
+choice2:Bila je močno okužena.
+idx:314
+label:1
+premise:Zdravniki so pacientu amputirali nogo.
+question:cause

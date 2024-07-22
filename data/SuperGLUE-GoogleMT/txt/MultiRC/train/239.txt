@@ -1,0 +1,236 @@
+version:1.1
+passage.text:Zastopanje na sodišču je lahko težavno početje. Obstajajo zmedeni pravni izrazi za učenje, strogi postopki, ki jih je treba upoštevati, in številni primeri sodne prakse, ki jih je pogosto treba razumeti za pripravo primera. Uradniki okrožja Lake in zasebna agencija, ki pomaga siromašnim strankam v Illinoisu, si želijo olajšati prakso z ustanovitvijo centra za samopomoč ljudem, ki se odločijo zastopati v pravnih zadevah. Center, ki bo v pravni knjižnici na glavni sodni palači v Waukeganu, bi se lahko odprl pozneje poleti. &quot;Mislim, da bo to zelo koristno,&quot; je dejal sodni upravitelj Bob Zastany. &quot;Obstaja prebivalstvo, ki bo izkoristilo ta vir.&quot; Center za samopomoč bo edini te vrste v okrožju. Le nekateri delujejo po vsej državi, so dejali uradniki. Projekt je delo uradnikov okrožnega sodišča Lake County in državne pravne službe Prairie, državne agencije s sedežem v Waukeganu, ki zagotavlja informacije in pravno pomoč revnim in ostarelim prebivalcem Illinoisa. Organizacija je prejela donacijo v višini 25.000 ameriških dolarjev od neprofitne skupine Illinois Equal Justice Foundation, ki financira programe, namenjene povečanju dostopa do pravnih informacij in pomoči, da bi plačala trud. Prerijska država bo denar delila okrožju. Okrožna pravna knjižnica je v prvem nadstropju vladnega centra na naslovu 18 N. St. Novi center za samopomoč bo zasnovan tako, da strankam v sporu pomaga najti informacije, ki jih potrebujejo za pravilno zastopanje na sodišču, kar je lahko zapleteno in zmedeno. &quot;Nekateri se lahko sami počutijo dobro, nekateri pa z nekaj pomoči,&quot; je povedala Linda Rothnagel, generalna odvetnica za državno pravno službo Prairie. &quot;Toda drugi ljudje tega ne zmorejo. Ni vedno lahko.&quot; Samozastopanje je pravica, ki jo potrjuje vrhovno sodišče ZDA. Praksa je veliko bolj pogosta v civilnih zadevah kot v kazenskih zadevah. Pravzaprav so samozastopane stranke v sporu - v latinskem jeziku formalno imenovane &quot;pro se&quot; ali &quot;zase&quot; - v kazenskem zagovoru tako redke, da se statistika o tej praksi praviloma ne vodi, pravijo pravni strokovnjaki.
+passage.questions.9.question:Ali je samozastopanje pogostejše v civilnih ali kazenskih zadevah?
+passage.questions.9.idx:2641.0
+passage.questions.9.answers.5.text:Ljudje imajo civilne zadeve zelo težke, zato so pogostejše v kazenskih zadevah
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:13935.0
+passage.questions.9.answers.4.text:Kazenske zadeve
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:13934.0
+passage.questions.9.answers.3.text:Civilne zadeve
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:13933.0
+passage.questions.9.answers.2.text:Nobena ni pogosta
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:13932.0
+passage.questions.9.answers.1.text:Pogostejša je v kazenskih zadevah
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:13931.0
+passage.questions.9.answers.0.text:Oba sta pogosta
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:13930.0
+passage.questions.8.question:Katera organizacija je od fundacije Illinois Equal Justice Foundation prejela 25.000 USD nepovratnih sredstev?
+passage.questions.8.idx:2640.0
+passage.questions.8.answers.3.text:18 N. County St. v Lake County
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:13929.0
+passage.questions.8.answers.2.text:Vrhovno sodišče ZDA
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:13928.0
+passage.questions.8.answers.1.text:Pravna knjižnica Lake County
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:13927.0
+passage.questions.8.answers.0.text:Pravne storitve okrožja Lake
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:13926.0
+passage.questions.7.question:Kako nastaja center?
+passage.questions.7.idx:2639.0
+passage.questions.7.answers.6.text:V skupnem prizadevanju uradnikov okrožnega sodišča v okrožju Lake County in pravne službe Prairie [9] s pomočjo donacije Fundacije za enakopravnost v višini 25.000 USD [10]
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:13925.0
+passage.questions.7.answers.5.text:Pravne službe države Prairie
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:13924.0
+passage.questions.7.answers.4.text:Pravna knjižnica
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:13923.0
+passage.questions.7.answers.3.text:Z nepovratnimi sredstvi Illinois Foundation for Equality Justice v višini 25.000 USD
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:13922.0
+passage.questions.7.answers.2.text:S pomočjo donacije Prairie State Legal Services
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:13921.0
+passage.questions.7.answers.1.text:Z donacijo 30.000 dolarjev iz okrožja Lake
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:13920.0
+passage.questions.7.answers.0.text:Z nepovratnimi sredstvi Illinois Fundacije za enakopravnost
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:13919.0
+passage.questions.6.question:Zakaj je zastopanje sebe na sodišču lahko &quot;težavno prizadevanje&quot;?
+passage.questions.6.idx:2638.0
+passage.questions.6.answers.9.text:Obseg sodne prakse
+passage.questions.6.answers.9.label:1.0
+passage.questions.6.answers.9.idx:13917.0
+passage.questions.6.answers.8.text:Zaradi nejasnega pravnega jezika
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:13916.0
+passage.questions.6.answers.7.text:Zaradi pomanjkanja pravnih knjig
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:13915.0
+passage.questions.6.answers.6.text:Zaradi novih pogojev za učenje, postopkov, ki jih je treba upoštevati, in sodne prakse za razumevanje
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:13914.0
+passage.questions.6.answers.5.text:Zmedeni pravni izrazi
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:13913.0
+passage.questions.6.answers.4.text:Zaradi tajnih postopkov
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:13912.0
+passage.questions.6.answers.3.text:Zaradi vključenih pravnih pogojev in strogih postopkov ter obsega sodne prakse, ki jo je treba razumeti
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:13911.0
+passage.questions.6.answers.2.text:Ker želijo okrožni uradniki in zasebne agencije to &quot;zapleteno delo&quot;
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:13910.0
+passage.questions.6.answers.10.text:Ker obstajajo postopki in sodna praksa, ki si jih je treba zapomniti, in stroge pravne zahteve za razumevanje
+passage.questions.6.answers.10.label:0,0
+passage.questions.6.answers.10.idx:13918.0
+passage.questions.6.answers.1.text:Zmedeni pravni izrazi, strogi postopki in potreba po razumevanju sodne prakse
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:13909.0
+passage.questions.6.answers.0.text:Strogi postopki
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:13908.0
+passage.questions.5.question:Kaj meni sodni upravitelj Bob Zastany, da bo zelo koristno?
+passage.questions.5.idx:2637.0
+passage.questions.5.answers.6.text:Uporaba fundacije za enakopravnost v Illinoisu
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:13907.0
+passage.questions.5.answers.5.text:Pravna pomoč revnim in starejšim prebivalcem Illinoisa
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:13906.0
+passage.questions.5.answers.4.text:Center za samopomoč za stranke v sporu, ki so izbrale samozastopanje
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:13905.0
+passage.questions.5.answers.3.text:Center za samopomoč za ljudi, ki se odločijo zastopati v pravnih zadevah
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:13904.0
+passage.questions.5.answers.2.text:Uporaba centra za samopomoč v sporu bo zelo koristna
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:13903.0
+passage.questions.5.answers.1.text:Uporaba uslužbencev okrožnega sodišča Lake County bo zelo koristna
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:13902.0
+passage.questions.5.answers.0.text:Prisotnost centra za samopomoč
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:13901.0
+passage.questions.4.question:Katera dejstva o samozastopanju?
+passage.questions.4.idx:2636.0
+passage.questions.4.answers.7.text:Običajno se uporablja na vrhovnem sodišču ZDA
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:13900.0
+passage.questions.4.answers.6.text:Pogosto v civilnih zadevah
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:13899.0
+passage.questions.4.answers.5.text:To je pravica, ki jo je potrdilo vrhovno sodišče ZDA, najpogostejša je v civilnih zadevah in se je uradno imenovala &quot;pro se&quot;
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:13898.0
+passage.questions.4.answers.4.text:Formalno se v latinščini imenuje &quot;pro se&quot;
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:13897.0
+passage.questions.4.answers.3.text:Pravica, ki jo potrjuje vrhovno sodišče ZDA
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:13896.0
+passage.questions.4.answers.2.text:Obstaja veliko pravnih izrazov, ki se jih je treba naučiti, pogostejši je v kazenskih kot v civilnih zadevah, včasih pa so ga imenovali &quot;pro bono&quot; zastopanje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:13895.0
+passage.questions.4.answers.1.text:Samozastopanje je lahko težko zaradi pravne terminologije, obsega sodne prakse, ki ga je mogoče razumeti, in strogih postopkov, ki jih je treba upoštevati
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:13894.0
+passage.questions.4.answers.0.text:Običajno se uporablja v jezerskem okrožju
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:13893.0
+passage.questions.3.question:Kdo ustvarja center za samopomoč, ki bo v pravni knjižnici na ulici N. N. County?
+passage.questions.3.idx:2635.0
+passage.questions.3.answers.7.text:Zasebna agencija, ki pomaga bogatim strankam v sporu in uradnikom Lake Community College
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:13892.0
+passage.questions.3.answers.6.text:Pravna knjižnica
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:13891.0
+passage.questions.3.answers.5.text:Uradniki okrožja Lake in zasebna agencija
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:13890.0
+passage.questions.3.answers.4.text:Neodvisna agencija, ki pomaga tako revnim kot uradnikom okrožja Lake
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:13889.0
+passage.questions.3.answers.3.text:Uradniki okrožja Lake
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:13888.0
+passage.questions.3.answers.2.text:Uradniki okrožja Lake in zasebna agencija, ki pomaga siromašnim strankam v Illinoisu, imenovane Prairie Legal Services
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:13887.0
+passage.questions.3.answers.1.text:Vrhovno sodišče ZDA
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:13886.0
+passage.questions.3.answers.0.text:Fundacija za enakopravnost v Illinoisu
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:13885.0
+passage.questions.2.question:Kje je center za samopomoč?
+passage.questions.2.idx:2634.0
+passage.questions.2.answers.6.text:Okrožna knjižnica [4] v prvem nadstropju vladnega središča [12]
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:13884.0
+passage.questions.2.answers.5.text:V pravni knjižnici sodnega upravitelja Boba Zastanyja na naslovu 18 S. Country St
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:13883.0
+passage.questions.2.answers.4.text:Pravne službe države Prairie
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:13882.0
+passage.questions.2.answers.3.text:V uradu za pravne službe okrožja Lake
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:13881.0
+passage.questions.2.answers.2.text:Lake County
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:13880.0
+passage.questions.2.answers.1.text:V 1. nadstropju vladnega centra na naslovu 18 N. County, Waukegan
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:13879.0
+passage.questions.2.answers.0.text:V pravni knjižnici na glavni sodni palači v Waukeganu
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:13878.0
+passage.questions.1.question:Kakšen bo namen centra, ki bo nameščen v pravni knjižnici na glavni sodni palači v Waukeganu?
+passage.questions.1.idx:2633.0
+passage.questions.1.answers.6.text:Center bo center za samopomoč ljudem, ki se zastopajo
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:13877.0
+passage.questions.1.answers.5.text:Center bo strankam v sporu pomagal pri dostopu do pravnih informacij in pomoči
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:13876.0
+passage.questions.1.answers.4.text:Zagotoviti pravno pomoč za zastopanje na sodišču
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:13875.0
+passage.questions.1.answers.3.text:Center bo obtožencem omogočil, da se zastopajo s pomočjo vrhovnega sodišča
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13874.0
+passage.questions.1.answers.2.text:Pomagajte strankam v sporu, da najdejo informacije, ki jih potrebujejo za pravilno zastopanje na sodišču
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:13873.0
+passage.questions.1.answers.1.text:Center bo revnim strankam v sporu pomagal pri izbiri odvetnikov iz državnega odbora
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:13872.0
+passage.questions.1.answers.0.text:Namen bo pomagati ljudem, ki se odločijo zastopati v pravnih zadevah
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:13871.0
+passage.questions.0.question:Katera praksa je veliko bolj pogosta v civilnih zadevah kot v kazenskih zadevah?
+passage.questions.0.idx:2632
+passage.questions.0.answers.5.text:Veliko pogosteje je, da se pravdni stranki, ki jo zastopata, najde v civilnih zadevah kot v kazenskih
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:13870.0
+passage.questions.0.answers.4.text:Samozastopanje
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:13869.0
+passage.questions.0.answers.3.text:Samozastopanje strank v sporu
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:13868.0
+passage.questions.0.answers.2.text:Uporaba odvetnika
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:13867.0
+passage.questions.0.answers.1.text:Zastopanje strank v sporu s pravno pomočjo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13866
+passage.questions.0.answers.0.text:Veliko bolj pogosto je, da v civilnih zadevah najdemo stranke, ki so &quot;pro nunca&quot;
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13865
+idx:239

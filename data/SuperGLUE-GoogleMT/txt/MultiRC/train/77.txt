@@ -1,0 +1,407 @@
+version:1.1
+passage.text:Tropsko podnebje najdemo okoli ekvatorja. V teh podnebjih so vse leto tople temperature. Tropsko podnebje je lahko zelo mokro ali mokro in suho. Tropsko mokro podnebje se pojavlja na ekvatorju ali zelo blizu njega. Vse leto imajo veliko padavin. V tej vrsti podnebja rastejo tropski deževni gozdovi. Tropsko mokro in suho podnebje se pojavlja tudi v bližini ekvatorja. Prejemajo manj padavin. Večina dežja pade v eni sezoni. Preostanek leta je suh. Le malo dreves zdrži dolgo suho sezono. Glavne rastline so trave. Suho podnebje prejema zelo malo padavin. Imajo tudi visoke stopnje izhlapevanja. Zaradi tega so še bolj suhi. Puščave lahko letno padejo pod 25 centimetrov dežja. To je manj kot 10 centimetrov na leto. Koliko dežja imate pri svoji hiši?
+passage.questions.9.question:V katerih podnebjih je veliko padavin skozi vse leto?
+passage.questions.9.idx:897.0
+passage.questions.9.answers.6.text:Deževni gozdovi
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:4670.0
+passage.questions.9.answers.5.text:Tropski deževni gozdovi
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:4669.0
+passage.questions.9.answers.4.text:Tropsko podnebje
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:4668.0
+passage.questions.9.answers.3.text:Sezona podnebje
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:4667.0
+passage.questions.9.answers.2.text:Puščave
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4666.0
+passage.questions.9.answers.1.text:Tropsko mokro podnebje
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:4665.0
+passage.questions.9.answers.0.text:Tropsko mokro in suho podnebje
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4664.0
+passage.questions.8.question:Koliko padavin prejmejo puščave?
+passage.questions.8.idx:896.0
+passage.questions.8.answers.7.text:Veliko
+passage.questions.8.answers.7.label:0,0
+passage.questions.8.answers.7.idx:4663.0
+passage.questions.8.answers.6.text:Manj kot 10 cm
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:4662.0
+passage.questions.8.answers.5.text:Skozi vse leto
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:4661.0
+passage.questions.8.answers.4.text:Zelo visoko
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:4660.0
+passage.questions.8.answers.3.text:Zelo malo
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:4659.0
+passage.questions.8.answers.2.text:2 meseca v letu
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4658.0
+passage.questions.8.answers.1.text:Puščave lahko letno padejo pod 25 centimetrov dežja
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4657.0
+passage.questions.8.answers.0.text:Manj kot 10 centimetrov na leto
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4656.0
+passage.questions.7.question:Kakšna so podnebja okoli ekvatorja?
+passage.questions.7.idx:895.0
+passage.questions.7.answers.6.text:Izredno vroče
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:4655.0
+passage.questions.7.answers.5.text:Tropsko podnebje
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:4654.0
+passage.questions.7.answers.4.text:Zelo suha
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:4653.0
+passage.questions.7.answers.3.text:Hladno
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4652.0
+passage.questions.7.answers.2.text:Toplo celo leto
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4651.0
+passage.questions.7.answers.1.text:Zelo mokro ali mokro in suho s toplo temperaturo okoli
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4650.0
+passage.questions.7.answers.0.text:Mokro podnebje
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4649.0
+passage.questions.6.question:Katera podnebja imajo visoke stopnje izhlapevanja?
+passage.questions.6.idx:894.0
+passage.questions.6.answers.5.text:Suho podnebje
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:4648.0
+passage.questions.6.answers.4.text:Deževni gozdovi
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:4647.0
+passage.questions.6.answers.3.text:Tropski deževni gozdovi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:4646.0
+passage.questions.6.answers.2.text:Mokro in suho tropsko podnebje
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:4645.0
+passage.questions.6.answers.1.text:Mokro podnebje
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4644.0
+passage.questions.6.answers.0.text:Puščave
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4643.0
+passage.questions.5.question:Koliko leta tropski deževni gozdovi prejemajo veliko padavin?
+passage.questions.5.idx:893.0
+passage.questions.5.answers.7.text:V suhem podnebju
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:4642.0
+passage.questions.5.answers.6.text:Vse leto prejemajo padavine
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:4641.0
+passage.questions.5.answers.5.text:Celo leto
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:4640.0
+passage.questions.5.answers.4.text:Celo leto
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4639.0
+passage.questions.5.answers.3.text:Večino leta
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:4638.0
+passage.questions.5.answers.2.text:Večino leta je suho
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4637.0
+passage.questions.5.answers.1.text:V eni sezoni
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4636.0
+passage.questions.5.answers.0.text:Manj kot 25 centimetrov
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4635.0
+passage.questions.4.question:Katera vrsta podnebja ima veliko padavin skozi vse leto?
+passage.questions.4.idx:892.0
+passage.questions.4.answers.4.text:Sladica
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4634.0
+passage.questions.4.answers.3.text:Tropski deževni gozdovi
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:4633.0
+passage.questions.4.answers.2.text:Puščave
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4632.0
+passage.questions.4.answers.1.text:Tropsko mokro podnebje
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4631.0
+passage.questions.4.answers.0.text:Tropsko mokro in suho podnebje
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4630.0
+passage.questions.3.question:Kako pogosto tropski deževni gozd doživlja dež?
+passage.questions.3.idx:891.0
+passage.questions.3.answers.5.text:Zelo pogosto
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:4629.0
+passage.questions.3.answers.4.text:Samo eno sezono
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:4628.0
+passage.questions.3.answers.3.text:Celo leto
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4627.0
+passage.questions.3.answers.2.text:Celo leto
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4626.0
+passage.questions.3.answers.1.text:2 meseca v letu
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4625.0
+passage.questions.3.answers.0.text:Vse leto
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4624.0
+passage.questions.2.question:V koliko tropskih vlažnih in suhih podnebjih v katerem delu leta dežuje?
+passage.questions.2.idx:890.0
+passage.questions.2.answers.7.text:V mokrem podnebju
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:4623.0
+passage.questions.2.answers.6.text:Celo leto
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:4622.0
+passage.questions.2.answers.5.text:Največ dežja pade v eni sezoni
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:4621.0
+passage.questions.2.answers.4.text:Večino leta
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:4620.0
+passage.questions.2.answers.3.text:V eni sezoni
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4619.0
+passage.questions.2.answers.2.text:Vse leto
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4618.0
+passage.questions.2.answers.1.text:Manj kot teden na leto
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:4617.0
+passage.questions.2.answers.0.text:Večji del leta je suh
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:4616.0
+passage.questions.18.question:Kje dežuje manj kot 10 centimetrov na leto?
+passage.questions.18.idx:906.0
+passage.questions.18.answers.6.text:Suho, puščavsko podnebje
+passage.questions.18.answers.6.label:1.0
+passage.questions.18.answers.6.idx:4726.0
+passage.questions.18.answers.5.text:Ekvator
+passage.questions.18.answers.5.label:0,0
+passage.questions.18.answers.5.idx:4725.0
+passage.questions.18.answers.4.text:Suho podnebje
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:4724.0
+passage.questions.18.answers.3.text:Sladice
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:4723.0
+passage.questions.18.answers.2.text:Tropski deževni gozdovi
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:4722.0
+passage.questions.18.answers.1.text:V puščavah
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:4721.0
+passage.questions.18.answers.0.text:Tropsko mokro podnebje
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:4720.0
+passage.questions.17.question:Katera podnebja imajo visoke stopnje izhlapevanja?
+passage.questions.17.idx:905.0
+passage.questions.17.answers.5.text:Suho podnebje
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:4719.0
+passage.questions.17.answers.4.text:Tropski deževni gozdovi
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:4718.0
+passage.questions.17.answers.3.text:Suha, vroča klima
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:4717.0
+passage.questions.17.answers.2.text:Puščave
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:4716.0
+passage.questions.17.answers.1.text:Mokro podnebje
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:4715.0
+passage.questions.17.answers.0.text:Tropsko mokro
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:4714.0
+passage.questions.16.question:Kje rastejo tropski deževni gozdovi?
+passage.questions.16.idx:904.0
+passage.questions.16.answers.9.text:V tropskem vlažnem podnebju
+passage.questions.16.answers.9.label:1.0
+passage.questions.16.answers.9.idx:4712.0
+passage.questions.16.answers.8.text:Sladica
+passage.questions.16.answers.8.label:0,0
+passage.questions.16.answers.8.idx:4711.0
+passage.questions.16.answers.7.text:Območja z velikim izhlapevanjem
+passage.questions.16.answers.7.label:0,0
+passage.questions.16.answers.7.idx:4710.0
+passage.questions.16.answers.6.text:Tropsko mrzlo podnebje
+passage.questions.16.answers.6.label:0,0
+passage.questions.16.answers.6.idx:4709.0
+passage.questions.16.answers.5.text:Območja z veliko dreves
+passage.questions.16.answers.5.label:0,0
+passage.questions.16.answers.5.idx:4708.0
+passage.questions.16.answers.4.text:Sladice
+passage.questions.16.answers.4.label:0,0
+passage.questions.16.answers.4.idx:4707.0
+passage.questions.16.answers.3.text:V tropskem suhem podnebju
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:4706.0
+passage.questions.16.answers.2.text:V puščavah
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:4705.0
+passage.questions.16.answers.10.text:V bližini ekvatorja
+passage.questions.16.answers.10.label:1.0
+passage.questions.16.answers.10.idx:4713.0
+passage.questions.16.answers.1.text:Tropsko mokro podnebje
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:4704.0
+passage.questions.16.answers.0.text:Blizu južnega pola
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:4703.0
+passage.questions.15.question:Katera dva dejavnika prispevata k suhosti puščav?
+passage.questions.15.idx:903.0
+passage.questions.15.answers.8.text:Padajo zelo malo padavin, visoke stopnje izhlapevanja pa jih naredijo še bolj suhe
+passage.questions.15.answers.8.label:1.0
+passage.questions.15.answers.8.idx:4702.0
+passage.questions.15.answers.7.text:Malo padavin, žejni prebivalci
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:4701.0
+passage.questions.15.answers.6.text:Padajo malo
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:4700.0
+passage.questions.15.answers.5.text:Brez trav, suhost
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:4699.0
+passage.questions.15.answers.4.text:Glavne rastline so trave
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:4698.0
+passage.questions.15.answers.3.text:Imajo visoke stopnje izhlapevanja
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:4697.0
+passage.questions.15.answers.2.text:Dreves je malo
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:4696.0
+passage.questions.15.answers.1.text:Brez padavin, visoka temperatura
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:4695.0
+passage.questions.15.answers.0.text:Malo padavin, veliko izhlapevanje
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:4694.0
+passage.questions.14.question:Kje najdemo tropsko podnebje
+passage.questions.14.idx:902.0
+passage.questions.14.answers.3.text:V bližini polov
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:4693.0
+passage.questions.14.answers.2.text:Sladica
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:4692.0
+passage.questions.14.answers.1.text:V bližini ali okoli ekvatorja
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:4691.0
+passage.questions.14.answers.0.text:Daleč od ekvatorja
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:4690.0
+passage.questions.13.question:Zakaj imajo tropska podnebja toplo vreme?
+passage.questions.13.idx:901.0
+passage.questions.13.answers.5.text:Blizu suhega podnebja
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:4689.0
+passage.questions.13.answers.4.text:So blizu severnega pola
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:4688.0
+passage.questions.13.answers.3.text:Padajo zelo malo
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:4687.0
+passage.questions.13.answers.2.text:So na ekvatorju ali zelo blizu njega
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:4686.0
+passage.questions.13.answers.1.text:Leto imajo veliko padavin
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:4685.0
+passage.questions.13.answers.0.text:Najdeno okoli ekvatorja
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:4684.0
+passage.questions.12.question:Ali tropsko mokro in suho podnebje prejema manj ali več padavin kot tropsko mokro podnebje?
+passage.questions.12.idx:900.0
+passage.questions.12.answers.2.text:Več dežja
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:4683.0
+passage.questions.12.answers.1.text:Več
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4682.0
+passage.questions.12.answers.0.text:Manj
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:4681.0
+passage.questions.11.question:Kakšna je bila temperatura v celotnem letu v danem odstavku?
+passage.questions.11.idx:899.0
+passage.questions.11.answers.6.text:Toplo
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:4680.0
+passage.questions.11.answers.5.text:Nikoli se ni spremenilo
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:4679.0
+passage.questions.11.answers.4.text:Suho in vroče
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:4678.0
+passage.questions.11.answers.3.text:Posamezna sezona
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4677.0
+passage.questions.11.answers.2.text:Včasih toplo, včasih hladno
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4676.0
+passage.questions.11.answers.1.text:Veliko padavin
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:4675.0
+passage.questions.11.answers.0.text:Običajno
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4674.0
+passage.questions.10.question:Katere so glavne rastline v mokrem in suhem podnebju?
+passage.questions.10.idx:898.0
+passage.questions.10.answers.2.text:Glavne rastline so trave
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:4673.0
+passage.questions.10.answers.1.text:Drevesa
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4672.0
+passage.questions.10.answers.0.text:Trave
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4671.0
+passage.questions.1.question:Katere vrste rastlin lahko preživijo dolgo suho sezono?
+passage.questions.1.idx:889.0
+passage.questions.1.answers.3.text:Nekaj dreves
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4615.0
+passage.questions.1.answers.2.text:Gozdna drevesa
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4614.0
+passage.questions.1.answers.1.text:Drevesa
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:4613.0
+passage.questions.1.answers.0.text:Trave
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4612.0
+passage.questions.0.question:Katero podnebje ima tople temperature vse leto?
+passage.questions.0.idx:888
+passage.questions.0.answers.6.text:Podnebje blizu severnega in južnega pola
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:4611.0
+passage.questions.0.answers.5.text:Subtropski
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:4610.0
+passage.questions.0.answers.4.text:Tropsko podnebje
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:4609.0
+passage.questions.0.answers.3.text:Sezona podnebje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4608.0
+passage.questions.0.answers.2.text:Puščave
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4607.0
+passage.questions.0.answers.1.text:Podnebja v bližini ekvatorja
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4606
+passage.questions.0.answers.0.text:Tropsko
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4605
+idx:77

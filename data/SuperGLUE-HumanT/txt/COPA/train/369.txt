@@ -1,0 +1,6 @@
+choice1:Čajnik se je ohladil.
+choice2:Čajnik je zapiskal.
+idx:369
+label:1
+premise:Voda v čajniku je zavrela.
+question:effect

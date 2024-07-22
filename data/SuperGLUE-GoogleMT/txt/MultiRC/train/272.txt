@@ -1,0 +1,352 @@
+version:1.1
+passage.text:Med zgodnjimi udarci za neodvisnost je bil upor v mestu Olhão. Meščani so 16. junija 1808 - oboroženi z malo več kot starodavnimi meči, sulicami in kamni - napadli in zajeli lokalno francosko posadko. Rečeno je, da je skupina domačih moških nato odplula od Olhana do Brazilije, brez zemljevidov in navigacijskih pripomočkov, da kralju sporoči vstajo. Prava bitka pa se je vodila pod vodstvom vojvode Wellingtona, katerega koalicijske sile so po dveh letih ogorčenih bojev pregnale Francoze. Vojna je Portugalsko še bolj oslabila in leta 1822 je njena glavna postojanka imperija, Brazilija, razglasila neodvisnost. Hkrati je med Pedrom IV, odsotnim monarhom, ki je raje vladal kot brazilski cesar, namesto da bi se vrnil na Portugalsko, in njegovim bratom Miguelom nenehno divjal spor o kroni. Boj za oblast z močnimi prizvoki apsolutizma proti liberalizmu je vzbudil zanimanje in posredovanje drugih sil. Z britansko pomočjo je Pedro leta 1833 premagal Miguela ob rtu St. Vincent in njegova ekspedicijska sila je odkorakala v Lizbono. Pedro je zasedel prestol, čeprav se je oboroženi boj nadaljeval mesece in dolgo trajala grenkoba. Do leta 1892 se je Portugalska, ki so jo prizadevale vojne in nenehni stroški vzdrževanja afriških kolonij (vključno s Mozambikom in Angolo), razglasila za bankrot. Posejano je seme nezadovoljstva z absolutistično vladavino. Kraljevsko končno prelivanje krvi bo preganjalo preostala leta portugalske monarhije. 1. februarja 1908 se je kraljeva družina v odprti kočiji peljala po plazi ob reki Lizboni, Terreiro do Paço, ko je atentator odprl ogenj in ubil kralja Carlosa in prestolonaslednika princa Luisa Filipeja. Tudi prinčev mlajši brat, princ Manuel, je bil zadet, vendar je preživel in je bil tako preporen na prestol pri rosnih 19 letih. V republikanski agitaciji je bila presenetljiva vstaja, ki so jo leta 1910 vodili pripadniki oboroženih sil, ki so odstavili Manuela. Manuel je manj kot tri leta umrl v izgnanstvu leta 1932 v Angliji. Nenaden konec več kot sedmih stoletij monarhije je v državo vnesel zmedo in krizo. Predsedniki in premieri so bili med letoma 1910 in 1926 neverjetno 45-krat uvedeni in odpuščeni, dokler vojaška revolucija ni zaustavila problematične demokracije Portugalske.
+passage.questions.9.question:Zakaj so meščani leta 1808 napadli in zajeli lokalno francosko posadko?
+passage.questions.9.idx:3067.0
+passage.questions.9.answers.3.text:Da bi se osamosvojil od Francozov
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:16186.0
+passage.questions.9.answers.2.text:Ker niso imeli zemljevidov ali navigacijskih pripomočkov
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:16185.0
+passage.questions.9.answers.1.text:Da bi imeli malo več kot starodavne meče
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:16184.0
+passage.questions.9.answers.0.text:Ker je vojna Portugalsko še bolj oslabila
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:16183.0
+passage.questions.8.question:Zakaj je Brazilija razglasila neodvisnost, ko je to storila?
+passage.questions.8.idx:3066.0
+passage.questions.8.answers.5.text:Ker je Portugalska zaradi vojne še oslabela, je leta 1822
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:16182.0
+passage.questions.8.answers.4.text:Portugalska je bila v stečaju
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:16181.0
+passage.questions.8.answers.3.text:Francozi so jim pomagali
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:16180.0
+passage.questions.8.answers.2.text:Portugalska je bila šibka
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:16179.0
+passage.questions.8.answers.1.text:Zmagala je v vojni, 1820
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:16178.0
+passage.questions.8.answers.0.text:Pedro IV je izkoristil oslabljeno Portugalsko in postal brazilski cesar
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:16177.0
+passage.questions.7.question:Kateri datum je mesto Olhão začelo svoj upor?
+passage.questions.7.idx:3065.0
+passage.questions.7.answers.3.text:16. junija 1808
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:16176.0
+passage.questions.7.answers.2.text:po dveh letih trdega boja
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:16175.0
+passage.questions.7.answers.1.text:1822
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:16174.0
+passage.questions.7.answers.0.text:v mestu Olhão
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:16173.0
+passage.questions.6.question:Kakšen je bil boj za oblast, ki je imel močne prizvone absolutizma v primerjavi z liberalizmom?
+passage.questions.6.idx:3064.0
+passage.questions.6.answers.3.text:Spor zaradi krone med Pedrom IV in njegovim bratom Miguelom
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:16172.0
+passage.questions.6.answers.2.text:Spor med Miguelom in Pedrom
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:16171.0
+passage.questions.6.answers.1.text:Razglasitev neodvisnosti Brazilije
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:16170.0
+passage.questions.6.answers.0.text:Portugalske slabosti
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:16169.0
+passage.questions.5.question:Zakaj je bil kralj Carlos umorjen?
+passage.questions.5.idx:3063.0
+passage.questions.5.answers.4.text:Zaradi nezadovoljstva z absolutistično vladavino
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:16168.0
+passage.questions.5.answers.3.text:Ker je izdal narod
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:16167.0
+passage.questions.5.answers.2.text:Nacionalni bankrot in absolutistična vlada
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:16166.0
+passage.questions.5.answers.1.text:Nezadovoljstvo z absolutističnim pravilom
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:16165.0
+passage.questions.5.answers.0.text:Njegov brat je želel prestol
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:16164.0
+passage.questions.4.question:Kaj se je pod vodstvom vojvode Wellingtona zgodilo s Portugalsko?
+passage.questions.4.idx:3062.0
+passage.questions.4.answers.2.text:Vojna je Portugalsko še bolj oslabila
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:16163.0
+passage.questions.4.answers.1.text:Oslabljena Portugalska
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:16162.0
+passage.questions.4.answers.0.text:Razglasila je neodvisnost
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:16161.0
+passage.questions.3.question:Koliko let po začetku upora Olhão je Brazilija razglasila svojo neodvisnost?
+passage.questions.3.idx:3061.0
+passage.questions.3.answers.3.text:preostala leta
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:16160.0
+passage.questions.3.answers.2.text:14 let
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:16159.0
+passage.questions.3.answers.1.text:dve leti
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:16158.0
+passage.questions.3.answers.0.text:tri leta
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:16157.0
+passage.questions.22.question:V katerem letu se je zgodil konec več kot sedemstoletne vladavine monarhije na Portugalskem?
+passage.questions.22.idx:3080.0
+passage.questions.22.answers.2.text:1910
+passage.questions.22.answers.2.label:1.0
+passage.questions.22.answers.2.idx:16240.0
+passage.questions.22.answers.1.text:1932
+passage.questions.22.answers.1.label:0,0
+passage.questions.22.answers.1.idx:16239.0
+passage.questions.22.answers.0.text:1926
+passage.questions.22.answers.0.label:0,0
+passage.questions.22.answers.0.idx:16238.0
+passage.questions.21.question:Je Pedro IV mirno zasedel prestol?
+passage.questions.21.idx:3079.0
+passage.questions.21.answers.1.text:Da
+passage.questions.21.answers.1.label:0,0
+passage.questions.21.answers.1.idx:16237.0
+passage.questions.21.answers.0.text:Ne
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:16236.0
+passage.questions.20.question:Kdo je bil starejši brat princa Manuela?
+passage.questions.20.idx:3078.0
+passage.questions.20.answers.3.text:Princ Luis Filipe
+passage.questions.20.answers.3.label:1.0
+passage.questions.20.answers.3.idx:16235.0
+passage.questions.20.answers.2.text:Kralj Carlos
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:16234.0
+passage.questions.20.answers.1.text:Miguel
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:16233.0
+passage.questions.20.answers.0.text:Princ Manuel
+passage.questions.20.answers.0.label:0,0
+passage.questions.20.answers.0.idx:16232.0
+passage.questions.2.question:Veliko je bilo sporov, kdaj se je zgodil prvi spor?
+passage.questions.2.idx:3060.0
+passage.questions.2.answers.5.text:1892
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:16156.0
+passage.questions.2.answers.4.text:1822
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:16155.0
+passage.questions.2.answers.3.text:1833
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:16154.0
+passage.questions.2.answers.2.text:16. junija 1808
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:16153.0
+passage.questions.2.answers.1.text:16. junija 1808
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:16152.0
+passage.questions.2.answers.0.text:1808
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:16151.0
+passage.questions.19.question:Koliko let je minilo med Portugalsko, ki je razglasila bankrot, in atentatom na kralja Carlosa in princa Luisa Filipeja?
+passage.questions.19.idx:3077.0
+passage.questions.19.answers.3.text:16 let
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:16231.0
+passage.questions.19.answers.2.text:preostala leta
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:16230.0
+passage.questions.19.answers.1.text:dve leti
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:16229.0
+passage.questions.19.answers.0.text:tri leta
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:16228.0
+passage.questions.18.question:So Francozi že v vojni izgubili bitko?
+passage.questions.18.idx:3076.0
+passage.questions.18.answers.1.text:Da
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:16227.0
+passage.questions.18.answers.0.text:Ne
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:16226.0
+passage.questions.17.question:Kako je bilo ime mlajšemu bratu princa Luisa Filipeja?
+passage.questions.17.idx:3075.0
+passage.questions.17.answers.4.text:Terreiro do Paço
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:16225.0
+passage.questions.17.answers.3.text:Miguel
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:16224.0
+passage.questions.17.answers.2.text:Princ Manuel
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:16223.0
+passage.questions.17.answers.1.text:Predsedniki
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:16222.0
+passage.questions.17.answers.0.text:Kraljeva družina
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:16221.0
+passage.questions.16.question:Kateri dogodki so povzročili neodvisnost Brazilije?
+passage.questions.16.idx:3074.0
+passage.questions.16.answers.4.text:Številne vojne in upori na Portugalskem
+passage.questions.16.answers.4.label:1.0
+passage.questions.16.answers.4.idx:16220.0
+passage.questions.16.answers.3.text:Britanci pomagajo
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:16219.0
+passage.questions.16.answers.2.text:Pedro je prevzel prestol
+passage.questions.16.answers.2.label:0,0
+passage.questions.16.answers.2.idx:16218.0
+passage.questions.16.answers.1.text:Boj za oblast z močnimi prizvoki apsolutizma proti liberalizmu,
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:16217.0
+passage.questions.16.answers.0.text:Umor kralja Carlosa
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:16216.0
+passage.questions.15.question:Koliko je bil star princ Manuel, ko je umrl?
+passage.questions.15.idx:3073.0
+passage.questions.15.answers.6.text:Skoraj 43
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:16215.0
+passage.questions.15.answers.5.text:Več kot 42
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:16214.0
+passage.questions.15.answers.4.text:32
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:16213.0
+passage.questions.15.answers.3.text:21.
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:16212.0
+passage.questions.15.answers.2.text:37
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:16211.0
+passage.questions.15.answers.1.text:40
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:16210.0
+passage.questions.15.answers.0.text:19.
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:16209.0
+passage.questions.14.question:Kdo je preživel atentat leta 1908?
+passage.questions.14.idx:3072.0
+passage.questions.14.answers.4.text:Terreiro do Paço
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:16208.0
+passage.questions.14.answers.3.text:Princ Manuel
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:16207.0
+passage.questions.14.answers.2.text:Prestol
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:16206.0
+passage.questions.14.answers.1.text:Prinčev mlajši brat
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:16205.0
+passage.questions.14.answers.0.text:Kraljeva družina
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:16204.0
+passage.questions.13.question:V katerem mestu je 16. junija 1808 prišlo do upora?
+passage.questions.13.idx:3071.0
+passage.questions.13.answers.3.text:Olhão
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:16203.0
+passage.questions.13.answers.2.text:Wellington
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:16202.0
+passage.questions.13.answers.1.text:lokalni francoski garnizon
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:16201.0
+passage.questions.13.answers.0.text:meščani
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:16200.0
+passage.questions.12.question:Kaj se je zgodilo v mestu Olhão?
+passage.questions.12.idx:3070.0
+passage.questions.12.answers.3.text:Upor
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:16199.0
+passage.questions.12.answers.2.text:Meščani so 16. junija 1808 - oboroženi z malo več kot starodavnimi meči, sulicami in kamni - napadli in zajeli lokalni francoski garnizon
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:16198.0
+passage.questions.12.answers.1.text:Ritual
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:16197.0
+passage.questions.12.answers.0.text:Neodvisnost
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:16196.0
+passage.questions.11.question:Kaj je vzrok za spremembo vodstva med premierji in predsedniki med leti 1910-1926?
+passage.questions.11.idx:3069.0
+passage.questions.11.answers.4.text:Umor princa Manuela
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:16195.0
+passage.questions.11.answers.3.text:Manuelovo izgnanstvo in nenaden konec monarhije
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:16194.0
+passage.questions.11.answers.2.text:Kriza v državi
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:16193.0
+passage.questions.11.answers.1.text:Umor kralja Carlosa in prestolonaslednika, princa Luisa Filipeja
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:16192.0
+passage.questions.11.answers.0.text:Kraljeva družina se vozi v odprti kočiji vzdolž plaza ob reki Lizboni
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:16191.0
+passage.questions.10.question:Vojno, ki je monarhom še dodatno oslabila absolutistično vladavino Portugalske, je vodil britanski poveljnik
+passage.questions.10.idx:3068.0
+passage.questions.10.answers.3.text:Sveti Vincent
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:16190.0
+passage.questions.10.answers.2.text:Vojvoda Wellington
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:16189.0
+passage.questions.10.answers.1.text:Miguel
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:16188.0
+passage.questions.10.answers.0.text:Pedro IV
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:16187.0
+passage.questions.1.question:Koliko let po tem, ko je Portugalska razglasila bankrot, je monarhija odstavila elemente oboroženih sil
+passage.questions.1.idx:3059.0
+passage.questions.1.answers.4.text:18.
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:16150.0
+passage.questions.1.answers.3.text:92
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:16149.0
+passage.questions.1.answers.2.text:Skoraj 2 leti
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16148.0
+passage.questions.1.answers.1.text:1 leto
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:16147.0
+passage.questions.1.answers.0.text:10.
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:16146.0
+passage.questions.0.question:Zakaj je princ Manuel vladal le tri leta?
+passage.questions.0.idx:3058
+passage.questions.0.answers.5.text:Po treh letih je umrl
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:16145.0
+passage.questions.0.answers.4.text:Zaradi vstaje je bil izgnan v Anglijo, kjer je umrl
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:16144.0
+passage.questions.0.answers.3.text:Umrl je v Angliji
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:16143.0
+passage.questions.0.answers.2.text:Brazilija je razglasila neodvisnost
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:16142.0
+passage.questions.0.answers.1.text:Oborožene sile so ga odstavile
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:16141
+passage.questions.0.answers.0.text:Oboroženi ni hotel, da bi ga odstranil
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:16140
+idx:272

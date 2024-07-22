@@ -1,0 +1,6 @@
+choice1:Imela je alergijsko reakcijo.
+choice2:Prišla je v prometno nesrečo.
+idx:333
+label:1
+premise:Ženska je utrpela amnezijo.
+question:cause

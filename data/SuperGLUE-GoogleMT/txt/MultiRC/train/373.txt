@@ -1,0 +1,51 @@
+version:1.1
+passage.text:Film se osredotoča na različne goste, ki bivajo v slovitem hotelu Waldorf-Astoria v New Yorku. Med njimi je osamljena filmska zvezda Irene Malvern v mestu s služkinjo Anno na poroki otroškega otroka in premieri njenega najnovejšega filma; vojni dopisnik Chip Collyer, ki ga je Irene zamenjala za tatu draguljev, a se je igrala, da bi pritegnila njeno pozornost; letak stotnik James Hollis, ranjen v drugi svetovni vojni in v treh dneh pred nevarno operacijo; bogati shyster Martin X. Edley, ki poskuša podpisati bega iz Aribajana v senčni naftni posel; Oliver Webson, mladi mladi novinar Collier&#39;s Weekly v upanju, da bo razkril Edleyja; in nevesta Cynthia Drew, katere prihajajočo poroko ogroža njeno prepričanje, da je njen zaročenec Bob zaljubljen v Irene Malvern. Na prizorišču sta tudi Bunny Smith, hotelska stenografinja / notarka, ki upa, da se bo poročila z Edleyem, koreninam z nizkimi dohodki, in poročevalec Randy Morton, ki se v preddverju zatika v upanju, da bo naletel na zajemalko za svoj časopis. V uvodni sceni Randy Morton opisuje tipično petkovo popoldne v Waldorfu. Novopečena zakonca odkrijeta, da ni na voljo nobene sobe, gospod Jesup, ki se za vikend odpravlja, pa mu dodeli stanovanje. Edley najde Jesupa v preddverju in ga poskuša vplesti v posel z begom iz Aribajana, bogatim naftnim piščancem. Jesup to zavrne, toda Edley ve, da Jesupa ne bo več konec tedna in ima čas do ponedeljka zjutraj, da Beyi podpišejo pogodbo na podlagi domnevne Jesupove vpletenosti.
+passage.questions.2.question:Kateri dve ženski upata, da se bosta nekoč poročila?
+passage.questions.2.idx:4277.0
+passage.questions.2.answers.5.text:Cynthia Drew
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:22756.0
+passage.questions.2.answers.4.text:Irene Malvern
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:22755.0
+passage.questions.2.answers.3.text:Irene Malvern in njena služkinja Anna
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:22754.0
+passage.questions.2.answers.2.text:Anna
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:22753.0
+passage.questions.2.answers.1.text:Cynthia Drew in Bunny Smith
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:22752.0
+passage.questions.2.answers.0.text:Zajček Smith
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:22751.0
+passage.questions.1.question:Koliko novinarjev je v hotelu Waldorf-Astoria?
+passage.questions.1.idx:4276.0
+passage.questions.1.answers.2.text:Več kot dva
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:22750.0
+passage.questions.1.answers.1.text:Dva. Mladič poroča za Collier&#39;s Weekly in Randyja Mortona iz časopisa
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:22749.0
+passage.questions.1.answers.0.text:7 štetje Jesup
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:22748.0
+passage.questions.0.question:Ali ima novopečeni par sobo v hotelu Waldorf Astoria?
+passage.questions.0.idx:4275
+passage.questions.0.answers.4.text:Seveda dobijo apartma za medene tedne
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:22747.0
+passage.questions.0.answers.3.text:Da
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:22746.0
+passage.questions.0.answers.2.text:Ne, ostanejo v stanovanju, ki jim ga Edley postavi v vrsto
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:22745.0
+passage.questions.0.answers.1.text:Ne
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:22744
+passage.questions.0.answers.0.text:Ne. Na voljo ni bilo nobene sobe
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:22743
+idx:373

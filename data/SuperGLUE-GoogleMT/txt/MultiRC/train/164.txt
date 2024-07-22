@@ -1,0 +1,75 @@
+version:1.1
+passage.text:V arhitekturi Durer navaja Vitruviusa, vendar izdela svoje klasične zasnove in stebre. V tipografiji Durer prikazuje geometrijsko konstrukcijo latinske abecede in se opira na italijanski precedens. Vendar njegova konstrukcija gotske abecede temelji na povsem drugačnem modularnem sistemu. Četrta knjiga zaključuje napredovanje prve in druge s premikom v tridimenzionalne oblike in konstrukcijo poliedrov. Tu Durer razpravlja o petih platonskih trdnih snoveh, pa tudi o sedmih arhimedovskih polpravilnih trdnih snoveh, pa tudi o nekaj svojih izumih. V vseh teh Durer predmete prikazuje kot mreže. Na koncu Durer razpravlja o problemu Delian in preide na &#39;construzione legittima&#39;, metodo upodabljanja kocke v dveh dimenzijah skozi linearno perspektivo. Durerja so v Bologni poučevali (morda Luca Pacioli ali Bramante) načel linearne perspektive in se očitno seznanil z &quot;costruzione legittima&quot; v pisnem opisu teh načel, ki jih je v tem času našel le v neobjavljeni razpravi Piero della Francesca. Prav tako je poznal &quot;skrajšano konstrukcijo&quot;, kot jo je opisal Alberti, in geometrijsko konstrukcijo senc, tehniko Leonarda da Vincija. Čeprav Durer na teh področjih ni naredil nobenih novosti, je opazen kot prvi severnoevropej, ki je vprašanja vizualne predstavitve obravnaval znanstveno in z razumevanjem evklidskih načel. Poleg teh geometrijskih konstrukcij Durer v tej zadnji knjigi Underweysung der Messung razpravlja o vrsti mehanizmov za risanje v perspektivi iz modelov in daje lesorezne ilustracije teh metod, ki so pogosto predstavljene v razpravah o perspektivi.
+passage.questions.2.question:V kateri knjigi Durer kaže razumevanje evklidskih načel?
+passage.questions.2.idx:1827.0
+passage.questions.2.answers.4.text:Underweysung der Messung
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:9530.0
+passage.questions.2.answers.3.text:Tri
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:9529.0
+passage.questions.2.answers.2.text:Štiri
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:9528.0
+passage.questions.2.answers.1.text:Njegova zadnja knjiga
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:9527.0
+passage.questions.2.answers.0.text:Piero della Francesca
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:9526.0
+passage.questions.1.question:O kakšnih trdnih snoveh govori Durer v svoji četrti knjigi?
+passage.questions.1.idx:1826.0
+passage.questions.1.answers.9.text:Sedem arhimedovskih polpravilnih trdnih snovi
+passage.questions.1.answers.9.label:1.0
+passage.questions.1.answers.9.idx:9524.0
+passage.questions.1.answers.8.text:Poliedri
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:9523.0
+passage.questions.1.answers.7.text:Platonska in sedem arhimedovih polpravilnih trdnih snovi
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:9522.0
+passage.questions.1.answers.6.text:Platonski
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:9521.0
+passage.questions.1.answers.5.text:Arhimedov
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:9520.0
+passage.questions.1.answers.4.text:Pet platonskih trdnih snovi
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:9519.0
+passage.questions.1.answers.3.text:Polreden
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:9518.0
+passage.questions.1.answers.2.text:Tridimenzionalne oblike
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:9517.0
+passage.questions.1.answers.10.text:Nekaj lastnega izuma
+passage.questions.1.answers.10.label:1.0
+passage.questions.1.answers.10.idx:9525.0
+passage.questions.1.answers.1.text:Poliedri
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:9516.0
+passage.questions.1.answers.0.text:Delianov problem
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:9515.0
+passage.questions.0.question:Katero abecedo prikazuje Durer v svoji arhitekturi?
+passage.questions.0.idx:1825
+passage.questions.0.answers.5.text:Gotsko
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:9514.0
+passage.questions.0.answers.4.text:Vitruvije
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:9513.0
+passage.questions.0.answers.3.text:Latinsko in gotsko
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:9512.0
+passage.questions.0.answers.2.text:Arhimedov
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:9511.0
+passage.questions.0.answers.1.text:Latinsko
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:9510
+passage.questions.0.answers.0.text:Italijansko
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:9509
+idx:164

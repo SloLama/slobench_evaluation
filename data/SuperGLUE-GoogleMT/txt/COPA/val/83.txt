@@ -1,0 +1,6 @@
+choice1:Številni državljani so se preselili v prestolnico.
+choice2:Številni državljani so se zatekli na druga ozemlja.
+idx:83
+label:1
+premise:V narodu je izbruhnilo politično nasilje.
+question:effect

@@ -1,0 +1,71 @@
+version:1.1
+passage.text:Hotel California Moja prva misel: ponorel sem. Štiriindvajset ur tišine (vakuum, ne pozabite); sem zdaj haluciniral zvoke? Sem še enkrat slišal. Bil je lep zvon, ki je spominjal na starodavne kamnite cerkve in visoke katedrale, ki sem jih videl v dokumentarnih filmih. In ob zvonu sem zagledal luč. Zdaj sta bili tu dve stvari, ki sta imeli smešno majhne količine. Najprej celotna stvar v vakuumu, zakaj je tam zvonec. Drugič, plaval sem v temnih ostankih svoje pokvarjene ladje in možni viri svetlobe niso bili vidni; zvezdna svetloba je izrazito drugačne barve in bistveno manj svetla. Ti signali so bili glasniki mojih odrešiteljev. Prve besede, ki so mi jih izrekli, niso pomenile ničesar. Nisem poslušal; Bilo mi je vseeno; Živel sem; Nadaljeval sem z dihanjem. Poleg teh ni bilo nič drugega pomembno. Recikliran zrak je imel sladek okus v ustih in vse misli, ki so mi prišle na misel, so bile poceni metafore o živalnih snoveh in o tem, kako je dihanje kot seks, le boljše. (Pridružil sem si pravico, da to mnenje popravim kasneje.) Ko sem končal z miselnim vzklikanjem zaradi svojega nemogočega reševanja, sem se ozrl. Ladja je bila čudna in stara, bodisi tako zastarela bodisi tako močno spremenjena, da nisem mogel ugotoviti, za katero znamko gre, in nekako je posadka, ki je stala okoli mene, ustrezala istemu opisu, posebej netipičnemu združevanju ljudi. In jaz, mislim, da sem bil še en delček njihove uganke. Bil sem še en ostanek, ki bi ga lahko privaril na ostale, še enega nasedlega preživelega, ki so ga našli. Zdaj sem bil eden izmed njih.
+passage.questions.3.question:Zakaj mu prve besede, ki so jih pisatelji rešili, niso pomenile ničesar?
+passage.questions.3.idx:5020.0
+passage.questions.3.answers.4.text:Še vedno je bil nasedlo ljudstvo
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:26665.0
+passage.questions.3.answers.3.text:Ni poslušal
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:26664.0
+passage.questions.3.answers.2.text:Poleg teh ni bilo nič drugega pomembno
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:26663.0
+passage.questions.3.answers.1.text:Ni poslušal, ni mu bilo vseeno in vedel je, da bo živel
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:26662.0
+passage.questions.3.answers.0.text:Pisatelj ni poslušal, ni mu bilo vseeno, živel bo in nadaljeval z dihanjem
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:26661.0
+passage.questions.2.question:Od kod zvok in svetloba?
+passage.questions.2.idx:5019.0
+passage.questions.2.answers.3.text:Vreme
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:26660.0
+passage.questions.2.answers.2.text:Odrešenik
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:26659.0
+passage.questions.2.answers.1.text:Pisatelj je bil v vakuumu in ni mogel videti svetlobe ali slišati zvoka
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:26658.0
+passage.questions.2.answers.0.text:Ladja
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:26657.0
+passage.questions.1.question:Kdo je &quot;Njih&quot;, na katerega se nanaša pisatelj?
+passage.questions.1.idx:5018.0
+passage.questions.1.answers.4.text:Posadka njegovih rešiteljev
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:26656.0
+passage.questions.1.answers.3.text:Bil je še en ostanek za varjenje in še en preživeli, ki so ga našli
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:26655.0
+passage.questions.1.answers.2.text:Nora oseba
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:26654.0
+passage.questions.1.answers.1.text:Še en najdeni nasedli preživeli
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:26653.0
+passage.questions.1.answers.0.text:Zdelo se mu je, da je še ena oseba, za katero ni nič drugega pomembno
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:26652.0
+passage.questions.0.question:Zakaj je pisatelj mislil, da znori?
+passage.questions.0.idx:5017
+passage.questions.0.answers.5.text:Slišal je zvonec
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:26651.0
+passage.questions.0.answers.4.text:Ves čas je slišal zvoke
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:26650.0
+passage.questions.0.answers.3.text:Sanjal je nenavadne sanje
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:26649.0
+passage.questions.0.answers.2.text:Slišal je zvok in zagledal luč v vakuumu
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:26648.0
+passage.questions.0.answers.1.text:Čutil je, da ničesar ne sliši, nato pa je začel slišati zvon zvonov in nato zagledal luč
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:26647
+passage.questions.0.answers.0.text:Videl je luč
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:26646
+idx:445

@@ -1,0 +1,133 @@
+version:1.1
+passage.text:Čakali smo pol ure in opazovali, kako se nad hišo zavija dim, nato pa smo po presoji, da so Indijanci odšli iz zasede, presodili jaso. Prebral je le pogled, da sem prebral zgodbo. Ženske so se umivale ob potočku pred kabino, z otroki, ki so se igrali okoli njih, ko so Indijanci prišli gor in jih z enim udarcem pobili vse, razen otroka, za katerega smo slišali jokati. Naleteli so na svoje žrtve, jim strgali lasišče z glave, oropali hišo in jo zažgali. Izvlekli smo truplo ženske, ki je bila vržena vanjo, v upanju, da bi še vedno lahko ostala iskra življenja, vendar je bila precej mrtva. Pod bojevnikom, ki ga je ustrelil Spiltdorph, smo našli otroka. Bil je fant, star približno šest ali sedem let, in tako prekrit s krvjo, da se je zdelo, da je mrtev. Toda slekli smo ga in oprali v potoku in na njem nismo našli ran, razen v glavi, kjer je bila udarjena z sekiro, preden so ji slekli lasišče. Hladna voda jo je vrnila v življenje in spet je začela jokati, ko je Spiltdorph slekel plašč in ga nežno ovil.
+passage.questions.9.question:So si Indijanci vzeli lasišča žensk?
+passage.questions.9.idx:4382.0
+passage.questions.9.answers.1.text:Da
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:23222.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:23221.0
+passage.questions.8.question:Kdo je imel ime v zgodbi?
+passage.questions.8.idx:4381.0
+passage.questions.8.answers.1.text:Spiltdorph
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:23220.0
+passage.questions.8.answers.0.text:Bojevnik
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:23219.0
+passage.questions.7.question:Kdo se je umival v potoku?
+passage.questions.7.idx:4380.0
+passage.questions.7.answers.2.text:Pes
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:23218.0
+passage.questions.7.answers.1.text:Ženska
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:23217.0
+passage.questions.7.answers.0.text:Ženske in fant
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:23216.0
+passage.questions.6.question:Kdaj je fant jokal?
+passage.questions.6.idx:4379.0
+passage.questions.6.answers.2.text:Ko je bil opran
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:23215.0
+passage.questions.6.answers.1.text:Po najdbi
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:23214.0
+passage.questions.6.answers.0.text:Potem ko je bil skalpiran in ko so ga umivali
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:23213.0
+passage.questions.5.question:Nekaj so slekli in našli le rane v glavi. Kaj je bilo?
+passage.questions.5.idx:4378.0
+passage.questions.5.answers.2.text:Pes
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:23212.0
+passage.questions.5.answers.1.text:Fant, star kakšnih šest ali sedem let
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:23211.0
+passage.questions.5.answers.0.text:Fant
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:23210.0
+passage.questions.4.question:Hladna voda je nekoga vrnila v življenje. Kdo je bil mrtev?
+passage.questions.4.idx:4377.0
+passage.questions.4.answers.1.text:Pes
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:23209.0
+passage.questions.4.answers.0.text:Fant od šestih do sedmih let
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:23208.0
+passage.questions.3.question:Kdo je umrl v napadu?
+passage.questions.3.idx:4376.0
+passage.questions.3.answers.2.text:Mama in otroci
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:23207.0
+passage.questions.3.answers.1.text:Vsi
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:23206.0
+passage.questions.3.answers.0.text:Celotna družina, razen fanta
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:23205.0
+passage.questions.2.question:Kdo je ustrelil bojevnika in otroka zavil v svoj plašč?
+passage.questions.2.idx:4375.0
+passage.questions.2.answers.1.text:Spiltdorph
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:23204.0
+passage.questions.2.answers.0.text:Bojevnik
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:23203.0
+passage.questions.13.question:Žensko so našli mrtvo. Kje so jo našli?
+passage.questions.13.idx:4386.0
+passage.questions.13.answers.1.text:V potoku
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:23231.0
+passage.questions.13.answers.0.text:V hiši
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:23230.0
+passage.questions.12.question:Nekdo je naletel na svoje žrtve. Kdo je bil?
+passage.questions.12.idx:4385.0
+passage.questions.12.answers.1.text:Indijanci
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:23229.0
+passage.questions.12.answers.0.text:Meteorji
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:23228.0
+passage.questions.11.question:So Indijanci fantu slekli lasišče?
+passage.questions.11.idx:4384.0
+passage.questions.11.answers.1.text:Da
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:23227.0
+passage.questions.11.answers.0.text:Ne
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:23226.0
+passage.questions.10.question:Ki je hišo zažgal in oropal.
+passage.questions.10.idx:4383.0
+passage.questions.10.answers.2.text:Indijanci
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:23225.0
+passage.questions.10.answers.1.text:Indijanci
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:23224.0
+passage.questions.10.answers.0.text:Nezemljani
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:23223.0
+passage.questions.1.question:Ali je bil otrok pod bojevnikom živ?
+passage.questions.1.idx:4374.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:23202.0
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:23201.0
+passage.questions.0.question:Po polurnem čakanju in ogledu so prispeli na kraj dogodka in ugotovili, kaj se dogaja. Koliko časa je trajalo, da sem to ugotovil?
+passage.questions.0.idx:4373
+passage.questions.0.answers.2.text:Samo pogled
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:23200.0
+passage.questions.0.answers.1.text:Moment
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:23199
+passage.questions.0.answers.0.text:Pol ure
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23198
+idx:383

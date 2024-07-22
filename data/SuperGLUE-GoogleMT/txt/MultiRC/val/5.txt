@@ -1,0 +1,174 @@
+version:1.1
+passage.text:Pri osemnajstih letih se je Poejevo življenje spremenilo. Do takrat je bil malen otrok v bogati družini. Gospod Allan ni bil do njega naklonjen, kot ga je imela gospa Allan. Dečka ni razumel nenavadne in nestalne narave, še posebej pa je bil nezadovoljen, ko je ugotovil, da je Edgar na fakulteti zadolžil. Med njima se je zgodil jezen prizor in Edgarju je bilo rečeno, da mora zapustiti univerzo in iti v števnico. Zdi se, da se je poskušal vezati na številke in račune ter poslovno rutino; toda ker ni bil vzgojen do takšnega življenja, se ga je kmalu naveličal in se odločil, da bo šel na svet iskati svojo srečo. Odšel je v Boston, kjer je izdal zvezek poezije. V predgovoru k tej knjigi Poe pravi, da so pesmi nastale pred njegovim štirinajstim letom. Čeprav to morda ni povsem res, ni dvoma, da so nekateri bili. Medtem ko je bil še v šoli, je zbral dovolj svojih pesmi, da je zložil knjigo, in g. Allan jih je odnesel do mojstra angleške in klasične šole, da bi mu svetoval, kako jih objaviti. Ta gospod ga je odsvetoval, ker bi Edgarju ošabil, kar je napaka, zaradi katere je že trpel. Takoj ko je lahko delal, kakor je hotel, je bilo naravno, da je moral svoje pesmi na novo napisati in jih objaviti.
+passage.questions.9.question:Je Poe obiskoval šolo?
+passage.questions.9.idx:53.0
+passage.questions.9.answers.1.text:Da
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:225.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:224.0
+passage.questions.8.question:Zakaj je bil Poe prisiljen zapustiti univerzo?
+passage.questions.8.idx:52.0
+passage.questions.8.answers.2.text:Edgar je na fakulteti zadolžil
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:223.0
+passage.questions.8.answers.1.text:Na univerzi je zadolžil in oče ga je prisilil, da jo zapusti
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:222.0
+passage.questions.8.answers.0.text:Poskušal se je vezati na številke in račune ter poslovno rutino
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:221.0
+passage.questions.7.question:Kaj je bilo prvo objavljeno delo Poeja?
+passage.questions.7.idx:51.0
+passage.questions.7.answers.2.text:Računi
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:220.0
+passage.questions.7.answers.1.text:Zvezek
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:219.0
+passage.questions.7.answers.0.text:Zvezek poezije
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:218.0
+passage.questions.6.question:Kdaj je bila napisana njegova poezija, ki je izšla v Bostonu?
+passage.questions.6.idx:50.0
+passage.questions.6.answers.2.text:Glede na predgovor so bili napisani pred njegovim 14. letom
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:217.0
+passage.questions.6.answers.1.text:Pri 18
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:216.0
+passage.questions.6.answers.0.text:Pred štirinajstimi leti
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:215.0
+passage.questions.5.question:Kakšen nasvet je dal gospod Allan, ki je Poejeve pesmi pokazal magistru angleškega in klasičnega študija?
+passage.questions.5.idx:49.0
+passage.questions.5.answers.3.text:Zapustiti mora univerzo in iti v števnico
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:214.0
+passage.questions.5.answers.2.text:Z utemeljitvijo, da bo Edgar nagajal, - napaka, zaradi katere je že trpel
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:213.0
+passage.questions.5.answers.1.text:Rekli so mu, naj pesmi ne objavlja, ker bo tako bolj nadušen
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:212.0
+passage.questions.5.answers.0.text:Podpora
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:211.0
+passage.questions.4.question:Kaj se je pohvalil Poe v predgovoru svoje knjige pesmi, objavljene v Bostonu?
+passage.questions.4.idx:48.0
+passage.questions.4.answers.2.text:Poe pravi, da so pesmi nastale pred njegovim štirinajstim letom
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:210.0
+passage.questions.4.answers.1.text:Trdil je, da so pesmi napisane pred njegovim 14. letom
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:209.0
+passage.questions.4.answers.0.text:Izdal je zvezek poezije
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:208.0
+passage.questions.3.question:Kateri ljudje so povzročili malodušje Edgarja?
+passage.questions.3.idx:47.0
+passage.questions.3.answers.3.text:G. Allan, mojster angleščine
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:207.0
+passage.questions.3.answers.2.text:Gospa Allan
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:206.0
+passage.questions.3.answers.1.text:Oče bolnišnice in mojster angleške in klasične šole
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:205.0
+passage.questions.3.answers.0.text:Uradniki
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:204.0
+passage.questions.2.question:Kaj je počel, ko je odšel v Boston?
+passage.questions.2.idx:46
+passage.questions.2.answers.2.text:Objavljal je svojo poezijo
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:203.0
+passage.questions.2.answers.1.text:Izdal je zvezek poezije
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:202
+passage.questions.2.answers.0.text:Pojdi na svet, da bi poiskal svojo srečo
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:201
+passage.questions.14.question:Kako se je gospod Allen počutil do Poeja?
+passage.questions.14.idx:58.0
+passage.questions.14.answers.2.text:Do njega ga. Allen ni imel naklonjenosti in ni razumel njegove nenavadne in nestalne narave
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:241.0
+passage.questions.14.answers.1.text:Edgar se je domišljal, - napaka, zaradi katere je že trpel
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:240.0
+passage.questions.14.answers.0.text:Dečka ni razumel nenavadne in nestalne narave in je bil še posebej nezadovoljen
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:239.0
+passage.questions.13.question:Kaj je Poe počel, preden je postal pesnik?
+passage.questions.13.idx:57.0
+passage.questions.13.answers.2.text:Poslovno
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:238.0
+passage.questions.13.answers.1.text:Da gre na svet iskat svojo srečo
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:237.0
+passage.questions.13.answers.0.text:Poskušal se je vezati na številke in račune ter poslovno rutino
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:236.0
+passage.questions.12.question:Kako je polno ime opisane osebe?
+passage.questions.12.idx:56.0
+passage.questions.12.answers.3.text:Poe Allan
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:235.0
+passage.questions.12.answers.2.text:Droga
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:234.0
+passage.questions.12.answers.1.text:Edgar Poe Allan
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:233.0
+passage.questions.12.answers.0.text:Edgar Allan Poe
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:232.0
+passage.questions.11.question:Opišite sceno, ki ponazarja razlike, ki so jih imeli Poejevi starši v naklonjenosti do njega.
+passage.questions.11.idx:55.0
+passage.questions.11.answers.2.text:Med njima se je zgodil jezen prizor,
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:231.0
+passage.questions.11.answers.1.text:Poejeva mati je bila naklonjena njemu, oče pa se je jezil na dolg, ki ga je imel na univerzi, in ga prisilil, da je šel delat v števnico
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:230.0
+passage.questions.11.answers.0.text:Gospod Allan ni bil do njega naklonjen, kot ga je imela gospa Allan
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:229.0
+passage.questions.10.question:Kaj se je zgodilo s Poejem pri 18 letih?
+passage.questions.10.idx:54.0
+passage.questions.10.answers.2.text:Svoje pesmi je prepisal in objavil
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:228.0
+passage.questions.10.answers.1.text:V njegovem življenju se je zgodila sprememba, ker je na fakulteti zadolžil. Rekli so mu, da mora zapustiti univerzo
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:227.0
+passage.questions.10.answers.0.text:Pojdi na svet, da bi poiskal svojo srečo
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:226.0
+passage.questions.1.question:Zakaj je Edgar zapustil univerzo?
+passage.questions.1.idx:45
+passage.questions.1.answers.2.text:Oče ga ni razumel in imel je dolgove
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:200.0
+passage.questions.1.answers.1.text:Edgar je na fakulteti zadolžil
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:199
+passage.questions.1.answers.0.text:Poskušal se je vezati na številke in račune ter poslovno rutino
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:198
+passage.questions.0.question:Kdo je bil gospod Allan?
+passage.questions.0.idx:44
+passage.questions.0.answers.2.text:Mojster angleščine
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:197.0
+passage.questions.0.answers.1.text:Edgarin oče
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:196
+passage.questions.0.answers.0.text:Poejev oče
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:195
+idx:5

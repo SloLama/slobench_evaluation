@@ -1,0 +1,99 @@
+version:1.1
+passage.text:Radio Televizioni Shqiptar (RTSH) je javna radijska in televizijska postaja v Albaniji, ki jo je leta 1938 ustanovil kralj Zog. RTSH vodi tri analogne televizijske postaje kot TVSH Televizioni Shqiptar, štiri digitalne tematske postaje kot RTSH in tri radijske postaje z imenom Radio Tirana . Poleg tega 4 regionalne radijske postaje delujejo v štirih okončinah Albanije. Mednarodna služba oddaja radijske programe v albanskem in sedmih drugih jezikih prek srednjevalovnega (AM) in kratkovalovnega (SW). Mednarodna služba je za svojo melodijo uporabila temo iz pesmi &quot;Keputa nje gjethe dafine&quot;. Mednarodna televizijska storitev prek satelita je bila uvedena od leta 1993 in je namenjena albanskim skupnostim na Kosovu, Srbiji, Makedoniji, Črni gori in severni Grčiji ter albanski diaspori v preostali Evropi. V preteklosti je imela RTSH v svojih poročilih močan vpliv vladajoče stranke, ne glede na to, ali gre za levo ali desno krilo. Po podatkih albanske agencije za medije AMA naj bi imela Albanija 257 medijev, vključno s 66 radijskimi postajami in 67 televizijskimi postajami, s tremi nacionalnimi, 62 lokalnimi in več kot 50 kabelskimi televizijskimi postajami. V zadnjih letih je Albanija organizirala več oddaj v okviru svetovnih serij, kot so Ples z zvezdami, Veliki brat Albanija, Albanci imajo talent, Glas Albanije in X Factor Albanija.
+passage.questions.5.question:V koliko jezikih oddaja mednarodna služba radijske programe z uporabo teme iz pesmi &quot;Keputa nje gjethe dafine&quot; kot svojo podpisano melodijo?
+passage.questions.5.idx:2305.0
+passage.questions.5.answers.3.text:3.
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:12141.0
+passage.questions.5.answers.2.text:4.
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:12140.0
+passage.questions.5.answers.1.text:7.
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:12139.0
+passage.questions.5.answers.0.text:Osem
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:12138.0
+passage.questions.4.question:Kako dolgo je RTSH obstajal ob uvedbi mednarodne televizijske storitve?
+passage.questions.4.idx:2304.0
+passage.questions.4.answers.5.text:257
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:12137.0
+passage.questions.4.answers.4.text:57
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:12136.0
+passage.questions.4.answers.3.text:55 let
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:12135.0
+passage.questions.4.answers.2.text:55
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:12134.0
+passage.questions.4.answers.1.text:Pet in petdeset
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:12133.0
+passage.questions.4.answers.0.text:62
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:12132.0
+passage.questions.3.question:Koliko radijskih postaj v Albaniji ne gosti RSTH?
+passage.questions.3.idx:2303.0
+passage.questions.3.answers.3.text:3.
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:12131.0
+passage.questions.3.answers.2.text:67
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:12130.0
+passage.questions.3.answers.1.text:4.
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:12129.0
+passage.questions.3.answers.0.text:63
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:12128.0
+passage.questions.2.question:Koliko radijskih postaj skupaj gosti RSTH (lokalnih in regionalnih)?
+passage.questions.2.idx:2302.0
+passage.questions.2.answers.4.text:7.
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:12127.0
+passage.questions.2.answers.3.text:Šestinšestdeset
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:12126.0
+passage.questions.2.answers.2.text:50
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:12125.0
+passage.questions.2.answers.1.text:66
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:12124.0
+passage.questions.2.answers.0.text:67
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:12123.0
+passage.questions.1.question:Koliko albanskih medijev je bilo uporabljenih za predvajanje oddaj, kot so Ples z zvezdami, Veliki brat Albanija, Albanci imajo talent, Glas Albanije in X Factor Albanija.
+passage.questions.1.idx:2301.0
+passage.questions.1.answers.4.text:257
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:12122.0
+passage.questions.1.answers.3.text:Ocenjuje se 257 medijev, vključno s 66 radijskimi postajami in 67 televizijskimi postajami, s tremi nacionalnimi, 62 lokalnimi in več kot 50 kabelskimi TV postajami
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:12121.0
+passage.questions.1.answers.2.text:50
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12120.0
+passage.questions.1.answers.1.text:66
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:12119.0
+passage.questions.1.answers.0.text:67
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:12118.0
+passage.questions.0.question:Koliko analognih televizijskih postaj deluje Radio Televizioni Shqiptar kot TVSH Televizioni Shqiptar?
+passage.questions.0.idx:2300
+passage.questions.0.answers.3.text:Tri
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:12117.0
+passage.questions.0.answers.2.text:3.
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:12116.0
+passage.questions.0.answers.1.text:4.
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12115
+passage.questions.0.answers.0.text:66
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:12114
+idx:208

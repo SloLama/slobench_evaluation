@@ -1,0 +1,6 @@
+choice1:Bila je prepričana, da ima gripo.
+choice2:Skrbelo jo je, da bo zbolela za gripo.
+idx:23
+label:0
+premise:Gostitelj je odpovedal zabavo.
+question:cause

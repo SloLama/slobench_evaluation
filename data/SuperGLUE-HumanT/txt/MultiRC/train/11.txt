@@ -1,0 +1,206 @@
+version:1.1
+passage.text:Ker želita v Indiji kupiti nekaj konjev, prideta britanska aristokrata, lord Esketh in njegova žena Edwina, na povabilo maharani, maharadžine vdove, v mesto Ranchipur. Njun zakon je nesrečen in lord Esketh oznani, da se namerava vrniti v Anglijo in vložiti zahtevo za ločitev. Razvajena in brezčutna Edwina se temu posmehuje. V Ranchipurju se ponovno zbliža s svojim nekdanjim ljubimcem, Tomom Ransomom, ki je sedaj zakrknjen alkoholik. Obenem spozna in poskuša zapeljati cenjenega hindujskega zdravnika, dr. Rama Saftija, poštenega moža, ki ga je maharani izbrala, da jo bo nekega dne nasledil. Safti se najprej upira, a na koncu podleže Edwininim čarom in se vanjo brezupno zaljubi. Lord Esketh se tega zaveda, vendar ga Safti na safariju reši pred ljudožerskim tigrom. Safti lordu Eskethu prizna svojo ljubezen do Edwine, ki sočustvuje z nesrečo tega dobrega moža. Tudi Ransom čuti podobno in Edwino posvari, naj pusti Saftija, prijatelja, ki ga občuduje, pri miru. Edwina se prav tako zameri maharani, ki ji razloži, da je bil Safti vzgojen za čisto življenje in da ga ni vredna. Ranchipur nenadoma pretreseta naravni nesreči, potres in poplava. Dr. Safti je tako zaposlen z reševanjem življenj, da nima časa, da bi se posvetil Edwini, ki je zbolela. Zanjo skrbi Ransom, obenem pa tudi za mlado Fern Simon, ki mu je izjavila ljubezen. Ko z dinamitom razstrelijo jez in se posledično umaknejo poplavne vode, dr. Safti razkrije, da je Ransome tvegal svoje življenje, da bi rešil prebivalce Ranchipurja. 
+passage.questions.9.question:Kdo poskusi zapeljati moža, ki lorda Esketha med safarijem reši pred ljudožerskim tigrom?
+passage.questions.9.idx:132.0
+passage.questions.9.answers.4.text:Edwina
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:754.0
+passage.questions.9.answers.3.text:Martha
+passage.questions.9.answers.3.label:0.0
+passage.questions.9.answers.3.idx:753.0
+passage.questions.9.answers.2.text:Žena lorda Esketha
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:752.0
+passage.questions.9.answers.1.text:Fern
+passage.questions.9.answers.1.label:0.0
+passage.questions.9.answers.1.idx:751.0
+passage.questions.9.answers.0.text:Ransome
+passage.questions.9.answers.0.label:0.0
+passage.questions.9.answers.0.idx:750.0
+passage.questions.8.question:Kje je Edwina spoznala dr. Rama Saftija?
+passage.questions.8.idx:131.0
+passage.questions.8.answers.4.text:Angliji
+passage.questions.8.answers.4.label:0.0
+passage.questions.8.answers.4.idx:749.0
+passage.questions.8.answers.3.text:Maharani
+passage.questions.8.answers.3.label:0.0
+passage.questions.8.answers.3.idx:748.0
+passage.questions.8.answers.2.text:V Ranchipurju, Indiji
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:747.0
+passage.questions.8.answers.1.text:»Ranchipur« 
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:746.0
+passage.questions.8.answers.0.text:Egiptu
+passage.questions.8.answers.0.label:0.0
+passage.questions.8.answers.0.idx:745.0
+passage.questions.7.question:Čemu se posmehuje žena lorda Esketha?
+passage.questions.7.idx:130.0
+passage.questions.7.answers.7.text:Ljudem umrlim v poplavi
+passage.questions.7.answers.7.label:0.0
+passage.questions.7.answers.7.idx:744.0
+passage.questions.7.answers.6.text:Lord Esketh se želi ločiti
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:743.0
+passage.questions.7.answers.5.text:Temu, da je Tom Ransome alkoholik
+passage.questions.7.answers.5.label:0.0
+passage.questions.7.answers.5.idx:742.0
+passage.questions.7.answers.4.text:Zahtevi za ločitev
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:741.0
+passage.questions.7.answers.3.text:Potresu
+passage.questions.7.answers.3.label:0.0
+passage.questions.7.answers.3.idx:740.0
+passage.questions.7.answers.2.text:Nameri lorda Esketha, da se vrne v Anglijo in vloži zahtevo za ločitev
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:739.0
+passage.questions.7.answers.1.text:Temu, da se njen mož želi ločiti
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:738.0
+passage.questions.7.answers.0.text:Tigru
+passage.questions.7.answers.0.label:0.0
+passage.questions.7.answers.0.idx:737.0
+passage.questions.6.question:Kje je Safti lorda Esketha rešil pred ljudožerskim tigrom?
+passage.questions.6.idx:129.0
+passage.questions.6.answers.5.text:V Ranchipurju
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:736.0
+passage.questions.6.answers.4.text:Maharani
+passage.questions.6.answers.4.label:0.0
+passage.questions.6.answers.4.idx:735.0
+passage.questions.6.answers.3.text:Na otoku
+passage.questions.6.answers.3.label:0.0
+passage.questions.6.answers.3.idx:734.0
+passage.questions.6.answers.2.text:V Angliji
+passage.questions.6.answers.2.label:0.0
+passage.questions.6.answers.2.idx:733.0
+passage.questions.6.answers.1.text:V bolnici
+passage.questions.6.answers.1.label:0.0
+passage.questions.6.answers.1.idx:732.0
+passage.questions.6.answers.0.text:Na safariju
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:731.0
+passage.questions.5.question:Kdo sočustvuje s Saftijem?
+passage.questions.5.idx:128.0
+passage.questions.5.answers.5.text:Lord Esketh
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:730.0
+passage.questions.5.answers.4.text:Tom Ransome
+passage.questions.5.answers.4.label:0.0
+passage.questions.5.answers.4.idx:729.0
+passage.questions.5.answers.3.text:Maharani
+passage.questions.5.answers.3.label:0.0
+passage.questions.5.answers.3.idx:728.0
+passage.questions.5.answers.2.text:Edwina
+passage.questions.5.answers.2.label:0.0
+passage.questions.5.answers.2.idx:727.0
+passage.questions.5.answers.1.text:Ransome in lord Esketh
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:726.0
+passage.questions.5.answers.0.text:Ransome
+passage.questions.5.answers.0.label:0.0
+passage.questions.5.answers.0.idx:725.0
+passage.questions.4.question:Kdo se ponovno zbliža z bivšim ljubimcem, Tomom Ransomom?
+passage.questions.4.idx:127.0
+passage.questions.4.answers.4.text:Dr. Safti
+passage.questions.4.answers.4.label:0.0
+passage.questions.4.answers.4.idx:724.0
+passage.questions.4.answers.3.text:Lord Esketh
+passage.questions.4.answers.3.label:0.0
+passage.questions.4.answers.3.idx:723.0
+passage.questions.4.answers.2.text:Maharani
+passage.questions.4.answers.2.label:0.0
+passage.questions.4.answers.2.idx:722.0
+passage.questions.4.answers.1.text:Edwina
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:721.0
+passage.questions.4.answers.0.text:Fern
+passage.questions.4.answers.0.label:0.0
+passage.questions.4.answers.0.idx:720.0
+passage.questions.3.question:Kdo skrbi za Edwino, potem ko zboli?
+passage.questions.3.idx:126.0
+passage.questions.3.answers.5.text:Jacob
+passage.questions.3.answers.5.label:0.0
+passage.questions.3.answers.5.idx:719.0
+passage.questions.3.answers.4.text:Tom Ransome
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:718.0
+passage.questions.3.answers.3.text:Nihče
+passage.questions.3.answers.3.label:0.0
+passage.questions.3.answers.3.idx:717.0
+passage.questions.3.answers.2.text:Dr. Rama Safti
+passage.questions.3.answers.2.label:0.0
+passage.questions.3.answers.2.idx:716.0
+passage.questions.3.answers.1.text:Fern
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:715.0
+passage.questions.3.answers.0.text:»Ransome« 
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:714.0
+passage.questions.2.question:Kdo je žena lorda Esketha?
+passage.questions.2.idx:125.0
+passage.questions.2.answers.5.text:»Edwina« 
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:713.0
+passage.questions.2.answers.4.text:Dr. Safti
+passage.questions.2.answers.4.label:0.0
+passage.questions.2.answers.4.idx:712.0
+passage.questions.2.answers.3.text:Nihče
+passage.questions.2.answers.3.label:0.0
+passage.questions.2.answers.3.idx:711.0
+passage.questions.2.answers.2.text:Maharani
+passage.questions.2.answers.2.label:0.0
+passage.questions.2.answers.2.idx:710.0
+passage.questions.2.answers.1.text:Safti
+passage.questions.2.answers.1.label:0.0
+passage.questions.2.answers.1.idx:709.0
+passage.questions.2.answers.0.text:Fern
+passage.questions.2.answers.0.label:0.0
+passage.questions.2.answers.0.idx:708.0
+passage.questions.1.question:Kdo je rešil prebivalce Ranchipurja?
+passage.questions.1.idx:124.0
+passage.questions.1.answers.7.text:Fern Simon
+passage.questions.1.answers.7.label:0.0
+passage.questions.1.answers.7.idx:707.0
+passage.questions.1.answers.6.text:Lord Esketh
+passage.questions.1.answers.6.label:0.0
+passage.questions.1.answers.6.idx:706.0
+passage.questions.1.answers.5.text:Tom Ransome
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:705.0
+passage.questions.1.answers.4.text:Edwina
+passage.questions.1.answers.4.label:0.0
+passage.questions.1.answers.4.idx:704.0
+passage.questions.1.answers.3.text:Dr. Rama Safti
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:703.0
+passage.questions.1.answers.2.text:Ransome
+passage.questions.1.answers.2.label:0.0
+passage.questions.1.answers.2.idx:702.0
+passage.questions.1.answers.1.text:Tiger
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:701.0
+passage.questions.1.answers.0.text:»Ransome«
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:700.0
+passage.questions.0.question:Kdo po poplavi in potresu skrbi za Edwino in Fern?
+passage.questions.0.idx:123
+passage.questions.0.answers.5.text:Dr. Safti
+passage.questions.0.answers.5.label:0.0
+passage.questions.0.answers.5.idx:699.0
+passage.questions.0.answers.4.text:Lord Esketh
+passage.questions.0.answers.4.label:0.0
+passage.questions.0.answers.4.idx:698.0
+passage.questions.0.answers.3.text:Tom Ransome
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:697.0
+passage.questions.0.answers.2.text:Maharani
+passage.questions.0.answers.2.label:0.0
+passage.questions.0.answers.2.idx:696.0
+passage.questions.0.answers.1.text:Safti
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:695
+passage.questions.0.answers.0.text:Ransome
+passage.questions.0.answers.0.label:1
+passage.questions.0.answers.0.idx:694
+idx:11

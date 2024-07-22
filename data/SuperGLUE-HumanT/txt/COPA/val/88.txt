@@ -1,0 +1,6 @@
+choice1:Ženska je nameravala kupiti stanovanje.
+choice2:Ženska je morala pospraviti stanovanje.
+idx:88
+label:0
+premise:Ženska je stopila v stik z agencijo za nepremičnine.
+question:cause

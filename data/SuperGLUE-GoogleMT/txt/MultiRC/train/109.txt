@@ -1,0 +1,260 @@
+version:1.1
+passage.text:Magneti so sposobni postaviti silo na določene materiale. Ta sila se imenuje magnetna sila. Sila, ki jo deluje magnet, se nekoliko razlikuje od sil, o katerih običajno razmišljate. Ko dvignete knjigo, pritisnete nanjo. Prav tako pritiskate na pedale kolesa. V obeh primerih te sile povzročijo spremembo. Sprememba, ki jo vidite v obeh primerih, se imenuje gibanje. Tudi magneti lahko povzročijo spremembe. Gibajo lahko tako kot vi. Za razliko od vas se magnetom ni treba dotikati nečesa, da bi izvajali silo. Magnetna sila deluje na daljavo. Tako je, magnet lahko nekatere predmete potisne ali potegne, ne da bi se jih kdaj dotaknil. Tako deluje vlak maglev. Ali poznate drugo vrsto sile, ki ne zahteva, da se predmeti dotikajo? Te sile so znane kot brezkontaktne sile. Druga vrsta brezkontaktne sile, ki jo morda poznate, je gravitacija. Tudi gravitacija lahko povzroči spremembe v gibanju. Gravitacija zadržuje našo luno v orbiti, ne da bi se je dotaknila.
+passage.questions.9.question:Kako se imenuje sila, ki jo izvajate na pedala za kolesa in povzroča spremembe?
+passage.questions.9.idx:1293.0
+passage.questions.9.answers.4.text:Človeška energija
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:6627.0
+passage.questions.9.answers.3.text:Magnetna sila
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:6626.0
+passage.questions.9.answers.2.text:Gibanje
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:6625.0
+passage.questions.9.answers.1.text:Kontaktna sila
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:6624.0
+passage.questions.9.answers.0.text:Brezkontaktna sila
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:6623.0
+passage.questions.8.question:Katerih nekaj primerov brezkontaktne sile?
+passage.questions.8.idx:1292.0
+passage.questions.8.answers.5.text:Kontaktna sila
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:6622.0
+passage.questions.8.answers.4.text:Sila vetra
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:6621.0
+passage.questions.8.answers.3.text:Fizična sila
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:6620.0
+passage.questions.8.answers.2.text:Gravitacija
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:6619.0
+passage.questions.8.answers.1.text:Magnetna sila
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:6618.0
+passage.questions.8.answers.0.text:Vlak maglev
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:6617.0
+passage.questions.7.question:Ali se mora magnet dotikati predmeta, da uveljavi potiskanje ali vlečenje?
+passage.questions.7.idx:1291.0
+passage.questions.7.answers.4.text:Ne, izvaja se na daljavo
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:6616.0
+passage.questions.7.answers.3.text:Da
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:6615.0
+passage.questions.7.answers.2.text:Ne
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:6614.0
+passage.questions.7.answers.1.text:Ne, ni se treba dotakniti določenega predmeta, da uveljavi potiskanje ali vlečenje
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:6613.0
+passage.questions.7.answers.0.text:Da, kontakt je pomemben za magnetne sile
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:6612.0
+passage.questions.6.question:Kaj je magnetna sila?
+passage.questions.6.idx:1290.0
+passage.questions.6.answers.2.text:Sila magneti, ki jih lahko namestite na določene materiale
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:6611.0
+passage.questions.6.answers.1.text:Sila, ki jo magnet položi na material
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:6610.0
+passage.questions.6.answers.0.text:Sila, ki jo izvaja veter
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:6609.0
+passage.questions.5.question:Kako se imenuje magnetna sila, nameščena na določene materiale?
+passage.questions.5.idx:1289.0
+passage.questions.5.answers.3.text:kontaktna sila
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:6608.0
+passage.questions.5.answers.2.text:Sila vetra
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:6607.0
+passage.questions.5.answers.1.text:Magnetna sila
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:6606.0
+passage.questions.5.answers.0.text:Magneti na določene materiale ne silijo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:6605.0
+passage.questions.4.question:Kakšna sila se uporablja za premikanje vlaka maglev?
+passage.questions.4.idx:1288.0
+passage.questions.4.answers.3.text:Magnetna sila
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:6604.0
+passage.questions.4.answers.2.text:Vlak maglev lahko nekatere predmete potiska ali vleče, ne da bi se jih kdaj dotaknil
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:6603.0
+passage.questions.4.answers.1.text:Fizična sila
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:6602.0
+passage.questions.4.answers.0.text:Brezkontaktna sila
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:6601.0
+passage.questions.3.question:Ali lahko magneti povzročajo gibanje?
+passage.questions.3.idx:1287.0
+passage.questions.3.answers.2.text:Ja, lahko
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:6600.0
+passage.questions.3.answers.1.text:Ne
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6599.0
+passage.questions.3.answers.0.text:Ne, lahko ustvarijo samo spremembe
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:6598.0
+passage.questions.2.question:V čem se magnetne sile razlikujejo od drugih sil?
+passage.questions.2.idx:1286.0
+passage.questions.2.answers.4.text:Magnetna sila lahko povzroči gibanje brez dejanskega stika z določenimi materiali
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:6597.0
+passage.questions.2.answers.3.text:Druge sile povzročajo spremembo, imenovano gibanje
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6596.0
+passage.questions.2.answers.2.text:Magneti proizvajajo silo z dotikom
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:6595.0
+passage.questions.2.answers.1.text:Skoraj enako; vse se dotikajo
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:6594.0
+passage.questions.2.answers.0.text:Proizvajajo silo, ne da bi se dotaknili
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:6593.0
+passage.questions.15.question:Kakšna je razlika med magnetno silo in silo, ki jo človek uporablja za premikanje stvari?
+passage.questions.15.idx:1299.0
+passage.questions.15.answers.4.text:Magnet za spremembo proizvaja
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:6657.0
+passage.questions.15.answers.3.text:Magnetom se ni treba dotikati nečesa, da bi izvajali silo
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:6656.0
+passage.questions.15.answers.2.text:Magneti se nečesa dotaknejo
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:6655.0
+passage.questions.15.answers.1.text:Razlika je v naporu. V nasprotju z ljudmi se magnetom ni treba dotikati nečesa, da bi uporabili silo
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:6654.0
+passage.questions.15.answers.0.text:Magnetom se ni treba dotikati nečesa, da bi izvajali silo, raztegnjeni so na daljavo
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:6653.0
+passage.questions.14.question:Kako magneti delujejo na silo?
+passage.questions.14.idx:1298.0
+passage.questions.14.answers.4.text:Magnetna sila deluje na daljavo in lahko nekatere predmete potisne ali potegne, ne da bi se jih kdaj dotaknila
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:6652.0
+passage.questions.14.answers.3.text:Magnetna sila deluje na daljavo
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:6651.0
+passage.questions.14.answers.2.text:Izvajajo silo, ne da bi prišli v stik z določenim materialom
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:6650.0
+passage.questions.14.answers.1.text:Z dotikom česar koli
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:6649.0
+passage.questions.14.answers.0.text:Sila delujejo tako, da povzročajo spremembo
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:6648.0
+passage.questions.13.question:Kaj so nekontaktne sile?
+passage.questions.13.idx:1297.0
+passage.questions.13.answers.4.text:Nekontaktne sile so sile, ki se za spremembo ali gibanje ne dotikajo
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:6647.0
+passage.questions.13.answers.3.text:Sila, ki ne zahteva, da se predmeti dotikajo
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:6646.0
+passage.questions.13.answers.2.text:Nekontaktne sile so gravitacija in maglev vlak
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:6645.0
+passage.questions.13.answers.1.text:Sile so delovale, ne da bi se dotaknile ničesar
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:6644.0
+passage.questions.13.answers.0.text:Sila, ki se izvaja z dotikom
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:6643.0
+passage.questions.12.question:Kako magneti povzročajo spremembe?
+passage.questions.12.idx:1296.0
+passage.questions.12.answers.4.text:Lahko proizvajajo gibanje
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:6642.0
+passage.questions.12.answers.3.text:Magnetom se ni treba dotikati nečesa, da bi izvajali silo
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:6641.0
+passage.questions.12.answers.2.text:Z dotikanjem stvari
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:6640.0
+passage.questions.12.answers.1.text:Spremembe povzročajo z delovanjem sile na daljavo
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:6639.0
+passage.questions.12.answers.0.text:Proizvajajo spremembe tako kot ljudje
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:6638.0
+passage.questions.11.question:Kaj zmorejo magneti?
+passage.questions.11.idx:1295.0
+passage.questions.11.answers.3.text:Na določene materiale lahko namestijo silo, imenovano magnetna sila
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:6637.0
+passage.questions.11.answers.2.text:Magneti se lahko dotikajo in ustvarjajo silo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:6636.0
+passage.questions.11.answers.1.text:Magneti lahko povzročijo spremembe na materialih
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:6635.0
+passage.questions.11.answers.0.text:Magneti so sposobni postaviti silo na določene materiale
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:6634.0
+passage.questions.10.question:Navedite nekaj vrst nekontaktne sile
+passage.questions.10.idx:1294.0
+passage.questions.10.answers.5.text:Kolesarska sila
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:6633.0
+passage.questions.10.answers.4.text:Gravitacija
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:6632.0
+passage.questions.10.answers.3.text:Magnetna sila
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:6631.0
+passage.questions.10.answers.2.text:Sila vetra
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:6630.0
+passage.questions.10.answers.1.text:Vlak Maglev
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:6629.0
+passage.questions.10.answers.0.text:Vlečna sila
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:6628.0
+passage.questions.1.question:Katera je še ena vrsta sile, ki ne zahteva, da se predmeti dotikajo?
+passage.questions.1.idx:1285.0
+passage.questions.1.answers.4.text:Kontaktne sile
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:6592.0
+passage.questions.1.answers.3.text:Gravitacija
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:6591.0
+passage.questions.1.answers.2.text:Magnetna sila
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:6590.0
+passage.questions.1.answers.1.text:kinetična sila
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:6589.0
+passage.questions.1.answers.0.text:Dotikalna sila
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:6588.0
+passage.questions.0.question:Sila, ki drži našo luno na mestu, je primer kakšne sile?
+passage.questions.0.idx:1284
+passage.questions.0.answers.4.text:Brezkontaktna sila
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:6587.0
+passage.questions.0.answers.3.text:Gravitacija
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:6586.0
+passage.questions.0.answers.2.text:Ganljiva sila
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:6585.0
+passage.questions.0.answers.1.text:kinetična sila
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:6584
+passage.questions.0.answers.0.text:Vrsta brezkontaktne sile, ne primer
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:6583
+idx:109

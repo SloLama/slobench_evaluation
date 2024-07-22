@@ -1,0 +1,183 @@
+version:1.1
+passage.text:Nekaj relikvij iz bronaste dobe je spodbudilo domnevo, da so prazgodovinski naseljenci naselili Ibizo pred tisočletji. Več dokazov o takšnih ljudeh najdemo na Mallorci in Menorci kot na Ibizi, toda eno najpomembnejših najdišč Balearic je pravzaprav na otoku Formentera, kjer je bil megalitski spomenik / grobnica Ca Na Costa leta 2000 pr. N. Ključna lokacija med Afriko in starodavno Iberijo je bila primeren postanek za mediteranske pomorščake, kot so feničanski trgovci, ki so otok imenovali Ibosim. Grki so ga poimenovali Ebysos, Rimljani Ebusus, Mavri Yebisah. Kartaginjani: Podrobna zgodovina otoka se začne šele, ko je v 7. stoletju pred našim štetjem postal kolonija Kartagine. Kartažani so prvotno prihajali z območja današnjega Libanona, iz svojih oporišč v Severni Afriki in današnji Španiji pa so izpodbijali Rimsko cesarstvo za prevlado v sredozemski regiji. Njihovo zanimanje za Ibizo je bilo deloma v njenih prostranih solinah, ki so še danes vir donosne industrije. Naravne vire so izkoristili z uporabo soli za zdravljenje rib, ki so jih izvozili v svojo državo. Kartažani so izvajali tudi pridobivanje svinca in so bili še naprej pomembni do tega stoletja. Verjamejo, da so bili svinčeni peleti, ki jih je uporabljal kartaški general Hanibal, narejeni na Ibizi. Tudi Kartažani so otok smatrali za sveto mesto in tukaj so v velikem sijaju pokopali na tisoče svojih državljanov v ogromni nekropoli na Puig des Molins (Hill of the Windmills) pod Dalt Vilo (staro mestno jedro) na Ibizi. Pod okrnatimi oljkami so arheologi odkrili zakladnico kipov, nakita, vrčev, orodja in kovancev, ki so danes razstavljeni v dveh mestnih arheoloških muzejih. Rimljani nikoli niso zares vdrli na Ibizo in tudi po porazu Hanibala leta 202 pr. N. Št. Med drugo punsko vojno je bil njihov vpliv omejen. Šele s padcem Kartagine leta 146 pr. N. Št. Jim je uspelo prodreti, toda, kot poudarjajo lokalni zgodovinarji, Ibiza ni bila niti osvojena niti priključena Rimu, temveč konfederirana in ohranila izjemno avtonomijo. V prihodnjih stoletjih so se stare kartagenske tradicije lahko nadaljevale na Ibizi ob novem rimskem načinu življenja.
+passage.questions.9.question:O kateri človekovi razvojni dobi govori spomenik Ca Na Costa?
+passage.questions.9.idx:4297.0
+passage.questions.9.answers.2.text:Bronasta doba
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:22853.0
+passage.questions.9.answers.1.text:Kamena doba
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:22852.0
+passage.questions.9.answers.0.text:Naročeno
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:22851.0
+passage.questions.8.question:Kdo se ni nikoli vdrl na otok in je zadržal vpliv v drugi punski vojni?
+passage.questions.8.idx:4296.0
+passage.questions.8.answers.1.text:Kartažani
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:22850.0
+passage.questions.8.answers.0.text:Rimljani
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:22849.0
+passage.questions.7.question:Zakaj so Kartažani želeli Ibizo?
+passage.questions.7.idx:4295.0
+passage.questions.7.answers.4.text:Vlada
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:22848.0
+passage.questions.7.answers.3.text:Bilo je sveto mesto, prostrane soline, rudarstvo svinca in drugi naravni viri
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:22847.0
+passage.questions.7.answers.2.text:Sol
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:22846.0
+passage.questions.7.answers.1.text:Zlato
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:22845.0
+passage.questions.7.answers.0.text:Zemljišče
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:22844.0
+passage.questions.6.question:Kako je bilo grško ime za Ibizo?
+passage.questions.6.idx:4294.0
+passage.questions.6.answers.4.text:Mavri
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:22843.0
+passage.questions.6.answers.3.text:Ebysos
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:22842.0
+passage.questions.6.answers.2.text:Feničanski
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:22841.0
+passage.questions.6.answers.1.text:Ebusus
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:22840.0
+passage.questions.6.answers.0.text:Yebisah
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:22839.0
+passage.questions.5.question:Na katerih sredozemskih otokih so bili najdeni ostanki prazgodovinskih naselij?
+passage.questions.5.idx:4293.0
+passage.questions.5.answers.3.text:Sicilija
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:22838.0
+passage.questions.5.answers.2.text:Neapelj
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:22837.0
+passage.questions.5.answers.1.text:Ibiza
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:22836.0
+passage.questions.5.answers.0.text:Ibiza, Majorka, Menorka, Formentera
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:22835.0
+passage.questions.4.question:Kako so staroselci imenovali Ibizo?
+passage.questions.4.idx:4292.0
+passage.questions.4.answers.5.text:Ebysos
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:22834.0
+passage.questions.4.answers.4.text:Ibosim, Ebisos, Ebus, Jebiša
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:22833.0
+passage.questions.4.answers.3.text:Ebusus
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:22832.0
+passage.questions.4.answers.2.text:Kazen
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:22831.0
+passage.questions.4.answers.1.text:Yebisah
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:22830.0
+passage.questions.4.answers.0.text:Otok
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:22829.0
+passage.questions.3.question:Katera zgodovinska skupina iz današnjega Libanona se je naselila na otoku v 7. stoletju pred našim štetjem?
+passage.questions.3.idx:4291.0
+passage.questions.3.answers.3.text:Ebysos
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:22828.0
+passage.questions.3.answers.2.text:Kartažani
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:22827.0
+passage.questions.3.answers.1.text:Grški
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:22826.0
+passage.questions.3.answers.0.text:Rimljani
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:22825.0
+passage.questions.2.question:Katera različna imena so bila dana na ključni lokaciji Ibize med Afriko in starodavno Iberijo?
+passage.questions.2.idx:4290.0
+passage.questions.2.answers.5.text:Feničanski trgovci, ki so otok imenovali Ibosim. Grki so ga poimenovali Ebysos, Rimljani Ebusus, Mavri Yebisah
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:22824.0
+passage.questions.2.answers.4.text:Ebysos
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:22823.0
+passage.questions.2.answers.3.text:Dalt Villa
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:22822.0
+passage.questions.2.answers.2.text:Ebusus
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:22821.0
+passage.questions.2.answers.1.text:Yebisah
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:22820.0
+passage.questions.2.answers.0.text:Molins
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:22819.0
+passage.questions.11.question:Kaj so Kartažani želeli od Ibize?
+passage.questions.11.idx:4299.0
+passage.questions.11.answers.4.text:Prostor za bivanje
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:22861.0
+passage.questions.11.answers.3.text:Sol
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:22860.0
+passage.questions.11.answers.2.text:Kalifornija
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:22859.0
+passage.questions.11.answers.1.text:Ogromne solnice
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:22858.0
+passage.questions.11.answers.0.text:Solnice za sol za zdravljenje rib
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:22857.0
+passage.questions.10.question:Kateri otok so Grki poimenovali &quot;Ebysos&quot;?
+passage.questions.10.idx:4298.0
+passage.questions.10.answers.2.text:Formentera
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:22856.0
+passage.questions.10.answers.1.text:Neapelj
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:22855.0
+passage.questions.10.answers.0.text:Ibiza
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:22854.0
+passage.questions.1.question:Kaj so Kartaginjani izkoristili na Ibizi?
+passage.questions.1.idx:4289.0
+passage.questions.1.answers.3.text:Naravni viri
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:22818.0
+passage.questions.1.answers.2.text:Sol za zdravljenje rib
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:22817.0
+passage.questions.1.answers.1.text:Suženjsko delo
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:22816.0
+passage.questions.1.answers.0.text:Rudarstvo svinca
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:22815.0
+passage.questions.0.question:Katere so nekatere skupine ljudi, ki so odšle na otok Ibosim?
+passage.questions.0.idx:4288
+passage.questions.0.answers.4.text:Med Afriko in starodavno Iberijo
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:22814.0
+passage.questions.0.answers.3.text:Feničanski trgovci, Grki, Rimljani, Mavri in Kartažani
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:22813.0
+passage.questions.0.answers.2.text:Feničanski trgovci
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:22812.0
+passage.questions.0.answers.1.text:Kartažani
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:22811
+passage.questions.0.answers.0.text:Kitajski
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:22810
+idx:375

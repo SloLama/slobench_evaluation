@@ -1,0 +1,99 @@
+version:1.1
+passage.text:Od dvajsetega stoletja naprej: Britanci so svoj nadzor nad polotokom razširili tako, da so skupaj z britanskimi upravniki sestavili celotno paleto kolonialne uprave - državno službo, javna dela, sodstvo, policijo, pošto, izobraževanje in ureditev zemljišč. , učitelji, inženirji in zdravniki. Hkrati je industrija kositra, v kateri so v 19. stoletju prevladovali kitajski z delovno intenzivnimi metodami, vse bolj prehajala v zahodne roke, ki so uporabljale sodobno tehnologijo gramoznih črpalk in rudarskih strgač. Nafto so našli na severnem Borneu, v Miriju in na Bruneju, anglo-nizozemsko podjetje Shell pa je Singapur uporabljalo kot regionalno skladišče za oskrbo in izvoz nafte. Toda glavni preboj v malezijsko gospodarstvo je bil triumf gume, ko je novi singapurski vrtni direktor Henry Ridle (&quot;Rubber Ridley&quot; prijateljem, &quot;Mad Ridley&quot; vsem dvomljivim Thomasesom) razvil nove metode sajenja in točenja ter se mukotrpno razširil svojo vero v gumo okoli polotoka. Svetovno povpraševanje se je povečalo z rastjo avtomobilske in elektroindustrije, med prvo svetovno vojno pa se je hitro povečalo. Do leta 1920 je Malaja proizvajala 53 odstotkov svetovne gume, ki je kot glavni vir dohodka prehitela kositer. Malajski vladajoči razred je spet zavzel sedež. Britanci so zdaj skupaj z učinkovitim nadzorom gumarske in kositrne industrije trdno držali vajeti vlade. Sultani so bili zadolženi za lokalne in verske zadeve, zadovoljni s svojim prestižem, blaginjo in varnostjo. Popis leta 1931 je služil kot alarmni signal za malajsko narodno zavest. Okrepljeni z novim pritokom priseljencev, da bi dosegli razcvet gume in kositra v dvajsetih letih prejšnjega stoletja, so Nemci zdaj malo presegli domorodno prebivalstvo. Velika depresija leta 1929 je okrepila etnično konkurenco na upadajočem trgu dela in nacionalizem se je razvil, da bi zaščitil malajske interese pred Kitajci in Indijanci in ne pred britansko cesarsko oblastjo. Čeprav je polotok na polotoku oviral delitev držav in naselij Straits, so se relativno konservativni muslimanski intelektualci in voditelji skupnosti zbrali na vsemalajevskem malajskem kongresu v Kuala Lumpurju leta 1939. V Singapurju so se naslednje leto pridružili predstavniki iz Sarawaka in Brunej. Učitelji in novinarji so pozvali k oživitvi skupne malajsko-indonezijske zavesti, razcepljene z anglo-nizozemskim razkosanjem regije v 19. stoletju. Ta duh je postal dejavnik nabiranja vojnih oblakov.
+passage.questions.2.question:Komu so se v Singapurju pridružili predstavniki Sarawaka in Bruneja?
+passage.questions.2.idx:810.0
+passage.questions.2.answers.8.text:Konzervativni muslimanski intelektualci in voditelji skupnosti
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:4248.0
+passage.questions.2.answers.7.text:Relativno konzervativni muslimanski intelektualci
+passage.questions.2.answers.7.label:1.0
+passage.questions.2.answers.7.idx:4247.0
+passage.questions.2.answers.6.text:Sultani
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:4246.0
+passage.questions.2.answers.5.text:Sarawak
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:4245.0
+passage.questions.2.answers.4.text:Voditelji skupnosti
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:4244.0
+passage.questions.2.answers.3.text:Malajski vladajoči razred
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4243.0
+passage.questions.2.answers.2.text:Američani
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4242.0
+passage.questions.2.answers.1.text:Muslimanski intelektualci
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:4241.0
+passage.questions.2.answers.0.text:Britanci
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:4240.0
+passage.questions.1.question:Kaj se je dogajalo ob istem času, ko so Britanci razširili svoj nadzor nad polotokom, tako da so sestavili celotno kolonialno upravo?
+passage.questions.1.idx:809.0
+passage.questions.1.answers.9.text:Na severu Bornea so našli nafto
+passage.questions.1.answers.9.label:1.0
+passage.questions.1.answers.9.idx:4239.0
+passage.questions.1.answers.8.text:Industrija kositra je prešla v zahodne roke
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:4238.0
+passage.questions.1.answers.7.text:Industrija kositra je vse bolj prehajala v zahodne roke
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:4237.0
+passage.questions.1.answers.6.text:Povpraševanje po kositru se je močno zmanjšalo
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:4236.0
+passage.questions.1.answers.5.text:Ribištvo je postalo priljubljeno
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:4235.0
+passage.questions.1.answers.4.text:V industriji pločevine, v kateri so prevladovali kitajski, so vedno bolj prevladovali zahodni interesi
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:4234.0
+passage.questions.1.answers.3.text:Panoply kolonialne
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4233.0
+passage.questions.1.answers.2.text:Sultani so dvignili davke
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4232.0
+passage.questions.1.answers.1.text:Cene nafte so močno narasle zaradi povpraševanja, ki ga je sprožila prva svetovna vojna
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:4231.0
+passage.questions.1.answers.0.text:Industrija kositra je vse bolj prehajala v zahodne roke, ki so uporabljale sodobno tehnologijo gramoznih črpalk in rudarskih strgač
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:4230.0
+passage.questions.0.question:Kaj je povzročilo, da je malajski vladajoči razred zavzel sedež?
+passage.questions.0.idx:808
+passage.questions.0.answers.9.text:Kitajci so spodbudili revolucijo
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:4228.0
+passage.questions.0.answers.8.text:Proizvodnja 53 odstotkov svetovne gume
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:4227.0
+passage.questions.0.answers.7.text:Britanci so strmoglavili vlado
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:4226.0
+passage.questions.0.answers.6.text:Povečano povpraševanje po gumi
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:4225.0
+passage.questions.0.answers.5.text:Povpraševanje podjetij po motornih vozilih po gumi
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:4224.0
+passage.questions.0.answers.4.text:Povpraševanje po gumi v avtomobilski in elektroindustriji, ki se je med prvo svetovno vojno močno povečalo
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:4223.0
+passage.questions.0.answers.3.text:Vladajoči razred
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4222.0
+passage.questions.0.answers.2.text:Malaja proizvaja 53 odstotkov svetovne gume, ki je kot glavni vir dohodka prehitela kositer
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:4221.0
+passage.questions.0.answers.10.text:Mračni finančni vidiki
+passage.questions.0.answers.10.label:0,0
+passage.questions.0.answers.10.idx:4229.0
+passage.questions.0.answers.1.text:Malajska proizvodnja gume
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4220
+passage.questions.0.answers.0.text:Osmanlije
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:4219
+idx:69

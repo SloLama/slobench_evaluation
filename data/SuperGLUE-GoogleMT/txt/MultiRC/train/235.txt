@@ -1,0 +1,49 @@
+version:1.1
+passage.text:Naj začnem znova. Všeč mi je življenje v letoviščih - vedno imam in po prihajajoči miselnosti vedno tudi. Lani sem najel majhno hišo na Vegi IV, morski svet, vse otoke in grebene ter otočja, turkizne vode in akvamarinsko nebo, sončne vzhode kot simfonije in sončne zahode kot zvezde, ki so odšle supernova. Mesto je samo eno: imenovano Nuevo Acapulco v La Enciclopedia del Empirio de la Humanidad, za domačine je N&#39;apulco. N&#39;apulčani so večinoma emigranti iz Polarisa II; edina razlika med njimi in njihovimi karibskimi predniki je ta, da so predniki pobegnili iz norAmskih turistov. Zdaj N&#39;apulkanci profitirajo od svojih bratov in sester. Ne mislim zveneti cinično. Predvidevam, da želim pokazati, da sem še vedno sposoben določene avtorske distance, navidez nepristranskega opazovanja. Naslednji dogodki lahko kažejo drugače. V lepi turistični tradiciji je večina domov na Vegi IV poimenovana. Moj je bil Sleeping Flamingo, njegove zunanje stene pa so bile koralno roza. Če bi bili občutljivi na razpoloženje, bi se spremenili, ko sem jih prvič pogledal. Tudi najemniška agentka, privlačna N&#39;apulcan z imenom Tasha Cortez, ni bila občutljiva na razpoloženje. Rekla je: &quot;Čudovito je, kajne, señor Flynn?&quot; Moj instinkt je bil, da bi s skrito roko kretnje kretnjo dvignil in odpeljal drugam. Bila pa je mlada in privlačna (kot sem že rekel in lahko še enkrat rečem) in nestrpna in tako vesela, da je pomagala zloglasnemu Bernardu Flynnu, da sem zgolj obrvi obrnila v blagem skepticizmu. In potem, ker se dramatik ne more upreti obetavni vrstici, sem rekel: &quot;Uspanega flaminga je treba uspavati.&quot;
+passage.questions.1.question:Kdo je najel majhno hišo na Vegi IV?
+passage.questions.1.idx:2619.0
+passage.questions.1.answers.7.text:Pripovedovalec
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:13805.0
+passage.questions.1.answers.6.text:Bernardo Flynn
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:13804.0
+passage.questions.1.answers.5.text:Senjor Flynn
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:13803.0
+passage.questions.1.answers.4.text:Nuevo Acapulco
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:13802.0
+passage.questions.1.answers.3.text:Polaris II
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:13801.0
+passage.questions.1.answers.2.text:Spalni flamingo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:13800.0
+passage.questions.1.answers.1.text:Flynn
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:13799.0
+passage.questions.1.answers.0.text:Tasha Cortez
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:13798.0
+passage.questions.0.question:Kako je polno ime mesta, iz katerega je prišla Tasha Cortez?
+passage.questions.0.idx:2618
+passage.questions.0.answers.5.text:Nuevo Acapulco v La Enciclopedia del Empirio de la Humanidad
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:13797.0
+passage.questions.0.answers.4.text:Uspavani flamingo
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:13796.0
+passage.questions.0.answers.3.text:N&#39;apulco
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:13795.0
+passage.questions.0.answers.2.text:Nuevo Acapulco
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:13794.0
+passage.questions.0.answers.1.text:Polaris II
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:13793
+passage.questions.0.answers.0.text:Vega IV
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:13792
+idx:235

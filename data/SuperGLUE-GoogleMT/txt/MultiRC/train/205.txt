@@ -1,0 +1,48 @@
+version:1.1
+passage.text:Spomnili se boste imena Garibaldija, italijanskega domoljuba, ki je z Mazzinijem Avstrijcem delal težave. Končno so ga zasledovali tako tesno, da je moral zapustiti Italijo. Prišel je v Ameriko in v New Yorku postavil trgovino s sadjem, kjer je bilo precej njegovih rojakov. Do leta 1854 je v sadjarskem poslu zaslužil veliko denarja, vendar ni pozabil svoje ljubljene države in si prizadeval, da bi bil bogat samo zato, da bi lahko Avstrijo osvobodil Italijo. Razprodal je posel v New Yorku in pobral ves svoj denar ter odplul v Italijo. Ko je izbruhnila vojna 1859, se je javil in se ves čas boril. Toda kompromisni pogoji miru so ga vznemirili in ni bil zadovoljen s samo napol svobodno državo. V regiji okoli Genove je vpisal tisoč mož, ki so se lotili obupa. Garibaldi se je pogovarjal s Cavourjem in med njima sta načrtovala strmoglavljenje kraljestva obeh Sicilij in pridružitev te dežele severni državi. Seveda se je Cavour pretvarjal, da o Garibaldiju ne ve ničesar, kajti neapeljski in sicilijski kralj naj bi bil prijatelj kralja Sardinije. Kljub temu je Garibaldiju na skrivaj dal vso pomoč, ki si jo je drznil, in moške pozval, naj se vpišejo k njemu.
+passage.questions.2.question:Koga so preganjali Avstrijci
+passage.questions.2.idx:2292.0
+passage.questions.2.answers.4.text:Mazzini
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:12073.0
+passage.questions.2.answers.3.text:Neapeljski kralj
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:12072.0
+passage.questions.2.answers.2.text:Garibaldi
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:12071.0
+passage.questions.2.answers.1.text:Kralj Sardinije
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:12070.0
+passage.questions.2.answers.0.text:Cavour
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:12069.0
+passage.questions.1.question:Kdo se je boril v vojni 1859?
+passage.questions.1.idx:2291.0
+passage.questions.1.answers.4.text:Mazzini
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:12068.0
+passage.questions.1.answers.3.text:Kralj Sardinije
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:12067.0
+passage.questions.1.answers.2.text:Avstrijci
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:12066.0
+passage.questions.1.answers.1.text:Neapeljski kralj
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:12065.0
+passage.questions.1.answers.0.text:Garibaldi
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:12064.0
+passage.questions.0.question:Kdo je prišel v Ameriko in v New Yorku ustanovil trgovino s sadjem?
+passage.questions.0.idx:2290
+passage.questions.0.answers.2.text:Garibaldi
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:12063.0
+passage.questions.0.answers.1.text:Cavour
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:12062
+passage.questions.0.answers.0.text:Mazzini
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:12061
+idx:205

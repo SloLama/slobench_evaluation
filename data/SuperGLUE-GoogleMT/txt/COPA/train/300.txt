@@ -1,0 +1,6 @@
+choice1:Raje je plačevala z gotovino.
+choice2:Prejela je svoj mesečni račun.
+idx:300
+label:1
+premise:Ženska je plinskemu podjetju napisala ček.
+question:cause

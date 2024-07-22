@@ -1,0 +1,332 @@
+version:1.1
+passage.text:Statična elektrika je kot vrtenje. Kaj se zgodi, če je vrtljivka uravnotežena? Pravilno! Ne premika se. Kaj pa, ko ni uravnoteženo? Da, zdaj se bo začelo premikati. Stroški se premikajo, kadar niso uravnoteženi. Obremenitve lahko nastanejo zaradi trenja. Morda si noge podrgnete po volneni preprogi ali preprogi. Čevlji z gumijastim podplatom zlahka pridobijo naboj. Volnena preproga zlahka opusti stroške. Elementa postaneta neuravnotežena. En element ima pozitiven naboj. Drugi ima negativni naboj. Razlika v naboju se imenuje statična elektrika. Tako kot teturanje se bo nekaj premaknilo. Na preprogi se naberejo pozitivni naboji. Na vas se kopičijo negativni obtožbe.
+passage.questions.9.question:Kakšni naboji so potrebni za proizvodnjo statične elektrike?
+passage.questions.9.idx:768.0
+passage.questions.9.answers.9.text:En pozitiven in en negativni naboj
+passage.questions.9.answers.9.label:1.0
+passage.questions.9.answers.9.idx:4036.0
+passage.questions.9.answers.8.text:Kot kladiva
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:4035.0
+passage.questions.9.answers.7.text:Dober naboj
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:4034.0
+passage.questions.9.answers.6.text:Pozitiven naboj
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:4033.0
+passage.questions.9.answers.5.text:Slab naboj
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:4032.0
+passage.questions.9.answers.4.text:Negativno
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:4031.0
+passage.questions.9.answers.3.text:Pozitivne in negativne obtožbe
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:4030.0
+passage.questions.9.answers.2.text:Stacionarno
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4029.0
+passage.questions.9.answers.1.text:Nevtralni naboj
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4028.0
+passage.questions.9.answers.0.text:Negativni naboj
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4027.0
+passage.questions.8.question:Kaj se zgodi, če je vrtljivka uravnotežena?
+passage.questions.8.idx:767.0
+passage.questions.8.answers.3.text:Pomeni, da so stroški neuravnoteženi
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4026.0
+passage.questions.8.answers.2.text:Premaknilo se bo
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:4025.0
+passage.questions.8.answers.1.text:Ne premika se
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:4024.0
+passage.questions.8.answers.0.text:Nič se ne premakne
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:4023.0
+passage.questions.7.question:Stroški se lahko premaknejo, če niso uravnoteženi s čim?
+passage.questions.7.idx:766.0
+passage.questions.7.answers.8.text:Volna
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:4022.0
+passage.questions.7.answers.7.text:Skakanje gor in dol
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:4021.0
+passage.questions.7.answers.6.text:Voda
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:4020.0
+passage.questions.7.answers.5.text:Stopanje po preprogi
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:4019.0
+passage.questions.7.answers.4.text:Drgnjenje nog po volneni preprogi ali preprogi
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:4018.0
+passage.questions.7.answers.3.text:Guma
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:4017.0
+passage.questions.7.answers.2.text:Nasprotno polnjenje ali kopičenje
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4016.0
+passage.questions.7.answers.1.text:Trljanje gumijastih čevljev na preprogo ali preprogo
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4015.0
+passage.questions.7.answers.0.text:&quot;Trenje&quot;
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4014.0
+passage.questions.6.question:Kateri dve vrsti stroškov se kopičita v neuravnoteženih postavkah?
+passage.questions.6.idx:765.0
+passage.questions.6.answers.9.text:Pozitivno
+passage.questions.6.answers.9.label:0,0
+passage.questions.6.answers.9.idx:4013.0
+passage.questions.6.answers.8.text:Slabe obtožbe
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:4012.0
+passage.questions.6.answers.7.text:Negativni obtožbe
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:4011.0
+passage.questions.6.answers.6.text:Statični naboj
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:4010.0
+passage.questions.6.answers.5.text:Negativno
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:4009.0
+passage.questions.6.answers.4.text:Pozitivno in negativno
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:4008.0
+passage.questions.6.answers.3.text:Dobre dajatve
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:4007.0
+passage.questions.6.answers.2.text:Negativni in pozitivni naboj
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:4006.0
+passage.questions.6.answers.1.text:Nevtralno
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4005.0
+passage.questions.6.answers.0.text:Zunanji stroški
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4004.0
+passage.questions.5.question:Kakšen naboj je potreben za statično elektriko?
+passage.questions.5.idx:764.0
+passage.questions.5.answers.8.text:Pozitivno
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:4003.0
+passage.questions.5.answers.7.text:Neuravnotežen naboj
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:4002.0
+passage.questions.5.answers.6.text:Obremenitve lahko nastanejo zaradi trenja
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:4001.0
+passage.questions.5.answers.5.text:Električna energija na pregibu
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:4000.0
+passage.questions.5.answers.4.text:Neuravnotežen naboj
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:3999.0
+passage.questions.5.answers.3.text:Tako pozitivne kot negativne
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3998.0
+passage.questions.5.answers.2.text:Negativno
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3997.0
+passage.questions.5.answers.1.text:Nevtralni naboj
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3996.0
+passage.questions.5.answers.0.text:Premikanje naboja
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:3995.0
+passage.questions.4.question:Kakšen je primer, kako se zaradi trenja nabirajo naboji?
+passage.questions.4.idx:763.0
+passage.questions.4.answers.6.text:Vrtite si obraz
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:3994.0
+passage.questions.4.answers.5.text:Natikajte čevlje na volneno preprogo ali preprogo
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:3993.0
+passage.questions.4.answers.4.text:Dva predmeta postaneta neuravnotežena
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:3992.0
+passage.questions.4.answers.3.text:Vtrite gumijaste čevlje na volneno preprogo ali preprogo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:3991.0
+passage.questions.4.answers.2.text:Morda si noge podrgnete po volneni preprogi ali preprogi
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:3990.0
+passage.questions.4.answers.1.text:Skočite navzgor in navzdol na volneno preprogo ali preprogo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3989.0
+passage.questions.4.answers.0.text:Stopite po nogah po volneni preprogi ali preprogi
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3988.0
+passage.questions.3.question:Če dva elementa ustvarita neuravnotežene stroške, se razlika imenuje kaj?
+passage.questions.3.idx:762.0
+passage.questions.3.answers.8.text:Dober naboj
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:3987.0
+passage.questions.3.answers.7.text:&quot;Statična elektrika&quot;
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:3986.0
+passage.questions.3.answers.6.text:Pozitiven naboj
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:3985.0
+passage.questions.3.answers.5.text:Slab naboj
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:3984.0
+passage.questions.3.answers.4.text:Razlika v naboju se imenuje statična elektrika
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:3983.0
+passage.questions.3.answers.3.text:Brez stroškov
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:3982.0
+passage.questions.3.answers.2.text:Pohitrjenje
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3981.0
+passage.questions.3.answers.1.text:Nevtralni naboj
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3980.0
+passage.questions.3.answers.0.text:Negativni ali pozitivni naboj
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:3979.0
+passage.questions.2.question:Kaj se zgodi, če statična elektrika ni uravnotežena?
+passage.questions.2.idx:761.0
+passage.questions.2.answers.9.text:Zagotovo obstaja pozitiven naboj
+passage.questions.2.answers.9.label:0,0
+passage.questions.2.answers.9.idx:3978.0
+passage.questions.2.answers.8.text:Obstaja dober naboj
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:3977.0
+passage.questions.2.answers.7.text:Ne premika se
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:3976.0
+passage.questions.2.answers.6.text:Premika se in povzroča naboj
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:3975.0
+passage.questions.2.answers.5.text:Obtožbe se premikajo in povečujejo trenje
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:3974.0
+passage.questions.2.answers.4.text:Premika se in poveča svoj naboj
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:3973.0
+passage.questions.2.answers.3.text:Sedi mirno
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3972.0
+passage.questions.2.answers.2.text:Naboj je slab
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3971.0
+passage.questions.2.answers.1.text:Obstaja nevtralen naboj
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:3970.0
+passage.questions.2.answers.0.text:Prišlo bi do pozitivnega ali negativnega naboja
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:3969.0
+passage.questions.12.question:Kaj se zgodi s naboji, kadar statična elektrika ni uravnotežena?
+passage.questions.12.idx:771.0
+passage.questions.12.answers.8.text:Obtožbe se premikajo
+passage.questions.12.answers.8.label:1.0
+passage.questions.12.answers.8.idx:4060.0
+passage.questions.12.answers.7.text:Naboji se premikajo in povečujejo moč
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:4059.0
+passage.questions.12.answers.6.text:Plačila ni
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:4058.0
+passage.questions.12.answers.5.text:Naboj je uravnotežen kot vrtljivka
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:4057.0
+passage.questions.12.answers.4.text:Nič
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:4056.0
+passage.questions.12.answers.3.text:Tako kot teturanje se bo nekaj premaknilo
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:4055.0
+passage.questions.12.answers.2.text:Naboj se ne premakne in postane nemočen
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:4054.0
+passage.questions.12.answers.1.text:Obstaja nevtralen naboj
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4053.0
+passage.questions.12.answers.0.text:Predmeti imajo pozitiven ali negativen naboj
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:4052.0
+passage.questions.11.question:Kaj se zgodi s statično elektriko, če je uravnotežena?
+passage.questions.11.idx:770.0
+passage.questions.11.answers.6.text:Premika se
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:4051.0
+passage.questions.11.answers.5.text:Ne premika se
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:4050.0
+passage.questions.11.answers.4.text:Ves pozitivni naboj je na volni
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:4049.0
+passage.questions.11.answers.3.text:Nič
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:4048.0
+passage.questions.11.answers.2.text:Ves negativni naboj je na volni
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4047.0
+passage.questions.11.answers.1.text:Potem ni treba plačati
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:4046.0
+passage.questions.11.answers.0.text:Naboj je nevtralen
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:4045.0
+passage.questions.10.question:V čem so električni naboji podobni vrtinčenju?
+passage.questions.10.idx:769.0
+passage.questions.10.answers.7.text:Obtožbe se premikajo, kadar niso uravnotežene, tako kot se premikajo, kadar ni uravnoteženo
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:4044.0
+passage.questions.10.answers.6.text:Trnulji povzročajo velike količine električnih nabojev
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:4043.0
+passage.questions.10.answers.5.text:Elementa postaneta neuravnotežena
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:4042.0
+passage.questions.10.answers.4.text:Če so uravnoteženi, se ne premikajo
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:4041.0
+passage.questions.10.answers.3.text:Če se uravnoteži, se stroški ne premikajo
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:4040.0
+passage.questions.10.answers.2.text:Šokirani boste, če se dotaknete teturanja
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4039.0
+passage.questions.10.answers.1.text:Zunaj so
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:4038.0
+passage.questions.10.answers.0.text:Neravnovesje pomeni, da se bo nekaj premaknilo
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:4037.0
+passage.questions.1.question:Ali se vrtljivi igralec premika, če je uravnotežen?
+passage.questions.1.idx:760.0
+passage.questions.1.answers.2.text:Nevem
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:3968.0
+passage.questions.1.answers.1.text:Ja, premaknilo se bo
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:3967.0
+passage.questions.1.answers.0.text:Ne, ne
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:3966.0
+passage.questions.0.question:Kaj se zgodi, ko je statična elektrika uravnotežena kot vrtljivka?
+passage.questions.0.idx:759
+passage.questions.0.answers.5.text:Premika se
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:3965.0
+passage.questions.0.answers.4.text:Premika se, da ustvari neravnovesje
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:3964.0
+passage.questions.0.answers.3.text:&quot;Ne premika se.&quot;
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3963.0
+passage.questions.0.answers.2.text:Nič
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:3962.0
+passage.questions.0.answers.1.text:Statični naboj ustvarja ravnovesje
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3961
+passage.questions.0.answers.0.text:Pozitivni naboji se kopičijo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3960
+idx:65

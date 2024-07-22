@@ -1,0 +1,4 @@
+idx:247
+label:False
+passage:Tabela (baza podatkov) - V smislu relacijskega modela baz podatkov lahko tabelo štejemo za priročno predstavitev relacije, vendar obe nista popolnoma enakovredni. Na primer, tabela SQL lahko potencialno vsebuje podvojene vrstice, medtem ko resnična relacija ne more vsebovati dvojnikov. Podobno predstavljanje kot tabela pomeni določeno urejanje vrstic in stolpcev, medtem ko je relacija izrecno neurejena. Vendar sistem zbirke podatkov ne zagotavlja nobenega urejanja vrstic, razen če je v stavku SELECT, ki poizveduje po tabeli, določen stavek ORDER BY.
+question:če tabela vsebuje primarni ključ, v tabeli ne more biti podvojenih zapisov

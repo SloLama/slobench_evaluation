@@ -1,0 +1,279 @@
+version:1.1
+passage.text:Abrazija je še ena vrsta vremenskih vplivov. Tako kot zagozditev ledu je oblika mehanskega preperevanja. Tako kot ledeno zagozdo tudi abrazija ne spremeni kamnine v drugo vrsto kamnine. Z odrgnino se ena skala ali kos usedline udari ob drugo skalo. Kamnine se običajno ne kotalijo same od sebe, zakaj se torej premikajo? Obstaja nekaj razlogov, zakaj se kamen lahko premakne. Gravitacija lahko povzroči premikanje kamnin. Lahko se kotalijo navzdol ali padejo s pečine. Ko se kotalijo po hribu navzdol, se zaletavajo. Mogoče premikajoča se skala zadene kamen, ki se ne premika na dnu hriba. Premikanje vode povzroča premikanje kamenja in usedlin. Kamnine se odbijajo vzdolž dna in trčijo ena ob drugo. Ko trčita, se začneta odbijati drug od drugega. Kotne kamnine se z vsakim trkom bolj zaoblijo. Močan veter povzroča odrgnine. Veter nosi usedline. Ta usedlina ga veter vrže na druge skalnate površine. To je kot peskanje peska.
+passage.questions.9.question:Katere dve vrsti gibanja bi lahko povzročila gravitacija v kamninah?
+passage.questions.9.idx:142.0
+passage.questions.9.answers.6.text:Krožno gibanje
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:704.0
+passage.questions.9.answers.5.text:Lahko padejo s pečine
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:703.0
+passage.questions.9.answers.4.text:Za kotaljenje navzdol ali padanje s pečine
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:702.0
+passage.questions.9.answers.3.text:Lahko se kotalijo navzdol
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:701.0
+passage.questions.9.answers.2.text:Močni vetrovi
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:700.0
+passage.questions.9.answers.1.text:Levitacija
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:699.0
+passage.questions.9.answers.0.text:Trčenje
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:698.0
+passage.questions.8.question:Kako gravitacija povzroči premikanje kamnin?
+passage.questions.8.idx:141.0
+passage.questions.8.answers.6.text:Lahko se kotalijo navzdol ali padejo s pečine
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:697.0
+passage.questions.8.answers.5.text:S kinetično silo
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:696.0
+passage.questions.8.answers.4.text:Lahko padejo s pečine
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:695.0
+passage.questions.8.answers.3.text:Lahko se kotalijo navzdol
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:694.0
+passage.questions.8.answers.2.text:S potiskom in vlečenjem
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:693.0
+passage.questions.8.answers.1.text:Naletita drug na drugega
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:692.0
+passage.questions.8.answers.0.text:Z vodno silo
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:691.0
+passage.questions.7.question:Kakšne vremenske razmere so abrazija in zagozditev ledu?
+passage.questions.7.idx:140.0
+passage.questions.7.answers.4.text:Sončno vreme
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:690.0
+passage.questions.7.answers.3.text:Kemično preperevanje
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:689.0
+passage.questions.7.answers.2.text:Erozivno vreme
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:688.0
+passage.questions.7.answers.1.text:Abrazija
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:687.0
+passage.questions.7.answers.0.text:Mehansko preperevanje
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:686.0
+passage.questions.6.question:Katere sile povzročajo premikanje kamnin?
+passage.questions.6.idx:139.0
+passage.questions.6.answers.7.text:Premikanje vode
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:685.0
+passage.questions.6.answers.6.text:Gravitacija, voda in veter
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:684.0
+passage.questions.6.answers.5.text:Ljudje
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:683.0
+passage.questions.6.answers.4.text:Gravitacija
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:682.0
+passage.questions.6.answers.3.text:Plazovi
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:681.0
+passage.questions.6.answers.2.text:Pesek
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:680.0
+passage.questions.6.answers.1.text:Tornadi
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:679.0
+passage.questions.6.answers.0.text:Veter
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:678.0
+passage.questions.5.question:Kako usedlina vpliva na skalne površine?
+passage.questions.5.idx:138.0
+passage.questions.5.answers.6.text:Veter ga vrže na druge skalnate površine
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:677.0
+passage.questions.5.answers.5.text:Povzroča mehansko preperevanje
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:676.0
+passage.questions.5.answers.4.text:Povzroča gravitacijsko preperevanje
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:675.0
+passage.questions.5.answers.3.text:Povzroča sončno vreme
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:674.0
+passage.questions.5.answers.2.text:Premakni kamenje
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:673.0
+passage.questions.5.answers.1.text:Deluje kot peskalec in spreminja oblike kamnin
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:672.0
+passage.questions.5.answers.0.text:Povzroča kemično preperevanje
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:671.0
+passage.questions.4.question:Med trčenjem kamnin, kaj se zgodi z njihovo obliko?
+passage.questions.4.idx:137.0
+passage.questions.4.answers.6.text:Postanejo bolj zaokroženi
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:670.0
+passage.questions.4.answers.5.text:Postanite bolj zaokroženi
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:669.0
+passage.questions.4.answers.4.text:Postane gladko
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:668.0
+passage.questions.4.answers.3.text:Razdeli se na dva dela
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:667.0
+passage.questions.4.answers.2.text:Ko trčita, se začneta odbijati drug od drugega
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:666.0
+passage.questions.4.answers.1.text:Postane ovalna
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:665.0
+passage.questions.4.answers.0.text:Kotne kamnine se z vsakim trkom bolj zaoblijo
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:664.0
+passage.questions.3.question:Kako močan veter povzroča odrgnine?
+passage.questions.3.idx:136.0
+passage.questions.3.answers.6.text:Napad vode ob kamenje
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:663.0
+passage.questions.3.answers.5.text:Gibljive vode
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:662.0
+passage.questions.3.answers.4.text:Veter nosi usedline. Poslano 17: Ta sediment veter vrže na druge skalnate površine
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:661.0
+passage.questions.3.answers.3.text:Pobiranje in premikanje
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:660.0
+passage.questions.3.answers.2.text:Piha po površini
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:659.0
+passage.questions.3.answers.1.text:Veter nosi usedline, ki jih vržejo na druge skalnate površine in delujejo kot peskanje kamenja
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:658.0
+passage.questions.3.answers.0.text:Ta usedlina, ki jo nosi veter, veter vrže na druge skalnate površine
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:657.0
+passage.questions.2.question:Kateri sta dve vrsti preperevanja?
+passage.questions.2.idx:135
+passage.questions.2.answers.7.text:Sprememba podnebja
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:656.0
+passage.questions.2.answers.6.text:Preperevanje mehanike
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:655.0
+passage.questions.2.answers.5.text:Abrazija in zagozditev ledu
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:654.0
+passage.questions.2.answers.4.text:Ledeno zagozdenje in odrgnine
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:653.0
+passage.questions.2.answers.3.text:Orkani
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:652.0
+passage.questions.2.answers.2.text:Abrazija
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:651.0
+passage.questions.2.answers.1.text:Erozija
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:650
+passage.questions.2.answers.0.text:Zabijanje ledu
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:649
+passage.questions.11.question:Kaj povzroča premikanje kamnin?
+passage.questions.11.idx:144.0
+passage.questions.11.answers.9.text:Premikanje vode
+passage.questions.11.answers.9.label:1.0
+passage.questions.11.answers.9.idx:719.0
+passage.questions.11.answers.8.text:GRavita se spušča navzdol in premika vodo
+passage.questions.11.answers.8.label:1.0
+passage.questions.11.answers.8.idx:718.0
+passage.questions.11.answers.7.text:Ljudje
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:717.0
+passage.questions.11.answers.6.text:Gravitacija
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:716.0
+passage.questions.11.answers.5.text:Plazovi
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:715.0
+passage.questions.11.answers.4.text:Voda
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:714.0
+passage.questions.11.answers.3.text:Močni vetrovi
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:713.0
+passage.questions.11.answers.2.text:Pesek
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:712.0
+passage.questions.11.answers.1.text:Tornadi
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:711.0
+passage.questions.11.answers.0.text:Veter
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:710.0
+passage.questions.10.question:Čemu je podoben sediment, ki se meče na druge skalnate površine?
+passage.questions.10.idx:143.0
+passage.questions.10.answers.4.text:Kot bi ga udaril s svedrom
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:709.0
+passage.questions.10.answers.3.text:To je kot peskanje peska
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:708.0
+passage.questions.10.answers.2.text:Kot voda proti njej
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:707.0
+passage.questions.10.answers.1.text:Kot bi jo strgala jeklena volna
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:706.0
+passage.questions.10.answers.0.text:Kot vode se premikajo
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:705.0
+passage.questions.1.question:Kako sta si podobna drgnjenje in varjenje z ledom?
+passage.questions.1.idx:134
+passage.questions.1.answers.6.text:Oba sta mehanično preperevala
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:648.0
+passage.questions.1.answers.5.text:Obe obliki sta sončnega vremena
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:647.0
+passage.questions.1.answers.4.text:Obe obliki mehanskega preperevanja sta
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:646.0
+passage.questions.1.answers.3.text:Obe obliki gravitacijskega preperevanja sta
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:645.0
+passage.questions.1.answers.2.text:Oboje je vrsta mehanskega preperevanja
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:644.0
+passage.questions.1.answers.1.text:Premikajo kamenje
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:643
+passage.questions.1.answers.0.text:Obe obliki sta kemični vremenski vplivi
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:642
+passage.questions.0.question:Kako lahko močan veter povzroči odrgnine?
+passage.questions.0.idx:133
+passage.questions.0.answers.5.text:Veter nosi usedline in jih ta usedlina vrže na druge skalnate površine
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:641.0
+passage.questions.0.answers.4.text:To je kot peskanje peska
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:640.0
+passage.questions.0.answers.3.text:Piha vodo čez skale
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:639.0
+passage.questions.0.answers.2.text:Veter nosi usedline, ki jih veter vrže na druge skalnate površine
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:638.0
+passage.questions.0.answers.1.text:Zaradi tega se skale valijo
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:637
+passage.questions.0.answers.0.text:Piha ob skalo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:636
+idx:13

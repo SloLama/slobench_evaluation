@@ -1,0 +1,237 @@
+version:1.1
+passage.text:V Meadowvaleu v Kaliforniji se 9. junija 1970 na vrhuncu popolnega mrka rodijo trije dojenčki. Zaradi sonca in lune, ki blokira Saturn, ki nadzoruje čustva, se dojenčki razvijejo v brezsrčne in brezskrbne otroke, ki nimajo občutka obžalovanja zaradi svojih grozljivih prekrškov. Deset let kasneje, leta 1980, Curtis, Debbie in Steven začnejo ubijati odrasle okoli sebe in se lahko izognejo zaznavanju zaradi svojih mladostnih in nedolžnih fa ades. Ko pa Timmy in Joyce odkrijeta svoja zločina, se znajdeta kot tarča zlih otrok. Njihov poskus opozarjanja sosedov nanje se prezre. Kmalu Beverly odkrije grozljivo skrivnost Debbie s časopisnimi izrezki kot dokazom in izve, da so za umor odgovorne ona, Curtis in Steven. Zaveda se, da sta Joyce in Timmy ves čas govorila resnico, in se zaradi tega sooči s svojo sestro. Beverly in gospa Brody prepovesta Debbie druženje s Curtisom in Stevenom. Debbie se odzove tako, da je svojo starejšo sestro v maščevanje ubila z lokom in puščico. Kmalu poskušata ubiti Joycea in Timmyja. Vendar se borijo in uspejo ujeti Stevena in Curtisa. Medtem ko Timmy pokliče policijo iz sosedove hiše, Debbie uspe pobegniti z dvorišča in vstopi v materin avto. Uspeva ji lagati o Curitsu in Stevenu jo poskuša postaviti tako, da bo padla za napade. Na koncu policija Curtisa in Stevena aretira na mesto šoka in jeze.
+passage.questions.9.question:Kje živita Timmy in Joyce?
+passage.questions.9.idx:2742.0
+passage.questions.9.answers.2.text:Meadowvale, Kalifornija
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:14494.0
+passage.questions.9.answers.1.text:V travnik
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:14493.0
+passage.questions.9.answers.0.text:Čez cesto
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:14492.0
+passage.questions.8.question:Kako se imenujejo dojenčki?
+passage.questions.8.idx:2741.0
+passage.questions.8.answers.2.text:Curtis, Debbie, Steven
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:14491.0
+passage.questions.8.answers.1.text:Brody, debbie, jules
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:14490.0
+passage.questions.8.answers.0.text:Curtis, debbie, Steven
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:14489.0
+passage.questions.7.question:Kakšni so rezultati, ko se dojenčki rodijo med popolnim mrkom?
+passage.questions.7.idx:2740.0
+passage.questions.7.answers.2.text:Nimajo obžalovanja ali čustev
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:14488.0
+passage.questions.7.answers.1.text:Zaradi sonca in lune, ki blokira Saturn, ki nadzoruje čustva, se dojenčki razvijejo v brezsrčne in brezskrbne otroke, ki nimajo občutka obžalovanja zaradi svojih grozljivih prestopkov. Začnejo ubijati odrasle okoli sebe
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:14487.0
+passage.questions.7.answers.0.text:So siamski dvojčki
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:14486.0
+passage.questions.6.question:Kje se nahaja soseska?
+passage.questions.6.idx:2739.0
+passage.questions.6.answers.2.text:Meadowvale
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:14485.0
+passage.questions.6.answers.1.text:Meadowvale, Kalifornija
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:14484.0
+passage.questions.6.answers.0.text:kingstown
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:14483.0
+passage.questions.5.question:Kaj se zgodi z Debbie po ujetju Curtisa in Stevena?
+passage.questions.5.idx:2738.0
+passage.questions.5.answers.2.text:Videti je bila kot postavitev
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:14482.0
+passage.questions.5.answers.1.text:Nič
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:14481.0
+passage.questions.5.answers.0.text:Pobegnila je tako, da se je skrila v materin avto (Sent 12) in prepričala mamo, da so ji fantje pripravili aretacijo (Sent 13)
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14480.0
+passage.questions.4.question:Na koga Timmy pokliče policijo?
+passage.questions.4.idx:2737.0
+passage.questions.4.answers.2.text:Toby in joyce
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:14479.0
+passage.questions.4.answers.1.text:Steven in Curtis
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:14478.0
+passage.questions.4.answers.0.text:Curtis in Steven
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14477.0
+passage.questions.3.question:Kako se imenujejo otroci, ki so ciljali na Timmyja in Joycea?
+passage.questions.3.idx:2736.0
+passage.questions.3.answers.2.text:Brody, debbie in joyce
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:14476.0
+passage.questions.3.answers.1.text:Curtis, Debbie in Steven
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:14475.0
+passage.questions.3.answers.0.text:Curtis, debbie in Steven
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:14474.0
+passage.questions.20.question:Koliko so bili stari trije otroci, ko so prvič začeli ubijati?
+passage.questions.20.idx:2753.0
+passage.questions.20.answers.2.text:10.
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:14528.0
+passage.questions.20.answers.1.text:17.
+passage.questions.20.answers.1.label:0,0
+passage.questions.20.answers.1.idx:14527.0
+passage.questions.20.answers.0.text:Deset let, ker so se rodili leta 1970 (poslano 1), odrasle pa začeli ubijati leta 1980 (poslano 3)
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:14526.0
+passage.questions.2.question:Zakaj so sosedje prezrli opozorila Timmyja in Joycea?
+passage.questions.2.idx:2735.0
+passage.questions.2.answers.2.text:10-letni otroci ne morejo ubiti odraslih
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:14473.0
+passage.questions.2.answers.1.text:Niso jim verjeli
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14472.0
+passage.questions.2.answers.0.text:Mladostno otroško kadilo
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:14471.0
+passage.questions.19.question:Kdaj so se rodili Curtis, Debbie in Steven?
+passage.questions.19.idx:2752.0
+passage.questions.19.answers.5.text:20.
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:14525.0
+passage.questions.19.answers.4.text:1970
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:14524.0
+passage.questions.19.answers.3.text:9. junija 1970
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:14523.0
+passage.questions.19.answers.2.text:06
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:14522.0
+passage.questions.19.answers.1.text:1980
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:14521.0
+passage.questions.19.answers.0.text:09
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:14520.0
+passage.questions.18.question:Na kateri dan so se rodili Curtis, Debbie in Steven?
+passage.questions.18.idx:2751.0
+passage.questions.18.answers.2.text:9. junija 1970
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:14519.0
+passage.questions.18.answers.1.text:10. junij 1970
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:14518.0
+passage.questions.18.answers.0.text:9. junij 1970
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:14517.0
+passage.questions.17.question:Kako je ime Curtisovi in Stevenovi materi?
+passage.questions.17.idx:2750.0
+passage.questions.17.answers.2.text:Gospa brody
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:14516.0
+passage.questions.17.answers.1.text:Gospa Brody
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:14515.0
+passage.questions.17.answers.0.text:Gospa Kingston
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:14514.0
+passage.questions.16.question:Kaj se zgodi, ko Debbie uspe pobegniti z dvorišča?
+passage.questions.16.idx:2749.0
+passage.questions.16.answers.2.text:Vso krivdo prelaga na druga dva
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:14513.0
+passage.questions.16.answers.1.text:Nič
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:14512.0
+passage.questions.16.answers.0.text:Vstopi v materin avto. Uspeva ji lagati o Curitsu in Stevenu jo poskuša postaviti tako, da bo padla za napade
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:14511.0
+passage.questions.15.question:Zakaj se ti posamezniki niso pokesali zaradi česar koli, kar so storili?
+passage.questions.15.idx:2748.0
+passage.questions.15.answers.2.text:Zaradi sonca in lune, ki blokira Saturn, ki nadzoruje čustva, se dojenčki razvijejo v brezsrčne in brezskrbne otroke, ki nimajo občutka obžalovanja zaradi svojih grozljivih prestopkov.
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:14510.0
+passage.questions.15.answers.1.text:Rojeni so bili na vrhuncu popolnega mrka (Poslano 1), takrat sonce in luna blokirata Saturn ali planet, ki naj bi nadzoroval čustva (Poslani 2)
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:14509.0
+passage.questions.15.answers.0.text:Bili so bolni
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:14508.0
+passage.questions.14.question:Na kaj sta Timmy in Joyce opozorila sosede?
+passage.questions.14.idx:2747.0
+passage.questions.14.answers.2.text:O hudobnih otrocih, ki ubijajo odrasle
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:14507.0
+passage.questions.14.answers.1.text:Trije otroci, ki so ubili odrasle
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:14506.0
+passage.questions.14.answers.0.text:Otroci, ki mučijo živali
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:14505.0
+passage.questions.13.question:Zakaj so bili Debbie, Curtis in Steven tako vznemirjeni z Joyceom in Timmyjem?
+passage.questions.13.idx:2746.0
+passage.questions.13.answers.2.text:Ker so jih razkrinkavali
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:14504.0
+passage.questions.13.answers.1.text:Ker sta Joyce in Timmy sosede opozorila (poslano 5), potem ko sta ugotovila, da so bili morilci Debbie, Curtis in Steven (poslano 4)
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:14503.0
+passage.questions.13.answers.0.text:Brez razloga
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:14502.0
+passage.questions.12.question:Kdo sta Curtis in Stevenova starejša sestra?
+passage.questions.12.idx:2745.0
+passage.questions.12.answers.2.text:Debbie
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:14501.0
+passage.questions.12.answers.1.text:Beveryly
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:14500.0
+passage.questions.12.answers.0.text:Beverly
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:14499.0
+passage.questions.11.question:Kdo poskuša sosede opozoriti na zločince?
+passage.questions.11.idx:2744.0
+passage.questions.11.answers.1.text:Timmy in Joyce
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:14498.0
+passage.questions.11.answers.0.text:Curtis in Steven
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:14497.0
+passage.questions.10.question:Kdo ujame Stevena in Curtisa?
+passage.questions.10.idx:2743.0
+passage.questions.10.answers.1.text:Joyce in Timmy
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:14496.0
+passage.questions.10.answers.0.text:Dabbie in Brody
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:14495.0
+passage.questions.1.question:Kateri dojenčki se rodijo v Meadowvaleu v Kaliforniji 9. junija 1970 v času popolnega mrka?
+passage.questions.1.idx:2734.0
+passage.questions.1.answers.2.text:Joyce, Beverly ,, Steven
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:14470.0
+passage.questions.1.answers.1.text:Curtis, Debbie in Steven
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:14469.0
+passage.questions.1.answers.0.text:Curtis, debbie, Steven
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:14468.0
+passage.questions.0.question:Kakšna dejanja sprejme Beverly, ko odkrije, da je njena sestra morilec?
+passage.questions.0.idx:2733
+passage.questions.0.answers.2.text:Sooči se s sestro
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:14467.0
+passage.questions.0.answers.1.text:Nič
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:14466
+passage.questions.0.answers.0.text:Sooči se z Debbie (Poslano 7), nato pa ji pove, da ne sme več preživeti časa s Curtisom in Stevenom (Poslano 8)
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:14465
+idx:247

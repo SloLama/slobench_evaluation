@@ -1,0 +1,117 @@
+version:1.1
+passage.text:Aleksandrova smrt je bila tako nenadna, da ko so poročila o njegovi smrti prišla v Grčijo, jim niso takoj zaupali. Aleksander ni imel očitnega ali zakonitega naslednika, njegov sin Aleksander IV. Roxane se je rodil po Aleksandrovi smrti. Po Diodorju so ga Aleksandrovi spremljevalci na smrtni postelji vprašali, komu je zapustil kraljestvo; njegov lakonski odgovor je bil &quot;toi kratistoi&quot; - &quot;najmočnejšemu&quot;. Arrian in Plutarch sta trdila, da je Aleksander v tem trenutku ostal brez besed, kar je nakazovalo, da gre za apokrifno zgodbo. Diodor, Curtius in Justin so verjetnejšo zgodbo ponudili, da je Aleksander pred pricami Perdiccasu, telesnemu strazarju in vodji spremljevalne konjenice, predal prstni pečat in ga tako imenoval. Perdiccas sprva ni zahteval moči, temveč je predlagal, da bi bil Roxanein otrok kralj, če bi bil moški; s seboj, Craterus, Leonnatus in Antipater kot varuhi. Vendar je pehota pod poveljstvom Meleagerja to ureditev zavrnila, ker je bila izključena iz razprave. Namesto tega so podprli Aleksandrovega polbrata Filipa Arhidaeusa. Sčasoma sta se strani sprijaznili in po rojstvu Aleksandra IV. Sta bila s Filipom III imenovana za skupna kralja, čeprav le z imenom. Makedonce pa sta kmalu prizadela nesoglasja in rivalstvo. Satrapije, ki jih je Perdika razdelil na Babilonski pregradi, so postale osnove moči, ki jih je vsak general uporabljal za oblast. Po atentatu na Perdiko leta 321 pred našim štetjem je makedonska enotnost propadla in sledilo je 40 let vojne med &quot;nasledniki&quot; (Diadochi), preden se je helenistični svet naselil v štiri stabilne bloke moči: ptolemajski Egipt, Selucid Mezopotamija in Srednja Azija, Atalid Anadolija, in Antigonid Makedon. Med tem sta bila ubita Aleksander IV in Filip III.
+passage.questions.5.question:V čem je neskladje s tem, kar je Aleksander naredil na smrtni postelji?
+passage.questions.5.idx:64.0
+passage.questions.5.answers.5.text:Aleksandrovi spremljevalci so ga vprašali na smrtni postelji
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:275.0
+passage.questions.5.answers.4.text:Kaj storiti s telesom
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:274.0
+passage.questions.5.answers.3.text:Po Diodorju so ga prosili, naj imenuje svojega naslednika, a Plutarh je trdil, da je Aleksander ostal brez besed
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:273.0
+passage.questions.5.answers.2.text:Aleksander IV Rojen Rojen
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:272.0
+passage.questions.5.answers.1.text:Aleksander ni imel očitnega ali zakonitega dediča
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:271.0
+passage.questions.5.answers.0.text:Koga je izbral za naslednika
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:270.0
+passage.questions.4.question:Kakšen dogovor sta pehota in Meleager zavrnila?
+passage.questions.4.idx:63.0
+passage.questions.4.answers.3.text:Da bi bil Roxanein dojenček kralj, če bi bil moški; s seboj, Craterus, Leonnatus in Antipater kot varuhi
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:269.0
+passage.questions.4.answers.2.text:Pehota pod poveljstvom Roxane
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:268.0
+passage.questions.4.answers.1.text:Razprava
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:267.0
+passage.questions.4.answers.0.text:Ta Diodor bi bil kralj
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:266.0
+passage.questions.3.question:Zakaj bi moral Aleksander na smrtni postelji razglasiti dediča?
+passage.questions.3.idx:62.0
+passage.questions.3.answers.5.text:Ko bodo poročila o njegovi smrti prišla v Grčijo, bodo takoj verjeli
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:265.0
+passage.questions.3.answers.4.text:Ni imel dediča in njegov otrok se je rodil po lastni smrti
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:264.0
+passage.questions.3.answers.3.text:Če naj Arrian in Plutarh trdita, da je Aleksander v tem trenutku ostal brez besed
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:263.0
+passage.questions.3.answers.2.text:Da bodo znali vladati
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:262.0
+passage.questions.3.answers.1.text:Da bi se potegovali za moč
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:261.0
+passage.questions.3.answers.0.text:Tako da ljudje vedo, komu naj sledijo
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:260.0
+passage.questions.2.question:Kdo je podpiral Aleksandrovega polbrata?
+passage.questions.2.idx:61
+passage.questions.2.answers.5.text:Ta ureditev
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:259.0
+passage.questions.2.answers.4.text:Meleager in pehota
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:258.0
+passage.questions.2.answers.3.text:Diodor
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:257.0
+passage.questions.2.answers.2.text:Filip Arhidaeus
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:256.0
+passage.questions.2.answers.1.text:Pehota pod poveljstvom Meleagerja
+passage.questions.2.answers.1.label:1.
+passage.questions.2.answers.1.idx:255
+passage.questions.2.answers.0.text:Aleksandrov polbrat
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:254
+passage.questions.1.question:Kaj se je zgodilo po Aleksandrovi smrti?
+passage.questions.1.idx:60
+passage.questions.1.answers.5.text:Besedi o njegovi smrti niso takoj verjeli in očitnega dediča ni bilo
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:253.0
+passage.questions.1.answers.4.text:Sprva ni nihče verjel, da je mrtev
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:252.0
+passage.questions.1.answers.3.text:Njegov odgovor &quot;najmočnejšim&quot;
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:251.0
+passage.questions.1.answers.2.text:Aleksandrovi spremljevalci so ga na smrtni postelji vprašali, komu je zaupal svoje kraljestvo
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:250.0
+passage.questions.1.answers.1.text:Poročila o njegovi smrti niso prišla v Grčijo
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:249
+passage.questions.1.answers.0.text:Ljudje so se spraševali, kdo bo zasedel njegovo mesto
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:248
+passage.questions.0.question:Kaj vodi k umoru Aleksandra IV in Filipa III?
+passage.questions.0.idx:59
+passage.questions.0.answers.5.text:Filip III je bil imenovan za skupnega kralja
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:247.0
+passage.questions.0.answers.4.text:Nesoglasje in rivalstvo
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:246.0
+passage.questions.0.answers.3.text:V 40 letih vojne
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:245.0
+passage.questions.0.answers.2.text:Rojstvo Aleksandra IV
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:244.0
+passage.questions.0.answers.1.text:Oba sta umrla na svojih domovih
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:243
+passage.questions.0.answers.0.text:Po atentatu na Perdiko leta 321 pred našim štetjem je makedonska enotnost propadla in sledilo je 40 let vojne med &quot;nasledniki&quot; (Diadochi), preden se je helenistični svet naselil v štiri stabilne bloke moči
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:242
+idx:6

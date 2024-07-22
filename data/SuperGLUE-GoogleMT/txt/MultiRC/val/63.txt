@@ -1,0 +1,134 @@
+version:1.1
+passage.text:Po tistem, kar se je Tibu zdelo večnost, sta prispela do ustja jame med dvema skalnatima hriboma. Odprtina je bila nizka in ozka. Nekaj sadik, vezanih skupaj s trakovi surove kože, ga je zaprlo pred potepuškimi zveri. Bukawai je odstranil primitivna vrata in potisnil Tibo noter. Hijene, ki so zarežale, so planirale mimo njega in se v črnini notranjosti izgubile za pogled. Bukawai je zamenjal sadike in je Tiba približno prijel za roko in ga vlekel po ozkem skalnatem prehodu. Tla so bila razmeroma gladka, saj je bila umazanija, ki je debelo ležala na njej, potlačena in poteptana za veliko metrov, dokler ni ostalo le nekaj neenakosti. Prehod je bil vijugast in ker je bilo zelo temno in stene hrapave in skalnate, je bil Tibo opraskan in podpluten zaradi številnih izboklin, ki jih je prejel. Bukawai je hodil tako hitro skozi vijugasto galerijo, kot bi ga dnevna svetloba prehodila po znanem pasu. Poznal je vsak zasuk, kot mati pozna obraz svojega otroka, in zdelo se mu je, da se mu mudi. Ubogega malega Tiboja je potegnil morda malenkost bolj neusmiljeno, kot je bilo potrebno, tudi v tempu, ki ga je postavil Bukawai toda stara čarovnica, izobčenec iz družbe človeka, bolnega, izogibanega, sovraženega in batega, še zdaleč ni imela angelske narave. Narava mu je dala le malo prijaznejših lastnosti človeka in teh nekaj Usod je v celoti izkoreninila. Premišljen, zvit, okruten, maščevalen je bil Bukawai, čarovnica.
+passage.questions.9.question:Odpiranje tega, kar je bilo nizko in ozko?
+passage.questions.9.idx:747.0
+passage.questions.9.answers.2.text:Jama
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:3695.0
+passage.questions.9.answers.1.text:Ustje jame
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:3694.0
+passage.questions.9.answers.0.text:Konec ceste
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:3693.0
+passage.questions.8.question:So bili zidovi in tla jame gladki?
+passage.questions.8.idx:746.0
+passage.questions.8.answers.2.text:Da
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:3692.0
+passage.questions.8.answers.1.text:Tla so bila gladka, stene grobe in skalnate
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:3691.0
+passage.questions.8.answers.0.text:Ne
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:3690.0
+passage.questions.7.question:Kdo je otrok, ki ga je Bukawai vlekel skozi jamo?
+passage.questions.7.idx:745.0
+passage.questions.7.answers.1.text:Bukawai
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:3689.0
+passage.questions.7.answers.0.text:Tibo
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:3688.0
+passage.questions.6.question:Iz česa so bila narejena vrata jame?
+passage.questions.6.idx:744.0
+passage.questions.6.answers.2.text:Nekaj sadik, povezanih s trakovi surove kože
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:3687.0
+passage.questions.6.answers.1.text:Sadike in surova koža
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3686.0
+passage.questions.6.answers.0.text:Nekaj trakov lesa
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3685.0
+passage.questions.5.question:S kom je Tobi prispel do ustja jame med dvema skalnatima hriboma?
+passage.questions.5.idx:743.0
+passage.questions.5.answers.2.text:Bukawai
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:3684.0
+passage.questions.5.answers.1.text:Tibo
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:3683.0
+passage.questions.5.answers.0.text:Bukawai, čarovnica
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3682.0
+passage.questions.4.question:Kaj je ležalo onkraj ustja jame?
+passage.questions.4.idx:742.0
+passage.questions.4.answers.2.text:Jezero
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3681.0
+passage.questions.4.answers.1.text:Bukawaijeve bivalne prostore
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3680.0
+passage.questions.4.answers.0.text:Ozek, skalnat prehod
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:3679.0
+passage.questions.3.question:Kdo je poznal vsak zasuk galerije?
+passage.questions.3.idx:741.0
+passage.questions.3.answers.1.text:Bukawai
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:3678.0
+passage.questions.3.answers.0.text:Tibo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3677.0
+passage.questions.2.question:Kaj je tvorilo primitivna vrata, ki jih je Bukawai odstranil?
+passage.questions.2.idx:740
+passage.questions.2.answers.1.text:Nekaj trakov lesa
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3676
+passage.questions.2.answers.0.text:Nekaj sadik, povezanih s trakovi surove kože
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:3675
+passage.questions.12.question:Je bil Bukawai nežen s Tibo?
+passage.questions.12.idx:750.0
+passage.questions.12.answers.2.text:Ne, bil je hud z njim
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:3704.0
+passage.questions.12.answers.1.text:Da
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:3703.0
+passage.questions.12.answers.0.text:Ne
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:3702.0
+passage.questions.11.question:Kam je čarovnica odpeljala Tibo?
+passage.questions.11.idx:749.0
+passage.questions.11.answers.2.text:V njegove bivalne prostore
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:3701.0
+passage.questions.11.answers.1.text:V jamo
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:3700.0
+passage.questions.11.answers.0.text:Do jezera
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:3699.0
+passage.questions.10.question:Kam je Bukawai potisnil Tibo?
+passage.questions.10.idx:748.0
+passage.questions.10.answers.2.text:V vratih
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:3698.0
+passage.questions.10.answers.1.text:V jezeru
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:3697.0
+passage.questions.10.answers.0.text:V jamo
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:3696.0
+passage.questions.1.question:Kakšne živali so prihitele, potem ko je Bukawai odprl vrata jame?
+passage.questions.1.idx:739
+passage.questions.1.answers.2.text:Hijene
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3674.0
+passage.questions.1.answers.1.text:Levi
+passage.questions.1.answers.1.label:0
+passage.questions.1.answers.1.idx:3673
+passage.questions.1.answers.0.text:Črkanje
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3672
+passage.questions.0.question:Kdo je prišel v jamo s Tibo?
+passage.questions.0.idx:738
+passage.questions.0.answers.1.text:Bukawai
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:3671
+passage.questions.0.answers.0.text:Tibo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:3670
+idx:63

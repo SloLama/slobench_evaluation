@@ -1,0 +1,211 @@
+version:1.1
+passage.text:Literarna kariera Med vojno se je Camus pridružil francoski odporniški celici Combat, ki je izdala istoimenski podzemni časopis. Ta skupina je delovala proti nacistom in v njej je Camus prevzel nom de guerre Beauchard. Camus je postal urednik časopisa leta 1943. Sartreja je prvič spoznal na generalni vaji Sartrejeve igre, Muhe, junija 1943. Ko so Ailies avgusta 1944 osvobodili Pariz, je Camus priča in poročal o zadnjih bojih. Kmalu po dogodku 6. avgusta 1945 je bil eden redkih francoskih urednikov, ki je javno izrazil nasprotovanje in zgražanje ameriškemu padcu atomske bombe v Hirošimi. Odstopil je iz Combata leta 1947, ko je postal komercialni list. Po vojni je Camus začel obiskovati Cafe de Flore na pariškem Boulevard Saint-Germain s Sartrom in drugimi. Obiskal je tudi ZDA, kjer je predaval o francoski misli. Čeprav se je politično nagnil levo, mu močne kritike komunistične doktrine niso prinesle nobenega prijatelja v komunističnih strankah in sčasoma odtujile Sartra. Leta 1949 se mu je vrnila tuberkuloza, nato pa je dve leti živel osamljeno. Leta 1951 je objavil The Rebel, filozofsko analizo upora in revolucije, v kateri je izrazil njegovo zavračanje komunizma. Knjiga je razburila številne njegove kolege in sodobnike v Franciji, s Sartrom pa je dokončno razšla. Turob sprejem je potisnil Camusa; začel je prevajati drame. Camusov prvi pomemben prispevek k filozofiji je bila njegova ideja absurda. Videl je to kot rezultat naše želje po jasnosti in pomenu v svetu in stanju, ki ne ponuja nobenega, kar je izrazil v Mitu o Sizifu in ga vključil v številna druga svoja dela, kot sta Tujec in kuga. Kljub ločitvi od &quot;študijskega partnerja&quot; Sartrea je bil Camus še vedno kategoriziran kot eksistencialist. To oznako je posebej zavrnil v svojem eseju &quot;Enigma&quot; in drugje.
+passage.questions.9.question:Katero oznako, ki mu je bila dodeljena, je Camus zavrnil?
+passage.questions.9.idx:1946.0
+passage.questions.9.answers.4.text:Komunist
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:10153.0
+passage.questions.9.answers.3.text:Liberalist
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:10152.0
+passage.questions.9.answers.2.text:Enigma
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:10151.0
+passage.questions.9.answers.1.text:Egzistencialist
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:10150.0
+passage.questions.9.answers.0.text:Študijski partner
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:10149.0
+passage.questions.8.question:Katero oznako Camus zavrača?
+passage.questions.8.idx:1945.0
+passage.questions.8.answers.4.text:Revolucija
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:10148.0
+passage.questions.8.answers.3.text:Komunist
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:10147.0
+passage.questions.8.answers.2.text:Socialistična
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:10146.0
+passage.questions.8.answers.1.text:Upor
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:10145.0
+passage.questions.8.answers.0.text:Egzistencialist
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:10144.0
+passage.questions.7.question:Camus se je pridružil kateri skupini in s kom so se borili?
+passage.questions.7.idx:1944.0
+passage.questions.7.answers.2.text:Nemška odporna celica Boj in proti mafiji
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:10143.0
+passage.questions.7.answers.1.text:Francoska odporniška celica Combat, nacisti
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:10142.0
+passage.questions.7.answers.0.text:Germen Resistance cell boj in nacisti
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:10141.0
+passage.questions.6.question:Katera skupina je delovala proti nacistom?
+passage.questions.6.idx:1943.0
+passage.questions.6.answers.4.text:Podzemni časopis
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:10140.0
+passage.questions.6.answers.3.text:Francoska odporna celica Combat
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:10139.0
+passage.questions.6.answers.2.text:Nemška odporna celica Combat,
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:10138.0
+passage.questions.6.answers.1.text:Nom de guerre Beauchard
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:10137.0
+passage.questions.6.answers.0.text:Literarna kariera
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:10136.0
+passage.questions.5.question:Kaj je povzročilo razkol s Sartrejem?
+passage.questions.5.idx:1942.0
+passage.questions.5.answers.2.text:Upornik
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:10135.0
+passage.questions.5.answers.1.text:Objava upornika
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:10134.0
+passage.questions.5.answers.0.text:Objava neznanca
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:10133.0
+passage.questions.4.question:Kaj je Camus prispeval k filozofiji?
+passage.questions.4.idx:1941.0
+passage.questions.4.answers.2.text:Ideja absurda
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:10132.0
+passage.questions.4.answers.1.text:Prevajanje iger
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:10131.0
+passage.questions.4.answers.0.text:Ideja o jasnosti
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:10130.0
+passage.questions.3.question:Kako Camus gleda na absurd?
+passage.questions.3.idx:1940.0
+passage.questions.3.answers.2.text:Rezultat naše želje po jasnosti in pomenu v svetu in stanju, ki ne ponuja nobenega
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:10129.0
+passage.questions.3.answers.1.text:Rezultat naše želje po nejasnosti
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:10128.0
+passage.questions.3.answers.0.text:Prvi pomemben prispevek k filozofiji
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:10127.0
+passage.questions.2.question:Kaj je pripeljalo do končnega razkola s Sartrejem?
+passage.questions.2.idx:1939.0
+passage.questions.2.answers.4.text:Upornik
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:10126.0
+passage.questions.2.answers.3.text:Njegovi kolegi in sodobniki v Franciji
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:10125.0
+passage.questions.2.answers.2.text:Sartre
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:10124.0
+passage.questions.2.answers.1.text:Filozofska analiza upora
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:10123.0
+passage.questions.2.answers.0.text:Knjiga Starec in morje
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:10122.0
+passage.questions.13.question:V katerem delu Camus v prvi vrsti izraža svoja stališča do absurda?
+passage.questions.13.idx:1950.0
+passage.questions.13.answers.4.text:Rezultat naše nepripravljenosti za jasnost in pomen v svetu in stanju, ki ponuja oboje
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:10171.0
+passage.questions.13.answers.3.text:Rezultat naše želje po jasnosti in pomenu v svetu in stanju, ki ne ponuja nobenega
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:10170.0
+passage.questions.13.answers.2.text:Camusov prvi pomemben prispevek k filozofiji
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:10169.0
+passage.questions.13.answers.1.text:Mit o Sizifu
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:10168.0
+passage.questions.13.answers.0.text:Tujec
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:10167.0
+passage.questions.12.question:Kaj je prinesla knjiga Upornik?
+passage.questions.12.idx:1949.0
+passage.questions.12.answers.3.text:Samota za dve leti
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:10166.0
+passage.questions.12.answers.2.text:Končni razkol s Sartrejem
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:10165.0
+passage.questions.12.answers.1.text:Zavračanje komunizma
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:10164.0
+passage.questions.12.answers.0.text:Zavračanje socializma
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:10163.0
+passage.questions.11.question:Koga je Camus spoznal na generalni vaji?
+passage.questions.11.idx:1948.0
+passage.questions.11.answers.3.text:Sartrejeva igra
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:10162.0
+passage.questions.11.answers.2.text:Muhe
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:10161.0
+passage.questions.11.answers.1.text:Kafka
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:10160.0
+passage.questions.11.answers.0.text:Sartre
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:10159.0
+passage.questions.10.question:Kateri esej je Camus zavrnil, da bi ga označili za eksistencialista?
+passage.questions.10.idx:1947.0
+passage.questions.10.answers.4.text:Upornik
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:10158.0
+passage.questions.10.answers.3.text:Eksistencializem
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:10157.0
+passage.questions.10.answers.2.text:Komunizem
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:10156.0
+passage.questions.10.answers.1.text:Enigma
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:10155.0
+passage.questions.10.answers.0.text:Tujec
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:10154.0
+passage.questions.1.question:Katera knjiga je povzročila Camusov razhod s Sartrejem?
+passage.questions.1.idx:1938.0
+passage.questions.1.answers.4.text:Kuga
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:10121.0
+passage.questions.1.answers.3.text:Antikrist
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:10120.0
+passage.questions.1.answers.2.text:Upornik
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:10119.0
+passage.questions.1.answers.1.text:Mit o Sizifu
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:10118.0
+passage.questions.1.answers.0.text:Tujec
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:10117.0
+passage.questions.0.question:Kako dolgo je Camus urejal časopis Combat, preden je postal komercialni časopis?
+passage.questions.0.idx:1937
+passage.questions.0.answers.4.text:4 leta
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:10116.0
+passage.questions.0.answers.3.text:10 let
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:10115.0
+passage.questions.0.answers.2.text:Dve leti
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:10114.0
+passage.questions.0.answers.1.text:6 let
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:10113
+passage.questions.0.answers.0.text:Tri leta
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:10112
+idx:175

@@ -1,0 +1,6 @@
+choice1:Zavpil je vsakič, ko je igralec izgubil žogo.
+choice2:Zažvižgal je vsakič, ko je igralec dal gol.
+idx:308
+label:0
+premise:Nogometni trener je po tekmi izgubil glas.
+question:cause

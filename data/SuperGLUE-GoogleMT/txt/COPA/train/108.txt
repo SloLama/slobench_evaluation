@@ -1,0 +1,6 @@
+choice1:Zavetnik je bil sam.
+choice2:Zavetnik je bil pijan.
+idx:108
+label:1
+premise:Natakar je zavrnil službo pokrovitelja.
+question:cause

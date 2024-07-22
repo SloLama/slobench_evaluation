@@ -1,0 +1,211 @@
+version:1.1
+passage.text:Mogočni fane se s svojimi tremi masivnimi stolpi veličastno dviga nad rdečimi strehami mesta. Njegova najbolj presenetljiva značilnost je odličen normanski zaslon, ki teče brez opor in štrlin na parapet in skriva osnove trga, bogato okrašene stolpe zahodne fronte. Navadno središče zaslona je delo Remigija, prvega škofa. Preostanek je razbremenjen z bogatimi arkadami poznonormanskega in zgodnjeangleškega obdobja. Leseni trni, ki so kronali stolpe, so bili odstranjeni leta 1807. Leta 1192 je Hugh iz Avalona sklenil obnoviti normansko stavbo Remigius, ki jo je potresal potres. Njemu smo dolžni zbor in vzhodni transept. Njegovi nasledniki so dokončali zahodni transept in začeli zahodni konec ladje. Za obnovo osrednjega stolpa, ki je padel leta 1239, je bilo treba porabiti toliko denarja, da kanoniki ladje niso mogli obnoviti v celoti, ampak je moral Remigij vključiti normanski konec. Os zahodne fronte žal ne ustreza osi ladje, ki je za svojo višino preširoka. Nizki obok je resna napaka zbora, ki ga je zgradil sv. Hugh, toda o izjemni lepoti angelskega zbora, ki zapira njegovo svetišče, ne more biti dvoma. Po bogastvu kiparstva je ena od mojstrovin gotske arhitekture v Angliji. Notranjost katedrale je izjemna po harmoniji svojega sloga, ki je lancetsko-gotski, šibka osvetlitev ladje pa le še poveča njeno impresivnost.
+passage.questions.9.question:Kaj je najbolj presenetljiva značilnost cerkve?
+passage.questions.9.idx:3010.0
+passage.questions.9.answers.2.text:Odličen Normanov zaslon
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:15910.0
+passage.questions.9.answers.1.text:Normanski zaslon
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:15909.0
+passage.questions.9.answers.0.text:Trije stolpi
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:15908.0
+passage.questions.8.question:Kdo je odgovoren za obnovo zbora in vzhodnega transepta?
+passage.questions.8.idx:3009.0
+passage.questions.8.answers.1.text:Kralj Avona
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:15907.0
+passage.questions.8.answers.0.text:Hugh iz Avalona
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:15906.0
+passage.questions.7.question:Stolpi katere stavbe so bili odstranjeni leta 1807?
+passage.questions.7.idx:3008.0
+passage.questions.7.answers.2.text:Cerkev
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:15905.0
+passage.questions.7.answers.1.text:Angleški fane
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:15904.0
+passage.questions.7.answers.0.text:Normanova stavba Remigiusa
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:15903.0
+passage.questions.6.question:Kateri predmet vsebuje fane in kaj je pomembno pri zasnovi njegovega središča?
+passage.questions.6.idx:3007.0
+passage.questions.6.answers.2.text:Delo Remigija
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:15902.0
+passage.questions.6.answers.1.text:Normanski zaslon in njegovo navadno središče
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:15901.0
+passage.questions.6.answers.0.text:Kip Michelangela
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:15900.0
+passage.questions.5.question:Katera značilnost mogočne fane ima bogato arkado poznonormanskega in zgodnjeangleškega obdobja?
+passage.questions.5.idx:3006.0
+passage.questions.5.answers.2.text:Normanski zaslon
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:15899.0
+passage.questions.5.answers.1.text:Struktura, razen zaslona
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:15898.0
+passage.questions.5.answers.0.text:Trije stolpi
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15897.0
+passage.questions.4.question:Kateremu arhitekturnemu slogu pripada zbor Angel?
+passage.questions.4.idx:3005.0
+passage.questions.4.answers.2.text:Gotsko
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:15896.0
+passage.questions.4.answers.1.text:Lancet-gotska
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15895.0
+passage.questions.4.answers.0.text:Francoski slog
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:15894.0
+passage.questions.3.question:Kdo je ustvaril vzhodni transept?
+passage.questions.3.idx:3004.0
+passage.questions.3.answers.2.text:Hugh iz Avalona je ustvaril vzhodni transept
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:15893.0
+passage.questions.3.answers.1.text:Hugh iz Avalona
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:15892.0
+passage.questions.3.answers.0.text:Remigius
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15891.0
+passage.questions.2.question:Kdo je Remigus in v kakšnem času ali obdobju je bil?
+passage.questions.2.idx:3003.0
+passage.questions.2.answers.2.text:Prvi škof v poznonormanskem in kasneje angleškem obdobju
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:15890.0
+passage.questions.2.answers.1.text:Prvi škof, normansko obdobje
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:15889.0
+passage.questions.2.answers.0.text:Renesančni slikar
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:15888.0
+passage.questions.19.question:Kaj toliko denarja je bilo porabljenega za gradnjo, da Cano ladje ni mogel v celoti obnoviti?
+passage.questions.19.idx:3020.0
+passage.questions.19.answers.2.text:Denar je bilo treba nameniti za obnovo preširokega zahodnega krila
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:15938.0
+passage.questions.19.answers.1.text:Zahodni transept in zahodni konec ladje
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:15937.0
+passage.questions.19.answers.0.text:Denar je bilo treba nameniti obnovi osrednjega stolpa, ki je padel leta 1239
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:15936.0
+passage.questions.18.question:Kaj je bilo na vrhu treh stolpov?
+passage.questions.18.idx:3019.0
+passage.questions.18.answers.2.text:Rdeče strehe mesta
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:15935.0
+passage.questions.18.answers.1.text:Leseni trni
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:15934.0
+passage.questions.18.answers.0.text:Na vrhu hriba
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:15933.0
+passage.questions.17.question:V čem je težava z ladjo in zakaj je os zahodne fronte v nasprotju z njo?
+passage.questions.17.idx:3018.0
+passage.questions.17.answers.2.text:Ladjo so morali obnoviti po letu 1239, zahodna fronta pa je preširoka za višino ladje
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:15932.0
+passage.questions.17.answers.1.text:Os vzhodne fronte ne ustreza osi ladje, ki je za svojo višino preozka
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:15931.0
+passage.questions.17.answers.0.text:Os zahodne fronte ne ustreza osi ladje, ki je za svojo višino preširoka
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:15930.0
+passage.questions.16.question:V čem je bogastvo kiparstva in je mojstrovina gotskega sloga v Angliji?
+passage.questions.16.idx:3017.0
+passage.questions.16.answers.2.text:Angel zbor
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:15929.0
+passage.questions.16.answers.1.text:Normanska stavba Remigiu
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:15928.0
+passage.questions.16.answers.0.text:Kotni zbor, ki zapira svetišče
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:15927.0
+passage.questions.15.question:Kdo je bil odgovoren za prvotno gradnjo pevskega zbora in vzhodnega transepta in v katerem letu je začel?
+passage.questions.15.idx:3016.0
+passage.questions.15.answers.2.text:Hugh iz Avalona leta 1192
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:15926.0
+passage.questions.15.answers.1.text:Ni bil Hugh iz Avalona
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:15925.0
+passage.questions.15.answers.0.text:Remigius
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:15924.0
+passage.questions.14.question:Katera stavba je najbolj presenetljiva značilnost odličnega normanskega zaslona?
+passage.questions.14.idx:3015.0
+passage.questions.14.answers.2.text:Zbor
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:15923.0
+passage.questions.14.answers.1.text:Fane
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:15922.0
+passage.questions.14.answers.0.text:Dolžniki zahodne fronte
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:15921.0
+passage.questions.13.question:Kdo je zgradil kor in vzhodni transept?
+passage.questions.13.idx:3014.0
+passage.questions.13.answers.1.text:Angleški arhitekti
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:15920.0
+passage.questions.13.answers.0.text:Hugh iz Avalona
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:15919.0
+passage.questions.12.question:Kolikokrat je bila stavba Remigius obnovljena?
+passage.questions.12.idx:3013.0
+passage.questions.12.answers.2.text:1.
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:15918.0
+passage.questions.12.answers.1.text:Vsaj 2
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:15917.0
+passage.questions.12.answers.0.text:2.
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:15916.0
+passage.questions.11.question:Komu dolgujemo obnovo normanske stavbe Remigius?
+passage.questions.11.idx:3012.0
+passage.questions.11.answers.1.text:Hugh iz Avalona
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:15915.0
+passage.questions.11.answers.0.text:Predsednik
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:15914.0
+passage.questions.10.question:Kakšen je slog notranje katedrale in zakaj je pri zboru težava?
+passage.questions.10.idx:3011.0
+passage.questions.10.answers.2.text:Lancet-Gothic in St. Hugh zasnova nizkega oboka je resna napaka
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:15913.0
+passage.questions.10.answers.1.text:Lancet-Gothi
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:15912.0
+passage.questions.10.answers.0.text:Klasična
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:15911.0
+passage.questions.1.question:Katera skulptura je gotska mojstrovina?
+passage.questions.1.idx:3002.0
+passage.questions.1.answers.1.text:Angel zbor
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:15887.0
+passage.questions.1.answers.0.text:Stolpi
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:15886.0
+passage.questions.0.question:Je celoten Normanov zaslon delo Remigiusa ali ga je šele začel?
+passage.questions.0.idx:3001
+passage.questions.0.answers.2.text:Začel ga je
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:15885.0
+passage.questions.0.answers.1.text:Ne, olajševalno delo je bilo pozni norman in zgodnja angleščina
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:15884
+passage.questions.0.answers.0.text:Dokončal ga je
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:15883
+idx:269

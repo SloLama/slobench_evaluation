@@ -1,0 +1,337 @@
+version:1.1
+passage.text:Ob 8.38 je Ong povedal Gonzalezu, da letalo spet leti neredno. Približno v tem času je Sweeney Woodwardu povedal, da so ugrabitelji Bližnji vzhodnjaki in poimenoval tri številke njihovih sedežev. Eden je govoril zelo malo angleščine, drugi pa odlično angleško. Ugrabitelji so vstopili v kabino in ni vedela, kako. Letalo se je hitro spuščalo. Ob 8:41 je Sweeney Woodwardu povedal, da imajo potniki v avtobusu vtis, da je v prvem razredu rutinska nujna medicinska pomoč. Druge stevardese so bile zasedene pri nalogah, na primer pri pridobivanju medicinskih pripomočkov, medtem ko sta Ong in Sweeney poročala o dogodkih. Ob 8:41 je v ameriškem operativnem centru kolega Marquisu povedal, da so kontrolorji zračnega prometa leta 11 razglasili ugrabitev in &quot;mislijo, da se je [Američan 11] odpravil proti Kennedyju [letališče v New Yorku]. Vse bodo odstranili iz Videti je, da ga imajo na primarnem radarju. Zdi se, da mislijo, da se spušča. &quot; Ob 8.44 je Gonzalez poročal, da je izgubil telefonski stik z Ongom. Približno ob istem času je Sweeney Woodwardu rekel: &quot;Nekaj ni v redu. Hitro se spuščamo. Povsod smo.&quot; Woodward je prosil Sweeneyja, naj pogleda skozi okno in ugotovi, ali lahko ugotovi, kje sta.
+passage.questions.9.question:Kdaj je Sweeney poročal Woodwardu, &quot;Nekaj ni v redu&quot;
+passage.questions.9.idx:1489.0
+passage.questions.9.answers.5.text:Po tem, ko so highjackers odšli v kokpit
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:7778.0
+passage.questions.9.answers.4.text:8:44
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:7777.0
+passage.questions.9.answers.3.text:Ko se je letalo začelo spuščati
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:7776.0
+passage.questions.9.answers.2.text:8:41
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:7775.0
+passage.questions.9.answers.1.text:Ko so ugrabitelji vstopili v pilotsko kabino
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:7774.0
+passage.questions.9.answers.0.text:Ko je telefon prenehal delovati
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:7773.0
+passage.questions.8.question:Koliko minut je minilo, dokler Sweeney ni potrdil prepričanja kopenskih operacij, da se letalo spušča in poskuša pristati.
+passage.questions.8.idx:1488.0
+passage.questions.8.answers.6.text:3.
+passage.questions.8.answers.6.label:1.0
+passage.questions.8.answers.6.idx:7772.0
+passage.questions.8.answers.5.text:3 minute
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:7771.0
+passage.questions.8.answers.4.text:1 minuto
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:7770.0
+passage.questions.8.answers.3.text:5 minut
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:7769.0
+passage.questions.8.answers.2.text:4.
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:7768.0
+passage.questions.8.answers.1.text:Tri minute
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:7767.0
+passage.questions.8.answers.0.text:2 minuti
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:7766.0
+passage.questions.7.question:Je bil Sweeney potnik ali stevardesa in na katerem območju letala je bila?
+passage.questions.7.idx:1487.0
+passage.questions.7.answers.4.text:Sweeney je bila stevardesa in je delala kot trener
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:7765.0
+passage.questions.7.answers.3.text:Potnik v avtobusu
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:7764.0
+passage.questions.7.answers.2.text:Stevardesa; V trenerju
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:7763.0
+passage.questions.7.answers.1.text:Stevardesa v prvem razredu
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:7762.0
+passage.questions.7.answers.0.text:Potnik; v pilotski kabini
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:7761.0
+passage.questions.6.question:Zakaj so potniki v avtobusu mislili, da se letalo hitro spušča?
+passage.questions.6.idx:1486.0
+passage.questions.6.answers.5.text:Ker so bili povsod
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:7760.0
+passage.questions.6.answers.4.text:Nekaj ni bilo v redu
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:7759.0
+passage.questions.6.answers.3.text:Udeleži se letalski gostitelj
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:7758.0
+passage.questions.6.answers.2.text:Zaradi rutinske nujne medicinske pomoči
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:7757.0
+passage.questions.6.answers.1.text:Mislili so, da se spuščajo
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:7756.0
+passage.questions.6.answers.0.text:Nujna medicinska pomoč
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:7755.0
+passage.questions.5.question:Kdaj je Sweeney Woodwardu povedal, da je nekaj narobe?
+passage.questions.5.idx:1485.0
+passage.questions.5.answers.2.text:8:44
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:7754.0
+passage.questions.5.answers.1.text:8:38
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:7753.0
+passage.questions.5.answers.0.text:8:41
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:7752.0
+passage.questions.4.question:Potem ko so prejeli poročilo, da znova letijo napačno, koliko časa je trajalo, da je zemeljska kontrola leta 11 razglasila ugrabitev in začela čiščenje letališkega pristajalnega območja ter zakaj so to storili?
+passage.questions.4.idx:1484.0
+passage.questions.4.answers.4.text:3 minute
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:7751.0
+passage.questions.4.answers.3.text:Nekaj minut
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:7750.0
+passage.questions.4.answers.2.text:5 minut; zaradi ugrabiteljev so jim rekli
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:7749.0
+passage.questions.4.answers.1.text:Tri minute
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:7748.0
+passage.questions.4.answers.0.text:3 minute; Informacije so dobivali z letalskega letala
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:7747.0
+passage.questions.3.question:Kako so po navedbah Sweeneyja ugrabitelji vstopili v pilotsko kabino?
+passage.questions.3.idx:1483.0
+passage.questions.3.answers.5.text:Sweeney ni vedel, kako so vstopili v kokpit
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:7746.0
+passage.questions.3.answers.4.text:Vstopil
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:7745.0
+passage.questions.3.answers.3.text:Sweeney ni vedel, kako
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:7744.0
+passage.questions.3.answers.2.text:V prvem razredu je bila rutinska nujna medicinska pomoč
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:7743.0
+passage.questions.3.answers.1.text:Vstop dobijo s pištolo
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:7742.0
+passage.questions.3.answers.0.text:Ni vedel
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:7741.0
+passage.questions.2.question:Koliko časa je minilo, odkar je Ong povedal Gonzalezu, da letalo spet leti neredno, dokler ni bil izgubljen telefonski stik z njim?
+passage.questions.2.idx:1482.0
+passage.questions.2.answers.4.text:6 minut
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:7740.0
+passage.questions.2.answers.3.text:10 minut
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:7739.0
+passage.questions.2.answers.2.text:3 minute
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:7738.0
+passage.questions.2.answers.1.text:Nekaj minut
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:7737.0
+passage.questions.2.answers.0.text:5 minut
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:7736.0
+passage.questions.19.question:Kakšne podatke je Sweeney okoli 8:38 Woodwardu povedal o ugrabiteljih?
+passage.questions.19.idx:1499.0
+passage.questions.19.answers.5.text:Sedeli so spredaj in morda ISIS
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:7826.0
+passage.questions.19.answers.4.text:Hi hekerji so zahtevali denar
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:7825.0
+passage.questions.19.answers.3.text:Ugrabitelji so bili Bližnji vzhod in tam številke sedežev
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:7824.0
+passage.questions.19.answers.2.text:Bližnji vzhodnjaki, pri čemer so poimenovali tri številke njihovih sedežev. Ena je govorila zelo malo angleščine, druga pa odlično angleško, ugrabitelji so vstopili v pilotsko kabino in ni vedela, kako
+passage.questions.19.answers.2.label:1.0
+passage.questions.19.answers.2.idx:7823.0
+passage.questions.19.answers.1.text:Ugrabitelji so bili Američani
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:7822.0
+passage.questions.19.answers.0.text:Da so bili ugrabitelji srednje vzhodnjaki, pri čemer so poimenovali tri številke njihovih sedežev in eden je govoril slabo angleško, drugi pa odlično angleško, tretje ni omenjeno
+passage.questions.19.answers.0.label:1.0
+passage.questions.19.answers.0.idx:7821.0
+passage.questions.18.question:Kako je Sweeney vedel, kdo so ugrabitelji in od kod so.
+passage.questions.18.idx:1498.0
+passage.questions.18.answers.4.text:Videla jih je in njihov naglas
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:7820.0
+passage.questions.18.answers.3.text:Ugrabitelji so bili Bližnji vzhodnjaki in poimenovali tri številke njihovih sedežev
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:7819.0
+passage.questions.18.answers.2.text:Verjetno ISIS
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:7818.0
+passage.questions.18.answers.1.text:Ni vedela, kdo sta
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:7817.0
+passage.questions.18.answers.0.text:Vedela je njihove številke sedežev in jih je slišala govoriti
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:7816.0
+passage.questions.17.question:Kdaj je Sweeney Woodwardu povedal, da so ugrabitelji Bližnji vzhodnjaki, in poimenoval tri številke njihovih sedežev.
+passage.questions.17.idx:1497.0
+passage.questions.17.answers.3.text:8:38
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:7815.0
+passage.questions.17.answers.2.text:8:44
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:7814.0
+passage.questions.17.answers.1.text:8:41
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:7813.0
+passage.questions.17.answers.0.text:Na vzlet
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:7812.0
+passage.questions.16.question:Kdaj je Woodwardu povedal, da so ugrabitelji Bližnji vzhodnjaki?
+passage.questions.16.idx:1496.0
+passage.questions.16.answers.2.text:8:38
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:7811.0
+passage.questions.16.answers.1.text:8:41
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:7810.0
+passage.questions.16.answers.0.text:8:30
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:7809.0
+passage.questions.15.question:Kaj je Sweeney povedal Woodwardu, da je bil zaskrbljen okoli 8:44?
+passage.questions.15.idx:1495.0
+passage.questions.15.answers.5.text:Strmoglavili se bomo
+passage.questions.15.answers.5.label:0,0
+passage.questions.15.answers.5.idx:7808.0
+passage.questions.15.answers.4.text:Identiteta ugrabiteljev
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:7807.0
+passage.questions.15.answers.3.text:Bili so v hitrem spustu in letalo je bilo povsod
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:7806.0
+passage.questions.15.answers.2.text:Nekaj ni bilo v redu
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:7805.0
+passage.questions.15.answers.1.text:Nekaj ni v redu. Hitro se spustimo. vsi smo povsod. &quot;
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:7804.0
+passage.questions.15.answers.0.text:Ugrabitelji so vstopili v pilotsko kabino
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:7803.0
+passage.questions.14.question:Kdaj so ugrabitelji vstopili v pilotsko kabino?
+passage.questions.14.idx:1494.0
+passage.questions.14.answers.4.text:Nekaj čez 8:38 in pred 8:41
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:7802.0
+passage.questions.14.answers.3.text:Takoj po vzletu letala
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:7801.0
+passage.questions.14.answers.2.text:8:38
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:7800.0
+passage.questions.14.answers.1.text:8:44
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:7799.0
+passage.questions.14.answers.0.text:8:41
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:7798.0
+passage.questions.13.question:Kdo je Woodwardu rekel &quot;hitro se spustimo&quot;?
+passage.questions.13.idx:1493.0
+passage.questions.13.answers.2.text:Ugrabitelji
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:7797.0
+passage.questions.13.answers.1.text:Sweeney
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:7796.0
+passage.questions.13.answers.0.text:Ong
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:7795.0
+passage.questions.12.question:Kako so stevardese ohranile mirnost potnikov, ko so o ugrabitvi poročali kopenskim operacijam?
+passage.questions.12.idx:1492.0
+passage.questions.12.answers.5.text:Z zagotavljanjem alkohola
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:7794.0
+passage.questions.12.answers.4.text:Povedali so jim, da je prišlo do nujne medicinske pomoči
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:7793.0
+passage.questions.12.answers.3.text:Potniki niso bili mirni
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:7792.0
+passage.questions.12.answers.2.text:Da je bila v prvem razredu rutinska nujna medicinska pomoč
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:7791.0
+passage.questions.12.answers.1.text:Potnikom so povedali, da imajo na krovu nujno medicinsko pomoč, druge stevardese pa skrbijo za potnike, medtem ko o dogodkih poročajo uradnikom
+passage.questions.12.answers.1.label:1.0
+passage.questions.12.answers.1.idx:7790.0
+passage.questions.12.answers.0.text:Povedati ljudem, naj se pripravijo na prevzem
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:7789.0
+passage.questions.11.question:Komu sta Ong in Sweeney poročala o dogodkih iz ugrabljenega leta?
+passage.questions.11.idx:1491.0
+passage.questions.11.answers.4.text:Gonzalez in Woodward
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:7788.0
+passage.questions.11.answers.3.text:Ong
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:7787.0
+passage.questions.11.answers.2.text:Woodward
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:7786.0
+passage.questions.11.answers.1.text:Gonzalez
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:7785.0
+passage.questions.11.answers.0.text:Stevardese
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:7784.0
+passage.questions.10.question:Katere pomembne informacije je Marquis v ameriškem operacijskem centru povedal kolega ob 8:41?
+passage.questions.10.idx:1490.0
+passage.questions.10.answers.4.text:Letalo naj bi strmoglavilo
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:7783.0
+passage.questions.10.answers.3.text:Ta let 11 je bil mogoč hit
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:7782.0
+passage.questions.10.answers.2.text:Razlogov za paniko ni bilo
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:7781.0
+passage.questions.10.answers.1.text:Letalo se je odpravilo proti Kennedyju
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:7780.0
+passage.questions.10.answers.0.text:Kontrolorji zračnega prometa so let 11 razglasili za ugrabitev in &quot;mislijo, da se je [Američan 11] odpravil proti Kennedyju [letališče v New Yorku]. Vse odmikajo s poti. Zdi se, da ga imajo na primarnem radarju. Zdi se, da misliti, da se spušča
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:7779.0
+passage.questions.1.question:Koliko ugrabiteljev je odlično govorilo angleško?
+passage.questions.1.idx:1481.0
+passage.questions.1.answers.3.text:Oboje
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:7735.0
+passage.questions.1.answers.2.text:1.
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:7734.0
+passage.questions.1.answers.1.text:2.
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:7733.0
+passage.questions.1.answers.0.text:Ena
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:7732.0
+passage.questions.0.question:Kdaj je Sweeney Woodwardu povedal, da so ugrabitelji Bližnji vzhodnjaki?
+passage.questions.0.idx:1480
+passage.questions.0.answers.2.text:8:38
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:7731.0
+passage.questions.0.answers.1.text:8:44
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:7730
+passage.questions.0.answers.0.text:8:41
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:7729
+idx:129

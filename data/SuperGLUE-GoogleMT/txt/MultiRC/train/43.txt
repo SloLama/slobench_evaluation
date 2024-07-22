@@ -1,0 +1,249 @@
+version:1.1
+passage.text:Kaj če bi lahko izpraznili vse oceane Zemlje? Kako bi bilo videti? Morda boste res presenečeni. Saj vidite, da ima površina dve glavni značilnosti. Ima celine in oceanske kotline. Celine so velika kopenska območja. To so območja, ki so večinoma nadmorska. Oceanski bazeni segajo od robov celin. Vključujejo dno oceana in globoke oceanske jarke Zemlje. Opazili boste tudi, da dno oceana ni ravno. Tudi na njem je veliko celin, veliko starejših od oceanskih bazenov. Nekatere skale na celinah so stare milijarde let. Oceanski bazeni so morda stari le milijone let. Ker so celine tako stare, se jim je zgodilo marsikaj! Ko gledamo zemljo okoli sebe, vidimo oblike zemljišč. Reliefi so fizične značilnosti na površju Zemlje. Te funkcije se sčasoma spreminjajo, a kako? Delujejo dejansko dve vrsti sil.
+passage.questions.9.question:Iz česa je sestavljena Zemljina površina?
+passage.questions.9.idx:512.0
+passage.questions.9.answers.6.text:Površina
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:2649.0
+passage.questions.9.answers.5.text:Celina
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:2648.0
+passage.questions.9.answers.4.text:Ima celine in oceanske baze
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:2647.0
+passage.questions.9.answers.3.text:Kopenske oblike
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:2646.0
+passage.questions.9.answers.2.text:Ocean
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:2645.0
+passage.questions.9.answers.1.text:Obstajajo kotline in celine
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:2644.0
+passage.questions.9.answers.0.text:Dve glavni značilnosti - celine in oceanski bazeni
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:2643.0
+passage.questions.8.question:Katere značilnosti Zemlje so večinoma nad morsko gladino?
+passage.questions.8.idx:511.0
+passage.questions.8.answers.4.text:Teren
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:2642.0
+passage.questions.8.answers.3.text:Celine
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:2641.0
+passage.questions.8.answers.2.text:Kamnine
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:2640.0
+passage.questions.8.answers.1.text:Kopenske oblike
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:2639.0
+passage.questions.8.answers.0.text:Umivalniki
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:2638.0
+passage.questions.7.question:Kaj so oceanske kotline?
+passage.questions.7.idx:510.0
+passage.questions.7.answers.6.text:Zemeljska površina
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:2637.0
+passage.questions.7.answers.5.text:Oceanski bazeni segajo od robov celin
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:2636.0
+passage.questions.7.answers.4.text:Oceanski bazeni segajo od robov celin, vključujejo oceansko dno in globoke oceanske jarke Zemlje
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:2635.0
+passage.questions.7.answers.3.text:Segajo od dna oceana do površine
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:2634.0
+passage.questions.7.answers.2.text:Vključujejo dno oceana in globoke oceanske jarke Zemlje
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:2633.0
+passage.questions.7.answers.1.text:Kopenska masa
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:2632.0
+passage.questions.7.answers.0.text:Segajo od oceanskih bazenov
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:2631.0
+passage.questions.6.question:Kaj so celine?
+passage.questions.6.idx:509.0
+passage.questions.6.answers.6.text:Celine so velika kopenska območja, ki so večinoma nad morsko gladino
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:2630.0
+passage.questions.6.answers.5.text:Globoki jarki na dnu oceana
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:2629.0
+passage.questions.6.answers.4.text:Celine so velika kopenska območja
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:2628.0
+passage.questions.6.answers.3.text:Nad morsko gladino
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:2627.0
+passage.questions.6.answers.2.text:Kopenska masa
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:2626.0
+passage.questions.6.answers.1.text:Dno oceana
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:2625.0
+passage.questions.6.answers.0.text:Veliki odseki povezanih zemljišč
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:2624.0
+passage.questions.5.question:Kaj je oblika zemljišča?
+passage.questions.5.idx:508.0
+passage.questions.5.answers.6.text:Značilnost na dnu morja
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:2623.0
+passage.questions.5.answers.5.text:Reliefi so fizične značilnosti zemlje okoli nas, ki se pojavljajo na celinah
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:2622.0
+passage.questions.5.answers.4.text:Oceanski bazen
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:2621.0
+passage.questions.5.answers.3.text:Reliefi so fizične značilnosti na površju Zemlje
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:2620.0
+passage.questions.5.answers.2.text:Značilnost ob dnu oceana
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:2619.0
+passage.questions.5.answers.1.text:Oblika terena
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:2618.0
+passage.questions.5.answers.0.text:Fizične lastnosti se sčasoma spreminjajo.
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:2617.0
+passage.questions.4.question:Ali se značilnosti Zemlje sčasoma spreminjajo?
+passage.questions.4.idx:507.0
+passage.questions.4.answers.5.text:Da zaradi dveh sil
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:2616.0
+passage.questions.4.answers.4.text:Nekatere skale na celinah so stare milijarde let
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:2615.0
+passage.questions.4.answers.3.text:Te lastnosti se sčasoma spreminjajo
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:2614.0
+passage.questions.4.answers.2.text:Reliefi so fizične značilnosti na površju Zemlje
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:2613.0
+passage.questions.4.answers.1.text:Da
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:2612.0
+passage.questions.4.answers.0.text:Ne
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:2611.0
+passage.questions.3.question:Kateri so starejši: celine ali oceanske kotline?
+passage.questions.3.idx:506.0
+passage.questions.3.answers.2.text:Celine
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:2610.0
+passage.questions.3.answers.1.text:Oceanske kotline
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:2609.0
+passage.questions.3.answers.0.text:Površina
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:2608.0
+passage.questions.2.question:Kakšne so značilnosti oceanskega dna?
+passage.questions.2.idx:505.0
+passage.questions.2.answers.6.text:Celine
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:2607.0
+passage.questions.2.answers.5.text:Oceanske kotline
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:2606.0
+passage.questions.2.answers.4.text:Korala
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:2605.0
+passage.questions.2.answers.3.text:Ima bazene in dkontinente
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:2604.0
+passage.questions.2.answers.2.text:Ima lastnosti in sile
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:2603.0
+passage.questions.2.answers.1.text:Ni ravno, ima veliko celin, ki so veliko starejše od oceanskih bazenov. Nekatere od teh celin so stare milijarde let
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:2602.0
+passage.questions.2.answers.0.text:Pesek
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:2601.0
+passage.questions.11.question:Kakšne so značilnosti celin?
+passage.questions.11.idx:514.0
+passage.questions.11.answers.6.text:Kopenska območja
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:2662.0
+passage.questions.11.answers.5.text:Gre za velika kopenska območja, ki so večinoma nad morsko gladino. Oceanski bazeni so morda stari le milijone let
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:2661.0
+passage.questions.11.answers.4.text:Nad morsko gladino
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:2660.0
+passage.questions.11.answers.3.text:So neravne in se spreminjajo
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:2659.0
+passage.questions.11.answers.2.text:Veliko se jim je zgodilo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:2658.0
+passage.questions.11.answers.1.text:Star milijard let
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:2657.0
+passage.questions.11.answers.0.text:Imajo bazene in nivoje
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:2656.0
+passage.questions.10.question:Kakšne so starosti oceanskih bazenov in celin?
+passage.questions.10.idx:513.0
+passage.questions.10.answers.5.text:Tisoč let star
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:2655.0
+passage.questions.10.answers.4.text:Celine so stare milijone let
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:2654.0
+passage.questions.10.answers.3.text:Oceanske kotline, stare milijarde let
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:2653.0
+passage.questions.10.answers.2.text:Celine imajo kamnine, ki so stare milijarde let; oceanske kotline so lahko stare le milijone let
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:2652.0
+passage.questions.10.answers.1.text:Star
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:2651.0
+passage.questions.10.answers.0.text:Stari so na stotine let
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:2650.0
+passage.questions.1.question:Kako se imenujejo velike kopenske mase?
+passage.questions.1.idx:504.0
+passage.questions.1.answers.4.text:Država
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:2600.0
+passage.questions.1.answers.3.text:Celine
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:2599.0
+passage.questions.1.answers.2.text:Kopenske oblike
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:2598.0
+passage.questions.1.answers.1.text:Oceanski bazen
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:2597.0
+passage.questions.1.answers.0.text:Države
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:2596.0
+passage.questions.0.question:Kaj sta dva elementa oceanskih bazenov?
+passage.questions.0.idx:503
+passage.questions.0.answers.6.text:Dno oceana in jarki
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:2595.0
+passage.questions.0.answers.5.text:Celina
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:2594.0
+passage.questions.0.answers.4.text:Globoki oceanski jarki
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:2593.0
+passage.questions.0.answers.3.text:Morska gladina
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:2592.0
+passage.questions.0.answers.2.text:Dno oceana in globoki oceanski jarki
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2591.0
+passage.questions.0.answers.1.text:Dno oceana
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:2590
+passage.questions.0.answers.0.text:Porečja in celine
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:2589
+idx:43

@@ -1,0 +1,479 @@
+version:1.1
+passage.text:Sam Farragut je direktor sociopatičnega podjetja v južni Kaliforniji, ki ekipo uslužbencev oglaševalskih agencij prisili, da se odpravijo na nevarno potovanje s kolesom v puščavo Baja California, da bi se potegovali za njegov posel. Moški so Warren Summerfield, samomorilni direktor oglasov srednjih let, ki je bil odpuščen iz agencije; naravnost Paul McIlvain, ki je nepazljiv do svoje žene, in drzni umetniški oblikovalec Maxon, ki se počuti nenadoma ujetega, potem ko njegovo dekle objavi, da je noseča. Obstajajo številni dolgi nizi vožnje z motorjem po puščavskih zaledjih. Summerfield je imel razmerje z ženo McIlvian. Ženi še ni povedal, da je bil odpuščen in preprosto preživlja svoj mandat v agenciji, medtem ko išče nov položaj. Njegova afera se dejansko zaveda. Farragut prepriča možakarje, da se z motorjem odpeljejo pod pretvezo, da iščejo lokacijo za snemanje reklame. V resnici je Farragut nepremišljen in želi moške vključiti v spontano razburljivo pustolovščino lastne manipulacije. Po odhodu McIlvainova žena sumi, da se Summerfield načrtuje ubiti za denar za zavarovanje, vendar ne more prepričati Summerfieldove žene, da sproži iskanje. Štirje možje po osamljenih makadamskih cestah potujejo globlje v Mehiko. V enem trenutku Summerfield razmišlja, da bi se spustil s pečine. Potem ko ga je mladi ameriški par ponižal v baru Baja, jih Farragut izsledi na plaži, medtem ko jih spremlja Maxon.
+passage.questions.9.question:Kako je prvo ime moškega, ki na plaži izsledi mladi ameriški par?
+passage.questions.9.idx:3482.0
+passage.questions.9.answers.8.text:Paul
+passage.questions.9.answers.8.label:0,0
+passage.questions.9.answers.8.idx:18384.0
+passage.questions.9.answers.7.text:Paul McIlvain
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:18383.0
+passage.questions.9.answers.6.text:Dekle
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:18382.0
+passage.questions.9.answers.5.text:Mladi ameriški par
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:18381.0
+passage.questions.9.answers.4.text:Farragut
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:18380.0
+passage.questions.9.answers.3.text:Summerfield
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:18379.0
+passage.questions.9.answers.2.text:Mcllvian
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:18378.0
+passage.questions.9.answers.1.text:Maxon
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:18377.0
+passage.questions.9.answers.0.text:McIlvianova žena
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:18376.0
+passage.questions.8.question:Kdo so štirje moški, ki so potovali v Mehiko?
+passage.questions.8.idx:3481.0
+passage.questions.8.answers.6.text:Moški
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:18375.0
+passage.questions.8.answers.5.text:Maxon, Paul, Warren, Sean
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:18374.0
+passage.questions.8.answers.4.text:Summerfield, farragut, maxon, mcllvain
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:18373.0
+passage.questions.8.answers.3.text:Sam Farragut, Warren Summerfield, Paul McIlvain in Maxon
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:18372.0
+passage.questions.8.answers.2.text:Pari
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:18371.0
+passage.questions.8.answers.1.text:Sam, Paul, Warren in Maxon
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:18370.0
+passage.questions.8.answers.0.text:Maxon, Warren, Peter, Sam
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:18369.0
+passage.questions.7.question:Kateri so resnični razlogi, da je Frarrugut načrtoval to potovanje?
+passage.questions.7.idx:3480.0
+passage.questions.7.answers.8.text:Farragut je potovanje načrtoval, da bi videl, komu bo šel njegov posel
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:18368.0
+passage.questions.7.answers.7.text:Samomor
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:18367.0
+passage.questions.7.answers.6.text:Ker želi raziskati puščavo Baja, odkar jih je prosil eden od njihovih oglaševalskih strank
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:18366.0
+passage.questions.7.answers.5.text:Frarrugut je to potovanje načrtoval, da bi poiskal lokacijo za snemanje reklam in oglaševalske agencije, ki bi se potegovale za njegovo podjetje
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:18365.0
+passage.questions.7.answers.4.text:Vključite moške v spontano razburkano pustolovščino
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:18364.0
+passage.questions.7.answers.3.text:Da vidim, kdo je najbolj zabaven
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:18363.0
+passage.questions.7.answers.2.text:Tekmovanje
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:18362.0
+passage.questions.7.answers.1.text:Da vidim, kdo je najpametnejši poslovnež
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:18361.0
+passage.questions.7.answers.0.text:Lokacija
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:18360.0
+passage.questions.6.question:Pod kakšno pretvezo vodja sociopatskega podjetja organizira potovanje z motorjem?
+passage.questions.6.idx:3479.0
+passage.questions.6.answers.8.text:Za zabavo
+passage.questions.6.answers.8.label:0,0
+passage.questions.6.answers.8.idx:18359.0
+passage.questions.6.answers.7.text:Samomor
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:18358.0
+passage.questions.6.answers.6.text:Ker želi raziskati puščavo Baja, odkar jih je prosil eden od njihovih oglaševalskih strank
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:18357.0
+passage.questions.6.answers.5.text:Za snemanje reklame
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:18356.0
+passage.questions.6.answers.4.text:Ker se želi potegovati za svoj posel, zato predlaga iskanje prostora za snemanje reklame
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:18355.0
+passage.questions.6.answers.3.text:Za izlet
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:18354.0
+passage.questions.6.answers.2.text:Umor
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:18353.0
+passage.questions.6.answers.1.text:Lokacija za komercialno snemanje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:18352.0
+passage.questions.6.answers.0.text:ubijanje
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:18351.0
+passage.questions.5.question:Koga spremlja oče, da bi izsledil mladi ameriški par?
+passage.questions.5.idx:3478.0
+passage.questions.5.answers.8.text:Paul McIlvain
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:18350.0
+passage.questions.5.answers.7.text:Dekle
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:18349.0
+passage.questions.5.answers.6.text:Mladi ameriški par
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:18348.0
+passage.questions.5.answers.5.text:Farragut
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:18347.0
+passage.questions.5.answers.4.text:Mcllvain
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:18346.0
+passage.questions.5.answers.3.text:McIIvian
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:18345.0
+passage.questions.5.answers.2.text:Summerfield
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:18344.0
+passage.questions.5.answers.1.text:Maxon
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:18343.0
+passage.questions.5.answers.0.text:McIlvianova žena
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:18342.0
+passage.questions.4.question:Čigava žena ve za afero med Summerfieldom in ženo Paula McIlvaina?
+passage.questions.4.idx:3477.0
+passage.questions.4.answers.5.text:Summerfield&#39;s
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:18341.0
+passage.questions.4.answers.4.text:Maxonovo
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:18340.0
+passage.questions.4.answers.3.text:Žena Farraguts
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:18339.0
+passage.questions.4.answers.2.text:Summerfieldova žena
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:18338.0
+passage.questions.4.answers.1.text:Maxonsova žena
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:18337.0
+passage.questions.4.answers.0.text:McIIvan&#39;s
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:18336.0
+passage.questions.3.question:Čigava žena ima afero s Summerfieldom?
+passage.questions.3.idx:3476.0
+passage.questions.3.answers.9.text:Mladi ameriški par
+passage.questions.3.answers.9.label:0,0
+passage.questions.3.answers.9.idx:18331.0
+passage.questions.3.answers.8.text:Farragutova žena
+passage.questions.3.answers.8.label:0,0
+passage.questions.3.answers.8.idx:18330.0
+passage.questions.3.answers.7.text:McIIvianove
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:18329.0
+passage.questions.3.answers.6.text:Mcllvianova žena
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:18328.0
+passage.questions.3.answers.5.text:Sam Farragut
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:18327.0
+passage.questions.3.answers.4.text:Summerfield
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:18326.0
+passage.questions.3.answers.3.text:McIlvain
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:18325.0
+passage.questions.3.answers.2.text:Maxonovo dekle
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:18324.0
+passage.questions.3.answers.13.text:Sam&#39;s
+passage.questions.3.answers.13.label:0,0
+passage.questions.3.answers.13.idx:18335.0
+passage.questions.3.answers.12.text:Paul McIlvain
+passage.questions.3.answers.12.label:1.0
+passage.questions.3.answers.12.idx:18334.0
+passage.questions.3.answers.11.text:Dekle
+passage.questions.3.answers.11.label:0,0
+passage.questions.3.answers.11.idx:18333.0
+passage.questions.3.answers.10.text:Maxonovo
+passage.questions.3.answers.10.label:0,0
+passage.questions.3.answers.10.idx:18332.0
+passage.questions.3.answers.1.text:Maxon
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:18323.0
+passage.questions.3.answers.0.text:McIlvianova žena
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:18322.0
+passage.questions.2.question:Čigava žena ima afero s samomorilcem?
+passage.questions.2.idx:3475.0
+passage.questions.2.answers.9.text:Paul McIlvain
+passage.questions.2.answers.9.label:0,0
+passage.questions.2.answers.9.idx:18321.0
+passage.questions.2.answers.8.text:Dekle
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:18320.0
+passage.questions.2.answers.7.text:Mladi ameriški par
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:18319.0
+passage.questions.2.answers.6.text:Mcllvainova žena
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:18318.0
+passage.questions.2.answers.5.text:Farragut
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:18317.0
+passage.questions.2.answers.4.text:Sam Farragut
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:18316.0
+passage.questions.2.answers.3.text:Summerfieldsova žena
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:18315.0
+passage.questions.2.answers.2.text:McIIvian
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:18314.0
+passage.questions.2.answers.1.text:Maxon
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:18313.0
+passage.questions.2.answers.0.text:McIlvianova žena
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:18312.0
+passage.questions.15.question:Farragut, ki z ljudmi manipulira iz lastnega užitka, kakšno razlago ponuja kot prevaro, da jih vplete?
+passage.questions.15.idx:3488.0
+passage.questions.15.answers.7.text:Samomor
+passage.questions.15.answers.7.label:0,0
+passage.questions.15.answers.7.idx:18438.0
+passage.questions.15.answers.6.text:Iščem komercialno lokacijo snemanja
+passage.questions.15.answers.6.label:1.0
+passage.questions.15.answers.6.idx:18437.0
+passage.questions.15.answers.5.text:S tem, ko predlagajo, da iščejo lokacijo za snemanje reklame
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:18436.0
+passage.questions.15.answers.4.text:Tekmovanje
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:18435.0
+passage.questions.15.answers.3.text:Išče mesto za jesti
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:18434.0
+passage.questions.15.answers.2.text:Izlet
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:18433.0
+passage.questions.15.answers.1.text:Iščem lokacijo za snemanje reklame
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:18432.0
+passage.questions.15.answers.0.text:S predpostavko, da je v puščavi Baja skrit dragulj
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:18431.0
+passage.questions.14.question:O kakšnem ekstremnem razmišljanju razmišlja Summerfield, potem ko je nadaljeval pot v Mehiko po osamljenih makadamskih cestah?
+passage.questions.14.idx:3487.0
+passage.questions.14.answers.8.text:Summerfield razmišlja o potopitvi s pečine
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:18430.0
+passage.questions.14.answers.7.text:Summerfield namerava svoji ženi povedati o aferi
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:18429.0
+passage.questions.14.answers.6.text:Spuščanje s pečine
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:18428.0
+passage.questions.14.answers.5.text:Razmišlja, da bi dalj časa ostal v puščavi Baja
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:18427.0
+passage.questions.14.answers.4.text:Zveza z drugo ženo
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:18426.0
+passage.questions.14.answers.3.text:Nič
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:18425.0
+passage.questions.14.answers.2.text:V puščavi Baja hoče umreti od lakote
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:18424.0
+passage.questions.14.answers.1.text:Razmišlja o samomoru s pištolo
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:18423.0
+passage.questions.14.answers.0.text:Razmišlja o skoku s pečine
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:18422.0
+passage.questions.13.question:S koliko moškimi Sam Farrugut potuje v Mehiko?
+passage.questions.13.idx:3486.0
+passage.questions.13.answers.6.text:3.
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:18421.0
+passage.questions.13.answers.5.text:Štiri
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:18420.0
+passage.questions.13.answers.4.text:2.
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:18419.0
+passage.questions.13.answers.3.text:1.
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:18418.0
+passage.questions.13.answers.2.text:Ni določeno
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:18417.0
+passage.questions.13.answers.1.text:5.
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:18416.0
+passage.questions.13.answers.0.text:4.
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:18415.0
+passage.questions.12.question:Koliko je moški, ki ima afero z ženo McIlvian?
+passage.questions.12.idx:3485.0
+passage.questions.12.answers.9.text:Najstnik
+passage.questions.12.answers.9.label:0,0
+passage.questions.12.answers.9.idx:18414.0
+passage.questions.12.answers.8.text:Mlada odrasla oseba
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:18413.0
+passage.questions.12.answers.7.text:Med 30 in 40
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:18412.0
+passage.questions.12.answers.6.text:20.
+passage.questions.12.answers.6.label:0,0
+passage.questions.12.answers.6.idx:18411.0
+passage.questions.12.answers.5.text:Starejši
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:18410.0
+passage.questions.12.answers.4.text:Mlad
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:18409.0
+passage.questions.12.answers.3.text:Srednjih let je
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:18408.0
+passage.questions.12.answers.2.text:Srednjih let
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:18407.0
+passage.questions.12.answers.1.text:Star
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:18406.0
+passage.questions.12.answers.0.text:Starec
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:18405.0
+passage.questions.11.question:Kdo je imel razmerje z ženo McIlvain, kakšne situacije pozna njegova žena?
+passage.questions.11.idx:3484.0
+passage.questions.11.answers.9.text:Paul McIlvain
+passage.questions.11.answers.9.label:0,0
+passage.questions.11.answers.9.idx:18404.0
+passage.questions.11.answers.8.text:Dekle
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:18403.0
+passage.questions.11.answers.7.text:Mladi ameriški par
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:18402.0
+passage.questions.11.answers.6.text:Warren Summerfield
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:18401.0
+passage.questions.11.answers.5.text:Farragut
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:18400.0
+passage.questions.11.answers.4.text:Sam Farragut
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:18399.0
+passage.questions.11.answers.3.text:Mcllvain
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:18398.0
+passage.questions.11.answers.2.text:Summerfield
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:18397.0
+passage.questions.11.answers.1.text:Maxon
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:18396.0
+passage.questions.11.answers.0.text:McIlvianova žena
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:18395.0
+passage.questions.10.question:S kom se Summerfield ukvarja in ali njegova žena ve, da ima afero?
+passage.questions.10.idx:3483.0
+passage.questions.10.answers.9.text:Maxonova žena, ja
+passage.questions.10.answers.9.label:0,0
+passage.questions.10.answers.9.idx:18394.0
+passage.questions.10.answers.8.text:Afera z ženo Paula McIlvaina in njegova žena tega ne ve
+passage.questions.10.answers.8.label:0,0
+passage.questions.10.answers.8.idx:18393.0
+passage.questions.10.answers.7.text:Farragut
+passage.questions.10.answers.7.label:0,0
+passage.questions.10.answers.7.idx:18392.0
+passage.questions.10.answers.6.text:Ne
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:18391.0
+passage.questions.10.answers.5.text:Afera z Maxonovo ženo in njegovo ženo tega ne ve
+passage.questions.10.answers.5.label:0,0
+passage.questions.10.answers.5.idx:18390.0
+passage.questions.10.answers.4.text:Summerfieldov stari sodelavec
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:18389.0
+passage.questions.10.answers.3.text:Da, njegova žena ve za afero z mcllvianovo ženo
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:18388.0
+passage.questions.10.answers.2.text:Summerfield ima afero z ženo McIIvian in svoji ženi tega ni povedal, vendar je ona afere zavedana
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:18387.0
+passage.questions.10.answers.1.text:Afera z ženo Paula McIlvaina in njegova žena to ve
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:18386.0
+passage.questions.10.answers.0.text:McIIvianova žena, ja
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:18385.0
+passage.questions.1.question:Kateri poslovni direktor v Kaliforniji je priredil jouney pod pretvezo, da išče lokacijo za snemanje njegove reklame?
+passage.questions.1.idx:3474.0
+passage.questions.1.answers.8.text:Paul
+passage.questions.1.answers.8.label:0,0
+passage.questions.1.answers.8.idx:18311.0
+passage.questions.1.answers.7.text:Paul McIlvain
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:18310.0
+passage.questions.1.answers.6.text:Dekle
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:18309.0
+passage.questions.1.answers.5.text:Mladi ameriški par
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:18308.0
+passage.questions.1.answers.4.text:Sam Farragut
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:18307.0
+passage.questions.1.answers.3.text:Mcllvain
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:18306.0
+passage.questions.1.answers.2.text:Warren
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:18305.0
+passage.questions.1.answers.1.text:Maxon
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:18304.0
+passage.questions.1.answers.0.text:McIlvianova žena
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18303.0
+passage.questions.0.question:Katere kraje obiskujejo med tem potovanjem?
+passage.questions.0.idx:3473
+passage.questions.0.answers.9.text:Brazilija, Cancun
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:18300.0
+passage.questions.0.answers.8.text:Odpravijo se na sladico v Baja California in na osamljene makadamske ceste v Mehiki
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:18299.0
+passage.questions.0.answers.7.text:Baja bar
+passage.questions.0.answers.7.label:1.0
+passage.questions.0.answers.7.idx:18298.0
+passage.questions.0.answers.6.text:Mehika, Brazilija
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:18297.0
+passage.questions.0.answers.5.text:Pečina v ZDA
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:18296.0
+passage.questions.0.answers.4.text:Bazen
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:18295.0
+passage.questions.0.answers.3.text:Puščava Baja California, Mehika
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:18294.0
+passage.questions.0.answers.2.text:Mehika
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:18293.0
+passage.questions.0.answers.11.text:Puščava Baja California
+passage.questions.0.answers.11.label:1.0
+passage.questions.0.answers.11.idx:18302.0
+passage.questions.0.answers.10.text:Makadamske ceste
+passage.questions.0.answers.10.label:1.0
+passage.questions.0.answers.10.idx:18301.0
+passage.questions.0.answers.1.text:Bar v južni Kaliforniji
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18292
+passage.questions.0.answers.0.text:Hribi
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:18291
+idx:307

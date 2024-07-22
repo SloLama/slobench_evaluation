@@ -1,0 +1,330 @@
+version:1.1
+passage.text:Nova legitimnost: Organizirani kriminal je kmalu imel močnega nasprotnika v prizadevanjih za nadzor Las Vegasa - gotovine podjetij. Čeprav je Las Vegas razvil močno lokalno gospodarstvo, je bilo v mestu izvedenih le nekaj večjih zunanjih naložb, predvsem zaradi infiltracije mafije in njenih povezanih z nezakonitimi dejavnostmi. To bi se dramatično spremenilo s prihodom milijarderja Howarda Hughesa leta 1966. Upravičen poslovnež, Hughes je bil vseeno ekscentričen in dramatičen, slog, primeren etosu Las Vegasa. Skladno z mitom se je samotni Hughes takoj zaprl v penthouse Desert Inna. Nekaj tednov pozneje so ga prosili - nato ukazali -, da izprazni sobo, da bi naredil prostor za visoke kolesce, nato pa je nepremičnino takoj kupil in odpustil upravo. Tako se je začel Hughesov legendarni triletni nakup v Las Vegasu, vreden 300 milijonov dolarjev. Ko je bilo konec, je imel Hughes šest igralnic, letališče in letalsko družbo, skupaj s številnimi zemljišči, ki so se raztezala od Stripa do gora. Hughesova dejanja bi imela takojšnje kot trajne posledice. Zaradi nove legitimnosti, ki jo je Las Vegas pridobil z naložbami Hughesa, so ustanovljena podjetja, kot so hoteli Hilton, kupila igralniško dejavnost in njihov vpliv je pomagal potegniti črto v puščavskem pesku med zakonitimi operacijami in mafijskimi igralnicami, kjer je divjalo nezakonito kopičenje dobička. . To bi skupaj z ustanovitvijo nadzornega odbora za igre na srečo v Nevadi pomenilo začetek konca močnega vpliva mafije v mestu. Las Vegas z vizijo Ko so se korporacije vselile in mafija počasi izrinila, se je pojavil nov Las Vegas. Legitimnost iger na srečo je privedla do njene večje legalizacije po ZDA. Kar je bilo nekoč gotovo, je postalo veliko bolj konkurenčno. Upravitelji igralnic so morali ponovno oceniti naravo svojega poslovanja. Prvi je to zares storil Steve Wynn, prebivalec Las Vegasa in lastnik Golden Nugget. Sredi osemdesetih let je Wynn začel načrte za poživitev Las Vegasa z novim letoviščem. Kupil je več nepremičnin Strip - med njimi Silver Copate in Castaways - in jih podrl, da bi naredil pot za novo vrsto letovišča - Mirage -, ki je takoj uspelo.
+passage.questions.9.question:Kaj je Hughes storil takoj, ko je leta 1966 prispel v Vegas?
+passage.questions.9.idx:1256.0
+passage.questions.9.answers.5.text:Poročil se je
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:6432.0
+passage.questions.9.answers.4.text:Kupil je več nepremičnin Strip
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:6431.0
+passage.questions.9.answers.3.text:Zgradil se je v penthouseu Desert Inna
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:6430.0
+passage.questions.9.answers.2.text:Zapravil je 300 milijonov dolarjev
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:6429.0
+passage.questions.9.answers.1.text:Takoj se je zaprl v penthouse v gostišču Desert Inn
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:6428.0
+passage.questions.9.answers.0.text:Kupil je igralnico
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:6427.0
+passage.questions.8.question:Kaj so bile prisiljene v igralnice zaradi legitimizacije, konkurenčnosti in novega Las Vegasa?
+passage.questions.8.idx:1255.0
+passage.questions.8.answers.6.text:Za tekmovanje so morali posnemati dobiček
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:6426.0
+passage.questions.8.answers.5.text:Prisiljeni so bili v partnerstvo z letalskimi prevozniki
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:6425.0
+passage.questions.8.answers.4.text:Da se pridružijo mafiji
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:6424.0
+passage.questions.8.answers.3.text:Za posnemanje dobička
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:6423.0
+passage.questions.8.answers.2.text:Igralnice so morale oceniti svoj poslovni model in postati bolj konkurenčne za preživetje
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:6422.0
+passage.questions.8.answers.1.text:Ponovno oceniti naravo svojega poslovanja
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:6421.0
+passage.questions.8.answers.0.text:Ponovno so morali oceniti naravo poslovanja igralnice
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:6420.0
+passage.questions.7.question:Kdo je imel v lasti Golden Nugget in Silver Slipper?
+passage.questions.7.idx:1254.0
+passage.questions.7.answers.2.text:Steve Wynn
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:6419.0
+passage.questions.7.answers.1.text:Nadzorna plošča za igre na srečo v Nevadi
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:6418.0
+passage.questions.7.answers.0.text:Howard Hughes
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:6417.0
+passage.questions.6.question:Kaj je skupaj z Odborom za igre na srečo v Nevadi pomenilo začetek konca močnega vpliva mafije v Las Vegasu?
+passage.questions.6.idx:1253.0
+passage.questions.6.answers.6.text:Hoteli Hilton
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:6416.0
+passage.questions.6.answers.5.text:Prihod Steva Wynna
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:6415.0
+passage.questions.6.answers.4.text:Podjetja, kot so Hilton Hotels, se lotevajo igralništva v Las Vegasu
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:6414.0
+passage.questions.6.answers.3.text:Ko je Trump zgradil igralnico
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:6413.0
+passage.questions.6.answers.2.text:Prihod milijarderja Howarda Hughesa leta 1966
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:6412.0
+passage.questions.6.answers.1.text:Howard Hughes
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:6411.0
+passage.questions.6.answers.0.text:Novi zakoni in zakonodaja
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:6410.0
+passage.questions.5.question:Kaj je Hughes naredil, da je pokazal svoj slog in svojo dramsko plat?
+passage.questions.5.idx:1252.0
+passage.questions.5.answers.9.text:Kupil je gostilno Desert in odpustil vodstvo, potem ko so ga prosili, naj izprazni svojo sobo
+passage.questions.5.answers.9.label:1.0
+passage.questions.5.answers.9.idx:6408.0
+passage.questions.5.answers.8.text:Prebival je v gostilni Desert, nato pa hotel hotel kupil, ko so ga prosili
+passage.questions.5.answers.8.label:1.0
+passage.questions.5.answers.8.idx:6407.0
+passage.questions.5.answers.7.text:Šel na triletno nakupovanje v Las Vegasu
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:6406.0
+passage.questions.5.answers.6.text:Ustanovil hotel Hilton
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:6405.0
+passage.questions.5.answers.5.text:Kupil 5 igralnic
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:6404.0
+passage.questions.5.answers.4.text:Kupil Desert Inn in odpustil vodstvo
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:6403.0
+passage.questions.5.answers.3.text:Vse svoje nepremičnine je kupil z gotovino
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:6402.0
+passage.questions.5.answers.2.text:Kupil Desert Inn in odpustil upravo
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:6401.0
+passage.questions.5.answers.10.text:Sklenil se je v penthouseu Desert Inn
+passage.questions.5.answers.10.label:1.0
+passage.questions.5.answers.10.idx:6409.0
+passage.questions.5.answers.1.text:Pridružil se mafiji
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:6400.0
+passage.questions.5.answers.0.text:Zgradil je Mirage, novo vrsto letovišča
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:6399.0
+passage.questions.4.question:Kaj je Hughes kupil v svojem triletnem nakupu?
+passage.questions.4.idx:1251.0
+passage.questions.4.answers.7.text:Dva hotela
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:6398.0
+passage.questions.4.answers.6.text:Šest igralnic, letališče, letalska družba in številna zemljišča
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:6397.0
+passage.questions.4.answers.5.text:Pet letovišč
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:6396.0
+passage.questions.4.answers.4.text:Desert Inn
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:6395.0
+passage.questions.4.answers.3.text:Hughes je imel v lasti šest igralnic, letališče in letalsko družbo, skupaj s številnimi zemljišči, ki segajo od Stripa do gora
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:6394.0
+passage.questions.4.answers.2.text:Planinska koča
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:6393.0
+passage.questions.4.answers.1.text:Šest igralnic, letališče in letalska družba, skupaj s številnimi zemljišči, ki se raztezajo od Stripa do gora
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:6392.0
+passage.questions.4.answers.0.text:Srebrni copat in zguba
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:6391.0
+passage.questions.3.question:Kaj je pomenilo konec močnega vpliva mafije v Las Vegasu?
+passage.questions.3.idx:1250.0
+passage.questions.3.answers.8.text:Korporacije so vstopile na trg in pokvarjene kazenske igralnice niso mogle konkurirati
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:6390.0
+passage.questions.3.answers.7.text:Howard Hughes je porabil 300 milijonov dolarjev sredstev
+passage.questions.3.answers.7.label:0,0
+passage.questions.3.answers.7.idx:6389.0
+passage.questions.3.answers.6.text:Oblikovanje nadzornega odbora za igre na srečo v Nevadi
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:6388.0
+passage.questions.3.answers.5.text:Zakoniti vlagatelji in podjetja, ki vstopajo na trg
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:6387.0
+passage.questions.3.answers.4.text:Ustanovitev nadzornega sveta za igre na srečo v Nevadi in naložbe Hughesa
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:6386.0
+passage.questions.3.answers.3.text:Povečana legalizacija po ZDA
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:6385.0
+passage.questions.3.answers.2.text:Uveljavljena podjetja, ki so kupovala igralništvo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:6384.0
+passage.questions.3.answers.1.text:Steve Wynn
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6383.0
+passage.questions.3.answers.0.text:Steve Winn je kupil srebrni copat
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:6382.0
+passage.questions.2.question:Kdo je kupil Silver Copate in Castaways?
+passage.questions.2.idx:1249.0
+passage.questions.2.answers.3.text:Steve Wynn
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:6381.0
+passage.questions.2.answers.2.text:Steve Jobs
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:6380.0
+passage.questions.2.answers.1.text:Donald Trump
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:6379.0
+passage.questions.2.answers.0.text:Howard Hughes
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6378.0
+passage.questions.14.question:Lastnik Golden Nugget je porušil več nepremičnin Strip, da bi zgradil kaj?
+passage.questions.14.idx:1261.0
+passage.questions.14.answers.7.text:Nova vrsta letovišča
+passage.questions.14.answers.7.label:1.0
+passage.questions.14.answers.7.idx:6465.0
+passage.questions.14.answers.6.text:Srebrni copat
+passage.questions.14.answers.6.label:0,0
+passage.questions.14.answers.6.idx:6464.0
+passage.questions.14.answers.5.text:Zlati grudec
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:6463.0
+passage.questions.14.answers.4.text:Novo letovišče Casino, Mirage
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:6462.0
+passage.questions.14.answers.3.text:Gostilna Desert
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:6461.0
+passage.questions.14.answers.2.text:Hilton
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:6460.0
+passage.questions.14.answers.1.text:Novo letovišče, Mirage
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:6459.0
+passage.questions.14.answers.0.text:Mirage
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:6458.0
+passage.questions.13.question:Kakšna je bila predpostavljena vrednost Hughesovih šestih igralnic, letališča, letalske družbe in kopnega?
+passage.questions.13.idx:1260.0
+passage.questions.13.answers.5.text:300 milijonov dolarjev
+passage.questions.13.answers.5.label:1.0
+passage.questions.13.answers.5.idx:6457.0
+passage.questions.13.answers.4.text:3.000.000 USD
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:6456.0
+passage.questions.13.answers.3.text:30 milijonov dolarjev
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:6455.0
+passage.questions.13.answers.2.text:300.000 dolarjev
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:6454.0
+passage.questions.13.answers.1.text:5.000.000 USD
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:6453.0
+passage.questions.13.answers.0.text:300 milijard dolarjev
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:6452.0
+passage.questions.12.question:Katera je bila prva lastnina lastnika Mirage v Vegasu?
+passage.questions.12.idx:1259.0
+passage.questions.12.answers.4.text:Zlati grudec
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:6451.0
+passage.questions.12.answers.3.text:Letališče
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:6450.0
+passage.questions.12.answers.2.text:Desert Inn
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:6449.0
+passage.questions.12.answers.1.text:Castaway Casino
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:6448.0
+passage.questions.12.answers.0.text:Srebrni copat
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:6447.0
+passage.questions.11.question:Kaj je Howard Hughes kupil med nakupom v Vegasu?
+passage.questions.11.idx:1258.0
+passage.questions.11.answers.9.text:Šest igralnic, letališče, letalska družba in velik del zemlje
+passage.questions.11.answers.9.label:1.0
+passage.questions.11.answers.9.idx:6445.0
+passage.questions.11.answers.8.text:Nekaj nepremičnin Hilton potrebuje prenovo
+passage.questions.11.answers.8.label:0,0
+passage.questions.11.answers.8.idx:6444.0
+passage.questions.11.answers.7.text:Hoteli Hilton
+passage.questions.11.answers.7.label:0,0
+passage.questions.11.answers.7.idx:6443.0
+passage.questions.11.answers.6.text:Zlati grudec
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:6442.0
+passage.questions.11.answers.5.text:Srebrni copat in The Castaways
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:6441.0
+passage.questions.11.answers.4.text:Šest igralnic, letališče, letalska družba in številna zemljišča
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:6440.0
+passage.questions.11.answers.3.text:Hughes je imel v lasti šest igralnic, letališče in letalsko družbo, skupaj s številnimi zemljišči, ki segajo od Stripa do gora
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:6439.0
+passage.questions.11.answers.2.text:Strip
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:6438.0
+passage.questions.11.answers.10.text:Več igralnic, letališče, letalska družba in zemljišča, ki se nahajajo med gorami in Las Vegas Stripom
+passage.questions.11.answers.10.label:1.0
+passage.questions.11.answers.10.idx:6446.0
+passage.questions.11.answers.1.text:300 milijonov dolarjev nepremičnin
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:6437.0
+passage.questions.11.answers.0.text:Gostilna Desert
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:6436.0
+passage.questions.10.question:Kateri poslovnež je prispel leta 1966?
+passage.questions.10.idx:1257.0
+passage.questions.10.answers.2.text:Steve Wynn
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:6435.0
+passage.questions.10.answers.1.text:Conrad Hilton
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:6434.0
+passage.questions.10.answers.0.text:Howard Hughes
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:6433.0
+passage.questions.1.question:Kdo je kupil Desert Inn in odpustil upravo?
+passage.questions.1.idx:1248.0
+passage.questions.1.answers.5.text:Hughes
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:6377.0
+passage.questions.1.answers.4.text:Steve Jobs
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:6376.0
+passage.questions.1.answers.3.text:Donald Trump
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6375.0
+passage.questions.1.answers.2.text:Howard Hughes
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:6374.0
+passage.questions.1.answers.1.text:Steve Wynn
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:6373.0
+passage.questions.1.answers.0.text:Wynn
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:6372.0
+passage.questions.0.question:V katerem letu je Hughes končal nakup?
+passage.questions.0.idx:1247
+passage.questions.0.answers.4.text:Okoli leta 1969
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:6371.0
+passage.questions.0.answers.3.text:1966
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:6370.0
+passage.questions.0.answers.2.text:Sredi 80-ih
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:6369.0
+passage.questions.0.answers.1.text:1980
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:6368
+passage.questions.0.answers.0.text:1968
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:6367
+idx:106

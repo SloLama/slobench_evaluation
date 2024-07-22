@@ -1,0 +1,6 @@
+choice1:Podtaknil je zločin svojemu sovražniku.
+choice2:Razglasil je premirje s sovražnikom.
+idx:275
+label:0
+premise:Hotel se je maščevati svojemu sovražniku.
+question:effect

@@ -1,0 +1,454 @@
+version:1.1
+passage.text:Neznanec v mestu sreča lepo mlado Susan Martinez De La Cruz in jo pospremi na žar, kjer premožni Jason Carberry izreče nekaj besed za nedavno pokojnega Robina Randalla, državljana, ki je bil ustreljen. Jason ugovarja prisotnosti neznanke, ker je Susanina skrbnica in jo varuje. Izzove ga do streljanja, toda neznanec potegne pištolo, preden Jason sploh lahko očisti kuburo. Calaveras Kate, salonska pevka, ki je zaljubljena v Jasona, si oddahne, ko neznanec zavrne sprožitev sprožilca. Rafael Moreno se nenadoma odpelje v mesto in se spopade s tujcem. Njuna prepirka se nadaljuje do prihoda sodnika Wallacea Wintropa in njegove nečakinje Sheile, ki sta prišla v mesto z vzhoda in obžalujeta vse to naključno nasilje z zahoda. Neznanca prepoznajo kot Reb Randall, mrtvega brata. Išče morilca, ki bi lahko bil Rafael, Jason ali Billy Buckett, strahopetec okrožja. Ženske zadihajo in ugotovijo, ali bodo moški, ki jih imajo radi, preživeli.
+passage.questions.9.question:Zakaj so ženske zaskrbljene?
+passage.questions.9.idx:60.0
+passage.questions.9.answers.5.text:Nočejo, da bi moški, ki ga imajo radi, umrl
+passage.questions.9.answers.5.label:1.0
+passage.questions.9.answers.5.idx:368.0
+passage.questions.9.answers.4.text:Neznanec verjame, da je eden od njihovih mož ubil njegovega brata. Čakajo, kdo bo preživel
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:367.0
+passage.questions.9.answers.3.text:Da na žaru ni dovolj hrane
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:366.0
+passage.questions.9.answers.2.text:Krivec je Billy Buckett
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:365.0
+passage.questions.9.answers.1.text:Njune ljubezni bi lahko bile mrtve
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:364.0
+passage.questions.9.answers.0.text:Bali so se za tamkajšnja življenja
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:363.0
+passage.questions.8.question:Kako je bilo ime osebi, ki sreča Susan in jo spremlja na žaru?
+passage.questions.8.idx:59.0
+passage.questions.8.answers.5.text:Reb Randall
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:362.0
+passage.questions.8.answers.4.text:Tujec
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:361.0
+passage.questions.8.answers.3.text:Neznanec
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:360.0
+passage.questions.8.answers.2.text:Robin Randall
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:359.0
+passage.questions.8.answers.1.text:Jason Carberry
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:358.0
+passage.questions.8.answers.0.text:Reb
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:357.0
+passage.questions.7.question:Kdo so ljudje, za katere se sumi, da so ubili Robina Randalla?
+passage.questions.7.idx:58.0
+passage.questions.7.answers.9.text:Tujec
+passage.questions.7.answers.9.label:0,0
+passage.questions.7.answers.9.idx:356.0
+passage.questions.7.answers.8.text:Billy Buckett
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:355.0
+passage.questions.7.answers.7.text:Susan
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:354.0
+passage.questions.7.answers.6.text:Jason Carberry
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:353.0
+passage.questions.7.answers.5.text:Jason
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:352.0
+passage.questions.7.answers.4.text:Sodnik Wallace Wintrop
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:351.0
+passage.questions.7.answers.3.text:Sheila
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:350.0
+passage.questions.7.answers.2.text:Kate
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:349.0
+passage.questions.7.answers.1.text:Osumljenci so Rafael Moreno, Jason Carberry in Billy Buckett
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:348.0
+passage.questions.7.answers.0.text:Rafael
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:347.0
+passage.questions.6.question:Zakaj je Reb Randall prišel v mesto?
+passage.questions.6.idx:57.0
+passage.questions.6.answers.6.text:Iskal je sestro
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:346.0
+passage.questions.6.answers.5.text:Mrtvec je njegov brat. Išče svojega morilca
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:345.0
+passage.questions.6.answers.4.text:Ker je njegova muka pravkar umrla
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:344.0
+passage.questions.6.answers.3.text:Da bi našel morilca svojih bratov
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:343.0
+passage.questions.6.answers.2.text:Zaljubljen je v Susan Martinez De La Cruz
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:342.0
+passage.questions.6.answers.1.text:Želel je spoznati sodnika
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:341.0
+passage.questions.6.answers.0.text:Da bi se maščeval za smrt svojih bratov
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:340.0
+passage.questions.5.question:Kako se Jason odzove na neznanca, ki pride s Susan?
+passage.questions.5.idx:56.0
+passage.questions.5.answers.6.text:Izzove ga na streljanje
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:339.0
+passage.questions.5.answers.5.text:Nasprotuje njegovi prisotnosti
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:338.0
+passage.questions.5.answers.4.text:Počuti se zaščitniško do Susan
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:337.0
+passage.questions.5.answers.3.text:Ponudi mu žar
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:336.0
+passage.questions.5.answers.2.text:Strelja ga
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:335.0
+passage.questions.5.answers.1.text:Nasprotuje prisotnosti neznanca in ga izzove na streljanje
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:334.0
+passage.questions.5.answers.0.text:Sprejema ga z odprtimi rokami
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:333.0
+passage.questions.4.question:Je Billy Bucket morilec?
+passage.questions.4.idx:55.0
+passage.questions.4.answers.2.text:Nisem prepričan
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:332.0
+passage.questions.4.answers.1.text:da, zagotovo
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:331.0
+passage.questions.4.answers.0.text:Samo v špekulacijah
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:330.0
+passage.questions.3.question:Kako se Jason odzove na prisotnost neznanca in kako mu je ime?
+passage.questions.3.idx:54.0
+passage.questions.3.answers.6.text:Sprejema ga z odprtimi rokami
+passage.questions.3.answers.6.label:0,0
+passage.questions.3.answers.6.idx:329.0
+passage.questions.3.answers.5.text:Reb Randall
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:328.0
+passage.questions.3.answers.4.text:Pozdravlja ga
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:327.0
+passage.questions.3.answers.3.text:Njemu in neznancu nasprotuje Reb Randall
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:326.0
+passage.questions.3.answers.2.text:Nasprotuje njegovi prisotnosti
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:325.0
+passage.questions.3.answers.1.text:Izziva ga, da strelja
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:324.0
+passage.questions.3.answers.0.text:Njegovo ime je Tujec
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:323.0
+passage.questions.22.question:Katere ženske zadržujejo dih?
+passage.questions.22.idx:73.0
+passage.questions.22.answers.4.text:Nobenega
+passage.questions.22.answers.4.label:0,0
+passage.questions.22.answers.4.idx:441.0
+passage.questions.22.answers.3.text:Vse ženske
+passage.questions.22.answers.3.label:1.0
+passage.questions.22.answers.3.idx:440.0
+passage.questions.22.answers.2.text:Calaveras Kate
+passage.questions.22.answers.2.label:1.0
+passage.questions.22.answers.2.idx:439.0
+passage.questions.22.answers.1.text:Susan Martinez De La Cruz
+passage.questions.22.answers.1.label:1.0
+passage.questions.22.answers.1.idx:438.0
+passage.questions.22.answers.0.text:Nobena ženska
+passage.questions.22.answers.0.label:0,0
+passage.questions.22.answers.0.idx:437.0
+passage.questions.21.question:Kakšno razmerje ima Susan Martinez De La Cruz do Jasona Carberryja?
+passage.questions.21.idx:72.0
+passage.questions.21.answers.8.text:Sin
+passage.questions.21.answers.8.label:0,0
+passage.questions.21.answers.8.idx:436.0
+passage.questions.21.answers.7.text:Je Jasonova mlajša sestra
+passage.questions.21.answers.7.label:1.0
+passage.questions.21.answers.7.idx:435.0
+passage.questions.21.answers.6.text:Kot hči
+passage.questions.21.answers.6.label:1.0
+passage.questions.21.answers.6.idx:434.0
+passage.questions.21.answers.5.text:Njegova hči
+passage.questions.21.answers.5.label:0,0
+passage.questions.21.answers.5.idx:433.0
+passage.questions.21.answers.4.text:Zaščitnik
+passage.questions.21.answers.4.label:1.0
+passage.questions.21.answers.4.idx:432.0
+passage.questions.21.answers.3.text:Neznanec
+passage.questions.21.answers.3.label:0,0
+passage.questions.21.answers.3.idx:431.0
+passage.questions.21.answers.2.text:Njegov prijatelj
+passage.questions.21.answers.2.label:0,0
+passage.questions.21.answers.2.idx:430.0
+passage.questions.21.answers.1.text:Oddelek Jasona Carberryja
+passage.questions.21.answers.1.label:1.0
+passage.questions.21.answers.1.idx:429.0
+passage.questions.21.answers.0.text:Njegova sestra
+passage.questions.21.answers.0.label:0,0
+passage.questions.21.answers.0.idx:428.0
+passage.questions.20.question:Kam je prišla Sheila?
+passage.questions.20.idx:71.0
+passage.questions.20.answers.3.text:Daljni zahod
+passage.questions.20.answers.3.label:0,0
+passage.questions.20.answers.3.idx:427.0
+passage.questions.20.answers.2.text:Z Jasonom Carberryjem
+passage.questions.20.answers.2.label:0,0
+passage.questions.20.answers.2.idx:426.0
+passage.questions.20.answers.1.text:Na vzhodu
+passage.questions.20.answers.1.label:1.0
+passage.questions.20.answers.1.idx:425.0
+passage.questions.20.answers.0.text:Vzhod
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:424.0
+passage.questions.2.question:Kaj je Jason naredil za Susan?
+passage.questions.2.idx:53.0
+passage.questions.2.answers.6.text:Postal njen skrbnik
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:322.0
+passage.questions.2.answers.5.text:Zaščiten kot skrbnik
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:321.0
+passage.questions.2.answers.4.text:Je zavpil nanjo
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:320.0
+passage.questions.2.answers.3.text:Nič
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:319.0
+passage.questions.2.answers.2.text:Boril se zanjo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:318.0
+passage.questions.2.answers.1.text:Zaščitil jo je
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:317.0
+passage.questions.2.answers.0.text:Hrano ji je dala na žaru
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:316.0
+passage.questions.19.question:Kdo se prepira in kaj povzroča, da se konča?
+passage.questions.19.idx:70.0
+passage.questions.19.answers.6.text:Prihod sodnika Wallacea Wintropa in njegove nečakinje Sheile
+passage.questions.19.answers.6.label:1.0
+passage.questions.19.answers.6.idx:423.0
+passage.questions.19.answers.5.text:Jason in Susan
+passage.questions.19.answers.5.label:0,0
+passage.questions.19.answers.5.idx:422.0
+passage.questions.19.answers.4.text:Billy Buckett
+passage.questions.19.answers.4.label:0,0
+passage.questions.19.answers.4.idx:421.0
+passage.questions.19.answers.3.text:Rafael Moreno in neznanec se prepirata, prihod sodnika Wallacea Wintropa pa konča pretep
+passage.questions.19.answers.3.label:1.0
+passage.questions.19.answers.3.idx:420.0
+passage.questions.19.answers.2.text:Mrtvec
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:419.0
+passage.questions.19.answers.1.text:Prihod sodnika Wallacea
+passage.questions.19.answers.1.label:1.0
+passage.questions.19.answers.1.idx:418.0
+passage.questions.19.answers.0.text:Nekdo je umrl
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:417.0
+passage.questions.18.question:Kaj je cilj neznanca?
+passage.questions.18.idx:69.0
+passage.questions.18.answers.6.text:Poiščite ženo
+passage.questions.18.answers.6.label:0,0
+passage.questions.18.answers.6.idx:416.0
+passage.questions.18.answers.5.text:Da bi se maščeval za svojega brata
+passage.questions.18.answers.5.label:1.0
+passage.questions.18.answers.5.idx:415.0
+passage.questions.18.answers.4.text:Iskati morilca svojega brata
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:414.0
+passage.questions.18.answers.3.text:Avenger smrt njegovega brata
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:413.0
+passage.questions.18.answers.2.text:Počasi
+passage.questions.18.answers.2.label:0,0
+passage.questions.18.answers.2.idx:412.0
+passage.questions.18.answers.1.text:Slabo
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:411.0
+passage.questions.18.answers.0.text:Na žaru si privoščite brezplačno hrano
+passage.questions.18.answers.0.label:0,0
+passage.questions.18.answers.0.idx:410.0
+passage.questions.17.question:Kdo je bil brat Robina Randalla?
+passage.questions.17.idx:68.0
+passage.questions.17.answers.5.text:Tujec
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:409.0
+passage.questions.17.answers.4.text:Reb Randall
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:408.0
+passage.questions.17.answers.3.text:Jason
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:407.0
+passage.questions.17.answers.2.text:Sodnik Wallace Wintrop
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:406.0
+passage.questions.17.answers.1.text:Reb Randall, čuden človek v mestu
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:405.0
+passage.questions.17.answers.0.text:Rafael Moreno
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:404.0
+passage.questions.16.question:Bi lahko Jasona šteli za duhovnika?
+passage.questions.16.idx:67.0
+passage.questions.16.answers.2.text:Ni verjetno, ker smo hoteli ustreliti neznanca
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:403.0
+passage.questions.16.answers.1.text:Da
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:402.0
+passage.questions.16.answers.0.text:da, zelo
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:401.0
+passage.questions.15.question:Kaj je glavni vzrok za vse nasilje?
+passage.questions.15.idx:66.0
+passage.questions.15.answers.4.text:Žar
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:400.0
+passage.questions.15.answers.3.text:Salonski pevec
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:399.0
+passage.questions.15.answers.2.text:Jason je bil zaljubljen v Susan
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:398.0
+passage.questions.15.answers.1.text:Prisotnost tujcev
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:397.0
+passage.questions.15.answers.0.text:Prisotnost Reba Randalla
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:396.0
+passage.questions.14.question:Koliko ljudi je bilo proti neznancu?
+passage.questions.14.idx:65.0
+passage.questions.14.answers.3.text:Vsi
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:395.0
+passage.questions.14.answers.2.text:2.
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:394.0
+passage.questions.14.answers.1.text:Mogoče 4
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:393.0
+passage.questions.14.answers.0.text:1.
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:392.0
+passage.questions.13.question:Je Jason morilec?
+passage.questions.13.idx:64.0
+passage.questions.13.answers.3.text:Ni znano
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:391.0
+passage.questions.13.answers.2.text:Da
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:390.0
+passage.questions.13.answers.1.text:Samo v špekulacijah
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:389.0
+passage.questions.13.answers.0.text:Mogoče je
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:388.0
+passage.questions.12.question:Kdo je tujec?
+passage.questions.12.idx:63.0
+passage.questions.12.answers.6.text:Brat Robina Randalla
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:387.0
+passage.questions.12.answers.5.text:Billy Buckett
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:386.0
+passage.questions.12.answers.4.text:Reb Randall
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:385.0
+passage.questions.12.answers.3.text:Strahopetec
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:384.0
+passage.questions.12.answers.2.text:Prijateljica Sheila
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:383.0
+passage.questions.12.answers.1.text:Nihče ne ve
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:382.0
+passage.questions.12.answers.0.text:Mrtev brat
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:381.0
+passage.questions.11.question:Kdo hoče iskati morilca?
+passage.questions.11.idx:62.0
+passage.questions.11.answers.6.text:Tujec
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:380.0
+passage.questions.11.answers.5.text:Brat Robina Randalla
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:379.0
+passage.questions.11.answers.4.text:Billy Buckett
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:378.0
+passage.questions.11.answers.3.text:Reb Randall
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:377.0
+passage.questions.11.answers.2.text:Jason Carberry
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:376.0
+passage.questions.11.answers.1.text:Calaveras Kate
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:375.0
+passage.questions.11.answers.0.text:Susan Martinez De La Cruz
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:374.0
+passage.questions.10.question:Kaj smo izvedeli o Jasonu?
+passage.questions.10.idx:61.0
+passage.questions.10.answers.4.text:Je skrbnik Susan in jo varuje
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:373.0
+passage.questions.10.answers.3.text:Ima nečakinjo po imenu Sheila
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:372.0
+passage.questions.10.answers.2.text:Bil je strahopetec
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:371.0
+passage.questions.10.answers.1.text:Je bogat in skrbnik Susan Martinez De La Cruz
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:370.0
+passage.questions.10.answers.0.text:Morda je morilec Robina Randalla
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:369.0
+passage.questions.1.question:Kdo bi zmagal v obračunu med Jasonom in neznancem?
+passage.questions.1.idx:52.0
+passage.questions.1.answers.1.text:Jason
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:315.0
+passage.questions.1.answers.0.text:Tujec
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:314.0
+passage.questions.0.question:Ko Jason izzove neznanca, ki si na koncu oddahne in iz katerega razloga?
+passage.questions.0.idx:51
+passage.questions.0.answers.6.text:Calaveras Kate si je oddahnil, ker je neznanec najprej izvlekel pištolo in ni pritisnil na sprožilec
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:313.0
+passage.questions.0.answers.5.text:Reb Randall
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:312.0
+passage.questions.0.answers.4.text:Salonski pevec, ki je zaljubljen v Jasona
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:311.0
+passage.questions.0.answers.3.text:Susan
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:310.0
+passage.questions.0.answers.2.text:Rafael Moreno se odpelje v mesto
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:309.0
+passage.questions.0.answers.1.text:Calaveras Kate
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:308
+passage.questions.0.answers.0.text:Ni želela, da bi njen stric umrl
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:307
+idx:6

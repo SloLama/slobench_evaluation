@@ -1,0 +1,180 @@
+version:1.1
+passage.text:Zdi se, da imajo ženske in manjšine koristi od večjih zaposlitvenih možnosti v ZDA, a diskriminacija ostaja pomemben problem, kaže študija, ki sta jo danes objavila dva profesorja na Rutgers School of Law v Newarku. Študija, ki je bila ekstrapolirana iz zveznih podatkov o približno 200.000 velikih in srednje velikih delodajalcih, ugotavlja, da je bila leta 1999 namerna diskriminacija prizadeta približno dva milijona delavcev. Zdi se, da je približno tretjina proučenih delodajalcev diskriminirala ženske ali manjšine na vsaj enem delovnem mestu. Avtorji so dejali, da študija temelji na podatkih, ki jih je Komisija za enake zaposlitvene možnosti od leta 1990 do 1999 zbirala pri delodajalcih na tako imenovanih obrazcih EEO-1. Skupina mož in žene Alfreda W. in Ruth G. Blumrosen je nato preučila, koliko žensk ali manjšinskih delavcev je podjetje zaposlilo v različnih kategorijah delovnih mest v primerjavi s številom zaposlenih v drugih podjetjih v isti panogi na istem geografskem območju . Podjetje so opisali kot namernega diskriminatorja, če je bilo njegovo zaposlovanje žensk ali manjšin vsaj dva standardna odstopanja od povprečja. Pravno se domneva, da podjetja diskriminirajo, če je njihovo število zaposlenih daleč pod normo. Približno 22.000 delodajalcev je bilo opredeljenih kot &quot;trdo diskriminatorne&quot; diskriminatorje. Ta podjetja so 10 let zaposlovala podpovprečno število žensk in manjšin, njihovo zaposlovanje žensk ali manjšin pa je bilo tako pod povprečjem, da je bila le ena od sto možnosti, da se je diskriminacija zgodila naključno. Študija je pokazala tudi naraščajoče zaposlovanje žensk in manjšin, kar kaže na pomemben napredek na delovnem mestu. Imena podjetij so zaupna in raziskovalcem niso bila znana. Profesorji pričakujejo, da bo njihov študij na voljo na spletnem mestu www.eeo1.com. Družba Blumrosens, ki je bila ključna pri ustanovitvi EEOC leta 1965, prav tako pravi, da bi morala vlada bolj aktivno uporabljati njihove podatke. Komisija je sporočila, da osnutkov poročil ne komentira.
+passage.questions.8.question:Kakšno diskriminacijo so ugotovili in ali je bil vladi predložen predlog?
+passage.questions.8.idx:942.0
+passage.questions.8.answers.6.text:Opis duševnega zdravja
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:4804.0
+passage.questions.8.answers.5.text:Diskriminacija žensk in manjšin
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:4803.0
+passage.questions.8.answers.4.text:Nekaj nenamerne diskriminacije na istem geografskem območju
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:4802.0
+passage.questions.8.answers.3.text:Ugotovljena trda diskriminacija. Vlada bi morala podatke bolj aktivno uporabljati
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:4801.0
+passage.questions.8.answers.2.text:Predlagan je bil predlog za ustanovitev komisije za enake možnosti zaposlitve
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:4800.0
+passage.questions.8.answers.1.text:Manjšine imajo večje možnosti s standardnim odklonom
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4799.0
+passage.questions.8.answers.0.text:Vlada je morala izvrševati deskriminacijske zakone.
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4798.0
+passage.questions.7.question:Katera imena podjetij so bila diskriminatorna in kje je mogoče najti poročilo?
+passage.questions.7.idx:941.0
+passage.questions.7.answers.5.text:Študijo najdete na bls.org
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:4797.0
+passage.questions.7.answers.4.text:Znan raziskovalcem iz Rutgersa
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:4796.0
+passage.questions.7.answers.3.text:Podjetja so navedena v študiji na www.eeo1.com
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:4795.0
+passage.questions.7.answers.2.text:Zaupno, www.eeo1.com
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:4794.0
+passage.questions.7.answers.1.text:Raziskovalcem neznano, www.eeo1.com
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4793.0
+passage.questions.7.answers.0.text:Imena družabnikov niso bila objavljena, poročilo pa naj bi bilo objavljeno na spletni strani www.eeo1.com
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:4792.0
+passage.questions.6.question:Na kakšen način lahko ugotovimo, katera podjetja so diskriminatorna?
+passage.questions.6.idx:940.0
+passage.questions.6.answers.5.text:Preprosta zaposlitev za ženske in manjšine
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:4791.0
+passage.questions.6.answers.4.text:Ekstrapolirano iz zveznih podatkov
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:4790.0
+passage.questions.6.answers.3.text:Če je bila diskriminacija dva standardna odstopanja od povprečja
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:4789.0
+passage.questions.6.answers.2.text:Če bi bil standardni odklon za podatke enak povprečju
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4788.0
+passage.questions.6.answers.1.text:Če so zaposlene številke daleč pod normo in 2 standardni odkloni stran od krivulje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:4787.0
+passage.questions.6.answers.0.text:Zaposlenost žensk ali manjšin je bila vsaj dva standardna odstopanja od povprečja
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:4786.0
+passage.questions.5.question:Za koliko podjetij je bilo ugotovljeno, da so diskriminatorna in iz katerih razlogov?
+passage.questions.5.idx:939.0
+passage.questions.5.answers.3.text:10.000 zaradi diskriminacije moških
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4785.0
+passage.questions.5.answers.2.text:Približno 22.000 podjetij je v desetih letih v skladu s standardi najelo veliko manj manjšin,
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:4784.0
+passage.questions.5.answers.1.text:200.000, ker se je diskriminacija zgodila naključno
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:4783.0
+passage.questions.5.answers.0.text:20.000 zaradi znatnega napredka na delovnem mestu
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:4782.0
+passage.questions.4.question:Katera šola je izvedla študijo in kdo?
+passage.questions.4.idx:938.0
+passage.questions.4.answers.5.text:EEOC, Alfred
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:4781.0
+passage.questions.4.answers.4.text:Pravna šola Columbia v New Yorku
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4780.0
+passage.questions.4.answers.3.text:Rutgersova pravna šola Alfreda W. in Ruth G. Blumrosen
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:4779.0
+passage.questions.4.answers.2.text:Rutgers, Blumrosens
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:4778.0
+passage.questions.4.answers.1.text:Rutgersova pravna šola v Newarku
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4777.0
+passage.questions.4.answers.0.text:Komisija za enake možnosti zaposlitve, Blumrosens
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:4776.0
+passage.questions.3.question:Katera ekipa je nadalje raziskovala to situacijo enakih možnosti na delovnem mestu?
+passage.questions.3.idx:937.0
+passage.questions.3.answers.5.text:Jason in Ruth Alexander
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:4775.0
+passage.questions.3.answers.4.text:Alfred W. in Ruth G. Blumrosen
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:4774.0
+passage.questions.3.answers.3.text:Ekipa mož in žene Alfreda W. in Ruth G. Blumrosen
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:4773.0
+passage.questions.3.answers.2.text:Blumrosens
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:4772.0
+passage.questions.3.answers.1.text:22.000 delodajalcev
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4771.0
+passage.questions.3.answers.0.text:EEOC leta 1965
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:4770.0
+passage.questions.2.question:Če naj bi bila tretjina zaposlenih diskriminatorna, koliko jih ni diskriminatornih?
+passage.questions.2.idx:936
+passage.questions.2.answers.5.text:200.000
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:4769.0
+passage.questions.2.answers.4.text:Približno 130.000
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:4768.0
+passage.questions.2.answers.3.text:150.000
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:4767.0
+passage.questions.2.answers.2.text:180.000
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4766.0
+passage.questions.2.answers.1.text:20.000
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:4765
+passage.questions.2.answers.0.text:Dve tretjini
+passage.questions.2.answers.0.label:1.
+passage.questions.2.answers.0.idx:4764
+passage.questions.1.question:Študija je večinoma temeljila na podatkih, zbranih od koga in kako?
+passage.questions.1.idx:935
+passage.questions.1.answers.4.text:Študija je bila zbrana iz EEOC iz raziskav
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:4763.0
+passage.questions.1.answers.3.text:Študija na Rutgers School of Law v Newarku
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4762.0
+passage.questions.1.answers.2.text:Študija je bila izvedena iz BLS in iz raziskav
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:4761.0
+passage.questions.1.answers.1.text:200.000 velikih in srednje velikih delodajalcev
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:4760
+passage.questions.1.answers.0.text:Oblikuje se provizija za enake možnosti
+passage.questions.1.answers.0.label:1.
+passage.questions.1.answers.0.idx:4759
+passage.questions.0.question:Katere kategorije delovnih mest je študija upoštevala in kako dolgo?
+passage.questions.0.idx:934
+passage.questions.0.answers.6.text:Študija je obravnavala diskriminacijo v vsaj eni kategoriji delovnih mest od leta 1990 do 1999
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:4758.0
+passage.questions.0.answers.5.text:Študija je bila približno dve tretjini prebivalstva, v približno 8 letih
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:4757.0
+passage.questions.0.answers.4.text:Študiral delodajalce v več kot 10 letih
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4756.0
+passage.questions.0.answers.3.text:Študija je bila približno 10 let o inženirstvu
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:4755.0
+passage.questions.0.answers.2.text:Študija je bila med letoma 1995 in 1999
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4754.0
+passage.questions.0.answers.1.text:Študija je približno 10 let prekrižala več kategorij delovnih mest
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4753
+passage.questions.0.answers.0.text:Različna dela v približno 9 letih
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4752
+idx:81

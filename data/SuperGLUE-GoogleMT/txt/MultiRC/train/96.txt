@@ -1,0 +1,225 @@
+version:1.1
+passage.text:(CNN) - Angleški klub Chelsea je zaključil podpis Oriola Romeuja iz španskega in evropskega prvaka Barcelone. Devetnajstletnik trenutno igra za Španijo na svetovnem prvenstvu do 20 let v Kolumbiji in je z lanskoletnimi podprvaki v prvi ligi podpisal štiriletni dogovor. Posel je vreden 7 milijonov dolarjev in vključuje klavzulo o odkupu, ki je po prvem letu znašala 14 milijonov dolarjev, po drugem pa 21 milijonov dolarjev. Romeu je kariero začel pri barcelonskem mestnem tekmecu Espanyolu, preden se je leta 2004 pridružil akademiji Camp Nou. Vezist, ki lahko igra tudi obrambo v srednji obrambi, je za Barcelono debitiral v lanski sezoni španskega dvoboja Supercupa s Sevillo in dobil prvi okus ligaške akcije. proti Deportivu maja 2010. Na obeh tekmah Španije na svetovnem prvenstvu do 20 let je igral 90 minut, ko je premagal Kostariko in Ekvador. Uradna spletna stran Chelseaja je potrdila podpis in dejala, da je Romeu &quot;znan po svoji moči in ekspanzivni sposobnosti podajanja&quot;. Še en igralec, ki zapušča Barcelono, je Jeffren Suarez, potem ko je pristal v Lizbonskem Sportingu. Portugalska oprema je za 23-letnika plačala 5 milijonov dolarjev, kar tako kot dogovor Romeu vključuje možnost odkupa. Jeffren se je Barci s Tenerifov pridružil leta 2004, za katalonski klub pa je debitiral v sezoni 2006-07.
+passage.questions.9.question:Koliko je star Oriol Romeu?
+passage.questions.9.idx:1147.0
+passage.questions.9.answers.7.text:Enaindvajset
+passage.questions.9.answers.7.label:0,0
+passage.questions.9.answers.7.idx:5824.0
+passage.questions.9.answers.6.text:Petindvajset
+passage.questions.9.answers.6.label:0,0
+passage.questions.9.answers.6.idx:5823.0
+passage.questions.9.answers.5.text:25.
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:5822.0
+passage.questions.9.answers.4.text:Triindvajset
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:5821.0
+passage.questions.9.answers.3.text:19 let in šest mesecev
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:5820.0
+passage.questions.9.answers.2.text:21.
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:5819.0
+passage.questions.9.answers.1.text:23.
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:5818.0
+passage.questions.9.answers.0.text:19.
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:5817.0
+passage.questions.8.question:Kdo je debitiral leta 2010?
+passage.questions.8.idx:1146.0
+passage.questions.8.answers.3.text:Nou
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:5816.0
+passage.questions.8.answers.2.text:Chelsea
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:5815.0
+passage.questions.8.answers.1.text:Oriol Romeu
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:5814.0
+passage.questions.8.answers.0.text:Jeffren Suarez
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:5813.0
+passage.questions.7.question:Kakšen položaj je imel Romeu, ko je kariero začel pri barcelonskem mestnem tekmecu Espanyolu?
+passage.questions.7.idx:1145.0
+passage.questions.7.answers.5.text:Krilo
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:5812.0
+passage.questions.7.answers.4.text:Srednji igralec
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:5811.0
+passage.questions.7.answers.3.text:Centralna obramba
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:5810.0
+passage.questions.7.answers.2.text:Naprej
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:5809.0
+passage.questions.7.answers.1.text:Vezist
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:5808.0
+passage.questions.7.answers.0.text:Vratar
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:5807.0
+passage.questions.6.question:Kdo je 19-letnik in igra za Španijo na svetovnem prvenstvu do 20 let v Kolumbiji?
+passage.questions.6.idx:1144.0
+passage.questions.6.answers.4.text:Chelsea
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:5806.0
+passage.questions.6.answers.3.text:Oriol Romeu
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:5805.0
+passage.questions.6.answers.2.text:Jeffren Suarez
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:5804.0
+passage.questions.6.answers.1.text:Oriolov bratranec
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:5803.0
+passage.questions.6.answers.0.text:Ortega Rim
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:5802.0
+passage.questions.5.question:Koliko denarja je 23-letnemu Jeffersonu Suarezu ponudil Lizbonski Sporting, da zapusti Barcelono?
+passage.questions.5.idx:1143.0
+passage.questions.5.answers.6.text:7 milijonov dolarjev
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:5801.0
+passage.questions.5.answers.5.text:5 milijonov USD in klavzula o odkupu
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:5800.0
+passage.questions.5.answers.4.text:14 milijonov dolarjev
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:5799.0
+passage.questions.5.answers.3.text:samo klavzula o odkupu
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:5798.0
+passage.questions.5.answers.2.text:5 milijonov USD in klavzula o odkupu
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:5797.0
+passage.questions.5.answers.1.text:12 milijonov dolarjev
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:5796.0
+passage.questions.5.answers.0.text:2 milijona in odkupno klavzulo
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:5795.0
+passage.questions.4.question:Kdo je debitiral v sezoni 2006-2007?
+passage.questions.4.idx:1142.0
+passage.questions.4.answers.4.text:Nou
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:5794.0
+passage.questions.4.answers.3.text:Chelsea
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:5793.0
+passage.questions.4.answers.2.text:Oriol Romeu
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:5792.0
+passage.questions.4.answers.1.text:Jeffren Suarez
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:5791.0
+passage.questions.4.answers.0.text:Desni bek Chelseaja Jeffren Suarez
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:5790.0
+passage.questions.3.question:Koliko sta po odhodu iz Barcelone sploh zaslužila Oriol Romeu in Jeffren Suarez?
+passage.questions.3.idx:1141.0
+passage.questions.3.answers.5.text:7 milijonov dolarjev
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:5789.0
+passage.questions.3.answers.4.text:2 milijona dolarjev
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:5788.0
+passage.questions.3.answers.3.text:5 milijonov dolarjev
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:5787.0
+passage.questions.3.answers.2.text:Jeffren je zaslužil 5 milijonov dolarjev, Oriol pa 7 dolarjev. Njihova skupna naložba torej znaša 12 milijonov dolarjev
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:5786.0
+passage.questions.3.answers.1.text:3 milijone dolarjev
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:5785.0
+passage.questions.3.answers.0.text:12 milijonov dolarjev
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:5784.0
+passage.questions.2.question:Jeffren Suarez je zapustil Barcelono in kje je debitiral?
+passage.questions.2.idx:1140.0
+passage.questions.2.answers.5.text:Barca s Tenerifov
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:5783.0
+passage.questions.2.answers.4.text:Ekvador
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:5782.0
+passage.questions.2.answers.3.text:Njegov novi klub: Sporting iz Lizbone
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:5781.0
+passage.questions.2.answers.2.text:Kostarika
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5780.0
+passage.questions.2.answers.1.text:Katalonski klub
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:5779.0
+passage.questions.2.answers.0.text:Tennerife
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5778.0
+passage.questions.11.question:Koliko je vreden 19-letnik?
+passage.questions.11.idx:1149.0
+passage.questions.11.answers.5.text:24 milijonov dolarjev
+passage.questions.11.answers.5.label:0,0
+passage.questions.11.answers.5.idx:5834.0
+passage.questions.11.answers.4.text:14 milijonov dolarjev
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:5833.0
+passage.questions.11.answers.3.text:7 milijonov dolarjev
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:5832.0
+passage.questions.11.answers.2.text:17 milijonov dolarjev
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:5831.0
+passage.questions.11.answers.1.text:5 milijonov dolarjev
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:5830.0
+passage.questions.11.answers.0.text:21 milijonov dolarjev
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:5829.0
+passage.questions.10.question:Koliko minut je igral v prvencu Oriola Romeuja?
+passage.questions.10.idx:1148.0
+passage.questions.10.answers.3.text:30 minut
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:5828.0
+passage.questions.10.answers.2.text:90 minut
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:5827.0
+passage.questions.10.answers.1.text:20 minut
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:5826.0
+passage.questions.10.answers.0.text:60 minut
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:5825.0
+passage.questions.1.question:Katerega 19-letnika, ki trenutno igra za Španijo, je podpisala ekipa v Angliji?
+passage.questions.1.idx:1139.0
+passage.questions.1.answers.3.text:Nou
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:5777.0
+passage.questions.1.answers.2.text:Chelsea
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5776.0
+passage.questions.1.answers.1.text:Jeffren Suarez
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:5775.0
+passage.questions.1.answers.0.text:Oriol Romeu
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5774.0
+passage.questions.0.question:Kateri 23-letni igralec zapušča špansko moštvo?
+passage.questions.0.idx:1138
+passage.questions.0.answers.4.text:Nou
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:5773.0
+passage.questions.0.answers.3.text:Chelsea
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:5772.0
+passage.questions.0.answers.2.text:Oriol Romeu
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:5771.0
+passage.questions.0.answers.1.text:Jeffren Suarez
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:5770
+passage.questions.0.answers.0.text:Jeffren Romeu
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:5769
+idx:96

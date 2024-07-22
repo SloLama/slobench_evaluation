@@ -1,0 +1,6 @@
+choice1:Stranišče se je napolnilo z vodo.
+choice2:Iz ustja pipe je pritekla voda.
+idx:0
+label:1
+premise:Moški je odprl pipo.
+question:effect

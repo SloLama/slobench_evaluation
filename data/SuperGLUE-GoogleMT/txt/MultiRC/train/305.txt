@@ -1,0 +1,75 @@
+version:1.1
+passage.text:Elektronska kraja tujih in industrijskih vohunov ter nezadovoljnih zaposlenih ameriška podjetja stane milijarde in zmanjšuje njihovo mednarodno konkurenčno prednost. Tako so sporočili vladni in zasebni strokovnjaki za varnost na celodnevni konferenci o elektronskem vohunjenju podjetij. &quot;Sovražne in celo prijazne države rutinsko kradejo informacije ameriškim podjetjem in jih delijo z lastnimi podjetji,&quot; je dejal Noel D. Matchett, nekdanji uslužbenec zvezne agencije za nacionalno varnost in zdaj predsednik informacijske varnosti Inc., Silver Spring, Md. &quot;Mogoče je&quot;, da je kraja poslovnih podatkov &quot;tako resna strateška grožnja nacionalni varnosti&quot;, kot tudi nevarnost za preživetje žrtev ameriških podjetij, je dejala Michelle Van Cleave, pomočnica direktorja Bele hiše za nacionalne varnostne zadeve. Konferenco sta skupaj sponzorirala New York Institute of Technology School of Management in Združenje oboroženih sil za komunikacije in elektroniko, skupna trgovinska skupina med industrijo in vlado. Strokovnjaki menijo, da lahko katero koli skrivnost piratirajo, če jo prenašajo po zraku. To lahko storijo tudi ljubitelji rangov, če za komercialni mikrovalovni sprejemnik z ojačevalnikom in videorekorderjem zapravijo nekaj tisoč dolarjev. Le postaviti se morajo blizu satelitske antene podjetja in počakati. &quot;Lahko imate ducat tekmovalcev, ki vam istočasno ukradejo skrivnosti,&quot; je dejal Matchett in dodal: &quot;Precej dobro je, da jih ne bodo ujeli.&quot; Edini način, kako ujeti elektronskega tatova, je po njegovih besedah, da mu nastavi napačne podatke.
+passage.questions.2.question:Ali lahko amaterji piratirajo katero koli skrivnost, ki se prenaša po zraku?
+passage.questions.2.idx:3465.0
+passage.questions.2.answers.8.text:Amaterji tega ne smejo storiti
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:18266.0
+passage.questions.2.answers.7.text:Ne samo nekatere skrivnosti je mogoče piratizirati
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:18265.0
+passage.questions.2.answers.6.text:Ja, lahko
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:18264.0
+passage.questions.2.answers.5.text:Vsako skrivnost lahko piratsko prenesemo po zraku
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:18263.0
+passage.questions.2.answers.4.text:Ja, amaterji lahko piratirajo, če porabijo nekaj tisoč dolarjev za komercialno dostopen mikrovalovni sprejemnik z ojačevalnikom in videorekorderjem
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:18262.0
+passage.questions.2.answers.3.text:Ne, ne morejo
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:18261.0
+passage.questions.2.answers.2.text:Da, če kupijo komercialno dostopen mikrovalovni sprejemnik z ojačevalnikom in videorekorderjem
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:18260.0
+passage.questions.2.answers.1.text:Noben amater ne zna piratira nobene skrivnosti, ki se prenaša po zraku
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:18259.0
+passage.questions.2.answers.0.text:Da, ampak za to morajo porabiti nekaj tisoč dolarjev
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:18258.0
+passage.questions.1.question:Kje se morajo amaterji postaviti za piratstvo skrivnosti, ki se prenaša po zraku?
+passage.questions.1.idx:3464.0
+passage.questions.1.answers.5.text:Postaviti se morajo v bližini satelitske antene podjetja
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:18257.0
+passage.questions.1.answers.4.text:Inštitut za tehnologijo v New Yorku
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:18256.0
+passage.questions.1.answers.3.text:V bližini zvezne agencije za nacionalno varnost
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:18255.0
+passage.questions.1.answers.2.text:V bližini satelitske antene podjetja
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18254.0
+passage.questions.1.answers.1.text:Blizu piratov
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:18253.0
+passage.questions.1.answers.0.text:Posodo morajo postaviti na pravi signal
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18252.0
+passage.questions.0.question:Kdo pravi, da vlada in strokovnjaki za zasebno varovanje izvajajo elektronsko krajo?
+passage.questions.0.idx:3463
+passage.questions.0.answers.6.text:Information Security Inc.,
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:18251.0
+passage.questions.0.answers.5.text:Zadeve nacionalne varnosti
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:18250.0
+passage.questions.0.answers.4.text:Domači vohuni
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:18249.0
+passage.questions.0.answers.3.text:Elektronsko krajo izvajajo tuji in industrijski vohuni ter nezadovoljni zaposleni
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:18248.0
+passage.questions.0.answers.2.text:G. Matchett
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:18247.0
+passage.questions.0.answers.1.text:Noel D. Matchett
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18246
+passage.questions.0.answers.0.text:Tuji in industrijski vohuni in nezadovoljni zaposleni
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:18245
+idx:305

@@ -1,0 +1,168 @@
+version:1.1
+passage.text:Ljubka rdeča krogla se je prevalila na modro kroglico in se pozdravila. Modra kroglica se je prestrašila in šla jokati do zelene kroglice. Zelena krogla se je smejala modri krogli. Nato je zelena kroglica oranžni kroglici rekla, da je modra kroglica neumna. Večina je menila, da to ni dobro storiti, zato so zeleno žogo kaznovali tako, da so mu odvzeli ves zrak. Od tega dne so vsi videli zeleno kroglo brez zraka in vedeli, da ne morejo storiti ali reči slabega. Tako so se začele težave. Vijolična kroglica je uporabila strah vseh, da bi postala vodja, ki so se je vsi bali. Vijolična kroglica je bila hudobna vsem. Dokler nekega dne rdeča kroglica ni spregovorila in zbrala vseh ostalih barvnih kroglic ter odvzela zrak iz vijolične kroglice in ga dala v zeleno kroglico. Na žalost je bila zelena krogla predolgo brez zraka in je bila mrtva.
+passage.questions.8.question:Zakaj so odvzeli zrak iz vijolične krogle?
+passage.questions.8.idx:1566.0
+passage.questions.8.answers.3.text:Ker je modra krogla potrebovala zrak
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:8152.0
+passage.questions.8.answers.2.text:Ker je bila vijolična kroglica zlobna
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:8151.0
+passage.questions.8.answers.1.text:Bil je hudoben do vseh
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:8150.0
+passage.questions.8.answers.0.text:Ker je zelena kroglica to prosila
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:8149.0
+passage.questions.7.question:Zakaj so se vsi bali govoriti slabe reči?
+passage.questions.7.idx:1565.0
+passage.questions.7.answers.5.text:Niso hoteli, da bi zrak odvzel
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:8148.0
+passage.questions.7.answers.4.text:Oranžna krogla jim je bila hudobna
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:8147.0
+passage.questions.7.answers.3.text:Niso hoteli biti pregnani
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:8146.0
+passage.questions.7.answers.2.text:Bali so se, da bi izgubili zrak
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:8145.0
+passage.questions.7.answers.1.text:Ker so videli, da je zelena brezzračna, ker je rekel, da je modra kroglica neumna
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:8144.0
+passage.questions.7.answers.0.text:Nikogar niso želeli prizadeti
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:8143.0
+passage.questions.6.question:Zakaj kroglice ne bi mogle govoriti slabih reči?
+passage.questions.6.idx:1564.0
+passage.questions.6.answers.6.text:Ker niso hoteli, da jim odvzamejo zrak
+passage.questions.6.answers.6.label:1.0
+passage.questions.6.answers.6.idx:8142.0
+passage.questions.6.answers.5.text:Ker bi se modra krogla bala
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:8141.0
+passage.questions.6.answers.4.text:Ker so se bali, da jim bo zrak odvzet
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:8140.0
+passage.questions.6.answers.3.text:Droga
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:8139.0
+passage.questions.6.answers.2.text:Ker jim je rdeča krogla rekla, naj bodo tiho
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:8138.0
+passage.questions.6.answers.1.text:Ker bi bili pregnani
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:8137.0
+passage.questions.6.answers.0.text:Odvzeli so zelene kroglice zraku
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:8136.0
+passage.questions.5.question:Zakaj se je zeleni krogli smejal modri krogli?
+passage.questions.5.idx:1563.0
+passage.questions.5.answers.5.text:Ker se je bal rdeče žoge
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:8135.0
+passage.questions.5.answers.4.text:Ker se je bala rdeče žoge
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:8134.0
+passage.questions.5.answers.3.text:Ker so bili prijatelji z vijolično kroglo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:8133.0
+passage.questions.5.answers.2.text:Ker se je modra krogla bala rdeče
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:8132.0
+passage.questions.5.answers.1.text:Ker je modra žoga pobegnila od doma
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:8131.0
+passage.questions.5.answers.0.text:Ker ni imel zraka
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:8130.0
+passage.questions.4.question:Kdo je bil vodja, ki so se ga bali bal?
+passage.questions.4.idx:1562.0
+passage.questions.4.answers.5.text:Rdeča krogla
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:8129.0
+passage.questions.4.answers.4.text:Vijolična kroglica
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:8128.0
+passage.questions.4.answers.3.text:Zelena krogla
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:8127.0
+passage.questions.4.answers.2.text:Vijolična kroglica
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:8126.0
+passage.questions.4.answers.1.text:Oranžna kroglica
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:8125.0
+passage.questions.4.answers.0.text:Brezzračna zelena krogla
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:8124.0
+passage.questions.3.question:Kaj je storila zelena krogla, preden je bila kaznovana?
+passage.questions.3.idx:1561.0
+passage.questions.3.answers.5.text:Nasmejal se je rdeči žogi
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:8123.0
+passage.questions.3.answers.4.text:Iztok zraka
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:8122.0
+passage.questions.3.answers.3.text:Nasmejal se je modri krogli
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:8121.0
+passage.questions.3.answers.2.text:Spustite zrak modre kroglice
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:8120.0
+passage.questions.3.answers.1.text:Naročeno
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:8119.0
+passage.questions.3.answers.0.text:Modro žogo imenoval neumno
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:8118.0
+passage.questions.2.question:Koga se je modra krogla bala?
+passage.questions.2.idx:1560.0
+passage.questions.2.answers.3.text:Oranžna kroglica
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:8117.0
+passage.questions.2.answers.2.text:Vijolična kroglica
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:8116.0
+passage.questions.2.answers.1.text:Zelena krogla
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:8115.0
+passage.questions.2.answers.0.text:Rdeča krogla
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:8114.0
+passage.questions.1.question:Zakaj je zelena krogla modro kroglo označila za neumno?
+passage.questions.1.idx:1559.0
+passage.questions.1.answers.4.text:Ker je pobegnil od doma
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:8113.0
+passage.questions.1.answers.3.text:Ker mu je bila všeč rdeča žoga
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:8112.0
+passage.questions.1.answers.2.text:Ker se je bal rdeče žoge
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:8111.0
+passage.questions.1.answers.1.text:Ker ni imel zraka
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:8110.0
+passage.questions.1.answers.0.text:Ker se je modra krogla bala rdeče žoge
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:8109.0
+passage.questions.0.question:Zakaj so vzeli zrak iz zelene krogle?
+passage.questions.0.idx:1558
+passage.questions.0.answers.4.text:Ker je bila zelena krogla ustrahovalec
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:8108.0
+passage.questions.0.answers.3.text:Ker jih je naredila pametna krogla
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:8107.0
+passage.questions.0.answers.2.text:Ker je zelena krogla oranžni krogli rekla neumnost
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:8106.0
+passage.questions.0.answers.1.text:Ker se je zelena krogla smejala in modro kroglo imenovala neumno
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:8105
+passage.questions.0.answers.0.text:Ker jim je rdeča krogla rekla
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:8104
+idx:136

@@ -1,0 +1,6 @@
+choice1:Njegov prijatelj je zbolel.
+choice2:Njegov prijatelj je kihnil.
+idx:86
+label:0
+premise:Bolni otrok je zakašljal v smeri prijatelja.
+question:effect

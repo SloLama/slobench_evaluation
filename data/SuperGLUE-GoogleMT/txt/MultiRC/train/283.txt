@@ -1,0 +1,264 @@
+version:1.1
+passage.text:Ste že kdaj videli jajčece? Nekatere živali nimajo živorojenih otrok. Namesto tega odlagajo jajca. Jajca vsebujejo zarodek. Zarodek dozori v jajčecu. Sčasoma se bo izleglo. Nekatere živali se izležejo in jih starši ne potrebujejo. Pripravljeni so živeti sami. Za druge živali bo še vedno potrebna skrb staršev. Morske želve se lomijo iz lupin. Takoj se sprehodijo do oceana. To počnejo brez pomoči odrasle osebe. Ptice ostanejo v gnezdu več tednov. Zanje skrbijo starši. Gnezdo zapustijo, ko so dovolj močni za letenje. Nekatere živali rodijo žive potomce. Živali, kot so konji, krave in kiti, rodijo živo. Njihovi potomci se rodijo kot mini odrasli.
+passage.questions.9.question:Zakaj ptice skrbijo več tednov, preden zapustijo gnezdo?
+passage.questions.9.idx:3206.0
+passage.questions.9.answers.4.text:Takoj se sprehodijo do oceana
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:16940.0
+passage.questions.9.answers.3.text:Morali bi umirati
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:16939.0
+passage.questions.9.answers.2.text:Ne morejo leteti
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:16938.0
+passage.questions.9.answers.1.text:Niso dovolj močni za letenje
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:16937.0
+passage.questions.9.answers.0.text:Morali bi biti dovolj močni za letenje
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:16936.0
+passage.questions.8.question:Kako se obnašajo mlade ptice?
+passage.questions.8.idx:3205.0
+passage.questions.8.answers.4.text:Od odraslih so odvisni, dokler ne razvijejo sposobnosti letenja
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:16935.0
+passage.questions.8.answers.3.text:Niso odvisni od odraslih
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:16934.0
+passage.questions.8.answers.2.text:Mlade ptice ostanejo v gnezdu več tednov in gnezdo zapustijo, ko so dovolj močne za letenje
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:16933.0
+passage.questions.8.answers.1.text:Ptice ostanejo v gnezdu več tednov. Poslano 14: Zanje skrbijo starši
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:16932.0
+passage.questions.8.answers.0.text:To počnejo brez pomoči odrasle osebe
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:16931.0
+passage.questions.7.question:Navedite nekaj primerov živali z potomci, ki so videti kot mini odrasli.
+passage.questions.7.idx:3204.0
+passage.questions.7.answers.3.text:Morske želve, ptice
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:16930.0
+passage.questions.7.answers.2.text:Konji, krave in kiti rodijo živo. Poslano 18: Njihovi potomci se rodijo kot mini odrasli
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:16929.0
+passage.questions.7.answers.1.text:Morske želve in ptice
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:16928.0
+passage.questions.7.answers.0.text:Konji, krave in kiti
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:16927.0
+passage.questions.6.question:Kaj lahko storijo nedavno izvaljene morske želve?
+passage.questions.6.idx:3203.0
+passage.questions.6.answers.4.text:Takoj se sprehodijo do oceana
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:16926.0
+passage.questions.6.answers.3.text:Zlomijo se iz školjk in se brez pomoči odraslih odpravijo v ocean
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:16925.0
+passage.questions.6.answers.2.text:Do oceana hodijo brez kakršne koli pomoči
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:16924.0
+passage.questions.6.answers.1.text:Zanje skrbijo starši
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:16923.0
+passage.questions.6.answers.0.text:Odvisni so od odraslih
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:16922.0
+passage.questions.5.question:Kakšen je primer živali, ki se izleže iz jajčec in ne potrebuje skrbi svojih staršev?
+passage.questions.5.idx:3202.0
+passage.questions.5.answers.2.text:Morske želve
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:16921.0
+passage.questions.5.answers.1.text:Morske želve
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:16920.0
+passage.questions.5.answers.0.text:Ptice
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:16919.0
+passage.questions.4.question:Kateri sta dve vrsti valjenja?
+passage.questions.4.idx:3201.0
+passage.questions.4.answers.4.text:Nekatere živali se izvalijo in jih starši ne potrebujejo, druge pa bodo starši še vedno potrebovali
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:16918.0
+passage.questions.4.answers.3.text:Zarodek dozori v jajčecu
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:16917.0
+passage.questions.4.answers.2.text:Nekatere živali se izležejo in jih starši ne potrebujejo. Poslano 9: Za druge živali bo še vedno potrebna skrb staršev
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:16916.0
+passage.questions.4.answers.1.text:Nekateri so rojeni kot mini odrasli, drugi pa kot odrasli
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:16915.0
+passage.questions.4.answers.0.text:Nekatere živali se izležejo in jih starši ne potrebujejo. Za druge živali bo še vedno potrebna skrb staršev
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:16914.0
+passage.questions.3.question:Kako se obnašajo morske želve po rojstvu?
+passage.questions.3.idx:3200.0
+passage.questions.3.answers.4.text:Sprehoditi se do oceana brez kakršne koli pomoči odraslih
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:16913.0
+passage.questions.3.answers.3.text:Potrebujejo pomoč odraslih
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:16912.0
+passage.questions.3.answers.2.text:Zanje skrbijo starši
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:16911.0
+passage.questions.3.answers.1.text:Morske želve se lomijo iz lupin in takoj odkorakajo do oceana
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:16910.0
+passage.questions.3.answers.0.text:Morske želve se lomijo iz lupin. Poslano 11: Takoj se sprehodijo do oceana
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:16909.0
+passage.questions.2.question:Navedite primer živali, ki po rojstvu potrebuje skrb staršev.
+passage.questions.2.idx:3199.0
+passage.questions.2.answers.2.text:Morske želve
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:16908.0
+passage.questions.2.answers.1.text:Ptice, poslane 13: Ptice ostanejo v gnezdu več tednov. Poslano 14: Zanje skrbijo starši
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:16907.0
+passage.questions.2.answers.0.text:Ptice
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:16906.0
+passage.questions.17.question:Ali morske želve po izvalitvi potrebujejo skrb svojih staršev?
+passage.questions.17.idx:3214.0
+passage.questions.17.answers.4.text:Zanje skrbijo starši
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:16971.0
+passage.questions.17.answers.3.text:Da
+passage.questions.17.answers.3.label:0,0
+passage.questions.17.answers.3.idx:16970.0
+passage.questions.17.answers.2.text:Ne
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:16969.0
+passage.questions.17.answers.1.text:Ne. Takoj po izvalitvi se morske želve sprehodijo do oceana brez pomoči staršev
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:16968.0
+passage.questions.17.answers.0.text:Ne, morske želve se lomijo iz lupin. Poslano 11: Takoj se sprehodijo do oceana. Poslano 12: To počnejo brez pomoči odrasle osebe
+passage.questions.17.answers.0.label:1.0
+passage.questions.17.answers.0.idx:16967.0
+passage.questions.16.question:Navedite primer živali, ki po rojstvu ne potrebuje oskrbe staršev.
+passage.questions.16.idx:3213.0
+passage.questions.16.answers.2.text:Morske želve
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:16966.0
+passage.questions.16.answers.1.text:Morske želve, poslano 11: Takoj se sprehodijo do oceana. Poslano 12: To počnejo brez pomoči odrasle osebe
+passage.questions.16.answers.1.label:1.0
+passage.questions.16.answers.1.idx:16965.0
+passage.questions.16.answers.0.text:Ptice
+passage.questions.16.answers.0.label:0,0
+passage.questions.16.answers.0.idx:16964.0
+passage.questions.15.question:Kaj je značilno za potomce živali, ki rodijo živorojene otroke?
+passage.questions.15.idx:3212.0
+passage.questions.15.answers.2.text:Potomci so videti kot mini različice odraslih živali
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:16963.0
+passage.questions.15.answers.1.text:Nesejo jajčeca
+passage.questions.15.answers.1.label:0,0
+passage.questions.15.answers.1.idx:16962.0
+passage.questions.15.answers.0.text:Njihovi potomci se rodijo kot mini odrasli
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:16961.0
+passage.questions.14.question:Navedite dva primera živali, ki odlagajo jajčeca.
+passage.questions.14.idx:3211.0
+passage.questions.14.answers.3.text:Morske želve in ptice
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:16960.0
+passage.questions.14.answers.2.text:Ljudje in opice
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:16959.0
+passage.questions.14.answers.1.text:Krave in kiti
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:16958.0
+passage.questions.14.answers.0.text:Ptice in morske želve
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:16957.0
+passage.questions.13.question:Kakšen je primer živali, ki rodi živo?
+passage.questions.13.idx:3210.0
+passage.questions.13.answers.3.text:Ptice
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:16956.0
+passage.questions.13.answers.2.text:Konji
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:16955.0
+passage.questions.13.answers.1.text:Kiti
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:16954.0
+passage.questions.13.answers.0.text:Konj, krave ali kiti
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:16953.0
+passage.questions.12.question:Ali morske želve potrebujejo pomoč svojih družin?
+passage.questions.12.idx:3209.0
+passage.questions.12.answers.3.text:Zanje skrbijo starši
+passage.questions.12.answers.3.label:0,0
+passage.questions.12.answers.3.idx:16952.0
+passage.questions.12.answers.2.text:Ne, morske želve se lomijo iz lupin. Poslano 11: Takoj se sprehodijo do oceana
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:16951.0
+passage.questions.12.answers.1.text:Da
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:16950.0
+passage.questions.12.answers.0.text:Ne
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:16949.0
+passage.questions.11.question:Ali za ptice skrbijo starši?
+passage.questions.11.idx:3208.0
+passage.questions.11.answers.3.text:To počnejo brez pomoči odrasle osebe
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:16948.0
+passage.questions.11.answers.2.text:Da, ptice ostanejo v gnezdu več tednov. Poslano 14: Zanje skrbijo starši
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:16947.0
+passage.questions.11.answers.1.text:Da
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:16946.0
+passage.questions.11.answers.0.text:Ne
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:16945.0
+passage.questions.10.question:Kako dolgo po izvalitvi ostanejo ptice v svojih gnezdih, preden odidejo, da se naučijo leteti?
+passage.questions.10.idx:3207.0
+passage.questions.10.answers.3.text:Že več tednov
+passage.questions.10.answers.3.label:1.0
+passage.questions.10.answers.3.idx:16944.0
+passage.questions.10.answers.2.text:Zanje skrbijo starši. Poslano 15: Gnezdo zapustijo, ko so dovolj močni za letenje
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:16943.0
+passage.questions.10.answers.1.text:Že nekaj let
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:16942.0
+passage.questions.10.answers.0.text:Takoj se sprehodijo do oceana
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:16941.0
+passage.questions.1.question:Kateri primeri so rojene živali, ki so videti kot mini odrasli?
+passage.questions.1.idx:3198.0
+passage.questions.1.answers.3.text:Morske želve
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:16905.0
+passage.questions.1.answers.2.text:Morske želve in ptice
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16904.0
+passage.questions.1.answers.1.text:Konji, krave in kiti
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:16903.0
+passage.questions.1.answers.0.text:Živali, kot so konji, krave in kiti
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:16902.0
+passage.questions.0.question:Kaj se zgodi z dojenčki?
+passage.questions.0.idx:3197
+passage.questions.0.answers.4.text:Zanje skrbijo odrasli, dokler ne razvijejo sposobnosti letenja
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:16901.0
+passage.questions.0.answers.3.text:Takoj se sprehodijo do oceana
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:16900.0
+passage.questions.0.answers.2.text:Neposredno letijo sami
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:16899.0
+passage.questions.0.answers.1.text:V svojih gnezdih ostanejo tedne, starši zanje skrbijo, dokler niso dovolj močni za letenje
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:16898
+passage.questions.0.answers.0.text:Ptice ostanejo v gnezdu več tednov. Poslano 14: Zanje skrbijo starši. Poslano 15: Gnezdo zapustijo, ko so dovolj močni za letenje
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:16897
+idx:283

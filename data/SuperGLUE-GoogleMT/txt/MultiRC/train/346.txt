@@ -1,0 +1,100 @@
+version:1.1
+passage.text:Beneški umetnik Jacopo de &#39;Barbari, s katerim se je Durer srečal v Benetkah, je leta 1500 obiskal Nürnberg in Durer je dejal, da se je od njega veliko naučil o novih dogodkih v perspektivi, anatomiji in razmerju. De &#39;Barbari ni želel razložiti vsega, kar je vedel, zato je Durer začel svoj študij, ki bi postal vseživljenjska skrb. Serija ohranjenih risb prikazuje Durerjeve poskuse v človeškem razmerju, kar vodi do znamenite gravure Adama in Eve (1504), ki kaže njegovo subtilnost med uporabo burina pri teksturiranju površin mesa. To je edina obstoječa gravura, podpisana z njegovim polnim imenom. Durer je naredil veliko pripravljalnih risb, zlasti za svoje slike in gravure, in mnogi preživijo, najbolj znana je Betende Hande (angleško: Praying Hands, ok. 1508 Albertina, Dunaj), študija za apostola na oltarni sliki Heller. Nadaljeval je tudi s slikanjem v akvarelu in barvi telesa (običajno v kombinaciji), vključno s številnimi tihožitji travniških odsekov ali živali, vključno z njegovim mladim zajcem (1502) in velikim koščkom trate (1503, oba tudi Albertina).
+passage.questions.7.question:Kateri deli, ki jih je ustvaril Durer, so poimenovani v odstavku?
+passage.questions.7.idx:3995.0
+passage.questions.7.answers.4.text:Slike in gravure, pripravljalne risbe, mladi zajec
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:21225.0
+passage.questions.7.answers.3.text:Hellerjeva oltarna slika
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:21224.0
+passage.questions.7.answers.2.text:Adam in Eva, roke, ki molijo, mladi zajec, velik kos trate
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:21223.0
+passage.questions.7.answers.1.text:Trpežnejša, anatomija in razmerje, Veliki kos trate
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:21222.0
+passage.questions.7.answers.0.text:Adam in Eva, Betende Hande, Mladi zajec, Veliki kos trate, De &#39;Barbari
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:21221.0
+passage.questions.6.question:Kaj je povzročilo, da je Durer začel s svojim študijem in eksperimentiranjem s človeškimi lastnostmi v svojem umetniškem delu?
+passage.questions.6.idx:3994.0
+passage.questions.6.answers.4.text:Da pokaže svojo subtilnost med uporabo burina pri teksturiranju površin mesa
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:21220.0
+passage.questions.6.answers.3.text:De&#39;Barbari ni hotel razložiti vsega, kar je vedel
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:21219.0
+passage.questions.6.answers.2.text:Postati vseživljenjska skrb
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:21218.0
+passage.questions.6.answers.1.text:Jacopo de &#39;Barbari ni hotel razložiti vsega, kar je vedel
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:21217.0
+passage.questions.6.answers.0.text:Njegova tihožitja travniških odsekov
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:21216.0
+passage.questions.5.question:Kako se imenuje edina obstoječa gravura, podpisana s polnim imenom Durer?
+passage.questions.5.idx:3993.0
+passage.questions.5.answers.1.text:Adam in Eva
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:21215.0
+passage.questions.5.answers.0.text:Mladi zajec
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:21214.0
+passage.questions.4.question:Kako se je imenoval komad, ki ga je ustvaril Durer in je vseboval podpis njegovega polnega imena?
+passage.questions.4.idx:3992.0
+passage.questions.4.answers.2.text:Adam in Eva
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:21213.0
+passage.questions.4.answers.1.text:Durerjevi poskusi v razmerju do človeka
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:21212.0
+passage.questions.4.answers.0.text:Betende Hande
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:21211.0
+passage.questions.3.question:Katera imenovana dela je izdelal Durer v dunajski Albertini?
+passage.questions.3.idx:3991.0
+passage.questions.3.answers.2.text:Roke, ki molijo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:21210.0
+passage.questions.3.answers.1.text:Mladi zajec
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:21209.0
+passage.questions.3.answers.0.text:Travniški odsek
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:21208.0
+passage.questions.2.question:Katera edina gravura je podpisana s polnim imenom Durerja?
+passage.questions.2.idx:3990.0
+passage.questions.2.answers.1.text:Roke, ki molijo
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:21207.0
+passage.questions.2.answers.0.text:Adam in Eva
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:21206.0
+passage.questions.1.question:Kakšne teme so bile v Durerjevih umetniških delih?
+passage.questions.1.idx:3989.0
+passage.questions.1.answers.4.text:Življenja na travniku
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:21205.0
+passage.questions.1.answers.3.text:Akvarel in barva telesa
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:21204.0
+passage.questions.1.answers.2.text:Notranji organi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:21203.0
+passage.questions.1.answers.1.text:Živali, tihožitja in ljudje
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:21202.0
+passage.questions.1.answers.0.text:Mladi zajec
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:21201.0
+passage.questions.0.question:Kdaj je Durer naredil svojo najbolj znano pripravljalno risbo?
+passage.questions.0.idx:3988
+passage.questions.0.answers.1.text:1502
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21200
+passage.questions.0.answers.0.text:1508
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:21199
+idx:346

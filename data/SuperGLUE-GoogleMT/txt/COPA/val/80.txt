@@ -1,0 +1,6 @@
+choice1:Študentu je zazvonil telefon.
+choice2:Študent si je zapisoval.
+idx:80
+label:0
+premise:Vsi v razredu so se obrnili, da bi strmeli v učenca.
+question:cause

@@ -1,0 +1,191 @@
+version:1.1
+passage.text:Allan se je še enkrat poklical nad pisalno mizo, s pisalom v roki in s praznim umom. Zamislil se je o zgodbi, orisu, ki ga je pred časom trudno sestavil. Napolnil je pero in ga dvignil, pero se je spuščalo proti papirju, preden se je oglasil zvok: nežno, vztrajno tapkanje ožlekane vrbe, ki se je z dolgimi, vztrajnimi prsti dotikala okna. Njegove oči se je prebudilo s strastnim, odločnim plamenom, čeprav je edina svetloba prihajala iz prežvečene lune. Allan je polnil stran za stranjo, besede so mu uhajale iz misli na papir. Tam, kjer so prej korakali v polkah, vadili v vrstah in sledili ukazom svojih voditeljev, so zdaj besede uhajale v svojih resničnih oblikah, ne da bi jih ovirala kakršna koli striktura. Nadaljeval je dolgo v noč, dokler eldritch krogla ni potonila v čakajoče roke vrbe, nenehno dvignjene v nebo. Arthur je dvignil pogled proti rezultatom nočnega blaznega dela in pogledal Allana v oči. &quot;Kaj je to?&quot; je vprašal in nakazal strani, ki jih je držal v levi roki. &quot;Odločil sem se, da ... ker nisem imel večjega uspeha z bolj tradicionalnimi zgodbami, bom morda videl, kakšno delo sem ustvaril, če sem pustil domišljiji prosto pot,&quot; je nekoliko manj samozavesten kot prej prejšnjo noč. &quot;Kaj vse bi te lahko imelo Gd v imenu,&quot; je zavpil Arthur in skoraj povišal glas. &quot;Zakaj ste po vsem, kar sem rekel prejšnji dan, stoletja literarnega napredka opustili zaradi neke samopopustljive fantazije?&quot; Stisnil je papirje Alanu in jih dvignil kot pas nad glavo neposlušnega sina. &quot;To ni nič drugega kot poveličana Grimmova zgodba, zmedeni Stokerjev otrok, stvaritev, ki je manj primerna za objavo, kot da bi jo pripovedovali ob odprtem ognju na kopici nekega kmeta!&quot; Zadnjo besedo je izgovoril s tako težko intonacijo, da se je Allan zožil pred fizičnim valom zvoka, ki je izhajal iz Arturjevega grla. &quot;Ali sovražite sodobni sistem literature? Ali osebno prezirate dela razsvetljenstva ali napredek, dosežen od Shakespearja?&quot; Za trenutek je Allan komaj kaj naredil, kot da bi zmajal z glavo. &quot;Ne, seveda ne ... jaz ...&quot; &quot;Zakaj pa,&quot; je nadaljeval Arthur, &quot;ali jih ne upoštevate in se vrnete k temu vraževernemu blebetanju, temu morbidnemu, poganskemu potepu?
+passage.questions.9.question:Kaj misli Arthur o Alanovih netradicionalnih zgodbah?
+passage.questions.9.idx:4806.0
+passage.questions.9.answers.5.text:So iznajdljivi
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:25646.0
+passage.questions.9.answers.4.text:Navdušujoče so
+passage.questions.9.answers.4.label:0,0
+passage.questions.9.answers.4.idx:25645.0
+passage.questions.9.answers.3.text:Obožuje jih
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:25644.0
+passage.questions.9.answers.2.text:Vozne so
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:25643.0
+passage.questions.9.answers.1.text:Ne mara jih
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:25642.0
+passage.questions.9.answers.0.text:So poveličane Grimmove zgodbe
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:25641.0
+passage.questions.8.question:Kako Althur reagira, ko Allan polni strani brez omejitev?
+passage.questions.8.idx:4805.0
+passage.questions.8.answers.5.text:Ponosen je
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:25640.0
+passage.questions.8.answers.4.text:Veselje
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:25639.0
+passage.questions.8.answers.3.text:Dvigne glas in zakriči na Alana
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:25638.0
+passage.questions.8.answers.2.text:Jeza in gnus
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:25637.0
+passage.questions.8.answers.1.text:Jezen je
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:25636.0
+passage.questions.8.answers.0.text:S čestitkami
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:25635.0
+passage.questions.7.question:Kaj je Allan razmišljal nad svojo mizo?
+passage.questions.7.idx:4804.0
+passage.questions.7.answers.5.text:Njegova stara zgodba
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:25634.0
+passage.questions.7.answers.4.text:O čem pisati
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:25633.0
+passage.questions.7.answers.3.text:Grimm
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:25632.0
+passage.questions.7.answers.2.text:Oris, ki ga je napisal že prej
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:25631.0
+passage.questions.7.answers.1.text:Arthur
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:25630.0
+passage.questions.7.answers.0.text:Zgodba, ki jo je zgradil že zdavnaj
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:25629.0
+passage.questions.6.question:Je Arthur zagrabil Alanin papir?
+passage.questions.6.idx:4803.0
+passage.questions.6.answers.2.text:Raztrgal jih je tudi
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:25628.0
+passage.questions.6.answers.1.text:Da
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:25627.0
+passage.questions.6.answers.0.text:Mogoče
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:25626.0
+passage.questions.5.question:Ali je Allan napisal svojo zgodbo v enem samem delu?
+passage.questions.5.idx:4802.0
+passage.questions.5.answers.3.text:Napisal ga je v eni noči
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:25625.0
+passage.questions.5.answers.2.text:Trajal je en teden
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:25624.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:25623.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:25622.0
+passage.questions.4.question:Na kaj je Allan pisal za svojo mizo?
+passage.questions.4.idx:4801.0
+passage.questions.4.answers.4.text:Oporoka
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:25621.0
+passage.questions.4.answers.3.text:Pergament
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:25620.0
+passage.questions.4.answers.2.text:Papir
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:25619.0
+passage.questions.4.answers.1.text:Strani
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:25618.0
+passage.questions.4.answers.0.text:V stari knjigi
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:25617.0
+passage.questions.3.question:Kaj je Arthur vprašal Alana?
+passage.questions.3.idx:4800.0
+passage.questions.3.answers.5.text:Da razloži svoj miselni proces
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:25616.0
+passage.questions.3.answers.4.text:Bi radi kaj pojedli?
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:25615.0
+passage.questions.3.answers.3.text:Kako se je njegovo pisanje tako hitro izboljšalo
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:25614.0
+passage.questions.3.answers.2.text:&quot;Kaj je to?&quot;
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:25613.0
+passage.questions.3.answers.1.text:Da mu napišem pesem
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:25612.0
+passage.questions.3.answers.0.text:&quot;Ali sovražite sodobni sistem literature?
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:25611.0
+passage.questions.2.question:Koliko priimkov avtorjev je omenil Arthur?
+passage.questions.2.idx:4799.0
+passage.questions.2.answers.5.text:3.
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:25610.0
+passage.questions.2.answers.4.text:Tri
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:25609.0
+passage.questions.2.answers.3.text:7.
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:25608.0
+passage.questions.2.answers.2.text:Pol ducata
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:25607.0
+passage.questions.2.answers.1.text:Manj kot 5
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:25606.0
+passage.questions.2.answers.0.text:5.
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:25605.0
+passage.questions.1.question:Kaj je Allan razmišljal Arthurju o njegovem časopisu?
+passage.questions.1.idx:4798.0
+passage.questions.1.answers.6.text:Hotel se je odmakniti od tradicije
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:25604.0
+passage.questions.1.answers.5.text:Domišljiji je pustil prosto pot
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:25603.0
+passage.questions.1.answers.4.text:Želel je videti, kaj bo napisal, če bo dovolil, da njegov um prosto teče
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:25602.0
+passage.questions.1.answers.3.text:Hotel je posnemati velikane
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:25601.0
+passage.questions.1.answers.2.text:Hotel je osvoboditi svojo domišljijo
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:25600.0
+passage.questions.1.answers.1.text:Želel je priznanje
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:25599.0
+passage.questions.1.answers.0.text:Dolgčas mu je bilo
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:25598.0
+passage.questions.0.question:Kaj je prebudilo strast v Alanu, da je tisto noč začel pisati?
+passage.questions.0.idx:4797
+passage.questions.0.answers.6.text:Tisto noč je pil
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:25597.0
+passage.questions.0.answers.5.text:Zunaj se sliši narava
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:25596.0
+passage.questions.0.answers.4.text:Willow tapka okno
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:25595.0
+passage.questions.0.answers.3.text:Vrba, ki se dotika okna
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:25594.0
+passage.questions.0.answers.2.text:Luna
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:25593.0
+passage.questions.0.answers.1.text:Nežno, vztrajno tapkanje oškrnjene vrbe, ki se je z dolgimi, vztrajnimi prsti dotikala okna
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:25592
+passage.questions.0.answers.0.text:Shakespeare
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:25591
+idx:426

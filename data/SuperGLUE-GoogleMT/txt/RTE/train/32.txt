@@ -1,0 +1,4 @@
+hypothesis:Aspirin preprečuje prebavne krvavitve.
+idx:32
+label:not_entailment
+premise:Krvavitve iz prebavil se lahko pojavijo kot škodljiv učinek nesteroidnih protivnetnih zdravil, kot sta aspirin ali ibuprofen.

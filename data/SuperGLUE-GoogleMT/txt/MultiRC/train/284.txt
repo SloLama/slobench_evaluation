@@ -1,0 +1,57 @@
+version:1.1
+passage.text:Charlie Mershone brez težav poskrbel za njegovo izpustitev, ko je Parker prišel na službo ob šesti uri. Priklical je taksi in šel takoj v svoje sobe v Bruxtelle; in Fogerty mu je sledil. Medtem ko je zavrgel plašč, se kopel in si oblekel pohodniško obleko, je bila Mershone v rjavi študiji. Pred nekaj urami je bila Louise varno pristala v hiši na vzhodni oranži in je bila v varstvu stare gospe Cerise, ki jo je čuvala kot ogrca. Po njej ni bilo treba takoj pohiteti, aretacija in odkritje polovice njegove parcele sta ga resno zmotila. Ta mladenič ni bil začetnik v spletkah, niti v zločinu. S svojimi lastnimi stališči je ugotovil, da so Louiseini prijatelji v tem času uporabili vse, da bi jo našli. To jim ne bi uspelo, bil je pozitiven. Njegova spletka je bila tako drzna in vsi psi so bili tako spretno uničeni ali prikriti, da je najbolj spreten detektiv vedel, da je ugrabil dekle; bi bil popolnoma zmeden, ko bi jo poskušal najti.
+passage.questions.2.question:Sta bila Louise in Charlie na istem mestu?
+passage.questions.2.idx:3217.0
+passage.questions.2.answers.4.text:Je v Bruxtelleju
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:16987.0
+passage.questions.2.answers.3.text:Oba sta v hotelu
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:16986.0
+passage.questions.2.answers.2.text:Oni so bili
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:16985.0
+passage.questions.2.answers.1.text:Niso bili
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:16984.0
+passage.questions.2.answers.0.text:Je v hiši The East Orange
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:16983.0
+passage.questions.1.question:Kaj je bil Charlie oblečen ob šestih?
+passage.questions.1.idx:3216.0
+passage.questions.1.answers.4.text:Oblečni plašč
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:16982.0
+passage.questions.1.answers.3.text:Pohodniška obleka
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:16981.0
+passage.questions.1.answers.2.text:Nosil je obleko
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:16980.0
+passage.questions.1.answers.1.text:Nosil je plašč
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:16979.0
+passage.questions.1.answers.0.text:Nosil je pohodniško obleko
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:16978.0
+passage.questions.0.question:Komu je Charlie verjel, da ni hotel najti Louise?
+passage.questions.0.idx:3215
+passage.questions.0.answers.5.text:Prijatelji Louise
+passage.questions.0.answers.5.label:1.0
+passage.questions.0.answers.5.idx:16977.0
+passage.questions.0.answers.4.text:Louiseini prijatelji
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:16976.0
+passage.questions.0.answers.3.text:Mershone
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:16975.0
+passage.questions.0.answers.2.text:Madame Cerise
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:16974.0
+passage.questions.0.answers.1.text:Njeni prijatelji
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:16973
+passage.questions.0.answers.0.text:Spreten detektiv
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:16972
+idx:284

@@ -1,0 +1,217 @@
+version:1.1
+passage.text:Predstavljajte si kozarec svoje najljubše pijače, ki ni nikoli prazen. Zdaj pa pomislite, kaj se v resnici zgodi. Vzamete pijačo in v kozarcu je manj. Še naprej piješ in kmalu vsega ni več. Še dobro, da imate več kozarca za polnjenje. Kaj pa, če vaše najljubše pijače ne bi bilo nikoli več. Kaj bi naredil? Zdaj poznate razliko med obnovljivimi in neobnovljivimi. Škoda, da se bo marsikaj tukaj na Zemlji izteklo. Sem spadajo nekateri naši naravni viri, od katerih smo odvisni. Stvari, kot je nafta, ne bodo trajale večno. Nabava je omejena. Nekega dne nas bo zmanjkalo, in kaj potem? Pri sedanjih stopnjah uporabe bo premog zdržal približno 300 let. Nafta bo porabljena v samo nekaj desetletjih.
+passage.questions.9.question:Kateri so neobnovljivi viri?
+passage.questions.9.idx:2816.0
+passage.questions.9.answers.7.text:Nafta
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:14870.0
+passage.questions.9.answers.6.text:Nafta in premog
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:14869.0
+passage.questions.9.answers.5.text:Sončna
+passage.questions.9.answers.5.label:0,0
+passage.questions.9.answers.5.idx:14868.0
+passage.questions.9.answers.4.text:Olje
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:14867.0
+passage.questions.9.answers.3.text:Voda
+passage.questions.9.answers.3.label:0,0
+passage.questions.9.answers.3.idx:14866.0
+passage.questions.9.answers.2.text:Veter
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:14865.0
+passage.questions.9.answers.1.text:Premog
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:14864.0
+passage.questions.9.answers.0.text:Zrak
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:14863.0
+passage.questions.8.question:Ali ima Zemlja razen nafte druge obnovljive vire, od katerih smo odvisni?
+passage.questions.8.idx:2815.0
+passage.questions.8.answers.4.text:Da, drugi omenjeni vir je premog
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:14862.0
+passage.questions.8.answers.3.text:Da
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:14861.0
+passage.questions.8.answers.2.text:Ne
+passage.questions.8.answers.2.label:0,0
+passage.questions.8.answers.2.idx:14860.0
+passage.questions.8.answers.1.text:Veter
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:14859.0
+passage.questions.8.answers.0.text:Premog
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:14858.0
+passage.questions.7.question:Kako kozarec vaše najljubše pijače nikoli ne bi postal prazen?
+passage.questions.7.idx:2814.0
+passage.questions.7.answers.4.text:Tako, da si ga predstavljate
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:14857.0
+passage.questions.7.answers.3.text:Če bi ga bilo mogoče obnoviti
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:14856.0
+passage.questions.7.answers.2.text:Če bi bil neobnovljiv
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:14855.0
+passage.questions.7.answers.1.text:Kar naprej ga polnite
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14854.0
+passage.questions.7.answers.0.text:Vzamete pijačo in v kozarcu je manj in pijete kar naprej in kmalu vsega ni več, a kozarec morate napolniti več
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:14853.0
+passage.questions.6.question:Ali je nafta obnovljiv ali neobnovljiv vir in kdaj naj bi ga porabili?
+passage.questions.6.idx:2813.0
+passage.questions.6.answers.6.text:Obnovljivi
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:14852.0
+passage.questions.6.answers.5.text:Nekaj desetletij
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:14851.0
+passage.questions.6.answers.4.text:Nafta je neobnovljiv vir. Porabljen bo čez nekaj desetletij
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:14850.0
+passage.questions.6.answers.3.text:Neobnovljivo
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:14849.0
+passage.questions.6.answers.2.text:Nekaj let
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:14848.0
+passage.questions.6.answers.1.text:Porabljeno v 30 letih
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:14847.0
+passage.questions.6.answers.0.text:Nafta je neobnovljiv vir in bo porabljena v nekaj desetletjih
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:14846.0
+passage.questions.5.question:Kateri scenarij avtor uporablja za ponazoritev razlike med obnovljivimi in neobnovljivimi viri?
+passage.questions.5.idx:2812.0
+passage.questions.5.answers.4.text:Gradnja peščenega gradu
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:14845.0
+passage.questions.5.answers.3.text:Spijte kozarec svoje najljubše pijače
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:14844.0
+passage.questions.5.answers.2.text:Vaša najljubša pijača
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:14843.0
+passage.questions.5.answers.1.text:Njegova najljubša pijača
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:14842.0
+passage.questions.5.answers.0.text:On / ona uporabi kozarec in eno najljubšo pijačo, en primer je, da ste vedno pili to pijačo, da napolnite kozarec,
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14841.0
+passage.questions.4.question:Kaj se bo zgodilo z nafto in zakaj?
+passage.questions.4.idx:2811.0
+passage.questions.4.answers.4.text:Trajalo bo večno
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:14840.0
+passage.questions.4.answers.3.text:Nafta ne bo trajala večno, saj je zaloga omejena
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:14839.0
+passage.questions.4.answers.2.text:Izteklo ga bo, ker ga je mogoče obnoviti
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:14838.0
+passage.questions.4.answers.1.text:Končalo se bo, ker je neobnovljiva
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:14837.0
+passage.questions.4.answers.0.text:Končalo se bo, ker je omejena količina
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14836.0
+passage.questions.3.question:Kateri so nekateri neobnovljivi viri, ki jih bo sčasoma zmanjkalo?
+passage.questions.3.idx:2810.0
+passage.questions.3.answers.4.text:Olje
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:14835.0
+passage.questions.3.answers.3.text:Premog, nafta in nafta
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:14834.0
+passage.questions.3.answers.2.text:Voda
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:14833.0
+passage.questions.3.answers.1.text:Veter
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:14832.0
+passage.questions.3.answers.0.text:Premog
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:14831.0
+passage.questions.2.question:Koliko časa preden zmanjka nekaterih ključnih naravnih virov?
+passage.questions.2.idx:2809.0
+passage.questions.2.answers.4.text:Premog - 300 let in nafta - bo porabljen v samo nekaj desetletjih
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:14830.0
+passage.questions.2.answers.3.text:Desetletja
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:14829.0
+passage.questions.2.answers.2.text:Sto let
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:14828.0
+passage.questions.2.answers.1.text:50 let
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:14827.0
+passage.questions.2.answers.0.text:300 let
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:14826.0
+passage.questions.10.question:Katerih nekaj primerov virov bo zmanjkalo?
+passage.questions.10.idx:2817.0
+passage.questions.10.answers.6.text:Zemeljski plin
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:14877.0
+passage.questions.10.answers.5.text:Nafta
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:14876.0
+passage.questions.10.answers.4.text:Nafta, premog in nafta
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:14875.0
+passage.questions.10.answers.3.text:Sončna
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:14874.0
+passage.questions.10.answers.2.text:Voda
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:14873.0
+passage.questions.10.answers.1.text:Premog
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:14872.0
+passage.questions.10.answers.0.text:Elektrika
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:14871.0
+passage.questions.1.question:Kakšna je razlika med obnovljivimi in neobnovljivimi?
+passage.questions.1.idx:2808.0
+passage.questions.1.answers.4.text:Obnovljivi pomeni, da se lahko obnavljate, neobnovljivi pa ne
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:14825.0
+passage.questions.1.answers.3.text:Obnovljive vire lahko &quot;napolnimo&quot;. Ko zmanjka neobnovljivega vira, ga ni več
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:14824.0
+passage.questions.1.answers.2.text:Eden povzroča onesnaženje zraka, drugi pa ne
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:14823.0
+passage.questions.1.answers.1.text:Enega lahko naredimo več, drugega pa ne
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:14822.0
+passage.questions.1.answers.0.text:Obnovljivi pomeni končno, neobnovljivo traja večno
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:14821.0
+passage.questions.0.question:Kateri so drugi viri, ki jih ne bo več?
+passage.questions.0.idx:2807
+passage.questions.0.answers.6.text:Nafta
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:14820.0
+passage.questions.0.answers.5.text:Sončna
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:14819.0
+passage.questions.0.answers.4.text:Premog in zemeljsko olje
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:14818.0
+passage.questions.0.answers.3.text:Voda
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:14817.0
+passage.questions.0.answers.2.text:Veter
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:14816.0
+passage.questions.0.answers.1.text:Premog
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:14815
+passage.questions.0.answers.0.text:Zrak
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:14814
+idx:253

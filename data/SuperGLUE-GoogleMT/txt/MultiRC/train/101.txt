@@ -1,0 +1,320 @@
+version:1.1
+passage.text:&quot;Kar gre gor, mora priti dol.&quot; Verjetno ste že slišali to izjavo. Včasih je bila ta trditev resnična, vendar ne več. Od šestdesetih let smo v vesolje poslali veliko vesoljskih plovil. Nekateri še vedno potujejo stran od Zemlje. Torej je mogoče premagati gravitacijo. Ali potrebujete orjaško raketo za premagovanje gravitacije? Ne, gravitacijo dejansko premagate vsak dan. Pomislite, kdaj se povzpnete po stopnicah. Ko to storite, premagate gravitacijo. Kaj če skočite na trampolin? Za nekaj sekund premagate gravitacijo. Vsak lahko premaga gravitacijo. Samo uporabiti morate silo, večjo od gravitacije. Pomislite na to, ko boste naslednjič skočili v zrak. Za kratek trenutek premagate gravitacijo. Uživajte, dokler traja. Sčasoma bo gravitacija zmagala v bitki.
+passage.questions.9.question:Ali nekaj vesoljskih plovil še vedno plava v vesolju nad zemljo?
+passage.questions.9.idx:1193.0
+passage.questions.9.answers.2.text:Da, vesoljska plovila še vedno plujejo nad zemljo
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:6058.0
+passage.questions.9.answers.1.text:Seveda
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:6057.0
+passage.questions.9.answers.0.text:Mogoče
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:6056.0
+passage.questions.8.question:Ali lahko človek premaga gravitacijo?
+passage.questions.8.idx:1192.0
+passage.questions.8.answers.2.text:Da, s skokom v zrak ali s plezanjem po stopnicah
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:6055.0
+passage.questions.8.answers.1.text:Je mogoče
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:6054.0
+passage.questions.8.answers.0.text:Nikoli
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:6053.0
+passage.questions.7.question:Kateri primeri za premagovanje gravitacije?
+passage.questions.7.idx:1191.0
+passage.questions.7.answers.9.text:Letenje v vesolje
+passage.questions.7.answers.9.label:1.0
+passage.questions.7.answers.9.idx:6050.0
+passage.questions.7.answers.8.text:Kolebnica
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:6049.0
+passage.questions.7.answers.7.text:Gradnja vesoljskega plovila
+passage.questions.7.answers.7.label:0,0
+passage.questions.7.answers.7.idx:6048.0
+passage.questions.7.answers.6.text:Hoditi
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:6047.0
+passage.questions.7.answers.5.text:Skakanje na trampolinu
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:6046.0
+passage.questions.7.answers.4.text:Bungee skoki
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:6045.0
+passage.questions.7.answers.3.text:Skakanje z mostu
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:6044.0
+passage.questions.7.answers.2.text:Plezanje po stopnicah
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:6043.0
+passage.questions.7.answers.11.text:Plavanje
+passage.questions.7.answers.11.label:0,0
+passage.questions.7.answers.11.idx:6052.0
+passage.questions.7.answers.10.text:Tek
+passage.questions.7.answers.10.label:0,0
+passage.questions.7.answers.10.idx:6051.0
+passage.questions.7.answers.1.text:Plezanje po stopnicah, skakanje na trampolinu, skakanje v zrak
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:6042.0
+passage.questions.7.answers.0.text:Leteča letala
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:6041.0
+passage.questions.6.question:Ali lahko vsak premaga gravitacijo z uporabo večje sile kot gravitacija?
+passage.questions.6.idx:1190.0
+passage.questions.6.answers.3.text:Lažno
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:6040.0
+passage.questions.6.answers.2.text:Da
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:6039.0
+passage.questions.6.answers.1.text:Ne
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:6038.0
+passage.questions.6.answers.0.text:Prav
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:6037.0
+passage.questions.5.question:Kakšen je primer, ki ovrže &quot;Kaj gre gor, mora dol&quot;?
+passage.questions.5.idx:1189.0
+passage.questions.5.answers.8.text:Igranje zunaj
+passage.questions.5.answers.8.label:0,0
+passage.questions.5.answers.8.idx:6036.0
+passage.questions.5.answers.7.text:Pogled navzdol z visokega mesta
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:6035.0
+passage.questions.5.answers.6.text:Skakanje na trampolinu
+passage.questions.5.answers.6.label:1.0
+passage.questions.5.answers.6.idx:6034.0
+passage.questions.5.answers.5.text:Sprehod po vesolju
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:6033.0
+passage.questions.5.answers.4.text:Od šestdesetih let smo v vesolje poslali veliko vesoljskih plovil
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:6032.0
+passage.questions.5.answers.3.text:Metanje žoge v zrak
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:6031.0
+passage.questions.5.answers.2.text:Pogled od tal
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:6030.0
+passage.questions.5.answers.1.text:Sprehod po stopnicah
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:6029.0
+passage.questions.5.answers.0.text:Stoji na tleh
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:6028.0
+passage.questions.4.question:Kako lahko ljudje premagamo gravitacijo?
+passage.questions.4.idx:1188.0
+passage.questions.4.answers.8.text:Privoščite si ogromno raketo
+passage.questions.4.answers.8.label:0,0
+passage.questions.4.answers.8.idx:6027.0
+passage.questions.4.answers.7.text:Potovanje na Zemljo
+passage.questions.4.answers.7.label:0,0
+passage.questions.4.answers.7.idx:6026.0
+passage.questions.4.answers.6.text:Ne moreš
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:6025.0
+passage.questions.4.answers.5.text:Skakanje
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:6024.0
+passage.questions.4.answers.4.text:Uporabite silo, večjo od gravitacije
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:6023.0
+passage.questions.4.answers.3.text:Magija
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:6022.0
+passage.questions.4.answers.2.text:Plezanje po stopnicah
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:6021.0
+passage.questions.4.answers.1.text:To je nemogoče
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:6020.0
+passage.questions.4.answers.0.text:Ljudje se lahko povzpnemo po stopnicah ali skočimo na trampolin
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:6019.0
+passage.questions.3.question:Kaj se zgodi, ko se povzpnete po stopnicah?
+passage.questions.3.idx:1187.0
+passage.questions.3.answers.5.text:Pojdi gor
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:6018.0
+passage.questions.3.answers.4.text:Kljubujete gravitaciji
+passage.questions.3.answers.4.label:1.0
+passage.questions.3.answers.4.idx:6017.0
+passage.questions.3.answers.3.text:Skačete na trampolinu
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:6016.0
+passage.questions.3.answers.2.text:Premagaš gravitacijo
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:6015.0
+passage.questions.3.answers.1.text:Utrudiš se
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:6014.0
+passage.questions.3.answers.0.text:Greš od spodaj, navzgor
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:6013.0
+passage.questions.2.question:Kateri predmeti še vedno potujejo stran od Zemlje?
+passage.questions.2.idx:1186.0
+passage.questions.2.answers.8.text:Trampolini
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:6012.0
+passage.questions.2.answers.7.text:Asteroidi
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:6011.0
+passage.questions.2.answers.6.text:Svetloba
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:6010.0
+passage.questions.2.answers.5.text:Kometi
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:6009.0
+passage.questions.2.answers.4.text:Vesoljska plovila
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:6008.0
+passage.questions.2.answers.3.text:Planeti
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:6007.0
+passage.questions.2.answers.2.text:Vesoljske ladje
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:6006.0
+passage.questions.2.answers.1.text:Vesoljski čolni
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:6005.0
+passage.questions.2.answers.0.text:Stopnice
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:6004.0
+passage.questions.15.question:Ali izjava &quot;Kar pride gor, mora iti dol&quot; ni več resnična?
+passage.questions.15.idx:1199.0
+passage.questions.15.answers.2.text:Še vedno je res
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:6091.0
+passage.questions.15.answers.1.text:je
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:6090.0
+passage.questions.15.answers.0.text:Ne
+passage.questions.15.answers.0.label:0,0
+passage.questions.15.answers.0.idx:6089.0
+passage.questions.14.question:Katera trditev ni več resnična?
+passage.questions.14.idx:1198.0
+passage.questions.14.answers.5.text:Kar gre gor, mora dol
+passage.questions.14.answers.5.label:1.0
+passage.questions.14.answers.5.idx:6088.0
+passage.questions.14.answers.4.text:Edino, ko beseda „nepravilno“ ni napisana napačno, je, če je napisana napačno
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:6087.0
+passage.questions.14.answers.3.text:Jabolko ne pade daleč od drevesa
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:6086.0
+passage.questions.14.answers.2.text:Kar gre navzdol, mora iti navzgor
+passage.questions.14.answers.2.label:0,0
+passage.questions.14.answers.2.idx:6085.0
+passage.questions.14.answers.1.text:Vse je ali ni sladoled
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:6084.0
+passage.questions.14.answers.0.text:&quot;Kar gre gor, mora priti dol.&quot;
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:6083.0
+passage.questions.13.question:Kako se premaguje gravitacija?
+passage.questions.13.idx:1197.0
+passage.questions.13.answers.6.text:Uporabiti morate silo, večjo od gravitacije
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:6082.0
+passage.questions.13.answers.5.text:Ne moreš
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:6081.0
+passage.questions.13.answers.4.text:Uporabiti morate logiko
+passage.questions.13.answers.4.label:0,0
+passage.questions.13.answers.4.idx:6080.0
+passage.questions.13.answers.3.text:Vesoljske ladje
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:6079.0
+passage.questions.13.answers.2.text:Premagamo ga z uporabo sile, večje od gravitacije, in za kratko sekundo premagamo gravitacijo
+passage.questions.13.answers.2.label:1.0
+passage.questions.13.answers.2.idx:6078.0
+passage.questions.13.answers.1.text:Magija
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:6077.0
+passage.questions.13.answers.0.text:To je nemogoče
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:6076.0
+passage.questions.12.question:Kaj nam omogoča premagovanje gravitacije?
+passage.questions.12.idx:1196.0
+passage.questions.12.answers.8.text:Gradnja vesoljske ladje
+passage.questions.12.answers.8.label:0,0
+passage.questions.12.answers.8.idx:6075.0
+passage.questions.12.answers.7.text:Vesoljsko plovilo
+passage.questions.12.answers.7.label:1.0
+passage.questions.12.answers.7.idx:6074.0
+passage.questions.12.answers.6.text:Letala
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:6073.0
+passage.questions.12.answers.5.text:Avtomobili
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:6072.0
+passage.questions.12.answers.4.text:Podmornice
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:6071.0
+passage.questions.12.answers.3.text:Vesoljske ladje
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:6070.0
+passage.questions.12.answers.2.text:Da bi jo premagali, moramo uporabiti silo, večjo od sile gravitacije
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:6069.0
+passage.questions.12.answers.1.text:Čolni
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:6068.0
+passage.questions.12.answers.0.text:Uporaba sile, večje od gravitacije
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:6067.0
+passage.questions.11.question:Ali vesoljska plovila, ki smo jih poslali v vesolje, še vedno potujejo stran od zemlje?
+passage.questions.11.idx:1195.0
+passage.questions.11.answers.2.text:Vsi so padli nazaj na Zemljo
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:6066.0
+passage.questions.11.answers.1.text:Nekateri so
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:6065.0
+passage.questions.11.answers.0.text:Ne
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:6064.0
+passage.questions.10.question:Ali eno uro premagate gravitacijo, ko skočite na trampolin?
+passage.questions.10.idx:1194.0
+passage.questions.10.answers.4.text:Če dosežete vesolje, ja
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:6063.0
+passage.questions.10.answers.3.text:Če skočiš res visoko
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:6062.0
+passage.questions.10.answers.2.text:Da
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:6061.0
+passage.questions.10.answers.1.text:Ne
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:6060.0
+passage.questions.10.answers.0.text:Samo začasno premagujete gravitacijo
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:6059.0
+passage.questions.1.question:Ali premagujete gravitacijo, ko se povzpnete po stopnicah?
+passage.questions.1.idx:1185.0
+passage.questions.1.answers.3.text:Lažno
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:6003.0
+passage.questions.1.answers.2.text:Da
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:6002.0
+passage.questions.1.answers.1.text:Ne
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:6001.0
+passage.questions.1.answers.0.text:Prav
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:6000.0
+passage.questions.0.question:Ali gravitacija sčasoma zmaga v bitki med človekom in gravitacijo?
+passage.questions.0.idx:1184
+passage.questions.0.answers.2.text:Včasih
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:5999.0
+passage.questions.0.answers.1.text:Nenehno
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:5998
+passage.questions.0.answers.0.text:Da, gravitacija bo sčasoma prevzela človeka na zemlji
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:5997
+idx:101

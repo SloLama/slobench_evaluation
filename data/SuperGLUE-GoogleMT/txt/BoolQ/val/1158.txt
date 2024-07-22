@@ -1,0 +1,4 @@
+idx:1158
+label:True
+passage:Sestavljanje na visoki ravni - zbiralnik HLA v2.x podpira enaka nizkonivojska strojna navodila kot običajni sestavljalec na nizki ravni. Razlika je v tem, da visokokakovostni sestavljavci, kot so HLA, Microsoft Macro Assembler (MASM) ali Turbo Assembler (TASM), iz družine procesorjev Intel x86, podpirajo tudi jezikovno podobne izjave na visoki ravni, kot so IF, WHILE , in tako naprej, in ljubše direktive o izjavah o podatkih, kot so strukture-zapisi, sindikati in celo razredi.
+question:zna jezik visoke ravni uporabljati sestavljalnik

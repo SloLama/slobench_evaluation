@@ -1,0 +1,270 @@
+version:1.1
+passage.text:Mary, škotska kraljica: Dojenček je bila Mary Stuart, ki je bila pri devetih mesecih okronana za škotsko kraljico v Chapel Royal, Stirling. Ko je novica prispela v London, je Henry VIII videl svojo priložnost, da si spet podredi Škotsko in se pogajal za poroko med dojenčkom Mary in njegovim sinom Edwardom. Škoti so to zavrnili in Henry je poslal vojsko, ki je divjala po Škotski v kampanji, imenovani &quot;grobo zatiranje&quot;. Angleški kralj je ukazal svojemu generalu, naj &quot;zažge mesto Edinburg, tako da bo za vedno ostal večni spomin na maščevanje Boga, Škoti. &quot;Toda na kocki je bilo več kot zgolj neodvisnost Škotske: znotraj Britanije je zdaj obstajal verski razkol. Da bi se ločil od Katarine Aragonske in se poročil z Anne Boleyn, je Henry VIII prekinil z Rimom in angleško cerkev spravil pod svoj nadzor. Anglija je bila tako zdaj protestantska država, ujeta med katoliško Francijo in Škoti s svojo novo katoliško kraljico. Škoti so bili razdeljeni, mnogi so sprejeli protestantizem v duhu reformacije, drugi pa so ostali trdno katoliški. Vendar je Škot zaradi strahu pred divjo angleško vojsko spet poiskal pomoč pri svojih starih Ailijih v Franciji, mlada kraljica pa se je poročila z Dauphinom Françoisom, sinom francoskega kralja. François II je leta 1559 postal francoski kralj, a kmalu zatem umrl. Leta 1561 se je 18-letna Marija v primežu reformacije vrnila na Škotsko, saj so protestantski voditelji prevzeli nadzor nad škotskim parlamentom in ukinili papeževo oblast. Njena protestantska sestrična Elizabeth Tudor je bila na angleškem prestolu, vendar Elizabeth - &quot;deviška kraljica&quot; - ni imela dediča. Mary je bila naslednja na vrsti za angleško krono, Elizabeth pa je bila sumljiva do svojih namenov. Šest let Marijine vladavine je bilo burnih. Že zgodaj se je spopadla s slavnim protestantskim reformatorjem v Edinburghu Johnom Knoxom, ki je zavladal v St. Gilesu, a pozneje sprejel nelagodno politiko verske strpnosti. Leta 1565 se je poročila s svojim mladim bratrancem Henryjem, Lordom Darnleyjem, na veliko žalost Elizabete (Darnley je bil vnuk Margaret Tudor in je tako tudi zahteval angleški prestol). 19. junija 1566 je Mary v kraljevskih stanovanjih na gradu Edinburgh rodila sina princa Jamesa. V enem letu pa je bil Darnley umorjen, Mary pa se je takoj vživela v polemiko, tako da se je poročila z grofom Bothwellom, glavnim osumljencem.
+passage.questions.9.question:Kdo se je spopadel s slavnim protestantskim reformatorjem v Edinburghu Johnom Knoxom?
+passage.questions.9.idx:862.0
+passage.questions.9.answers.4.text:Mary
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:4330.0
+passage.questions.9.answers.3.text:Marija, škotska kraljica
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:4329.0
+passage.questions.9.answers.2.text:Elizabeth Tudor
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:4328.0
+passage.questions.9.answers.1.text:Še kaj
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:4327.0
+passage.questions.9.answers.0.text:Ann boleyn
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:4326.0
+passage.questions.8.question:Iz katerega razloga je kralj Henrik VIII začel &quot;grobo zatiranje&quot;?
+passage.questions.8.idx:861.0
+passage.questions.8.answers.5.text:Dogovoril se je za poroko med dojenčkom Mary in njegovim sinom Edwardom
+passage.questions.8.answers.5.label:1.0
+passage.questions.8.answers.5.idx:4325.0
+passage.questions.8.answers.4.text:Prisiliti Škote, da dovolijo zaroko Mary Stuart s sinom Edwardom, da bi Škotsko obdržali pod svojim nadzorom
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:4324.0
+passage.questions.8.answers.3.text:Še kaj
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:4323.0
+passage.questions.8.answers.2.text:Želel je, da se njegov sin poroči z Marijo
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:4322.0
+passage.questions.8.answers.1.text:Verski razkol
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:4321.0
+passage.questions.8.answers.0.text:Hotel se je poročiti z njo
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:4320.0
+passage.questions.7.question:Kaj je Henry VIII slišal, zaradi česar je mislil, da ima priložnost podrediti si Škotsko?
+passage.questions.7.idx:860.0
+passage.questions.7.answers.4.text:Škotska kraljica Marija je bila okronana
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:4319.0
+passage.questions.7.answers.3.text:Dojenček je bila Mary Stuart, ki je bila pri devetih mesecih okronjena za škotsko kraljico v Chapel Royal, Stirling. Ko je novica prispela v London, je Henry VIII videl svojo priložnost, da si ponovno podredi Škotsko
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:4318.0
+passage.questions.7.answers.2.text:Njegova sestrična Elizabeth Tudor je bila na angleškem prestolu
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:4317.0
+passage.questions.7.answers.1.text:Slišal je, da je bila devetmesečna dojenčka Mary Stuart okronana za škotsko kraljico
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:4316.0
+passage.questions.7.answers.0.text:Deviška kraljica ni našla snubca
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:4315.0
+passage.questions.6.question:Kdo je bil bratranec Elizabeth Tudor?
+passage.questions.6.idx:859.0
+passage.questions.6.answers.4.text:Mary Stuart
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:4314.0
+passage.questions.6.answers.3.text:Marija, škotska kraljica
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:4313.0
+passage.questions.6.answers.2.text:Še kaj
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:4312.0
+passage.questions.6.answers.1.text:Ann boleyn
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:4311.0
+passage.questions.6.answers.0.text:Lord Darnley
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:4310.0
+passage.questions.5.question:Kakšen razlog je imela deviška kraljica, da je sumila Marijo, škotsko kraljico?
+passage.questions.5.idx:858.0
+passage.questions.5.answers.5.text:Pravkar se je vrnila na Škotsko
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:4309.0
+passage.questions.5.answers.4.text:Mary je bila naslednja na vrsti za angleški prestol
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:4308.0
+passage.questions.5.answers.3.text:Še kaj
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:4307.0
+passage.questions.5.answers.2.text:Imela je preveč moči
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:4306.0
+passage.questions.5.answers.1.text:Marija je bila naslednja na vrsti za prestol
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:4305.0
+passage.questions.5.answers.0.text:Bila je naslednja na vrsti za nasledstvo
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:4304.0
+passage.questions.4.question:Kako je prvo ime človeka, ki je leta 1559 postal francoski kralj, a kmalu zatem umrl?
+passage.questions.4.idx:857.0
+passage.questions.4.answers.4.text:Antythng drugače
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:4303.0
+passage.questions.4.answers.3.text:Henry v
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:4302.0
+passage.questions.4.answers.2.text:Henrik VIII
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:4301.0
+passage.questions.4.answers.1.text:Dauphin
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:4300.0
+passage.questions.4.answers.0.text:François II
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:4299.0
+passage.questions.3.question:Kateri angleški kralj je ukazal svojemu generalu, naj &quot;zažge Edinburško mesto&quot;, da bi utrdil spomin na maščevanje Boga?
+passage.questions.3.idx:856.0
+passage.questions.3.answers.3.text:Ann boleyn
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:4298.0
+passage.questions.3.answers.2.text:Antythng drugače
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:4297.0
+passage.questions.3.answers.1.text:Princ James
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:4296.0
+passage.questions.3.answers.0.text:Henrik VIII
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:4295.0
+passage.questions.2.question:Zakaj je Anglija postala protestantska država?
+passage.questions.2.idx:855
+passage.questions.2.answers.4.text:Da bi se ločil od Katarine Aragonske in se poročil z Anne Boleyn, je Henry VIII prekinil z Rimom in angleško cerkev spravil pod svoj nadzor. Poslano 7: Anglija je bila tako zdaj protestantska država, ujeta med katoliško Francijo in Škoti s svojo novo katoliško kraljico
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:4294.0
+passage.questions.2.answers.3.text:Henry VIII je prekinil z Rimom in angleško cerkev dal pod svoj nadzor
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:4293.0
+passage.questions.2.answers.2.text:Država je to raje imela
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:4292.0
+passage.questions.2.answers.1.text:Še kaj
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:4291
+passage.questions.2.answers.0.text:Mnogi so sprejeli protestantizem
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:4290
+passage.questions.14.question:Kdo je bil oče princa Jamesa?
+passage.questions.14.idx:867.0
+passage.questions.14.answers.4.text:Earl of Bothwell je bil oče princa Jamesa
+passage.questions.14.answers.4.label:0,0
+passage.questions.14.answers.4.idx:4358.0
+passage.questions.14.answers.3.text:Henrik VII
+passage.questions.14.answers.3.label:0,0
+passage.questions.14.answers.3.idx:4357.0
+passage.questions.14.answers.2.text:Henry, Lord Darnley je bil oče princa Jamesa
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:4356.0
+passage.questions.14.answers.1.text:Henry
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:4355.0
+passage.questions.14.answers.0.text:Lord Darnley
+passage.questions.14.answers.0.label:1.0
+passage.questions.14.answers.0.idx:4354.0
+passage.questions.13.question:Koliko let je minilo med tem, ko se je Mary v primežu reformacije vrnila na Škotsko in rojstvom princa Jamesa?
+passage.questions.13.idx:866.0
+passage.questions.13.answers.3.text:Antythng drugače
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:4353.0
+passage.questions.13.answers.2.text:19 let
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:4352.0
+passage.questions.13.answers.1.text:6 let
+passage.questions.13.answers.1.label:0,0
+passage.questions.13.answers.1.idx:4351.0
+passage.questions.13.answers.0.text:5.
+passage.questions.13.answers.0.label:1.0
+passage.questions.13.answers.0.idx:4350.0
+passage.questions.12.question:Iz katerega razloga se je Mary Stuart pri 18 letih vrnila na Škotsko?
+passage.questions.12.idx:865.0
+passage.questions.12.answers.6.text:Ker so protestantski voditelji prevzeli nadzor nad škotskim parlamentom in odpravili papeževo oblast
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:4349.0
+passage.questions.12.answers.5.text:Želela je domov
+passage.questions.12.answers.5.label:0,0
+passage.questions.12.answers.5.idx:4348.0
+passage.questions.12.answers.4.text:Reformacija se je dogajala
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:4347.0
+passage.questions.12.answers.3.text:Bila je naslednja na vrsti za angleški prestol
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:4346.0
+passage.questions.12.answers.2.text:Leta 1561 se je 18-letna Marija v primežu reformacije vrnila na Škotsko, saj so protestantski voditelji prevzeli nadzor nad škotskim parlamentom in ukinili papeževo oblast
+passage.questions.12.answers.2.label:1.0
+passage.questions.12.answers.2.idx:4345.0
+passage.questions.12.answers.1.text:Še kaj
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:4344.0
+passage.questions.12.answers.0.text:Bila je poročena s francoskim Dauphinom, a je kmalu zatem umrl
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:4343.0
+passage.questions.11.question:Pojasnite verski razkol v Angliji in na Škotskem.
+passage.questions.11.idx:864.0
+passage.questions.11.answers.6.text:Anglija je bila protestantska
+passage.questions.11.answers.6.label:1.0
+passage.questions.11.answers.6.idx:4342.0
+passage.questions.11.answers.5.text:Anglija je bila zdaj protestantska država, ker je Henry prekinil s katoliško cerkvijo, da bi se ločil od Katarine Aragonske, Škotska pa je imela razkol med protestantskimi in katoliškimi podložniki
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:4341.0
+passage.questions.11.answers.4.text:Boj med katolištvom in protestanti
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:4340.0
+passage.questions.11.answers.3.text:Še kaj
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:4339.0
+passage.questions.11.answers.2.text:Anglija je bila zdaj katloična država z nekaterimi še vedno protestanti
+passage.questions.11.answers.2.label:0,0
+passage.questions.11.answers.2.idx:4338.0
+passage.questions.11.answers.1.text:Razdirali so se med katolištvom in pometanjem protestantizma
+passage.questions.11.answers.1.label:1.0
+passage.questions.11.answers.1.idx:4337.0
+passage.questions.11.answers.0.text:Škotska je bila protestantska
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:4336.0
+passage.questions.10.question:Poleg Elizabeth, s kom se je še spopadla Mary Stuart?
+passage.questions.10.idx:863.0
+passage.questions.10.answers.4.text:Marija se je spopadla z protestantskim reformatorjem Johnom Knoxom
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:4335.0
+passage.questions.10.answers.3.text:Henry v
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:4334.0
+passage.questions.10.answers.2.text:Še kaj
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:4333.0
+passage.questions.10.answers.1.text:John Knox
+passage.questions.10.answers.1.label:1.0
+passage.questions.10.answers.1.idx:4332.0
+passage.questions.10.answers.0.text:Henrik VIIII
+passage.questions.10.answers.0.label:0,0
+passage.questions.10.answers.0.idx:4331.0
+passage.questions.1.question:Kolikokrat se Mary Stuart poroči v tem delu zgodbe?
+passage.questions.1.idx:854
+passage.questions.1.answers.4.text:Tri
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:4289.0
+passage.questions.1.answers.3.text:Mary Stuart se dvakrat poroči v tem delu zgodbe
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:4288.0
+passage.questions.1.answers.2.text:Mary Stuart se v tem delu zgodbe poroči 3-krat
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:4287.0
+passage.questions.1.answers.1.text:Trikrat
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:4286
+passage.questions.1.answers.0.text:Ena
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:4285
+passage.questions.0.question:Kaj so Škoti zavrnili, zaradi česar je Henry divjal po Škotski?
+passage.questions.0.idx:853
+passage.questions.0.answers.4.text:Škoti so obsodili Henryjevo ženo Anne Bolyn
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:4284.0
+passage.questions.0.answers.3.text:Škoti se niso hoteli pogajati o poroki med sinom Henryja VIII Edwardom in dojenčkom Mary Stuart
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:4283.0
+passage.questions.0.answers.2.text:Upogni koleno Henryju
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:4282.0
+passage.questions.0.answers.1.text:Strinjata se z zakonsko zvezo med Edwardom in Mary
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:4281
+passage.questions.0.answers.0.text:Škoti se niso strinjali, da bi se Henryjev sin poročil z Mary
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:4280
+idx:74

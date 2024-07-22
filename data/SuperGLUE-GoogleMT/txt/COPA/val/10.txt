@@ -1,0 +1,6 @@
+choice1:Moški je žogo za kegljanje zavil po stezi.
+choice2:Moški je žogo za kegljanje spustil na nogo.
+idx:10
+label:0
+premise:Kegljiška žoga je podrla kegljišča.
+question:cause

@@ -1,0 +1,4 @@
+idx:2300
+label:False
+passage:Časovna vrednost opcije - V financah je časovna vrednost (TV) (zunanja ali instrumentalna vrednost) opcije tista premija, ki bi jo racionalni vlagatelj plačal nad njeno trenutno izvrševalno vrednostjo (notranja vrednost), glede na verjetnost, da se bo vrednost povečala pred iztekom roka uporabnosti. Za ameriško opcijo je ta vrednost na poštenem trgu vedno večja od nič, zato je opcija vedno vredna več kot trenutna izvrševalna vrednost. Kot možnost lahko razmišljamo kot o „cenovnem zavarovanju“ (npr. Letalski prevoznik, ki zavaruje pred nepričakovanimi naraščajoči stroški goriva, ki jih povzroča orkan), lahko na TV gledamo kot na premijo za tveganje, ki jo prodajalec obračuna kupcu - večja kot je pričakovano tveganje (volatilnost ⋅ (\ displaystyle \ cdot) čas), višja je premija. Nasprotno pa lahko na TV gledamo kot na ceno, ki jo je vlagatelj pripravljen plačati za potencial navzgor.
+question:ali je lahko časovna vrednost opcije negativna

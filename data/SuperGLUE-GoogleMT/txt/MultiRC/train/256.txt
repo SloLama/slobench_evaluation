@@ -1,0 +1,372 @@
+version:1.1
+passage.text:Brez kože ne bi mogli preživeti. Ima veliko pomembnih funkcij. Glavna naloga kože je nadzor nad vstopom in izstopom iz telesa. Preprečuje izgubo preveč vode iz telesa. Prav tako preprečuje vstop bakterij in drugih mikroorganizmov v telo. Koža pomaga vzdrževati konstantno telesno temperaturo. Telo ohlaja na dva načina. Znoj iz znojnic v koži izhlapi, da ohladi telo. Krvne žile v koži se širijo ali širijo. Ta učinek poveča pretok krvi na telesno površino. To omogoča več toplote, da doseže površino. Takrat lahko toplota oddaja telo. Zadeva je ravno zadrževanje telesne toplote. Krvne žile v koži se zožijo ali zožijo. To zmanjša pretok krvi na telesno površino. To zmanjša količino toplote, ki doseže površino. Ko se to zgodi, lahko zrak izgubi manj toplote.
+passage.questions.9.question:Ali lahko koža prepreči vstop bakterij v telo?
+passage.questions.9.idx:2862.0
+passage.questions.9.answers.3.text:Preprečuje vdor bakterij in drugih mikroorganizmov v telo
+passage.questions.9.answers.3.label:1.0
+passage.questions.9.answers.3.idx:15188.0
+passage.questions.9.answers.2.text:Da
+passage.questions.9.answers.2.label:1.0
+passage.questions.9.answers.2.idx:15187.0
+passage.questions.9.answers.1.text:Bakterije sodelujejo znotraj
+passage.questions.9.answers.1.label:0,0
+passage.questions.9.answers.1.idx:15186.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:0,0
+passage.questions.9.answers.0.idx:15185.0
+passage.questions.8.question:Je koža pomembna in katere so glavne funkcije kože na vašem telesu?
+passage.questions.8.idx:2861.0
+passage.questions.8.answers.8.text:Da, zoži, razširi, ogrej
+passage.questions.8.answers.8.label:0,0
+passage.questions.8.answers.8.idx:15184.0
+passage.questions.8.answers.7.text:Preprečuje vdor bakterij in drugih mikroorganizmov v telo
+passage.questions.8.answers.7.label:1.0
+passage.questions.8.answers.7.idx:15183.0
+passage.questions.8.answers.6.text:Samo obleka
+passage.questions.8.answers.6.label:0,0
+passage.questions.8.answers.6.idx:15182.0
+passage.questions.8.answers.5.text:Ne, koža ni pomembna, njene glavne naloge so vizualno privlačne in absorbirajoče bakterije
+passage.questions.8.answers.5.label:0,0
+passage.questions.8.answers.5.idx:15181.0
+passage.questions.8.answers.4.text:Neprebojni
+passage.questions.8.answers.4.label:0,0
+passage.questions.8.answers.4.idx:15180.0
+passage.questions.8.answers.3.text:Ne
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:15179.0
+passage.questions.8.answers.2.text:Da, koža je pomembna, njena glavna naloga je nadzor nad vstopom in izstopom iz telesa, vzdrževanje telesne temperature, preprečevanje izgube telesa preveč vode in preprečevanje vstopa bakterij in drugih mikroorganizmov v telo
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:15178.0
+passage.questions.8.answers.1.text:Koža je zelo pomembna. Brez njega ne bi mogli preživeti, njegova glavna naloga pa je nadzor nad tem, kaj vstopi v telo in ga zapusti
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:15177.0
+passage.questions.8.answers.0.text:Da, zaščitite telo, preprečite izgubo vode, vzdržujte temperaturo
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:15176.0
+passage.questions.7.question:Kaj je drugače, ko se nekaj zoži v primerjavi s tem, ko se razširi?
+passage.questions.7.idx:2860.0
+passage.questions.7.answers.9.text:Ko se nekaj zoži, postane ožje. Ko se razširi, se razširi
+passage.questions.7.answers.9.label:1.0
+passage.questions.7.answers.9.idx:15174.0
+passage.questions.7.answers.8.text:Razširjene krvne žile telo segrejejo, zožene krvne žile pa telo ohladijo
+passage.questions.7.answers.8.label:0,0
+passage.questions.7.answers.8.idx:15173.0
+passage.questions.7.answers.7.text:Ko se krvne žile razširijo, omogočajo telesu, da se ohladi, tako da več toplote doseže površino. Ko se krvne žile zožijo, telo segrejejo z zadrževanjem telesne toplote
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:15172.0
+passage.questions.7.answers.6.text:Velikost
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:15171.0
+passage.questions.7.answers.5.text:Premer
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:15170.0
+passage.questions.7.answers.4.text:Vročina
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:15169.0
+passage.questions.7.answers.3.text:Ko se nekaj razširi, postane ožje. Ko se razširi, se stisne
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:15168.0
+passage.questions.7.answers.2.text:Smrt
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:15167.0
+passage.questions.7.answers.10.text:Barva
+passage.questions.7.answers.10.label:0,0
+passage.questions.7.answers.10.idx:15175.0
+passage.questions.7.answers.1.text:Sposobnost
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:15166.0
+passage.questions.7.answers.0.text:Premer
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:15165.0
+passage.questions.6.question:Kaj zmanjša pretok krvi na telesno površino?
+passage.questions.6.idx:2859.0
+passage.questions.6.answers.8.text:Omejene krvne žile
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:15164.0
+passage.questions.6.answers.7.text:Krvne žile se širijo
+passage.questions.6.answers.7.label:0,0
+passage.questions.6.answers.7.idx:15163.0
+passage.questions.6.answers.6.text:Avtomobili
+passage.questions.6.answers.6.label:0,0
+passage.questions.6.answers.6.idx:15162.0
+passage.questions.6.answers.5.text:Krvne žile se zožijo
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:15161.0
+passage.questions.6.answers.4.text:Razširjene krvne žile
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:15160.0
+passage.questions.6.answers.3.text:Krvne žile se zožijo
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:15159.0
+passage.questions.6.answers.2.text:Ko se krvne žile zožijo ali postanejo ozke
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:15158.0
+passage.questions.6.answers.1.text:Krvne žile
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:15157.0
+passage.questions.6.answers.0.text:Krvne žile se širijo
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:15156.0
+passage.questions.5.question:Kaj se zgodi, ko toplota doseže površino kože?
+passage.questions.5.idx:2858.0
+passage.questions.5.answers.7.text:Toplota lahko oddaja vaše telo
+passage.questions.5.answers.7.label:1.0
+passage.questions.5.answers.7.idx:15155.0
+passage.questions.5.answers.6.text:Zažgan živ
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:15154.0
+passage.questions.5.answers.5.text:Sevajte s telesa
+passage.questions.5.answers.5.label:1.0
+passage.questions.5.answers.5.idx:15153.0
+passage.questions.5.answers.4.text:Ohlaja telo
+passage.questions.5.answers.4.label:1.0
+passage.questions.5.answers.4.idx:15152.0
+passage.questions.5.answers.3.text:Poveča temperaturo
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:15151.0
+passage.questions.5.answers.2.text:Zadržuje toploto
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:15150.0
+passage.questions.5.answers.1.text:Sprosti se iz telesa
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:15149.0
+passage.questions.5.answers.0.text:V telesu ga ujamejo znojne žleze
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:15148.0
+passage.questions.4.question:Kaj krvne žile naredijo, da zadržijo telesno toploto?
+passage.questions.4.idx:2857.0
+passage.questions.4.answers.6.text:Široko
+passage.questions.4.answers.6.label:0,0
+passage.questions.4.answers.6.idx:15147.0
+passage.questions.4.answers.5.text:Ozko
+passage.questions.4.answers.5.label:1.0
+passage.questions.4.answers.5.idx:15146.0
+passage.questions.4.answers.4.text:Razširite
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:15145.0
+passage.questions.4.answers.3.text:Tajska masaža
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:15144.0
+passage.questions.4.answers.2.text:Stisni
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:15143.0
+passage.questions.4.answers.1.text:Pogodba
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:15142.0
+passage.questions.4.answers.0.text:Oljna masaža
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:15141.0
+passage.questions.3.question:Kakšne žile v koži se razširijo, da pomagajo ohladiti telo?
+passage.questions.3.idx:2856.0
+passage.questions.3.answers.6.text:Kri
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:15140.0
+passage.questions.3.answers.5.text:Koža
+passage.questions.3.answers.5.label:0,0
+passage.questions.3.answers.5.idx:15139.0
+passage.questions.3.answers.4.text:Kovinske posode
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:15138.0
+passage.questions.3.answers.3.text:Krvne žile
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:15137.0
+passage.questions.3.answers.2.text:Vročina
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:15136.0
+passage.questions.3.answers.1.text:Plastične posode
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:15135.0
+passage.questions.3.answers.0.text:Toplotne posode
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:15134.0
+passage.questions.2.question:Kako krvne žile ukrepajo za povečanje pretoka krvi?
+passage.questions.2.idx:2855.0
+passage.questions.2.answers.8.text:Koža se razširi ali razširi
+passage.questions.2.answers.8.label:1.0
+passage.questions.2.answers.8.idx:15133.0
+passage.questions.2.answers.7.text:Pogodbeno
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:15132.0
+passage.questions.2.answers.6.text:Široko
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:15131.0
+passage.questions.2.answers.5.text:Ozko
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:15130.0
+passage.questions.2.answers.4.text:Razširite
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:15129.0
+passage.questions.2.answers.3.text:Stisni
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:15128.0
+passage.questions.2.answers.2.text:Razširitev
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:15127.0
+passage.questions.2.answers.1.text:Barikade
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:15126.0
+passage.questions.2.answers.0.text:&quot;Razširite&quot; ali &quot;Razširite&quot;
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:15125.0
+passage.questions.14.question:Kaj poveča pretok krvi na telesno površino?
+passage.questions.14.idx:2867.0
+passage.questions.14.answers.8.text:Krvne žile se širijo
+passage.questions.14.answers.8.label:1.0
+passage.questions.14.answers.8.idx:15224.0
+passage.questions.14.answers.7.text:Krvne žile se zožijo
+passage.questions.14.answers.7.label:0,0
+passage.questions.14.answers.7.idx:15223.0
+passage.questions.14.answers.6.text:Razširjene krvne žile
+passage.questions.14.answers.6.label:1.0
+passage.questions.14.answers.6.idx:15222.0
+passage.questions.14.answers.5.text:Krvne žile se zožijo
+passage.questions.14.answers.5.label:0,0
+passage.questions.14.answers.5.idx:15221.0
+passage.questions.14.answers.4.text:Krvne žile
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:15220.0
+passage.questions.14.answers.3.text:Krvne žile se širijo
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:15219.0
+passage.questions.14.answers.2.text:Ko se krvne žile razširijo ali razširijo
+passage.questions.14.answers.2.label:1.0
+passage.questions.14.answers.2.idx:15218.0
+passage.questions.14.answers.1.text:Generatorji
+passage.questions.14.answers.1.label:0,0
+passage.questions.14.answers.1.idx:15217.0
+passage.questions.14.answers.0.text:Žleze znojnice
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:15216.0
+passage.questions.13.question:Na koliko načinov koža pomaga vzdrževati telesno temperaturo?
+passage.questions.13.idx:2866.0
+passage.questions.13.answers.5.text:Štiri
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:15215.0
+passage.questions.13.answers.4.text:Dva načina
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:15214.0
+passage.questions.13.answers.3.text:3 načine
+passage.questions.13.answers.3.label:0,0
+passage.questions.13.answers.3.idx:15213.0
+passage.questions.13.answers.2.text:Skozi dol mesto
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:15212.0
+passage.questions.13.answers.1.text:2 načina
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:15211.0
+passage.questions.13.answers.0.text:Pod mostom
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:15210.0
+passage.questions.12.question:Ali ima koža kakršen koli nadzor nad telesno temperaturo in če da, na koliko načinov?
+passage.questions.12.idx:2865.0
+passage.questions.12.answers.6.text:Ja, dva
+passage.questions.12.answers.6.label:1.0
+passage.questions.12.answers.6.idx:15209.0
+passage.questions.12.answers.5.text:Da, koža pomaga pri vzdrževanju stalne telesne temperature in to na dva različna načina
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:15208.0
+passage.questions.12.answers.4.text:Da, tri
+passage.questions.12.answers.4.label:0,0
+passage.questions.12.answers.4.idx:15207.0
+passage.questions.12.answers.3.text:Da, z znojem in znojnico nadzira telesno temperaturo, da ohladi telo
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:15206.0
+passage.questions.12.answers.2.text:Klima
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:15205.0
+passage.questions.12.answers.1.text:Da, na 5 načinov
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:15204.0
+passage.questions.12.answers.0.text:Da, in to na 3 načine
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:15203.0
+passage.questions.11.question:Na kakšna dva načina se telo ohladi?
+passage.questions.11.idx:2864.0
+passage.questions.11.answers.6.text:Ventilator in izmenični tok
+passage.questions.11.answers.6.label:0,0
+passage.questions.11.answers.6.idx:15202.0
+passage.questions.11.answers.5.text:Znojnice in krvne žile
+passage.questions.11.answers.5.label:1.0
+passage.questions.11.answers.5.idx:15201.0
+passage.questions.11.answers.4.text:Preprečevanje izgube vode in zoženje krvnih žil
+passage.questions.11.answers.4.label:0,0
+passage.questions.11.answers.4.idx:15200.0
+passage.questions.11.answers.3.text:Potenje in krčenje krvnih žil
+passage.questions.11.answers.3.label:0,0
+passage.questions.11.answers.3.idx:15199.0
+passage.questions.11.answers.2.text:Eden od načinov je skozi znoj iz žlez znojnic v koži, ki izhlapi, da ohladi telo. Drugi je skozi krvne žile v koži, ki se širijo ali širijo
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:15198.0
+passage.questions.11.answers.1.text:Eden od načinov je, da se krvne žile stisnejo in znojijo
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:15197.0
+passage.questions.11.answers.0.text:Potenje in širjenje krvnih žil
+passage.questions.11.answers.0.label:1.0
+passage.questions.11.answers.0.idx:15196.0
+passage.questions.10.question:Čigavo izgubo telesa preprečuje koža?
+passage.questions.10.idx:2863.0
+passage.questions.10.answers.6.text:Izguba bakterij
+passage.questions.10.answers.6.label:0,0
+passage.questions.10.answers.6.idx:15195.0
+passage.questions.10.answers.5.text:Izguba vode
+passage.questions.10.answers.5.label:1.0
+passage.questions.10.answers.5.idx:15194.0
+passage.questions.10.answers.4.text:Hladno
+passage.questions.10.answers.4.label:0,0
+passage.questions.10.answers.4.idx:15193.0
+passage.questions.10.answers.3.text:Mati in očetje
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:15192.0
+passage.questions.10.answers.2.text:&quot;Voda&quot;
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:15191.0
+passage.questions.10.answers.1.text:Pot
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:15190.0
+passage.questions.10.answers.0.text:Vročina
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:15189.0
+passage.questions.1.question:Kaj se zgodi, ko na površino kože pride manj toplote?
+passage.questions.1.idx:2854.0
+passage.questions.1.answers.6.text:Seva s telesa
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:15124.0
+passage.questions.1.answers.5.text:Dobil kap
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:15123.0
+passage.questions.1.answers.4.text:Znižuje temperaturo
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:15122.0
+passage.questions.1.answers.3.text:Ohladi telo
+passage.questions.1.answers.3.label:0,0
+passage.questions.1.answers.3.idx:15121.0
+passage.questions.1.answers.2.text:Zadržuje toploto
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:15120.0
+passage.questions.1.answers.1.text:Manj toplote lahko izgubimo v zraku
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:15119.0
+passage.questions.1.answers.0.text:Ogreje telo
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:15118.0
+passage.questions.0.question:Kaj preprečuje izgubo preveč vode iz telesa?
+passage.questions.0.idx:2853
+passage.questions.0.answers.5.text:Žleze
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:15117.0
+passage.questions.0.answers.4.text:Cevi
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:15116.0
+passage.questions.0.answers.3.text:Krvne žile
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:15115.0
+passage.questions.0.answers.2.text:Lasje
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:15114.0
+passage.questions.0.answers.1.text:Zobje
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:15113
+passage.questions.0.answers.0.text:Vaša koža
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:15112
+idx:256

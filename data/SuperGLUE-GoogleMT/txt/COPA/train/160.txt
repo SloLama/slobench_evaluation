@@ -1,0 +1,6 @@
+choice1:Igralec je dobil enajstmetrovko.
+choice2:Igralec je dosegel točko.
+idx:160
+label:1
+premise:Trener je svojemu igralcu dal petico.
+question:cause

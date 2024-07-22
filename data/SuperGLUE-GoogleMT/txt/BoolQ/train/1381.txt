@@ -1,0 +1,4 @@
+idx:1381
+label:False
+passage:Podružnica države banke - Za dohodne mednarodne nakazila se poleg osnovne številke bančnega računa (BBAN), ki vsebuje številko BSB in številko bančnega računa, uporabljajo SWIFT kode. O sprejemanju identifikatorjev IBAN za dohodne mednarodne transakcije ni javne razprave. Vsak postopek v smeri IBAN bi vključeval znatne spremembe bančne programske opreme in računalniških sistemov ter zahtevo, da finančne institucije sprejmejo številke računov z določeno dolžino. Odhodni mednarodni prenosi morajo uporabljati sistem SWIFT ali IBAN, ki se uporablja v ciljni državi, ki bi vključeval format te države za BBAN.
+question:je hitra koda, ki je enaka številki bsb

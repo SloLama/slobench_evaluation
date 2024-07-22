@@ -1,0 +1,85 @@
+version:1.1
+passage.text:Prvo pravilo je starševsko. Primitivna monarhija je v domu. Mladi dojenček joka. Usposobljena medicinska sestra prižge luč, dvigne otroka, ga utiša, mu zapoje, ziba in jokanje ob milovanju in pesmi mirno joka. Ko bo naslednjič dojenček uspavan, bo več joka, več pomirjevanja in motenj in nastavitev drobnega instinkta, ki bo nekega dne, bo moč nadzora. Na prizorišče pride babica. Ko dojenček joka, majhnega trdno posadi v posteljico, zavrne luč, poboža in pomiri drobne nemirne roke, ki se borijo z zrakom, gledajo, čakajo. Iz posteljice prihajajo cviljenje, jezni kriki, vpitji, jecaji, dojenčki se zarežijo in zavohajo, ki odmrejo v zaspanem dojenčku. Tišina, spanje, počitek in gradnja življenja ter živcev in mišic v tišini in temi. Otrok je usklajen z naravnimi zakoni - poživitvijo svežega zraka, spanja, miru - in majhno se zbudi in raste kot sveža, sladka vrtnica. Mati, ko gleda, spoznava božje poti z moškimi.
+passage.questions.4.question:O koliko sorodnih ljudeh govori ta odlomek?
+passage.questions.4.idx:3448.0
+passage.questions.4.answers.4.text:3.
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:18156.0
+passage.questions.4.answers.3.text:Ena oseba mati
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:18155.0
+passage.questions.4.answers.2.text:Dve osebi medicinska sestra in babica
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:18154.0
+passage.questions.4.answers.1.text:5.
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:18153.0
+passage.questions.4.answers.0.text:Razpravlja se o treh ljudeh. Medicinska sestra, babica in mati
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:18152.0
+passage.questions.3.question:Kdo gleda in čaka na dojenčka?
+passage.questions.3.idx:3447.0
+passage.questions.3.answers.2.text:Mati
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:18151.0
+passage.questions.3.answers.1.text:Medicinska sestra
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:18150.0
+passage.questions.3.answers.0.text:Babica
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:18149.0
+passage.questions.2.question:Koliko ljudi pride otroka potolažiti?
+passage.questions.2.idx:3446.0
+passage.questions.2.answers.4.text:3.
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:18148.0
+passage.questions.2.answers.3.text:Dva
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:18147.0
+passage.questions.2.answers.2.text:2.
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:18146.0
+passage.questions.2.answers.1.text:5.
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:18145.0
+passage.questions.2.answers.0.text:4 vključno z materjo
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:18144.0
+passage.questions.1.question:Kateri liki pomirjajo otrokov jok?
+passage.questions.1.idx:3445.0
+passage.questions.1.answers.5.text:Medicinska sestra in babica
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:18143.0
+passage.questions.1.answers.4.text:Babica
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:18142.0
+passage.questions.1.answers.3.text:Izučena medicinska sestra in babica
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:18141.0
+passage.questions.1.answers.2.text:Medicinska sestra
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:18140.0
+passage.questions.1.answers.1.text:Mati in teta po materi
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:18139.0
+passage.questions.1.answers.0.text:Mati
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:18138.0
+passage.questions.0.question:Kako babica umirja otroka v primerjavi z medicinsko sestro?
+passage.questions.0.idx:3444
+passage.questions.0.answers.4.text:Stara mama potlači otroka v posteljico. Medtem ko medicinska sestra dvigne otroka, ki mu poje, ga ziba in pomirja z božanjem in pesmijo
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:18137.0
+passage.questions.0.answers.3.text:Tako, da ga dvignete in mu zapete
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:18136.0
+passage.questions.0.answers.2.text:Otroku ziba in poje uspavanke
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:18135.0
+passage.questions.0.answers.1.text:Babica položi otroka v posteljico, ga pomiri in pomiri
+passage.questions.0.answers.1.label:1.
+passage.questions.0.answers.1.idx:18134
+passage.questions.0.answers.0.text:Medicinska sestra pobere otroka in ga zamaje, poje in boža. Babica vrne otroka nazaj v posteljico, ga poboža in mu dovoli, da sam zavpije
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:18133
+idx:302

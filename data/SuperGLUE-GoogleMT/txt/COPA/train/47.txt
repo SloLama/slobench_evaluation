@@ -1,0 +1,6 @@
+choice1:Pacient je zakrvavel.
+choice2:Bolnik se je napnel.
+idx:47
+label:1
+premise:Medicinska sestra je pripravila iglo za pacientovo injekcijo.
+question:effect

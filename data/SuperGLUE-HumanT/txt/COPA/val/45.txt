@@ -1,0 +1,6 @@
+﻿choice1:Cerkvi je podaril denar.
+choice2:Izobčili so ga iz cerkve.
+idx:45
+label:1
+premise:Mož se je zoperstavil cerkvenim avtoritetam.
+question:effect

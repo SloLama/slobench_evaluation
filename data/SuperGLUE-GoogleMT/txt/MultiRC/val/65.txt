@@ -1,0 +1,181 @@
+version:1.1
+passage.text:V zadnjih 20 letih je odvetnik Richard M. Smith starejšim državljanom brezplačno pomagal pri njihovih pravnih potrebah. Toda Smith, tako kot mnogi prostovoljci, ne želi nobenih priznanj. &quot;Nisem nobena svetnica,&quot; je dejal 80-letni Tallahasseean. &quot;Sem samo deželni odvetnik.&quot; Njegova pomočnica, odvetnica Twyla Sketchley, mu je sedela za ramo in tiho zavpila: &quot;Je svetnik.&quot; Vsak mesec Smith obišče center Smith Williams v skupnosti Bond in stavbo sveta starejših v okrožju Wakulla v Crawfordvilleu, da starejšim svetuje o oporokah, pooblastilih in drugih pravnih zadevah. Smith se je preživljal z zakonom do leta 1982. Od takrat je bil upokojen in se posvečal pomoči starejšim, ki so v stiski. &quot;Fizično ne morem veliko narediti, vendar moji možgani niso odnehali,&quot; je dejal Smith, ki hodi s palico. &quot;In raje bi, da ljudje zdaj postavijo neumno vprašanje, kot da pozneje naredijo neumno napako.&quot; Smith in Sketchley sta v sredo pomagala Beatrice Jackson v centru Smith Williams. Jackson, ki je rekla, da je &quot;stara več kot 60 let&quot;, je potrebovala pomoč pri načrtovanju posesti. &quot;Z mano še ni končal ... je pa res dobro opravil svoje delo,&quot; je dejal Jackson, upokojeni državni delavec. Smith je dejal, da je strankam pomagal ne samo z oporokami, temveč tudi s posvojitvami, ločitvami in celo primeri nadzora živali. &quot;Nekoga mačka je, kot se spomnim, ugriznil pes,&quot; je dejal. Smith usklajuje svoje prostovoljno odvetništvo prek pravne službe Severne Floride, neprofitne organizacije, ki služi družinam in posameznikom z nizkimi dohodki. &quot;Tako dober, dober človek je,&quot; je dejal izvršni direktor Kris Knab. Brez njega bi bilo &quot;ogromno (ljudi) ljudi, ki bi šli brez pomoči.
+passage.questions.7.question:Kdo je pomagal Smithu pri načrtovanju posesti Beatrice Jackson?
+passage.questions.7.idx:762.0
+passage.questions.7.answers.6.text:Smith Williams
+passage.questions.7.answers.6.label:0,0
+passage.questions.7.answers.6.idx:3777.0
+passage.questions.7.answers.5.text:Smithova žena
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:3776.0
+passage.questions.7.answers.4.text:Twyla Sketchley
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:3775.0
+passage.questions.7.answers.3.text:Sketchley
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:3774.0
+passage.questions.7.answers.2.text:Lady Gaga
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:3773.0
+passage.questions.7.answers.1.text:Trump
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:3772.0
+passage.questions.7.answers.0.text:Beyonce
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:3771.0
+passage.questions.6.question:Kje živi Richard?
+passage.questions.6.idx:761.0
+passage.questions.6.answers.5.text:Jackson
+passage.questions.6.answers.5.label:0,0
+passage.questions.6.answers.5.idx:3770.0
+passage.questions.6.answers.4.text:Tallahassee
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:3769.0
+passage.questions.6.answers.3.text:Smith Williams center
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:3768.0
+passage.questions.6.answers.2.text:Južna Florida
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:3767.0
+passage.questions.6.answers.1.text:Tallahassee, FL
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:3766.0
+passage.questions.6.answers.0.text:Kalifornija
+passage.questions.6.answers.0.label:0,0
+passage.questions.6.answers.0.idx:3765.0
+passage.questions.5.question:Kako je Richard pomagal Beatrice Jackson?
+passage.questions.5.idx:760.0
+passage.questions.5.answers.7.text:Z njenim ugrizom psa
+passage.questions.5.answers.7.label:0,0
+passage.questions.5.answers.7.idx:3764.0
+passage.questions.5.answers.6.text:Umira
+passage.questions.5.answers.6.label:0,0
+passage.questions.5.answers.6.idx:3763.0
+passage.questions.5.answers.5.text:Pes jo je ugriznil
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:3762.0
+passage.questions.5.answers.4.text:Pomagal ji je pri ločitvi
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:3761.0
+passage.questions.5.answers.3.text:Načrtovanje posesti
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:3760.0
+passage.questions.5.answers.2.text:Posodila ji je ogromno denarja
+passage.questions.5.answers.2.label:0,0
+passage.questions.5.answers.2.idx:3759.0
+passage.questions.5.answers.1.text:Pomagal ji je pri načrtovanju posesti
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:3758.0
+passage.questions.5.answers.0.text:Pomagajte ji pri načrtovanju posesti
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:3757.0
+passage.questions.4.question:V katerem letu je Richard Smith začel pomagati starejšim državljanom pri njihovih pravnih potrebah?
+passage.questions.4.idx:759.0
+passage.questions.4.answers.5.text:2017
+passage.questions.4.answers.5.label:0,0
+passage.questions.4.answers.5.idx:3756.0
+passage.questions.4.answers.4.text:2000
+passage.questions.4.answers.4.label:0,0
+passage.questions.4.answers.4.idx:3755.0
+passage.questions.4.answers.3.text:2010
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:3754.0
+passage.questions.4.answers.2.text:1980
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:3753.0
+passage.questions.4.answers.1.text:1982
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:3752.0
+passage.questions.4.answers.0.text:1997
+passage.questions.4.answers.0.label:0,0
+passage.questions.4.answers.0.idx:3751.0
+passage.questions.3.question:Zakaj je Richard svetnik?
+passage.questions.3.idx:758.0
+passage.questions.3.answers.8.text:Pomagal je starejšim v stiski
+passage.questions.3.answers.8.label:1.0
+passage.questions.3.answers.8.idx:3750.0
+passage.questions.3.answers.7.text:Starejšim svetuje pri pooblastilih za oporoke in drugih pravnih zadevah
+passage.questions.3.answers.7.label:1.0
+passage.questions.3.answers.7.idx:3749.0
+passage.questions.3.answers.6.text:Brezplačno pomaga starejšim občanom
+passage.questions.3.answers.6.label:1.0
+passage.questions.3.answers.6.idx:3748.0
+passage.questions.3.answers.5.text:Posveča se potrebnim
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:3747.0
+passage.questions.3.answers.4.text:Bog ga je mazil
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:3746.0
+passage.questions.3.answers.3.text:Brezplačno pomaga starejšim državljanom s pravnimi potrebami
+passage.questions.3.answers.3.label:1.0
+passage.questions.3.answers.3.idx:3745.0
+passage.questions.3.answers.2.text:Ima 80 let
+passage.questions.3.answers.2.label:0,0
+passage.questions.3.answers.2.idx:3744.0
+passage.questions.3.answers.1.text:Na pol je upokojen
+passage.questions.3.answers.1.label:0,0
+passage.questions.3.answers.1.idx:3743.0
+passage.questions.3.answers.0.text:Vadil je meditacijo
+passage.questions.3.answers.0.label:0,0
+passage.questions.3.answers.0.idx:3742.0
+passage.questions.2.question:Koliko je bil Richard star, ko je začel brezplačno pomagati starejšim?
+passage.questions.2.idx:757
+passage.questions.2.answers.6.text:Šestdeset
+passage.questions.2.answers.6.label:1.0
+passage.questions.2.answers.6.idx:3741.0
+passage.questions.2.answers.5.text:Star 60 let
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:3740.0
+passage.questions.2.answers.4.text:Star 50 let
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:3739.0
+passage.questions.2.answers.3.text:20.
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:3738.0
+passage.questions.2.answers.2.text:80
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:3737.0
+passage.questions.2.answers.1.text:65
+passage.questions.2.answers.1.label:0
+passage.questions.2.answers.1.idx:3736
+passage.questions.2.answers.0.text:50
+passage.questions.2.answers.0.label:0
+passage.questions.2.answers.0.idx:3735
+passage.questions.1.question:Ali ljudje govorijo pozitivne reči o Smithu?
+passage.questions.1.idx:756
+passage.questions.1.answers.2.text:Da. Twyla je rekel, da je svetnik. Knab je rekel, da je v redu oseba
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:3734.0
+passage.questions.1.answers.1.text:Da
+passage.questions.1.answers.1.label:1.
+passage.questions.1.answers.1.idx:3733
+passage.questions.1.answers.0.text:Ne
+passage.questions.1.answers.0.label:0
+passage.questions.1.answers.0.idx:3732
+passage.questions.0.question:Koliko je star Richard M. Smith?
+passage.questions.0.idx:755
+passage.questions.0.answers.7.text:Star 60 let
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:3731.0
+passage.questions.0.answers.6.text:Star 80 let
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:3730.0
+passage.questions.0.answers.5.text:20.
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:3729.0
+passage.questions.0.answers.4.text:80
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:3728.0
+passage.questions.0.answers.3.text:70 let
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:3727.0
+passage.questions.0.answers.2.text:79
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:3726.0
+passage.questions.0.answers.1.text:Skoraj 80
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:3725
+passage.questions.0.answers.0.text:Osemdeset
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:3724
+idx:65

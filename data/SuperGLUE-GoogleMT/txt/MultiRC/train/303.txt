@@ -1,0 +1,69 @@
+version:1.1
+passage.text:V obdobju pred drugo svetovno vojno je New York Times v svojem prispevku &quot;Pogovor o mestu&quot; objavil vinjeto, v kateri je rekel, da je bil Einstein v Ameriki tako dobro znan, da bi ga na ulici ustavili ljudje, ki bi želeli, da pojasni &quot; teorija &quot;. Končno je našel način za obvladovanje nenehnih poizvedb. Povpraševalcem je rekel: &quot;Oprostite, oprosti! Vedno me zamenjajo s profesorjem Einsteinom.&quot; Einstein je bil predmet ali navdih za številne romane, filme, drame in glasbena dela. Je najljubši model upodabljanja norih znanstvenikov in odsotnih profesorjev; njegov izrazni obraz in značilna pričeska sta bila široko kopirana in pretirana. Frederic Golden iz revije Time je zapisal, da je bil Einstein &quot;uresničitev sanj risarja&quot;.
+passage.questions.2.question:Zakaj se je Einstein pretvarjal, da ga zamenjujejo s profesorjem Einsteinom?
+passage.questions.2.idx:3451.0
+passage.questions.2.answers.4.text:Da bi se izognili poizvedbam na ulici
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:18176.0
+passage.questions.2.answers.3.text:Bil je vohun
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:18175.0
+passage.questions.2.answers.2.text:Bil je iskani zločinec
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:18174.0
+passage.questions.2.answers.1.text:Za obravnavo neprestanih poizvedb
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:18173.0
+passage.questions.2.answers.0.text:Za obravnavo poizvedovalcev
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:18172.0
+passage.questions.1.question:Kaj je Einsteinova upodobitev norega znanstvenika in odsotnega profesorja privedla do tega?
+passage.questions.1.idx:3450.0
+passage.questions.1.answers.7.text:Romani
+passage.questions.1.answers.7.label:1.0
+passage.questions.1.answers.7.idx:18171.0
+passage.questions.1.answers.6.text:Veliko priljubljenih risank v časopisu
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:18170.0
+passage.questions.1.answers.5.text:Avtomobili
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:18169.0
+passage.questions.1.answers.4.text:V reviji Time je Frederic Golden napisal, da je Einstein &quot;uresničitev sanj risarja&quot;
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:18168.0
+passage.questions.1.answers.3.text:Glasba
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:18167.0
+passage.questions.1.answers.2.text:Risanke
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:18166.0
+passage.questions.1.answers.1.text:Filmi
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:18165.0
+passage.questions.1.answers.0.text:Romani, filmi, predstave in glasbena dela
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:18164.0
+passage.questions.0.question:Zakaj Einsteina veljajo za uresničene sanje risarja?
+passage.questions.0.idx:3449
+passage.questions.0.answers.6.text:Zaradi načina oblačenja
+passage.questions.0.answers.6.label:0,0
+passage.questions.0.answers.6.idx:18163.0
+passage.questions.0.answers.5.text:Ustvarjal je risanke
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:18162.0
+passage.questions.0.answers.4.text:Zaradi njegovega izraznega obraza
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:18161.0
+passage.questions.0.answers.3.text:Igral je v risankah
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:18160.0
+passage.questions.0.answers.2.text:Izrazita pričeska
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:18159.0
+passage.questions.0.answers.1.text:Ker nosi smešne očala
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:18158
+passage.questions.0.answers.0.text:Zaradi njegovega ekspresivnega obraza in izrazite pričeske
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:18157
+idx:303

@@ -1,0 +1,328 @@
+version:1.1
+passage.text:V preostalem svetu je kitajski vrhovni modrec Kongfuzi (K&#39;ung Fu-tzu) bolj znan pod romaniziranim imenom &quot;Konfucij&quot;. Rodil se je leta 551 pred našim štetjem v današnji provinci Shandong na vzhodu Kitajske. Njegov vpliv je bil tako močan, da je enajst kitajskih cesarjev romalo v rojstni kraj Velikega učitelja. Tudi vi se lahko poklonite velikemu templju, postavljenemu na mestu njegovega doma v mestecu Qufu (Chufu), in njegovem grobu v gozdu tik proti severu. Klasični konfucijevci, čeprav so se redko ukvarjali z duhovnimi in metafizičnimi zadevami, postavljajo merila za družbeno in politično ravnanje, ki še vedno temeljijo na številnih kitajskih načinih ravnanja in zaznavanja. Konfucij je močno poudaril pravilne in harmonične odnose med vladarjem in podanikom, staršem in otrokom, učiteljem in učencem, posameznikom in državo. Ti odnosi so bili hierarhični in diktatorski. Če je bil red moten, so neizogibno nastale strašne posledice. Sin, ki ni ubogal očeta, bi povzročil katastrofo sebi in svoji družini, tako kot je cesar, ki je kljuboval &quot;nebeškemu mandatu&quot; ali ignoriral dobro imperija, uničil narod. Skozi stoletja je Konfucij doživel več sprememb sreče kot verjetno kateri koli drugi filozof. Kmalu po njegovi smrti kot največjega učenjaka so ga pozneje častili kot polbožanskega; še vedno lahko obiščete templje Konfucija v številnih kitajskih mestih. Med kulturno revolucijo (1966–1976) pa je bil obsojen kot protirevolucionarna sila. Šele po smrti predsednika Maa (1976) in odprtju Kitajske zunanjemu svetu pod naprednejšimi reformatorji je bil tudi Konfucij &quot;rehabilitiran&quot;. Za razliko od Konfucija, o življenju katerega so znane številne posebne in celo barvite podrobnosti, je filozof Laozi (Lao Tse ali Lao-Tzu) enigma. Ocene njegovega datuma rojstva se v stoletju razlikujejo. Ena legenda celo pravi, da je učil mladega Konfucija. Laozija ovekovečuje njegova knjiga misli o človeku, naravi in vesolju Daodejing (&quot;Pot in njena moč&quot;), ki je postala glavno besedilo največje avtohtone kitajske religije, daoizma (taoizem). S poudarkom na naravi, intuiciji, posamezniku, paradoksu (&quot;Znanje, ki ni znanje&quot;) in kozmičnem toku, znanem kot &quot;Pot&quot;, je daoizem postal religija umetnikov in filozofov. Po Konfucijevi smrti je dinastija Zhou vstopila v obdobje prepirov, znano kot &quot;vojskujoče se države&quot; (475–221 pr. N. Št.).
+passage.questions.9.question:Ali vemo natančen datum Laozijevega rojstva?
+passage.questions.9.idx:4552.0
+passage.questions.9.answers.2.text:Da
+passage.questions.9.answers.2.label:0,0
+passage.questions.9.answers.2.idx:24047.0
+passage.questions.9.answers.1.text:Ne. Datumi njegovega rojstva se v stoletju razlikujejo
+passage.questions.9.answers.1.label:1.0
+passage.questions.9.answers.1.idx:24046.0
+passage.questions.9.answers.0.text:Ne
+passage.questions.9.answers.0.label:1.0
+passage.questions.9.answers.0.idx:24045.0
+passage.questions.8.question:Kdo je po legendi učil mladega Konfucija?
+passage.questions.8.idx:4551.0
+passage.questions.8.answers.4.text:Po legendi je Konfucija poučeval filozof Laozi
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:24044.0
+passage.questions.8.answers.3.text:Filozof Laozi
+passage.questions.8.answers.3.label:1.0
+passage.questions.8.answers.3.idx:24043.0
+passage.questions.8.answers.2.text:Laozi
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:24042.0
+passage.questions.8.answers.1.text:Po legendi je Konfucija poučeval predsednik Mao
+passage.questions.8.answers.1.label:0,0
+passage.questions.8.answers.1.idx:24041.0
+passage.questions.8.answers.0.text:Predsednik Mao
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:24040.0
+passage.questions.7.question:V katerem letu in previdnosti se je rodil Konfuj?
+passage.questions.7.idx:4550.0
+passage.questions.7.answers.5.text:1976
+passage.questions.7.answers.5.label:0,0
+passage.questions.7.answers.5.idx:24039.0
+passage.questions.7.answers.4.text:551 pr. N. Št. V provinci Shandong
+passage.questions.7.answers.4.label:1.0
+passage.questions.7.answers.4.idx:24038.0
+passage.questions.7.answers.3.text:475 pr. N. Št. V Qufuju
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:24037.0
+passage.questions.7.answers.2.text:551 pr. N. Št. V provinci Shandong
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:24036.0
+passage.questions.7.answers.1.text:Shandong
+passage.questions.7.answers.1.label:1.0
+passage.questions.7.answers.1.idx:24035.0
+passage.questions.7.answers.0.text:475 pr
+passage.questions.7.answers.0.label:0,0
+passage.questions.7.answers.0.idx:24034.0
+passage.questions.6.question:Kakšno je bilo obdobje prizadevanj, ki se je začelo po Kongfuzi (K&#39;ung Fu-tzu) smrti?
+passage.questions.6.idx:4549.0
+passage.questions.6.answers.4.text:Daoizem
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:24033.0
+passage.questions.6.answers.3.text:Vojskujoče se države
+passage.questions.6.answers.3.label:1.0
+passage.questions.6.answers.3.idx:24032.0
+passage.questions.6.answers.2.text:Dinastija Zhou
+passage.questions.6.answers.2.label:0,0
+passage.questions.6.answers.2.idx:24031.0
+passage.questions.6.answers.1.text:Kulturna revolucija
+passage.questions.6.answers.1.label:0,0
+passage.questions.6.answers.1.idx:24030.0
+passage.questions.6.answers.0.text:Obdobje vojskujočih se držav
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:24029.0
+passage.questions.5.question:Kdo velja za velikega učitelja
+passage.questions.5.idx:4548.0
+passage.questions.5.answers.5.text:Laozi
+passage.questions.5.answers.5.label:0,0
+passage.questions.5.answers.5.idx:24028.0
+passage.questions.5.answers.4.text:Qufu
+passage.questions.5.answers.4.label:0,0
+passage.questions.5.answers.4.idx:24027.0
+passage.questions.5.answers.3.text:Lao Tse ali Lao-Tzu
+passage.questions.5.answers.3.label:0,0
+passage.questions.5.answers.3.idx:24026.0
+passage.questions.5.answers.2.text:Kongfuzi
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:24025.0
+passage.questions.5.answers.1.text:Konfucij
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:24024.0
+passage.questions.5.answers.0.text:Predsednik Mao
+passage.questions.5.answers.0.label:0,0
+passage.questions.5.answers.0.idx:24023.0
+passage.questions.4.question:Kje se je rodil Kongfuzi?
+passage.questions.4.idx:4547.0
+passage.questions.4.answers.3.text:Daodejing
+passage.questions.4.answers.3.label:0,0
+passage.questions.4.answers.3.idx:24022.0
+passage.questions.4.answers.2.text:Zahodna Kitajska
+passage.questions.4.answers.2.label:0,0
+passage.questions.4.answers.2.idx:24021.0
+passage.questions.4.answers.1.text:Provinca Shandong
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:24020.0
+passage.questions.4.answers.0.text:Provinca Shandong na vzhodu Kitajske
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:24019.0
+passage.questions.3.question:Je bil Mandat nebes o hierarhičnih in diktatorskih odnosih reda?
+passage.questions.3.idx:4546.0
+passage.questions.3.answers.0.text:Da
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:24018.0
+passage.questions.2.question:Koliko cesarjev se je odpravilo na pot do tega mesta, da bi se poklonili Velikemu učitelju?
+passage.questions.2.idx:4545.0
+passage.questions.2.answers.5.text:Ducat
+passage.questions.2.answers.5.label:0,0
+passage.questions.2.answers.5.idx:24017.0
+passage.questions.2.answers.4.text:Sto
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:24016.0
+passage.questions.2.answers.3.text:Enajst
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:24015.0
+passage.questions.2.answers.2.text:Deset
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:24014.0
+passage.questions.2.answers.1.text:11 cesarjev je odšlo v Qufu
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:24013.0
+passage.questions.2.answers.0.text:Ena
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:24012.0
+passage.questions.19.question:Kdo naj bi učil Konfucija?
+passage.questions.19.idx:4562.0
+passage.questions.19.answers.5.text:Laozi
+passage.questions.19.answers.5.label:1.0
+passage.questions.19.answers.5.idx:24092.0
+passage.questions.19.answers.4.text:Lao Tse ali Lao-Tzu
+passage.questions.19.answers.4.label:1.0
+passage.questions.19.answers.4.idx:24091.0
+passage.questions.19.answers.3.text:Kâ € ™ ung Fu-tzu
+passage.questions.19.answers.3.label:0,0
+passage.questions.19.answers.3.idx:24090.0
+passage.questions.19.answers.2.text:Kongfuzi
+passage.questions.19.answers.2.label:0,0
+passage.questions.19.answers.2.idx:24089.0
+passage.questions.19.answers.1.text:Han Fei
+passage.questions.19.answers.1.label:0,0
+passage.questions.19.answers.1.idx:24088.0
+passage.questions.19.answers.0.text:Predsednik Mao
+passage.questions.19.answers.0.label:0,0
+passage.questions.19.answers.0.idx:24087.0
+passage.questions.18.question:Je Kongfuzi (K&#39;ung Fu-tzu) močno poudaril pravilen in skladen odnos med staršem in otrokom?
+passage.questions.18.idx:4561.0
+passage.questions.18.answers.1.text:Da
+passage.questions.18.answers.1.label:0,0
+passage.questions.18.answers.1.idx:24086.0
+passage.questions.18.answers.0.text:Ne
+passage.questions.18.answers.0.label:1.0
+passage.questions.18.answers.0.idx:24085.0
+passage.questions.17.question:Kateri filozof je opisan kot enigma in je zaslužen za učenje Konfucija?
+passage.questions.17.idx:4560.0
+passage.questions.17.answers.5.text:Laozi
+passage.questions.17.answers.5.label:1.0
+passage.questions.17.answers.5.idx:24084.0
+passage.questions.17.answers.4.text:Mao
+passage.questions.17.answers.4.label:0,0
+passage.questions.17.answers.4.idx:24083.0
+passage.questions.17.answers.3.text:Lao Tse ali Lao-Tzu
+passage.questions.17.answers.3.label:1.0
+passage.questions.17.answers.3.idx:24082.0
+passage.questions.17.answers.2.text:Zhou
+passage.questions.17.answers.2.label:0,0
+passage.questions.17.answers.2.idx:24081.0
+passage.questions.17.answers.1.text:Han Fei
+passage.questions.17.answers.1.label:0,0
+passage.questions.17.answers.1.idx:24080.0
+passage.questions.17.answers.0.text:Zhu xi
+passage.questions.17.answers.0.label:0,0
+passage.questions.17.answers.0.idx:24079.0
+passage.questions.16.question:Kako je trenutno ime dežele, v kateri se je rodil Konfucij?
+passage.questions.16.idx:4559.0
+passage.questions.16.answers.3.text:Vzhodna Kitajska
+passage.questions.16.answers.3.label:0,0
+passage.questions.16.answers.3.idx:24078.0
+passage.questions.16.answers.2.text:Konfucij se je rodil v današnji provinci Shandong na vzhodu Kitajske,
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:24077.0
+passage.questions.16.answers.1.text:Konfucij se je rodil v današnji provinci Qufu na severu Kitajske
+passage.questions.16.answers.1.label:0,0
+passage.questions.16.answers.1.idx:24076.0
+passage.questions.16.answers.0.text:Provinca Shandong na vzhodu Kitajske
+passage.questions.16.answers.0.label:1.0
+passage.questions.16.answers.0.idx:24075.0
+passage.questions.15.question:Kdo je bil znan kot Veliki učitelj?
+passage.questions.15.idx:4558.0
+passage.questions.15.answers.4.text:Laozi
+passage.questions.15.answers.4.label:0,0
+passage.questions.15.answers.4.idx:24074.0
+passage.questions.15.answers.3.text:Qufu
+passage.questions.15.answers.3.label:0,0
+passage.questions.15.answers.3.idx:24073.0
+passage.questions.15.answers.2.text:Lao Tse ali Lao-Tzu
+passage.questions.15.answers.2.label:0,0
+passage.questions.15.answers.2.idx:24072.0
+passage.questions.15.answers.1.text:Kongfuzi
+passage.questions.15.answers.1.label:1.0
+passage.questions.15.answers.1.idx:24071.0
+passage.questions.15.answers.0.text:Konfucij
+passage.questions.15.answers.0.label:1.0
+passage.questions.15.answers.0.idx:24070.0
+passage.questions.14.question:Ali so se njihove strašne posledice neizogibno pojavile, ko so bili moteni pravilni in harmonični odnosi med vladarjem in podložnikom.
+passage.questions.14.idx:4557.0
+passage.questions.14.answers.1.text:Da
+passage.questions.14.answers.1.label:1.0
+passage.questions.14.answers.1.idx:24069.0
+passage.questions.14.answers.0.text:Ne
+passage.questions.14.answers.0.label:0,0
+passage.questions.14.answers.0.idx:24068.0
+passage.questions.13.question:Kdo je bil v določenem trenutku oba polbožanska, a hkrati tudi protirevolucionarna sila?
+passage.questions.13.idx:4556.0
+passage.questions.13.answers.5.text:Laozi
+passage.questions.13.answers.5.label:0,0
+passage.questions.13.answers.5.idx:24067.0
+passage.questions.13.answers.4.text:Kâ € ™ ung Fu-tzu
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:24066.0
+passage.questions.13.answers.3.text:Kongfuzi
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:24065.0
+passage.questions.13.answers.2.text:Zhou
+passage.questions.13.answers.2.label:0,0
+passage.questions.13.answers.2.idx:24064.0
+passage.questions.13.answers.1.text:Konfucij
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:24063.0
+passage.questions.13.answers.0.text:Predsednik Mao
+passage.questions.13.answers.0.label:0,0
+passage.questions.13.answers.0.idx:24062.0
+passage.questions.12.question:Kateri filozof naj bi učil mladega Konfucija?
+passage.questions.12.idx:4555.0
+passage.questions.12.answers.4.text:Laozi
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:24061.0
+passage.questions.12.answers.3.text:Lao Tse ali Lao-Tzu
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:24060.0
+passage.questions.12.answers.2.text:Kâ € ™ ung Fu-tzu
+passage.questions.12.answers.2.label:0,0
+passage.questions.12.answers.2.idx:24059.0
+passage.questions.12.answers.1.text:Kongfuzi
+passage.questions.12.answers.1.label:0,0
+passage.questions.12.answers.1.idx:24058.0
+passage.questions.12.answers.0.text:Predsednik Mao
+passage.questions.12.answers.0.label:0,0
+passage.questions.12.answers.0.idx:24057.0
+passage.questions.11.question:Kdo je imel tako močan vpliv, da je enajst kitajskih cesarjev romalo v njegovo rojstno hišo?
+passage.questions.11.idx:4554.0
+passage.questions.11.answers.4.text:Kongfuzi (Kâ € ™ ung Fu-tzu)
+passage.questions.11.answers.4.label:1.0
+passage.questions.11.answers.4.idx:24056.0
+passage.questions.11.answers.3.text:Njegov vpliv je bil tako močan, da je enajst kitajskih cesarjev romalo v rojstni kraj Velikega učitelja Konfucija
+passage.questions.11.answers.3.label:1.0
+passage.questions.11.answers.3.idx:24055.0
+passage.questions.11.answers.2.text:Konfucij
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:24054.0
+passage.questions.11.answers.1.text:Veliki učitelj
+passage.questions.11.answers.1.label:0,0
+passage.questions.11.answers.1.idx:24053.0
+passage.questions.11.answers.0.text:Šestindvajset kitajskih cesarjev je obiskalo njegovo rojstno mesto
+passage.questions.11.answers.0.label:0,0
+passage.questions.11.answers.0.idx:24052.0
+passage.questions.10.question:Kako je trenutno ime province, kamor je enajst kitajskih cesarjev romalo?
+passage.questions.10.idx:4553.0
+passage.questions.10.answers.3.text:Daodejing
+passage.questions.10.answers.3.label:0,0
+passage.questions.10.answers.3.idx:24051.0
+passage.questions.10.answers.2.text:Fujian
+passage.questions.10.answers.2.label:0,0
+passage.questions.10.answers.2.idx:24050.0
+passage.questions.10.answers.1.text:Zhou
+passage.questions.10.answers.1.label:0,0
+passage.questions.10.answers.1.idx:24049.0
+passage.questions.10.answers.0.text:Provinca Shandong
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:24048.0
+passage.questions.1.question:Za kakšne odnose je dejal Konfucij, morajo biti hierarhični in diktorski, in če se ne, kaj bi se zgodilo?
+passage.questions.1.idx:4544.0
+passage.questions.1.answers.9.text:Odnosi med vladarjem / subjektom in / ali starši morajo biti usklajeni ali se bodo zgodile strašne posledice
+passage.questions.1.answers.9.label:1.0
+passage.questions.1.answers.9.idx:24011.0
+passage.questions.1.answers.8.text:Vladar in subjekt
+passage.questions.1.answers.8.label:1.0
+passage.questions.1.answers.8.idx:24010.0
+passage.questions.1.answers.7.text:Duhovni in metafizični odnosi ali države bi se začeli bojevati
+passage.questions.1.answers.7.label:0,0
+passage.questions.1.answers.7.idx:24009.0
+passage.questions.1.answers.6.text:Posameznik in država
+passage.questions.1.answers.6.label:1.0
+passage.questions.1.answers.6.idx:24008.0
+passage.questions.1.answers.5.text:Bratje in sestre
+passage.questions.1.answers.5.label:0,0
+passage.questions.1.answers.5.idx:24007.0
+passage.questions.1.answers.4.text:Bili bi prezrti
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:24006.0
+passage.questions.1.answers.3.text:Strašne posledice
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:24005.0
+passage.questions.1.answers.2.text:Vladar in subjekt, starš in otrok, učitelj in učenec, posameznik in državni odnosi ali strašne posledice bi bili plačani
+passage.questions.1.answers.2.label:1.0
+passage.questions.1.answers.2.idx:24004.0
+passage.questions.1.answers.1.text:Starš in otrok
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:24003.0
+passage.questions.1.answers.0.text:Učitelj in učenec
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:24002.0
+passage.questions.0.question:Ali je imel človek, katerega misli so sestavljale besedilo &quot;Pot in njena moč&quot;, legende o svoji preteklosti, ki so trdile, da je učil mladega Konfucija.
+passage.questions.0.idx:4543
+passage.questions.0.answers.3.text:Laozi
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:24001.0
+passage.questions.0.answers.2.text:Lao Tse ali Lao-Tzu
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:24000.0
+passage.questions.0.answers.1.text:Veliki učitelj
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:23999
+passage.questions.0.answers.0.text:Predsednik Mao
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:23998
+idx:398

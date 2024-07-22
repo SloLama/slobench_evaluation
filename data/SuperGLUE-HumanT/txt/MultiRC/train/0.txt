@@ -1,0 +1,559 @@
+version:1.1
+passage.text:Medtem ko se je odvijal ta proces, se je kolesje diplomacije vrtelo naprej. Neposreden pritisk na Talibane se je izkazal za neuspešnega. Kot je zapisal uradnik na Svetu za nacionalno varnost, »Afganistan pod Talibani ni država, ki sponzorira terorizem, temveč država, ki jo sponzorira terorizem.« Zgodaj leta 2000 so si ZDA začele intenzivno prizadevati, da bi Pakistan prepričale, naj uporabi svoj vpliv na Talibane. Januarja leta 2000 sta se pomočnik državnega sekretarja, Karl Inderfurth, in koordinator za protiterorizem na ameriškem obrambnem ministrstvu, Michael Sheehan, v Islamabadu sestala z generalom Mušarafom ter mu predstavila možnost, da bi pakistansko sodelovanje nagradili z obiskom predsednika v marcu.  Mušaraf si je zelo želel ta obisk, med drugim tudi zato, ker bi potrdil legitimnost njegove vlade. Odposlancema je povedal, da se bo srečal z Mulo Omarjem in nanj pritisnil glede Bin Ladna. Kljub temu sta odpotovala in v Washingtonu poročala, da Pakistan najverjetneje ne bo storil ničesar, »saj vidi prednosti v talibanski kontroli Afganistana.« Predsednik Clinton je imel v načrtu pot v Indijo. Obrambno ministrstvo je menilo, da ne bi smel obiskati Indije, ne da bi se obenem ustavil tudi v Pakistanu. Tajna služba in CIA pa sta ostro opozorili, da bi obisk v Pakistanu ogrozil predsednikovo življenje. Protiteroristični strokovnjaki so obenem trdili, da Pakistan ni naredil dovolj, da bi si zaslužil predsedniški obisk. Vendar pa je predsednik Clinton vztrajal pri tem, da Pakistan vključijo v načrt njegove poti v Južno Azijo. Njegov enodnevni postanek, 25. marca 2000, je bil prvi obisk ameriškega predsednika v Pakistanu od leta 1969. Na sestanku z Mušarafom in ostalimi se je predsednik Clinton osredotočil na napetosti med Pakistanom in Indijo in na nevarnosti jedrskega oboroževanja, pogovarjal pa se je tudi o Bin Ladnu. Predsednik Clinton nam je povedal, da je Mušarafa potegnil na stran za kratek sestanek iz oči v oči in generala prosil za pomoč v zvezi z Bin Ladnom. »Obljubil sem mu vse, kar je v moji moči, in še več, vključno z izboljšanjem odnosov z ZDA, če bi nam pomagal priti do Bin Ladna in naredil še eno ali dve stvari.« Ameriški napori so se nadaljevali. 
+passage.questions.9.question:Glede česa se obrambno ministrstvo ni strinjalo s tajno službo in CIO?
+passage.questions.9.idx:9.0
+passage.questions.9.answers.7.text:Obiska v Pakistanu
+passage.questions.9.answers.7.label:1.0
+passage.questions.9.answers.7.idx:68.0
+passage.questions.9.answers.6.text:Obiska predsednika Clintona v Pakistanu
+passage.questions.9.answers.6.label:1.0
+passage.questions.9.answers.6.idx:67.0
+passage.questions.9.answers.5.text:Obiska v Indiji
+passage.questions.9.answers.5.label:0.0
+passage.questions.9.answers.5.idx:66.0
+passage.questions.9.answers.4.text:Predsednikovega obiska v Pakistanu
+passage.questions.9.answers.4.label:1.0
+passage.questions.9.answers.4.idx:65.0
+passage.questions.9.answers.3.text:Računalniškega popravila
+passage.questions.9.answers.3.label:0.0
+passage.questions.9.answers.3.idx:64.0
+passage.questions.9.answers.2.text:Protiterorizma
+passage.questions.9.answers.2.label:0.0
+passage.questions.9.answers.2.idx:63.0
+passage.questions.9.answers.1.text:Predsednikovega obiska v Indiji
+passage.questions.9.answers.1.label:0.0
+passage.questions.9.answers.1.idx:62.0
+passage.questions.9.answers.0.text:Denarja
+passage.questions.9.answers.0.label:0.0
+passage.questions.9.answers.0.idx:61.0
+passage.questions.8.question:Kje je imel predsednik Clinton 25. marca 2000 enodnevni postanek?
+passage.questions.8.idx:8.0
+passage.questions.8.answers.4.text:V Pakistanu
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:60.0
+passage.questions.8.answers.3.text:V Južni Afriki
+passage.questions.8.answers.3.label:0.0
+passage.questions.8.answers.3.idx:59.0
+passage.questions.8.answers.2.text:V Indiji
+passage.questions.8.answers.2.label:0.0
+passage.questions.8.answers.2.idx:58.0
+passage.questions.8.answers.1.text:Na Kitajskem
+passage.questions.8.answers.1.label:0.0
+passage.questions.8.answers.1.idx:57.0
+passage.questions.8.answers.0.text:V južni Aziji
+passage.questions.8.answers.0.label:1.0
+passage.questions.8.answers.0.idx:56.0
+passage.questions.7.question:Zakaj je general Mušaraf Karlu Inderfurthu in Michaelu Sheehanu obljubil, da se bo srečal z Mulo Omarjem in nanj pritisnil glede Bin Ladna?
+passage.questions.7.idx:7.0
+passage.questions.7.answers.8.text:Želel si je, da bi ameriški predsednik obiskal Pakistan
+passage.questions.7.answers.8.label:1.0
+passage.questions.7.answers.8.idx:55.0
+passage.questions.7.answers.7.text:Obljubil je, da bo pritisnil na Talibane
+passage.questions.7.answers.7.label:1.0
+passage.questions.7.answers.7.idx:54.0
+passage.questions.7.answers.6.text:Da pokaže legitimnost svoje vlade
+passage.questions.7.answers.6.label:1.0
+passage.questions.7.answers.6.idx:53.0
+passage.questions.7.answers.5.text:Da pomaga Talibanom
+passage.questions.7.answers.5.label:0.0
+passage.questions.7.answers.5.idx:52.0
+passage.questions.7.answers.4.text:Da pomaga teroristom
+passage.questions.7.answers.4.label:0.0
+passage.questions.7.answers.4.idx:51.0
+passage.questions.7.answers.3.text:Obljubil je, da se bo srečal z Mulo Omarjem in nanj pritisnil glede Bin Ladna.
+passage.questions.7.answers.3.label:1.0
+passage.questions.7.answers.3.idx:50.0
+passage.questions.7.answers.2.text:Za pogajanja glede jedrskega oboroževanja
+passage.questions.7.answers.2.label:1.0
+passage.questions.7.answers.2.idx:49.0
+passage.questions.7.answers.1.text:Za pogajanja o situaciji, o tem, kako popraviti računalnike v Romuniji
+passage.questions.7.answers.1.label:0.0
+passage.questions.7.answers.1.idx:48.0
+passage.questions.7.answers.0.text:Za možnost, da bi ga v marcu obiskal predsednik
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:47.0
+passage.questions.6.question:Kaj sta bila razloga, zaradi katerih sta tajna služba in CIA predsedniku Clintonu odsvetovali obisk v Pakistanu?
+passage.questions.6.idx:6.0
+passage.questions.6.answers.9.text:V nevarnost bi postavil ameriške agente v Romuniji
+passage.questions.6.answers.9.label:0.0
+passage.questions.6.answers.9.idx:46.0
+passage.questions.6.answers.8.text:Tvegal bi svoje življenje
+passage.questions.6.answers.8.label:1.0
+passage.questions.6.answers.8.idx:45.0
+passage.questions.6.answers.7.text:Obisk bi ogrozil predsednikovo življenje in Pakistan ni naredil dovolj, da bi si zaslužil obisk?
+passage.questions.6.answers.7.label:1.0
+passage.questions.6.answers.7.idx:44.0
+passage.questions.6.answers.6.text:Napetosti med Pakistanom in Indijo
+passage.questions.6.answers.6.label:0.0
+passage.questions.6.answers.6.idx:43.0
+passage.questions.6.answers.5.text:Predsednik bi lahko umrl
+passage.questions.6.answers.5.label:1.0
+passage.questions.6.answers.5.idx:42.0
+passage.questions.6.answers.4.text:Ogrozil bi predsednikovo življenje in menili so, da Pakistan ni naredil dovolj, da bi si zaslužil predsedniški obisk
+passage.questions.6.answers.4.label:1.0
+passage.questions.6.answers.4.idx:41.0
+passage.questions.6.answers.3.text:Odposlanca sta poročala, da Pakistan najverjetneje ne bo storil ničesar
+passage.questions.6.answers.3.label:0.0
+passage.questions.6.answers.3.idx:40.0
+passage.questions.6.answers.2.text:Zaradi nevarnosti jedrske aktivnosti
+passage.questions.6.answers.2.label:0.0
+passage.questions.6.answers.2.idx:39.0
+passage.questions.6.answers.1.text:Tajna služba in CIA pa sta ostro opozorili, da bi obisk v Pakistanu ogrozil predsednikovo življenje
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:38.0
+passage.questions.6.answers.0.text:Neposreden pritisk na Talibane se je izkazal za neuspešnega
+passage.questions.6.answers.0.label:0.0
+passage.questions.6.answers.0.idx:37.0
+passage.questions.5.question:Kdo je bil prvi predsednik, ki je obiskal Pakistan od leta 1969?
+passage.questions.5.idx:5.0
+passage.questions.5.answers.4.text:George Bush
+passage.questions.5.answers.4.label:0.0
+passage.questions.5.answers.4.idx:36.0
+passage.questions.5.answers.3.text:Bill Clinton
+passage.questions.5.answers.3.label:1.0
+passage.questions.5.answers.3.idx:35.0
+passage.questions.5.answers.2.text:George W. Bush
+passage.questions.5.answers.2.label:0.0
+passage.questions.5.answers.2.idx:34.0
+passage.questions.5.answers.1.text:Predsednik Clinton
+passage.questions.5.answers.1.label:1.0
+passage.questions.5.answers.1.idx:33.0
+passage.questions.5.answers.0.text:Barack Obama
+passage.questions.5.answers.0.label:0.0
+passage.questions.5.answers.0.idx:32.0
+passage.questions.4.question:Zakaj sta tajna služba in CIA mislili, da je obisk Pakistana slaba ideja?
+passage.questions.4.idx:4.0
+passage.questions.4.answers.6.text:»Pakistan ni naredil dovolj, da bi si zaslužil predsedniški obisk« in »obisk Pakistana bi ogrozil predsednikovo življenje.«
+passage.questions.4.answers.6.label:1.0
+passage.questions.4.answers.6.idx:31.0
+passage.questions.4.answers.5.text:Napetosti med Indijo in Pakistanom
+passage.questions.4.answers.5.label:0.0
+passage.questions.4.answers.5.idx:30.0
+passage.questions.4.answers.4.text:Ogrozil bi njegovo življenje
+passage.questions.4.answers.4.label:1.0
+passage.questions.4.answers.4.idx:29.0
+passage.questions.4.answers.3.text:Bil je nevaren
+passage.questions.4.answers.3.label:1.0
+passage.questions.4.answers.3.idx:28.0
+passage.questions.4.answers.2.text:Ogrozil bi predsednikovo življenje in menili so, da Pakistan ni naredil dovolj, da bi si zaslužil predsedniški obisk
+passage.questions.4.answers.2.label:1.0
+passage.questions.4.answers.2.idx:27.0
+passage.questions.4.answers.1.text:Odposlanca sta poročala, da Pakistan najverjetneje ne bo storil ničesar
+passage.questions.4.answers.1.label:1.0
+passage.questions.4.answers.1.idx:26.0
+passage.questions.4.answers.0.text:Neposreden pritisk na Talibane se je izkazal za neuspešnega
+passage.questions.4.answers.0.label:0.0
+passage.questions.4.answers.0.idx:25.0
+passage.questions.3.question:Katerega dne se je predsednik Clinton sestal z Mušarafom in ostalimi, da se pogovorijo, med drugim tudi o Bin Ladnu?
+passage.questions.3.idx:3.0
+passage.questions.3.answers.5.text:25. marca 2000
+passage.questions.3.answers.5.label:1.0
+passage.questions.3.answers.5.idx:24.0
+passage.questions.3.answers.4.text:januarja 2000
+passage.questions.3.answers.4.label:0.0
+passage.questions.3.answers.4.idx:23.0
+passage.questions.3.answers.3.text:12.03.2019
+passage.questions.3.answers.3.label:0.0
+passage.questions.3.answers.3.idx:22.0
+passage.questions.3.answers.2.text:15. marca 2000
+passage.questions.3.answers.2.label:0.0
+passage.questions.3.answers.2.idx:21.0
+passage.questions.3.answers.1.text:25. marca 1999
+passage.questions.3.answers.1.label:0.0
+passage.questions.3.answers.1.idx:20.0
+passage.questions.3.answers.0.text:11.9. 2020
+passage.questions.3.answers.0.label:0.0
+passage.questions.3.answers.0.idx:19.0
+passage.questions.25.question:Kaj je predsednik Clinton naredil oz. rekel, ko se je srečal z Mušarafom?
+passage.questions.25.idx:25.0
+passage.questions.25.answers.6.text:Imel je srečanje iz oči v oči
+passage.questions.25.answers.6.label:1.0
+passage.questions.25.answers.6.idx:167.0
+passage.questions.25.answers.5.text:Prosil ga je za pomoč glede Bin Ladna
+passage.questions.25.answers.5.label:1.0
+passage.questions.25.answers.5.idx:166.0
+passage.questions.25.answers.4.text:Razrešiti odnose z Indijo
+passage.questions.25.answers.4.label:0.0
+passage.questions.25.answers.4.idx:165.0
+passage.questions.25.answers.3.text:Prosil ga je, da mu razkaže Pakistan
+passage.questions.25.answers.3.label:0.0
+passage.questions.25.answers.3.idx:164.0
+passage.questions.25.answers.2.text:Predsednik Clinton se je osredotočil na napetosti med Pakistanom in Indijo in na nevarnosti jedrskega oboroževanja, pogovarjal pa se je tudi o Bin Ladnu
+passage.questions.25.answers.2.label:1.0
+passage.questions.25.answers.2.idx:163.0
+passage.questions.25.answers.1.text:Neposreden pritisk na Talibane
+passage.questions.25.answers.1.label:0.0
+passage.questions.25.answers.1.idx:162.0
+passage.questions.25.answers.0.text:»Generala je prosil za pomoč glede Bin Ladna« in mu »ponudil vse, kar je bilo v njegovi moči, in še več.«
+passage.questions.25.answers.0.label:1.0
+passage.questions.25.answers.0.idx:161.0
+passage.questions.24.question:Kaj je predsednik Clinton ponudil Mušarafu, ko ga je potegnil na stran?
+passage.questions.24.idx:24.0
+passage.questions.24.answers.5.text:Vse, kar je bilo v njegovi moči in še več
+passage.questions.24.answers.5.label:1.0
+passage.questions.24.answers.5.idx:160.0
+passage.questions.24.answers.4.text:Trgovinski sporazum
+passage.questions.24.answers.4.label:0.0
+passage.questions.24.answers.4.idx:159.0
+passage.questions.24.answers.3.text:Izboljšanje odnosov z ZDA
+passage.questions.24.answers.3.label:1.0
+passage.questions.24.answers.3.idx:158.0
+passage.questions.24.answers.2.text:100 milijonov dolarjev pomoči
+passage.questions.24.answers.2.label:0.0
+passage.questions.24.answers.2.idx:157.0
+passage.questions.24.answers.1.text:Boljše odnose z Južno Azijo
+passage.questions.24.answers.1.label:0.0
+passage.questions.24.answers.1.idx:156.0
+passage.questions.24.answers.0.text:Nič
+passage.questions.24.answers.0.label:0.0
+passage.questions.24.answers.0.idx:155.0
+passage.questions.23.question:Kam je 25.marca 2000 šel na obisk predsednik Clinton?
+passage.questions.23.idx:23.0
+passage.questions.23.answers.1.text:V Indijo
+passage.questions.23.answers.1.label:0.0
+passage.questions.23.answers.1.idx:154.0
+passage.questions.23.answers.0.text:V Pakistan
+passage.questions.23.answers.0.label:1.0
+passage.questions.23.answers.0.idx:153.0
+passage.questions.22.question:Ali sta se obrambno ministrstvo in CIA strinjala glede morebitnega obiska predsednika Clintona v Pakistanu?
+passage.questions.22.idx:22.0
+passage.questions.22.answers.1.text:Niso rekli
+passage.questions.22.answers.1.label:0.0
+passage.questions.22.answers.1.idx:152.0
+passage.questions.22.answers.0.text:Ne
+passage.questions.22.answers.0.label:1.0
+passage.questions.22.answers.0.idx:151.0
+passage.questions.21.question:Kaj je vključeval obisk predsednika Clintona v Pakistanu?
+passage.questions.21.idx:21.0
+passage.questions.21.answers.9.text:Srečanje z Mušarafom in ostalimi, osredotočeno na napetosti med Pakistanom in Indijo in nevarnosti jedrskega oboroževanja, vendar tudi pogovor o Bin Ladnu; Mušarafa je potegnil na stran za kratek pogovor iz oči v oči, generala je prosil za pomoč glede Bin Ladna
+passage.questions.21.answers.9.label:1.0
+passage.questions.21.answers.9.idx:150.0
+passage.questions.21.answers.8.text:Nevarnosti jedrskega oboroževanja
+passage.questions.21.answers.8.label:1.0
+passage.questions.21.answers.8.idx:149.0
+passage.questions.21.answers.7.text:Predsednik Clinton se je osredotočil na napetosti med Pakistanom in Indijo in na nevarnosti jedrskega oboroževanja, pogovarjal pa se je tudi o Bin Ladnu
+passage.questions.21.answers.7.label:1.0
+passage.questions.21.answers.7.idx:148.0
+passage.questions.21.answers.6.text:Ameriški odposlanci so se pogovarjali z Mušarafom
+passage.questions.21.answers.6.label:0.0
+passage.questions.21.answers.6.idx:147.0
+passage.questions.21.answers.5.text:Golf in plavanje
+passage.questions.21.answers.5.label:1.0
+passage.questions.21.answers.5.idx:146.0
+passage.questions.21.answers.4.text:Neposreden pritisk na Talibane
+passage.questions.21.answers.4.label:0.0
+passage.questions.21.answers.4.idx:145.0
+passage.questions.21.answers.3.text:Napetosti med Pakistanom in Indijo
+passage.questions.21.answers.3.label:1.0
+passage.questions.21.answers.3.idx:144.0
+passage.questions.21.answers.2.text:Ogled Transilvanije
+passage.questions.21.answers.2.label:0.0
+passage.questions.21.answers.2.idx:143.0
+passage.questions.21.answers.1.text:Pogovore s Talibani
+passage.questions.21.answers.1.label:0.0
+passage.questions.21.answers.1.idx:142.0
+passage.questions.21.answers.0.text:Pogovor o Bin Ladnu
+passage.questions.21.answers.0.label:1.0
+passage.questions.21.answers.0.idx:141.0
+passage.questions.20.question:Katerega dne in v katerem delu leta so ZDA poskusile prepričati Pakistan, da sodeluje z njimi ter vpliva na Talibane?
+passage.questions.20.idx:20.0
+passage.questions.20.answers.4.text:Zgodaj leta 2000,  januarja 2000
+passage.questions.20.answers.4.label:1.0
+passage.questions.20.answers.4.idx:140.0
+passage.questions.20.answers.3.text:25. marca 2000
+passage.questions.20.answers.3.label:0.0
+passage.questions.20.answers.3.idx:139.0
+passage.questions.20.answers.2.text:januarja 2000
+passage.questions.20.answers.2.label:1.0
+passage.questions.20.answers.2.idx:138.0
+passage.questions.20.answers.1.text:marca 2000
+passage.questions.20.answers.1.label:0.0
+passage.questions.20.answers.1.idx:137.0
+passage.questions.20.answers.0.text:»Zgodaj leta 2000«, bolj natančno, »januarja 2000«
+passage.questions.20.answers.0.label:1.0
+passage.questions.20.answers.0.idx:136.0
+passage.questions.2.question:Ali sta se CIA in obrambno ministrstvo strinjala glede nasveta predsedniku Clintonu o njegov nameri, da obišče tako Indijo kot Pakistan?
+passage.questions.2.idx:2.0
+passage.questions.2.answers.3.text:Ne, CIA je menila, da bi to ogrozilo predsednikovo življenje in da Pakistan ni naredil dovolj, da bi si zaslužil predsedniški obisk
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:18.0
+passage.questions.2.answers.2.text:Da, ni bilo nobenega nestrinjanja
+passage.questions.2.answers.2.label:0.0
+passage.questions.2.answers.2.idx:17.0
+passage.questions.2.answers.1.text:Da
+passage.questions.2.answers.1.label:0.0
+passage.questions.2.answers.1.idx:16.0
+passage.questions.2.answers.0.text:Ne
+passage.questions.2.answers.0.label:1.0
+passage.questions.2.answers.0.idx:15.0
+passage.questions.19.question:Koliko mesecev je minilo med srečanjem Karla Inderfurtha, Michaela Sheehana in generala Mušarafa ter poznejšim obiskom predsednika Clintona v Pakistanu?
+passage.questions.19.idx:19.0
+Passage.questions.19.answers.6.text:2 meseca
+passage.questions.19.answers.6.label:1.0
+passage.questions.19.answers.6.idx:135.0
+passage.questions.19.answers.5.text:14
+passage.questions.19.answers.5.label:0.0
+passage.questions.19.answers.5.idx:134.0
+passage.questions.19.answers.6.text:3 meseci
+passage.questions.19.answers.4.label:0.0
+passage.questions.19.answers.4.idx:133.0
+passage.questions.19.answers.6.text:1 mesec
+passage.questions.19.answers.3.label:0.0
+passage.questions.19.answers.3.idx:132.0
+passage.questions.19.answers.6.text:6 mesecev
+passage.questions.19.answers.2.label:0.0
+passage.questions.19.answers.2.idx:131.0
+passage.questions.19.answers.1.text:9
+passage.questions.19.answers.1.label:0.0
+passage.questions.19.answers.1.idx:130.0
+passage.questions.19.answers.0.text:En mesec
+passage.questions.19.answers.0.label:0.0
+passage.questions.19.answers.0.idx:129.0
+passage.questions.18.question:Zakaj si je Mušaraf želel, da predsednik obišče Pakistan?
+passage.questions.18.idx:18.0
+passage.questions.18.answers.4.text:To bi bil znak, da je njegova vlada legitimna
+passage.questions.18.answers.4.label:1.0
+passage.questions.18.answers.4.idx:128.0
+passage.questions.18.answers.3.text:Da pokaže legitimnost svoje vlade
+passage.questions.18.answers.3.label:1.0
+passage.questions.18.answers.3.idx:127.0
+passage.questions.18.answers.2.text:Bila bi »nagrada za pakistansko sodelovanje« in »znak legitimnosti njegove vlade.«
+passage.questions.18.answers.2.label:1.0
+passage.questions.18.answers.2.idx:126.0
+passage.questions.18.answers.1.text:Ker bi mu bil v osebno korist
+passage.questions.18.answers.1.label:1.0
+passage.questions.18.answers.1.idx:125.0
+passage.questions.18.answers.0.text:Mula Omar ga je želel spoznati
+passage.questions.18.answers.0.label:0.0
+passage.questions.18.answers.0.idx:124.0
+passage.questions.17.question:Kdo je bil za to, da predsednik Clinton obišče Pakistan, in kdo je bil proti?
+passage.questions.17.idx:17.0
+passage.questions.17.answers.7.text:Bin Laden
+passage.questions.17.answers.7.label:0.0
+passage.questions.17.answers.7.idx:123.0
+passage.questions.17.answers.6.text:Obrambno ministrstvo je bilo za to, da predsednik Clinton obišče Pakistan, tajna služba in CIA pa sta bili proti 
+passage.questions.17.answers.6.label:1.0
+passage.questions.17.answers.6.idx:122.0
+passage.questions.17.answers.5.text:Tajna služba je bila za
+passage.questions.17.answers.5.label:0.0
+passage.questions.17.answers.5.idx:121.0
+passage.questions.17.answers.4.text:Obrambno ministrstvo je bilo za, tajna služba in CIA pa proti
+passage.questions.17.answers.4.label:1.0
+passage.questions.17.answers.4.idx:120.0
+passage.questions.17.answers.3.text:Tajna služba in CIA sta bili za to, da predsednik Clinton obišče Pakistan, obrambno ministrstvo pa je bilo proti
+passage.questions.17.answers.3.label:0.0
+passage.questions.17.answers.3.idx:119.0
+passage.questions.17.answers.2.text:Mušaraf
+passage.questions.17.answers.2.label:1.0
+passage.questions.17.answers.2.idx:118.0
+passage.questions.17.answers.1.text:Obrambno ministrstvo je menilo, da predsednik Clinton mora obiskati Pakistan, tajna služba in CIA pa sta bili proti
+passage.questions.17.answers.1.label:1.0
+passage.questions.17.answers.1.idx:117.0
+passage.questions.17.answers.0.text:Obrambno ministrstvo in CIA sta bili proti
+passage.questions.17.answers.0.label:0.0
+passage.questions.17.answers.0.idx:116.0
+passage.questions.16.question:Kdaj je predsednik Clinton obiskal Pakistan in o čem sta se pogovarjala Clinton in Mušaraf?
+passage.questions.16.idx:16.0
+passage.questions.16.answers.3.text:25.marca 2000, pogovarjala sta se o napetostih med Pakistanom in Indijo, o nevarnosti jedrskega oboroževanja in o Bin Ladnu
+passage.questions.16.answers.3.label:1.0
+passage.questions.16.answers.3.idx:115.0
+passage.questions.16.answers.2.text:25. marca 2000
+passage.questions.16.answers.2.label:1.0
+passage.questions.16.answers.2.idx:114.0
+passage.questions.16.answers.1.text:januarja 2000
+passage.questions.16.answers.1.label:0.0
+passage.questions.16.answers.1.idx:113.0
+passage.questions.16.answers.0.text:15. marca 2000
+passage.questions.16.answers.0.label:0.0
+passage.questions.16.answers.0.idx:112.0
+passage.questions.15.question:Zakaj so bili CIA, protiteroristični strokovnjaki in tajna služba proti temu, da predsednik obišče Pakistan?
+passage.questions.15.idx:15.0
+passage.questions.15.answers.8.text:Ker ni Bin Ladna
+passage.questions.15.answers.8.label:0.0
+passage.questions.15.answers.8.idx:111.0
+passage.questions.15.answers.7.text:Mušaraf ni bil pripravljen sodelovati
+passage.questions.15.answers.7.label:0.0
+passage.questions.15.answers.7.idx:110.0
+passage.questions.15.answers.6.text:Zato, ker je čudovita dežela
+passage.questions.15.answers.6.label:0.0
+passage.questions.15.answers.6.idx:109.0
+passage.questions.15.answers.5.text:Pakistan si ni zaslužil predsedniškega obiska
+passage.questions.15.answers.5.label:1.0
+passage.questions.15.answers.5.idx:108.0
+passage.questions.15.answers.4.text:Bilo je tvegano
+passage.questions.15.answers.4.label:1.0
+passage.questions.15.answers.4.idx:107.0
+passage.questions.15.answers.3.text:Prepričani so bili, da bi to ogrozilo predsednikovo življenje in trdili, da Pakistan ni naredil dovolj, da bi si zaslužil predsedniški obisk
+passage.questions.15.answers.3.label:1.0
+passage.questions.15.answers.3.idx:106.0
+passage.questions.15.answers.2.text:Ogrozil bi predsednikovo življenje in menili so, da Pakistan ni naredil dovolj, da bi si zaslužil predsedniški obisk
+passage.questions.15.answers.2.label:1.0
+passage.questions.15.answers.2.idx:105.0
+passage.questions.15.answers.1.text:Odposlanca sta poročala, da Pakistan najverjetneje ne bo storil ničesar
+passage.questions.15.answers.1.label:0.0
+passage.questions.15.answers.1.idx:104.0
+passage.questions.15.answers.0.text:Neposreden pritisk na Talibane se je izkazal za neuspešnega
+passage.questions.15.answers.0.label:0.0
+passage.questions.15.answers.0.idx:103.0
+passage.questions.14.question:Kdo bi, po mnenju obrambnega ministrstva, moral obiskati tako Indijo kot Pakistan?
+passage.questions.14.idx:14.0
+passage.questions.14.answers.7.text:Bin Laden
+passage.questions.14.answers.7.label:0.0
+passage.questions.14.answers.7.idx:102.0
+passage.questions.14.answers.6.text:Michael Sheehan
+passage.questions.14.answers.6.label:0.0
+passage.questions.14.answers.6.idx:101.0
+passage.questions.14.answers.5.text:Tajna služba
+passage.questions.14.answers.5.label:0.0
+passage.questions.14.answers.5.idx:100.0
+passage.questions.14.answers.4.text:Predsednik Clinton
+passage.questions.14.answers.4.label:1.0
+passage.questions.14.answers.4.idx:99.0
+passage.questions.14.answers.3.text:Predsednik
+passage.questions.14.answers.3.label:1.0
+passage.questions.14.answers.3.idx:98.0
+passage.questions.14.answers.2.text:Karl Inderfurth
+passage.questions.14.answers.2.label:0.0
+passage.questions.14.answers.2.idx:97.0
+passage.questions.14.answers.1.text:CIA
+passage.questions.14.answers.1.label:0.0
+passage.questions.14.answers.1.idx:96.0
+passage.questions.14.answers.0.text:Bog in predsednik
+passage.questions.14.answers.0.label:0.0
+passage.questions.14.answers.0.idx:95.0
+passage.questions.13.question:Kdo se je srečal z Mušarafom, da se pogovori o sodelovanju med Pakistanom in ZDA?
+passage.questions.13.idx:13.0
+passage.questions.13.answers.7.text:Pomočnik državnega sekretarja in koordinator za protiterorizem na ameriškem obrambnem ministrstvu
+passage.questions.13.answers.7.label:1.0
+passage.questions.13.answers.7.idx:94.0
+passage.questions.13.answers.6.text:Michael Sheehan
+passage.questions.13.answers.6.label:1.0
+passage.questions.13.answers.6.idx:93.0
+passage.questions.13.answers.5.text:Tajna služba
+passage.questions.13.answers.5.label:0.0
+passage.questions.13.answers.5.idx:92.0
+passage.questions.13.answers.4.text:Pomočnik državnega sekretarja, Karl Inderfurth, in koordinator za protiterorizem na ameriškem obrambnem ministrstvu, Michael Sheehan, kot tudi predsednik Clinton
+passage.questions.13.answers.4.label:1.0
+passage.questions.13.answers.4.idx:91.0
+passage.questions.13.answers.3.text:Karl Inderfurth and Michael Sheenan
+passage.questions.13.answers.3.label:1.0
+passage.questions.13.answers.3.idx:90.0
+passage.questions.13.answers.2.text:Predsednik Clinton
+passage.questions.13.answers.2.label:0.0
+passage.questions.13.answers.2.idx:89.0
+passage.questions.13.answers.1.text:Karl Inderfurth
+passage.questions.13.answers.1.label:1.0
+passage.questions.13.answers.1.idx:88.0
+passage.questions.13.answers.0.text:CIA
+passage.questions.13.answers.0.label:0.0
+passage.questions.13.answers.0.idx:87.0
+passage.questions.12.question:Kakšen obisk si je želel Mušaraf?
+passage.questions.12.idx:12.0
+passage.questions.12.answers.6.text:Obisk direktorja CIE
+passage.questions.12.answers.6.label:0.0
+passage.questions.12.answers.6.idx:86.0
+passage.questions.12.answers.5.text:Predsedniški obisk
+passage.questions.12.answers.5.label:1.0
+passage.questions.12.answers.5.idx:85.0
+passage.questions.12.answers.4.text:Predsedniški
+passage.questions.12.answers.4.label:1.0
+passage.questions.12.answers.4.idx:84.0
+passage.questions.12.answers.3.text:Možnost, da bi pakistansko sodelovanje nagradili z obiskom predsednika v marcu
+passage.questions.12.answers.3.label:1.0
+passage.questions.12.answers.3.idx:83.0
+passage.questions.12.answers.2.text:Uradni obisk ameriškega obrambnega ministrstva
+passage.questions.12.answers.2.label:0.0
+passage.questions.12.answers.2.idx:82.0
+passage.questions.12.answers.1.text:Se je srečal z Michaelom Sheehanom o Billu Clintonu
+passage.questions.12.answers.1.label:0.0
+passage.questions.12.answers.1.idx:81.0
+passage.questions.12.answers.0.text:Pomočnik državnega sekretarja, Karl Inderfurth, in koordinator za protiterorizem na ameriškem obrambnem ministrstvu, Michael Sheehan, sta se sestala z generalom Mušarafom
+passage.questions.12.answers.0.label:1.0
+passage.questions.12.answers.0.idx:80.0
+passage.questions.11.question:Kdo je obljubil, da se bo sestal z Mulo Omarjem, da se pogovori o Bin Ladnu?
+passage.questions.11.idx:11.0
+passage.questions.11.answers.2.text:General Mušaraf
+passage.questions.11.answers.2.label:1.0
+passage.questions.11.answers.2.idx:79.0
+passage.questions.11.answers.1.text:Bill Clinton
+passage.questions.11.answers.1.label:0.0
+passage.questions.11.answers.1.idx:78.0
+passage.questions.11.answers.0.text:Michael Sheehan
+passage.questions.11.answers.0.label:0.0
+passage.questions.11.answers.0.idx:77.0
+passage.questions.10.question:Kdo sta bila odposlanca, ki jima je general Mušaraf povedal, da se bo srečal z Mulo Omarjem in nanj pritisnil glede Bin Ladna?
+passage.questions.10.idx:10.0
+passage.questions.10.answers.7.text:Pomočnik državnega sekretarja in koordinator za protiterorizem na ameriškem obrambnem ministrstvu
+passage.questions.10.answers.7.label:1.0
+passage.questions.10.answers.7.idx:76.0
+passage.questions.10.answers.6.text:Karl Inderfurth and Michael Sheenan
+passage.questions.10.answers.6.label:1.0
+passage.questions.10.answers.6.idx:75.0
+passage.questions.10.answers.5.text:Tajna služba in CIA
+passage.questions.10.answers.5.label:0.0
+passage.questions.10.answers.5.idx:74.0
+passage.questions.10.answers.4.text:Odposlanca sta bila pomočnik državnega sekretarja, Karl Inderfurth, in koordinator za protiterorizem na ameriškem obrambnem ministrstvu, Michael Sheehan
+passage.questions.10.answers.4.label:1.0
+passage.questions.10.answers.4.idx:73.0
+passage.questions.10.answers.3.text:Tajna služba
+passage.questions.10.answers.3.label:0.0
+passage.questions.10.answers.3.idx:72.0
+passage.questions.10.answers.2.text:Pomočnik državnega sekretarja, Karl Inderfurth, in koordinator za protiterorizem na ameriškem obrambnem ministrstvu, Michael Sheehan
+passage.questions.10.answers.2.label:1.0
+passage.questions.10.answers.2.idx:71.0
+passage.questions.10.answers.1.text:Odposlanca sta bila Mula Omar in Mušaraf
+passage.questions.10.answers.1.label:0.0
+passage.questions.10.answers.1.idx:70.0
+passage.questions.10.answers.0.text:Obrambno ministrstvo
+passage.questions.10.answers.0.label:1.0
+passage.questions.10.answers.0.idx:69.0
+passage.questions.1.question:S kom se je nameraval srečati Mušaraf, da se pogovori o Bin Ladnu, po sestanku z ameriškim pomočnikom državnega sekretarja in koordinatorjem za protiterorizem na ameriškem obrambnem ministrstvu?
+passage.questions.1.idx:1.0
+passage.questions.1.answers.5.text:Mulo Omarjem
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:14.0
+passage.questions.1.answers.4.text:Oddelkom za protiterorizem
+passage.questions.1.answers.4.label:1.0
+passage.questions.1.answers.4.idx:13.0
+passage.questions.1.answers.3.text:Michaelom Sheehanom
+passage.questions.1.answers.3.label:0.0
+passage.questions.1.answers.3.idx:12.0
+passage.questions.1.answers.2.text:Karlom Inderfurthom
+passage.questions.1.answers.2.label:0.0
+passage.questions.1.answers.2.idx:11.0
+passage.questions.1.answers.1.text:Predsednikom Clintonom
+passage.questions.1.answers.1.label:0.0
+passage.questions.1.answers.1.idx:10.0
+passage.questions.1.answers.0.text:Romunsko policijo ali tajno službo
+passage.questions.1.answers.0.label:0.0
+passage.questions.1.answers.0.idx:9.0
+passage.questions.0.question:Kaj je vključevalo intenzivno prizadevanje, da prepričajo Pakistan?
+passage.questions.0.idx:0
+passage.questions.0.answers.8.text:Prepričati Pakistan, da uporabi svoj vpliv pri Talibanih v zameno za možnost predsedniškega obiska v marcu, ki bi bil nagrada za pakistansko sodelovanje
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:8.0
+passage.questions.0.answers.7.text:Povečan obseg trgovanja s Pakistanom
+passage.questions.0.answers.7.label:0.0
+passage.questions.0.answers.7.idx:7.0
+passage.questions.0.answers.6.text:Papirnate čeke
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:6.0
+passage.questions.0.answers.5.text:Predsedniški obisk v marcu
+passage.questions.0.answers.5.label:0.0
+passage.questions.0.answers.5.idx:5.0
+passage.questions.0.answers.4.text:Predsednik Clinton je ponudil vse, kar je bilo v njegovi moči, in še več, vključno z izboljšanjem odnosov z ZDA
+passage.questions.0.answers.4.label:1.0
+passage.questions.0.answers.4.idx:4.0
+passage.questions.0.answers.3.text:Srečanje z generalom Mušarafom
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:3.0
+passage.questions.0.answers.2.text:Prošnjo, naj Pakistan pomaga ZDA
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:2.0
+passage.questions.0.answers.1.text:Denarno nagrado
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:1
+passage.questions.0.answers.0.text:Otroke, Gerda ali Doriana Popo
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:0
+idx:0

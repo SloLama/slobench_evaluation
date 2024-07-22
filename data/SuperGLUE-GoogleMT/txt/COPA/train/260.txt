@@ -1,0 +1,6 @@
+choice1:Slavna oseba je policistu ponudila podkupnino.
+choice2:Zvezdnica je tožila policista.
+idx:260
+label:0
+premise:Policist je potegnil slavno osebo.
+question:effect

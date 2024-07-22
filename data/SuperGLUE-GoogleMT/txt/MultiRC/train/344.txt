@@ -1,0 +1,99 @@
+version:1.1
+passage.text:(Financial Times) - Vse večja količina osebnih podatkov, ki jih lahko pridobijo računalniški programi, ki spremljajo, kako ljudje uporabljajo Facebook, je pokazala obsežna akademska študija. Takšni programi lahko zaznajo nerazkrite zasebne podatke, kot so spolnost uporabnikov Facebooka, navade uživanja drog in celo to, ali so se njihovi starši ločili, ko so bili mladi, kaže študija univerzitetnih akademikov v Cambridgeu. V eni največjih tovrstnih študij so znanstveniki iz univerzitetne ekipe za psihometrijo in raziskovalno središče, ki ga financira Microsoft, analizirali podatke 58.000 uporabnikov Facebooka, da bi napovedali lastnosti in druge informacije, ki niso bile podane v njihovih profilih. Algoritmi so bili 88 odstotkov natančni pri napovedovanju moške spolne usmerjenosti, 95 odstotkov rase in 80 odstotkov religije in politične nagnjenosti. Tudi tipi osebnosti in čustvena stabilnost so bili napovedani z natančnostjo od 62 do 75 odstotkov. Facebook ni želel komentirati. Študija poudarja naraščajočo zaskrbljenost glede družbenih omrežij in tega, kako je mogoče izkopati podatkovne poti za občutljive informacije, tudi kadar ljudje skušajo informacije o sebi ohraniti zasebne. Manj kot 5 odstotkov uporabnikov, za katere so predvidevali, da so geji, je bilo na primer povezanih z eksplicitno gejevskimi skupinami. Michal Kosinksi, eden od avtorjev poročila, je za Financial Times dejal, da bi podjetja lahko tehnike univerze zlahka ponovila, da bi sklepala o osebnih lastnostih, ki jih oseba ne želi deliti, na primer o spolni usmerjenosti ali političnih stališčih: &quot;Uporabili smo zelo preproste in splošne metode. Podjetja za trženje in internetna podjetja bi lahko porabila veliko več časa in virov ter tako dobila veliko večjo natančnost kot mi. &quot; Prejšnji teden se je EU dogovorila, da bo znižala predloge za korenito prenovo ureditve zasebnosti podatkov. Ta poteza odraža nepripravljenost vlad, da ovirajo internetna podjetja, ki bi lahko spodbudila gospodarsko rast, in sledi ostremu lobiranju tehnoloških podjetij, vključno s Facebookom in Googlom. Osebni podatki so postali velik posel. Wonga, spletni posojilodajalec v Združenem kraljestvu, v nekaj sekundah izda kreditne odločbe na podlagi tisoč informacij, vključno s prosilčevim Facebook profilom. Tesco, veriga supermarketov, je ta mesec začela uporabljati nakupovalno zgodovino svojih strank za prodajo ciljanega spletnega oglaševanja. Poročilo je razkrilo tudi nekaj nepričakovanih povezav - na primer ljudje, ki so imeli radi &quot;kodrasti krompirček&quot; z višjim IQ, medtem ko tisti, ki imajo radi Facebook stran &quot;Sliding on Floors With Your Socks On&quot;, verjetno ne bodo uživali mamil.
+passage.questions.2.question:Ali je Facebook komentiral zmožnost računalniških programov, ki spremljajo, kako ljudje uporabljajo Facebook, da zaznajo nerazkrite zasebne podatke?
+passage.questions.2.idx:3981.0
+passage.questions.2.answers.9.text:Je zavrnil
+passage.questions.2.answers.9.label:1.0
+passage.questions.2.answers.9.idx:21178.0
+passage.questions.2.answers.8.text:Imel komentarje
+passage.questions.2.answers.8.label:0,0
+passage.questions.2.answers.8.idx:21177.0
+passage.questions.2.answers.7.text:Naraščajoče skrbi
+passage.questions.2.answers.7.label:0,0
+passage.questions.2.answers.7.idx:21176.0
+passage.questions.2.answers.6.text:Da
+passage.questions.2.answers.6.label:0,0
+passage.questions.2.answers.6.idx:21175.0
+passage.questions.2.answers.5.text:Nisem komentiral
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:21174.0
+passage.questions.2.answers.4.text:Zavrnil komentar
+passage.questions.2.answers.4.label:1.0
+passage.questions.2.answers.4.idx:21173.0
+passage.questions.2.answers.3.text:Na omejen način
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:21172.0
+passage.questions.2.answers.2.text:Facebook ni želel komentirati
+passage.questions.2.answers.2.label:1.0
+passage.questions.2.answers.2.idx:21171.0
+passage.questions.2.answers.11.text:Dala komentar
+passage.questions.2.answers.11.label:0,0
+passage.questions.2.answers.11.idx:21180.0
+passage.questions.2.answers.10.text:Ne, ni
+passage.questions.2.answers.10.label:1.0
+passage.questions.2.answers.10.idx:21179.0
+passage.questions.2.answers.1.text:Socialna omrežja
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:21170.0
+passage.questions.2.answers.0.text:Da, brez zapisa
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:21169.0
+passage.questions.1.question:Glede na študijo Cambridge Academics, kako natančno so lahko napovedovali spolnost?
+passage.questions.1.idx:3980.0
+passage.questions.1.answers.6.text:50 odstotkov
+passage.questions.1.answers.6.label:0,0
+passage.questions.1.answers.6.idx:21168.0
+passage.questions.1.answers.5.text:88% natančno
+passage.questions.1.answers.5.label:1.0
+passage.questions.1.answers.5.idx:21167.0
+passage.questions.1.answers.4.text:95% natančno
+passage.questions.1.answers.4.label:0,0
+passage.questions.1.answers.4.idx:21166.0
+passage.questions.1.answers.3.text:88 odstotkov
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:21165.0
+passage.questions.1.answers.2.text:80% natančno
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:21164.0
+passage.questions.1.answers.1.text:Zelo netočno
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:21163.0
+passage.questions.1.answers.0.text:5% natančno
+passage.questions.1.answers.0.label:0,0
+passage.questions.1.answers.0.idx:21162.0
+passage.questions.0.question:Kaj pomeni dogovor EU o znižanju predlogov za korenito prenovo ureditve zasebnosti podatkov?
+passage.questions.0.idx:3979
+passage.questions.0.answers.9.text:Ne verjamejo, da razmere povzročajo težave
+passage.questions.0.answers.9.label:0,0
+passage.questions.0.answers.9.idx:21160.0
+passage.questions.0.answers.8.text:Nenaklonjenost oviram internetnih podjetij
+passage.questions.0.answers.8.label:1.0
+passage.questions.0.answers.8.idx:21159.0
+passage.questions.0.answers.7.text:Menijo, da gre za preveč držav
+passage.questions.0.answers.7.label:0,0
+passage.questions.0.answers.7.idx:21158.0
+passage.questions.0.answers.6.text:Ta poteza odraža nepripravljenost vlad, da ovirajo internetna podjetja, ki bi lahko spodbudila gospodarsko rast
+passage.questions.0.answers.6.label:1.0
+passage.questions.0.answers.6.idx:21157.0
+passage.questions.0.answers.5.text:Moč lobiranja pri podjetjih, kot sta Face Book in Google
+passage.questions.0.answers.5.label:0,0
+passage.questions.0.answers.5.idx:21156.0
+passage.questions.0.answers.4.text:Niso prepričani, kako uveljaviti omejitve
+passage.questions.0.answers.4.label:0,0
+passage.questions.0.answers.4.idx:21155.0
+passage.questions.0.answers.3.text:Nenaklonjenost oviranju poslovne in gospodarske rasti
+passage.questions.0.answers.3.label:1.0
+passage.questions.0.answers.3.idx:21154.0
+passage.questions.0.answers.2.text:Želja po zmanjšanju poslovne rasti
+passage.questions.0.answers.2.label:0,0
+passage.questions.0.answers.2.idx:21153.0
+passage.questions.0.answers.10.text:Radikalna prenova
+passage.questions.0.answers.10.label:0,0
+passage.questions.0.answers.10.idx:21161.0
+passage.questions.0.answers.1.text:Pomanjkanje prispevkov tehnoloških podjetij
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:21152
+passage.questions.0.answers.0.text:Zasebnost Dayata
+passage.questions.0.answers.0.label:0
+passage.questions.0.answers.0.idx:21151
+idx:344

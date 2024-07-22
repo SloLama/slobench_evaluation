@@ -1,0 +1,132 @@
+version:1.1
+passage.text:Morda se sprašujete, kako lahko ledenik postane tako velik? Zakaj se premakne? To sta dobra vprašanja. V zimskih mesecih padavine padajo kot sneg. Ta trdna oblika vode se kopiči na tleh, dokler so temperature dovolj hladne. Ko se temperatura dvigne, se sneg začne topiti. Zamrznjena voda spremeni stanje v tekoče stanje. Bližje polom poletje ne traja prav dolgo. Če je poletje dovolj dolgo in dovolj toplo, se lahko ves sneg stopi. To se običajno zgodi zdaj. Zemlja je bila pred 12.000 leti nekoliko hladnejša. Posledično se v poletnih mesecih ta količina snega ni stopila. Morda se je stopil le kak centimeter snega. Naslednjo zimo je na tem levem snegu zapadel sneg. Naslednje zime so snežne padavine imele prednost. Iz leta v leto je sneg, ki se ni stopil, postajal vse gostejši. Za palcem za palcem se je sneg začel kopičiti. Skozi dolga leta se je plast za plastjo snega stisnila in spremenila v led.
+passage.questions.8.question:Zakaj se v preteklosti večina snega ni stopila?
+passage.questions.8.idx:2707.0
+passage.questions.8.answers.4.text:Zemlja je bila nekoliko hladnejša
+passage.questions.8.answers.4.label:1.0
+passage.questions.8.answers.4.idx:14323.0
+passage.questions.8.answers.3.text:V preteklosti je bila zima kratka
+passage.questions.8.answers.3.label:0,0
+passage.questions.8.answers.3.idx:14322.0
+passage.questions.8.answers.2.text:V preteklosti je bilo poletje kratko
+passage.questions.8.answers.2.label:1.0
+passage.questions.8.answers.2.idx:14321.0
+passage.questions.8.answers.1.text:Zemlja je bila pred 12.000 leti nekoliko hladnejša, zato se je lahko stopil le kak centimeter snega
+passage.questions.8.answers.1.label:1.0
+passage.questions.8.answers.1.idx:14320.0
+passage.questions.8.answers.0.text:Zemlja je bila nekoliko toplejša
+passage.questions.8.answers.0.label:0,0
+passage.questions.8.answers.0.idx:14319.0
+passage.questions.7.question:Kateri sta dve značilnosti ledenikov?
+passage.questions.7.idx:2706.0
+passage.questions.7.answers.5.text:Velik in kompakten
+passage.questions.7.answers.5.label:1.0
+passage.questions.7.answers.5.idx:14318.0
+passage.questions.7.answers.4.text:Ne premika se
+passage.questions.7.answers.4.label:0,0
+passage.questions.7.answers.4.idx:14317.0
+passage.questions.7.answers.3.text:Ne morejo postati tako veliki
+passage.questions.7.answers.3.label:0,0
+passage.questions.7.answers.3.idx:14316.0
+passage.questions.7.answers.2.text:Majhna in tekoča
+passage.questions.7.answers.2.label:0,0
+passage.questions.7.answers.2.idx:14315.0
+passage.questions.7.answers.1.text:Kako spremeni stanje nazaj v tekoče stanje; kako postaja debelejša in debelejša
+passage.questions.7.answers.1.label:0,0
+passage.questions.7.answers.1.idx:14314.0
+passage.questions.7.answers.0.text:So veliki, se gibljejo in jih zebe
+passage.questions.7.answers.0.label:1.0
+passage.questions.7.answers.0.idx:14313.0
+passage.questions.6.question:Kako se sneg spremeni v led?
+passage.questions.6.idx:2705.0
+passage.questions.6.answers.4.text:Ko se je temperatura dvignila, se je sneg začel topiti
+passage.questions.6.answers.4.label:0,0
+passage.questions.6.answers.4.idx:14312.0
+passage.questions.6.answers.3.text:Z zamrzovanjem poleti
+passage.questions.6.answers.3.label:0,0
+passage.questions.6.answers.3.idx:14311.0
+passage.questions.6.answers.2.text:Leto za letom je sneg, ki se ni stopil, postajal vse gostejši in se kopičil, stiskal in spreminjal v led
+passage.questions.6.answers.2.label:1.0
+passage.questions.6.answers.2.idx:14310.0
+passage.questions.6.answers.1.text:Sloj za plastjo snega se je stisnil in spremenil v led
+passage.questions.6.answers.1.label:1.0
+passage.questions.6.answers.1.idx:14309.0
+passage.questions.6.answers.0.text:Tako se naberejo in stisnejo
+passage.questions.6.answers.0.label:1.0
+passage.questions.6.answers.0.idx:14308.0
+passage.questions.5.question:So temperature ledenikov vedno enake?
+passage.questions.5.idx:2704.0
+passage.questions.5.answers.2.text:Temperature rastejo in padajo glede na letni čas
+passage.questions.5.answers.2.label:1.0
+passage.questions.5.answers.2.idx:14307.0
+passage.questions.5.answers.1.text:Da
+passage.questions.5.answers.1.label:0,0
+passage.questions.5.answers.1.idx:14306.0
+passage.questions.5.answers.0.text:Ne
+passage.questions.5.answers.0.label:1.0
+passage.questions.5.answers.0.idx:14305.0
+passage.questions.4.question:Je bilo pred 12.000 leti poleti snega?
+passage.questions.4.idx:2703.0
+passage.questions.4.answers.1.text:Mogoče
+passage.questions.4.answers.1.label:0,0
+passage.questions.4.answers.1.idx:14304.0
+passage.questions.4.answers.0.text:Da
+passage.questions.4.answers.0.label:1.0
+passage.questions.4.answers.0.idx:14303.0
+passage.questions.3.question:Kako nastajajo ledeniki?
+passage.questions.3.idx:2702.0
+passage.questions.3.answers.4.text:Ko se temperatura dvigne, se sneg začne topiti
+passage.questions.3.answers.4.label:0,0
+passage.questions.3.answers.4.idx:14302.0
+passage.questions.3.answers.3.text:S taljenjem ledu
+passage.questions.3.answers.3.label:0,0
+passage.questions.3.answers.3.idx:14301.0
+passage.questions.3.answers.2.text:Pozimi padavine padajo kot sneg, nato pa se ta trdna oblika vode kopiči na tleh, dokler temperature ostanejo dovolj hladne
+passage.questions.3.answers.2.label:1.0
+passage.questions.3.answers.2.idx:14300.0
+passage.questions.3.answers.1.text:Sloj za plastjo snega se je stisnil in spremenil v led
+passage.questions.3.answers.1.label:1.0
+passage.questions.3.answers.1.idx:14299.0
+passage.questions.3.answers.0.text:Z nabiranjem snega
+passage.questions.3.answers.0.label:1.0
+passage.questions.3.answers.0.idx:14298.0
+passage.questions.2.question:Kakšno podnebje je potrebno za oblikovanje ledenikov.
+passage.questions.2.idx:2701.0
+passage.questions.2.answers.3.text:Hladnejše vreme in krajša poletja
+passage.questions.2.answers.3.label:1.0
+passage.questions.2.answers.3.idx:14297.0
+passage.questions.2.answers.2.text:Toplo
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:14296.0
+passage.questions.2.answers.1.text:Hladno
+passage.questions.2.answers.1.label:1.0
+passage.questions.2.answers.1.idx:14295.0
+passage.questions.2.answers.0.text:Vroče
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:14294.0
+passage.questions.1.question:V kakšnem stanju mora biti voda, da postane sneg?
+passage.questions.1.idx:2700.0
+passage.questions.1.answers.3.text:Trdno
+passage.questions.1.answers.3.label:1.0
+passage.questions.1.answers.3.idx:14293.0
+passage.questions.1.answers.2.text:Hlapi
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:14292.0
+passage.questions.1.answers.1.text:Tekočina
+passage.questions.1.answers.1.label:0,0
+passage.questions.1.answers.1.idx:14291.0
+passage.questions.1.answers.0.text:Zamrznjeno
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:14290.0
+passage.questions.0.question:Ali se ledenik hitro oblikuje?
+passage.questions.0.idx:2699
+passage.questions.0.answers.2.text:Ne, oblikujejo se dolga leta, saj rastejo centimeter za centimetrom naenkrat
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:14289.0
+passage.questions.0.answers.1.text:Da
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:14288
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:14287
+idx:244

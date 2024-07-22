@@ -1,0 +1,48 @@
+version:1.1
+passage.text:Prejšnji večer, 12. marca, - je monotonost taborišča nepričakovano motil prihod iz smeri Salt Lake Cityja konjenika, popolnoma izčrpanega od utrujenosti in mraza, ki se je izkazal za drugega Gospod Kane, čigar misija pri mormonih po Kaliforniji je bila vojski takrat popolnoma neznana. Naslednje jutro se je predstavil guvernerju, sprejeli so ga kot gosta in ves dan ostal z njim v konferenci. Kakšen je bil značaj njihove komunikacije, ni znano, razen na podlagi sklepov iz njenih rezultatov. Ko ga je Kane naslednji dan predstavil sodniku Eckelsu, mu je razstavil pisma, ki jih je imel od predsednika, in druga pisma tudi Brighama Younga, ki ga je pooblastil za pogajalca v obstoječih težavah. Generalu Johnstonu ni pokazal ničesar; niti guverner po vedenju v taborišču tega častnika ali katero koli drugo osebo ni seznanil z namenom svojega posla. Vsem pa je bilo očitno, da so se mormonski voditelji, zavedajoči se svoje nezmožnosti, da se uprejo sili, s katero bi bili napadeni takoj, ko se sneg stopi na gorah, zavzeli za to, kar je bil gospod Kane agent, da prek guvernerja, če je le mogoče, zagotovi odškodnino za pretekla kazniva dejanja, ob upoštevanju priznanja njegove oblasti.
+passage.questions.2.question:S koliko ljudmi je bil gospod Kane vpleten v svoje sestanke?
+passage.questions.2.idx:1084.0
+passage.questions.2.answers.5.text:Tri
+passage.questions.2.answers.5.label:1.0
+passage.questions.2.answers.5.idx:5558.0
+passage.questions.2.answers.4.text:2.
+passage.questions.2.answers.4.label:0,0
+passage.questions.2.answers.4.idx:5557.0
+passage.questions.2.answers.3.text:1.
+passage.questions.2.answers.3.label:0,0
+passage.questions.2.answers.3.idx:5556.0
+passage.questions.2.answers.2.text:Vsi
+passage.questions.2.answers.2.label:0,0
+passage.questions.2.answers.2.idx:5555.0
+passage.questions.2.answers.1.text:5.
+passage.questions.2.answers.1.label:0,0
+passage.questions.2.answers.1.idx:5554.0
+passage.questions.2.answers.0.text:4.
+passage.questions.2.answers.0.label:0,0
+passage.questions.2.answers.0.idx:5553.0
+passage.questions.1.question:Katera oseba je vedela za namen gospoda Kanea za prihod v mesto?
+passage.questions.1.idx:1083.0
+passage.questions.1.answers.2.text:General Johnston
+passage.questions.1.answers.2.label:0,0
+passage.questions.1.answers.2.idx:5552.0
+passage.questions.1.answers.1.text:Sodnik Eckels
+passage.questions.1.answers.1.label:1.0
+passage.questions.1.answers.1.idx:5551.0
+passage.questions.1.answers.0.text:Guverner
+passage.questions.1.answers.0.label:1.0
+passage.questions.1.answers.0.idx:5550.0
+passage.questions.0.question:Je bila javnost kdaj izrecno seznanjena s poslanstvom ali poslom gospoda Kanea?
+passage.questions.0.idx:1082
+passage.questions.0.answers.3.text:Da
+passage.questions.0.answers.3.label:0,0
+passage.questions.0.answers.3.idx:5549.0
+passage.questions.0.answers.2.text:Njegov namen je bil skrit
+passage.questions.0.answers.2.label:1.0
+passage.questions.0.answers.2.idx:5548.0
+passage.questions.0.answers.1.text:Da, ko se je sneg stopil
+passage.questions.0.answers.1.label:0
+passage.questions.0.answers.1.idx:5547
+passage.questions.0.answers.0.text:Ne
+passage.questions.0.answers.0.label:1.
+passage.questions.0.answers.0.idx:5546
+idx:91
