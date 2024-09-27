@@ -1,7 +1,7 @@
 {
     "model": {
         "library": "nemo",
-        "path": "/models/trained_models/opt_trained.nemo"
+        "path": "/path/to/the/model/gams.nemo"
     },
     "prompt_template": "Uporabnik: {instruction}\n\n{input}\nAsistent:",
     "benchmarks": [

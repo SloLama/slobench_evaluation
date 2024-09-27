@@ -1,7 +1,7 @@
 {
     "model": {
         "library": "huggingface",
-        "path": "/models/hf_models/opt_chat.nemo",
+        "path": "cjvt/GaMS-1B-Chat",
         "chat_model": true
     },
     "prompt_template": "{instruction}\n\n{input}",
