@@ -1,3 +1,5 @@
+import json
+
 import pandas as pd
 import numpy as np
 
@@ -9,6 +11,7 @@ DATA_DIR = "../data"
 HT_DATA_DIR = os.path.join(DATA_DIR, "SuperGLUE-HumanT", "csv")
 MT_DATA_DIR = os.path.join(DATA_DIR, "SuperGLUE-GoogleMT", "csv")
 NLI_DATA_DIR = os.path.join(DATA_DIR, "SI-NLI")
+TEST_DATA_DIR = os.path.join(DATA_DIR, "test_data")
 
 
 class SloBenchDataLoader:
@@ -441,3 +444,222 @@ class NLILoader(SloBenchDataLoader):
             return np.argmax(label_counts)
 
         return None
+
+
+class YesNoQuestionTestLoader(YesNoQuestionDataLoader):
+    def load_data(self):
+        f_test = open(os.path.join(TEST_DATA_DIR, "jsonl", f"{self.dataset}.jsonl"), "r")
+        test_data = None
+
+        for line in f_test:
+            instance = json.loads(line)
+            if test_data is None:
+                test_data = {key: [] for key in instance.keys()}
+
+            for key, value in instance.items():
+                test_data[key].append(value)
+
+        test_data = pd.DataFrame(test_data)
+        print(f"Number of test examples: {test_data.shape[0]}")
+        self.eval_data = test_data
+
+        train_data = None
+
+        if self.ht:
+            train_data = pd.read_csv(os.path.join(HT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
+
+            print(f"Number of human translated train examples: {train_data.shape[0]}")
+
+        if self.mt:
+            train_data_mt = pd.read_csv(os.path.join(MT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
+
+            print(f"Number of machine translated train examples: {train_data_mt.shape[0]}")
+
+            if train_data is not None:
+                # Replace machine translated rows with human translated ones
+                train_data_mt = train_data_mt.drop(train_data.index)
+                train_data = pd.concat([train_data, train_data_mt], axis=0)
+
+            else:
+                train_data = train_data_mt
+
+        self.train_data = train_data
+
+
+class BoolQTestLoader(YesNoQuestionTestLoader):
+    def __init__(self, human_translated, machine_translated, seed, prompt_template, prefix):
+        super().__init__(human_translated, machine_translated, seed, prompt_template, prefix)
+        self.dataset = "BoolQ"
+        self.prompt_creator = BoolQPromptCreator(prompt_template, prefix)
+        self.rng = np.random.default_rng(seed)
+
+
+class CBTestLoader(YesNoQuestionTestLoader):
+    def __init__(self, human_translated, machine_translated, seed, prompt_template, prefix):
+        super().__init__(human_translated, machine_translated, seed, prompt_template, prefix)
+        self.dataset = "CB"
+        self.prompt_creator = CBPromptCreator(prompt_template, prefix)
+        self.rng = np.random.default_rng(seed)
+
+    def _get_majority_label(self, example_labels):
+        label_counts = np.zeros(3, dtype=int)
+        for label in example_labels:
+            label_counts[label] += 1
+
+        n_max = sum(label_counts == max(label_counts))
+
+        if n_max == 1:
+            return np.argmax(label_counts)
+
+        return None
+
+
+class COPATestLoader(COPADataLoader):
+    def load_data(self):
+        f_test = open(os.path.join(TEST_DATA_DIR, "jsonl", f"{self.dataset}.jsonl"), "r")
+        test_data = None
+
+        for line in f_test:
+            instance = json.loads(line)
+            if test_data is None:
+                test_data = {key: [] for key in instance.keys()}
+
+            for key, value in instance.items():
+                test_data[key].append(value)
+
+        test_data = pd.DataFrame(test_data)
+        print(f"Number of test examples: {test_data.shape[0]}")
+        self.eval_data = test_data
+
+        train_data = None
+
+        if self.ht:
+            train_data = pd.read_csv(os.path.join(HT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
+
+            print(f"Number of human translated train examples: {train_data.shape[0]}")
+
+        if self.mt:
+            train_data_mt = pd.read_csv(os.path.join(MT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
+
+            print(f"Number of machine translated train examples: {train_data_mt.shape[0]}")
+
+            if train_data is not None:
+                # Replace machine translated rows with human translated ones
+                train_data_mt = train_data_mt.drop(train_data.index)
+                train_data = pd.concat([train_data, train_data_mt], axis=0)
+
+            else:
+                train_data = train_data_mt
+
+        self.train_data = train_data
+
+
+class MultiRCTestLoader(MultiRCDataLoader):
+    def load_data(self):
+        f_test = open(os.path.join(TEST_DATA_DIR, "jsonl", f"{self.dataset}.jsonl"), "r")
+        test_data = {}
+
+        for line in f_test:
+            instance = json.loads(line)
+            instance_idx = instance["idx"]
+            test_data[instance_idx] = {"Questions": {}, "Answers": {}, "Labels": {}}
+
+            passage_data = instance["passage"]
+            test_data[instance_idx]["Text"] = passage_data["text"]
+
+            for question in passage_data["questions"]:
+                question_idx = question["idx"]
+                test_data[instance_idx]["Questions"][question_idx] = question["question"]
+
+                test_data[instance_idx]["Answers"][question_idx] = {}
+                for answer in question["answers"]:
+                    answer_idx = answer["idx"]
+                    test_data[instance_idx]["Answers"][question_idx][answer_idx] = answer["text"]
+
+        print(f"Number of test examples: {len(test_data)}")
+        self.eval_data = test_data
+
+        train_data = None
+
+        if self.ht:
+            train_data = pd.read_csv(os.path.join(HT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
+            train_data = super()._parse_df(train_data, None)
+
+            print(f"Number of human translated train examples: {len(train_data)}")
+
+        if self.mt:
+            train_data_mt = pd.read_csv(os.path.join(MT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
+            print(f"Number of machine translated train examples: {train_data_mt.shape[0]}")
+
+            train_data = super()._parse_df(train_data_mt, train_data)
+
+        self.train_data = train_data
+
+    def _get_few_shot_examples(self, instance, k):
+        if k > 0:
+            raise ValueError("Invalid number of examples (k). Only supported k value is 0.", k)
+
+        return super()._get_few_shot_examples(instance, k)
+
+    def _eval_iter(self):
+        for idx in self.eval_data.keys():
+            for question_idx in self.eval_data[idx]["Questions"].keys():
+                example = {
+                    "idx": (idx, question_idx),
+                    "Text": self.eval_data[idx]["Text"],
+                    "Question": self.eval_data[idx]["Questions"][question_idx],
+                    "Answers": {i: answer for (i, answer) in
+                                enumerate(self.eval_data[idx]["Answers"][question_idx].values())},
+                    "answer_idx": list(self.eval_data[idx]["Answers"][question_idx].keys())
+                }
+
+                yield example
+
+
+class RTETestLoader(YesNoQuestionTestLoader):
+    def __init__(self, human_translated, machine_translated, seed, prompt_template, prefix):
+        super().__init__(human_translated, machine_translated, seed, prompt_template, prefix)
+        self.dataset = "RTE"
+        self.prompt_creator = RTEPromptCreator(prompt_template, prefix)
+        self.rng = np.random.default_rng(seed)
+
+
+class WSCTestLoader(YesNoQuestionDataLoader):
+    def __init__(self, human_translated, machine_translated, seed, prompt_template, prefix):
+        super().__init__(human_translated, machine_translated, seed, prompt_template, prefix)
+        self.dataset = "WSC"
+        self.prompt_creator = WSCPromptCreator(prompt_template, prefix)
+        self.rng = np.random.default_rng(seed)
+
+    def load_data(self):
+        f_test = open(os.path.join(TEST_DATA_DIR, "jsonl", f"{self.dataset}.jsonl"), "r")
+        test_data = None
+
+        for line in f_test:
+            instance = json.loads(line)
+            if test_data is None:
+                test_data = {key: [] for key in instance.keys() if key != "target"}
+                for key in instance["target"].keys():
+                    test_data[key] = []
+
+            for key, value in instance.items():
+                if key == "target":
+                    for subkey, subvalue in value.items():
+                        test_data[subkey].append(subvalue)
+                else:
+                    test_data[key].append(value)
+
+        test_data = pd.DataFrame(test_data)
+        print(f"Number of test examples: {test_data.shape[0]}")
+        self.eval_data = test_data
+
+        train_data = pd.read_csv(os.path.join(HT_DATA_DIR, self.dataset, "train.csv"), index_col="idx")
+        print(f"Number of human train examples: {train_data.shape[0]}")
+
+        self.train_data = train_data
+
+
+class NLITestDataLoader(NLILoader):
+    def load_data(self):
+        self.train_data = pd.read_csv(os.path.join(NLI_DATA_DIR, "train.tsv"), sep="\t", index_col="pair_id")
+        self.eval_data = pd.read_csv(os.path.join(TEST_DATA_DIR, "tsv", "test_without_labels.tsv"), sep="\t")
