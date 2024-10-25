@@ -20,7 +20,7 @@ SUPPORTED_DATASETS = [
 ]
 
 
-def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBenchDataLoader:
+def load_data(dataset, load_ht, load_mt, seed, prompt_template, instruction, prefix) -> SloBenchDataLoader:
     assert (
             dataset=="NLI" or load_ht or load_mt
     ), "Loading MT and HT are both set to False. At least one must be set to True."
@@ -37,21 +37,21 @@ def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBe
             "Ignoring config values for machine translated and human translated data as WSC includes only human translated data.")
 
     if dataset == "BoolQ":
-        data_loader = BoolQDataLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = BoolQDataLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "MultiRC":
-        data_loader = MultiRCDataLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = MultiRCDataLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "WSC":
-        data_loader = WSCDataLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, prefix=prefix)
+        data_loader = WSCDataLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, instruction=instruction, prefix=prefix)
     elif dataset == "WSC_generative":
-        data_loader = WSCGenerativeDataLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, prefix=prefix)
+        data_loader = WSCGenerativeDataLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, instruction=instruction, prefix=prefix)
     elif dataset == "COPA":
-        data_loader = COPADataLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = COPADataLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "RTE":
-        data_loader = RTEDataLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = RTEDataLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "CB":
-        data_loader = CBDataLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = CBDataLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "NLI":
-        data_loader = NLILoader(None, None, seed, prompt_template, prefix)
+        data_loader = NLILoader(None, None, seed, prompt_template, instruction, prefix)
 
     print(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -84,6 +84,7 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
 def run_engine(config, output_file):
     f_out = open(output_file, "w")
 
+    # load model
     model_library = config["model"]["library"]
     if model_library == "nemo":
         model = NemoModelWrapper(config["model"]["path"])
@@ -94,71 +95,88 @@ def run_engine(config, output_file):
     model.print_model_info(f_out)
     benchmarks = config["benchmarks"]
 
-    default_template = "{instruction}\n\n{input}\n"
-    prompt_template = config.get("prompt_template", default_template)
+    # get prompt schemes
+    with open(config["prompt_scheme_file"], "r", encoding="utf-8") as scheme_file:
+        prompt_schemes = json.load(scheme_file)
 
+    # go through all included benchmarks
     for benchmark in benchmarks:
         dataset = benchmark["dataset"]
         assert (
                 dataset in SUPPORTED_DATASETS
         ), f'{dataset} is not supported. Currently supported datasets: {SUPPORTED_DATASETS}'
 
-        f_out.write(f"---------------------- {dataset} evaluation ----------------------\n")
-
         load_ht = benchmark.get("human_translated", False)
         load_mt = benchmark.get("machine_translated", False)
         seed = benchmark.get("seed", 42)
-        prefix = benchmark.get("prefix", None)
-        data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix)
 
-        evaluator = get_evaluator(dataset, f_out)
+        f_out.write(f"---------------------- {dataset} evaluation ----------------------\n\n")
 
-        true_labels = data_loader.get_eval_labels()
+        # go through all included prompt schemes
+        for scheme_id, prompt_scheme in enumerate(prompt_schemes[dataset]):
+            f_out.write(f"============== prompt scheme {scheme_id} ==============\n")
 
-        evaluator.compute_general_stats(true_labels)
+            default_template = "{instruction}\n\n{input}\n"
+            prompt_template = prompt_scheme.get("prompt_template", default_template)
+            instruction = prompt_scheme["instruction"]
+            prefix = prompt_scheme.get("prefix", None)
 
-        k_list = benchmark["k"]
-        evaluation_params = benchmark["evaluation"]
+            data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template, instruction, prefix)
 
-        model.set_generation_params(dataset)
+            evaluator = get_evaluator(dataset, f_out)
 
-        for k in k_list:
-            if k != 0:
-                majority_labels = []
-                last_labels = []
-            predictions = []
+            true_labels = data_loader.get_eval_labels()
 
-            for prompt, majority_label, last_label in tqdm(data_loader.get_eval_data_iterator(k), total=data_loader.eval_data_size()):
-                if k > 0:
-                    majority_labels.append(majority_label)
-                    last_labels.append(last_label)
+            evaluator.compute_general_stats(true_labels)
 
-                try:
-                    prediction = model.generate(prompt)
+            k_list = prompt_scheme["k"]
+            evaluation_params = benchmark["evaluation"]
 
-                except:
-                    warnings.warn(f"An error occured while generating response for the following prompt: {prompt}")
-                    prediction = "An error ocured during generation. Invalid prediction."
+            model.set_generation_params(dataset)
 
-                predictions.append(prediction)
+            for k in k_list:
+                if k != 0:
+                    majority_labels = []
+                    last_labels = []
+                predictions = []
 
-            print(f"Running {k}-shot evaluation for {dataset}")
-            f_out.write(f"\nResults for {k}-shot experiment:\n")
-            if k == 0:
-                evaluator.evaluate(evaluation_params, predictions, true_labels)
-            else:
-                try:
-                    majority_labels = np.array(majority_labels)
-                except:
-                    majority_labels = np.array(majority_labels, dtype=object)
-                if k == 1 and dataset != "WSC_generative":
-                    last_labels = None
+                for prompt, majority_label, last_label in tqdm(data_loader.get_eval_data_iterator(k), total=data_loader.eval_data_size()):
+                    if k > 0:
+                        majority_labels.append(majority_label)
+                        last_labels.append(last_label)
+
+                    try:
+                        prediction = model.generate(prompt)
+
+                    except:
+                        warnings.warn(f"An error occured while generating response for the following prompt: {prompt}")
+                        prediction = "An error ocured during generation. Invalid prediction."
+
+                    predictions.append(prediction)
+
+                print(f"Running {k}-shot evaluation for {dataset}")
+                f_out.write(f"\nFull prompt scheme used:\n")
+                for key, value in prompt_scheme.items():
+                    f_out.write(f"{str(key)} : {str(value)}\n")
+                f_out.write("\n")
+                f_out.write(f"\nResults for {k}-shot experiment:\n")
+                if k == 0:
+                    evaluator.evaluate(evaluation_params, predictions, true_labels)
                 else:
                     try:
-                        last_labels = np.array(last_labels)
+                        majority_labels = np.array(majority_labels)
                     except:
-                        last_labels = np.array(last_labels, dtype=object)
-                evaluator.evaluate(evaluation_params, predictions, true_labels, majority_labels, last_labels)
+                        majority_labels = np.array(majority_labels, dtype=object)
+                    if k == 1 and dataset != "WSC_generative":
+                        last_labels = None
+                    else:
+                        try:
+                            last_labels = np.array(last_labels)
+                        except:
+                            last_labels = np.array(last_labels, dtype=object)
+                    evaluator.evaluate(evaluation_params, predictions, true_labels, majority_labels, last_labels)
+
+            f_out.write("=========================================\n\n")
 
         f_out.write("------------------------------------------------------\n\n")
 

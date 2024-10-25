@@ -1,0 +1,40 @@
+{
+    "BoolQ": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Podano je besedilo in vpra\u0161anje, ki se navezuje na to besedilo. Odgovori na vpra\u0161anje zgolj z Da ali Ne. Odgovora ne pojasnjuj.",
+            "prefix": {
+                "passage": "Besedilo: ",
+                "question": "Vpra\u0161anje: ",
+                "output": "Odgovor: "
+            }
+        },
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Podano je besedilo in pripadajo\u010de vpra\u0161anje. Na vpra\u0161anje odgovori samo z Da ali Ne, brez dodatnih pojasnil.",
+            "prefix": {
+                "passage": "Besedilo: ",
+                "question": "Vpra\u0161anje: ",
+                "output": "Odgovor: "
+            }
+        },
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Preberi besedilo in vpra\u0161anje, ki se na to besedilo nana\u0161a. Odgovori s preprostim Da ali Ne, brez razlage.",
+            "prefix": {
+                "passage": "Besedilo: ",
+                "question": "Vpra\u0161anje: ",
+                "output": "Odgovor: "
+            }
+        }
+    ]
+}
