@@ -1,8 +1,7 @@
 {
     "model": {
-        "library": "huggingface",
-        "path": "cjvt/GaMS-1B-Chat",
-        "chat_model": true
+        "library": "nemo",
+        "path": "/path/to/the/model/gams.nemo"
     },
     "prompt_scheme_file": "prompt_templates_example.json",
     "benchmarks": [
