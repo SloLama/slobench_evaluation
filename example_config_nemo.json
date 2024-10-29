@@ -3,7 +3,7 @@
         "library": "nemo",
         "path": "/path/to/the/model/gams.nemo"
     },
-    "prompt_scheme_file": "prompt_templates_example.json",
+    "prompt_scheme_file": "prompt_schemes_example.json",
     "benchmarks": [
         {
             "dataset": "BoolQ",

@@ -57,7 +57,7 @@ To run the offline evaluation of the model, use following command:
 cd src
 python evaluation_engine.py --config=<path_to_the_config_file> --output_file=<path_to_the_output_file>
 ```
-The config file should be JSON file containing all the necessary parameters for the experiment. See `example_config_hf.json` for running Huggingface models and `example_config_nemo.json` for running NeMo models.
+The config file should be JSON file containing all the necessary parameters for the experiment. See `example_config_hf.json` for running Huggingface models and `example_config_nemo.json` for running NeMo models. There should also be a separate JSON file which stores the prompt schemes for all the prompts to be used in the experiment. See `prompt_schemes_example.json` for an example.
 
 Output file is a txt file, where experiment results will be stored.
 
@@ -74,8 +74,8 @@ Here's a detailed description of each field in the provided JSON configuration:
    - **`path`**: The local path of the model or the model ID in HuggingFace's model hub.
    - **`chat_model`** (only for Huggingface models): Indicates whether the model is a chat model.
 
-2. **`prompt_template`**: 
-   - Template for how input data is formatted before being sent to the model. Needs to contain `{instruction}` and `{input}` placeholders for the task's specific instruction and input text.
+2. **`prompt_scheme_file`**:
+   - File for storing the prompt schemes of all prompts that are to be used in the evaluation process.
 
 3. **`benchmarks`**:
 An array of benchmark tasks used to evaluate the model. Each benchmark entry evaluates the model on a specific dataset.
@@ -85,22 +85,16 @@ An array of benchmark tasks used to evaluate the model. Each benchmark entry eva
 1. **`dataset`**:
    - Name of the dataset used for evaluation (e.g., `BoolQ`, `MultiRC`, etc.).
 
-4. **`human_translated`** (`true/false`): 
+2. **`human_translated`** (`true/false`): 
    - Specifies whether human-translated version of train and validation set is loaded.
 
-5. **`machine_translated`** (`true/false`): 
+3. **`machine_translated`** (`true/false`): 
    - Specifies whether the machine-translated version of train and validation set is loaded. If `human_translated` is also set to True, machine translated examples that are also human translated are replaced with human translations.
 
-6. **`seed`**: 
+4. **`seed`**: 
    - Random seed value used for reproducibility. Ensures that sampling of few-shot examples is consistent over multiple runs.
 
-7. **`k`**: 
-   - Refers to the number of examples or shots used in few-shot learning. `k=0` means zero-shot learning, while higher values like `k=1`, `k=2`, etc., refer to one-shot, two-shot, and so on. Experiment is run separately for each value of `k` in the list.
-
-8. **`prefix`**: 
-   - Defines how different parts of the dataset are prefixed in the input prompt for the model. Each dataset has its own structure, so the prefixes correspond to the dataset's fields. Check example configs for dataset specific fields.
-
-9. **`evaluation`**: 
+5. **`evaluation`**: 
    - Defines the evaluation parameters.
 
    - **`majority_correlation`** (`true/false`): If `true`, the evaluation will check how the model's output correlates with the majority label in few-shot examples.
@@ -111,6 +105,22 @@ An array of benchmark tasks used to evaluate the model. Each benchmark entry eva
      - **`type`**: Specifies how the confidence interval is calculated. Common types include `std` (standard deviation) and `quantile_bootstrap` (sampling-based method).
      - **`alpha`**: Confidence level, typically 0.95 (95% confidence interval).
      - **`bootstrap_samples`**: Number of samples to use when using bootstrapping for CI calculation (e.g., `1000` samples).
+
+#### Prompt scheme file fields
+
+Below are the fields required in the JSON file containing the prompt schemes:
+
+1. **`k`**: 
+   - Refers to the number of examples or shots used in few-shot learning. `k=0` means zero-shot learning, while higher values like `k=1`, `k=2`, etc., refer to one-shot, two-shot, and so on. Experiment is run separately for each value of `k` in the list.
+
+2. **`prompt_template`**: 
+   - Template for how input data is formatted before being sent to the model. Needs to contain `{instruction}` and `{input}` placeholders for the task's specific instruction and input text.
+
+3. **`instruction`**:
+The task-specific instruction to be inserted into the {instruction} placeholder in the prompt template. Acts as the first and main part of the prompt that explains the nature of the task to the model.
+
+4. **`prefix`**: 
+   - To be inserted into the {input} placeholder in the prompt template. Defines how different parts of the dataset are prefixed in the input prompt for the model. Each dataset has its own structure, so the prefixes correspond to the dataset's fields. Check example configs for dataset specific fields.
 
 ### Online test submission
 

@@ -4,7 +4,7 @@
         "path": "cjvt/GaMS-1B-Chat",
         "chat_model": true
     },
-    "prompt_scheme_file": "prompt_templates_example.json",
+    "prompt_scheme_file": "prompt_schemes_example.json",
     "benchmarks": [
         {
             "dataset": "BoolQ",
