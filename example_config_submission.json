@@ -3,70 +3,50 @@
         "library": "huggingface",
         "path": "cjvt/GaMS-1B-Chat"
     },
-    "prompt_template": "{instruction}\n\n{input}",
+    "prompt_scheme_file": "prompt_schemes_example.json",
     "benchmarks": [
         {
             "dataset": "BoolQ",
             "human_translated": true,
-            "machine_translated": false,
+            "machine_translated": true,
             "seed": 5,
-            "k": 0,
-            "prefix": {
-                "passage": "Besedilo: ",
-                "question": "Vprašanje: ",
-                "output": "Odgovor: "
-            }
-        },
-        {
-            "dataset": "CB",
-            "human_translated": true,
-            "machine_translated": false,
-            "seed": 5,
-            "k": 3,
-            "prefix": {
-                "premise": "Besedilo: ",
-                "hypothesis": "Hipoteza: ",
-                "output": "Odgovor: "
-            }
-        },
-        {
-            "dataset": "COPA",
-            "human_translated": true,
-            "machine_translated": false,
-            "seed": 5,
-            "k": 4,
-            "prefix": {
-                "premise": "Trditev: ",
-                "choice1": "Hipoteza 1: ",
-                "choice2": "Hipoteza 2: ",
-                "output": "Številka hipoteze, ki predstavlja {question}: ",
-                "question_effect": "posledico dane trditve",
-                "question_cause": "vzrok za dano trditev"
+            "evaluation": {
+                "majority_correlation": true,
+                "last_example_correlation": true,
+                "ci": {
+                    "type": "std",
+                    "alpha": 0.95
+                }
             }
         },
         {
             "dataset": "MultiRC",
             "human_translated": true,
-            "machine_translated": false,
+            "machine_translated": true,
             "seed": 5,
-            "k": 0,
-            "prefix": {
-                "text": "Besedilo: ",
-                "question": "Vprašanje: ",
-                "answers": "Seznam možnih odgovorov:\n",
-                "output": "Številke pravilnih odgovorov: "
-            }
-        },
-        {
-            "dataset": "RTE",
-            "human_translated": true,
-            "machine_translated": false,
-            "seed": 5,
-            "k": 5,
-            "prefix": {
-                "premise": "Besedilo: ",
-                "hypothesis": "Hipoteza: ",
-                "output": "Odgovor: "
+            "evaluation": {
+                "majority_correlation": true,
+                "last_example_correlation": true,
+                "ci": {
+                    "correlation": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "exact_match": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "per_question_f1": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "all_answers_f1": {
+                        "type": "quantile_bootstrap",
+                        "alpha": 0.95,
+                        "bootstrap_samples": 1000,
+                        "seed": 42
+                    }
+                }
             }
         },
         {
@@ -74,23 +54,118 @@
             "human_translated": true,
             "machine_translated": false,
             "seed": 5,
-            "k": 1,
-            "prefix": {
-                "text": "Besedilo: ",
-                "question": "Vprašanje: ",
-                "output": "Odgovor: "
+            "evaluation": {
+                "majority_correlation": true,
+                "last_example_correlation": true,
+                "ci": {
+                    "type": "std",
+                    "alpha": 0.95
+                }
+            }
+        },
+        {
+            "dataset": "WSC_generative",
+            "human_translated": true,
+            "machine_translated": false,
+            "seed": 5,
+            "evaluation": {
+                "majority_correlation": false,
+                "last_example_correlation": true,
+                "ci": {
+                    "type": "std",
+                    "alpha": 0.95
+                }
+            }
+        },
+        {
+            "dataset": "COPA",
+            "human_translated": true,
+            "machine_translated": false,
+            "seed": 5,
+            "evaluation": {
+                "majority_correlation": true,
+                "last_example_correlation": true,
+                "ci": {
+                    "type": "std",
+                    "alpha": 0.95
+                }
+            }
+        },
+        {
+            "dataset": "RTE",
+            "human_translated": true,
+            "machine_translated": true,
+            "seed": 5,
+            "evaluation": {
+                "majority_correlation": true,
+                "last_example_correlation": true,
+                "ci": {
+                    "type": "std",
+                    "alpha": 0.95
+                }
+            }
+        },
+        {
+            "dataset": "CB",
+            "human_translated": true,
+            "machine_translated": false,
+            "seed": 5,
+            "evaluation": {
+                "majority_correlation": true,
+                "last_example_correlation": true,
+                "ci": {
+                    "correlation": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "accuracy": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "f1": {
+                        "type": "quantile_bootstrap",
+                        "alpha": 0.95,
+                        "bootstrap_samples": 1000,
+                        "seed": 42
+                    }
+                }
             }
         },
         {
             "dataset": "NLI",
             "human_translated": true,
-            "machine_translated": false,
             "seed": 5,
-            "k": 4,
-            "prefix": {
-                "premise": "Predpostavka: ",
-                "hypothesis": "Hipoteza: ",
-                "output": "Odgovor: "
+            "evaluation": {
+                "majority_correlation": true,
+                "last_example_correlation": true,
+                "ci": {
+                    "correlation": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "accuracy": {
+                        "type": "std",
+                        "alpha": 0.95
+                    },
+                    "precision": {
+                        "type": "quantile_bootstrap",
+                        "alpha": 0.95,
+                        "bootstrap_samples": 1000,
+                        "seed": 42
+                    },
+                    "recall": {
+                        "type": "quantile_bootstrap",
+                        "alpha": 0.95,
+                        "bootstrap_samples": 1000,
+                        "seed": 42
+                    },
+                    "f1": {
+                        "type": "quantile_bootstrap",
+                        "alpha": 0.95,
+                        "bootstrap_samples": 1000,
+                        "seed": 42
+                    }
+                }
             }
         }
     ]

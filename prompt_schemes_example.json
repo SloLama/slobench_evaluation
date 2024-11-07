@@ -1,0 +1,118 @@
+{
+    "BoolQ": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Podano besedilo vklju\u010duje vpra\u0161anje. Na vpra\u0161anje odgovori samo z Da ali Ne, brez dodatnih razlag.",
+            "prefix": {
+                "passage": "Besedilo: ",
+                "question": "Vpra\u0161anje: ",
+                "output": "Odgovor: "
+            }
+        }
+    ],
+    "CB": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Imamo dano besedilo, hipotezo in vpra\u0161anje glede resni\u010dnosti te hipoteze. Odgovori z Dr\u017ei, \u010de je hipoteza skladna z besedilom, z Ne dr\u017ei, \u010de ni, in z Ne vemo, \u010de resni\u010dnosti hipoteze ni mogo\u010de ugotoviti iz besedila.",
+            "prefix": {
+                "premise": "Besedilo: ",
+                "hypothesis": "Hipoteza: ",
+                "output": "Odgovor: "
+            }
+        }
+    ],
+    "COPA": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Predstavljena je trditev in dve hipotezi. Ugotovi, katera hipoteza je %§%REPLACE%§% za dano trditev. Napi\u0161i le \u0161tevilko ustrezne hipoteze.",
+            "prefix": {
+                "premise": "Trditev: ",
+                "choice1": "Hipoteza 1: ",
+                "choice2": "Hipoteza 2: ",
+                "output": "\u0160tevilka hipoteze, ki predstavlja {question}: ",
+                "question_effect": "posledico dane trditve",
+                "question_cause": "vzrok za dano trditev"
+            }
+        }
+    ],
+    "MultiRC": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Predstavljeno je besedilo, vpra\u0161anje vezano na to besedilo in seznam mo\u017enih odgovorov. Izpi\u0161i \u0161tevilke pravilnih odgovorov.",
+            "prefix": {
+                "text": "Besedilo: ",
+                "question": "Vpra\u0161anje: ",
+                "answers": "Seznam mo\u017enih odgovorov:\n",
+                "output": "\u0160tevilke pravilnih odgovorov: "
+            }
+        }
+    ],
+    "RTE": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Preveri, \u010de hipoteza dr\u017ei glede na dano besedilo. \u010ce je resni\u010dna, napi\u0161i Dr\u017ei, \u010de ni, napi\u0161i Ne dr\u017ei.",
+            "prefix": {
+                "premise": "Besedilo: ",
+                "hypothesis": "Hipoteza: ",
+                "output": "Odgovor: "
+            }
+        }
+    ],
+    "WSC": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Podano je besedilo z dvema ozna\u010denima besednima zvezama z **. Vpra\u0161anje je, \u010de se ena zveza nana\u0161a na drugo. Odgovori z Da ali Ne.",
+            "prefix": {
+                "text": "Besedilo: ",
+                "question": "Vpra\u0161anje: ",
+                "output": "Odgovor: "
+            }
+        }
+    ],
+    "WSC_generative": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Besedilo vsebuje ozna\u010deno besedno zvezo z **. Navedeno je tudi vpra\u0161anje, kateri samostalnik se nana\u0161a na to besedno zvezo. Odgovori samo z ustreznim samostalnikom.",
+            "prefix": {
+                "text": "Besedilo: ",
+                "question": "Vpra\u0161anje: ",
+                "output": "Odgovor: "
+            }
+        }
+    ],
+    "NLI": [
+        {
+            "k": [
+                3
+            ],
+            "prompt_template": "{instruction}\n\n{input}",
+            "instruction": "Preveri, ali hipoteza izhaja iz predpostavke (Sosledje), se ji upira (Nasprotovanje) ali pa ni mogo\u010de dolo\u010diti povezave (Nevtralnost). Izberi eno od mo\u017enosti: \"Sosledje\", \"Nasprotovanje\" ali \"Nevtralnost\".",
+            "prefix": {
+                "premise": "Predpostavka: ",
+                "hypothesis": "Hipoteza: ",
+                "output": "Odgovor: "
+            }
+        }
+    ]
+}
