@@ -1,8 +1,10 @@
 import json
 from argparse import ArgumentParser
 import warnings
+from math import ceil
 
 from tqdm import tqdm
+from torch.utils.data import DataLoader as Torch_DL
 
 from submission_creators import *
 from data_loaders import *
@@ -19,7 +21,7 @@ SUPPORTED_DATASETS = [
 ]
 
 
-def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBenchDataLoader:
+def load_data(dataset, load_ht, load_mt, seed, prompt_template, instruction, prefix) -> SloBenchDataLoader:
     assert (
             dataset=="NLI" or load_ht or load_mt
     ), "Loading MT and HT are both set to False. At least one must be set to True."
@@ -36,19 +38,19 @@ def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBe
             "Ignoring config values for machine translated and human translated data as WSC includes only human translated data.")
 
     if dataset == "BoolQ":
-        data_loader = BoolQTestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = BoolQTestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "MultiRC":
-        data_loader = MultiRCTestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = MultiRCTestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "WSC":
-        data_loader = WSCTestLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, prefix=prefix)
+        data_loader = WSCTestLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, instruction=instruction, prefix=prefix)
     elif dataset == "COPA":
-        data_loader = COPATestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = COPATestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "RTE":
-        data_loader = RTETestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = RTETestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "CB":
-        data_loader = CBTestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = CBTestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "NLI":
-        data_loader = NLITestDataLoader(None, None, seed, prompt_template, prefix)
+        data_loader = NLITestDataLoader(None, None, seed, prompt_template, instruction, prefix)
 
     print(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -77,19 +79,26 @@ def get_creator(dataset, output_dir) -> SlobenchSubmissionCreator:
 
 
 def prepare_submission(config, output_dir):
+    # get batch size
+    batch_size = config["batch_size"]
+
+    # load model
     model_library = config["model"]["library"]
     if model_library == "nemo":
         model = NemoModelWrapper(config["model"]["path"])
     elif model_library == "huggingface":
-        model = HFModelWrapper(config["model"]["path"], config["model"].get("chat", True))
+        model = HFModelWrapper(config["model"]["path"], config["model"].get("chat", True), batch_size=batch_size)
+    elif model_library.lower() == "vllm":
+        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("chat", True))
     else:
-        raise ValueError('Unsupported model library. Only supported libraries are "nemo" and "huggingface"')
+        raise ValueError('Unsupported model library. Only supported libraries are "nemo", "huggingface", and "vllm"')
     benchmarks = config["benchmarks"]
 
     os.makedirs(output_dir, exist_ok=True)
 
-    default_template = "{instruction}\n\n{input}\n"
-    prompt_template = config.get("prompt_template", default_template)
+    # get prompt schemes
+    with open(config["prompt_scheme_file"], "r", encoding="utf-8") as scheme_file:
+        prompt_schemes = json.load(scheme_file)
 
     for benchmark in benchmarks:
         dataset = benchmark["dataset"]
@@ -102,24 +111,39 @@ def prepare_submission(config, output_dir):
         load_ht = benchmark.get("human_translated", False)
         load_mt = benchmark.get("machine_translated", False)
         seed = benchmark.get("seed", 42)
-        prefix = benchmark.get("prefix", None)
-        data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix)
-        k = benchmark.get("k", 0)
+
+        # load the prompt scheme. For submission preparation, only the first scheme for every benchmark in the file
+        # will be used
+        default_template = "{instruction}\n\n{input}\n"
+        prompt_template = prompt_schemes[dataset][0].get("prompt_template", default_template)
+        instruction = prompt_schemes[dataset][0]["instruction"]
+        prefix = prompt_schemes[dataset][0].get("prefix", None)
+        data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template, instruction, prefix)
+        k = prompt_schemes[dataset][0]["k"][0]
 
         creator = get_creator(dataset, output_dir)
         predictions = []
 
+        # build list of prompts
+        prompts = []
+        for prompt, _, _ in data_loader.get_eval_data_iterator(k):
+            prompts.append(prompt)
+
+        # sort prompts by length and split into batches
+        sorted_prompts = sorted(prompts, key=lambda x: len(x))
+        batches = Torch_DL(sorted_prompts, batch_size=batch_size)
+
         print(f"Processing {dataset} predictions ...")
-        for prompt, _, _ in tqdm(data_loader.get_eval_data_iterator(k),
-                                                       total=data_loader.eval_data_size()):
+        for batch in tqdm(batches, total=ceil(data_loader.eval_data_size()/batch_size)):
             try:
-                prediction = model.generate(prompt)
+                batch_prediction = model.generate(batch)
 
-            except:
-                warnings.warn(f"An error occured while generating response for the following prompt: {prompt}")
-                prediction = "An error ocured during generation. Invalid prediction."
+            except Exception as ex:
+                warnings.warn(f"An error occured while generating responses for one of the batches: {ex}")
 
-            predictions.append(prediction)
+                batch_prediction = ["An error ocured during generation. Invalid prediction."] * batch_size
+
+            predictions.extend(batch_prediction)
 
         data_info = [creator.get_data_info(instance) for instance in data_loader._eval_iter()]
 
