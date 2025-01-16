@@ -30,8 +30,6 @@ class ModelWrapper:
             length_params = {"min_length": 0, "max_length": 20}
         elif dataset in ["RTE", "CB", "NLI"]:
             length_params = {"min_length": 0, "max_length": 10}
-        elif dataset == "EnSl_translation":
-            length_params = {"min_length": 0, "max_length": 100}
 
         # Add some end strings
         if dataset in ["BoolQ", "WSC"]:
@@ -49,8 +47,6 @@ class ModelWrapper:
             sampling_params["end_strings"] += ["Sosledje", "sosledje", "Nasprotovanje", "nasprotovanje", "Nevtralnost",
                                                "nevtralnost", "Sosledje.", "sosledje.", "Nasprotovanje.",
                                                "nasprotovanje.", "Nevtralnost.", "nevtralnost."]
-        elif dataset == "EnSl_translation":
-            sampling_params["end_strings"] += ["\n"]
 
         self.generation_params = {
             "sampling_params": sampling_params,
@@ -165,12 +161,12 @@ class HFModelWrapper(ModelWrapper):
 
 
 class VLLMModelWrapper(ModelWrapper):
-    def __init__(self, model_path, chat_model):
+    def __init__(self, model_path, chat_model, **kwargs):
         super().__init__(model_path)
         self.chat_model = chat_model
 
         from vllm import LLM
-        self.model = LLM(model_path)
+        self.model = LLM(model_path, **kwargs)
 
     def print_model_info(self, f_out):
         super().print_model_info(f_out)
