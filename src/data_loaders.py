@@ -7,7 +7,7 @@ import os
 
 from prompt_creation import *
 
-DATA_DIR = "../data"
+DATA_DIR = "/data"
 HT_DATA_DIR = os.path.join(DATA_DIR, "SuperGLUE-HumanT", "csv")
 MT_DATA_DIR = os.path.join(DATA_DIR, "SuperGLUE-GoogleMT", "csv")
 NLI_DATA_DIR = os.path.join(DATA_DIR, "SI-NLI")

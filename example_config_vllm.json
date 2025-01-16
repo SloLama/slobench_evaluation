@@ -2,7 +2,7 @@
     "model": {
         "library": "vllm",
         "path": "cjvt/GaMS-1B-Chat",
-        "chat_model": true
+        "apply_chat_template": true
     },
     "prompt_scheme_file": "prompt_schemes_example.json",
     "batch_size": 128,

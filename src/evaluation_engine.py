@@ -94,9 +94,9 @@ def run_engine(config, output_file):
     if model_library == "nemo":
         model = NemoModelWrapper(config["model"]["path"])
     elif model_library == "huggingface":
-        model = HFModelWrapper(config["model"]["path"], config["model"].get("chat", True), batch_size)
+        model = HFModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True), batch_size)
     elif model_library.lower() == "vllm":
-        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("chat", True))
+        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True))
     else:
         raise ValueError('Unsupported model library. Only supported libraries are "nemo", "huggingface", and "vllm"')
     model.print_model_info(f_out)
@@ -156,9 +156,8 @@ def run_engine(config, output_file):
 
                     prompts.append(prompt)
 
-                # sort prompts by length and split into batches
-                sorted_prompts = sorted(prompts, key=lambda x: len(x))
-                batches = Torch_DL(sorted_prompts, batch_size=batch_size)
+                # Split prompts into batches
+                batches = Torch_DL(prompts, batch_size=batch_size)
 
                 # run prediction for every batch
                 for batch in tqdm(batches, total=ceil(data_loader.eval_data_size()/batch_size)):
@@ -167,7 +166,7 @@ def run_engine(config, output_file):
 
                     except Exception as ex:
                         warnings.warn(f"An error occured while generating responses for one of the batches: {ex}")
-                        batch_prediction = ["An error ocured during generation. Invalid prediction."] * batch_size
+                        batch_prediction = ["An error ocured during generation. Invalid prediction."] * len(batch)
 
                     predictions.extend(batch_prediction)
 

@@ -3,9 +3,6 @@ import os
 
 class ModelWrapper:
     def __init__(self, model_path):
-        if not os.path.exists(model_path):
-            raise ValueError("Invalid model path", model_path)
-
         self.model_path = model_path
 
     def print_model_info(self, f_out):
@@ -65,6 +62,9 @@ class NemoModelWrapper(ModelWrapper):
         from nemo.collections.nlp.models.language_modeling.megatron_gpt_model import MegatronGPTModel
         from pytorch_lightning.trainer.trainer import Trainer
         from nemo.collections.nlp.parts.nlp_overrides import NLPDDPStrategy, NLPSaveRestoreConnector
+
+        if not os.path.exists(model_path):
+            raise ValueError("Invalid model path", model_path)
 
         super().__init__(model_path)
 
