@@ -75,6 +75,7 @@ Here's a detailed description of each field in the provided JSON configuration:
    - **`library`**: Specifies the library used to load the model. Two options are `huggingface` and `nemo`
    - **`path`**: The local path of the model or the model ID in HuggingFace's model hub.
    - **`apply_chat_template`** (only for Huggingface and vLLM models): Indicates whether the chat template is applied
+   - **`model_kwargs`** (vLLM models only): Additional arguments that can be specified in vLLM [LLM initialization](https://docs.vllm.ai/en/stable/dev/offline_inference/llm.html)
 
 2. **`prompt_scheme_file`**:
    - File for storing the prompt schemes of all prompts that are to be used in the evaluation process.
@@ -136,6 +137,21 @@ python prepare_test_submission.py --config=<path_to_the_config_file> --output_di
 The config file should be JSON file containing all the necessary parameters for the submission. See `example_config_submission.json`. All the fields are the same as for evaluation config, except that `evaluation` field is discarded, `k` should now be integer instead of array of integers and `human_translated` and `machine_translated` fields now apply only to train set.
 
 Output dir is a directory where submission files (one file for each dataset) will be stored.
+
+### Model parallelism using vLLM
+
+Curently model parallelism is supported only for vLLM models. To split the model across multiple GPUs, specify `tensor_parallel_size` under `model_kwargs`. Example of config for splitting Goggle's Gemma 2 over 4 GPUs:
+
+```json
+"model": {
+     "library": "vllm",
+     "path": "google/gemma-2-9b",
+     "apply_chat_template": false,
+     "model_kwargs": {
+         "tensor_parallel_size": 4
+     }
+ }
+```
 
 ---
 
