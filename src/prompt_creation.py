@@ -545,3 +545,28 @@ class NLIPromptCreator(SloBenchPromptCreator):
                 labels.append(2)
 
         return np.array(labels)
+
+
+class EnSlTranslationPromptCreator(SloBenchPromptCreator):
+    def __init__(self, prompt_template, instruction, prefix):
+        super().__init__(prompt_template, instruction, prefix)
+
+        if self.prefix is None:
+            self.prefix = {
+                "en_text": "",
+                "output": ""
+            }
+        else:
+            assert "en_text" in self.prefix, "EnSlTranslation prefix dictionary must contain 'en_text' key"
+            assert "output" in self.prefix, "EnSlTranslation prefix dictionary must contain 'output' key"
+
+    def get_instruction(self, instance):
+        return self.instruction
+
+    def example_to_prompt(self, example):
+        prompt = self.prefix["en_text"] + example
+
+        if self.prefix["output"] != "":
+            prompt += self.prefix["output"]
+
+        return prompt

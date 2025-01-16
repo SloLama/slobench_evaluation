@@ -30,6 +30,8 @@ class ModelWrapper:
             length_params = {"min_length": 0, "max_length": 20}
         elif dataset in ["RTE", "CB", "NLI"]:
             length_params = {"min_length": 0, "max_length": 10}
+        elif dataset == "EnSl_translation":
+            length_params = {"min_length": 0, "max_length": 100}
 
         # Add some end strings
         if dataset in ["BoolQ", "WSC"]:
@@ -47,6 +49,8 @@ class ModelWrapper:
             sampling_params["end_strings"] += ["Sosledje", "sosledje", "Nasprotovanje", "nasprotovanje", "Nevtralnost",
                                                "nevtralnost", "Sosledje.", "sosledje.", "Nasprotovanje.",
                                                "nasprotovanje.", "Nevtralnost.", "nevtralnost."]
+        elif dataset == "EnSl_translation":
+            sampling_params["end_strings"] += ["\n"]
 
         self.generation_params = {
             "sampling_params": sampling_params,

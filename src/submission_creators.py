@@ -16,7 +16,7 @@ class SlobenchSubmissionCreator:
 
         prediction_strings = self.write_predictions(predictions, data_info)
 
-        file_ending = ".txt" if self.dataset == "NLI" else ".jsonl"
+        file_ending = ".txt" if self.dataset in ["NLI", "EnSl_translation"] else ".jsonl"
         f_out = open(os.path.join(self.output_dir, self.dataset + file_ending), "w")
         for line in prediction_strings:
             f_out.write(line + "\n")
@@ -306,3 +306,23 @@ class NLISubmissionCreator(SlobenchSubmissionCreator):
 
     def write_predictions(self, predictions, data_info):
         return [self.pred_to_string(pred) for pred in predictions]
+
+
+class EnSloTranslationSubmissionCreator(SlobenchSubmissionCreator):
+    def __init__(self, output_dir):
+        super().__init__(output_dir)
+        self.dataset = "EnSl_translation"
+
+    def transform_predictions(self, predictions):
+        def transform_prediction(pred):
+            pred = pred.split("\n")
+
+            return pred[0].rstrip()
+
+        return list(map(transform_prediction, predictions))
+
+    def get_data_info(self, instance):
+        return None
+
+    def write_predictions(self, predictions, data_info):
+        return predictions
