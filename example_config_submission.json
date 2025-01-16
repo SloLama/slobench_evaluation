@@ -4,6 +4,7 @@
         "path": "cjvt/GaMS-1B-Chat"
     },
     "prompt_scheme_file": "prompt_schemes_example.json",
+    "batch_size": 8,
     "benchmarks": [
         {
             "dataset": "BoolQ",

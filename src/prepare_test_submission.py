@@ -1,8 +1,10 @@
 import json
 from argparse import ArgumentParser
 import warnings
+from math import ceil
 
 from tqdm import tqdm
+from torch.utils.data import DataLoader as Torch_DL
 
 from submission_creators import *
 from data_loaders import *
@@ -41,7 +43,7 @@ def load_data(dataset, load_ht, load_mt, seed, prompt_template, instruction, pre
     elif dataset == "MultiRC":
         data_loader = MultiRCTestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "WSC":
-        data_loader = WSCTestLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, prefix=prefix)
+        data_loader = WSCTestLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, instruction=instruction, prefix=prefix)
     elif dataset == "COPA":
         data_loader = COPATestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "RTE":
@@ -82,13 +84,19 @@ def get_creator(dataset, output_dir) -> SlobenchSubmissionCreator:
 
 
 def prepare_submission(config, output_dir):
+    # get batch size
+    batch_size = config["batch_size"]
+
+    # load model
     model_library = config["model"]["library"]
     if model_library == "nemo":
         model = NemoModelWrapper(config["model"]["path"])
     elif model_library == "huggingface":
-        model = HFModelWrapper(config["model"]["path"], config["model"].get("chat", True))
+        model = HFModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True), batch_size=batch_size)
+    elif model_library.lower() == "vllm":
+        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True))
     else:
-        raise ValueError('Unsupported model library. Only supported libraries are "nemo" and "huggingface"')
+        raise ValueError('Unsupported model library. Only supported libraries are "nemo", "huggingface", and "vllm"')
     benchmarks = config["benchmarks"]
 
     # get prompt schemes
@@ -110,29 +118,38 @@ def prepare_submission(config, output_dir):
         load_mt = benchmark.get("machine_translated", False)
         seed = benchmark.get("seed", 42)
 
-        prompt_scheme = prompt_schemes[dataset]
+        # load the prompt scheme. For submission preparation, only the first scheme for every benchmark in the file
+        # will be used
+        prompt_scheme = prompt_schemes[dataset][0]
         default_template = "{instruction}\n\n{input}\n"
         prompt_template = prompt_scheme.get("prompt_template", default_template)
         instruction = prompt_scheme["instruction"]
         prefix = prompt_scheme.get("prefix", None)
-
         data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template, instruction, prefix)
-        k = prompt_scheme.get("k", 0)
+        k = prompt_schemes[dataset][0]["k"][0]
 
         creator = get_creator(dataset, output_dir)
         predictions = []
 
+        # build list of prompts
+        prompts = []
+        for prompt, _, _ in data_loader.get_eval_data_iterator(k):
+            prompts.append(prompt)
+
+        # Split data into batches
+        batches = Torch_DL(prompts, batch_size=batch_size)
+
         print(f"Processing {dataset} predictions ...")
-        for prompt, _, _ in tqdm(data_loader.get_eval_data_iterator(k),
-                                                       total=data_loader.eval_data_size()):
+        for batch in tqdm(batches, total=ceil(data_loader.eval_data_size()/batch_size)):
             try:
-                prediction = model.generate(prompt)
+                batch_prediction = model.generate(batch)
 
-            except:
-                warnings.warn(f"An error occured while generating response for the following prompt: {prompt}")
-                prediction = "An error ocured during generation. Invalid prediction."
+            except Exception as ex:
+                warnings.warn(f"An error occured while generating responses for one of the batches: {ex}")
 
-            predictions.append(prediction)
+                batch_prediction = ["An error ocured during generation. Invalid prediction."] * batch_size
+
+            predictions.extend(batch_prediction)
 
         data_info = [creator.get_data_info(instance) for instance in data_loader._eval_iter()]
 

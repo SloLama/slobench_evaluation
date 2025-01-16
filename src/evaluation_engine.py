@@ -1,8 +1,10 @@
 import json
 from argparse import ArgumentParser
 import warnings
+from math import ceil
 
 from tqdm import tqdm
+from torch.utils.data import DataLoader as Torch_DL
 
 from evaluators import *
 from data_loaders import *
@@ -84,14 +86,19 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
 def run_engine(config, output_file):
     f_out = open(output_file, "w")
 
+    # get batch size
+    batch_size = config["batch_size"]
+
     # load model
     model_library = config["model"]["library"]
     if model_library == "nemo":
         model = NemoModelWrapper(config["model"]["path"])
     elif model_library == "huggingface":
-        model = HFModelWrapper(config["model"]["path"], config["model"].get("chat", True))
+        model = HFModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True), batch_size)
+    elif model_library.lower() == "vllm":
+        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True))
     else:
-        raise ValueError('Unsupported model library. Only supported libraries are "nemo" and "huggingface"')
+        raise ValueError('Unsupported model library. Only supported libraries are "nemo", "huggingface", and "vllm"')
     model.print_model_info(f_out)
     benchmarks = config["benchmarks"]
 
@@ -140,19 +147,28 @@ def run_engine(config, output_file):
                     last_labels = []
                 predictions = []
 
-                for prompt, majority_label, last_label in tqdm(data_loader.get_eval_data_iterator(k), total=data_loader.eval_data_size()):
+                # build list of prompts
+                prompts = []
+                for prompt, majority_label, last_label in data_loader.get_eval_data_iterator(k):
                     if k > 0:
                         majority_labels.append(majority_label)
                         last_labels.append(last_label)
 
+                    prompts.append(prompt)
+
+                # Split prompts into batches
+                batches = Torch_DL(prompts, batch_size=batch_size)
+
+                # run prediction for every batch
+                for batch in tqdm(batches, total=ceil(data_loader.eval_data_size()/batch_size)):
                     try:
-                        prediction = model.generate(prompt)
+                        batch_prediction = model.generate(batch)
 
-                    except:
-                        warnings.warn(f"An error occured while generating response for the following prompt: {prompt}")
-                        prediction = "An error ocured during generation. Invalid prediction."
+                    except Exception as ex:
+                        warnings.warn(f"An error occured while generating responses for one of the batches: {ex}")
+                        batch_prediction = ["An error ocured during generation. Invalid prediction."] * len(batch)
 
-                    predictions.append(prediction)
+                    predictions.extend(batch_prediction)
 
                 print(f"Running {k}-shot evaluation for {dataset}")
                 f_out.write(f"\nFull prompt scheme used:\n")

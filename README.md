@@ -8,6 +8,7 @@ This framework supports evaluation of generative (decoder-type) models on [SloBe
 Currently supported model libraries:
 - Huggingface
 - NeMo
+- vLLM
 
 ---
 
@@ -73,7 +74,7 @@ Here's a detailed description of each field in the provided JSON configuration:
 
    - **`library`**: Specifies the library used to load the model. Two options are `huggingface` and `nemo`
    - **`path`**: The local path of the model or the model ID in HuggingFace's model hub.
-   - **`chat_model`** (only for Huggingface models): Indicates whether the model is a chat model.
+   - **`apply_chat_template`** (only for Huggingface and vLLM models): Indicates whether the chat template is applied
 
 2. **`prompt_scheme_file`**:
    - File for storing the prompt schemes of all prompts that are to be used in the evaluation process.
