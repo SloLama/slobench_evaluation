@@ -3,6 +3,7 @@
 This framework supports evaluation of generative (decoder-type) models on [SloBench](https://slobench.cjvt.si) tasks. The frameowrk can either be used for offline evaluation of the models on validation set or to prepare the test set submission for online evaluation. Currently supported tasks:
 - Slovene SuperGLUE
 - SI-NLI
+- Machine Translation (ENG -> SLO)
 
 Currently supported model libraries:
 - Huggingface

@@ -15,19 +15,20 @@ SUPPORTED_DATASETS = [
     "COPA",
     "RTE",
     "CB",
-    "NLI"
+    "NLI",
+    "EnSl_translation"
 ]
 
 
-def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBenchDataLoader:
+def load_data(dataset, load_ht, load_mt, seed, prompt_template, instruction, prefix) -> SloBenchDataLoader:
     assert (
-            dataset=="NLI" or load_ht or load_mt
+            dataset in ["NLI", "EnSl_translation"] or load_ht or load_mt
     ), "Loading MT and HT are both set to False. At least one must be set to True."
 
-    if not (dataset == "NLI" or load_ht):
+    if not (dataset in ["NLI", "EnSl_translation"] or load_ht):
         warnings.warn(
             f"Loading human translated data is set to False for {dataset}. Loading only machine translated data.")
-    if not (dataset in ["WSC", "NLI"] or load_mt):
+    if not (dataset in ["WSC", "NLI", "EnSl_translation"] or load_mt):
         warnings.warn(
             f"Loading machine translated data is set to False for {dataset}. Loading only human translated data.")
 
@@ -36,19 +37,21 @@ def load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix) -> SloBe
             "Ignoring config values for machine translated and human translated data as WSC includes only human translated data.")
 
     if dataset == "BoolQ":
-        data_loader = BoolQTestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = BoolQTestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "MultiRC":
-        data_loader = MultiRCTestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = MultiRCTestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "WSC":
         data_loader = WSCTestLoader(human_translated=True, machine_translated=False, seed=seed, prompt_template=prompt_template, prefix=prefix)
     elif dataset == "COPA":
-        data_loader = COPATestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = COPATestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "RTE":
-        data_loader = RTETestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = RTETestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "CB":
-        data_loader = CBTestLoader(load_ht, load_mt, seed, prompt_template, prefix)
+        data_loader = CBTestLoader(load_ht, load_mt, seed, prompt_template, instruction, prefix)
     elif dataset == "NLI":
-        data_loader = NLITestDataLoader(None, None, seed, prompt_template, prefix)
+        data_loader = NLITestDataLoader(None, None, seed, prompt_template, instruction, prefix)
+    elif dataset == "EnSl_translation":
+        data_loader = EnSlTranslationDataLoader(None, None, None, prompt_template, instruction, prefix)
 
     print(f"Loading {dataset} data.")
     data_loader.load_data()
@@ -74,6 +77,8 @@ def get_creator(dataset, output_dir) -> SlobenchSubmissionCreator:
         return WSCSubmissionCreator(output_dir)
     if dataset == "NLI":
         return NLISubmissionCreator(output_dir)
+    if dataset == "EnSl_translation":
+        return EnSloTranslationSubmissionCreator(output_dir)
 
 
 def prepare_submission(config, output_dir):
@@ -86,10 +91,11 @@ def prepare_submission(config, output_dir):
         raise ValueError('Unsupported model library. Only supported libraries are "nemo" and "huggingface"')
     benchmarks = config["benchmarks"]
 
-    os.makedirs(output_dir, exist_ok=True)
+    # get prompt schemes
+    with open(config["prompt_scheme_file"], "r", encoding="utf-8") as scheme_file:
+        prompt_schemes = json.load(scheme_file)
 
-    default_template = "{instruction}\n\n{input}\n"
-    prompt_template = config.get("prompt_template", default_template)
+    os.makedirs(output_dir, exist_ok=True)
 
     for benchmark in benchmarks:
         dataset = benchmark["dataset"]
@@ -97,14 +103,21 @@ def prepare_submission(config, output_dir):
                 dataset in SUPPORTED_DATASETS
         ), f'{dataset} is not supported. Currently supported datasets: {SUPPORTED_DATASETS}'
 
+
         model.set_generation_params(dataset)
 
         load_ht = benchmark.get("human_translated", False)
         load_mt = benchmark.get("machine_translated", False)
         seed = benchmark.get("seed", 42)
-        prefix = benchmark.get("prefix", None)
-        data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template, prefix)
-        k = benchmark.get("k", 0)
+
+        prompt_scheme = prompt_schemes[dataset]
+        default_template = "{instruction}\n\n{input}\n"
+        prompt_template = prompt_scheme.get("prompt_template", default_template)
+        instruction = prompt_scheme["instruction"]
+        prefix = prompt_scheme.get("prefix", None)
+
+        data_loader = load_data(dataset, load_ht, load_mt, seed, prompt_template, instruction, prefix)
+        k = prompt_scheme.get("k", 0)
 
         creator = get_creator(dataset, output_dir)
         predictions = []

@@ -663,3 +663,44 @@ class NLITestDataLoader(NLILoader):
     def load_data(self):
         self.train_data = pd.read_csv(os.path.join(NLI_DATA_DIR, "train.tsv"), sep="\t", index_col="pair_id")
         self.eval_data = pd.read_csv(os.path.join(TEST_DATA_DIR, "tsv", "test_without_labels.tsv"), sep="\t")
+
+
+class EnSlTranslationDataLoader(SloBenchDataLoader):
+    def __init__(self, human_translated, machine_translated, seed, prompt_template, instruction, prefix):
+        super().__init__(human_translated, machine_translated, seed, prompt_template, instruction, prefix)
+        self.dataset = "EnSl_translation"
+        self.prompt_creator = EnSlTranslationPromptCreator(prompt_template, instruction, prefix)
+
+    def load_data(self):
+        self.train_data = None
+
+        eval_file = os.path.join(TEST_DATA_DIR, "translation", "slobench_ensl.en.txt")
+        f_in = open(eval_file, "r")
+        self.eval_data = f_in.read().split("\n")
+
+    def train_data_size(self):
+        return 0
+
+    def _compute_size(self, dataset):
+        return len(dataset)
+
+    def _data_iter(self, dataset):
+        return iter(dataset)
+
+    def _get_few_shot_examples(self, instance, k):
+        assert k == 0, "Only 0-shot examples are currently supported for EnSl translation."
+
+        return []
+
+    def get_eval_data_iterator(self, k):
+        for instance in self._eval_iter():
+            examples = self._get_few_shot_examples(instance, k)
+            prompt, example_labels = self.prompt_creator.create_few_shot_prompt(instance, examples)
+
+            if k == 0:
+                majority_label, last_label = None, None
+            else:
+                majority_label = self._get_majority_label(example_labels)
+                last_label = example_labels[-1]
+
+            yield prompt, majority_label, last_label
