@@ -87,9 +87,9 @@ def prepare_submission(config, output_dir):
     if model_library == "nemo":
         model = NemoModelWrapper(config["model"]["path"])
     elif model_library == "huggingface":
-        model = HFModelWrapper(config["model"]["path"], config["model"].get("chat", True), batch_size=batch_size)
+        model = HFModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True), batch_size=batch_size)
     elif model_library.lower() == "vllm":
-        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("chat", True))
+        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True))
     else:
         raise ValueError('Unsupported model library. Only supported libraries are "nemo", "huggingface", and "vllm"')
     benchmarks = config["benchmarks"]
@@ -129,9 +129,8 @@ def prepare_submission(config, output_dir):
         for prompt, _, _ in data_loader.get_eval_data_iterator(k):
             prompts.append(prompt)
 
-        # sort prompts by length and split into batches
-        sorted_prompts = sorted(prompts, key=lambda x: len(x))
-        batches = Torch_DL(sorted_prompts, batch_size=batch_size)
+        # Split data into batches
+        batches = Torch_DL(prompts, batch_size=batch_size)
 
         print(f"Processing {dataset} predictions ...")
         for batch in tqdm(batches, total=ceil(data_loader.eval_data_size()/batch_size)):
