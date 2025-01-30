@@ -1,0 +1,8 @@
+{
+    "BoolQ": ["Da", "Ne"],
+    "CB": ["Drži", "Ne drži", "Ne vemo"],
+    "COPA": ["1", "2"],
+    "RTE": ["Drži", "Ne drži"],
+    "WSC": ["Da", "Ne"],
+    "NLI": ["Sosledje", "Nasprotovanje", "Nevtralnost"]
+}

@@ -161,9 +161,10 @@ class HFModelWrapper(ModelWrapper):
 
 
 class VLLMModelWrapper(ModelWrapper):
-    def __init__(self, model_path, chat_model, **kwargs):
+    def __init__(self, model_path, chat_model, guided_decoding, **kwargs):
         super().__init__(model_path)
         self.chat_model = chat_model
+        self.guided_decoding = guided_decoding
 
         from vllm import LLM
         self.model = LLM(model_path, **kwargs)
@@ -172,6 +173,20 @@ class VLLMModelWrapper(ModelWrapper):
         super().print_model_info(f_out)
 
     def set_generation_params(self, dataset):
+        def construct_multirc_combinations():
+            # construct valid combinations list for MultiRC
+            from itertools import combinations
+            final_combos = list()
+
+            for k in range(1, 11):
+                for combo in combinations(list(range(1, 11)), k):
+                    if len(combo) == 1:
+                        final_combos.append(str(combo[0]))
+                    else:
+                        final_combos.append(", ".join([str(x) for x in combo]))
+
+            return final_combos
+
         super().set_generation_params(dataset)
 
         length_params, sampling_params = self.generation_params["length_params"], self.generation_params["sampling_params"]
@@ -189,9 +204,27 @@ class VLLMModelWrapper(ModelWrapper):
             self.generation_params["top_k"] = -1
             self.generation_params["top_p"] = 1
 
+        # handle guided decoding
+        if self.guided_decoding:
+            import json
+            with open("guided_decoding.json", "r", encoding="utf-8") as guided_decoding_file:
+                choices = json.load(guided_decoding_file)
+
+            if dataset == "WSC_generative":
+                raise Exception(f"The guided decoding setting does not support {dataset}")
+            elif dataset == "MultiRC":
+                self.guided_decoding_choice = construct_multirc_combinations()
+            else:
+                self.guided_decoding_choice = choices[dataset]
+
     def generate(self, batch):
         from vllm import SamplingParams
-        sampling_params = SamplingParams(**self.generation_params)
+        if self.guided_decoding:
+            from vllm.sampling_params import GuidedDecodingParams
+            guided_decoding_params = GuidedDecodingParams(choice=self.guided_decoding_choice)
+            sampling_params = SamplingParams(guided_decoding=guided_decoding_params, **self.generation_params)
+        else:
+            sampling_params = SamplingParams(**self.generation_params)
 
         predictions = []
         if self.chat_model:
