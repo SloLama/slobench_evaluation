@@ -10,6 +10,8 @@ from evaluators import *
 from data_loaders import *
 from model_wrappers import *
 
+from process_results.run_processing import run_processing
+
 SUPPORTED_DATASETS = [
     "BoolQ",
     "MultiRC",
@@ -83,7 +85,7 @@ def get_evaluator(dataset, f_out) -> SloBenchEvaluator:
         return NLIEvaluator(f_out)
 
 
-def run_engine(config, output_file):
+def run_engine(config, output_file, processed_results_file):
     f_out = open(output_file, "w")
 
     # get batch size
@@ -107,12 +109,15 @@ def run_engine(config, output_file):
     with open(config["prompt_scheme_file"], "r", encoding="utf-8") as scheme_file:
         prompt_schemes = json.load(scheme_file)
 
+    processed_datasets = []
+
     # go through all included benchmarks
     for benchmark in benchmarks:
         dataset = benchmark["dataset"]
         assert (
                 dataset in SUPPORTED_DATASETS
         ), f'{dataset} is not supported. Currently supported datasets: {SUPPORTED_DATASETS}'
+        processed_datasets.append(dataset)
 
         load_ht = benchmark.get("human_translated", False)
         load_mt = benchmark.get("machine_translated", False)
@@ -199,15 +204,30 @@ def run_engine(config, output_file):
 
     f_out.close()
 
+    if processed_results_file is not None:
+        processing_dir = os.path.join(*os.path.split(output_file)[:-1])
+        print(f"Processing results in dir: {processing_dir}")
+        run_processing(processing_dir, processed_results_file, processed_datasets)
 
-if __name__ == "__main__":
+
+def parse_args():
     argparser = ArgumentParser()
     argparser.add_argument("--config", type=str, required=True,
                            help="Path to the JSON file containing evaluation configuration.")
     argparser.add_argument("--output_file", type=str, required=True, help="Path to the output file.")
-    args = argparser.parse_args()
+    argparser.add_argument("--processed_results_file",
+                               type=str,
+                               default=None,
+                               help="Path to the CSV files to store the processed results. If none is provided, the results won't be processed to CSV"
+                           )
+    return argparser.parse_args()
+
+
+
+if __name__ == "__main__":
+    args = parse_args()
 
     with open(args.config, "r") as file:
         config = json.load(file)
 
-    run_engine(config, args.output_file)
+    run_engine(config, args.output_file, args.processed_results_file)
