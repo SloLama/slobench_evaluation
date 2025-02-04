@@ -259,7 +259,7 @@ class BoolQEvaluator(SloBenchEvaluator):
             pred = pred.strip()
 
             if len(pred) > 3:
-                pred = pred[:3]
+                pred = pred[:3].strip()
 
             if pred.lower() in ["da.", "da", "da,"]:
                 return True
