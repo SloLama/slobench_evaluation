@@ -1,4 +1,5 @@
 import os
+import warnings
 
 
 class ModelWrapper:
@@ -161,9 +162,10 @@ class HFModelWrapper(ModelWrapper):
 
 
 class VLLMModelWrapper(ModelWrapper):
-    def __init__(self, model_path, chat_model, **kwargs):
+    def __init__(self, model_path, chat_model, guided_decoding, **kwargs):
         super().__init__(model_path)
         self.chat_model = chat_model
+        self.guided_decoding = guided_decoding
 
         from vllm import LLM
         self.model = LLM(model_path, **kwargs)
@@ -172,7 +174,21 @@ class VLLMModelWrapper(ModelWrapper):
         super().print_model_info(f_out)
 
     def set_generation_params(self, dataset):
-        super().set_generation_params(dataset)
+        # define the possible choices for guided decoding in the form of a regular expression
+        guided_decoding_options = {
+            "BoolQ": "(Da|Ne)",
+            "WSC": "(Da|Ne)",
+            "COPA": "(1|2)",
+            "RTE": "(Drži|Ne drži)",
+            "CB": "(Drži|Ne drži|Ne vemo)",
+            "NLI": "(Sosledje|Nasprotovanje|Nevtralnost)",
+            "MultiRC": "\d{1,2}(, \d{1,2})*"
+        }
+
+        # set the currently active dataset. vLLM's generate function requires access to this attribute
+        self.current_dataset = dataset
+
+        super().set_generation_params(self.current_dataset)
 
         length_params, sampling_params = self.generation_params["length_params"], self.generation_params["sampling_params"]
 
@@ -189,9 +205,24 @@ class VLLMModelWrapper(ModelWrapper):
             self.generation_params["top_k"] = -1
             self.generation_params["top_p"] = 1
 
+        # handle guided decoding
+        if self.guided_decoding:
+            if self.current_dataset == "WSC_generative":
+                warnings.warn("WSC_generative is a generative task. Therefore, guided decoding will not be used for "
+                              "this task.")
+
+            else:
+                self.guided_decoding_choice = guided_decoding_options[dataset]
+
     def generate(self, batch):
         from vllm import SamplingParams
-        sampling_params = SamplingParams(**self.generation_params)
+        if self.guided_decoding and self.current_dataset != "WSC_generative":
+            from vllm.sampling_params import GuidedDecodingParams
+            guided_decoding_params = GuidedDecodingParams(regex=self.guided_decoding_choice,
+                                                          backend="lm-format-enforcer")
+            sampling_params = SamplingParams(guided_decoding=guided_decoding_params, **self.generation_params)
+        else:
+            sampling_params = SamplingParams(**self.generation_params)
 
         predictions = []
         if self.chat_model:

@@ -99,7 +99,8 @@ def run_engine(config, output_file, processed_results_file):
         model = HFModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True), batch_size)
     elif model_library.lower() == "vllm":
         model_kwargs = config["model"].get("model_kwargs", {})
-        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True), **model_kwargs)
+        model = VLLMModelWrapper(config["model"]["path"], config["model"].get("apply_chat_template", True),
+                                 config["model"].get("guided_decoding", False), **model_kwargs)
     else:
         raise ValueError('Unsupported model library. Only supported libraries are "nemo", "huggingface", and "vllm"')
     model.print_model_info(f_out)
