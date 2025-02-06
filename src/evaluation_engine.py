@@ -104,9 +104,6 @@ def run_engine(config, output_file):
     model.print_model_info(f_out)
     benchmarks = config["benchmarks"]
 
-    if config["model"].get("guided_decoding", False) and "WSC_generative" in benchmarks:
-        raise Exception("The guided decoding setting does not currently support WSC_generative")
-
     # get prompt schemes
     with open(config["prompt_scheme_file"], "r", encoding="utf-8") as scheme_file:
         prompt_schemes = json.load(scheme_file)

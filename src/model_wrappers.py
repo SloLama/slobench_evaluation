@@ -1,4 +1,5 @@
 import os
+import warnings
 
 
 class ModelWrapper:
@@ -173,21 +174,21 @@ class VLLMModelWrapper(ModelWrapper):
         super().print_model_info(f_out)
 
     def set_generation_params(self, dataset):
-        def construct_multirc_combinations():
-            # construct valid combinations list for MultiRC
-            from itertools import combinations
-            final_combos = list()
+        # define the possible choices for guided decoding in the form of a regular expression
+        guided_decoding_options = {
+            "BoolQ": "(Da|Ne)",
+            "WSC": "(Da|Ne)",
+            "COPA": "(1|2)",
+            "RTE": "(Drži|Ne drži)",
+            "CB": "(Drži|Ne drži|Ne vemo)",
+            "NLI": "(Sosledje|Nasprotovanje|Nevtralnost)",
+            "MultiRC": "\d{1,2}(, \d{1,2})*"
+        }
 
-            for k in range(1, 11):
-                for combo in combinations(list(range(1, 11)), k):
-                    if len(combo) == 1:
-                        final_combos.append(str(combo[0]))
-                    else:
-                        final_combos.append(", ".join([str(x) for x in combo]))
+        # set the currently active dataset. vLLM's generate function requires access to this attribute
+        self.current_dataset = dataset
 
-            return final_combos
-
-        super().set_generation_params(dataset)
+        super().set_generation_params(self.current_dataset)
 
         length_params, sampling_params = self.generation_params["length_params"], self.generation_params["sampling_params"]
 
@@ -206,22 +207,19 @@ class VLLMModelWrapper(ModelWrapper):
 
         # handle guided decoding
         if self.guided_decoding:
-            import json
-            with open("guided_decoding.json", "r", encoding="utf-8") as guided_decoding_file:
-                choices = json.load(guided_decoding_file)
+            if self.current_dataset == "WSC_generative":
+                warnings.warn("WSC_generative is a generative task. Therefore, guided decoding will not be used for "
+                              "this task.")
 
-            if dataset == "WSC_generative":
-                raise Exception(f"The guided decoding setting does not support {dataset}")
-            elif dataset == "MultiRC":
-                self.guided_decoding_choice = construct_multirc_combinations()
             else:
-                self.guided_decoding_choice = choices[dataset]
+                self.guided_decoding_choice = guided_decoding_options[dataset]
 
     def generate(self, batch):
         from vllm import SamplingParams
-        if self.guided_decoding:
+        if self.guided_decoding and self.current_dataset != "WSC_generative":
             from vllm.sampling_params import GuidedDecodingParams
-            guided_decoding_params = GuidedDecodingParams(choice=self.guided_decoding_choice)
+            guided_decoding_params = GuidedDecodingParams(regex=self.guided_decoding_choice,
+                                                          backend="lm-format-enforcer")
             sampling_params = SamplingParams(guided_decoding=guided_decoding_params, **self.generation_params)
         else:
             sampling_params = SamplingParams(**self.generation_params)
