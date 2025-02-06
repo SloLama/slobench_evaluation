@@ -75,7 +75,7 @@ Here's a detailed description of each field in the provided JSON configuration:
    - **`library`**: Specifies the library used to load the model. Two options are `huggingface` and `nemo`
    - **`path`**: The local path of the model or the model ID in HuggingFace's model hub.
    - **`apply_chat_template`**: (only for Huggingface and vLLM models): Indicates whether the chat template is applied
-   - **`guided_decoding`** (vLLM models only): Indicates whether you want to restrict the model's output to only certain specific values. The valid model outputs are defined in the `guided_decoding.json` file. This option is currently not supported for the WSC_generative benchmark.
+   - **`guided_decoding`** (vLLM models only): Indicates whether you want to restrict the model's output to only certain specific values. This option is not supported for the WSC_generative benchmark.
    - **`model_kwargs`** (vLLM models only): Additional arguments that can be specified in vLLM [LLM initialization](https://docs.vllm.ai/en/stable/dev/offline_inference/llm.html)
 
 2. **`prompt_scheme_file`**:
